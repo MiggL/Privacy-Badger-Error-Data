@@ -1,0 +1,49 @@
+[
+  {
+    "timestamp": 1583003192825.082,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 2910,
+      "columnNumber": 6,
+      "url": "http://sysadminsjourney.com/",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "23",
+            "url": "http://sysadminsjourney.com/",
+            "lineNumber": 2910,
+            "columnNumber": 6
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: $.domReady is not a function\n    at http://sysadminsjourney.com/:2911:7",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: $.domReady is not a function\n    at http://sysadminsjourney.com/:2911:7",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: $.domReady is not a function\n    at http://sysadminsjourney.com/:2911:7"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "$.domReady is not a function"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

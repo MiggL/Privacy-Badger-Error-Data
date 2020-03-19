@@ -1,0 +1,70 @@
+[
+  {
+    "timestamp": 1582815093410.804,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 1,
+      "columnNumber": 73586,
+      "url": "https://includemodal.global.ssl.fastly.net/sp.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "_0x3063a5.<computed>.<computed>",
+            "scriptId": "148",
+            "url": "https://includemodal.global.ssl.fastly.net/sp.js",
+            "lineNumber": 1,
+            "columnNumber": 73586
+          },
+          {
+            "functionName": "_0x3063a5",
+            "scriptId": "148",
+            "url": "https://includemodal.global.ssl.fastly.net/sp.js",
+            "lineNumber": 1,
+            "columnNumber": 70473
+          },
+          {
+            "functionName": "",
+            "scriptId": "148",
+            "url": "https://includemodal.global.ssl.fastly.net/sp.js",
+            "lineNumber": 1,
+            "columnNumber": 121091
+          },
+          {
+            "functionName": "",
+            "scriptId": "148",
+            "url": "https://includemodal.global.ssl.fastly.net/sp.js",
+            "lineNumber": 1,
+            "columnNumber": 150862
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'trim' of undefined\n    at _0x3063a5.<computed>.<computed> [as isframed] (https://includemodal.global.ssl.fastly.net/sp.js:2:73587)\n    at new _0x3063a5 (https://includemodal.global.ssl.fastly.net/sp.js:2:70474)\n    at https://includemodal.global.ssl.fastly.net/sp.js:2:121092\n    at https://includemodal.global.ssl.fastly.net/sp.js:2:150863",
+        "objectId": "{\"injectedScriptId\":19,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'trim' of undefined\n    at _0x3063a5.<computed>.<computed> [as isframed] (https://includemodal.global.ssl.fastly.net/sp.js:2:73587)\n    at new _0x3063a5 (https://includemodal.global.ssl.fastly.net/sp.js:2:70474)\n    at https://includemodal.global.ssl.fastly.net/sp.js:2:121092\n    at https://includemodal.global.ssl.fastly.net/sp.js:2:150863",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'trim' of undefine…includemodal.global.ssl.fastly.net/sp.js:2:150863"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'trim' of undefined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 19
+    }
+  }
+]

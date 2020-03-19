@@ -1,0 +1,216 @@
+[
+  {
+    "timestamp": 1582818513406.107,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 13,
+      "columnNumber": 31258,
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "126../tealium/tealium",
+            "scriptId": "22",
+            "url": "",
+            "lineNumber": 13,
+            "columnNumber": 31258
+          },
+          {
+            "functionName": "r",
+            "scriptId": "22",
+            "url": "",
+            "lineNumber": 0,
+            "columnNumber": 253
+          },
+          {
+            "functionName": "eval",
+            "scriptId": "22",
+            "url": "",
+            "lineNumber": 0,
+            "columnNumber": 304
+          },
+          {
+            "functionName": "34../address-util",
+            "scriptId": "22",
+            "url": "",
+            "lineNumber": 4,
+            "columnNumber": 15096
+          },
+          {
+            "functionName": "r",
+            "scriptId": "22",
+            "url": "",
+            "lineNumber": 0,
+            "columnNumber": 253
+          },
+          {
+            "functionName": "e",
+            "scriptId": "22",
+            "url": "",
+            "lineNumber": 0,
+            "columnNumber": 419
+          },
+          {
+            "functionName": "eval",
+            "scriptId": "22",
+            "url": "",
+            "lineNumber": 0,
+            "columnNumber": 436
+          },
+          {
+            "functionName": "globalEval",
+            "scriptId": "12",
+            "url": "https://www.asics.com/on/demandware.static/Sites-asics-us-Site/-/en_US/v1582817477699/lib/jquery/jquery-2.1.1.min.js",
+            "lineNumber": 1,
+            "columnNumber": 2535
+          },
+          {
+            "functionName": "text script",
+            "scriptId": "12",
+            "url": "https://www.asics.com/on/demandware.static/Sites-asics-us-Site/-/en_US/v1582817477699/lib/jquery/jquery-2.1.1.min.js",
+            "lineNumber": 3,
+            "columnNumber": 15255
+          },
+          {
+            "functionName": "vc",
+            "scriptId": "12",
+            "url": "https://www.asics.com/on/demandware.static/Sites-asics-us-Site/-/en_US/v1582817477699/lib/jquery/jquery-2.1.1.min.js",
+            "lineNumber": 3,
+            "columnNumber": 7380
+          },
+          {
+            "functionName": "x",
+            "scriptId": "12",
+            "url": "https://www.asics.com/on/demandware.static/Sites-asics-us-Site/-/en_US/v1582817477699/lib/jquery/jquery-2.1.1.min.js",
+            "lineNumber": 3,
+            "columnNumber": 10801
+          },
+          {
+            "functionName": "",
+            "scriptId": "12",
+            "url": "https://www.asics.com/on/demandware.static/Sites-asics-us-Site/-/en_US/v1582817477699/lib/jquery/jquery-2.1.1.min.js",
+            "lineNumber": 3,
+            "columnNumber": 14766
+          },
+          {
+            "functionName": "send",
+            "scriptId": "12",
+            "url": "https://www.asics.com/on/demandware.static/Sites-asics-us-Site/-/en_US/v1582817477699/lib/jquery/jquery-2.1.1.min.js",
+            "lineNumber": 3,
+            "columnNumber": 14954
+          },
+          {
+            "functionName": "ajax",
+            "scriptId": "12",
+            "url": "https://www.asics.com/on/demandware.static/Sites-asics-us-Site/-/en_US/v1582817477699/lib/jquery/jquery-2.1.1.min.js",
+            "lineNumber": 3,
+            "columnNumber": 10578
+          },
+          {
+            "functionName": "n._evalUrl",
+            "scriptId": "12",
+            "url": "https://www.asics.com/on/demandware.static/Sites-asics-us-Site/-/en_US/v1582817477699/lib/jquery/jquery-2.1.1.min.js",
+            "lineNumber": 3,
+            "columnNumber": 11798
+          },
+          {
+            "functionName": "domManip",
+            "scriptId": "12",
+            "url": "https://www.asics.com/on/demandware.static/Sites-asics-us-Site/-/en_US/v1582817477699/lib/jquery/jquery-2.1.1.min.js",
+            "lineNumber": 2,
+            "columnNumber": 17144
+          },
+          {
+            "functionName": "append",
+            "scriptId": "12",
+            "url": "https://www.asics.com/on/demandware.static/Sites-asics-us-Site/-/en_US/v1582817477699/lib/jquery/jquery-2.1.1.min.js",
+            "lineNumber": 2,
+            "columnNumber": 14845
+          },
+          {
+            "functionName": "",
+            "scriptId": "12",
+            "url": "https://www.asics.com/on/demandware.static/Sites-asics-us-Site/-/en_US/v1582817477699/lib/jquery/jquery-2.1.1.min.js",
+            "lineNumber": 2,
+            "columnNumber": 16205
+          },
+          {
+            "functionName": "n.access",
+            "scriptId": "12",
+            "url": "https://www.asics.com/on/demandware.static/Sites-asics-us-Site/-/en_US/v1582817477699/lib/jquery/jquery-2.1.1.min.js",
+            "lineNumber": 1,
+            "columnNumber": 30072
+          },
+          {
+            "functionName": "html",
+            "scriptId": "12",
+            "url": "https://www.asics.com/on/demandware.static/Sites-asics-us-Site/-/en_US/v1582817477699/lib/jquery/jquery-2.1.1.min.js",
+            "lineNumber": 2,
+            "columnNumber": 15876
+          },
+          {
+            "functionName": "function_name",
+            "scriptId": "13",
+            "url": "https://www.asics.com/us/en-us/404/",
+            "lineNumber": 24,
+            "columnNumber": 29
+          },
+          {
+            "functionName": "j",
+            "scriptId": "12",
+            "url": "https://www.asics.com/on/demandware.static/Sites-asics-us-Site/-/en_US/v1582817477699/lib/jquery/jquery-2.1.1.min.js",
+            "lineNumber": 1,
+            "columnNumber": 26859
+          },
+          {
+            "functionName": "fireWith",
+            "scriptId": "12",
+            "url": "https://www.asics.com/on/demandware.static/Sites-asics-us-Site/-/en_US/v1582817477699/lib/jquery/jquery-2.1.1.min.js",
+            "lineNumber": 1,
+            "columnNumber": 27672
+          },
+          {
+            "functionName": "x",
+            "scriptId": "12",
+            "url": "https://www.asics.com/on/demandware.static/Sites-asics-us-Site/-/en_US/v1582817477699/lib/jquery/jquery-2.1.1.min.js",
+            "lineNumber": 3,
+            "columnNumber": 11119
+          },
+          {
+            "functionName": "",
+            "scriptId": "12",
+            "url": "https://www.asics.com/on/demandware.static/Sites-asics-us-Site/-/en_US/v1582817477699/lib/jquery/jquery-2.1.1.min.js",
+            "lineNumber": 3,
+            "columnNumber": 14766
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: SitePreferences is not defined\n    at Object.126../tealium/tealium (eval at globalEval (https://www.asics.com/on/demandware.static/Sites-asics-us-Site/-/en_US/v1582817477699/lib/jquery/jquery-2.1.1.min.js:2:2536), <anonymous>:14:31259)\n    at r (eval at globalEval (https://www.asics.com/on/demandware.static/Sites-asics-us-Site/-/en_US/v1582817477699/lib/jquery/jquery-2.1.1.min.js:2:2536), <anonymous>:1:254)\n    at eval (eval at globalEval (https://www.asics.com/on/demandware.static/Sites-asics-us-Site/-/en_US/v1582817477699/lib/jquery/jquery-2.1.1.min.js:2:2536), <anonymous>:1:305)\n    at Object.34../address-util (eval at globalEval (https://www.asics.com/on/demandware.static/Sites-asics-us-Site/-/en_US/v1582817477699/lib/jquery/jquery-2.1.1.min.js:2:2536), <anonymous>:5:15097)\n    at r (eval at globalEval (https://www.asics.com/on/demandware.static/Sites-asics-us-Site/-/en_US/v1582817477699/lib/jquery/jquery-2.1.1.min.js:2:2536), <anonymous>:1:254)\n    at e (eval at globalEval (https://www.asics.com/on/demandware.static/Sites-asics-us-Site/-/en_US/v1582817477699/lib/jquery/jquery-2.1.1.min.js:2:2536), <anonymous>:1:420)\n    at eval (eval at globalEval (https://www.asics.com/on/demandware.static/Sites-asics-us-Site/-/en_US/v1582817477699/lib/jquery/jquery-2.1.1.min.js:2:2536), <anonymous>:1:437)\n    at eval (<anonymous>)\n    at Function.globalEval (https://www.asics.com/on/demandware.static/Sites-asics-us-Site/-/en_US/v1582817477699/lib/jquery/jquery-2.1.1.min.js:2:2536)\n    at text script (https://www.asics.com/on/demandware.static/Sites-asics-us-Site/-/en_US/v1582817477699/lib/jquery/jquery-2.1.1.min.js:4:15256)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: SitePreferences is not defined\n    at Object.126../tealium/tealium (eval at globalEval (https://www.asics.com/on/demandware.static/Sites-asics-us-Site/-/en_US/v1582817477699/lib/jquery/jquery-2.1.1.min.js:2:2536), <anonymous>:14:31259)\n    at r (eval at globalEval (https://www.asics.com/on/demandware.static/Sites-asics-us-Site/-/en_US/v1582817477699/lib/jquery/jquery-2.1.1.min.js:2:2536), <anonymous>:1:254)\n    at eval (eval at globalEval (https://www.asics.com/on/demandware.static/Sites-asics-us-Site/-/en_US/v1582817477699/lib/jquery/jquery-2.1.1.min.js:2:2536), <anonymous>:1:305)\n    at Object.34../address-util (eval at globalEval (https://www.asics.com/on/demandware.static/Sites-asics-us-Site/-/en_US/v1582817477699/lib/jquery/jquery-2.1.1.min.js:2:2536), <anonymous>:5:15097)\n    at r (eval at globalEval (https://www.asics.com/on/demandware.static/Sites-asics-us-Site/-/en_US/v1582817477699/lib/jquery/jquery-2.1.1.min.js:2:2536), <anonymous>:1:254)\n    at e (eval at globalEval (https://www.asics.com/on/demandware.static/Sites-asics-us-Site/-/en_US/v1582817477699/lib/jquery/jquery-2.1.1.min.js:2:2536), <anonymous>:1:420)\n    at eval (eval at globalEval (https://www.asics.com/on/demandware.static/Sites-asics-us-Site/-/en_US/v1582817477699/lib/jquery/jquery-2.1.1.min.js:2:2536), <anonymous>:1:437)\n    at eval (<anonymous>)\n    at Function.globalEval (https://www.asics.com/on/demandware.static/Sites-asics-us-Site/-/en_US/v1582817477699/lib/jquery/jquery-2.1.1.min.js:2:2536)\n    at text script (https://www.asics.com/on/demandware.static/Sites-asics-us-Site/-/en_US/v1582817477699/lib/jquery/jquery-2.1.1.min.js:4:15256)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: SitePreferences is not defined\n   …817477699/lib/jquery/jquery-2.1.1.min.js:4:15256)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "SitePreferences is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

@@ -1,0 +1,64 @@
+[
+  {
+    "timestamp": 1583007981149.144,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 148,
+      "columnNumber": 60,
+      "url": "https://www.telegraph.co.uk/men/the-filter/11258276/How-the-UK-became-a-nation-of-lager-drinkers.html",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "document.onreadystatechange",
+            "scriptId": "18",
+            "url": "https://www.telegraph.co.uk/men/the-filter/11258276/How-the-UK-became-a-nation-of-lager-drinkers.html",
+            "lineNumber": 148,
+            "columnNumber": 60
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot set property 'src' of null at HTMLDocument.document.onreadystatechange (https://www.telegraph.co.uk/men/the-filter/11258276/How-the-UK-became-a-nation-of-lager-drinkers.html:149:61)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot set property 'src' of null at HTMLDocument.document.onreadystatechange (https://www.telegraph.co.uk/men/the-filter/11258276/How-the-UK-became-a-nation-of-lager-drinkers.html:149:61)",
+          "overflow": true,
+          "properties": [
+            {
+              "name": "reported",
+              "type": "boolean",
+              "value": "true"
+            },
+            {
+              "name": "timestamp",
+              "type": "number",
+              "value": "1583007981147"
+            },
+            {
+              "name": "lineNumber",
+              "type": "string",
+              "value": "149"
+            },
+            {
+              "name": "columnNumber",
+              "type": "string",
+              "value": "61"
+            },
+            {
+              "name": "functionName",
+              "type": "string",
+              "value": "HTMLDocument.document.onreadystatechange"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

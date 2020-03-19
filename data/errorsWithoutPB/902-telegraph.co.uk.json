@@ -1,0 +1,49 @@
+[
+  {
+    "timestamp": 1583005119305.9658,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 149,
+      "columnNumber": 60,
+      "url": "https://www.telegraph.co.uk/foodanddrink/restaurants/9581559/Pair-banned-from-all-you-can-eat-restaurant-for-eating-too-much.html",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "document.onreadystatechange",
+            "scriptId": "18",
+            "url": "https://www.telegraph.co.uk/foodanddrink/restaurants/9581559/Pair-banned-from-all-you-can-eat-restaurant-for-eating-too-much.html",
+            "lineNumber": 149,
+            "columnNumber": 60
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot set property 'src' of null\n    at HTMLDocument.document.onreadystatechange (https://www.telegraph.co.uk/foodanddrink/restaurants/9581559/Pair-banned-from-all-you-can-eat-restaurant-for-eating-too-much.html:150:61)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot set property 'src' of null\n    at HTMLDocument.document.onreadystatechange (https://www.telegraph.co.uk/foodanddrink/restaurants/9581559/Pair-banned-from-all-you-can-eat-restaurant-for-eating-too-much.html:150:61)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot set property 'src' of null\n    a…n-eat-restaurant-for-eating-too-much.html:150:61)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot set property 'src' of null"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

@@ -1,0 +1,171 @@
+[
+  {
+    "timestamp": 1582818717889.401,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught (in promise)",
+      "lineNumber": 0,
+      "columnNumber": 4827,
+      "url": "https://a.teads.tv/media/format/v3/teads-format.min.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "t.match",
+            "scriptId": "137",
+            "url": "https://a.teads.tv/media/format/v3/teads-format.min.js",
+            "lineNumber": 0,
+            "columnNumber": 4827
+          },
+          {
+            "functionName": "",
+            "scriptId": "137",
+            "url": "https://a.teads.tv/media/format/v3/teads-format.min.js",
+            "lineNumber": 1,
+            "columnNumber": 110305
+          },
+          {
+            "functionName": "t.retrievePayloadFromPublisherCookie",
+            "scriptId": "137",
+            "url": "https://a.teads.tv/media/format/v3/teads-format.min.js",
+            "lineNumber": 1,
+            "columnNumber": 110204
+          },
+          {
+            "functionName": "",
+            "scriptId": "137",
+            "url": "https://a.teads.tv/media/format/v3/teads-format.min.js",
+            "lineNumber": 1,
+            "columnNumber": 107255
+          },
+          {
+            "functionName": "t.requestConsentString",
+            "scriptId": "137",
+            "url": "https://a.teads.tv/media/format/v3/teads-format.min.js",
+            "lineNumber": 1,
+            "columnNumber": 108080
+          },
+          {
+            "functionName": "t.getGDPRConsentString",
+            "scriptId": "137",
+            "url": "https://a.teads.tv/media/format/v3/teads-format.min.js",
+            "lineNumber": 1,
+            "columnNumber": 278604
+          },
+          {
+            "functionName": "t.onNonHeaderBidding",
+            "scriptId": "137",
+            "url": "https://a.teads.tv/media/format/v3/teads-format.min.js",
+            "lineNumber": 1,
+            "columnNumber": 277549
+          },
+          {
+            "functionName": "none",
+            "scriptId": "137",
+            "url": "https://a.teads.tv/media/format/v3/teads-format.min.js",
+            "lineNumber": 1,
+            "columnNumber": 274370
+          },
+          {
+            "functionName": "t.match",
+            "scriptId": "137",
+            "url": "https://a.teads.tv/media/format/v3/teads-format.min.js",
+            "lineNumber": 0,
+            "columnNumber": 4827
+          },
+          {
+            "functionName": "t",
+            "scriptId": "137",
+            "url": "https://a.teads.tv/media/format/v3/teads-format.min.js",
+            "lineNumber": 1,
+            "columnNumber": 274293
+          },
+          {
+            "functionName": "t.callRAS",
+            "scriptId": "137",
+            "url": "https://a.teads.tv/media/format/v3/teads-format.min.js",
+            "lineNumber": 8,
+            "columnNumber": 42531
+          },
+          {
+            "functionName": "",
+            "scriptId": "137",
+            "url": "https://a.teads.tv/media/format/v3/teads-format.min.js",
+            "lineNumber": 8,
+            "columnNumber": 71581
+          },
+          {
+            "functionName": "E",
+            "scriptId": "137",
+            "url": "https://a.teads.tv/media/format/v3/teads-format.min.js",
+            "lineNumber": 0,
+            "columnNumber": 36415
+          },
+          {
+            "functionName": "t.onReadyState",
+            "scriptId": "137",
+            "url": "https://a.teads.tv/media/format/v3/teads-format.min.js",
+            "lineNumber": 8,
+            "columnNumber": 77918
+          },
+          {
+            "functionName": "t.load",
+            "scriptId": "137",
+            "url": "https://a.teads.tv/media/format/v3/teads-format.min.js",
+            "lineNumber": 8,
+            "columnNumber": 70745
+          },
+          {
+            "functionName": "t.placement",
+            "scriptId": "137",
+            "url": "https://a.teads.tv/media/format/v3/teads-format.min.js",
+            "lineNumber": 8,
+            "columnNumber": 70340
+          },
+          {
+            "functionName": "placement",
+            "scriptId": "137",
+            "url": "https://a.teads.tv/media/format/v3/teads-format.min.js",
+            "lineNumber": 8,
+            "columnNumber": 69521
+          },
+          {
+            "functionName": "ttag",
+            "scriptId": "136",
+            "url": "https://a.teads.tv/page/90645/tag",
+            "lineNumber": 110,
+            "columnNumber": 24
+          }
+        ]
+      },
+      "exception": {
+        "type": "undefined"
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1582818717997.4229,
+    "exceptionDetails": {
+      "exceptionId": 2,
+      "text": "Uncaught (in promise)",
+      "lineNumber": 1,
+      "columnNumber": 111086,
+      "url": "https://a.teads.tv/media/format/v3/teads-format.min.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "s",
+            "scriptId": "137",
+            "url": "https://a.teads.tv/media/format/v3/teads-format.min.js",
+            "lineNumber": 1,
+            "columnNumber": 111086
+          }
+        ]
+      },
+      "exception": {
+        "type": "undefined"
+      },
+      "executionContextId": 3
+    }
+  }
+]

@@ -1,0 +1,86 @@
+[
+  {
+    "timestamp": 1583008860260.204,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 43,
+      "columnNumber": 47,
+      "scriptId": "135",
+      "url": "https://8296686.fls.doubleclick.net/activityi;dc_pre=CJCtpMbP9-cCFQK73godPboBpw;src=8296686;type=sciecema;cat=scien003;ord=2898723791253;gtm=2od2j0;auiddc=1223326503.1583008860;~oref=https%3A%2F%2Fscience.sciencemag.org%2Fcontent%2F350%2F6263%2F965?",
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "SyntaxError",
+        "description": "SyntaxError: Unexpected identifier",
+        "objectId": "{\"injectedScriptId\":13,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "SyntaxError: Unexpected identifier",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "SyntaxError: Unexpected identifier"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Unexpected identifier"
+            }
+          ]
+        }
+      },
+      "executionContextId": 13
+    }
+  },
+  {
+    "timestamp": 1583008860918.035,
+    "exceptionDetails": {
+      "exceptionId": 2,
+      "text": "Uncaught",
+      "lineNumber": 0,
+      "columnNumber": 41,
+      "url": "https://science.sciencemag.org/content/350/6263/965",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "onload",
+            "scriptId": "144",
+            "url": "https://science.sciencemag.org/content/350/6263/965",
+            "lineNumber": 0,
+            "columnNumber": 41
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'body' of null\n    at HTMLIFrameElement.onload (https://science.sciencemag.org/content/350/6263/965:1:42)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'body' of null\n    at HTMLIFrameElement.onload (https://science.sciencemag.org/content/350/6263/965:1:42)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'body' of null\n   …science.sciencemag.org/content/350/6263/965:1:42)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'body' of null"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "timestamp": 1583008963277.477,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 13,
+      "columnNumber": 729,
+      "url": "https://walkingdead.fandom.com/load.php?cb=1582888023147&debug=false&lang=en&modules=site&only=scripts&reviewed=1545065558&skin=oasis&*",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "toggleInit",
+            "scriptId": "52",
+            "url": "https://walkingdead.fandom.com/load.php?cb=1582888023147&debug=false&lang=en&modules=site&only=scripts&reviewed=1545065558&skin=oasis&*",
+            "lineNumber": 13,
+            "columnNumber": 729
+          },
+          {
+            "functionName": "window.runOnloadHook",
+            "scriptId": "36",
+            "url": "https://slot1-images.wikia.nocookie.net/__load/-/debug%3Dfalse%26lang%3Den%26skin%3Doasis%26version%3D1582888023147-20200228T110000Z/amd.shared%7Cext.wikia.facebookTags%7Cjquery.byteLength,checkboxShiftClick,client,cookie,makeCollapsible,messageBox,mw-jump,mwExtension,timeago%7Cmediawiki.Title,Uri,cldr,jqueryMsg,language,user,util%7Cmediawiki.language.init%7Cmediawiki.legacy.ajax,wikibits%7Cmediawiki.libs.pluralruleparser%7Cmediawiki.page.ready,startup%7Cunderscore%7Cwikia.fbLocale,history,importScript,loader,mw,nirvana,throbber,thumbnailer,tracker",
+            "lineNumber": 73,
+            "columnNumber": 528
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: elem.className.split is not a function\n    at Array.toggleInit (https://walkingdead.fandom.com/load.php?cb=1582888023147&debug=false&lang=en&modules=site&only=scripts&reviewed=1545065558&skin=oasis&*:14:730)\n    at window.runOnloadHook (https://slot1-images.wikia.nocookie.net/__load/-/debug%3Dfalse%26lang%3Den%26skin%3Doasis%26version%3D1582888023147-20200228T110000Z/amd.shared%7Cext.wikia.facebookTags%7Cjquery.byteLength,checkboxShiftClick,client,cookie,makeCollapsible,messageBox,mw-jump,mwExtension,timeago%7Cmediawiki.Title,Uri,cldr,jqueryMsg,language,user,util%7Cmediawiki.language.init%7Cmediawiki.legacy.ajax,wikibits%7Cmediawiki.libs.pluralruleparser%7Cmediawiki.page.ready,startup%7Cunderscore%7Cwikia.fbLocale,history,importScript,loader,mw,nirvana,throbber,thumbnailer,tracker:74:529)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: elem.className.split is not a function\n    at Array.toggleInit (https://walkingdead.fandom.com/load.php?cb=1582888023147&debug=false&lang=en&modules=site&only=scripts&reviewed=1545065558&skin=oasis&*:14:730)\n    at window.runOnloadHook (https://slot1-images.wikia.nocookie.net/__load/-/debug%3Dfalse%26lang%3Den%26skin%3Doasis%26version%3D1582888023147-20200228T110000Z/amd.shared%7Cext.wikia.facebookTags%7Cjquery.byteLength,checkboxShiftClick,client,cookie,makeCollapsible,messageBox,mw-jump,mwExtension,timeago%7Cmediawiki.Title,Uri,cldr,jqueryMsg,language,user,util%7Cmediawiki.language.init%7Cmediawiki.legacy.ajax,wikibits%7Cmediawiki.libs.pluralruleparser%7Cmediawiki.page.ready,startup%7Cunderscore%7Cwikia.fbLocale,history,importScript,loader,mw,nirvana,throbber,thumbnailer,tracker:74:529)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: elem.className.split is not a function\n…r,mw,nirvana,throbber,thumbnailer,tracker:74:529)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "elem.className.split is not a function"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

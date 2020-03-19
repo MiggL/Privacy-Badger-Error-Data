@@ -1,0 +1,78 @@
+[
+  {
+    "timestamp": 1582898894757.546,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 48,
+      "columnNumber": 397,
+      "url": "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "l.da",
+            "scriptId": "13",
+            "url": "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js",
+            "lineNumber": 48,
+            "columnNumber": 397
+          },
+          {
+            "functionName": "wf",
+            "scriptId": "13",
+            "url": "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js",
+            "lineNumber": 56,
+            "columnNumber": 408
+          },
+          {
+            "functionName": "Ck",
+            "scriptId": "13",
+            "url": "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js",
+            "lineNumber": 183,
+            "columnNumber": 24
+          },
+          {
+            "functionName": "",
+            "scriptId": "152",
+            "url": "https://www.rhymer.com/godmother.html?Word=godmother&RhymeBtn=Rhyme&RhymeType=EndRhymes",
+            "lineNumber": 223,
+            "columnNumber": 41
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "className": "N",
+        "description": "N",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "description": "N",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "message",
+              "type": "string",
+              "value": "adsbygoogle.push() error: No slot size for availableWidth=0"
+            },
+            {
+              "name": "name",
+              "type": "string",
+              "value": "TagError"
+            },
+            {
+              "name": "pbr",
+              "type": "boolean",
+              "value": "true"
+            },
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TagError: adsbygoogle.push() error: No slot size f…esyndication.com/pagead/js/adsbygoogle.js:57:409)"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

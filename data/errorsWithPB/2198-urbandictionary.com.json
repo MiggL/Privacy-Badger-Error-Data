@@ -1,0 +1,154 @@
+[
+  {
+    "timestamp": 1582894737132.3062,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 2,
+      "columnNumber": 12555,
+      "url": "https://cdn.jsdelivr.net/g/jquery@2.2.4,qtip2@2.2.1,autocomplete.js@0.28.1,nprogress@0.1.6,jquery.slick@1.4.0,selectize@0.12.2(js/standalone/selectize.min.js)",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "fa.error",
+            "scriptId": "21",
+            "url": "https://cdn.jsdelivr.net/g/jquery@2.2.4,qtip2@2.2.1,autocomplete.js@0.28.1,nprogress@0.1.6,jquery.slick@1.4.0,selectize@0.12.2(js/standalone/selectize.min.js)",
+            "lineNumber": 2,
+            "columnNumber": 12555
+          },
+          {
+            "functionName": "fa.tokenize",
+            "scriptId": "21",
+            "url": "https://cdn.jsdelivr.net/g/jquery@2.2.4,qtip2@2.2.1,autocomplete.js@0.28.1,nprogress@0.1.6,jquery.slick@1.4.0,selectize@0.12.2(js/standalone/selectize.min.js)",
+            "lineNumber": 2,
+            "columnNumber": 18608
+          },
+          {
+            "functionName": "fa.select",
+            "scriptId": "21",
+            "url": "https://cdn.jsdelivr.net/g/jquery@2.2.4,qtip2@2.2.1,autocomplete.js@0.28.1,nprogress@0.1.6,jquery.slick@1.4.0,selectize@0.12.2(js/standalone/selectize.min.js)",
+            "lineNumber": 2,
+            "columnNumber": 21416
+          },
+          {
+            "functionName": "fa",
+            "scriptId": "21",
+            "url": "https://cdn.jsdelivr.net/g/jquery@2.2.4,qtip2@2.2.1,autocomplete.js@0.28.1,nprogress@0.1.6,jquery.slick@1.4.0,selectize@0.12.2(js/standalone/selectize.min.js)",
+            "lineNumber": 2,
+            "columnNumber": 7142
+          },
+          {
+            "functionName": "find",
+            "scriptId": "21",
+            "url": "https://cdn.jsdelivr.net/g/jquery@2.2.4,qtip2@2.2.1,autocomplete.js@0.28.1,nprogress@0.1.6,jquery.slick@1.4.0,selectize@0.12.2(js/standalone/selectize.min.js)",
+            "lineNumber": 2,
+            "columnNumber": 23931
+          },
+          {
+            "functionName": "n.fn.init",
+            "scriptId": "21",
+            "url": "https://cdn.jsdelivr.net/g/jquery@2.2.4,qtip2@2.2.1,autocomplete.js@0.28.1,nprogress@0.1.6,jquery.slick@1.4.0,selectize@0.12.2(js/standalone/selectize.min.js)",
+            "lineNumber": 2,
+            "columnNumber": 24484
+          },
+          {
+            "functionName": "n",
+            "scriptId": "21",
+            "url": "https://cdn.jsdelivr.net/g/jquery@2.2.4,qtip2@2.2.1,autocomplete.js@0.28.1,nprogress@0.1.6,jquery.slick@1.4.0,selectize@0.12.2(js/standalone/selectize.min.js)",
+            "lineNumber": 2,
+            "columnNumber": 404
+          },
+          {
+            "functionName": "Z",
+            "scriptId": "22",
+            "url": "https://d2gatte9o95jao.cloudfront.net/assets/application-aeb2e938dcd5705d276543c11ef1311f1a09a1654171713e9fe61a0b15ad0c13.js",
+            "lineNumber": 971,
+            "columnNumber": 390
+          },
+          {
+            "functionName": "gq",
+            "scriptId": "22",
+            "url": "https://d2gatte9o95jao.cloudfront.net/assets/application-aeb2e938dcd5705d276543c11ef1311f1a09a1654171713e9fe61a0b15ad0c13.js",
+            "lineNumber": 1045,
+            "columnNumber": 235
+          },
+          {
+            "functionName": "jq",
+            "scriptId": "22",
+            "url": "https://d2gatte9o95jao.cloudfront.net/assets/application-aeb2e938dcd5705d276543c11ef1311f1a09a1654171713e9fe61a0b15ad0c13.js",
+            "lineNumber": 1049,
+            "columnNumber": 81
+          },
+          {
+            "functionName": "",
+            "scriptId": "22",
+            "url": "https://d2gatte9o95jao.cloudfront.net/assets/application-aeb2e938dcd5705d276543c11ef1311f1a09a1654171713e9fe61a0b15ad0c13.js",
+            "lineNumber": 1089,
+            "columnNumber": 147
+          },
+          {
+            "functionName": "i",
+            "scriptId": "21",
+            "url": "https://cdn.jsdelivr.net/g/jquery@2.2.4,qtip2@2.2.1,autocomplete.js@0.28.1,nprogress@0.1.6,jquery.slick@1.4.0,selectize@0.12.2(js/standalone/selectize.min.js)",
+            "lineNumber": 2,
+            "columnNumber": 27150
+          },
+          {
+            "functionName": "fireWith",
+            "scriptId": "21",
+            "url": "https://cdn.jsdelivr.net/g/jquery@2.2.4,qtip2@2.2.1,autocomplete.js@0.28.1,nprogress@0.1.6,jquery.slick@1.4.0,selectize@0.12.2(js/standalone/selectize.min.js)",
+            "lineNumber": 2,
+            "columnNumber": 27913
+          },
+          {
+            "functionName": "ready",
+            "scriptId": "21",
+            "url": "https://cdn.jsdelivr.net/g/jquery@2.2.4,qtip2@2.2.1,autocomplete.js@0.28.1,nprogress@0.1.6,jquery.slick@1.4.0,selectize@0.12.2(js/standalone/selectize.min.js)",
+            "lineNumber": 2,
+            "columnNumber": 29706
+          },
+          {
+            "functionName": "J",
+            "scriptId": "21",
+            "url": "https://cdn.jsdelivr.net/g/jquery@2.2.4,qtip2@2.2.1,autocomplete.js@0.28.1,nprogress@0.1.6,jquery.slick@1.4.0,selectize@0.12.2(js/standalone/selectize.min.js)",
+            "lineNumber": 2,
+            "columnNumber": 29891
+          },
+          {
+            "functionName": "a.bugsnag",
+            "scriptId": "23",
+            "url": "https://www.urbandictionary.com/tags.php?tag=face%20mower",
+            "lineNumber": 39,
+            "columnNumber": 159
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "Error",
+        "description": "Error: Syntax error, unrecognized expression: .def-panel[data-defid=] .thumbs\n    at Function.fa.error (https://cdn.jsdelivr.net/g/jquery@2.2.4,qtip2@2.2.1,autocomplete.js@0.28.1,nprogress@0.1.6,jquery.slick@1.4.0,selectize@0.12.2(js/standalone/selectize.min.js):3:12556)\n    at fa.tokenize (https://cdn.jsdelivr.net/g/jquery@2.2.4,qtip2@2.2.1,autocomplete.js@0.28.1,nprogress@0.1.6,jquery.slick@1.4.0,selectize@0.12.2(js/standalone/selectize.min.js):3:18609)\n    at fa.select (https://cdn.jsdelivr.net/g/jquery@2.2.4,qtip2@2.2.1,autocomplete.js@0.28.1,nprogress@0.1.6,jquery.slick@1.4.0,selectize@0.12.2(js/standalone/selectize.min.js):3:21417)\n    at Function.fa [as find] (https://cdn.jsdelivr.net/g/jquery@2.2.4,qtip2@2.2.1,autocomplete.js@0.28.1,nprogress@0.1.6,jquery.slick@1.4.0,selectize@0.12.2(js/standalone/selectize.min.js):3:7143)\n    at n.fn.init.find (https://cdn.jsdelivr.net/g/jquery@2.2.4,qtip2@2.2.1,autocomplete.js@0.28.1,nprogress@0.1.6,jquery.slick@1.4.0,selectize@0.12.2(js/standalone/selectize.min.js):3:23932)\n    at new n.fn.init (https://cdn.jsdelivr.net/g/jquery@2.2.4,qtip2@2.2.1,autocomplete.js@0.28.1,nprogress@0.1.6,jquery.slick@1.4.0,selectize@0.12.2(js/standalone/selectize.min.js):3:24485)\n    at n (https://cdn.jsdelivr.net/g/jquery@2.2.4,qtip2@2.2.1,autocomplete.js@0.28.1,nprogress@0.1.6,jquery.slick@1.4.0,selectize@0.12.2(js/standalone/selectize.min.js):3:405)\n    at Z (https://d2gatte9o95jao.cloudfront.net/assets/application-aeb2e938dcd5705d276543c11ef1311f1a09a1654171713e9fe61a0b15ad0c13.js:972:391)\n    at gq (https://d2gatte9o95jao.cloudfront.net/assets/application-aeb2e938dcd5705d276543c11ef1311f1a09a1654171713e9fe61a0b15ad0c13.js:1046:236)\n    at jq (https://d2gatte9o95jao.cloudfront.net/assets/application-aeb2e938dcd5705d276543c11ef1311f1a09a1654171713e9fe61a0b15ad0c13.js:1050:82)\n    at HTMLDocument.<anonymous> (https://d2gatte9o95jao.cloudfront.net/assets/application-aeb2e938dcd5705d276543c11ef1311f1a09a1654171713e9fe61a0b15ad0c13.js:1090:148)\n    at i (https://cdn.jsdelivr.net/g/jquery@2.2.4,qtip2@2.2.1,autocomplete.js@0.28.1,nprogress@0.1.6,jquery.slick@1.4.0,selectize@0.12.2(js/standalone/selectize.min.js):3:27151)\n    at Object.fireWith [as resolveWith] (https://cdn.jsdelivr.net/g/jquery@2.2.4,qtip2@2.2.1,autocomplete.js@0.28.1,nprogress@0.1.6,jquery.slick@1.4.0,selectize@0.12.2(js/standalone/selectize.min.js):3:27914)\n    at Function.ready (https://cdn.jsdelivr.net/g/jquery@2.2.4,qtip2@2.2.1,autocomplete.js@0.28.1,nprogress@0.1.6,jquery.slick@1.4.0,selectize@0.12.2(js/standalone/selectize.min.js):3:29707)\n    at HTMLDocument.J (https://cdn.jsdelivr.net/g/jquery@2.2.4,qtip2@2.2.1,autocomplete.js@0.28.1,nprogress@0.1.6,jquery.slick@1.4.0,selectize@0.12.2(js/standalone/selectize.min.js):3:29892)\n    at HTMLDocument.a.bugsnag (https://www.urbandictionary.com/tags.php?tag=face%20mower:40:160)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "Error: Syntax error, unrecognized expression: .def-panel[data-defid=] .thumbs\n    at Function.fa.error (https://cdn.jsdelivr.net/g/jquery@2.2.4,qtip2@2.2.1,autocomplete.js@0.28.1,nprogress@0.1.6,jquery.slick@1.4.0,selectize@0.12.2(js/standalone/selectize.min.js):3:12556)\n    at fa.tokenize (https://cdn.jsdelivr.net/g/jquery@2.2.4,qtip2@2.2.1,autocomplete.js@0.28.1,nprogress@0.1.6,jquery.slick@1.4.0,selectize@0.12.2(js/standalone/selectize.min.js):3:18609)\n    at fa.select (https://cdn.jsdelivr.net/g/jquery@2.2.4,qtip2@2.2.1,autocomplete.js@0.28.1,nprogress@0.1.6,jquery.slick@1.4.0,selectize@0.12.2(js/standalone/selectize.min.js):3:21417)\n    at Function.fa [as find] (https://cdn.jsdelivr.net/g/jquery@2.2.4,qtip2@2.2.1,autocomplete.js@0.28.1,nprogress@0.1.6,jquery.slick@1.4.0,selectize@0.12.2(js/standalone/selectize.min.js):3:7143)\n    at n.fn.init.find (https://cdn.jsdelivr.net/g/jquery@2.2.4,qtip2@2.2.1,autocomplete.js@0.28.1,nprogress@0.1.6,jquery.slick@1.4.0,selectize@0.12.2(js/standalone/selectize.min.js):3:23932)\n    at new n.fn.init (https://cdn.jsdelivr.net/g/jquery@2.2.4,qtip2@2.2.1,autocomplete.js@0.28.1,nprogress@0.1.6,jquery.slick@1.4.0,selectize@0.12.2(js/standalone/selectize.min.js):3:24485)\n    at n (https://cdn.jsdelivr.net/g/jquery@2.2.4,qtip2@2.2.1,autocomplete.js@0.28.1,nprogress@0.1.6,jquery.slick@1.4.0,selectize@0.12.2(js/standalone/selectize.min.js):3:405)\n    at Z (https://d2gatte9o95jao.cloudfront.net/assets/application-aeb2e938dcd5705d276543c11ef1311f1a09a1654171713e9fe61a0b15ad0c13.js:972:391)\n    at gq (https://d2gatte9o95jao.cloudfront.net/assets/application-aeb2e938dcd5705d276543c11ef1311f1a09a1654171713e9fe61a0b15ad0c13.js:1046:236)\n    at jq (https://d2gatte9o95jao.cloudfront.net/assets/application-aeb2e938dcd5705d276543c11ef1311f1a09a1654171713e9fe61a0b15ad0c13.js:1050:82)\n    at HTMLDocument.<anonymous> (https://d2gatte9o95jao.cloudfront.net/assets/application-aeb2e938dcd5705d276543c11ef1311f1a09a1654171713e9fe61a0b15ad0c13.js:1090:148)\n    at i (https://cdn.jsdelivr.net/g/jquery@2.2.4,qtip2@2.2.1,autocomplete.js@0.28.1,nprogress@0.1.6,jquery.slick@1.4.0,selectize@0.12.2(js/standalone/selectize.min.js):3:27151)\n    at Object.fireWith [as resolveWith] (https://cdn.jsdelivr.net/g/jquery@2.2.4,qtip2@2.2.1,autocomplete.js@0.28.1,nprogress@0.1.6,jquery.slick@1.4.0,selectize@0.12.2(js/standalone/selectize.min.js):3:27914)\n    at Function.ready (https://cdn.jsdelivr.net/g/jquery@2.2.4,qtip2@2.2.1,autocomplete.js@0.28.1,nprogress@0.1.6,jquery.slick@1.4.0,selectize@0.12.2(js/standalone/selectize.min.js):3:29707)\n    at HTMLDocument.J (https://cdn.jsdelivr.net/g/jquery@2.2.4,qtip2@2.2.1,autocomplete.js@0.28.1,nprogress@0.1.6,jquery.slick@1.4.0,selectize@0.12.2(js/standalone/selectize.min.js):3:29892)\n    at HTMLDocument.a.bugsnag (https://www.urbandictionary.com/tags.php?tag=face%20mower:40:160)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "Error: Syntax error, unrecognized expression: .def…ndictionary.com/tags.php?tag=face%20mower:40:160)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Syntax error, unrecognized expression: .def-panel[data-defid=] .thumbs"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

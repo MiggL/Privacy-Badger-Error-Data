@@ -1,0 +1,49 @@
+[
+  {
+    "timestamp": 1583423295213.176,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 6174,
+      "columnNumber": 7,
+      "url": "https://assets.adobedtm.com/2816ee5076772aae086bc7eee9f12e8219e0ff4e/satelliteLib-6a012b2adc503a0bca6cad156554efbcfc5b3bf8.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "21",
+            "url": "https://assets.adobedtm.com/2816ee5076772aae086bc7eee9f12e8219e0ff4e/satelliteLib-6a012b2adc503a0bca6cad156554efbcfc5b3bf8.js",
+            "lineNumber": 6174,
+            "columnNumber": 7
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: jQuery is not a function\n    at https://assets.adobedtm.com/2816ee5076772aae086bc7eee9f12e8219e0ff4e/satelliteLib-6a012b2adc503a0bca6cad156554efbcfc5b3bf8.js:6175:8",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: jQuery is not a function\n    at https://assets.adobedtm.com/2816ee5076772aae086bc7eee9f12e8219e0ff4e/satelliteLib-6a012b2adc503a0bca6cad156554efbcfc5b3bf8.js:6175:8",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: jQuery is not a function\n    at https:/…a012b2adc503a0bca6cad156554efbcfc5b3bf8.js:6175:8"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "jQuery is not a function"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

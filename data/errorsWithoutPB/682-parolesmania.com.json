@@ -1,0 +1,85 @@
+[
+  {
+    "timestamp": 1583007146582.469,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 0,
+      "columnNumber": 5,
+      "scriptId": "62",
+      "url": "http://www.parolesmania.com/paroles_zoufris_maracas_72806/paroles_et_ta_mere_1242333.html",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "m",
+            "scriptId": "12",
+            "url": "https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js",
+            "lineNumber": 1,
+            "columnNumber": 710
+          },
+          {
+            "functionName": "globalEval",
+            "scriptId": "12",
+            "url": "https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js",
+            "lineNumber": 1,
+            "columnNumber": 2495
+          },
+          {
+            "functionName": "text script",
+            "scriptId": "12",
+            "url": "https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js",
+            "lineNumber": 1,
+            "columnNumber": 80631
+          },
+          {
+            "functionName": "Ut",
+            "scriptId": "12",
+            "url": "https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js",
+            "lineNumber": 1,
+            "columnNumber": 73767
+          },
+          {
+            "functionName": "k",
+            "scriptId": "12",
+            "url": "https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js",
+            "lineNumber": 1,
+            "columnNumber": 77334
+          },
+          {
+            "functionName": "",
+            "scriptId": "12",
+            "url": "https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js",
+            "lineNumber": 1,
+            "columnNumber": 79906
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "SyntaxError",
+        "description": "SyntaxError: Unexpected identifier\n    at m (https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js:2:711)\n    at Function.globalEval (https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js:2:2496)\n    at text script (https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js:2:80632)\n    at Ut (https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js:2:73768)\n    at k (https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js:2:77335)\n    at XMLHttpRequest.<anonymous> (https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js:2:79907)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "SyntaxError: Unexpected identifier\n    at m (https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js:2:711)\n    at Function.globalEval (https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js:2:2496)\n    at text script (https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js:2:80632)\n    at Ut (https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js:2:73768)\n    at k (https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js:2:77335)\n    at XMLHttpRequest.<anonymous> (https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js:2:79907)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "SyntaxError: Unexpected identifier\n    at m (https…com/ajax/libs/jquery/3.3.1/jquery.min.js:2:79907)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Unexpected identifier"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

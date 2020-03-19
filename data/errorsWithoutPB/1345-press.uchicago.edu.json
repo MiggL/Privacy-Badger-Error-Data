@@ -1,0 +1,49 @@
+[
+  {
+    "timestamp": 1583000976954.8071,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 129,
+      "columnNumber": 0,
+      "url": "https://www.press.uchicago.edu/.resources/ucp/js/bookDetail.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "27",
+            "url": "https://www.press.uchicago.edu/.resources/ucp/js/bookDetail.js",
+            "lineNumber": 129,
+            "columnNumber": 0
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: dw_scrollObj is not defined\n    at https://www.press.uchicago.edu/.resources/ucp/js/bookDetail.js:130:1",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: dw_scrollObj is not defined\n    at https://www.press.uchicago.edu/.resources/ucp/js/bookDetail.js:130:1",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: dw_scrollObj is not defined\n    at…chicago.edu/.resources/ucp/js/bookDetail.js:130:1"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "dw_scrollObj is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

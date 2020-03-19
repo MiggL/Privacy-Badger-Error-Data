@@ -1,0 +1,138 @@
+[
+  {
+    "timestamp": 1583421179908.598,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 950,
+      "columnNumber": 34,
+      "url": "https://www.webmd.com/drugs/2/drug-95022/adult-nasal-decongestant-oral/details",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "window.placeICM",
+            "scriptId": "38",
+            "url": "https://www.webmd.com/drugs/2/drug-95022/adult-nasal-decongestant-oral/details",
+            "lineNumber": 950,
+            "columnNumber": 34
+          },
+          {
+            "functionName": "",
+            "scriptId": "38",
+            "url": "https://www.webmd.com/drugs/2/drug-95022/adult-nasal-decongestant-oral/details",
+            "lineNumber": 955,
+            "columnNumber": 31
+          },
+          {
+            "functionName": "",
+            "scriptId": "38",
+            "url": "https://www.webmd.com/drugs/2/drug-95022/adult-nasal-decongestant-oral/details",
+            "lineNumber": 956,
+            "columnNumber": 22
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: s_publication_source is not defined\n    at window.placeICM (https://www.webmd.com/drugs/2/drug-95022/adult-nasal-decongestant-oral/details:951:35)\n    at https://www.webmd.com/drugs/2/drug-95022/adult-nasal-decongestant-oral/details:956:32\n    at https://www.webmd.com/drugs/2/drug-95022/adult-nasal-decongestant-oral/details:957:23",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: s_publication_source is not defined\n    at window.placeICM (https://www.webmd.com/drugs/2/drug-95022/adult-nasal-decongestant-oral/details:951:35)\n    at https://www.webmd.com/drugs/2/drug-95022/adult-nasal-decongestant-oral/details:956:32\n    at https://www.webmd.com/drugs/2/drug-95022/adult-nasal-decongestant-oral/details:957:23",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: s_publication_source is not define…5022/adult-nasal-decongestant-oral/details:957:23"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "s_publication_source is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583421180803.8088,
+    "exceptionDetails": {
+      "exceptionId": 2,
+      "text": "Uncaught",
+      "lineNumber": 1,
+      "columnNumber": 27314,
+      "url": "https://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/amd_modules/pdmodules/1/search.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "success",
+            "scriptId": "66",
+            "url": "https://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/amd_modules/pdmodules/1/search.js",
+            "lineNumber": 1,
+            "columnNumber": 27314
+          },
+          {
+            "functionName": "l",
+            "scriptId": "23",
+            "url": "https://js.webmd.com/dtmcms/live/webmd/PageBuilder_Assets/JS/responsive_scripts148.js",
+            "lineNumber": 14,
+            "columnNumber": 16767
+          },
+          {
+            "functionName": "fireWith",
+            "scriptId": "23",
+            "url": "https://js.webmd.com/dtmcms/live/webmd/PageBuilder_Assets/JS/responsive_scripts148.js",
+            "lineNumber": 14,
+            "columnNumber": 17547
+          },
+          {
+            "functionName": "d",
+            "scriptId": "23",
+            "url": "https://js.webmd.com/dtmcms/live/webmd/PageBuilder_Assets/JS/responsive_scripts148.js",
+            "lineNumber": 22,
+            "columnNumber": 3214
+          },
+          {
+            "functionName": "d",
+            "scriptId": "23",
+            "url": "https://js.webmd.com/dtmcms/live/webmd/PageBuilder_Assets/JS/responsive_scripts148.js",
+            "lineNumber": 22,
+            "columnNumber": 8775
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'City' of null\n    at Object.success (https://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/amd_modules/pdmodules/1/search.js:2:27315)\n    at l (https://js.webmd.com/dtmcms/live/webmd/PageBuilder_Assets/JS/responsive_scripts148.js:15:16768)\n    at Object.fireWith [as resolveWith] (https://js.webmd.com/dtmcms/live/webmd/PageBuilder_Assets/JS/responsive_scripts148.js:15:17548)\n    at d (https://js.webmd.com/dtmcms/live/webmd/PageBuilder_Assets/JS/responsive_scripts148.js:23:3215)\n    at XMLHttpRequest.d (https://js.webmd.com/dtmcms/live/webmd/PageBuilder_Assets/JS/responsive_scripts148.js:23:8776)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":2}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'City' of null\n    at Object.success (https://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/amd_modules/pdmodules/1/search.js:2:27315)\n    at l (https://js.webmd.com/dtmcms/live/webmd/PageBuilder_Assets/JS/responsive_scripts148.js:15:16768)\n    at Object.fireWith [as resolveWith] (https://js.webmd.com/dtmcms/live/webmd/PageBuilder_Assets/JS/responsive_scripts148.js:15:17548)\n    at d (https://js.webmd.com/dtmcms/live/webmd/PageBuilder_Assets/JS/responsive_scripts148.js:23:3215)\n    at XMLHttpRequest.d (https://js.webmd.com/dtmcms/live/webmd/PageBuilder_Assets/JS/responsive_scripts148.js:23:8776)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'City' of null\n   …ilder_Assets/JS/responsive_scripts148.js:23:8776)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'City' of null"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

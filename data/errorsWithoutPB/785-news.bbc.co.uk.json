@@ -1,0 +1,103 @@
+[
+  {
+    "timestamp": 1583006204198.191,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 163,
+      "columnNumber": 2328,
+      "url": "http://news.bbc.co.uk/earth/hi/earth_news/newsid_8604000/8604584.stm",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "oqsSurveyManager",
+            "scriptId": "24",
+            "url": "http://news.bbc.co.uk/earth/hi/earth_news/newsid_8604000/8604584.stm",
+            "lineNumber": 163,
+            "columnNumber": 2328
+          },
+          {
+            "functionName": "",
+            "scriptId": "24",
+            "url": "http://news.bbc.co.uk/earth/hi/earth_news/newsid_8604000/8604584.stm",
+            "lineNumber": 163,
+            "columnNumber": 2525
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: w.orb.fig is not a function\n    at oqsSurveyManager (http://news.bbc.co.uk/earth/hi/earth_news/newsid_8604000/8604584.stm:164:2329)\n    at http://news.bbc.co.uk/earth/hi/earth_news/newsid_8604000/8604584.stm:164:2526",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: w.orb.fig is not a function\n    at oqsSurveyManager (http://news.bbc.co.uk/earth/hi/earth_news/newsid_8604000/8604584.stm:164:2329)\n    at http://news.bbc.co.uk/earth/hi/earth_news/newsid_8604000/8604584.stm:164:2526",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: w.orb.fig is not a function\n    at oqsS…hi/earth_news/newsid_8604000/8604584.stm:164:2526"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "w.orb.fig is not a function"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583006205067.8179,
+    "exceptionDetails": {
+      "exceptionId": 2,
+      "text": "Uncaught",
+      "lineNumber": 45,
+      "columnNumber": 60,
+      "url": "http://news.bbc.co.uk/js/app/bbccom/1.52.0/adsense_write.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "78",
+            "url": "http://news.bbc.co.uk/js/app/bbccom/1.52.0/adsense_write.js",
+            "lineNumber": 45,
+            "columnNumber": 60
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot set property 'innerHTML' of null\n    at http://news.bbc.co.uk/js/app/bbccom/1.52.0/adsense_write.js:46:61",
+        "objectId": "{\"injectedScriptId\":3,\"id\":2}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot set property 'innerHTML' of null\n    at http://news.bbc.co.uk/js/app/bbccom/1.52.0/adsense_write.js:46:61",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot set property 'innerHTML' of null…co.uk/js/app/bbccom/1.52.0/adsense_write.js:46:61"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot set property 'innerHTML' of null"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

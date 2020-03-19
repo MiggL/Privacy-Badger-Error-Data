@@ -1,0 +1,49 @@
+[
+  {
+    "timestamp": 1583751769019.4148,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 83,
+      "columnNumber": 47,
+      "url": "http://freekorea.us/2017/02/08/leaked-u-n-report-reveals-record-north-korean-arms-seizure-last-august-in-egypt/",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "29",
+            "url": "http://freekorea.us/2017/02/08/leaked-u-n-report-reveals-record-north-korean-arms-seizure-last-august-in-egypt/",
+            "lineNumber": 83,
+            "columnNumber": 47
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: stLight is not defined\n    at http://freekorea.us/2017/02/08/leaked-u-n-report-reveals-record-north-korean-arms-seizure-last-august-in-egypt/:84:48",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: stLight is not defined\n    at http://freekorea.us/2017/02/08/leaked-u-n-report-reveals-record-north-korean-arms-seizure-last-august-in-egypt/:84:48",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: stLight is not defined\n    at http…h-korean-arms-seizure-last-august-in-egypt/:84:48"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "stLight is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

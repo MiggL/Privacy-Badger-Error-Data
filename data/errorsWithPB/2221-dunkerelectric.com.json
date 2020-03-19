@@ -1,0 +1,57 @@
+[
+  {
+    "timestamp": 1582894540220.5242,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 1,
+      "columnNumber": 0,
+      "scriptId": "86",
+      "url": "http://www.dunkerelectric.com/brand-generation-lighting-feiss/1-light-tabby-flushmount/sku-V75-fm403pn",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "gGetData",
+            "scriptId": "35",
+            "url": "http://www.dunkerelectric.com/JavaScript/HeaderFunctions.js?v=release_4.5.17",
+            "lineNumber": 1574,
+            "columnNumber": 20
+          },
+          {
+            "functionName": "readyHandler",
+            "scriptId": "83",
+            "url": "",
+            "lineNumber": 0,
+            "columnNumber": 31
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "SyntaxError",
+        "description": "SyntaxError: Unexpected end of input\n    at gGetData (http://www.dunkerelectric.com/JavaScript/HeaderFunctions.js?v=release_4.5.17:1575:21)\n    at XMLHttpRequest.readyHandler (eval at gAjaxHandler (http://www.dunkerelectric.com/JavaScript/HeaderFunctions.js?v=release_4.5.17:1131:3), <anonymous>:1:32)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "SyntaxError: Unexpected end of input\n    at gGetData (http://www.dunkerelectric.com/JavaScript/HeaderFunctions.js?v=release_4.5.17:1575:21)\n    at XMLHttpRequest.readyHandler (eval at gAjaxHandler (http://www.dunkerelectric.com/JavaScript/HeaderFunctions.js?v=release_4.5.17:1131:3), <anonymous>:1:32)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "SyntaxError: Unexpected end of input\n    at gGetDa…ns.js?v=release_4.5.17:1131:3), <anonymous>:1:32)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Unexpected end of input"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

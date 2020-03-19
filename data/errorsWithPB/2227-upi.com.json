@@ -1,0 +1,49 @@
+[
+  {
+    "timestamp": 1582894480079.438,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 860,
+      "columnNumber": 270,
+      "url": "https://www.upi.com/Odd_News/2017/03/23/Deer-jumps-over-motorcyclists-head-in-Washington-DC/8501490302840/",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "51",
+            "url": "https://www.upi.com/Odd_News/2017/03/23/Deer-jumps-over-motorcyclists-head-in-Washington-DC/8501490302840/",
+            "lineNumber": 860,
+            "columnNumber": 270
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: Insticator is not defined\n    at https://www.upi.com/Odd_News/2017/03/23/Deer-jumps-over-motorcyclists-head-in-Washington-DC/8501490302840/:861:271",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: Insticator is not defined\n    at https://www.upi.com/Odd_News/2017/03/23/Deer-jumps-over-motorcyclists-head-in-Washington-DC/8501490302840/:861:271",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: Insticator is not defined\n    at h…ists-head-in-Washington-DC/8501490302840/:861:271"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Insticator is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

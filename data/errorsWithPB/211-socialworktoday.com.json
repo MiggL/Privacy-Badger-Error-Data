@@ -1,0 +1,284 @@
+[
+  {
+    "timestamp": 1583757433941.9539,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 158,
+      "columnNumber": 16,
+      "url": "https://www.socialworktoday.com/archive/EoESepOct07.shtml",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "34",
+            "url": "https://www.socialworktoday.com/archive/EoESepOct07.shtml",
+            "lineNumber": 158,
+            "columnNumber": 16
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: googletag.display is not a function\n    at https://www.socialworktoday.com/archive/EoESepOct07.shtml:159:17",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: googletag.display is not a function\n    at https://www.socialworktoday.com/archive/EoESepOct07.shtml:159:17",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: googletag.display is not a function\n   …ialworktoday.com/archive/EoESepOct07.shtml:159:17"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "googletag.display is not a function"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583757433966.688,
+    "exceptionDetails": {
+      "exceptionId": 2,
+      "text": "Uncaught",
+      "lineNumber": 272,
+      "columnNumber": 10,
+      "url": "https://www.socialworktoday.com/archive/EoESepOct07.shtml",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "45",
+            "url": "https://www.socialworktoday.com/archive/EoESepOct07.shtml",
+            "lineNumber": 272,
+            "columnNumber": 10
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: googletag.display is not a function\n    at https://www.socialworktoday.com/archive/EoESepOct07.shtml:273:11",
+        "objectId": "{\"injectedScriptId\":3,\"id\":2}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: googletag.display is not a function\n    at https://www.socialworktoday.com/archive/EoESepOct07.shtml:273:11",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: googletag.display is not a function\n   …ialworktoday.com/archive/EoESepOct07.shtml:273:11"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "googletag.display is not a function"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583757433967.021,
+    "exceptionDetails": {
+      "exceptionId": 3,
+      "text": "Uncaught",
+      "lineNumber": 278,
+      "columnNumber": 10,
+      "url": "https://www.socialworktoday.com/archive/EoESepOct07.shtml",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "46",
+            "url": "https://www.socialworktoday.com/archive/EoESepOct07.shtml",
+            "lineNumber": 278,
+            "columnNumber": 10
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: googletag.display is not a function\n    at https://www.socialworktoday.com/archive/EoESepOct07.shtml:279:11",
+        "objectId": "{\"injectedScriptId\":3,\"id\":3}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: googletag.display is not a function\n    at https://www.socialworktoday.com/archive/EoESepOct07.shtml:279:11",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: googletag.display is not a function\n   …ialworktoday.com/archive/EoESepOct07.shtml:279:11"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "googletag.display is not a function"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583757433967.386,
+    "exceptionDetails": {
+      "exceptionId": 4,
+      "text": "Uncaught",
+      "lineNumber": 284,
+      "columnNumber": 10,
+      "url": "https://www.socialworktoday.com/archive/EoESepOct07.shtml",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "47",
+            "url": "https://www.socialworktoday.com/archive/EoESepOct07.shtml",
+            "lineNumber": 284,
+            "columnNumber": 10
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: googletag.display is not a function\n    at https://www.socialworktoday.com/archive/EoESepOct07.shtml:285:11",
+        "objectId": "{\"injectedScriptId\":3,\"id\":4}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: googletag.display is not a function\n    at https://www.socialworktoday.com/archive/EoESepOct07.shtml:285:11",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: googletag.display is not a function\n   …ialworktoday.com/archive/EoESepOct07.shtml:285:11"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "googletag.display is not a function"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583757433994.298,
+    "exceptionDetails": {
+      "exceptionId": 5,
+      "text": "Uncaught",
+      "lineNumber": 338,
+      "columnNumber": 31,
+      "url": "https://www.socialworktoday.com/archive/EoESepOct07.shtml",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "52",
+            "url": "https://www.socialworktoday.com/archive/EoESepOct07.shtml",
+            "lineNumber": 338,
+            "columnNumber": 31
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: stLight is not defined\n    at https://www.socialworktoday.com/archive/EoESepOct07.shtml:339:32",
+        "objectId": "{\"injectedScriptId\":3,\"id\":5}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: stLight is not defined\n    at https://www.socialworktoday.com/archive/EoESepOct07.shtml:339:32",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: stLight is not defined\n    at http…ialworktoday.com/archive/EoESepOct07.shtml:339:32"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "stLight is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583757433994.673,
+    "exceptionDetails": {
+      "exceptionId": 6,
+      "text": "Uncaught",
+      "lineNumber": 341,
+      "columnNumber": 22,
+      "url": "https://www.socialworktoday.com/archive/EoESepOct07.shtml",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "53",
+            "url": "https://www.socialworktoday.com/archive/EoESepOct07.shtml",
+            "lineNumber": 341,
+            "columnNumber": 22
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: sharethis is not defined\n    at https://www.socialworktoday.com/archive/EoESepOct07.shtml:342:23",
+        "objectId": "{\"injectedScriptId\":3,\"id\":6}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: sharethis is not defined\n    at https://www.socialworktoday.com/archive/EoESepOct07.shtml:342:23",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: sharethis is not defined\n    at ht…ialworktoday.com/archive/EoESepOct07.shtml:342:23"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "sharethis is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

@@ -1,0 +1,76 @@
+[
+  {
+    "timestamp": 1583012642276.505,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 1247,
+      "columnNumber": 238,
+      "scriptId": "28",
+      "url": "http://lillyfamilydentistry.com/",
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "SyntaxError",
+        "description": "SyntaxError: Invalid or unexpected token",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "SyntaxError: Invalid or unexpected token",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "SyntaxError: Invalid or unexpected token"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Invalid or unexpected token"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583012642421.674,
+    "exceptionDetails": {
+      "exceptionId": 2,
+      "text": "Uncaught",
+      "lineNumber": 1324,
+      "columnNumber": 6,
+      "scriptId": "36",
+      "url": "http://lillyfamilydentistry.com/",
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "SyntaxError",
+        "description": "SyntaxError: Unexpected token '<'",
+        "objectId": "{\"injectedScriptId\":3,\"id\":2}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "SyntaxError: Unexpected token '<'",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "SyntaxError: Unexpected token '<'"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Unexpected token '<'"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

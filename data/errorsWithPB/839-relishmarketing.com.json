@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": 1583424681011.2468,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 697,
+      "columnNumber": 84,
+      "scriptId": "38",
+      "url": "https://relishmarketing.com/project-spotlight-a-logo-refresh-for-relish/",
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "SyntaxError",
+        "description": "SyntaxError: missing ) after argument list",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "SyntaxError: missing ) after argument list",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "SyntaxError: missing ) after argument list"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "missing ) after argument list"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

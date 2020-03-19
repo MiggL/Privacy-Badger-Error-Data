@@ -1,0 +1,215 @@
+[
+  {
+    "timestamp": 1583416140644.743,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 1277,
+      "columnNumber": 17,
+      "url": "https://explorable.com/example-of-a-research-paper",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "rFunc",
+            "scriptId": "116",
+            "url": "https://explorable.com/example-of-a-research-paper",
+            "lineNumber": 1277,
+            "columnNumber": 17
+          },
+          {
+            "functionName": "fireEvt",
+            "scriptId": "75",
+            "url": "https://explorable.com/detroitchicago/consentsettings.js?cb=1",
+            "lineNumber": 29,
+            "columnNumber": 15
+          },
+          {
+            "functionName": "img.onload",
+            "scriptId": "75",
+            "url": "https://explorable.com/detroitchicago/consentsettings.js?cb=1",
+            "lineNumber": 20,
+            "columnNumber": 35
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: googletag.pubads is not a function\n    at HTMLBodyElement.rFunc (https://explorable.com/example-of-a-research-paper:1278:18)\n    at fireEvt (https://explorable.com/detroitchicago/consentsettings.js?cb=1:30:16)\n    at Image.img.onload (https://explorable.com/detroitchicago/consentsettings.js?cb=1:21:36)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: googletag.pubads is not a function\n    at HTMLBodyElement.rFunc (https://explorable.com/example-of-a-research-paper:1278:18)\n    at fireEvt (https://explorable.com/detroitchicago/consentsettings.js?cb=1:30:16)\n    at Image.img.onload (https://explorable.com/detroitchicago/consentsettings.js?cb=1:21:36)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: googletag.pubads is not a function\n    …com/detroitchicago/consentsettings.js?cb=1:21:36)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "googletag.pubads is not a function"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583416141041.485,
+    "exceptionDetails": {
+      "exceptionId": 2,
+      "text": "Uncaught",
+      "lineNumber": 3,
+      "columnNumber": 19061,
+      "url": "https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "r.fn.load",
+            "scriptId": "121",
+            "url": "https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js",
+            "lineNumber": 3,
+            "columnNumber": 19061
+          },
+          {
+            "functionName": "",
+            "scriptId": "139",
+            "url": "",
+            "lineNumber": 10,
+            "columnNumber": 17
+          },
+          {
+            "functionName": "each",
+            "scriptId": "121",
+            "url": "https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js",
+            "lineNumber": 1,
+            "columnNumber": 2814
+          },
+          {
+            "functionName": "each",
+            "scriptId": "121",
+            "url": "https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js",
+            "lineNumber": 1,
+            "columnNumber": 1002
+          },
+          {
+            "functionName": "b",
+            "scriptId": "139",
+            "url": "",
+            "lineNumber": 5,
+            "columnNumber": 5
+          },
+          {
+            "functionName": "dispatch",
+            "scriptId": "121",
+            "url": "https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js",
+            "lineNumber": 2,
+            "columnNumber": 10314
+          },
+          {
+            "functionName": "q.handle",
+            "scriptId": "121",
+            "url": "https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js",
+            "lineNumber": 2,
+            "columnNumber": 8341
+          },
+          {
+            "functionName": "trigger",
+            "scriptId": "121",
+            "url": "https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js",
+            "lineNumber": 3,
+            "columnNumber": 5807
+          },
+          {
+            "functionName": "",
+            "scriptId": "121",
+            "url": "https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js",
+            "lineNumber": 3,
+            "columnNumber": 6317
+          },
+          {
+            "functionName": "each",
+            "scriptId": "121",
+            "url": "https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js",
+            "lineNumber": 1,
+            "columnNumber": 2814
+          },
+          {
+            "functionName": "each",
+            "scriptId": "121",
+            "url": "https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js",
+            "lineNumber": 1,
+            "columnNumber": 1002
+          },
+          {
+            "functionName": "trigger",
+            "scriptId": "121",
+            "url": "https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js",
+            "lineNumber": 3,
+            "columnNumber": 6293
+          },
+          {
+            "functionName": "a.fn.rwdImageMaps",
+            "scriptId": "139",
+            "url": "",
+            "lineNumber": 41,
+            "columnNumber": 22
+          },
+          {
+            "functionName": "",
+            "scriptId": "139",
+            "url": "",
+            "lineNumber": 46,
+            "columnNumber": 26
+          },
+          {
+            "functionName": "j",
+            "scriptId": "121",
+            "url": "https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js",
+            "lineNumber": 1,
+            "columnNumber": 29947
+          },
+          {
+            "functionName": "k",
+            "scriptId": "121",
+            "url": "https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js",
+            "lineNumber": 1,
+            "columnNumber": 30261
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: a.indexOf is not a function\n    at r.fn.init.r.fn.load (https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js:4:19062)\n    at HTMLImageElement.<anonymous> (<anonymous>:11:18)\n    at Function.each (https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js:2:2815)\n    at r.fn.init.each (https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js:2:1003)\n    at b (<anonymous>:6:6)\n    at dispatch (https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js:3:10315)\n    at q.handle (https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js:3:8342)\n    at Object.trigger (https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js:4:5808)\n    at https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js:4:6318\n    at Function.each (https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js:2:2815)\n    at r.fn.init.each (https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js:2:1003)\n    at r.fn.init.trigger (https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js:4:6294)\n    at r.fn.init.a.fn.rwdImageMaps (<anonymous>:42:23)\n    at HTMLDocument.<anonymous> (<anonymous>:47:27)\n    at j (https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js:2:29948)\n    at k (https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js:2:30262)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":2}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: a.indexOf is not a function\n    at r.fn.init.r.fn.load (https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js:4:19062)\n    at HTMLImageElement.<anonymous> (<anonymous>:11:18)\n    at Function.each (https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js:2:2815)\n    at r.fn.init.each (https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js:2:1003)\n    at b (<anonymous>:6:6)\n    at dispatch (https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js:3:10315)\n    at q.handle (https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js:3:8342)\n    at Object.trigger (https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js:4:5808)\n    at https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js:4:6318\n    at Function.each (https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js:2:2815)\n    at r.fn.init.each (https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js:2:1003)\n    at r.fn.init.trigger (https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js:4:6294)\n    at r.fn.init.a.fn.rwdImageMaps (<anonymous>:42:23)\n    at HTMLDocument.<anonymous> (<anonymous>:47:27)\n    at j (https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js:2:29948)\n    at k (https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js:2:30262)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: a.indexOf is not a function\n    at r.fn…com/ajax/libs/jquery/3.1.1/jquery.min.js:2:30262)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "a.indexOf is not a function"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

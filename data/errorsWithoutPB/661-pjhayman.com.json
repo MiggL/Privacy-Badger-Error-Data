@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": 1583007339367.63,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 752,
+      "columnNumber": 107,
+      "scriptId": "28",
+      "url": "https://www.pjhayman.com/",
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "SyntaxError",
+        "description": "SyntaxError: Invalid or unexpected token",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "SyntaxError: Invalid or unexpected token",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "SyntaxError: Invalid or unexpected token"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Invalid or unexpected token"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

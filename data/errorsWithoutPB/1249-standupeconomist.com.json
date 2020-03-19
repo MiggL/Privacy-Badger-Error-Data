@@ -1,0 +1,56 @@
+[
+  {
+    "timestamp": 1583001886004.92,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 16,
+      "columnNumber": 37,
+      "url": "http://standupeconomist.com/wp-content/plugins/jetpack/modules/sharedaddy/sharing.js?ver=20121205",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "update_facebook_count",
+            "scriptId": "21",
+            "url": "http://standupeconomist.com/wp-content/plugins/jetpack/modules/sharedaddy/sharing.js?ver=20121205",
+            "lineNumber": 16,
+            "columnNumber": 37
+          },
+          {
+            "functionName": "",
+            "scriptId": "40",
+            "url": "https://api.facebook.com/method/fql.query?query=SELECT%20total_count%2C%20url%20FROM%20link_stat%20WHERE%20url%3D%27http%3A%2F%2Fstandupeconomist.com%2Fcartoon-intro-microeconomics%2F%27&format=json&callback=WPCOMSharing.update_facebook_count&_=1583001885852",
+            "lineNumber": 0,
+            "columnNumber": 18
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'total_count' of undefined\n    at Object.update_facebook_count (http://standupeconomist.com/wp-content/plugins/jetpack/modules/sharedaddy/sharing.js?ver=20121205:17:38)\n    at https://api.facebook.com/method/fql.query?query=SELECT%20total_count%2C%20url%20FROM%20link_stat%20WHERE%20url%3D%27http%3A%2F%2Fstandupeconomist.com%2Fcartoon-intro-microeconomics%2F%27&format=json&callback=WPCOMSharing.update_facebook_count&_=1583001885852:1:19",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'total_count' of undefined\n    at Object.update_facebook_count (http://standupeconomist.com/wp-content/plugins/jetpack/modules/sharedaddy/sharing.js?ver=20121205:17:38)\n    at https://api.facebook.com/method/fql.query?query=SELECT%20total_count%2C%20url%20FROM%20link_stat%20WHERE%20url%3D%27http%3A%2F%2Fstandupeconomist.com%2Fcartoon-intro-microeconomics%2F%27&format=json&callback=WPCOMSharing.update_facebook_count&_=1583001885852:1:19",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'total_count' of u…haring.update_facebook_count&_=1583001885852:1:19"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'total_count' of undefined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

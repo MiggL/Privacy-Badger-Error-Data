@@ -1,0 +1,49 @@
+[
+  {
+    "timestamp": 1583424938000.406,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 0,
+      "columnNumber": 0,
+      "url": "http://www.acousticalsystems.com/js/jquery.dropdownPlain.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "22",
+            "url": "http://www.acousticalsystems.com/js/jquery.dropdownPlain.js",
+            "lineNumber": 0,
+            "columnNumber": 0
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: $ is not defined\n    at http://www.acousticalsystems.com/js/jquery.dropdownPlain.js:1:1",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: $ is not defined\n    at http://www.acousticalsystems.com/js/jquery.dropdownPlain.js:1:1",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: $ is not defined\n    at http://www…usticalsystems.com/js/jquery.dropdownPlain.js:1:1"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "$ is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

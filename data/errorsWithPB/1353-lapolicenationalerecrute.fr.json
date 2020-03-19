@@ -1,0 +1,49 @@
+[
+  {
+    "timestamp": 1583419872195.15,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 4802,
+      "columnNumber": 19,
+      "url": "https://www.lapolicenationalerecrute.fr/var/miomcti/cache/public/javascript/bc4ba760bdefc9c195491b55d216cb7e.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "24",
+            "url": "https://www.lapolicenationalerecrute.fr/var/miomcti/cache/public/javascript/bc4ba760bdefc9c195491b55d216cb7e.js",
+            "lineNumber": 4802,
+            "columnNumber": 19
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: $_id is not defined\n    at https://www.lapolicenationalerecrute.fr/var/miomcti/cache/public/javascript/bc4ba760bdefc9c195491b55d216cb7e.js:4803:20",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: $_id is not defined\n    at https://www.lapolicenationalerecrute.fr/var/miomcti/cache/public/javascript/bc4ba760bdefc9c195491b55d216cb7e.js:4803:20",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: $_id is not defined\n    at https:/…cript/bc4ba760bdefc9c195491b55d216cb7e.js:4803:20"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "$_id is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

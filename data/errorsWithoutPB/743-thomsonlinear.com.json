@@ -1,0 +1,91 @@
+[
+  {
+    "timestamp": 1583006600610.124,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 13,
+      "columnNumber": 9979,
+      "url": "https://www.thomsonlinear.com/js/app.20190807.min.js?v=2",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "U.setState",
+            "scriptId": "20",
+            "url": "https://www.thomsonlinear.com/js/app.20190807.min.js?v=2",
+            "lineNumber": 13,
+            "columnNumber": 9979
+          },
+          {
+            "functionName": "l.setOnlineState",
+            "scriptId": "20",
+            "url": "https://www.thomsonlinear.com/js/app.20190807.min.js?v=2",
+            "lineNumber": 13,
+            "columnNumber": 8010
+          },
+          {
+            "functionName": "xa",
+            "scriptId": "20",
+            "url": "https://www.thomsonlinear.com/js/app.20190807.min.js?v=2",
+            "lineNumber": 12,
+            "columnNumber": 30011
+          },
+          {
+            "functionName": "q.connection.messageHandler",
+            "scriptId": "20",
+            "url": "https://www.thomsonlinear.com/js/app.20190807.min.js?v=2",
+            "lineNumber": 14,
+            "columnNumber": 382
+          },
+          {
+            "functionName": "o.handlePing",
+            "scriptId": "20",
+            "url": "https://www.thomsonlinear.com/js/app.20190807.min.js?v=2",
+            "lineNumber": 13,
+            "columnNumber": 30388
+          },
+          {
+            "functionName": "I.handlePing",
+            "scriptId": "20",
+            "url": "https://www.thomsonlinear.com/js/app.20190807.min.js?v=2",
+            "lineNumber": 13,
+            "columnNumber": 25575
+          },
+          {
+            "functionName": "",
+            "scriptId": "74",
+            "url": "https://d.la1-c1-ph2.salesforceliveagent.com/chat/rest/Visitor/Settings.jsonp?sid=323af481-7172-41dc-b183-c95d575c0079&Settings.prefix=Visitor&Settings.buttonIds=[573800000008PP8,573800000008Plk,573800000008PP3]&Settings.updateBreadcrumb=1&Settings.urlPrefix=undefined&callback=liveagent._.handlePing&deployment_id=57280000000Gnff&org_id=00D300000000D50&version=44",
+            "lineNumber": 0,
+            "columnNumber": 16
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'style' of null\n    at U.setState (https://www.thomsonlinear.com/js/app.20190807.min.js?v=2:14:9980)\n    at la.l.setOnlineState (https://www.thomsonlinear.com/js/app.20190807.min.js?v=2:14:8011)\n    at xa (https://www.thomsonlinear.com/js/app.20190807.min.js?v=2:13:30012)\n    at q.connection.messageHandler (https://www.thomsonlinear.com/js/app.20190807.min.js?v=2:15:383)\n    at Object.o.handlePing (https://www.thomsonlinear.com/js/app.20190807.min.js?v=2:14:30389)\n    at Object.I.handlePing (https://www.thomsonlinear.com/js/app.20190807.min.js?v=2:14:25576)\n    at https://d.la1-c1-ph2.salesforceliveagent.com/chat/rest/Visitor/Settings.jsonp?sid=323af481-7172-41dc-b183-c95d575c0079&Settings.prefix=Visitor&Settings.buttonIds=[573800000008PP8,573800000008Plk,573800000008PP3]&Settings.updateBreadcrumb=1&Settings.urlPrefix=undefined&callback=liveagent._.handlePing&deployment_id=57280000000Gnff&org_id=00D300000000D50&version=44:1:17",
+        "objectId": "{\"injectedScriptId\":3,\"id\":19}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'style' of null\n    at U.setState (https://www.thomsonlinear.com/js/app.20190807.min.js?v=2:14:9980)\n    at la.l.setOnlineState (https://www.thomsonlinear.com/js/app.20190807.min.js?v=2:14:8011)\n    at xa (https://www.thomsonlinear.com/js/app.20190807.min.js?v=2:13:30012)\n    at q.connection.messageHandler (https://www.thomsonlinear.com/js/app.20190807.min.js?v=2:15:383)\n    at Object.o.handlePing (https://www.thomsonlinear.com/js/app.20190807.min.js?v=2:14:30389)\n    at Object.I.handlePing (https://www.thomsonlinear.com/js/app.20190807.min.js?v=2:14:25576)\n    at https://d.la1-c1-ph2.salesforceliveagent.com/chat/rest/Visitor/Settings.jsonp?sid=323af481-7172-41dc-b183-c95d575c0079&Settings.prefix=Visitor&Settings.buttonIds=[573800000008PP8,573800000008Plk,573800000008PP3]&Settings.updateBreadcrumb=1&Settings.urlPrefix=undefined&callback=liveagent._.handlePing&deployment_id=57280000000Gnff&org_id=00D300000000D50&version=44:1:17",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'style' of null\n  …000000Gnff&org_id=00D300000000D50&version=44:1:17"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'style' of null"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

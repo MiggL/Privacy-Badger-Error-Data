@@ -1,0 +1,86 @@
+[
+  {
+    "timestamp": 1583003797604.9312,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 15,
+      "columnNumber": 11,
+      "scriptId": "13",
+      "url": "http://www.ukrspecexport.com/index/page/id/ex-aviasvit/lang/eng",
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "SyntaxError",
+        "description": "SyntaxError: Unexpected token ';'",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "SyntaxError: Unexpected token ';'",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "SyntaxError: Unexpected token ';'"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Unexpected token ';'"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583003797816.5679,
+    "exceptionDetails": {
+      "exceptionId": 2,
+      "text": "Uncaught",
+      "lineNumber": 9,
+      "columnNumber": 37,
+      "url": "http://www.ukrspecexport.com/js/menu.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "window.onload",
+            "scriptId": "12",
+            "url": "http://www.ukrspecexport.com/js/menu.js",
+            "lineNumber": 9,
+            "columnNumber": 37
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: m_id is not defined\n    at window.onload (http://www.ukrspecexport.com/js/menu.js:10:38)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":2}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: m_id is not defined\n    at window.onload (http://www.ukrspecexport.com/js/menu.js:10:38)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: m_id is not defined\n    at window.…d (http://www.ukrspecexport.com/js/menu.js:10:38)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "m_id is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

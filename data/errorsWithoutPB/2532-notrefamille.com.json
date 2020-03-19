@@ -1,0 +1,49 @@
+[
+  {
+    "timestamp": 1582922008874.6829,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 0,
+      "columnNumber": 1988,
+      "url": "https://www.notrefamille.com/dictionnaire/definition/testament_olographe/",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "229",
+            "url": "https://www.notrefamille.com/dictionnaire/definition/testament_olographe/",
+            "lineNumber": 0,
+            "columnNumber": 1988
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: osdlfm is not defined\n    at https://www.notrefamille.com/dictionnaire/definition/testament_olographe/:1:1989",
+        "objectId": "{\"injectedScriptId\":31,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: osdlfm is not defined\n    at https://www.notrefamille.com/dictionnaire/definition/testament_olographe/:1:1989",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: osdlfm is not defined\n    at https…ctionnaire/definition/testament_olographe/:1:1989"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "osdlfm is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 31
+    }
+  }
+]

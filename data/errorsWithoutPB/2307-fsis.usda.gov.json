@@ -1,0 +1,70 @@
+[
+  {
+    "timestamp": 1582812445510.904,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 3,
+      "columnNumber": 25183,
+      "url": "https://search.usa.gov/assets/sayt_loader_libs.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "monkeyPatchAutocomplete",
+            "scriptId": "80",
+            "url": "https://search.usa.gov/assets/sayt_loader_libs.js",
+            "lineNumber": 3,
+            "columnNumber": 25183
+          },
+          {
+            "functionName": "",
+            "scriptId": "80",
+            "url": "https://search.usa.gov/assets/sayt_loader_libs.js",
+            "lineNumber": 3,
+            "columnNumber": 26222
+          },
+          {
+            "functionName": "e",
+            "scriptId": "80",
+            "url": "https://search.usa.gov/assets/sayt_loader_libs.js",
+            "lineNumber": 1,
+            "columnNumber": 6465
+          },
+          {
+            "functionName": "t",
+            "scriptId": "80",
+            "url": "https://search.usa.gov/assets/sayt_loader_libs.js",
+            "lineNumber": 1,
+            "columnNumber": 6768
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'autocomplete' of undefined\n    at monkeyPatchAutocomplete (https://search.usa.gov/assets/sayt_loader_libs.js:4:25184)\n    at HTMLDocument.<anonymous> (https://search.usa.gov/assets/sayt_loader_libs.js:4:26223)\n    at e (https://search.usa.gov/assets/sayt_loader_libs.js:2:6466)\n    at t (https://search.usa.gov/assets/sayt_loader_libs.js:2:6769)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'autocomplete' of undefined\n    at monkeyPatchAutocomplete (https://search.usa.gov/assets/sayt_loader_libs.js:4:25184)\n    at HTMLDocument.<anonymous> (https://search.usa.gov/assets/sayt_loader_libs.js:4:26223)\n    at e (https://search.usa.gov/assets/sayt_loader_libs.js:2:6466)\n    at t (https://search.usa.gov/assets/sayt_loader_libs.js:2:6769)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'autocomplete' of …search.usa.gov/assets/sayt_loader_libs.js:2:6769)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'autocomplete' of undefined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

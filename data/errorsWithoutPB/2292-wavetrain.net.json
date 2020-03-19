@@ -1,0 +1,49 @@
+[
+  {
+    "timestamp": 1582812579432.27,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 398,
+      "columnNumber": 0,
+      "url": "https://wavetrain.net/2011/08/01/we-live-on-a-schooner-by-elizabeth-jay-etnier/",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "20",
+            "url": "https://wavetrain.net/2011/08/01/we-live-on-a-schooner-by-elizabeth-jay-etnier/",
+            "lineNumber": 398,
+            "columnNumber": 0
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: acymModule is not defined\n    at https://wavetrain.net/2011/08/01/we-live-on-a-schooner-by-elizabeth-jay-etnier/:399:1",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: acymModule is not defined\n    at https://wavetrain.net/2011/08/01/we-live-on-a-schooner-by-elizabeth-jay-etnier/:399:1",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: acymModule is not defined\n    at h…live-on-a-schooner-by-elizabeth-jay-etnier/:399:1"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "acymModule is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

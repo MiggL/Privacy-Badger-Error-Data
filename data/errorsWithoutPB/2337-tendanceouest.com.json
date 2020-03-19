@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": 1582812174582.231,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 165,
+      "columnNumber": 7,
+      "scriptId": "355",
+      "url": "https://tpc.googlesyndication.com/safeframe/1-0-37/html/container.html",
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "SyntaxError",
+        "description": "SyntaxError: Invalid or unexpected token",
+        "objectId": "{\"injectedScriptId\":78,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "SyntaxError: Invalid or unexpected token",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "SyntaxError: Invalid or unexpected token"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Invalid or unexpected token"
+            }
+          ]
+        }
+      },
+      "executionContextId": 78
+    }
+  }
+]

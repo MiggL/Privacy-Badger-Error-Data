@@ -1,0 +1,49 @@
+[
+  {
+    "timestamp": 1583013111539.01,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 272,
+      "columnNumber": 8,
+      "url": "http://markcurtis.info/2017/03/20/the-invasion-of-iraq-2003/",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "18",
+            "url": "http://markcurtis.info/2017/03/20/the-invasion-of-iraq-2003/",
+            "lineNumber": 272,
+            "columnNumber": 8
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: jQuery is not defined\n    at http://markcurtis.info/2017/03/20/the-invasion-of-iraq-2003/:273:9",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: jQuery is not defined\n    at http://markcurtis.info/2017/03/20/the-invasion-of-iraq-2003/:273:9",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: jQuery is not defined\n    at http:….info/2017/03/20/the-invasion-of-iraq-2003/:273:9"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "jQuery is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

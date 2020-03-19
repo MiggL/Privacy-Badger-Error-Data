@@ -1,0 +1,119 @@
+[
+  {
+    "timestamp": 1582812636350.574,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 9,
+      "columnNumber": 30871,
+      "url": "https://www.nytimes.com/video/players/offsite/js/libraries.embed.min.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "EmbedPlayer.resizePlayer",
+            "scriptId": "13",
+            "url": "https://www.nytimes.com/video/players/offsite/js/libraries.embed.min.js",
+            "lineNumber": 9,
+            "columnNumber": 30871
+          },
+          {
+            "functionName": "",
+            "scriptId": "13",
+            "url": "https://www.nytimes.com/video/players/offsite/js/libraries.embed.min.js",
+            "lineNumber": 9,
+            "columnNumber": 29556
+          },
+          {
+            "functionName": "a.trigger",
+            "scriptId": "14",
+            "url": "https://static01.nytimes.com/video/vhs/vhs-2.x.min.js",
+            "lineNumber": 11,
+            "columnNumber": 6400
+          },
+          {
+            "functionName": "_loaded",
+            "scriptId": "14",
+            "url": "https://static01.nytimes.com/video/vhs/vhs-2.x.min.js",
+            "lineNumber": 10,
+            "columnNumber": 28183
+          },
+          {
+            "functionName": "renderPlayer",
+            "scriptId": "14",
+            "url": "https://static01.nytimes.com/video/vhs/vhs-2.x.min.js",
+            "lineNumber": 10,
+            "columnNumber": 24958
+          },
+          {
+            "functionName": "",
+            "scriptId": "14",
+            "url": "https://static01.nytimes.com/video/vhs/vhs-2.x.min.js",
+            "lineNumber": 10,
+            "columnNumber": 22504
+          },
+          {
+            "functionName": "",
+            "scriptId": "14",
+            "url": "https://static01.nytimes.com/video/vhs/vhs-2.x.min.js",
+            "lineNumber": 10,
+            "columnNumber": 23842
+          },
+          {
+            "functionName": "k",
+            "scriptId": "13",
+            "url": "https://www.nytimes.com/video/players/offsite/js/libraries.embed.min.js",
+            "lineNumber": 7,
+            "columnNumber": 6574
+          },
+          {
+            "functionName": "fireWith",
+            "scriptId": "13",
+            "url": "https://www.nytimes.com/video/players/offsite/js/libraries.embed.min.js",
+            "lineNumber": 7,
+            "columnNumber": 7406
+          },
+          {
+            "functionName": "c",
+            "scriptId": "13",
+            "url": "https://www.nytimes.com/video/players/offsite/js/libraries.embed.min.js",
+            "lineNumber": 8,
+            "columnNumber": 23094
+          },
+          {
+            "functionName": "b",
+            "scriptId": "13",
+            "url": "https://www.nytimes.com/video/players/offsite/js/libraries.embed.min.js",
+            "lineNumber": 8,
+            "columnNumber": 29537
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: $(...).outerWidth is not a function\n    at EmbedPlayer.resizePlayer (https://www.nytimes.com/video/players/offsite/js/libraries.embed.min.js:10:30872)\n    at e.api.HtmlFive.<anonymous> (https://www.nytimes.com/video/players/offsite/js/libraries.embed.min.js:10:29557)\n    at e.api.HtmlFive.a.trigger (https://static01.nytimes.com/video/vhs/vhs-2.x.min.js:12:6401)\n    at e.api.HtmlFive._loaded (https://static01.nytimes.com/video/vhs/vhs-2.x.min.js:11:28184)\n    at e.api.HtmlFive.renderPlayer (https://static01.nytimes.com/video/vhs/vhs-2.x.min.js:11:24959)\n    at https://static01.nytimes.com/video/vhs/vhs-2.x.min.js:11:22505\n    at e.api.HtmlFive.<anonymous> (https://static01.nytimes.com/video/vhs/vhs-2.x.min.js:11:23843)\n    at k (https://www.nytimes.com/video/players/offsite/js/libraries.embed.min.js:8:6575)\n    at Object.fireWith [as resolveWith] (https://www.nytimes.com/video/players/offsite/js/libraries.embed.min.js:8:7407)\n    at c (https://www.nytimes.com/video/players/offsite/js/libraries.embed.min.js:9:23095)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: $(...).outerWidth is not a function\n    at EmbedPlayer.resizePlayer (https://www.nytimes.com/video/players/offsite/js/libraries.embed.min.js:10:30872)\n    at e.api.HtmlFive.<anonymous> (https://www.nytimes.com/video/players/offsite/js/libraries.embed.min.js:10:29557)\n    at e.api.HtmlFive.a.trigger (https://static01.nytimes.com/video/vhs/vhs-2.x.min.js:12:6401)\n    at e.api.HtmlFive._loaded (https://static01.nytimes.com/video/vhs/vhs-2.x.min.js:11:28184)\n    at e.api.HtmlFive.renderPlayer (https://static01.nytimes.com/video/vhs/vhs-2.x.min.js:11:24959)\n    at https://static01.nytimes.com/video/vhs/vhs-2.x.min.js:11:22505\n    at e.api.HtmlFive.<anonymous> (https://static01.nytimes.com/video/vhs/vhs-2.x.min.js:11:23843)\n    at k (https://www.nytimes.com/video/players/offsite/js/libraries.embed.min.js:8:6575)\n    at Object.fireWith [as resolveWith] (https://www.nytimes.com/video/players/offsite/js/libraries.embed.min.js:8:7407)\n    at c (https://www.nytimes.com/video/players/offsite/js/libraries.embed.min.js:9:23095)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: $(...).outerWidth is not a function\n   …layers/offsite/js/libraries.embed.min.js:9:23095)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "$(...).outerWidth is not a function"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

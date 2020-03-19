@@ -1,0 +1,44 @@
+[
+  {
+    "timestamp": 1582816477190.311,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught (in promise)",
+      "lineNumber": 0,
+      "columnNumber": 0,
+      "scriptId": "1",
+      "url": "https://www.alibaba.com/showroom/ladies-cotton-cheque-vest.html",
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "DOMException",
+        "description": "DOMException: Failed to load because no supported source was found.",
+        "objectId": "{\"injectedScriptId\":3,\"id\":2}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "DOMException: Failed to load because no supported source was found.",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "code",
+              "type": "number",
+              "value": "9"
+            },
+            {
+              "name": "name",
+              "type": "string",
+              "value": "NotSupportedError"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Failed to load because no supported source was found."
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

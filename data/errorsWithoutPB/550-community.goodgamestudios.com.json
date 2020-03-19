@@ -1,0 +1,49 @@
+[
+  {
+    "timestamp": 1583008350956.762,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 836,
+      "columnNumber": 47,
+      "url": "https://community.goodgamestudios.com/empire/en/discussion/117430/new-research-does-not-work",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "51",
+            "url": "https://community.goodgamestudios.com/empire/en/discussion/117430/new-research-does-not-work",
+            "lineNumber": 836,
+            "columnNumber": 47
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: $(...).removeClass(...).affix is not a function\n    at https://community.goodgamestudios.com/empire/en/discussion/117430/new-research-does-not-work:837:48",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: $(...).removeClass(...).affix is not a function\n    at https://community.goodgamestudios.com/empire/en/discussion/117430/new-research-does-not-work:837:48",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: $(...).removeClass(...).affix is not a …scussion/117430/new-research-does-not-work:837:48"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "$(...).removeClass(...).affix is not a function"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

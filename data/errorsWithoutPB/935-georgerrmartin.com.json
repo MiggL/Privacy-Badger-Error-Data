@@ -1,0 +1,77 @@
+[
+  {
+    "timestamp": 1583004826591.309,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 30,
+      "columnNumber": 20,
+      "url": "https://georgerrmartin.com/about-george/life-and-times/parris/",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "16",
+            "url": "https://georgerrmartin.com/about-george/life-and-times/parris/",
+            "lineNumber": 30,
+            "columnNumber": 20
+          },
+          {
+            "functionName": "n",
+            "scriptId": "13",
+            "url": "https://code.jquery.com/jquery-1.7.1.min.js",
+            "lineNumber": 1,
+            "columnNumber": 14783
+          },
+          {
+            "functionName": "fireWith",
+            "scriptId": "13",
+            "url": "https://code.jquery.com/jquery-1.7.1.min.js",
+            "lineNumber": 1,
+            "columnNumber": 15552
+          },
+          {
+            "functionName": "ready",
+            "scriptId": "13",
+            "url": "https://code.jquery.com/jquery-1.7.1.min.js",
+            "lineNumber": 1,
+            "columnNumber": 9772
+          },
+          {
+            "functionName": "B",
+            "scriptId": "13",
+            "url": "https://code.jquery.com/jquery-1.7.1.min.js",
+            "lineNumber": 1,
+            "columnNumber": 14347
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: $(...).overlay is not a function\n    at HTMLDocument.<anonymous> (https://georgerrmartin.com/about-george/life-and-times/parris/:31:21)\n    at n (https://code.jquery.com/jquery-1.7.1.min.js:2:14784)\n    at Object.fireWith (https://code.jquery.com/jquery-1.7.1.min.js:2:15553)\n    at Function.ready (https://code.jquery.com/jquery-1.7.1.min.js:2:9773)\n    at HTMLDocument.B (https://code.jquery.com/jquery-1.7.1.min.js:2:14348)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: $(...).overlay is not a function\n    at HTMLDocument.<anonymous> (https://georgerrmartin.com/about-george/life-and-times/parris/:31:21)\n    at n (https://code.jquery.com/jquery-1.7.1.min.js:2:14784)\n    at Object.fireWith (https://code.jquery.com/jquery-1.7.1.min.js:2:15553)\n    at Function.ready (https://code.jquery.com/jquery-1.7.1.min.js:2:9773)\n    at HTMLDocument.B (https://code.jquery.com/jquery-1.7.1.min.js:2:14348)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: $(...).overlay is not a function\n    at…ps://code.jquery.com/jquery-1.7.1.min.js:2:14348)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "$(...).overlay is not a function"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

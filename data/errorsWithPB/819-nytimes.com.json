@@ -1,0 +1,72 @@
+[
+  {
+    "timestamp": 1583424877250.8298,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 1,
+      "columnNumber": 7478,
+      "url": "https://www.nytimes.com/vi-assets/static-assets/nyt5/20190823-143533-mbipe/js/framework.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "makeError",
+            "scriptId": "101",
+            "url": "https://www.nytimes.com/vi-assets/static-assets/nyt5/20190823-143533-mbipe/js/framework.js",
+            "lineNumber": 1,
+            "columnNumber": 7478
+          },
+          {
+            "functionName": "onScriptError",
+            "scriptId": "101",
+            "url": "https://www.nytimes.com/vi-assets/static-assets/nyt5/20190823-143533-mbipe/js/framework.js",
+            "lineNumber": 1,
+            "columnNumber": 24719
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "Error",
+        "description": "Error: Script error\nhttp://requirejs.org/docs/errors.html#scripterror\n    at makeError (https://www.nytimes.com/vi-assets/static-assets/nyt5/20190823-143533-mbipe/js/framework.js:2:7479)\n    at HTMLScriptElement.onScriptError (https://www.nytimes.com/vi-assets/static-assets/nyt5/20190823-143533-mbipe/js/framework.js:2:24720)",
+        "objectId": "{\"injectedScriptId\":10,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "Error: Script error\nhttp://requirejs.org/docs/errors.html#scripterror\n    at makeError (https://www.nytimes.com/vi-assets/static-assets/nyt5/20190823-143533-mbipe/js/framework.js:2:7479)\n    at HTMLScriptElement.onScriptError (https://www.nytimes.com/vi-assets/static-assets/nyt5/20190823-143533-mbipe/js/framework.js:2:24720)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "requireType",
+              "type": "string",
+              "value": "scripterror"
+            },
+            {
+              "name": "requireModules",
+              "type": "object",
+              "value": "Array(1)",
+              "subtype": "array"
+            },
+            {
+              "name": "originalError",
+              "type": "object",
+              "value": "Event"
+            },
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "Error: Script error\nhttp://requirejs.org/docs/erro…t5/20190823-143533-mbipe/js/framework.js:2:24720)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Script error\nhttp://requirejs.org/docs/errors.html#scripterror"
+            }
+          ]
+        }
+      },
+      "executionContextId": 10
+    }
+  }
+]

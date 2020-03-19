@@ -1,0 +1,77 @@
+[
+  {
+    "timestamp": 1582890093341.031,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 481,
+      "columnNumber": 2,
+      "url": "https://thehill.com/sites/default/files/js/js_8CtrfongTo0AnerhmNZ2iZbHTDhOOt-thlzARE9nxGM.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "24",
+            "url": "https://thehill.com/sites/default/files/js/js_8CtrfongTo0AnerhmNZ2iZbHTDhOOt-thlzARE9nxGM.js",
+            "lineNumber": 481,
+            "columnNumber": 2
+          },
+          {
+            "functionName": "o",
+            "scriptId": "25",
+            "url": "https://thehill.com/sites/default/files/js/js_UsJCaTKadQHcBxW3InvotRkwEO94ieAIN0hsSq5sbL4.js",
+            "lineNumber": 1,
+            "columnNumber": 14733
+          },
+          {
+            "functionName": "fireWith",
+            "scriptId": "25",
+            "url": "https://thehill.com/sites/default/files/js/js_UsJCaTKadQHcBxW3InvotRkwEO94ieAIN0hsSq5sbL4.js",
+            "lineNumber": 1,
+            "columnNumber": 15502
+          },
+          {
+            "functionName": "ready",
+            "scriptId": "25",
+            "url": "https://thehill.com/sites/default/files/js/js_UsJCaTKadQHcBxW3InvotRkwEO94ieAIN0hsSq5sbL4.js",
+            "lineNumber": 1,
+            "columnNumber": 9593
+          },
+          {
+            "functionName": "B",
+            "scriptId": "25",
+            "url": "https://thehill.com/sites/default/files/js/js_UsJCaTKadQHcBxW3InvotRkwEO94ieAIN0hsSq5sbL4.js",
+            "lineNumber": 1,
+            "columnNumber": 14290
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: googletag is not defined\n    at HTMLDocument.<anonymous> (https://thehill.com/sites/default/files/js/js_8CtrfongTo0AnerhmNZ2iZbHTDhOOt-thlzARE9nxGM.js:482:3)\n    at o (https://thehill.com/sites/default/files/js/js_UsJCaTKadQHcBxW3InvotRkwEO94ieAIN0hsSq5sbL4.js:2:14734)\n    at Object.fireWith (https://thehill.com/sites/default/files/js/js_UsJCaTKadQHcBxW3InvotRkwEO94ieAIN0hsSq5sbL4.js:2:15503)\n    at Function.ready (https://thehill.com/sites/default/files/js/js_UsJCaTKadQHcBxW3InvotRkwEO94ieAIN0hsSq5sbL4.js:2:9594)\n    at HTMLDocument.B (https://thehill.com/sites/default/files/js/js_UsJCaTKadQHcBxW3InvotRkwEO94ieAIN0hsSq5sbL4.js:2:14291)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: googletag is not defined\n    at HTMLDocument.<anonymous> (https://thehill.com/sites/default/files/js/js_8CtrfongTo0AnerhmNZ2iZbHTDhOOt-thlzARE9nxGM.js:482:3)\n    at o (https://thehill.com/sites/default/files/js/js_UsJCaTKadQHcBxW3InvotRkwEO94ieAIN0hsSq5sbL4.js:2:14734)\n    at Object.fireWith (https://thehill.com/sites/default/files/js/js_UsJCaTKadQHcBxW3InvotRkwEO94ieAIN0hsSq5sbL4.js:2:15503)\n    at Function.ready (https://thehill.com/sites/default/files/js/js_UsJCaTKadQHcBxW3InvotRkwEO94ieAIN0hsSq5sbL4.js:2:9594)\n    at HTMLDocument.B (https://thehill.com/sites/default/files/js/js_UsJCaTKadQHcBxW3InvotRkwEO94ieAIN0hsSq5sbL4.js:2:14291)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: googletag is not defined\n    at HT…KadQHcBxW3InvotRkwEO94ieAIN0hsSq5sbL4.js:2:14291)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "googletag is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

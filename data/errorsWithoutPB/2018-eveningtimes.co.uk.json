@@ -1,0 +1,64 @@
+[
+  {
+    "timestamp": 1582813618336.637,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 0,
+      "columnNumber": 0,
+      "scriptId": "961",
+      "url": "https://www.heraldscotland.com/news/14719812.unique-portrait-of-nicola-sturgeon-and-alex-salmond-to-go-on-sale-in-glasgow/",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "c",
+            "scriptId": "55",
+            "url": "https://cdn.exelator.com/build/static.min.js",
+            "lineNumber": 0,
+            "columnNumber": 2275
+          },
+          {
+            "functionName": "s",
+            "scriptId": "55",
+            "url": "https://cdn.exelator.com/build/static.min.js",
+            "lineNumber": 0,
+            "columnNumber": 2150
+          },
+          {
+            "functionName": "t.onreadystatechange",
+            "scriptId": "55",
+            "url": "https://cdn.exelator.com/build/static.min.js",
+            "lineNumber": 0,
+            "columnNumber": 3734
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "SyntaxError",
+        "description": "SyntaxError: Unexpected token '<'\n    at c (https://cdn.exelator.com/build/static.min.js:1:2276)\n    at s (https://cdn.exelator.com/build/static.min.js:1:2151)\n    at XMLHttpRequest.t.onreadystatechange (https://cdn.exelator.com/build/static.min.js:1:3735)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":2}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "SyntaxError: Unexpected token '<'\n    at c (https://cdn.exelator.com/build/static.min.js:1:2276)\n    at s (https://cdn.exelator.com/build/static.min.js:1:2151)\n    at XMLHttpRequest.t.onreadystatechange (https://cdn.exelator.com/build/static.min.js:1:3735)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "SyntaxError: Unexpected token '<'\n    at c (https:…ps://cdn.exelator.com/build/static.min.js:1:3735)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Unexpected token '<'"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

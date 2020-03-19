@@ -1,0 +1,190 @@
+[
+  {
+    "timestamp": 1582896994943.346,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 151,
+      "columnNumber": 41,
+      "url": "https://pediatrics.aappublications.org/content/88/4/868?download=true&sso=1&sso_redirect_count=2&nfstatus=401&nftoken=00000000-0000-0000-0000-000000000000&nfstatusdescription=ERROR%3A%20No%20local%20token&nfstatus=401&nftoken=00000000-0000-0000-0000-000000000000&nfstatusdescription=ERROR%3a+No+local+token",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "33",
+            "url": "https://pediatrics.aappublications.org/content/88/4/868?download=true&sso=1&sso_redirect_count=2&nfstatus=401&nftoken=00000000-0000-0000-0000-000000000000&nfstatusdescription=ERROR%3A%20No%20local%20token&nfstatus=401&nftoken=00000000-0000-0000-0000-000000000000&nfstatusdescription=ERROR%3a+No+local+token",
+            "lineNumber": 151,
+            "columnNumber": 41
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: googletag.defineSlot is not a function\n    at https://pediatrics.aappublications.org/content/88/4/868?download=true&sso=1&sso_redirect_count=2&nfstatus=401&nftoken=00000000-0000-0000-0000-000000000000&nfstatusdescription=ERROR%3A%20No%20local%20token&nfstatus=401&nftoken=00000000-0000-0000-0000-000000000000&nfstatusdescription=ERROR%3a+No+local+token:152:42",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: googletag.defineSlot is not a function\n    at https://pediatrics.aappublications.org/content/88/4/868?download=true&sso=1&sso_redirect_count=2&nfstatus=401&nftoken=00000000-0000-0000-0000-000000000000&nfstatusdescription=ERROR%3A%20No%20local%20token&nfstatus=401&nftoken=00000000-0000-0000-0000-000000000000&nfstatusdescription=ERROR%3a+No+local+token:152:42",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: googletag.defineSlot is not a function\n…fstatusdescription=ERROR%3a+No+local+token:152:42"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "googletag.defineSlot is not a function"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1582896994950.767,
+    "exceptionDetails": {
+      "exceptionId": 2,
+      "text": "Uncaught",
+      "lineNumber": 158,
+      "columnNumber": 44,
+      "url": "https://pediatrics.aappublications.org/content/88/4/868?download=true&sso=1&sso_redirect_count=2&nfstatus=401&nftoken=00000000-0000-0000-0000-000000000000&nfstatusdescription=ERROR%3A%20No%20local%20token&nfstatus=401&nftoken=00000000-0000-0000-0000-000000000000&nfstatusdescription=ERROR%3a+No+local+token",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "34",
+            "url": "https://pediatrics.aappublications.org/content/88/4/868?download=true&sso=1&sso_redirect_count=2&nfstatus=401&nftoken=00000000-0000-0000-0000-000000000000&nfstatusdescription=ERROR%3A%20No%20local%20token&nfstatus=401&nftoken=00000000-0000-0000-0000-000000000000&nfstatusdescription=ERROR%3a+No+local+token",
+            "lineNumber": 158,
+            "columnNumber": 44
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: googletag.defineSlot is not a function\n    at https://pediatrics.aappublications.org/content/88/4/868?download=true&sso=1&sso_redirect_count=2&nfstatus=401&nftoken=00000000-0000-0000-0000-000000000000&nfstatusdescription=ERROR%3A%20No%20local%20token&nfstatus=401&nftoken=00000000-0000-0000-0000-000000000000&nfstatusdescription=ERROR%3a+No+local+token:159:45",
+        "objectId": "{\"injectedScriptId\":3,\"id\":2}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: googletag.defineSlot is not a function\n    at https://pediatrics.aappublications.org/content/88/4/868?download=true&sso=1&sso_redirect_count=2&nfstatus=401&nftoken=00000000-0000-0000-0000-000000000000&nfstatusdescription=ERROR%3A%20No%20local%20token&nfstatus=401&nftoken=00000000-0000-0000-0000-000000000000&nfstatusdescription=ERROR%3a+No+local+token:159:45",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: googletag.defineSlot is not a function\n…fstatusdescription=ERROR%3a+No+local+token:159:45"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "googletag.defineSlot is not a function"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1582896994951.046,
+    "exceptionDetails": {
+      "exceptionId": 3,
+      "text": "Uncaught",
+      "lineNumber": 164,
+      "columnNumber": 44,
+      "url": "https://pediatrics.aappublications.org/content/88/4/868?download=true&sso=1&sso_redirect_count=2&nfstatus=401&nftoken=00000000-0000-0000-0000-000000000000&nfstatusdescription=ERROR%3A%20No%20local%20token&nfstatus=401&nftoken=00000000-0000-0000-0000-000000000000&nfstatusdescription=ERROR%3a+No+local+token",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "35",
+            "url": "https://pediatrics.aappublications.org/content/88/4/868?download=true&sso=1&sso_redirect_count=2&nfstatus=401&nftoken=00000000-0000-0000-0000-000000000000&nfstatusdescription=ERROR%3A%20No%20local%20token&nfstatus=401&nftoken=00000000-0000-0000-0000-000000000000&nfstatusdescription=ERROR%3a+No+local+token",
+            "lineNumber": 164,
+            "columnNumber": 44
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: googletag.defineSlot is not a function\n    at https://pediatrics.aappublications.org/content/88/4/868?download=true&sso=1&sso_redirect_count=2&nfstatus=401&nftoken=00000000-0000-0000-0000-000000000000&nfstatusdescription=ERROR%3A%20No%20local%20token&nfstatus=401&nftoken=00000000-0000-0000-0000-000000000000&nfstatusdescription=ERROR%3a+No+local+token:165:45",
+        "objectId": "{\"injectedScriptId\":3,\"id\":3}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: googletag.defineSlot is not a function\n    at https://pediatrics.aappublications.org/content/88/4/868?download=true&sso=1&sso_redirect_count=2&nfstatus=401&nftoken=00000000-0000-0000-0000-000000000000&nfstatusdescription=ERROR%3A%20No%20local%20token&nfstatus=401&nftoken=00000000-0000-0000-0000-000000000000&nfstatusdescription=ERROR%3a+No+local+token:165:45",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: googletag.defineSlot is not a function\n…fstatusdescription=ERROR%3a+No+local+token:165:45"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "googletag.defineSlot is not a function"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1582896994952.499,
+    "exceptionDetails": {
+      "exceptionId": 4,
+      "text": "Uncaught",
+      "lineNumber": 193,
+      "columnNumber": 10,
+      "url": "https://pediatrics.aappublications.org/content/88/4/868?download=true&sso=1&sso_redirect_count=2&nfstatus=401&nftoken=00000000-0000-0000-0000-000000000000&nfstatusdescription=ERROR%3A%20No%20local%20token&nfstatus=401&nftoken=00000000-0000-0000-0000-000000000000&nfstatusdescription=ERROR%3a+No+local+token",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "38",
+            "url": "https://pediatrics.aappublications.org/content/88/4/868?download=true&sso=1&sso_redirect_count=2&nfstatus=401&nftoken=00000000-0000-0000-0000-000000000000&nfstatusdescription=ERROR%3A%20No%20local%20token&nfstatus=401&nftoken=00000000-0000-0000-0000-000000000000&nfstatusdescription=ERROR%3a+No+local+token",
+            "lineNumber": 193,
+            "columnNumber": 10
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: googletag.enableServices is not a function\n    at https://pediatrics.aappublications.org/content/88/4/868?download=true&sso=1&sso_redirect_count=2&nfstatus=401&nftoken=00000000-0000-0000-0000-000000000000&nfstatusdescription=ERROR%3A%20No%20local%20token&nfstatus=401&nftoken=00000000-0000-0000-0000-000000000000&nfstatusdescription=ERROR%3a+No+local+token:194:11",
+        "objectId": "{\"injectedScriptId\":3,\"id\":4}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: googletag.enableServices is not a function\n    at https://pediatrics.aappublications.org/content/88/4/868?download=true&sso=1&sso_redirect_count=2&nfstatus=401&nftoken=00000000-0000-0000-0000-000000000000&nfstatusdescription=ERROR%3A%20No%20local%20token&nfstatus=401&nftoken=00000000-0000-0000-0000-000000000000&nfstatusdescription=ERROR%3a+No+local+token:194:11",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: googletag.enableServices is not a funct…fstatusdescription=ERROR%3a+No+local+token:194:11"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "googletag.enableServices is not a function"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

@@ -1,0 +1,111 @@
+[
+  {
+    "timestamp": 1583748548684.9438,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 150,
+      "columnNumber": 60,
+      "url": "https://www.telegraph.co.uk/news/worldnews/asia/india/6156441/Indian-mothers-in-law-form-union-to-improve-public-image.html",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "document.onreadystatechange",
+            "scriptId": "38",
+            "url": "https://www.telegraph.co.uk/news/worldnews/asia/india/6156441/Indian-mothers-in-law-form-union-to-improve-public-image.html",
+            "lineNumber": 150,
+            "columnNumber": 60
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot set property 'src' of null\n    at HTMLDocument.document.onreadystatechange (https://www.telegraph.co.uk/news/worldnews/asia/india/6156441/Indian-mothers-in-law-form-union-to-improve-public-image.html:151:61)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot set property 'src' of null\n    at HTMLDocument.document.onreadystatechange (https://www.telegraph.co.uk/news/worldnews/asia/india/6156441/Indian-mothers-in-law-form-union-to-improve-public-image.html:151:61)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot set property 'src' of null\n    a…w-form-union-to-improve-public-image.html:151:61)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot set property 'src' of null"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583748549987.329,
+    "exceptionDetails": {
+      "exceptionId": 2,
+      "text": "Uncaught",
+      "lineNumber": 150,
+      "columnNumber": 60,
+      "url": "https://www.telegraph.co.uk/news/worldnews/asia/india/6156441/Indian-mothers-in-law-form-union-to-improve-public-image.html",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "document.onreadystatechange",
+            "scriptId": "38",
+            "url": "https://www.telegraph.co.uk/news/worldnews/asia/india/6156441/Indian-mothers-in-law-form-union-to-improve-public-image.html",
+            "lineNumber": 150,
+            "columnNumber": 60
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot set property 'src' of null at HTMLDocument.document.onreadystatechange (https://www.telegraph.co.uk/news/worldnews/asia/india/6156441/Indian-mothers-in-law-form-union-to-improve-public-image.html:151:61)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":2}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot set property 'src' of null at HTMLDocument.document.onreadystatechange (https://www.telegraph.co.uk/news/worldnews/asia/india/6156441/Indian-mothers-in-law-form-union-to-improve-public-image.html:151:61)",
+          "overflow": true,
+          "properties": [
+            {
+              "name": "reported",
+              "type": "boolean",
+              "value": "true"
+            },
+            {
+              "name": "timestamp",
+              "type": "number",
+              "value": "1583748549984"
+            },
+            {
+              "name": "lineNumber",
+              "type": "string",
+              "value": "151"
+            },
+            {
+              "name": "columnNumber",
+              "type": "string",
+              "value": "61"
+            },
+            {
+              "name": "functionName",
+              "type": "string",
+              "value": "HTMLDocument.document.onreadystatechange"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

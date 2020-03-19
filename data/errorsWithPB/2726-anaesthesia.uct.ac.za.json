@@ -1,0 +1,49 @@
+[
+  {
+    "timestamp": 1582889963797.325,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 128,
+      "columnNumber": 0,
+      "url": "http://www.anaesthesia.uct.ac.za/",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "40",
+            "url": "http://www.anaesthesia.uct.ac.za/",
+            "lineNumber": 128,
+            "columnNumber": 0
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: stLight is not defined\n    at http://www.anaesthesia.uct.ac.za/:129:1",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: stLight is not defined\n    at http://www.anaesthesia.uct.ac.za/:129:1",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: stLight is not defined\n    at http://www.anaesthesia.uct.ac.za/:129:1"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "stLight is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

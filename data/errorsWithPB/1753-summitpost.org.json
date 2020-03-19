@@ -1,0 +1,117 @@
+[
+  {
+    "timestamp": 1583416180331.247,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 9,
+      "columnNumber": 2384,
+      "url": "https://cdnjs.cloudflare.com/ajax/libs/postscribe/2.0.8/postscribe.min.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "error",
+            "scriptId": "94",
+            "url": "https://cdnjs.cloudflare.com/ajax/libs/postscribe/2.0.8/postscribe.min.js",
+            "lineNumber": 9,
+            "columnNumber": 2384
+          },
+          {
+            "functionName": "o",
+            "scriptId": "94",
+            "url": "https://cdnjs.cloudflare.com/ajax/libs/postscribe/2.0.8/postscribe.min.js",
+            "lineNumber": 9,
+            "columnNumber": 7637
+          },
+          {
+            "functionName": "onerror",
+            "scriptId": "94",
+            "url": "https://cdnjs.cloudflare.com/ajax/libs/postscribe/2.0.8/postscribe.min.js",
+            "lineNumber": 9,
+            "columnNumber": 8110
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "Error",
+        "description": "Error: remote script failed https://s.tribalfusion.com/displayAd.js?dver=0.8&th=8671086975\n    at error (https://cdnjs.cloudflare.com/ajax/libs/postscribe/2.0.8/postscribe.min.js:10:2385)\n    at o (https://cdnjs.cloudflare.com/ajax/libs/postscribe/2.0.8/postscribe.min.js:10:7638)\n    at HTMLScriptElement.onerror (https://cdnjs.cloudflare.com/ajax/libs/postscribe/2.0.8/postscribe.min.js:10:8111)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":2}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "Error: remote script failed https://s.tribalfusion.com/displayAd.js?dver=0.8&th=8671086975\n    at error (https://cdnjs.cloudflare.com/ajax/libs/postscribe/2.0.8/postscribe.min.js:10:2385)\n    at o (https://cdnjs.cloudflare.com/ajax/libs/postscribe/2.0.8/postscribe.min.js:10:7638)\n    at HTMLScriptElement.onerror (https://cdnjs.cloudflare.com/ajax/libs/postscribe/2.0.8/postscribe.min.js:10:8111)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "Error: remote script failed https://s.tribalfusion…/libs/postscribe/2.0.8/postscribe.min.js:10:8111)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "remote script failed https://s.tribalfusion.com/displayAd.js?dver=0.8&th=8671086975"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583416180331.6792,
+    "exceptionDetails": {
+      "exceptionId": 2,
+      "text": "Uncaught",
+      "lineNumber": 9,
+      "columnNumber": 2384,
+      "url": "https://cdnjs.cloudflare.com/ajax/libs/postscribe/2.0.8/postscribe.min.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "error",
+            "scriptId": "94",
+            "url": "https://cdnjs.cloudflare.com/ajax/libs/postscribe/2.0.8/postscribe.min.js",
+            "lineNumber": 9,
+            "columnNumber": 2384
+          },
+          {
+            "functionName": "g.win.onerror",
+            "scriptId": "94",
+            "url": "https://cdnjs.cloudflare.com/ajax/libs/postscribe/2.0.8/postscribe.min.js",
+            "lineNumber": 9,
+            "columnNumber": 1484
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "Error",
+        "description": "Error: Script error. - : 0\n    at Object.error (https://cdnjs.cloudflare.com/ajax/libs/postscribe/2.0.8/postscribe.min.js:10:2385)\n    at g.win.onerror (https://cdnjs.cloudflare.com/ajax/libs/postscribe/2.0.8/postscribe.min.js:10:1485)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":3}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "Error: Script error. - : 0\n    at Object.error (https://cdnjs.cloudflare.com/ajax/libs/postscribe/2.0.8/postscribe.min.js:10:2385)\n    at g.win.onerror (https://cdnjs.cloudflare.com/ajax/libs/postscribe/2.0.8/postscribe.min.js:10:1485)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "Error: Script error. - : 0\n    at Object.error (ht…/libs/postscribe/2.0.8/postscribe.min.js:10:1485)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Script error. - : 0"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

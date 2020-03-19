@@ -1,0 +1,49 @@
+[
+  {
+    "timestamp": 1583757317121.922,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 306,
+      "columnNumber": 28,
+      "url": "https://bedtools.readthedocs.io/en/latest/content/tools/bedtobam.html",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "34",
+            "url": "https://bedtools.readthedocs.io/en/latest/content/tools/bedtobam.html",
+            "lineNumber": 306,
+            "columnNumber": 28
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: UA is not defined\n    at https://bedtools.readthedocs.io/en/latest/content/tools/bedtobam.html:307:29",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: UA is not defined\n    at https://bedtools.readthedocs.io/en/latest/content/tools/bedtobam.html:307:29",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: UA is not defined\n    at https://b…s.io/en/latest/content/tools/bedtobam.html:307:29"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "UA is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

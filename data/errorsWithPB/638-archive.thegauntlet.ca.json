@@ -1,0 +1,133 @@
+[
+  {
+    "timestamp": 1583748501519.7,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 169,
+      "columnNumber": 18,
+      "url": "http://www.archive.thegauntlet.ca/sites/default/files/js/js_Qq1Vvv99Qd9p93ekIgwPOLDSGvmelOcBzcOOko9DVs0.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "$.urlParams",
+            "scriptId": "26",
+            "url": "http://www.archive.thegauntlet.ca/sites/default/files/js/js_Qq1Vvv99Qd9p93ekIgwPOLDSGvmelOcBzcOOko9DVs0.js",
+            "lineNumber": 169,
+            "columnNumber": 18
+          },
+          {
+            "functionName": "",
+            "scriptId": "26",
+            "url": "http://www.archive.thegauntlet.ca/sites/default/files/js/js_Qq1Vvv99Qd9p93ekIgwPOLDSGvmelOcBzcOOko9DVs0.js",
+            "lineNumber": 191,
+            "columnNumber": 23
+          },
+          {
+            "functionName": "each",
+            "scriptId": "21",
+            "url": "https://ajax.googleapis.com/ajax/libs/jquery/1.5.2/jquery.min.js",
+            "lineNumber": 15,
+            "columnNumber": 11389
+          },
+          {
+            "functionName": "each",
+            "scriptId": "21",
+            "url": "https://ajax.googleapis.com/ajax/libs/jquery/1.5.2/jquery.min.js",
+            "lineNumber": 15,
+            "columnNumber": 7970
+          },
+          {
+            "functionName": "$.fn.once",
+            "scriptId": "24",
+            "url": "http://www.archive.thegauntlet.ca/sites/default/files/js/js_IkgOrrVZK1UTp2HktvFi5vo1g7b25Muyr5GoySikuic.js",
+            "lineNumber": 54,
+            "columnNumber": 39
+          },
+          {
+            "functionName": "attach",
+            "scriptId": "26",
+            "url": "http://www.archive.thegauntlet.ca/sites/default/files/js/js_Qq1Vvv99Qd9p93ekIgwPOLDSGvmelOcBzcOOko9DVs0.js",
+            "lineNumber": 190,
+            "columnNumber": 7
+          },
+          {
+            "functionName": "",
+            "scriptId": "24",
+            "url": "http://www.archive.thegauntlet.ca/sites/default/files/js/js_IkgOrrVZK1UTp2HktvFi5vo1g7b25Muyr5GoySikuic.js",
+            "lineNumber": 155,
+            "columnNumber": 11
+          },
+          {
+            "functionName": "each",
+            "scriptId": "21",
+            "url": "https://ajax.googleapis.com/ajax/libs/jquery/1.5.2/jquery.min.js",
+            "lineNumber": 15,
+            "columnNumber": 11333
+          },
+          {
+            "functionName": "Drupal.attachBehaviors",
+            "scriptId": "24",
+            "url": "http://www.archive.thegauntlet.ca/sites/default/files/js/js_IkgOrrVZK1UTp2HktvFi5vo1g7b25Muyr5GoySikuic.js",
+            "lineNumber": 153,
+            "columnNumber": 4
+          },
+          {
+            "functionName": "",
+            "scriptId": "24",
+            "url": "http://www.archive.thegauntlet.ca/sites/default/files/js/js_IkgOrrVZK1UTp2HktvFi5vo1g7b25Muyr5GoySikuic.js",
+            "lineNumber": 491,
+            "columnNumber": 9
+          },
+          {
+            "functionName": "resolveWith",
+            "scriptId": "21",
+            "url": "https://ajax.googleapis.com/ajax/libs/jquery/1.5.2/jquery.min.js",
+            "lineNumber": 15,
+            "columnNumber": 14210
+          },
+          {
+            "functionName": "ready",
+            "scriptId": "21",
+            "url": "https://ajax.googleapis.com/ajax/libs/jquery/1.5.2/jquery.min.js",
+            "lineNumber": 15,
+            "columnNumber": 9195
+          },
+          {
+            "functionName": "y",
+            "scriptId": "21",
+            "url": "https://ajax.googleapis.com/ajax/libs/jquery/1.5.2/jquery.min.js",
+            "lineNumber": 15,
+            "columnNumber": 13678
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'split' of undefined\n    at Function.$.urlParams (http://www.archive.thegauntlet.ca/sites/default/files/js/js_Qq1Vvv99Qd9p93ekIgwPOLDSGvmelOcBzcOOko9DVs0.js:170:19)\n    at HTMLImageElement.<anonymous> (http://www.archive.thegauntlet.ca/sites/default/files/js/js_Qq1Vvv99Qd9p93ekIgwPOLDSGvmelOcBzcOOko9DVs0.js:192:24)\n    at Function.each (https://ajax.googleapis.com/ajax/libs/jquery/1.5.2/jquery.min.js:16:11390)\n    at $.fn.init.each (https://ajax.googleapis.com/ajax/libs/jquery/1.5.2/jquery.min.js:16:7971)\n    at $.fn.init.$.fn.once (http://www.archive.thegauntlet.ca/sites/default/files/js/js_IkgOrrVZK1UTp2HktvFi5vo1g7b25Muyr5GoySikuic.js:55:40)\n    at Object.attach (http://www.archive.thegauntlet.ca/sites/default/files/js/js_Qq1Vvv99Qd9p93ekIgwPOLDSGvmelOcBzcOOko9DVs0.js:191:8)\n    at Object.<anonymous> (http://www.archive.thegauntlet.ca/sites/default/files/js/js_IkgOrrVZK1UTp2HktvFi5vo1g7b25Muyr5GoySikuic.js:156:12)\n    at Function.each (https://ajax.googleapis.com/ajax/libs/jquery/1.5.2/jquery.min.js:16:11334)\n    at Object.Drupal.attachBehaviors (http://www.archive.thegauntlet.ca/sites/default/files/js/js_IkgOrrVZK1UTp2HktvFi5vo1g7b25Muyr5GoySikuic.js:154:5)\n    at HTMLDocument.<anonymous> (http://www.archive.thegauntlet.ca/sites/default/files/js/js_IkgOrrVZK1UTp2HktvFi5vo1g7b25Muyr5GoySikuic.js:492:10)\n    at Object.resolveWith (https://ajax.googleapis.com/ajax/libs/jquery/1.5.2/jquery.min.js:16:14211)\n    at Function.ready (https://ajax.googleapis.com/ajax/libs/jquery/1.5.2/jquery.min.js:16:9196)\n    at HTMLDocument.y (https://ajax.googleapis.com/ajax/libs/jquery/1.5.2/jquery.min.js:16:13679)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'split' of undefined\n    at Function.$.urlParams (http://www.archive.thegauntlet.ca/sites/default/files/js/js_Qq1Vvv99Qd9p93ekIgwPOLDSGvmelOcBzcOOko9DVs0.js:170:19)\n    at HTMLImageElement.<anonymous> (http://www.archive.thegauntlet.ca/sites/default/files/js/js_Qq1Vvv99Qd9p93ekIgwPOLDSGvmelOcBzcOOko9DVs0.js:192:24)\n    at Function.each (https://ajax.googleapis.com/ajax/libs/jquery/1.5.2/jquery.min.js:16:11390)\n    at $.fn.init.each (https://ajax.googleapis.com/ajax/libs/jquery/1.5.2/jquery.min.js:16:7971)\n    at $.fn.init.$.fn.once (http://www.archive.thegauntlet.ca/sites/default/files/js/js_IkgOrrVZK1UTp2HktvFi5vo1g7b25Muyr5GoySikuic.js:55:40)\n    at Object.attach (http://www.archive.thegauntlet.ca/sites/default/files/js/js_Qq1Vvv99Qd9p93ekIgwPOLDSGvmelOcBzcOOko9DVs0.js:191:8)\n    at Object.<anonymous> (http://www.archive.thegauntlet.ca/sites/default/files/js/js_IkgOrrVZK1UTp2HktvFi5vo1g7b25Muyr5GoySikuic.js:156:12)\n    at Function.each (https://ajax.googleapis.com/ajax/libs/jquery/1.5.2/jquery.min.js:16:11334)\n    at Object.Drupal.attachBehaviors (http://www.archive.thegauntlet.ca/sites/default/files/js/js_IkgOrrVZK1UTp2HktvFi5vo1g7b25Muyr5GoySikuic.js:154:5)\n    at HTMLDocument.<anonymous> (http://www.archive.thegauntlet.ca/sites/default/files/js/js_IkgOrrVZK1UTp2HktvFi5vo1g7b25Muyr5GoySikuic.js:492:10)\n    at Object.resolveWith (https://ajax.googleapis.com/ajax/libs/jquery/1.5.2/jquery.min.js:16:14211)\n    at Function.ready (https://ajax.googleapis.com/ajax/libs/jquery/1.5.2/jquery.min.js:16:9196)\n    at HTMLDocument.y (https://ajax.googleapis.com/ajax/libs/jquery/1.5.2/jquery.min.js:16:13679)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'split' of undefin…om/ajax/libs/jquery/1.5.2/jquery.min.js:16:13679)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'split' of undefined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

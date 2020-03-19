@@ -1,0 +1,76 @@
+[
+  {
+    "timestamp": 1582819319073.281,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 0,
+      "columnNumber": 5,
+      "scriptId": "188",
+      "url": "https://pi.pardot.com/analytics?ver=3&visitor_id=&pi_opt_in=&campaign_id=13240&account_id=503231&title=Hemp%20with%20Orange%20Flock%20-%20Napkin%20Band%20-%20N%C3%BCage%20Designs&url=https%3A%2F%2Fnuagedesigns.com%2Fproduct%2Fhemp-with-orange-flock-napkin-band%2F&referrer=",
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "SyntaxError",
+        "description": "SyntaxError: Unexpected identifier",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "SyntaxError: Unexpected identifier",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "SyntaxError: Unexpected identifier"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Unexpected identifier"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1582819319073.594,
+    "exceptionDetails": {
+      "exceptionId": 2,
+      "text": "Uncaught",
+      "lineNumber": 0,
+      "columnNumber": 5,
+      "scriptId": "189",
+      "url": "https://pi.pardot.com/analytics?ver=3&visitor_id=&pi_opt_in=&campaign_id=13240&account_id=503231&title=Hemp%20with%20Orange%20Flock%20-%20Napkin%20Band%20-%20N%C3%BCage%20Designs&url=https%3A%2F%2Fnuagedesigns.com%2Fproduct%2Fhemp-with-orange-flock-napkin-band%2F&referrer=",
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "SyntaxError",
+        "description": "SyntaxError: Unexpected identifier",
+        "objectId": "{\"injectedScriptId\":3,\"id\":2}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "SyntaxError: Unexpected identifier",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "SyntaxError: Unexpected identifier"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Unexpected identifier"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

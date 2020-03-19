@@ -1,0 +1,126 @@
+[
+  {
+    "timestamp": 1583012544681.345,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 7,
+      "columnNumber": 311,
+      "url": "https://www.familyhandyman.com/wp-content/plugins/fhm-projects-lightbox/js/lightbox-custom.js?ver=1.0.4",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "167",
+            "url": "https://www.familyhandyman.com/wp-content/plugins/fhm-projects-lightbox/js/lightbox-custom.js?ver=1.0.4",
+            "lineNumber": 7,
+            "columnNumber": 311
+          },
+          {
+            "functionName": "each",
+            "scriptId": "15",
+            "url": "https://www.familyhandyman.com/wp-includes/js/jquery/jquery.js?ver=1.12.4",
+            "lineNumber": 0,
+            "columnNumber": 2944
+          },
+          {
+            "functionName": "each",
+            "scriptId": "15",
+            "url": "https://www.familyhandyman.com/wp-includes/js/jquery/jquery.js?ver=1.12.4",
+            "lineNumber": 0,
+            "columnNumber": 909
+          },
+          {
+            "functionName": "LightBox.multipleItems",
+            "scriptId": "167",
+            "url": "https://www.familyhandyman.com/wp-content/plugins/fhm-projects-lightbox/js/lightbox-custom.js?ver=1.0.4",
+            "lineNumber": 7,
+            "columnNumber": 175
+          },
+          {
+            "functionName": "",
+            "scriptId": "167",
+            "url": "https://www.familyhandyman.com/wp-content/plugins/fhm-projects-lightbox/js/lightbox-custom.js?ver=1.0.4",
+            "lineNumber": 10,
+            "columnNumber": 103
+          },
+          {
+            "functionName": "each",
+            "scriptId": "15",
+            "url": "https://www.familyhandyman.com/wp-includes/js/jquery/jquery.js?ver=1.12.4",
+            "lineNumber": 0,
+            "columnNumber": 2944
+          },
+          {
+            "functionName": "each",
+            "scriptId": "15",
+            "url": "https://www.familyhandyman.com/wp-includes/js/jquery/jquery.js?ver=1.12.4",
+            "lineNumber": 0,
+            "columnNumber": 909
+          },
+          {
+            "functionName": "",
+            "scriptId": "167",
+            "url": "https://www.familyhandyman.com/wp-content/plugins/fhm-projects-lightbox/js/lightbox-custom.js?ver=1.0.4",
+            "lineNumber": 10,
+            "columnNumber": 22
+          },
+          {
+            "functionName": "i",
+            "scriptId": "15",
+            "url": "https://www.familyhandyman.com/wp-includes/js/jquery/jquery.js?ver=1.12.4",
+            "lineNumber": 0,
+            "columnNumber": 27512
+          },
+          {
+            "functionName": "fireWith",
+            "scriptId": "15",
+            "url": "https://www.familyhandyman.com/wp-includes/js/jquery/jquery.js?ver=1.12.4",
+            "lineNumber": 0,
+            "columnNumber": 28276
+          },
+          {
+            "functionName": "ready",
+            "scriptId": "15",
+            "url": "https://www.familyhandyman.com/wp-includes/js/jquery/jquery.js?ver=1.12.4",
+            "lineNumber": 0,
+            "columnNumber": 30069
+          },
+          {
+            "functionName": "K",
+            "scriptId": "15",
+            "url": "https://www.familyhandyman.com/wp-includes/js/jquery/jquery.js?ver=1.12.4",
+            "lineNumber": 0,
+            "columnNumber": 30431
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'replace' of undefined\n    at HTMLDivElement.<anonymous> (https://www.familyhandyman.com/wp-content/plugins/fhm-projects-lightbox/js/lightbox-custom.js?ver=1.0.4:8:312)\n    at Function.each (https://www.familyhandyman.com/wp-includes/js/jquery/jquery.js?ver=1.12.4:1:2945)\n    at a.fn.init.each (https://www.familyhandyman.com/wp-includes/js/jquery/jquery.js?ver=1.12.4:1:910)\n    at LightBox.multipleItems (https://www.familyhandyman.com/wp-content/plugins/fhm-projects-lightbox/js/lightbox-custom.js?ver=1.0.4:8:176)\n    at HTMLDivElement.<anonymous> (https://www.familyhandyman.com/wp-content/plugins/fhm-projects-lightbox/js/lightbox-custom.js?ver=1.0.4:11:104)\n    at Function.each (https://www.familyhandyman.com/wp-includes/js/jquery/jquery.js?ver=1.12.4:1:2945)\n    at a.fn.init.each (https://www.familyhandyman.com/wp-includes/js/jquery/jquery.js?ver=1.12.4:1:910)\n    at HTMLDocument.<anonymous> (https://www.familyhandyman.com/wp-content/plugins/fhm-projects-lightbox/js/lightbox-custom.js?ver=1.0.4:11:23)\n    at i (https://www.familyhandyman.com/wp-includes/js/jquery/jquery.js?ver=1.12.4:1:27513)\n    at Object.fireWith [as resolveWith] (https://www.familyhandyman.com/wp-includes/js/jquery/jquery.js?ver=1.12.4:1:28277)\n    at Function.ready (https://www.familyhandyman.com/wp-includes/js/jquery/jquery.js?ver=1.12.4:1:30070)\n    at HTMLDocument.K (https://www.familyhandyman.com/wp-includes/js/jquery/jquery.js?ver=1.12.4:1:30432)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":15}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'replace' of undefined\n    at HTMLDivElement.<anonymous> (https://www.familyhandyman.com/wp-content/plugins/fhm-projects-lightbox/js/lightbox-custom.js?ver=1.0.4:8:312)\n    at Function.each (https://www.familyhandyman.com/wp-includes/js/jquery/jquery.js?ver=1.12.4:1:2945)\n    at a.fn.init.each (https://www.familyhandyman.com/wp-includes/js/jquery/jquery.js?ver=1.12.4:1:910)\n    at LightBox.multipleItems (https://www.familyhandyman.com/wp-content/plugins/fhm-projects-lightbox/js/lightbox-custom.js?ver=1.0.4:8:176)\n    at HTMLDivElement.<anonymous> (https://www.familyhandyman.com/wp-content/plugins/fhm-projects-lightbox/js/lightbox-custom.js?ver=1.0.4:11:104)\n    at Function.each (https://www.familyhandyman.com/wp-includes/js/jquery/jquery.js?ver=1.12.4:1:2945)\n    at a.fn.init.each (https://www.familyhandyman.com/wp-includes/js/jquery/jquery.js?ver=1.12.4:1:910)\n    at HTMLDocument.<anonymous> (https://www.familyhandyman.com/wp-content/plugins/fhm-projects-lightbox/js/lightbox-custom.js?ver=1.0.4:11:23)\n    at i (https://www.familyhandyman.com/wp-includes/js/jquery/jquery.js?ver=1.12.4:1:27513)\n    at Object.fireWith [as resolveWith] (https://www.familyhandyman.com/wp-includes/js/jquery/jquery.js?ver=1.12.4:1:28277)\n    at Function.ready (https://www.familyhandyman.com/wp-includes/js/jquery/jquery.js?ver=1.12.4:1:30070)\n    at HTMLDocument.K (https://www.familyhandyman.com/wp-includes/js/jquery/jquery.js?ver=1.12.4:1:30432)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'replace' of undef…-includes/js/jquery/jquery.js?ver=1.12.4:1:30432)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'replace' of undefined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

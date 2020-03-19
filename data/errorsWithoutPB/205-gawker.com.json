@@ -1,0 +1,56 @@
+[
+  {
+    "timestamp": 1583011526896.018,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 442,
+      "columnNumber": 26,
+      "url": "https://gawker.com/the-best-restaurant-in-new-york-is-ralph-laurens-polo-1687795615",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "18",
+            "url": "https://gawker.com/the-best-restaurant-in-new-york-is-ralph-laurens-polo-1687795615",
+            "lineNumber": 442,
+            "columnNumber": 26
+          },
+          {
+            "functionName": "",
+            "scriptId": "18",
+            "url": "https://gawker.com/the-best-restaurant-in-new-york-is-ralph-laurens-polo-1687795615",
+            "lineNumber": 510,
+            "columnNumber": 10
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'addEventListener' of null\n    at https://gawker.com/the-best-restaurant-in-new-york-is-ralph-laurens-polo-1687795615:443:27\n    at https://gawker.com/the-best-restaurant-in-new-york-is-ralph-laurens-polo-1687795615:511:11",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'addEventListener' of null\n    at https://gawker.com/the-best-restaurant-in-new-york-is-ralph-laurens-polo-1687795615:443:27\n    at https://gawker.com/the-best-restaurant-in-new-york-is-ralph-laurens-polo-1687795615:511:11",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'addEventListener'…-new-york-is-ralph-laurens-polo-1687795615:511:11"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'addEventListener' of null"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

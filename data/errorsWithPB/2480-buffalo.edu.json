@@ -1,0 +1,49 @@
+[
+  {
+    "timestamp": 1582892197661.17,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 2882,
+      "columnNumber": 1404,
+      "url": "http://www.buffalo.edu/home/feature_story/good-venom.html",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "46",
+            "url": "http://www.buffalo.edu/home/feature_story/good-venom.html",
+            "lineNumber": 2882,
+            "columnNumber": 1404
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: stLight is not defined\n    at http://www.buffalo.edu/home/feature_story/good-venom.html:2883:1405",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: stLight is not defined\n    at http://www.buffalo.edu/home/feature_story/good-venom.html:2883:1405",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: stLight is not defined\n    at http….edu/home/feature_story/good-venom.html:2883:1405"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "stLight is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

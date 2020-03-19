@@ -1,0 +1,84 @@
+[
+  {
+    "timestamp": 1583003514964.343,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 2,
+      "columnNumber": 30,
+      "url": "http://www.lulu.com/spotlight/static/js/DialogManager.js?25022010",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "30",
+            "url": "http://www.lulu.com/spotlight/static/js/DialogManager.js?25022010",
+            "lineNumber": 2,
+            "columnNumber": 30
+          },
+          {
+            "functionName": "",
+            "scriptId": "37",
+            "url": "http://www.lulu.com/spotlight/static/js/page.js?01072010",
+            "lineNumber": 2,
+            "columnNumber": 27
+          },
+          {
+            "functionName": "f",
+            "scriptId": "14",
+            "url": "http://ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js?20191022080601",
+            "lineNumber": 0,
+            "columnNumber": 18277
+          },
+          {
+            "functionName": "fireWith",
+            "scriptId": "14",
+            "url": "http://ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js?20191022080601",
+            "lineNumber": 0,
+            "columnNumber": 19063
+          },
+          {
+            "functionName": "ready",
+            "scriptId": "14",
+            "url": "http://ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js?20191022080601",
+            "lineNumber": 0,
+            "columnNumber": 13873
+          },
+          {
+            "functionName": "xt",
+            "scriptId": "14",
+            "url": "http://ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js?20191022080601",
+            "lineNumber": 0,
+            "columnNumber": 11366
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'innerHTML' of null\n    at new <anonymous> (http://www.lulu.com/spotlight/static/js/DialogManager.js?25022010:3:31)\n    at HTMLDocument.<anonymous> (http://www.lulu.com/spotlight/static/js/page.js?01072010:3:28)\n    at f (http://ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js?20191022080601:1:18278)\n    at Object.fireWith [as resolveWith] (http://ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js?20191022080601:1:19064)\n    at Function.ready (http://ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js?20191022080601:1:13874)\n    at HTMLDocument.xt (http://ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js?20191022080601:1:11367)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'innerHTML' of null\n    at new <anonymous> (http://www.lulu.com/spotlight/static/js/DialogManager.js?25022010:3:31)\n    at HTMLDocument.<anonymous> (http://www.lulu.com/spotlight/static/js/page.js?01072010:3:28)\n    at f (http://ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js?20191022080601:1:18278)\n    at Object.fireWith [as resolveWith] (http://ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js?20191022080601:1:19064)\n    at Function.ready (http://ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js?20191022080601:1:13874)\n    at HTMLDocument.xt (http://ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js?20191022080601:1:11367)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'innerHTML' of nul…query/1.9.0/jquery.min.js?20191022080601:1:11367)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'innerHTML' of null"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

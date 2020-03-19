@@ -1,0 +1,56 @@
+[
+  {
+    "timestamp": 1583419761724.6,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 968,
+      "columnNumber": 24,
+      "url": "https://www.sciencemag.org/news/2013/02/franken-tadpoles-see-eyes-their-backs",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "adDemo",
+            "scriptId": "33",
+            "url": "https://www.sciencemag.org/news/2013/02/franken-tadpoles-see-eyes-their-backs",
+            "lineNumber": 968,
+            "columnNumber": 24
+          },
+          {
+            "functionName": "",
+            "scriptId": "33",
+            "url": "https://www.sciencemag.org/news/2013/02/franken-tadpoles-see-eyes-their-backs",
+            "lineNumber": 994,
+            "columnNumber": 4
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: oas_tag is not defined\n    at adDemo (https://www.sciencemag.org/news/2013/02/franken-tadpoles-see-eyes-their-backs:969:25)\n    at https://www.sciencemag.org/news/2013/02/franken-tadpoles-see-eyes-their-backs:995:5",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: oas_tag is not defined\n    at adDemo (https://www.sciencemag.org/news/2013/02/franken-tadpoles-see-eyes-their-backs:969:25)\n    at https://www.sciencemag.org/news/2013/02/franken-tadpoles-see-eyes-their-backs:995:5",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: oas_tag is not defined\n    at adDe…13/02/franken-tadpoles-see-eyes-their-backs:995:5"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "oas_tag is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

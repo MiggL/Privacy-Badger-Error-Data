@@ -1,0 +1,77 @@
+[
+  {
+    "timestamp": 1583424751132.425,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 130,
+      "columnNumber": 10,
+      "url": "http://www.3dculture.com/bm3d/",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "32",
+            "url": "http://www.3dculture.com/bm3d/",
+            "lineNumber": 130,
+            "columnNumber": 10
+          },
+          {
+            "functionName": "l",
+            "scriptId": "21",
+            "url": "http://www.3dculture.com/bm3d/js/jquery-1.8.3.min.js",
+            "lineNumber": 1,
+            "columnNumber": 16995
+          },
+          {
+            "functionName": "fireWith",
+            "scriptId": "21",
+            "url": "http://www.3dculture.com/bm3d/js/jquery-1.8.3.min.js",
+            "lineNumber": 1,
+            "columnNumber": 17782
+          },
+          {
+            "functionName": "ready",
+            "scriptId": "21",
+            "url": "http://www.3dculture.com/bm3d/js/jquery-1.8.3.min.js",
+            "lineNumber": 1,
+            "columnNumber": 12503
+          },
+          {
+            "functionName": "A",
+            "scriptId": "21",
+            "url": "http://www.3dculture.com/bm3d/js/jquery-1.8.3.min.js",
+            "lineNumber": 1,
+            "columnNumber": 9908
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: SyntaxHighlighter is not defined\n    at HTMLDocument.<anonymous> (http://www.3dculture.com/bm3d/:131:11)\n    at l (http://www.3dculture.com/bm3d/js/jquery-1.8.3.min.js:2:16996)\n    at Object.fireWith [as resolveWith] (http://www.3dculture.com/bm3d/js/jquery-1.8.3.min.js:2:17783)\n    at Function.ready (http://www.3dculture.com/bm3d/js/jquery-1.8.3.min.js:2:12504)\n    at HTMLDocument.A (http://www.3dculture.com/bm3d/js/jquery-1.8.3.min.js:2:9909)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: SyntaxHighlighter is not defined\n    at HTMLDocument.<anonymous> (http://www.3dculture.com/bm3d/:131:11)\n    at l (http://www.3dculture.com/bm3d/js/jquery-1.8.3.min.js:2:16996)\n    at Object.fireWith [as resolveWith] (http://www.3dculture.com/bm3d/js/jquery-1.8.3.min.js:2:17783)\n    at Function.ready (http://www.3dculture.com/bm3d/js/jquery-1.8.3.min.js:2:12504)\n    at HTMLDocument.A (http://www.3dculture.com/bm3d/js/jquery-1.8.3.min.js:2:9909)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: SyntaxHighlighter is not defined\n …3dculture.com/bm3d/js/jquery-1.8.3.min.js:2:9909)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "SyntaxHighlighter is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

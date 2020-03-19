@@ -1,0 +1,48 @@
+[
+  {
+    "timestamp": 1582894085867.486,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 30,
+      "columnNumber": 2,
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "28",
+            "url": "",
+            "lineNumber": 30,
+            "columnNumber": 2
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: dataLayer is not defined\n    at <anonymous>:31:3",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: dataLayer is not defined\n    at <anonymous>:31:3",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: dataLayer is not defined\n    at <anonymous>:31:3"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "dataLayer is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

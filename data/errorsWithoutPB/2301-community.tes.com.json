@@ -1,0 +1,44 @@
+[
+  {
+    "timestamp": 1582812496090.068,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught (in promise)",
+      "lineNumber": 0,
+      "columnNumber": 0,
+      "scriptId": "1",
+      "url": "https://c5x8i7c7.ssl.hwcdn.net/vplayer-parallel/20190405_1722/videojs/show.html?controls=1&loop=30&autoplay=0&tracker=cc2b1a01-1fb6-4082-99c0-6ae3b8f96341&height=300&width=400&vurl=%2F%2Fdstroscal1.s.llnwi.net%2Fpublic%2Fvideos%2Fdgv_tes%2F20200227055653_5e57503863397%2Fdgv_tes_trending_articles_20200227055653_5e57503863397_new.mp4&poster=%2F%2Fdstroscal1.s.llnwi.net%2Fpublic%2Fvideos%2Fdgv_tes%2F20200227055653_5e57503863397%2Fdgv_tes_trending_articles_20200227055653_5e57503863397_new.jpg",
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "DOMException",
+        "description": "DOMException: Failed to load because no supported source was found.",
+        "objectId": "{\"injectedScriptId\":18,\"id\":2}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "DOMException: Failed to load because no supported source was found.",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "code",
+              "type": "number",
+              "value": "9"
+            },
+            {
+              "name": "name",
+              "type": "string",
+              "value": "NotSupportedError"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Failed to load because no supported source was found."
+            }
+          ]
+        }
+      },
+      "executionContextId": 18
+    }
+  }
+]

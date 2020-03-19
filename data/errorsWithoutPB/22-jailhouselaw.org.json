@@ -1,0 +1,77 @@
+[
+  {
+    "timestamp": 1583013187693.948,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 15,
+      "columnNumber": 11226,
+      "url": "http://jailhouselaw.org/wp-content/themes/setinstone/js/jquery-1.5.1.min.js?ver=1.5.1",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "each",
+            "scriptId": "13",
+            "url": "http://jailhouselaw.org/wp-content/themes/setinstone/js/jquery-1.5.1.min.js?ver=1.5.1",
+            "lineNumber": 15,
+            "columnNumber": 11226
+          },
+          {
+            "functionName": "h.widget",
+            "scriptId": "30",
+            "url": "http://jailhouselaw.org/wp-includes/js/jquery/ui/widget.min.js?ver=1.11.4",
+            "lineNumber": 10,
+            "columnNumber": 1187
+          },
+          {
+            "functionName": "",
+            "scriptId": "31",
+            "url": "http://jailhouselaw.org/wp-includes/js/jquery/ui/mouse.min.js?ver=1.11.4",
+            "lineNumber": 10,
+            "columnNumber": 162
+          },
+          {
+            "functionName": "",
+            "scriptId": "31",
+            "url": "http://jailhouselaw.org/wp-includes/js/jquery/ui/mouse.min.js?ver=1.11.4",
+            "lineNumber": 10,
+            "columnNumber": 83
+          },
+          {
+            "functionName": "",
+            "scriptId": "31",
+            "url": "http://jailhouselaw.org/wp-includes/js/jquery/ui/mouse.min.js?ver=1.11.4",
+            "lineNumber": 10,
+            "columnNumber": 93
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'length' of undefined\n    at Function.each (http://jailhouselaw.org/wp-content/themes/setinstone/js/jquery-1.5.1.min.js?ver=1.5.1:16:11227)\n    at Function.h.widget (http://jailhouselaw.org/wp-includes/js/jquery/ui/widget.min.js?ver=1.11.4:11:1188)\n    at http://jailhouselaw.org/wp-includes/js/jquery/ui/mouse.min.js?ver=1.11.4:11:163\n    at http://jailhouselaw.org/wp-includes/js/jquery/ui/mouse.min.js?ver=1.11.4:11:84\n    at http://jailhouselaw.org/wp-includes/js/jquery/ui/mouse.min.js?ver=1.11.4:11:94",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'length' of undefined\n    at Function.each (http://jailhouselaw.org/wp-content/themes/setinstone/js/jquery-1.5.1.min.js?ver=1.5.1:16:11227)\n    at Function.h.widget (http://jailhouselaw.org/wp-includes/js/jquery/ui/widget.min.js?ver=1.11.4:11:1188)\n    at http://jailhouselaw.org/wp-includes/js/jquery/ui/mouse.min.js?ver=1.11.4:11:163\n    at http://jailhouselaw.org/wp-includes/js/jquery/ui/mouse.min.js?ver=1.11.4:11:84\n    at http://jailhouselaw.org/wp-includes/js/jquery/ui/mouse.min.js?ver=1.11.4:11:94",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'length' of undefi…cludes/js/jquery/ui/mouse.min.js?ver=1.11.4:11:94"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'length' of undefined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

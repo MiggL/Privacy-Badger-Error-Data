@@ -1,0 +1,49 @@
+[
+  {
+    "timestamp": 1583748475375.344,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 0,
+      "columnNumber": 41,
+      "url": "https://advances.sciencemag.org/content/2/3/e1501080.full",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "onload",
+            "scriptId": "91",
+            "url": "https://advances.sciencemag.org/content/2/3/e1501080.full",
+            "lineNumber": 0,
+            "columnNumber": 41
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'body' of null\n    at HTMLIFrameElement.onload (https://advances.sciencemag.org/content/2/3/e1501080.full:1:42)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'body' of null\n    at HTMLIFrameElement.onload (https://advances.sciencemag.org/content/2/3/e1501080.full:1:42)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'body' of null\n   …es.sciencemag.org/content/2/3/e1501080.full:1:42)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'body' of null"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

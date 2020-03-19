@@ -1,0 +1,77 @@
+[
+  {
+    "timestamp": 1583002446105.179,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 7203,
+      "columnNumber": 19,
+      "url": "https://www.adornmonde.com/media/wysiwyg/slid/footer_scripts.min.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "82",
+            "url": "https://www.adornmonde.com/media/wysiwyg/slid/footer_scripts.min.js",
+            "lineNumber": 7203,
+            "columnNumber": 19
+          },
+          {
+            "functionName": "c",
+            "scriptId": "32",
+            "url": "https://www.adornmonde.com/skin/frontend/adornmonde/default/lotusbreath/onestepcheckout/jquery/jquery-1.10.2.min.js",
+            "lineNumber": 3,
+            "columnNumber": 26035
+          },
+          {
+            "functionName": "fireWith",
+            "scriptId": "32",
+            "url": "https://www.adornmonde.com/skin/frontend/adornmonde/default/lotusbreath/onestepcheckout/jquery/jquery-1.10.2.min.js",
+            "lineNumber": 3,
+            "columnNumber": 26839
+          },
+          {
+            "functionName": "ready",
+            "scriptId": "32",
+            "url": "https://www.adornmonde.com/skin/frontend/adornmonde/default/lotusbreath/onestepcheckout/jquery/jquery-1.10.2.min.js",
+            "lineNumber": 3,
+            "columnNumber": 3304
+          },
+          {
+            "functionName": "q",
+            "scriptId": "32",
+            "url": "https://www.adornmonde.com/skin/frontend/adornmonde/default/lotusbreath/onestepcheckout/jquery/jquery-1.10.2.min.js",
+            "lineNumber": 3,
+            "columnNumber": 716
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'change' of undefined\n    at HTMLDocument.<anonymous> (https://www.adornmonde.com/media/wysiwyg/slid/footer_scripts.min.js:7204:20)\n    at c (https://www.adornmonde.com/skin/frontend/adornmonde/default/lotusbreath/onestepcheckout/jquery/jquery-1.10.2.min.js:4:26036)\n    at Object.fireWith [as resolveWith] (https://www.adornmonde.com/skin/frontend/adornmonde/default/lotusbreath/onestepcheckout/jquery/jquery-1.10.2.min.js:4:26840)\n    at Function.ready (https://www.adornmonde.com/skin/frontend/adornmonde/default/lotusbreath/onestepcheckout/jquery/jquery-1.10.2.min.js:4:3305)\n    at HTMLDocument.q (https://www.adornmonde.com/skin/frontend/adornmonde/default/lotusbreath/onestepcheckout/jquery/jquery-1.10.2.min.js:4:717)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'change' of undefined\n    at HTMLDocument.<anonymous> (https://www.adornmonde.com/media/wysiwyg/slid/footer_scripts.min.js:7204:20)\n    at c (https://www.adornmonde.com/skin/frontend/adornmonde/default/lotusbreath/onestepcheckout/jquery/jquery-1.10.2.min.js:4:26036)\n    at Object.fireWith [as resolveWith] (https://www.adornmonde.com/skin/frontend/adornmonde/default/lotusbreath/onestepcheckout/jquery/jquery-1.10.2.min.js:4:26840)\n    at Function.ready (https://www.adornmonde.com/skin/frontend/adornmonde/default/lotusbreath/onestepcheckout/jquery/jquery-1.10.2.min.js:4:3305)\n    at HTMLDocument.q (https://www.adornmonde.com/skin/frontend/adornmonde/default/lotusbreath/onestepcheckout/jquery/jquery-1.10.2.min.js:4:717)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'change' of undefi…nestepcheckout/jquery/jquery-1.10.2.min.js:4:717)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'change' of undefined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

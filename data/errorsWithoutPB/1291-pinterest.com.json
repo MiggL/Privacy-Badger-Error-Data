@@ -1,0 +1,175 @@
+[
+  {
+    "timestamp": 1583001485011.755,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 296,
+      "columnNumber": 180,
+      "url": "https://connect.facebook.net/en_US/sdk.js?hash=e4be4c9044fb82eeb53e934c0354ed84&ua=modern_es6",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "assertVersionIsSet",
+            "scriptId": "42",
+            "url": "https://connect.facebook.net/en_US/sdk.js?hash=e4be4c9044fb82eeb53e934c0354ed84&ua=modern_es6",
+            "lineNumber": 296,
+            "columnNumber": 180
+          },
+          {
+            "functionName": "process",
+            "scriptId": "42",
+            "url": "https://connect.facebook.net/en_US/sdk.js?hash=e4be4c9044fb82eeb53e934c0354ed84&ua=modern_es6",
+            "lineNumber": 353,
+            "columnNumber": 4371
+          },
+          {
+            "functionName": "b",
+            "scriptId": "42",
+            "url": "https://connect.facebook.net/en_US/sdk.js?hash=e4be4c9044fb82eeb53e934c0354ed84&ua=modern_es6",
+            "lineNumber": 347,
+            "columnNumber": 1775
+          },
+          {
+            "functionName": "",
+            "scriptId": "42",
+            "url": "https://connect.facebook.net/en_US/sdk.js?hash=e4be4c9044fb82eeb53e934c0354ed84&ua=modern_es6",
+            "lineNumber": 347,
+            "columnNumber": 1787
+          },
+          {
+            "functionName": "c",
+            "scriptId": "42",
+            "url": "https://connect.facebook.net/en_US/sdk.js?hash=e4be4c9044fb82eeb53e934c0354ed84&ua=modern_es6",
+            "lineNumber": 44,
+            "columnNumber": 1603
+          },
+          {
+            "functionName": "p",
+            "scriptId": "42",
+            "url": "https://connect.facebook.net/en_US/sdk.js?hash=e4be4c9044fb82eeb53e934c0354ed84&ua=modern_es6",
+            "lineNumber": 347,
+            "columnNumber": 1302
+          },
+          {
+            "functionName": "parse",
+            "scriptId": "42",
+            "url": "https://connect.facebook.net/en_US/sdk.js?hash=e4be4c9044fb82eeb53e934c0354ed84&ua=modern_es6",
+            "lineNumber": 347,
+            "columnNumber": 2251
+          },
+          {
+            "functionName": "parse",
+            "scriptId": "42",
+            "url": "https://connect.facebook.net/en_US/sdk.js?hash=e4be4c9044fb82eeb53e934c0354ed84&ua=modern_es6",
+            "lineNumber": 348,
+            "columnNumber": 264
+          },
+          {
+            "functionName": "",
+            "scriptId": "42",
+            "url": "https://connect.facebook.net/en_US/sdk.js?hash=e4be4c9044fb82eeb53e934c0354ed84&ua=modern_es6",
+            "lineNumber": 283,
+            "columnNumber": 1070
+          },
+          {
+            "functionName": "",
+            "scriptId": "42",
+            "url": "https://connect.facebook.net/en_US/sdk.js?hash=e4be4c9044fb82eeb53e934c0354ed84&ua=modern_es6",
+            "lineNumber": 281,
+            "columnNumber": 287
+          },
+          {
+            "functionName": "initializeFB",
+            "scriptId": "25",
+            "url": "https://s.pinimg.com/webapp/js/pjs-UnauthBoardPagePreloadSignupContainer-2a2347b5f14f71d091f3.mjs",
+            "lineNumber": 0,
+            "columnNumber": 378828
+          },
+          {
+            "functionName": "",
+            "scriptId": "25",
+            "url": "https://s.pinimg.com/webapp/js/pjs-UnauthBoardPagePreloadSignupContainer-2a2347b5f14f71d091f3.mjs",
+            "lineNumber": 0,
+            "columnNumber": 376359
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "className": "b",
+        "description": "b",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "description": "b",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "message",
+              "type": "string",
+              "value": "init not called with valid version"
+            },
+            {
+              "name": "innerError",
+              "type": "undefined",
+              "value": "undefined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583001487286.376,
+    "exceptionDetails": {
+      "exceptionId": 2,
+      "text": "Uncaught (in promise)",
+      "lineNumber": 0,
+      "columnNumber": 0,
+      "scriptId": "1",
+      "url": "https://www.pinterest.com/kimjcornett/chicken-quarter-recipes/",
+      "exception": {
+        "type": "object",
+        "className": "r",
+        "description": "r",
+        "objectId": "{\"injectedScriptId\":3,\"id\":2}",
+        "preview": {
+          "type": "object",
+          "description": "r",
+          "overflow": true,
+          "properties": [
+            {
+              "name": "name",
+              "type": "string",
+              "value": "DenzelError"
+            },
+            {
+              "name": "code",
+              "type": "number",
+              "value": "10"
+            },
+            {
+              "name": "http_status",
+              "type": "number",
+              "value": "404"
+            },
+            {
+              "name": "api_error_code",
+              "type": "number",
+              "value": "10"
+            },
+            {
+              "name": "target",
+              "type": "object",
+              "value": "null",
+              "subtype": "null"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

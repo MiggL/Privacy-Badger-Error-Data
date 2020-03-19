@@ -1,0 +1,126 @@
+[
+  {
+    "timestamp": 1583002018193.476,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 150,
+      "columnNumber": 60,
+      "url": "https://www.telegraph.co.uk/finance/newsbysector/banksandfinance/10736960/High-frequency-trading-when-milliseconds-mean-millions.html",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "document.onreadystatechange",
+            "scriptId": "18",
+            "url": "https://www.telegraph.co.uk/finance/newsbysector/banksandfinance/10736960/High-frequency-trading-when-milliseconds-mean-millions.html",
+            "lineNumber": 150,
+            "columnNumber": 60
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot set property 'src' of null at HTMLDocument.document.onreadystatechange (https://www.telegraph.co.uk/finance/newsbysector/banksandfinance/10736960/High-frequency-trading-when-milliseconds-mean-millions.html:151:61)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot set property 'src' of null at HTMLDocument.document.onreadystatechange (https://www.telegraph.co.uk/finance/newsbysector/banksandfinance/10736960/High-frequency-trading-when-milliseconds-mean-millions.html:151:61)",
+          "overflow": true,
+          "properties": [
+            {
+              "name": "reported",
+              "type": "boolean",
+              "value": "true"
+            },
+            {
+              "name": "timestamp",
+              "type": "number",
+              "value": "1583002018192"
+            },
+            {
+              "name": "lineNumber",
+              "type": "string",
+              "value": "151"
+            },
+            {
+              "name": "columnNumber",
+              "type": "string",
+              "value": "61"
+            },
+            {
+              "name": "functionName",
+              "type": "string",
+              "value": "HTMLDocument.document.onreadystatechange"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583002020406.7668,
+    "exceptionDetails": {
+      "exceptionId": 2,
+      "text": "Uncaught",
+      "lineNumber": 150,
+      "columnNumber": 60,
+      "url": "https://www.telegraph.co.uk/finance/newsbysector/banksandfinance/10736960/High-frequency-trading-when-milliseconds-mean-millions.html",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "document.onreadystatechange",
+            "scriptId": "18",
+            "url": "https://www.telegraph.co.uk/finance/newsbysector/banksandfinance/10736960/High-frequency-trading-when-milliseconds-mean-millions.html",
+            "lineNumber": 150,
+            "columnNumber": 60
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot set property 'src' of null at HTMLDocument.document.onreadystatechange (https://www.telegraph.co.uk/finance/newsbysector/banksandfinance/10736960/High-frequency-trading-when-milliseconds-mean-millions.html:151:61)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":2}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot set property 'src' of null at HTMLDocument.document.onreadystatechange (https://www.telegraph.co.uk/finance/newsbysector/banksandfinance/10736960/High-frequency-trading-when-milliseconds-mean-millions.html:151:61)",
+          "overflow": true,
+          "properties": [
+            {
+              "name": "reported",
+              "type": "boolean",
+              "value": "true"
+            },
+            {
+              "name": "timestamp",
+              "type": "number",
+              "value": "1583002020404"
+            },
+            {
+              "name": "lineNumber",
+              "type": "string",
+              "value": "151"
+            },
+            {
+              "name": "columnNumber",
+              "type": "string",
+              "value": "61"
+            },
+            {
+              "name": "functionName",
+              "type": "string",
+              "value": "HTMLDocument.document.onreadystatechange"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

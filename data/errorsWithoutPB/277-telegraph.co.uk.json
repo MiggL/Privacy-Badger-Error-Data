@@ -1,0 +1,111 @@
+[
+  {
+    "timestamp": 1583010900237.746,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 151,
+      "columnNumber": 60,
+      "url": "https://www.telegraph.co.uk/news/worldnews/asia/china/11589383/China-outraged-by-mans-savage-public-attack-on-toddler.html",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "document.onreadystatechange",
+            "scriptId": "18",
+            "url": "https://www.telegraph.co.uk/news/worldnews/asia/china/11589383/China-outraged-by-mans-savage-public-attack-on-toddler.html",
+            "lineNumber": 151,
+            "columnNumber": 60
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot set property 'src' of null\n    at HTMLDocument.document.onreadystatechange (https://www.telegraph.co.uk/news/worldnews/asia/china/11589383/China-outraged-by-mans-savage-public-attack-on-toddler.html:152:61)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot set property 'src' of null\n    at HTMLDocument.document.onreadystatechange (https://www.telegraph.co.uk/news/worldnews/asia/china/11589383/China-outraged-by-mans-savage-public-attack-on-toddler.html:152:61)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot set property 'src' of null\n    a…mans-savage-public-attack-on-toddler.html:152:61)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot set property 'src' of null"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583010907382.4019,
+    "exceptionDetails": {
+      "exceptionId": 2,
+      "text": "Uncaught",
+      "lineNumber": 151,
+      "columnNumber": 60,
+      "url": "https://www.telegraph.co.uk/news/worldnews/asia/china/11589383/China-outraged-by-mans-savage-public-attack-on-toddler.html",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "document.onreadystatechange",
+            "scriptId": "18",
+            "url": "https://www.telegraph.co.uk/news/worldnews/asia/china/11589383/China-outraged-by-mans-savage-public-attack-on-toddler.html",
+            "lineNumber": 151,
+            "columnNumber": 60
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot set property 'src' of null at HTMLDocument.document.onreadystatechange (https://www.telegraph.co.uk/news/worldnews/asia/china/11589383/China-outraged-by-mans-savage-public-attack-on-toddler.html:152:61)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":2}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot set property 'src' of null at HTMLDocument.document.onreadystatechange (https://www.telegraph.co.uk/news/worldnews/asia/china/11589383/China-outraged-by-mans-savage-public-attack-on-toddler.html:152:61)",
+          "overflow": true,
+          "properties": [
+            {
+              "name": "reported",
+              "type": "boolean",
+              "value": "true"
+            },
+            {
+              "name": "timestamp",
+              "type": "number",
+              "value": "1583010907380"
+            },
+            {
+              "name": "lineNumber",
+              "type": "string",
+              "value": "152"
+            },
+            {
+              "name": "columnNumber",
+              "type": "string",
+              "value": "61"
+            },
+            {
+              "name": "functionName",
+              "type": "string",
+              "value": "HTMLDocument.document.onreadystatechange"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

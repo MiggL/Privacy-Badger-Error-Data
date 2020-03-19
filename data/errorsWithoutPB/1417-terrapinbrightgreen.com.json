@@ -1,0 +1,49 @@
+[
+  {
+    "timestamp": 1582819065828.719,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 3521,
+      "columnNumber": 39,
+      "url": "https://www.terrapinbrightgreen.com/reports/14-patterns/",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "25",
+            "url": "https://www.terrapinbrightgreen.com/reports/14-patterns/",
+            "lineNumber": 3521,
+            "columnNumber": 39
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: stLight is not defined\n    at https://www.terrapinbrightgreen.com/reports/14-patterns/:3522:40",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: stLight is not defined\n    at https://www.terrapinbrightgreen.com/reports/14-patterns/:3522:40",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: stLight is not defined\n    at http…rapinbrightgreen.com/reports/14-patterns/:3522:40"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "stLight is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

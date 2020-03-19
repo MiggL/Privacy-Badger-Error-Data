@@ -1,0 +1,94 @@
+[
+  {
+    "timestamp": 1583749531081.09,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught (in promise)",
+      "lineNumber": 1,
+      "columnNumber": 15430,
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "42",
+            "url": "",
+            "lineNumber": 1,
+            "columnNumber": 15430
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "Error",
+        "description": "Error: securepubads.g.doubleclick.net/tag/js/gpt.js failed to load.\n    at HTMLScriptElement.<anonymous> (<anonymous>:2:15431)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "Error: securepubads.g.doubleclick.net/tag/js/gpt.js failed to load.\n    at HTMLScriptElement.<anonymous> (<anonymous>:2:15431)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "Error: securepubads.g.doubleclick.net/tag/js/gpt.j…MLScriptElement.<anonymous> (<anonymous>:2:15431)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "securepubads.g.doubleclick.net/tag/js/gpt.js failed to load."
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583749531081.524,
+    "exceptionDetails": {
+      "exceptionId": 2,
+      "text": "Uncaught (in promise)",
+      "lineNumber": 1,
+      "columnNumber": 15430,
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "42",
+            "url": "",
+            "lineNumber": 1,
+            "columnNumber": 15430
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "Error",
+        "description": "Error: c.amazon-adsystem.com/aax2/apstag.js failed to load.\n    at HTMLScriptElement.<anonymous> (<anonymous>:2:15431)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":2}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "Error: c.amazon-adsystem.com/aax2/apstag.js failed to load.\n    at HTMLScriptElement.<anonymous> (<anonymous>:2:15431)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "Error: c.amazon-adsystem.com/aax2/apstag.js failed…MLScriptElement.<anonymous> (<anonymous>:2:15431)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "c.amazon-adsystem.com/aax2/apstag.js failed to load."
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

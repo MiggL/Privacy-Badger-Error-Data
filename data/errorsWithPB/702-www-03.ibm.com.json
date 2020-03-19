@@ -1,0 +1,190 @@
+[
+  {
+    "timestamp": 1583425961621.354,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 0,
+      "columnNumber": 14,
+      "url": "https://www.ibm.com/products/category/static/category-band/_next/asset_a/page/software.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "39",
+            "url": "https://www.ibm.com/products/category/static/category-band/_next/asset_a/page/software.js",
+            "lineNumber": 0,
+            "columnNumber": 14
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot set property 'exports' of undefined\n    at https://www.ibm.com/products/category/static/category-band/_next/asset_a/page/software.js:1:15",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot set property 'exports' of undefined\n    at https://www.ibm.com/products/category/static/category-band/_next/asset_a/page/software.js:1:15",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot set property 'exports' of undefi…category-band/_next/asset_a/page/software.js:1:15"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot set property 'exports' of undefined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583425961622.5122,
+    "exceptionDetails": {
+      "exceptionId": 2,
+      "text": "Uncaught",
+      "lineNumber": 0,
+      "columnNumber": 14,
+      "url": "https://www.ibm.com/products/category/static/category-band/_next/asset_a/page/_app.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "40",
+            "url": "https://www.ibm.com/products/category/static/category-band/_next/asset_a/page/_app.js",
+            "lineNumber": 0,
+            "columnNumber": 14
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot set property 'exports' of undefined\n    at https://www.ibm.com/products/category/static/category-band/_next/asset_a/page/_app.js:1:15",
+        "objectId": "{\"injectedScriptId\":3,\"id\":2}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot set property 'exports' of undefined\n    at https://www.ibm.com/products/category/static/category-band/_next/asset_a/page/_app.js:1:15",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot set property 'exports' of undefi…tic/category-band/_next/asset_a/page/_app.js:1:15"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot set property 'exports' of undefined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583425961623.805,
+    "exceptionDetails": {
+      "exceptionId": 3,
+      "text": "Uncaught",
+      "lineNumber": 0,
+      "columnNumber": 14,
+      "url": "https://www.ibm.com/products/category/static/category-band/_next/asset_a/page/_error.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "41",
+            "url": "https://www.ibm.com/products/category/static/category-band/_next/asset_a/page/_error.js",
+            "lineNumber": 0,
+            "columnNumber": 14
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot set property 'exports' of undefined\n    at https://www.ibm.com/products/category/static/category-band/_next/asset_a/page/_error.js:1:15",
+        "objectId": "{\"injectedScriptId\":3,\"id\":3}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot set property 'exports' of undefined\n    at https://www.ibm.com/products/category/static/category-band/_next/asset_a/page/_error.js:1:15",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot set property 'exports' of undefi…c/category-band/_next/asset_a/page/_error.js:1:15"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot set property 'exports' of undefined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583425961746.423,
+    "exceptionDetails": {
+      "exceptionId": 4,
+      "text": "Uncaught",
+      "lineNumber": 0,
+      "columnNumber": 14,
+      "url": "https://www.ibm.com/products/category/static/category-band/_next/static/commons/main-ab7de2d2b84ea1dfa27d.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "27",
+            "url": "https://www.ibm.com/products/category/static/category-band/_next/static/commons/main-ab7de2d2b84ea1dfa27d.js",
+            "lineNumber": 0,
+            "columnNumber": 14
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot set property 'exports' of undefined\n    at https://www.ibm.com/products/category/static/category-band/_next/static/commons/main-ab7de2d2b84ea1dfa27d.js:1:15",
+        "objectId": "{\"injectedScriptId\":3,\"id\":4}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot set property 'exports' of undefined\n    at https://www.ibm.com/products/category/static/category-band/_next/static/commons/main-ab7de2d2b84ea1dfa27d.js:1:15",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot set property 'exports' of undefi…/static/commons/main-ab7de2d2b84ea1dfa27d.js:1:15"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot set property 'exports' of undefined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

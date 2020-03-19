@@ -1,0 +1,368 @@
+[
+  {
+    "timestamp": 1583007038828.1282,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 2062,
+      "columnNumber": 149,
+      "scriptId": "25",
+      "url": "http://news.bbc.co.uk/2/hi/uk/3524879.stm",
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "SyntaxError",
+        "description": "SyntaxError: Invalid or unexpected token",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "SyntaxError: Invalid or unexpected token",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "SyntaxError: Invalid or unexpected token"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Invalid or unexpected token"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583007038926.727,
+    "exceptionDetails": {
+      "exceptionId": 2,
+      "text": "Uncaught",
+      "lineNumber": 2166,
+      "columnNumber": 4,
+      "url": "http://news.bbc.co.uk/2/hi/uk/3524879.stm",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "30",
+            "url": "http://news.bbc.co.uk/2/hi/uk/3524879.stm",
+            "lineNumber": 2166,
+            "columnNumber": 4
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: BBC is not defined\n    at http://news.bbc.co.uk/2/hi/uk/3524879.stm:2167:5",
+        "objectId": "{\"injectedScriptId\":3,\"id\":2}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: BBC is not defined\n    at http://news.bbc.co.uk/2/hi/uk/3524879.stm:2167:5",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: BBC is not defined\n    at http://news.bbc.co.uk/2/hi/uk/3524879.stm:2167:5"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "BBC is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583007038927.5361,
+    "exceptionDetails": {
+      "exceptionId": 3,
+      "text": "Uncaught",
+      "lineNumber": 2177,
+      "columnNumber": 4,
+      "url": "http://news.bbc.co.uk/2/hi/uk/3524879.stm",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "31",
+            "url": "http://news.bbc.co.uk/2/hi/uk/3524879.stm",
+            "lineNumber": 2177,
+            "columnNumber": 4
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: BBC is not defined\n    at http://news.bbc.co.uk/2/hi/uk/3524879.stm:2178:5",
+        "objectId": "{\"injectedScriptId\":3,\"id\":3}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: BBC is not defined\n    at http://news.bbc.co.uk/2/hi/uk/3524879.stm:2178:5",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: BBC is not defined\n    at http://news.bbc.co.uk/2/hi/uk/3524879.stm:2178:5"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "BBC is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583007038928.186,
+    "exceptionDetails": {
+      "exceptionId": 4,
+      "text": "Uncaught",
+      "lineNumber": 2185,
+      "columnNumber": 4,
+      "url": "http://news.bbc.co.uk/2/hi/uk/3524879.stm",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "32",
+            "url": "http://news.bbc.co.uk/2/hi/uk/3524879.stm",
+            "lineNumber": 2185,
+            "columnNumber": 4
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: BBC is not defined\n    at http://news.bbc.co.uk/2/hi/uk/3524879.stm:2186:5",
+        "objectId": "{\"injectedScriptId\":3,\"id\":4}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: BBC is not defined\n    at http://news.bbc.co.uk/2/hi/uk/3524879.stm:2186:5",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: BBC is not defined\n    at http://news.bbc.co.uk/2/hi/uk/3524879.stm:2186:5"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "BBC is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583007038928.8298,
+    "exceptionDetails": {
+      "exceptionId": 5,
+      "text": "Uncaught",
+      "lineNumber": 2198,
+      "columnNumber": 4,
+      "url": "http://news.bbc.co.uk/2/hi/uk/3524879.stm",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "33",
+            "url": "http://news.bbc.co.uk/2/hi/uk/3524879.stm",
+            "lineNumber": 2198,
+            "columnNumber": 4
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: BBC is not defined\n    at http://news.bbc.co.uk/2/hi/uk/3524879.stm:2199:5",
+        "objectId": "{\"injectedScriptId\":3,\"id\":5}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: BBC is not defined\n    at http://news.bbc.co.uk/2/hi/uk/3524879.stm:2199:5",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: BBC is not defined\n    at http://news.bbc.co.uk/2/hi/uk/3524879.stm:2199:5"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "BBC is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583007038929.402,
+    "exceptionDetails": {
+      "exceptionId": 6,
+      "text": "Uncaught",
+      "lineNumber": 2206,
+      "columnNumber": 4,
+      "url": "http://news.bbc.co.uk/2/hi/uk/3524879.stm",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "34",
+            "url": "http://news.bbc.co.uk/2/hi/uk/3524879.stm",
+            "lineNumber": 2206,
+            "columnNumber": 4
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: BBC is not defined\n    at http://news.bbc.co.uk/2/hi/uk/3524879.stm:2207:5",
+        "objectId": "{\"injectedScriptId\":3,\"id\":6}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: BBC is not defined\n    at http://news.bbc.co.uk/2/hi/uk/3524879.stm:2207:5",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: BBC is not defined\n    at http://news.bbc.co.uk/2/hi/uk/3524879.stm:2207:5"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "BBC is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583007038929.827,
+    "exceptionDetails": {
+      "exceptionId": 7,
+      "text": "Uncaught",
+      "lineNumber": 2217,
+      "columnNumber": 4,
+      "url": "http://news.bbc.co.uk/2/hi/uk/3524879.stm",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "35",
+            "url": "http://news.bbc.co.uk/2/hi/uk/3524879.stm",
+            "lineNumber": 2217,
+            "columnNumber": 4
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: BBC is not defined\n    at http://news.bbc.co.uk/2/hi/uk/3524879.stm:2218:5",
+        "objectId": "{\"injectedScriptId\":3,\"id\":7}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: BBC is not defined\n    at http://news.bbc.co.uk/2/hi/uk/3524879.stm:2218:5",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: BBC is not defined\n    at http://news.bbc.co.uk/2/hi/uk/3524879.stm:2218:5"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "BBC is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583007038930.207,
+    "exceptionDetails": {
+      "exceptionId": 8,
+      "text": "Uncaught",
+      "lineNumber": 2236,
+      "columnNumber": 4,
+      "url": "http://news.bbc.co.uk/2/hi/uk/3524879.stm",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "36",
+            "url": "http://news.bbc.co.uk/2/hi/uk/3524879.stm",
+            "lineNumber": 2236,
+            "columnNumber": 4
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: BBC is not defined\n    at http://news.bbc.co.uk/2/hi/uk/3524879.stm:2237:5",
+        "objectId": "{\"injectedScriptId\":3,\"id\":8}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: BBC is not defined\n    at http://news.bbc.co.uk/2/hi/uk/3524879.stm:2237:5",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: BBC is not defined\n    at http://news.bbc.co.uk/2/hi/uk/3524879.stm:2237:5"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "BBC is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

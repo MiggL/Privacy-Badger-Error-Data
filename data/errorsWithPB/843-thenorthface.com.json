@@ -1,0 +1,533 @@
+[
+  {
+    "timestamp": 1583424648217.678,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 0,
+      "columnNumber": 1794,
+      "url": "https://www.thenorthface.com/wcsstore/tnf/js/lib/require.js?v=268",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "makeError",
+            "scriptId": "33",
+            "url": "https://www.thenorthface.com/wcsstore/tnf/js/lib/require.js?v=268",
+            "lineNumber": 0,
+            "columnNumber": 1794
+          },
+          {
+            "functionName": "onScriptError",
+            "scriptId": "33",
+            "url": "https://www.thenorthface.com/wcsstore/tnf/js/lib/require.js?v=268",
+            "lineNumber": 0,
+            "columnNumber": 17073
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "Error",
+        "description": "Error: Script error for \"https://js.adsrvr.org/up_loader.1.1.0.js\"\nhttps://requirejs.org/docs/errors.html#scripterror\n    at makeError (https://www.thenorthface.com/wcsstore/tnf/js/lib/require.js?v=268:1:1795)\n    at HTMLScriptElement.onScriptError (https://www.thenorthface.com/wcsstore/tnf/js/lib/require.js?v=268:1:17074)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":2}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "Error: Script error for \"https://js.adsrvr.org/up_loader.1.1.0.js\"\nhttps://requirejs.org/docs/errors.html#scripterror\n    at makeError (https://www.thenorthface.com/wcsstore/tnf/js/lib/require.js?v=268:1:1795)\n    at HTMLScriptElement.onScriptError (https://www.thenorthface.com/wcsstore/tnf/js/lib/require.js?v=268:1:17074)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "requireType",
+              "type": "string",
+              "value": "scripterror"
+            },
+            {
+              "name": "requireModules",
+              "type": "object",
+              "value": "Array(1)",
+              "subtype": "array"
+            },
+            {
+              "name": "originalError",
+              "type": "object",
+              "value": "Event"
+            },
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "Error: Script error for \"https://js.adsrvr.org/up_…com/wcsstore/tnf/js/lib/require.js?v=268:1:17074)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Script error for \"https://js.adsrvr.org/up_loader.…ttps://requirejs.org/docs/errors.html#scripterror"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583424650541.6802,
+    "exceptionDetails": {
+      "exceptionId": 2,
+      "text": "Uncaught",
+      "lineNumber": 0,
+      "columnNumber": 519,
+      "url": "https://www.thenorthface.com/wcsstore/tnf/09ecb9db38/js/wcs/view/vfdp-s7-viewer/helpers.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "r",
+            "scriptId": "158",
+            "url": "https://www.thenorthface.com/wcsstore/tnf/09ecb9db38/js/wcs/view/vfdp-s7-viewer/helpers.js",
+            "lineNumber": 0,
+            "columnNumber": 519
+          },
+          {
+            "functionName": "r",
+            "scriptId": "158",
+            "url": "https://www.thenorthface.com/wcsstore/tnf/09ecb9db38/js/wcs/view/vfdp-s7-viewer/helpers.js",
+            "lineNumber": 0,
+            "columnNumber": 544
+          },
+          {
+            "functionName": "r",
+            "scriptId": "158",
+            "url": "https://www.thenorthface.com/wcsstore/tnf/09ecb9db38/js/wcs/view/vfdp-s7-viewer/helpers.js",
+            "lineNumber": 0,
+            "columnNumber": 544
+          },
+          {
+            "functionName": "r",
+            "scriptId": "158",
+            "url": "https://www.thenorthface.com/wcsstore/tnf/09ecb9db38/js/wcs/view/vfdp-s7-viewer/helpers.js",
+            "lineNumber": 0,
+            "columnNumber": 485
+          },
+          {
+            "functionName": "setConfig",
+            "scriptId": "160",
+            "url": "https://www.thenorthface.com/wcsstore/tnf/09ecb9db38/js/wcs/view/vfdp-s7-viewer/config.js",
+            "lineNumber": 0,
+            "columnNumber": 2741
+          },
+          {
+            "functionName": "onConfigChange",
+            "scriptId": "140",
+            "url": "https://www.thenorthface.com/wcsstore/tnf/09ecb9db38/js/wcs/view/vfdp-s7-viewer/app.js",
+            "lineNumber": 0,
+            "columnNumber": 22692
+          },
+          {
+            "functionName": "",
+            "scriptId": "140",
+            "url": "https://www.thenorthface.com/wcsstore/tnf/09ecb9db38/js/wcs/view/vfdp-s7-viewer/app.js",
+            "lineNumber": 0,
+            "columnNumber": 14960
+          },
+          {
+            "functionName": "",
+            "scriptId": "140",
+            "url": "https://www.thenorthface.com/wcsstore/tnf/09ecb9db38/js/wcs/view/vfdp-s7-viewer/app.js",
+            "lineNumber": 0,
+            "columnNumber": 14938
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'constructor' of null at r (https://www.thenorthface.com/wcsstore/tnf/09ecb9db38/js/wcs/view/vfdp-s7-viewer/helpers.js:1:520) at r (https://www.thenorthface.com/wcsstore/tnf/09ecb9db38/js/wcs/view/vfdp-s7-viewer/helpers.js:1:545) at r (https://www.thenorthface.com/wcsstore/tnf/09ecb9db38/js/wcs/view/vfdp-s7-viewer/helpers.js:1:545) at Object.r [as extend] (https://www.thenorthface.com/wcsstore/tnf/09ecb9db38/js/wcs/view/vfdp-s7-viewer/helpers.js:1:486) at e.setConfig (https://www.thenorthface.com/wcsstore/tnf/09ecb9db38/js/wcs/view/vfdp-s7-viewer/config.js:1:2742) at n.onConfigChange (https://www.thenorthface.com/wcsstore/tnf/09ecb9db38/js/wcs/view/vfdp-s7-viewer/app.js:1:22693) at https://www.thenorthface.com/wcsstore/tnf/09ecb9db38/js/wcs/view/vfdp-s7-viewer/app.js:1:14961 at Array.forEach (<anonymous>) at MutationObserver.<anonymous> (https://www.thenorthface.com/wcsstore/tnf/09ecb9db38/js/wcs/view/vfdp-s7-viewer/app.js:1:14939)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":11}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'constructor' of null at r (https://www.thenorthface.com/wcsstore/tnf/09ecb9db38/js/wcs/view/vfdp-s7-viewer/helpers.js:1:520) at r (https://www.thenorthface.com/wcsstore/tnf/09ecb9db38/js/wcs/view/vfdp-s7-viewer/helpers.js:1:545) at r (https://www.thenorthface.com/wcsstore/tnf/09ecb9db38/js/wcs/view/vfdp-s7-viewer/helpers.js:1:545) at Object.r [as extend] (https://www.thenorthface.com/wcsstore/tnf/09ecb9db38/js/wcs/view/vfdp-s7-viewer/helpers.js:1:486) at e.setConfig (https://www.thenorthface.com/wcsstore/tnf/09ecb9db38/js/wcs/view/vfdp-s7-viewer/config.js:1:2742) at n.onConfigChange (https://www.thenorthface.com/wcsstore/tnf/09ecb9db38/js/wcs/view/vfdp-s7-viewer/app.js:1:22693) at https://www.thenorthface.com/wcsstore/tnf/09ecb9db38/js/wcs/view/vfdp-s7-viewer/app.js:1:14961 at Array.forEach (<anonymous>) at MutationObserver.<anonymous> (https://www.thenorthface.com/wcsstore/tnf/09ecb9db38/js/wcs/view/vfdp-s7-viewer/app.js:1:14939)",
+          "overflow": true,
+          "properties": [
+            {
+              "name": "reported",
+              "type": "boolean",
+              "value": "true"
+            },
+            {
+              "name": "timestamp",
+              "type": "number",
+              "value": "1583424650541"
+            },
+            {
+              "name": "lineNumber",
+              "type": "string",
+              "value": "1"
+            },
+            {
+              "name": "columnNumber",
+              "type": "string",
+              "value": "520"
+            },
+            {
+              "name": "functionName",
+              "type": "string",
+              "value": "r"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583424651328.353,
+    "exceptionDetails": {
+      "exceptionId": 3,
+      "text": "Uncaught",
+      "lineNumber": 15,
+      "columnNumber": 23872,
+      "scriptId": "50",
+      "url": "https://s.go-mpulse.net/boomerang/2QD67-CQ6ST-Q6RUT-EQWMR-XMT7V",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "updateAddToCartOutOfStockText",
+            "scriptId": "489",
+            "url": "https://www.thenorthface.com/wcsstore/tnf/09ecb9db38/js/wcs/view/product-form/product-form-core-logic.js",
+            "lineNumber": 0,
+            "columnNumber": 25150
+          },
+          {
+            "functionName": "resolveSelectionForNotHasInventory",
+            "scriptId": "489",
+            "url": "https://www.thenorthface.com/wcsstore/tnf/09ecb9db38/js/wcs/view/product-form/product-form-core-logic.js",
+            "lineNumber": 0,
+            "columnNumber": 23910
+          },
+          {
+            "functionName": "resolveButtonsForAllAttributesSelected",
+            "scriptId": "489",
+            "url": "https://www.thenorthface.com/wcsstore/tnf/09ecb9db38/js/wcs/view/product-form/product-form-core-logic.js",
+            "lineNumber": 0,
+            "columnNumber": 21252
+          },
+          {
+            "functionName": "resolveItemAndResetButtons",
+            "scriptId": "489",
+            "url": "https://www.thenorthface.com/wcsstore/tnf/09ecb9db38/js/wcs/view/product-form/product-form-core-logic.js",
+            "lineNumber": 0,
+            "columnNumber": 19731
+          },
+          {
+            "functionName": "parseAvailabilityDataReturn",
+            "scriptId": "489",
+            "url": "https://www.thenorthface.com/wcsstore/tnf/09ecb9db38/js/wcs/view/product-form/product-form-core-logic.js",
+            "lineNumber": 0,
+            "columnNumber": 17518
+          },
+          {
+            "functionName": "handleAvailabilityResponse",
+            "scriptId": "489",
+            "url": "https://www.thenorthface.com/wcsstore/tnf/09ecb9db38/js/wcs/view/product-form/product-form-core-logic.js",
+            "lineNumber": 0,
+            "columnNumber": 15028
+          },
+          {
+            "functionName": "",
+            "scriptId": "489",
+            "url": "https://www.thenorthface.com/wcsstore/tnf/09ecb9db38/js/wcs/view/product-form/product-form-core-logic.js",
+            "lineNumber": 0,
+            "columnNumber": 5446
+          },
+          {
+            "functionName": "c",
+            "scriptId": "125",
+            "url": "https://www.thenorthface.com/wcsstore/tnf/09ecb9db38/js/npm-lib/jquery.min.js",
+            "lineNumber": 1,
+            "columnNumber": 27741
+          },
+          {
+            "functionName": "add",
+            "scriptId": "125",
+            "url": "https://www.thenorthface.com/wcsstore/tnf/09ecb9db38/js/npm-lib/jquery.min.js",
+            "lineNumber": 1,
+            "columnNumber": 28019
+          },
+          {
+            "functionName": "initChildren",
+            "scriptId": "489",
+            "url": "https://www.thenorthface.com/wcsstore/tnf/09ecb9db38/js/wcs/view/product-form/product-form-core-logic.js",
+            "lineNumber": 0,
+            "columnNumber": 5424
+          },
+          {
+            "functionName": "initProductFormCore",
+            "scriptId": "489",
+            "url": "https://www.thenorthface.com/wcsstore/tnf/09ecb9db38/js/wcs/view/product-form/product-form-core-logic.js",
+            "lineNumber": 0,
+            "columnNumber": 1320
+          },
+          {
+            "functionName": "initAddToCart",
+            "scriptId": "466",
+            "url": "https://www.thenorthface.com/wcsstore/tnf/09ecb9db38/js/wcs/view/product-form/product-form-add-to-cart.js",
+            "lineNumber": 0,
+            "columnNumber": 487
+          },
+          {
+            "functionName": "",
+            "scriptId": "466",
+            "url": "https://www.thenorthface.com/wcsstore/tnf/09ecb9db38/js/wcs/view/product-form/product-form-add-to-cart.js",
+            "lineNumber": 0,
+            "columnNumber": 9141
+          },
+          {
+            "functionName": "each",
+            "scriptId": "125",
+            "url": "https://www.thenorthface.com/wcsstore/tnf/09ecb9db38/js/npm-lib/jquery.min.js",
+            "lineNumber": 1,
+            "columnNumber": 2776
+          },
+          {
+            "functionName": "each",
+            "scriptId": "125",
+            "url": "https://www.thenorthface.com/wcsstore/tnf/09ecb9db38/js/npm-lib/jquery.min.js",
+            "lineNumber": 1,
+            "columnNumber": 1418
+          },
+          {
+            "functionName": "l.fn.AddToCartForm",
+            "scriptId": "466",
+            "url": "https://www.thenorthface.com/wcsstore/tnf/09ecb9db38/js/wcs/view/product-form/product-form-add-to-cart.js",
+            "lineNumber": 0,
+            "columnNumber": 9083
+          },
+          {
+            "functionName": "",
+            "scriptId": "416",
+            "url": "https://www.thenorthface.com/wcsstore/tnf/09ecb9db38/js/vfdp/view/product-form.js",
+            "lineNumber": 0,
+            "columnNumber": 1460
+          },
+          {
+            "functionName": "execCb",
+            "scriptId": "33",
+            "url": "https://www.thenorthface.com/wcsstore/tnf/js/lib/require.js?v=268",
+            "lineNumber": 0,
+            "columnNumber": 16716
+          },
+          {
+            "functionName": "check",
+            "scriptId": "33",
+            "url": "https://www.thenorthface.com/wcsstore/tnf/js/lib/require.js?v=268",
+            "lineNumber": 0,
+            "columnNumber": 10488
+          },
+          {
+            "functionName": "",
+            "scriptId": "33",
+            "url": "https://www.thenorthface.com/wcsstore/tnf/js/lib/require.js?v=268",
+            "lineNumber": 0,
+            "columnNumber": 12904
+          },
+          {
+            "functionName": "",
+            "scriptId": "33",
+            "url": "https://www.thenorthface.com/wcsstore/tnf/js/lib/require.js?v=268",
+            "lineNumber": 0,
+            "columnNumber": 1541
+          },
+          {
+            "functionName": "",
+            "scriptId": "33",
+            "url": "https://www.thenorthface.com/wcsstore/tnf/js/lib/require.js?v=268",
+            "lineNumber": 0,
+            "columnNumber": 13365
+          },
+          {
+            "functionName": "each",
+            "scriptId": "33",
+            "url": "https://www.thenorthface.com/wcsstore/tnf/js/lib/require.js?v=268",
+            "lineNumber": 0,
+            "columnNumber": 1019
+          },
+          {
+            "functionName": "emit",
+            "scriptId": "33",
+            "url": "https://www.thenorthface.com/wcsstore/tnf/js/lib/require.js?v=268",
+            "lineNumber": 0,
+            "columnNumber": 13333
+          },
+          {
+            "functionName": "check",
+            "scriptId": "33",
+            "url": "https://www.thenorthface.com/wcsstore/tnf/js/lib/require.js?v=268",
+            "lineNumber": 0,
+            "columnNumber": 11047
+          },
+          {
+            "functionName": "",
+            "scriptId": "33",
+            "url": "https://www.thenorthface.com/wcsstore/tnf/js/lib/require.js?v=268",
+            "lineNumber": 0,
+            "columnNumber": 12904
+          },
+          {
+            "functionName": "",
+            "scriptId": "33",
+            "url": "https://www.thenorthface.com/wcsstore/tnf/js/lib/require.js?v=268",
+            "lineNumber": 0,
+            "columnNumber": 1541
+          },
+          {
+            "functionName": "",
+            "scriptId": "33",
+            "url": "https://www.thenorthface.com/wcsstore/tnf/js/lib/require.js?v=268",
+            "lineNumber": 0,
+            "columnNumber": 13365
+          },
+          {
+            "functionName": "each",
+            "scriptId": "33",
+            "url": "https://www.thenorthface.com/wcsstore/tnf/js/lib/require.js?v=268",
+            "lineNumber": 0,
+            "columnNumber": 1019
+          },
+          {
+            "functionName": "emit",
+            "scriptId": "33",
+            "url": "https://www.thenorthface.com/wcsstore/tnf/js/lib/require.js?v=268",
+            "lineNumber": 0,
+            "columnNumber": 13333
+          },
+          {
+            "functionName": "check",
+            "scriptId": "33",
+            "url": "https://www.thenorthface.com/wcsstore/tnf/js/lib/require.js?v=268",
+            "lineNumber": 0,
+            "columnNumber": 11047
+          },
+          {
+            "functionName": "",
+            "scriptId": "33",
+            "url": "https://www.thenorthface.com/wcsstore/tnf/js/lib/require.js?v=268",
+            "lineNumber": 0,
+            "columnNumber": 12904
+          },
+          {
+            "functionName": "",
+            "scriptId": "33",
+            "url": "https://www.thenorthface.com/wcsstore/tnf/js/lib/require.js?v=268",
+            "lineNumber": 0,
+            "columnNumber": 1541
+          },
+          {
+            "functionName": "",
+            "scriptId": "33",
+            "url": "https://www.thenorthface.com/wcsstore/tnf/js/lib/require.js?v=268",
+            "lineNumber": 0,
+            "columnNumber": 13365
+          },
+          {
+            "functionName": "each",
+            "scriptId": "33",
+            "url": "https://www.thenorthface.com/wcsstore/tnf/js/lib/require.js?v=268",
+            "lineNumber": 0,
+            "columnNumber": 1019
+          },
+          {
+            "functionName": "emit",
+            "scriptId": "33",
+            "url": "https://www.thenorthface.com/wcsstore/tnf/js/lib/require.js?v=268",
+            "lineNumber": 0,
+            "columnNumber": 13333
+          },
+          {
+            "functionName": "check",
+            "scriptId": "33",
+            "url": "https://www.thenorthface.com/wcsstore/tnf/js/lib/require.js?v=268",
+            "lineNumber": 0,
+            "columnNumber": 11047
+          },
+          {
+            "functionName": "enable",
+            "scriptId": "33",
+            "url": "https://www.thenorthface.com/wcsstore/tnf/js/lib/require.js?v=268",
+            "lineNumber": 0,
+            "columnNumber": 13231
+          },
+          {
+            "functionName": "init",
+            "scriptId": "33",
+            "url": "https://www.thenorthface.com/wcsstore/tnf/js/lib/require.js?v=268",
+            "lineNumber": 0,
+            "columnNumber": 9594
+          },
+          {
+            "functionName": "a",
+            "scriptId": "33",
+            "url": "https://www.thenorthface.com/wcsstore/tnf/js/lib/require.js?v=268",
+            "lineNumber": 0,
+            "columnNumber": 8294
+          },
+          {
+            "functionName": "completeLoad",
+            "scriptId": "33",
+            "url": "https://www.thenorthface.com/wcsstore/tnf/js/lib/require.js?v=268",
+            "lineNumber": 0,
+            "columnNumber": 15951
+          },
+          {
+            "functionName": "onScriptLoad",
+            "scriptId": "33",
+            "url": "https://www.thenorthface.com/wcsstore/tnf/js/lib/require.js?v=268",
+            "lineNumber": 0,
+            "columnNumber": 16871
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'length' of undefined at n.updateAddToCartOutOfStockText (https://www.thenorthface.com/wcsstore/tnf/09ecb9db38/js/wcs/view/product-form/product-form-core-logic.js:1:25151) at n.resolveSelectionForNotHasInventory (https://www.thenorthface.com/wcsstore/tnf/09ecb9db38/js/wcs/view/product-form/product-form-core-logic.js:1:23911) at n.resolveButtonsForAllAttributesSelected (https://www.thenorthface.com/wcsstore/tnf/09ecb9db38/js/wcs/view/product-form/product-form-core-logic.js:1:21253) at n.resolveItemAndResetButtons (https://www.thenorthface.com/wcsstore/tnf/09ecb9db38/js/wcs/view/product-form/product-form-core-logic.js:1:19732) at n.parseAvailabilityDataReturn (https://www.thenorthface.com/wcsstore/tnf/09ecb9db38/js/wcs/view/product-form/product-form-core-logic.js:1:17519) at n.handleAvailabilityResponse (https://www.thenorthface.com/wcsstore/tnf/09ecb9db38/js/wcs/view/product-form/product-form-core-logic.js:1:15029) at https://www.thenorthface.com/wcsstore/tnf/09ecb9db38/js/wcs/view/product-form/product-form-core-logic.js:1:5447 at c (https://www.thenorthface.com/wcsstore/tnf/09ecb9db38/js/npm-lib/jquery.min.js:2:27742) at Object.add [as done] (https://www.thenorthface.com/wcsstore/tnf/09ecb9db38/js/npm-lib/jquery.min.js:2:28020) at n.initChildren (https://www.thenorthface.com/wcsstore/tnf/09ecb9db38/js/wcs/view/product-form/product-form-core-logic.js:1:5425) at n.initProductFormCore (https://www.thenorthface.com/wcsstore/tnf/09ecb9db38/js/wcs/view/product-form/product-form-core-logic.js:1:1321) at n.initAddToCart (https://www.thenorthface.com/wcsstore/tnf/09ecb9db38/js/wcs/view/product-form/product-form-add-to-cart.js:1:488) at HTMLFormElement.<anonymous> (https://www.thenorthface.com/wcsstore/tnf/09ecb9db38/js/wcs/view/product-form/product-form-add-to-cart.js:1:9142) at Function.each (https://www.thenorthface.com/wcsstore/tnf/09ecb9db38/js/npm-lib/jquery.min.js:2:2777) at k.fn.init.each (https://www.thenorthface.com/wcsstore/tnf/09ecb9db38/js/npm-lib/jquery.min.js:2:1419) at k.fn.init.l.fn.AddToCartForm (https://www.thenorthface.com/wcsstore/tnf/09ecb9db38/js/wcs/view/product-form/product-form-add-to-cart.js:1:9084) at https://www.thenorthface.com/wcsstore/tnf/09ecb9db38/js/vfdp/view/product-form.js:1:1461 at Object.execCb (https://www.thenorthface.com/wcsstore/tnf/js/lib/require.js?v=268:1:16717) at e.check (https://www.thenorthface.com/wcsstore/tnf/js/lib/require.js?v=268:1:10489) at e.<anonymous> (https://www.thenorthface.com/wcsstore/tnf/js/lib/require.js?v=268:1:12905) at https://www.thenorthface.com/wcsstore/tnf/js/lib/require.js?v=268:1:1542 at https://www.thenorthface.com/wcsstore/tnf/js/lib/require.js?v=268:1:13366 at each (https://www.thenorthface.com/wcsstore/tnf/js/lib/require.js?v=268:1:1020) at emit (https://www.thenorthface.com/wcsstore/tnf/js/lib/require.js?v=268:1:13334) at e.check (https://www.thenorthface.com/wcsstore/tnf/js/lib/require.js?v=268:1:11048) at e.<anonymous> (https://www.thenorthface.com/wcsstore/tnf/js/lib/require.js?v=268:1:12905) at https://www.thenorthface.com/wcsstore/tnf/js/lib/require.js?v=268:1:1542 at https://www.thenorthface.com/wcsstore/tnf/js/lib/require.js?v=268:1:13366 at each (https://www.thenorthface.com/wcsstore/tnf/js/lib/require.js?v=268:1:1020) at emit (https://www.thenorthface.com/wcsstore/tnf/js/lib/require.js?v=268:1:13334) at e.check (https://www.thenorthface.com/wcsstore/tnf/js/lib/require.js?v=268:1:11048) at e.<anonymous> (https://www.thenorthface.com/wcsstore/tnf/js/lib/require.js?v=268:1:12905) at https://www.thenorthface.com/wcsstore/tnf/js/lib/require.js?v=268:1:1542 at https://www.thenorthface.com/wcsstore/tnf/js/lib/require.js?v=268:1:13366 at each (https://www.thenorthface.com/wcsstore/tnf/js/lib/require.js?v=268:1:1020) at emit (https://www.thenorthface.com/wcsstore/tnf/js/lib/require.js?v=268:1:13334) at e.check (https://www.thenorthface.com/wcsstore/tnf/js/lib/require.js?v=268:1:11048) at enable (https://www.thenorthface.com/wcsstore/tnf/js/lib/require.js?v=268:1:13232) at e.init (https://www.thenorthface.com/wcsstore/tnf/js/lib/require.js?v=268:1:9595) at a (https://www.thenorthface.com/wcsstore/tnf/js/lib/require.js?v=268:1:8295) at Object.completeLoad (https://www.thenorthface.com/wcsstore/tnf/js/lib/require.js?v=268:1:15952) at HTMLScriptElement.onScriptLoad (https://www.thenorthface.com/wcsstore/tnf/js/lib/require.js?v=268:1:16872)",
+        "objectId": "{\"injectedScriptId\":6,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'length' of undefined at n.updateAddToCartOutOfStockText (https://www.thenorthface.com/wcsstore/tnf/09ecb9db38/js/wcs/view/product-form/product-form-core-logic.js:1:25151) at n.resolveSelectionForNotHasInventory (https://www.thenorthface.com/wcsstore/tnf/09ecb9db38/js/wcs/view/product-form/product-form-core-logic.js:1:23911) at n.resolveButtonsForAllAttributesSelected (https://www.thenorthface.com/wcsstore/tnf/09ecb9db38/js/wcs/view/product-form/product-form-core-logic.js:1:21253) at n.resolveItemAndResetButtons (https://www.thenorthface.com/wcsstore/tnf/09ecb9db38/js/wcs/view/product-form/product-form-core-logic.js:1:19732) at n.parseAvailabilityDataReturn (https://www.thenorthface.com/wcsstore/tnf/09ecb9db38/js/wcs/view/product-form/product-form-core-logic.js:1:17519) at n.handleAvailabilityResponse (https://www.thenorthface.com/wcsstore/tnf/09ecb9db38/js/wcs/view/product-form/product-form-core-logic.js:1:15029) at https://www.thenorthface.com/wcsstore/tnf/09ecb9db38/js/wcs/view/product-form/product-form-core-logic.js:1:5447 at c (https://www.thenorthface.com/wcsstore/tnf/09ecb9db38/js/npm-lib/jquery.min.js:2:27742) at Object.add [as done] (https://www.thenorthface.com/wcsstore/tnf/09ecb9db38/js/npm-lib/jquery.min.js:2:28020) at n.initChildren (https://www.thenorthface.com/wcsstore/tnf/09ecb9db38/js/wcs/view/product-form/product-form-core-logic.js:1:5425) at n.initProductFormCore (https://www.thenorthface.com/wcsstore/tnf/09ecb9db38/js/wcs/view/product-form/product-form-core-logic.js:1:1321) at n.initAddToCart (https://www.thenorthface.com/wcsstore/tnf/09ecb9db38/js/wcs/view/product-form/product-form-add-to-cart.js:1:488) at HTMLFormElement.<anonymous> (https://www.thenorthface.com/wcsstore/tnf/09ecb9db38/js/wcs/view/product-form/product-form-add-to-cart.js:1:9142) at Function.each (https://www.thenorthface.com/wcsstore/tnf/09ecb9db38/js/npm-lib/jquery.min.js:2:2777) at k.fn.init.each (https://www.thenorthface.com/wcsstore/tnf/09ecb9db38/js/npm-lib/jquery.min.js:2:1419) at k.fn.init.l.fn.AddToCartForm (https://www.thenorthface.com/wcsstore/tnf/09ecb9db38/js/wcs/view/product-form/product-form-add-to-cart.js:1:9084) at https://www.thenorthface.com/wcsstore/tnf/09ecb9db38/js/vfdp/view/product-form.js:1:1461 at Object.execCb (https://www.thenorthface.com/wcsstore/tnf/js/lib/require.js?v=268:1:16717) at e.check (https://www.thenorthface.com/wcsstore/tnf/js/lib/require.js?v=268:1:10489) at e.<anonymous> (https://www.thenorthface.com/wcsstore/tnf/js/lib/require.js?v=268:1:12905) at https://www.thenorthface.com/wcsstore/tnf/js/lib/require.js?v=268:1:1542 at https://www.thenorthface.com/wcsstore/tnf/js/lib/require.js?v=268:1:13366 at each (https://www.thenorthface.com/wcsstore/tnf/js/lib/require.js?v=268:1:1020) at emit (https://www.thenorthface.com/wcsstore/tnf/js/lib/require.js?v=268:1:13334) at e.check (https://www.thenorthface.com/wcsstore/tnf/js/lib/require.js?v=268:1:11048) at e.<anonymous> (https://www.thenorthface.com/wcsstore/tnf/js/lib/require.js?v=268:1:12905) at https://www.thenorthface.com/wcsstore/tnf/js/lib/require.js?v=268:1:1542 at https://www.thenorthface.com/wcsstore/tnf/js/lib/require.js?v=268:1:13366 at each (https://www.thenorthface.com/wcsstore/tnf/js/lib/require.js?v=268:1:1020) at emit (https://www.thenorthface.com/wcsstore/tnf/js/lib/require.js?v=268:1:13334) at e.check (https://www.thenorthface.com/wcsstore/tnf/js/lib/require.js?v=268:1:11048) at e.<anonymous> (https://www.thenorthface.com/wcsstore/tnf/js/lib/require.js?v=268:1:12905) at https://www.thenorthface.com/wcsstore/tnf/js/lib/require.js?v=268:1:1542 at https://www.thenorthface.com/wcsstore/tnf/js/lib/require.js?v=268:1:13366 at each (https://www.thenorthface.com/wcsstore/tnf/js/lib/require.js?v=268:1:1020) at emit (https://www.thenorthface.com/wcsstore/tnf/js/lib/require.js?v=268:1:13334) at e.check (https://www.thenorthface.com/wcsstore/tnf/js/lib/require.js?v=268:1:11048) at enable (https://www.thenorthface.com/wcsstore/tnf/js/lib/require.js?v=268:1:13232) at e.init (https://www.thenorthface.com/wcsstore/tnf/js/lib/require.js?v=268:1:9595) at a (https://www.thenorthface.com/wcsstore/tnf/js/lib/require.js?v=268:1:8295) at Object.completeLoad (https://www.thenorthface.com/wcsstore/tnf/js/lib/require.js?v=268:1:15952) at HTMLScriptElement.onScriptLoad (https://www.thenorthface.com/wcsstore/tnf/js/lib/require.js?v=268:1:16872)",
+          "overflow": true,
+          "properties": [
+            {
+              "name": "reported",
+              "type": "boolean",
+              "value": "true"
+            },
+            {
+              "name": "timestamp",
+              "type": "number",
+              "value": "1583424651327"
+            },
+            {
+              "name": "lineNumber",
+              "type": "string",
+              "value": "1"
+            },
+            {
+              "name": "columnNumber",
+              "type": "string",
+              "value": "25151"
+            },
+            {
+              "name": "functionName",
+              "type": "string",
+              "value": "n.updateAddToCartOutOfStockText"
+            }
+          ]
+        }
+      },
+      "executionContextId": 6
+    }
+  }
+]

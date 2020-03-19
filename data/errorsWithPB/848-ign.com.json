@@ -1,0 +1,1042 @@
+[
+  {
+    "timestamp": 1583424612400.657,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught (in promise)",
+      "lineNumber": 0,
+      "columnNumber": 0,
+      "scriptId": "1",
+      "url": "https://www.ign.com/wikis/gta-5/Bail_Bonds_Missions",
+      "exception": {
+        "type": "object",
+        "className": "Event",
+        "description": "Event",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "description": "Event",
+          "overflow": true,
+          "properties": [
+            {
+              "name": "isTrusted",
+              "type": "boolean",
+              "value": "true"
+            },
+            {
+              "name": "type",
+              "type": "string",
+              "value": "error"
+            },
+            {
+              "name": "target",
+              "type": "object",
+              "value": "script",
+              "subtype": "node"
+            },
+            {
+              "name": "currentTarget",
+              "type": "object",
+              "value": "null",
+              "subtype": "null"
+            },
+            {
+              "name": "eventPhase",
+              "type": "number",
+              "value": "0"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583424612402.997,
+    "exceptionDetails": {
+      "exceptionId": 2,
+      "text": "Uncaught (in promise)",
+      "lineNumber": 0,
+      "columnNumber": 0,
+      "scriptId": "1",
+      "url": "https://www.ign.com/wikis/gta-5/Bail_Bonds_Missions",
+      "exception": {
+        "type": "object",
+        "className": "Event",
+        "description": "Event",
+        "objectId": "{\"injectedScriptId\":3,\"id\":2}",
+        "preview": {
+          "type": "object",
+          "description": "Event",
+          "overflow": true,
+          "properties": [
+            {
+              "name": "isTrusted",
+              "type": "boolean",
+              "value": "true"
+            },
+            {
+              "name": "type",
+              "type": "string",
+              "value": "error"
+            },
+            {
+              "name": "target",
+              "type": "object",
+              "value": "script",
+              "subtype": "node"
+            },
+            {
+              "name": "currentTarget",
+              "type": "object",
+              "value": "null",
+              "subtype": "null"
+            },
+            {
+              "name": "eventPhase",
+              "type": "number",
+              "value": "0"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583424612403.481,
+    "exceptionDetails": {
+      "exceptionId": 3,
+      "text": "Uncaught (in promise)",
+      "lineNumber": 0,
+      "columnNumber": 0,
+      "scriptId": "1",
+      "url": "https://www.ign.com/wikis/gta-5/Bail_Bonds_Missions",
+      "exception": {
+        "type": "object",
+        "className": "Event",
+        "description": "Event",
+        "objectId": "{\"injectedScriptId\":3,\"id\":3}",
+        "preview": {
+          "type": "object",
+          "description": "Event",
+          "overflow": true,
+          "properties": [
+            {
+              "name": "isTrusted",
+              "type": "boolean",
+              "value": "true"
+            },
+            {
+              "name": "type",
+              "type": "string",
+              "value": "error"
+            },
+            {
+              "name": "target",
+              "type": "object",
+              "value": "script",
+              "subtype": "node"
+            },
+            {
+              "name": "currentTarget",
+              "type": "object",
+              "value": "null",
+              "subtype": "null"
+            },
+            {
+              "name": "eventPhase",
+              "type": "number",
+              "value": "0"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583424612403.981,
+    "exceptionDetails": {
+      "exceptionId": 4,
+      "text": "Uncaught (in promise)",
+      "lineNumber": 0,
+      "columnNumber": 0,
+      "scriptId": "1",
+      "url": "https://www.ign.com/wikis/gta-5/Bail_Bonds_Missions",
+      "exception": {
+        "type": "object",
+        "className": "Event",
+        "description": "Event",
+        "objectId": "{\"injectedScriptId\":3,\"id\":4}",
+        "preview": {
+          "type": "object",
+          "description": "Event",
+          "overflow": true,
+          "properties": [
+            {
+              "name": "isTrusted",
+              "type": "boolean",
+              "value": "true"
+            },
+            {
+              "name": "type",
+              "type": "string",
+              "value": "error"
+            },
+            {
+              "name": "target",
+              "type": "object",
+              "value": "script",
+              "subtype": "node"
+            },
+            {
+              "name": "currentTarget",
+              "type": "object",
+              "value": "null",
+              "subtype": "null"
+            },
+            {
+              "name": "eventPhase",
+              "type": "number",
+              "value": "0"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583424612404.829,
+    "exceptionDetails": {
+      "exceptionId": 5,
+      "text": "Uncaught (in promise)",
+      "lineNumber": 0,
+      "columnNumber": 0,
+      "scriptId": "1",
+      "url": "https://www.ign.com/wikis/gta-5/Bail_Bonds_Missions",
+      "exception": {
+        "type": "object",
+        "className": "Event",
+        "description": "Event",
+        "objectId": "{\"injectedScriptId\":3,\"id\":5}",
+        "preview": {
+          "type": "object",
+          "description": "Event",
+          "overflow": true,
+          "properties": [
+            {
+              "name": "isTrusted",
+              "type": "boolean",
+              "value": "true"
+            },
+            {
+              "name": "type",
+              "type": "string",
+              "value": "error"
+            },
+            {
+              "name": "target",
+              "type": "object",
+              "value": "script",
+              "subtype": "node"
+            },
+            {
+              "name": "currentTarget",
+              "type": "object",
+              "value": "null",
+              "subtype": "null"
+            },
+            {
+              "name": "eventPhase",
+              "type": "number",
+              "value": "0"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583424612405.74,
+    "exceptionDetails": {
+      "exceptionId": 6,
+      "text": "Uncaught (in promise)",
+      "lineNumber": 0,
+      "columnNumber": 0,
+      "scriptId": "1",
+      "url": "https://www.ign.com/wikis/gta-5/Bail_Bonds_Missions",
+      "exception": {
+        "type": "object",
+        "className": "Event",
+        "description": "Event",
+        "objectId": "{\"injectedScriptId\":3,\"id\":6}",
+        "preview": {
+          "type": "object",
+          "description": "Event",
+          "overflow": true,
+          "properties": [
+            {
+              "name": "isTrusted",
+              "type": "boolean",
+              "value": "true"
+            },
+            {
+              "name": "type",
+              "type": "string",
+              "value": "error"
+            },
+            {
+              "name": "target",
+              "type": "object",
+              "value": "script",
+              "subtype": "node"
+            },
+            {
+              "name": "currentTarget",
+              "type": "object",
+              "value": "null",
+              "subtype": "null"
+            },
+            {
+              "name": "eventPhase",
+              "type": "number",
+              "value": "0"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583424612406.2349,
+    "exceptionDetails": {
+      "exceptionId": 7,
+      "text": "Uncaught (in promise)",
+      "lineNumber": 0,
+      "columnNumber": 0,
+      "scriptId": "1",
+      "url": "https://www.ign.com/wikis/gta-5/Bail_Bonds_Missions",
+      "exception": {
+        "type": "object",
+        "className": "Event",
+        "description": "Event",
+        "objectId": "{\"injectedScriptId\":3,\"id\":7}",
+        "preview": {
+          "type": "object",
+          "description": "Event",
+          "overflow": true,
+          "properties": [
+            {
+              "name": "isTrusted",
+              "type": "boolean",
+              "value": "true"
+            },
+            {
+              "name": "type",
+              "type": "string",
+              "value": "error"
+            },
+            {
+              "name": "target",
+              "type": "object",
+              "value": "script",
+              "subtype": "node"
+            },
+            {
+              "name": "currentTarget",
+              "type": "object",
+              "value": "null",
+              "subtype": "null"
+            },
+            {
+              "name": "eventPhase",
+              "type": "number",
+              "value": "0"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583424612406.678,
+    "exceptionDetails": {
+      "exceptionId": 8,
+      "text": "Uncaught (in promise)",
+      "lineNumber": 0,
+      "columnNumber": 0,
+      "scriptId": "1",
+      "url": "https://www.ign.com/wikis/gta-5/Bail_Bonds_Missions",
+      "exception": {
+        "type": "object",
+        "className": "Event",
+        "description": "Event",
+        "objectId": "{\"injectedScriptId\":3,\"id\":8}",
+        "preview": {
+          "type": "object",
+          "description": "Event",
+          "overflow": true,
+          "properties": [
+            {
+              "name": "isTrusted",
+              "type": "boolean",
+              "value": "true"
+            },
+            {
+              "name": "type",
+              "type": "string",
+              "value": "error"
+            },
+            {
+              "name": "target",
+              "type": "object",
+              "value": "script",
+              "subtype": "node"
+            },
+            {
+              "name": "currentTarget",
+              "type": "object",
+              "value": "null",
+              "subtype": "null"
+            },
+            {
+              "name": "eventPhase",
+              "type": "number",
+              "value": "0"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583424612407.104,
+    "exceptionDetails": {
+      "exceptionId": 9,
+      "text": "Uncaught (in promise)",
+      "lineNumber": 0,
+      "columnNumber": 0,
+      "scriptId": "1",
+      "url": "https://www.ign.com/wikis/gta-5/Bail_Bonds_Missions",
+      "exception": {
+        "type": "object",
+        "className": "Event",
+        "description": "Event",
+        "objectId": "{\"injectedScriptId\":3,\"id\":9}",
+        "preview": {
+          "type": "object",
+          "description": "Event",
+          "overflow": true,
+          "properties": [
+            {
+              "name": "isTrusted",
+              "type": "boolean",
+              "value": "true"
+            },
+            {
+              "name": "type",
+              "type": "string",
+              "value": "error"
+            },
+            {
+              "name": "target",
+              "type": "object",
+              "value": "script",
+              "subtype": "node"
+            },
+            {
+              "name": "currentTarget",
+              "type": "object",
+              "value": "null",
+              "subtype": "null"
+            },
+            {
+              "name": "eventPhase",
+              "type": "number",
+              "value": "0"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583424612407.5178,
+    "exceptionDetails": {
+      "exceptionId": 10,
+      "text": "Uncaught (in promise)",
+      "lineNumber": 0,
+      "columnNumber": 0,
+      "scriptId": "1",
+      "url": "https://www.ign.com/wikis/gta-5/Bail_Bonds_Missions",
+      "exception": {
+        "type": "object",
+        "className": "Event",
+        "description": "Event",
+        "objectId": "{\"injectedScriptId\":3,\"id\":10}",
+        "preview": {
+          "type": "object",
+          "description": "Event",
+          "overflow": true,
+          "properties": [
+            {
+              "name": "isTrusted",
+              "type": "boolean",
+              "value": "true"
+            },
+            {
+              "name": "type",
+              "type": "string",
+              "value": "error"
+            },
+            {
+              "name": "target",
+              "type": "object",
+              "value": "script",
+              "subtype": "node"
+            },
+            {
+              "name": "currentTarget",
+              "type": "object",
+              "value": "null",
+              "subtype": "null"
+            },
+            {
+              "name": "eventPhase",
+              "type": "number",
+              "value": "0"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583424614732.877,
+    "exceptionDetails": {
+      "exceptionId": 11,
+      "text": "Uncaught (in promise)",
+      "lineNumber": 0,
+      "columnNumber": 0,
+      "scriptId": "1",
+      "url": "https://www.ign.com/wikis/gta-5/Bail_Bonds_Missions",
+      "exception": {
+        "type": "object",
+        "className": "Event",
+        "description": "Event",
+        "objectId": "{\"injectedScriptId\":51,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "description": "Event",
+          "overflow": true,
+          "properties": [
+            {
+              "name": "isTrusted",
+              "type": "boolean",
+              "value": "true"
+            },
+            {
+              "name": "type",
+              "type": "string",
+              "value": "error"
+            },
+            {
+              "name": "target",
+              "type": "object",
+              "value": "script",
+              "subtype": "node"
+            },
+            {
+              "name": "currentTarget",
+              "type": "object",
+              "value": "null",
+              "subtype": "null"
+            },
+            {
+              "name": "eventPhase",
+              "type": "number",
+              "value": "0"
+            }
+          ]
+        }
+      },
+      "executionContextId": 51
+    }
+  },
+  {
+    "timestamp": 1583424614734.157,
+    "exceptionDetails": {
+      "exceptionId": 12,
+      "text": "Uncaught (in promise)",
+      "lineNumber": 0,
+      "columnNumber": 0,
+      "scriptId": "1",
+      "url": "https://www.ign.com/wikis/gta-5/Bail_Bonds_Missions",
+      "exception": {
+        "type": "object",
+        "className": "Event",
+        "description": "Event",
+        "objectId": "{\"injectedScriptId\":51,\"id\":2}",
+        "preview": {
+          "type": "object",
+          "description": "Event",
+          "overflow": true,
+          "properties": [
+            {
+              "name": "isTrusted",
+              "type": "boolean",
+              "value": "true"
+            },
+            {
+              "name": "type",
+              "type": "string",
+              "value": "error"
+            },
+            {
+              "name": "target",
+              "type": "object",
+              "value": "script",
+              "subtype": "node"
+            },
+            {
+              "name": "currentTarget",
+              "type": "object",
+              "value": "null",
+              "subtype": "null"
+            },
+            {
+              "name": "eventPhase",
+              "type": "number",
+              "value": "0"
+            }
+          ]
+        }
+      },
+      "executionContextId": 51
+    }
+  },
+  {
+    "timestamp": 1583424614734.732,
+    "exceptionDetails": {
+      "exceptionId": 13,
+      "text": "Uncaught (in promise)",
+      "lineNumber": 0,
+      "columnNumber": 0,
+      "scriptId": "1",
+      "url": "https://www.ign.com/wikis/gta-5/Bail_Bonds_Missions",
+      "exception": {
+        "type": "object",
+        "className": "Event",
+        "description": "Event",
+        "objectId": "{\"injectedScriptId\":51,\"id\":3}",
+        "preview": {
+          "type": "object",
+          "description": "Event",
+          "overflow": true,
+          "properties": [
+            {
+              "name": "isTrusted",
+              "type": "boolean",
+              "value": "true"
+            },
+            {
+              "name": "type",
+              "type": "string",
+              "value": "error"
+            },
+            {
+              "name": "target",
+              "type": "object",
+              "value": "script",
+              "subtype": "node"
+            },
+            {
+              "name": "currentTarget",
+              "type": "object",
+              "value": "null",
+              "subtype": "null"
+            },
+            {
+              "name": "eventPhase",
+              "type": "number",
+              "value": "0"
+            }
+          ]
+        }
+      },
+      "executionContextId": 51
+    }
+  },
+  {
+    "timestamp": 1583424614735.2,
+    "exceptionDetails": {
+      "exceptionId": 14,
+      "text": "Uncaught (in promise)",
+      "lineNumber": 0,
+      "columnNumber": 0,
+      "scriptId": "1",
+      "url": "https://www.ign.com/wikis/gta-5/Bail_Bonds_Missions",
+      "exception": {
+        "type": "object",
+        "className": "Event",
+        "description": "Event",
+        "objectId": "{\"injectedScriptId\":51,\"id\":4}",
+        "preview": {
+          "type": "object",
+          "description": "Event",
+          "overflow": true,
+          "properties": [
+            {
+              "name": "isTrusted",
+              "type": "boolean",
+              "value": "true"
+            },
+            {
+              "name": "type",
+              "type": "string",
+              "value": "error"
+            },
+            {
+              "name": "target",
+              "type": "object",
+              "value": "script",
+              "subtype": "node"
+            },
+            {
+              "name": "currentTarget",
+              "type": "object",
+              "value": "null",
+              "subtype": "null"
+            },
+            {
+              "name": "eventPhase",
+              "type": "number",
+              "value": "0"
+            }
+          ]
+        }
+      },
+      "executionContextId": 51
+    }
+  },
+  {
+    "timestamp": 1583424614735.993,
+    "exceptionDetails": {
+      "exceptionId": 15,
+      "text": "Uncaught (in promise)",
+      "lineNumber": 0,
+      "columnNumber": 0,
+      "scriptId": "1",
+      "url": "https://www.ign.com/wikis/gta-5/Bail_Bonds_Missions",
+      "exception": {
+        "type": "object",
+        "className": "Event",
+        "description": "Event",
+        "objectId": "{\"injectedScriptId\":51,\"id\":5}",
+        "preview": {
+          "type": "object",
+          "description": "Event",
+          "overflow": true,
+          "properties": [
+            {
+              "name": "isTrusted",
+              "type": "boolean",
+              "value": "true"
+            },
+            {
+              "name": "type",
+              "type": "string",
+              "value": "error"
+            },
+            {
+              "name": "target",
+              "type": "object",
+              "value": "script",
+              "subtype": "node"
+            },
+            {
+              "name": "currentTarget",
+              "type": "object",
+              "value": "null",
+              "subtype": "null"
+            },
+            {
+              "name": "eventPhase",
+              "type": "number",
+              "value": "0"
+            }
+          ]
+        }
+      },
+      "executionContextId": 51
+    }
+  },
+  {
+    "timestamp": 1583424614736.427,
+    "exceptionDetails": {
+      "exceptionId": 16,
+      "text": "Uncaught (in promise)",
+      "lineNumber": 0,
+      "columnNumber": 0,
+      "scriptId": "1",
+      "url": "https://www.ign.com/wikis/gta-5/Bail_Bonds_Missions",
+      "exception": {
+        "type": "object",
+        "className": "Event",
+        "description": "Event",
+        "objectId": "{\"injectedScriptId\":51,\"id\":6}",
+        "preview": {
+          "type": "object",
+          "description": "Event",
+          "overflow": true,
+          "properties": [
+            {
+              "name": "isTrusted",
+              "type": "boolean",
+              "value": "true"
+            },
+            {
+              "name": "type",
+              "type": "string",
+              "value": "error"
+            },
+            {
+              "name": "target",
+              "type": "object",
+              "value": "script",
+              "subtype": "node"
+            },
+            {
+              "name": "currentTarget",
+              "type": "object",
+              "value": "null",
+              "subtype": "null"
+            },
+            {
+              "name": "eventPhase",
+              "type": "number",
+              "value": "0"
+            }
+          ]
+        }
+      },
+      "executionContextId": 51
+    }
+  },
+  {
+    "timestamp": 1583424614736.86,
+    "exceptionDetails": {
+      "exceptionId": 17,
+      "text": "Uncaught (in promise)",
+      "lineNumber": 0,
+      "columnNumber": 0,
+      "scriptId": "1",
+      "url": "https://www.ign.com/wikis/gta-5/Bail_Bonds_Missions",
+      "exception": {
+        "type": "object",
+        "className": "Event",
+        "description": "Event",
+        "objectId": "{\"injectedScriptId\":51,\"id\":7}",
+        "preview": {
+          "type": "object",
+          "description": "Event",
+          "overflow": true,
+          "properties": [
+            {
+              "name": "isTrusted",
+              "type": "boolean",
+              "value": "true"
+            },
+            {
+              "name": "type",
+              "type": "string",
+              "value": "error"
+            },
+            {
+              "name": "target",
+              "type": "object",
+              "value": "script",
+              "subtype": "node"
+            },
+            {
+              "name": "currentTarget",
+              "type": "object",
+              "value": "null",
+              "subtype": "null"
+            },
+            {
+              "name": "eventPhase",
+              "type": "number",
+              "value": "0"
+            }
+          ]
+        }
+      },
+      "executionContextId": 51
+    }
+  },
+  {
+    "timestamp": 1583424614737.34,
+    "exceptionDetails": {
+      "exceptionId": 18,
+      "text": "Uncaught (in promise)",
+      "lineNumber": 0,
+      "columnNumber": 0,
+      "scriptId": "1",
+      "url": "https://www.ign.com/wikis/gta-5/Bail_Bonds_Missions",
+      "exception": {
+        "type": "object",
+        "className": "Event",
+        "description": "Event",
+        "objectId": "{\"injectedScriptId\":51,\"id\":8}",
+        "preview": {
+          "type": "object",
+          "description": "Event",
+          "overflow": true,
+          "properties": [
+            {
+              "name": "isTrusted",
+              "type": "boolean",
+              "value": "true"
+            },
+            {
+              "name": "type",
+              "type": "string",
+              "value": "error"
+            },
+            {
+              "name": "target",
+              "type": "object",
+              "value": "script",
+              "subtype": "node"
+            },
+            {
+              "name": "currentTarget",
+              "type": "object",
+              "value": "null",
+              "subtype": "null"
+            },
+            {
+              "name": "eventPhase",
+              "type": "number",
+              "value": "0"
+            }
+          ]
+        }
+      },
+      "executionContextId": 51
+    }
+  },
+  {
+    "timestamp": 1583424614737.74,
+    "exceptionDetails": {
+      "exceptionId": 19,
+      "text": "Uncaught (in promise)",
+      "lineNumber": 0,
+      "columnNumber": 0,
+      "scriptId": "1",
+      "url": "https://www.ign.com/wikis/gta-5/Bail_Bonds_Missions",
+      "exception": {
+        "type": "object",
+        "className": "Event",
+        "description": "Event",
+        "objectId": "{\"injectedScriptId\":51,\"id\":9}",
+        "preview": {
+          "type": "object",
+          "description": "Event",
+          "overflow": true,
+          "properties": [
+            {
+              "name": "isTrusted",
+              "type": "boolean",
+              "value": "true"
+            },
+            {
+              "name": "type",
+              "type": "string",
+              "value": "error"
+            },
+            {
+              "name": "target",
+              "type": "object",
+              "value": "script",
+              "subtype": "node"
+            },
+            {
+              "name": "currentTarget",
+              "type": "object",
+              "value": "null",
+              "subtype": "null"
+            },
+            {
+              "name": "eventPhase",
+              "type": "number",
+              "value": "0"
+            }
+          ]
+        }
+      },
+      "executionContextId": 51
+    }
+  },
+  {
+    "timestamp": 1583424614738.164,
+    "exceptionDetails": {
+      "exceptionId": 20,
+      "text": "Uncaught (in promise)",
+      "lineNumber": 0,
+      "columnNumber": 0,
+      "scriptId": "1",
+      "url": "https://www.ign.com/wikis/gta-5/Bail_Bonds_Missions",
+      "exception": {
+        "type": "object",
+        "className": "Event",
+        "description": "Event",
+        "objectId": "{\"injectedScriptId\":51,\"id\":10}",
+        "preview": {
+          "type": "object",
+          "description": "Event",
+          "overflow": true,
+          "properties": [
+            {
+              "name": "isTrusted",
+              "type": "boolean",
+              "value": "true"
+            },
+            {
+              "name": "type",
+              "type": "string",
+              "value": "error"
+            },
+            {
+              "name": "target",
+              "type": "object",
+              "value": "script",
+              "subtype": "node"
+            },
+            {
+              "name": "currentTarget",
+              "type": "object",
+              "value": "null",
+              "subtype": "null"
+            },
+            {
+              "name": "eventPhase",
+              "type": "number",
+              "value": "0"
+            }
+          ]
+        }
+      },
+      "executionContextId": 51
+    }
+  }
+]

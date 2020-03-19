@@ -1,0 +1,77 @@
+[
+  {
+    "timestamp": 1583750284089.107,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 1342,
+      "columnNumber": 27,
+      "url": "https://www.merriam-webster.com/compiled/js/main.dsp-redesign-definitions.min.js?t=986d2d8f6add7b15",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "Waypoint",
+            "scriptId": "36",
+            "url": "https://www.merriam-webster.com/compiled/js/main.dsp-redesign-definitions.min.js?t=986d2d8f6add7b15",
+            "lineNumber": 1342,
+            "columnNumber": 27
+          },
+          {
+            "functionName": "trackHeadWordScroll",
+            "scriptId": "36",
+            "url": "https://www.merriam-webster.com/compiled/js/main.dsp-redesign-definitions.min.js?t=986d2d8f6add7b15",
+            "lineNumber": 1890,
+            "columnNumber": 15
+          },
+          {
+            "functionName": "",
+            "scriptId": "36",
+            "url": "https://www.merriam-webster.com/compiled/js/main.dsp-redesign-definitions.min.js?t=986d2d8f6add7b15",
+            "lineNumber": 1895,
+            "columnNumber": 51
+          },
+          {
+            "functionName": "mightThrow",
+            "scriptId": "36",
+            "url": "https://www.merriam-webster.com/compiled/js/main.dsp-redesign-definitions.min.js?t=986d2d8f6add7b15",
+            "lineNumber": 386,
+            "columnNumber": 17
+          },
+          {
+            "functionName": "process",
+            "scriptId": "36",
+            "url": "https://www.merriam-webster.com/compiled/js/main.dsp-redesign-definitions.min.js?t=986d2d8f6add7b15",
+            "lineNumber": 387,
+            "columnNumber": 555
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "Error",
+        "description": "Error: No element option passed to Waypoint constructor\n    at new Waypoint (https://www.merriam-webster.com/compiled/js/main.dsp-redesign-definitions.min.js?t=986d2d8f6add7b15:1343:28)\n    at trackHeadWordScroll (https://www.merriam-webster.com/compiled/js/main.dsp-redesign-definitions.min.js?t=986d2d8f6add7b15:1891:16)\n    at HTMLDocument.<anonymous> (https://www.merriam-webster.com/compiled/js/main.dsp-redesign-definitions.min.js?t=986d2d8f6add7b15:1896:52)\n    at mightThrow (https://www.merriam-webster.com/compiled/js/main.dsp-redesign-definitions.min.js?t=986d2d8f6add7b15:387:18)\n    at process (https://www.merriam-webster.com/compiled/js/main.dsp-redesign-definitions.min.js?t=986d2d8f6add7b15:388:556)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "Error: No element option passed to Waypoint constructor\n    at new Waypoint (https://www.merriam-webster.com/compiled/js/main.dsp-redesign-definitions.min.js?t=986d2d8f6add7b15:1343:28)\n    at trackHeadWordScroll (https://www.merriam-webster.com/compiled/js/main.dsp-redesign-definitions.min.js?t=986d2d8f6add7b15:1891:16)\n    at HTMLDocument.<anonymous> (https://www.merriam-webster.com/compiled/js/main.dsp-redesign-definitions.min.js?t=986d2d8f6add7b15:1896:52)\n    at mightThrow (https://www.merriam-webster.com/compiled/js/main.dsp-redesign-definitions.min.js?t=986d2d8f6add7b15:387:18)\n    at process (https://www.merriam-webster.com/compiled/js/main.dsp-redesign-definitions.min.js?t=986d2d8f6add7b15:388:556)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "Error: No element option passed to Waypoint constr…gn-definitions.min.js?t=986d2d8f6add7b15:388:556)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "No element option passed to Waypoint constructor"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

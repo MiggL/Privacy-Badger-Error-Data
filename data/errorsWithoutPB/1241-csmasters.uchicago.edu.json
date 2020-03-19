@@ -1,0 +1,128 @@
+[
+  {
+    "timestamp": 1583001956475.902,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 19,
+      "columnNumber": 61,
+      "scriptId": "12",
+      "url": "https://masters.cs.uchicago.edu/",
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "SyntaxError",
+        "description": "SyntaxError: missing ) after argument list",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "SyntaxError: missing ) after argument list",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "SyntaxError: missing ) after argument list"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "missing ) after argument list"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583001958468.946,
+    "exceptionDetails": {
+      "exceptionId": 2,
+      "text": "Uncaught",
+      "lineNumber": 1,
+      "columnNumber": 129582,
+      "url": "https://fw.cdn.technolutions.net/framework/base.js?v=20200113",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "jQuery.fn.load",
+            "scriptId": "38",
+            "url": "https://fw.cdn.technolutions.net/framework/base.js?v=20200113",
+            "lineNumber": 1,
+            "columnNumber": 129582
+          },
+          {
+            "functionName": "a.fn.lazyload",
+            "scriptId": "39",
+            "url": "https://masters.cs.uchicago.edu/sites/masters/themes/plaisance/js/script.js?pxmifh",
+            "lineNumber": 52,
+            "columnNumber": 1460
+          },
+          {
+            "functionName": "",
+            "scriptId": "39",
+            "url": "https://masters.cs.uchicago.edu/sites/masters/themes/plaisance/js/script.js?pxmifh",
+            "lineNumber": 77,
+            "columnNumber": 23
+          },
+          {
+            "functionName": "run",
+            "scriptId": "39",
+            "url": "https://masters.cs.uchicago.edu/sites/masters/themes/plaisance/js/script.js?pxmifh",
+            "lineNumber": 37,
+            "columnNumber": 780
+          },
+          {
+            "functionName": "initialize",
+            "scriptId": "39",
+            "url": "https://masters.cs.uchicago.edu/sites/masters/themes/plaisance/js/script.js?pxmifh",
+            "lineNumber": 37,
+            "columnNumber": 224
+          },
+          {
+            "functionName": "mightThrow",
+            "scriptId": "38",
+            "url": "https://fw.cdn.technolutions.net/framework/base.js?v=20200113",
+            "lineNumber": 1,
+            "columnNumber": 67440
+          },
+          {
+            "functionName": "process",
+            "scriptId": "38",
+            "url": "https://fw.cdn.technolutions.net/framework/base.js?v=20200113",
+            "lineNumber": 1,
+            "columnNumber": 68072
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: url.indexOf is not a function\n    at jQuery.fn.init.jQuery.fn.load (https://fw.cdn.technolutions.net/framework/base.js?v=20200113:2:129583)\n    at jQuery.fn.init.a.fn.lazyload (https://masters.cs.uchicago.edu/sites/masters/themes/plaisance/js/script.js?pxmifh:53:1461)\n    at Array.<anonymous> (https://masters.cs.uchicago.edu/sites/masters/themes/plaisance/js/script.js?pxmifh:78:24)\n    at run (https://masters.cs.uchicago.edu/sites/masters/themes/plaisance/js/script.js?pxmifh:38:781)\n    at HTMLDocument.initialize (https://masters.cs.uchicago.edu/sites/masters/themes/plaisance/js/script.js?pxmifh:38:225)\n    at mightThrow (https://fw.cdn.technolutions.net/framework/base.js?v=20200113:2:67441)\n    at process (https://fw.cdn.technolutions.net/framework/base.js?v=20200113:2:68073)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":2}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: url.indexOf is not a function\n    at jQuery.fn.init.jQuery.fn.load (https://fw.cdn.technolutions.net/framework/base.js?v=20200113:2:129583)\n    at jQuery.fn.init.a.fn.lazyload (https://masters.cs.uchicago.edu/sites/masters/themes/plaisance/js/script.js?pxmifh:53:1461)\n    at Array.<anonymous> (https://masters.cs.uchicago.edu/sites/masters/themes/plaisance/js/script.js?pxmifh:78:24)\n    at run (https://masters.cs.uchicago.edu/sites/masters/themes/plaisance/js/script.js?pxmifh:38:781)\n    at HTMLDocument.initialize (https://masters.cs.uchicago.edu/sites/masters/themes/plaisance/js/script.js?pxmifh:38:225)\n    at mightThrow (https://fw.cdn.technolutions.net/framework/base.js?v=20200113:2:67441)\n    at process (https://fw.cdn.technolutions.net/framework/base.js?v=20200113:2:68073)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: url.indexOf is not a function\n    at jQ…lutions.net/framework/base.js?v=20200113:2:68073)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "url.indexOf is not a function"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

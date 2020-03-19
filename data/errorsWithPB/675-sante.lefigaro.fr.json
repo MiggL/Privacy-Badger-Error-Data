@@ -1,0 +1,192 @@
+[
+  {
+    "timestamp": 1583426202209.882,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 1,
+      "columnNumber": 14492,
+      "url": "https://fogl1onf.com/1401/b.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "getSegments",
+            "scriptId": "80",
+            "url": "https://fogl1onf.com/1401/b.js",
+            "lineNumber": 1,
+            "columnNumber": 14492
+          },
+          {
+            "functionName": "done",
+            "scriptId": "80",
+            "url": "https://fogl1onf.com/1401/b.js",
+            "lineNumber": 1,
+            "columnNumber": 26567
+          },
+          {
+            "functionName": "",
+            "scriptId": "80",
+            "url": "https://fogl1onf.com/1401/b.js",
+            "lineNumber": 1,
+            "columnNumber": 26863
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: d.value.replace is not a function\n    at Object.getSegments (https://fogl1onf.com/1401/b.js:2:14493)\n    at Object.done (https://fogl1onf.com/1401/b.js:2:26568)\n    at https://fogl1onf.com/1401/b.js:2:26864",
+        "objectId": "{\"injectedScriptId\":9,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: d.value.replace is not a function\n    at Object.getSegments (https://fogl1onf.com/1401/b.js:2:14493)\n    at Object.done (https://fogl1onf.com/1401/b.js:2:26568)\n    at https://fogl1onf.com/1401/b.js:2:26864",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: d.value.replace is not a function\n    a…68)\n    at https://fogl1onf.com/1401/b.js:2:26864"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "d.value.replace is not a function"
+            }
+          ]
+        }
+      },
+      "executionContextId": 9
+    }
+  },
+  {
+    "timestamp": 1583426203208.242,
+    "exceptionDetails": {
+      "exceptionId": 2,
+      "text": "Uncaught",
+      "lineNumber": 1,
+      "columnNumber": 14492,
+      "url": "https://fogl1onf.com/1401/b.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "getSegments",
+            "scriptId": "80",
+            "url": "https://fogl1onf.com/1401/b.js",
+            "lineNumber": 1,
+            "columnNumber": 14492
+          },
+          {
+            "functionName": "start",
+            "scriptId": "80",
+            "url": "https://fogl1onf.com/1401/b.js",
+            "lineNumber": 1,
+            "columnNumber": 27701
+          },
+          {
+            "functionName": "",
+            "scriptId": "80",
+            "url": "https://fogl1onf.com/1401/b.js",
+            "lineNumber": 1,
+            "columnNumber": 28365
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: d.value.replace is not a function\n    at Object.getSegments (https://fogl1onf.com/1401/b.js:2:14493)\n    at Object.start (https://fogl1onf.com/1401/b.js:2:27702)\n    at https://fogl1onf.com/1401/b.js:2:28366",
+        "objectId": "{\"injectedScriptId\":9,\"id\":2}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: d.value.replace is not a function\n    at Object.getSegments (https://fogl1onf.com/1401/b.js:2:14493)\n    at Object.start (https://fogl1onf.com/1401/b.js:2:27702)\n    at https://fogl1onf.com/1401/b.js:2:28366",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: d.value.replace is not a function\n    a…02)\n    at https://fogl1onf.com/1401/b.js:2:28366"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "d.value.replace is not a function"
+            }
+          ]
+        }
+      },
+      "executionContextId": 9
+    }
+  },
+  {
+    "timestamp": 1583426203209.059,
+    "exceptionDetails": {
+      "exceptionId": 3,
+      "text": "Uncaught",
+      "lineNumber": 1,
+      "columnNumber": 14492,
+      "url": "https://fogl1onf.com/1401/b.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "getSegments",
+            "scriptId": "80",
+            "url": "https://fogl1onf.com/1401/b.js",
+            "lineNumber": 1,
+            "columnNumber": 14492
+          },
+          {
+            "functionName": "init",
+            "scriptId": "80",
+            "url": "https://fogl1onf.com/1401/b.js",
+            "lineNumber": 1,
+            "columnNumber": 13623
+          },
+          {
+            "functionName": "start",
+            "scriptId": "80",
+            "url": "https://fogl1onf.com/1401/b.js",
+            "lineNumber": 2,
+            "columnNumber": 2555
+          },
+          {
+            "functionName": "",
+            "scriptId": "80",
+            "url": "https://fogl1onf.com/1401/b.js",
+            "lineNumber": 2,
+            "columnNumber": 2454
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: d.value.replace is not a function\n    at Object.getSegments (https://fogl1onf.com/1401/b.js:2:14493)\n    at Object.init (https://fogl1onf.com/1401/b.js:2:13624)\n    at Object.start (https://fogl1onf.com/1401/b.js:3:2556)\n    at https://fogl1onf.com/1401/b.js:3:2455",
+        "objectId": "{\"injectedScriptId\":9,\"id\":3}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: d.value.replace is not a function\n    at Object.getSegments (https://fogl1onf.com/1401/b.js:2:14493)\n    at Object.init (https://fogl1onf.com/1401/b.js:2:13624)\n    at Object.start (https://fogl1onf.com/1401/b.js:3:2556)\n    at https://fogl1onf.com/1401/b.js:3:2455",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: d.value.replace is not a function\n    a…556)\n    at https://fogl1onf.com/1401/b.js:3:2455"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "d.value.replace is not a function"
+            }
+          ]
+        }
+      },
+      "executionContextId": 9
+    }
+  }
+]

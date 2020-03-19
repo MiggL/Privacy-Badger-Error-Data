@@ -1,0 +1,160 @@
+[
+  {
+    "timestamp": 1582890950379.3088,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 0,
+      "columnNumber": 204864,
+      "url": "https://d395dw5zk780j2.cloudfront.net/v4.2/fem.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "e.showBanner",
+            "scriptId": "28",
+            "url": "https://d395dw5zk780j2.cloudfront.net/v4.2/fem.js",
+            "lineNumber": 0,
+            "columnNumber": 204864
+          },
+          {
+            "functionName": "",
+            "scriptId": "28",
+            "url": "https://d395dw5zk780j2.cloudfront.net/v4.2/fem.js",
+            "lineNumber": 0,
+            "columnNumber": 204287
+          },
+          {
+            "functionName": "e.mParticleCallback",
+            "scriptId": "28",
+            "url": "https://d395dw5zk780j2.cloudfront.net/v4.2/fem.js",
+            "lineNumber": 0,
+            "columnNumber": 199316
+          },
+          {
+            "functionName": "invokeCallback",
+            "scriptId": "98",
+            "url": "https://jssdkcdns.mparticle.com/js/v2/cd4afed6a2719d439af431746c942e3c/mparticle.js",
+            "lineNumber": 29,
+            "columnNumber": 17949
+          },
+          {
+            "functionName": "parseIdentityResponse",
+            "scriptId": "98",
+            "url": "https://jssdkcdns.mparticle.com/js/v2/cd4afed6a2719d439af431746c942e3c/mparticle.js",
+            "lineNumber": 29,
+            "columnNumber": 98537
+          },
+          {
+            "functionName": "c",
+            "scriptId": "98",
+            "url": "https://jssdkcdns.mparticle.com/js/v2/cd4afed6a2719d439af431746c942e3c/mparticle.js",
+            "lineNumber": 29,
+            "columnNumber": 14399
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'removeAttribute' of null\n    at e.showBanner (https://d395dw5zk780j2.cloudfront.net/v4.2/fem.js:1:204865)\n    at https://d395dw5zk780j2.cloudfront.net/v4.2/fem.js:1:204288\n    at e.mParticleCallback (https://d395dw5zk780j2.cloudfront.net/v4.2/fem.js:1:199317)\n    at lu.invokeCallback (https://jssdkcdns.mparticle.com/js/v2/cd4afed6a2719d439af431746c942e3c/mparticle.js:30:17950)\n    at parseIdentityResponse (https://jssdkcdns.mparticle.com/js/v2/cd4afed6a2719d439af431746c942e3c/mparticle.js:30:98538)\n    at XMLHttpRequest.c (https://jssdkcdns.mparticle.com/js/v2/cd4afed6a2719d439af431746c942e3c/mparticle.js:30:14400)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'removeAttribute' of null\n    at e.showBanner (https://d395dw5zk780j2.cloudfront.net/v4.2/fem.js:1:204865)\n    at https://d395dw5zk780j2.cloudfront.net/v4.2/fem.js:1:204288\n    at e.mParticleCallback (https://d395dw5zk780j2.cloudfront.net/v4.2/fem.js:1:199317)\n    at lu.invokeCallback (https://jssdkcdns.mparticle.com/js/v2/cd4afed6a2719d439af431746c942e3c/mparticle.js:30:17950)\n    at parseIdentityResponse (https://jssdkcdns.mparticle.com/js/v2/cd4afed6a2719d439af431746c942e3c/mparticle.js:30:98538)\n    at XMLHttpRequest.c (https://jssdkcdns.mparticle.com/js/v2/cd4afed6a2719d439af431746c942e3c/mparticle.js:30:14400)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'removeAttribute' …d6a2719d439af431746c942e3c/mparticle.js:30:14400)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'removeAttribute' of null"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1582890951804.314,
+    "exceptionDetails": {
+      "exceptionId": 2,
+      "text": "Uncaught (in promise)",
+      "lineNumber": 39,
+      "columnNumber": 234943,
+      "url": "https://cdn.viafoura.net/vf-v2.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "t.exports",
+            "scriptId": "211",
+            "url": "https://cdn.viafoura.net/vf-v2.js",
+            "lineNumber": 39,
+            "columnNumber": 234943
+          },
+          {
+            "functionName": "t.exports",
+            "scriptId": "211",
+            "url": "https://cdn.viafoura.net/vf-v2.js",
+            "lineNumber": 46,
+            "columnNumber": 1293
+          },
+          {
+            "functionName": "l.onreadystatechange",
+            "scriptId": "211",
+            "url": "https://cdn.viafoura.net/vf-v2.js",
+            "lineNumber": 39,
+            "columnNumber": 233952
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "Error",
+        "description": "Error: Request failed with status code 404\n    at t.exports (https://cdn.viafoura.net/vf-v2.js:40:234944)\n    at t.exports (https://cdn.viafoura.net/vf-v2.js:47:1294)\n    at XMLHttpRequest.l.onreadystatechange (https://cdn.viafoura.net/vf-v2.js:40:233953)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":2}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "Error: Request failed with status code 404\n    at t.exports (https://cdn.viafoura.net/vf-v2.js:40:234944)\n    at t.exports (https://cdn.viafoura.net/vf-v2.js:47:1294)\n    at XMLHttpRequest.l.onreadystatechange (https://cdn.viafoura.net/vf-v2.js:40:233953)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "config",
+              "type": "object",
+              "value": "Object"
+            },
+            {
+              "name": "request",
+              "type": "object",
+              "value": "XMLHttpRequest"
+            },
+            {
+              "name": "response",
+              "type": "object",
+              "value": "Object"
+            },
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "Error: Request failed with status code 404\n    at …nge (https://cdn.viafoura.net/vf-v2.js:40:233953)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Request failed with status code 404"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

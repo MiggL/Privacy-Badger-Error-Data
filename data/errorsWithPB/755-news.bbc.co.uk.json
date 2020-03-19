@@ -1,0 +1,368 @@
+[
+  {
+    "timestamp": 1583425469964.153,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 1721,
+      "columnNumber": 149,
+      "scriptId": "34",
+      "url": "http://news.bbc.co.uk/2/hi/science/nature/3391431.stm",
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "SyntaxError",
+        "description": "SyntaxError: Invalid or unexpected token",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "SyntaxError: Invalid or unexpected token",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "SyntaxError: Invalid or unexpected token"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Invalid or unexpected token"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583425469967.784,
+    "exceptionDetails": {
+      "exceptionId": 2,
+      "text": "Uncaught",
+      "lineNumber": 1825,
+      "columnNumber": 4,
+      "url": "http://news.bbc.co.uk/2/hi/science/nature/3391431.stm",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "37",
+            "url": "http://news.bbc.co.uk/2/hi/science/nature/3391431.stm",
+            "lineNumber": 1825,
+            "columnNumber": 4
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: BBC is not defined\n    at http://news.bbc.co.uk/2/hi/science/nature/3391431.stm:1826:5",
+        "objectId": "{\"injectedScriptId\":3,\"id\":2}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: BBC is not defined\n    at http://news.bbc.co.uk/2/hi/science/nature/3391431.stm:1826:5",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: BBC is not defined\n    at http://n….bbc.co.uk/2/hi/science/nature/3391431.stm:1826:5"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "BBC is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583425469968.083,
+    "exceptionDetails": {
+      "exceptionId": 3,
+      "text": "Uncaught",
+      "lineNumber": 1836,
+      "columnNumber": 4,
+      "url": "http://news.bbc.co.uk/2/hi/science/nature/3391431.stm",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "38",
+            "url": "http://news.bbc.co.uk/2/hi/science/nature/3391431.stm",
+            "lineNumber": 1836,
+            "columnNumber": 4
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: BBC is not defined\n    at http://news.bbc.co.uk/2/hi/science/nature/3391431.stm:1837:5",
+        "objectId": "{\"injectedScriptId\":3,\"id\":3}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: BBC is not defined\n    at http://news.bbc.co.uk/2/hi/science/nature/3391431.stm:1837:5",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: BBC is not defined\n    at http://n….bbc.co.uk/2/hi/science/nature/3391431.stm:1837:5"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "BBC is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583425469968.3672,
+    "exceptionDetails": {
+      "exceptionId": 4,
+      "text": "Uncaught",
+      "lineNumber": 1844,
+      "columnNumber": 4,
+      "url": "http://news.bbc.co.uk/2/hi/science/nature/3391431.stm",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "39",
+            "url": "http://news.bbc.co.uk/2/hi/science/nature/3391431.stm",
+            "lineNumber": 1844,
+            "columnNumber": 4
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: BBC is not defined\n    at http://news.bbc.co.uk/2/hi/science/nature/3391431.stm:1845:5",
+        "objectId": "{\"injectedScriptId\":3,\"id\":4}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: BBC is not defined\n    at http://news.bbc.co.uk/2/hi/science/nature/3391431.stm:1845:5",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: BBC is not defined\n    at http://n….bbc.co.uk/2/hi/science/nature/3391431.stm:1845:5"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "BBC is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583425469968.622,
+    "exceptionDetails": {
+      "exceptionId": 5,
+      "text": "Uncaught",
+      "lineNumber": 1857,
+      "columnNumber": 4,
+      "url": "http://news.bbc.co.uk/2/hi/science/nature/3391431.stm",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "40",
+            "url": "http://news.bbc.co.uk/2/hi/science/nature/3391431.stm",
+            "lineNumber": 1857,
+            "columnNumber": 4
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: BBC is not defined\n    at http://news.bbc.co.uk/2/hi/science/nature/3391431.stm:1858:5",
+        "objectId": "{\"injectedScriptId\":3,\"id\":5}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: BBC is not defined\n    at http://news.bbc.co.uk/2/hi/science/nature/3391431.stm:1858:5",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: BBC is not defined\n    at http://n….bbc.co.uk/2/hi/science/nature/3391431.stm:1858:5"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "BBC is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583425469969.022,
+    "exceptionDetails": {
+      "exceptionId": 6,
+      "text": "Uncaught",
+      "lineNumber": 1865,
+      "columnNumber": 4,
+      "url": "http://news.bbc.co.uk/2/hi/science/nature/3391431.stm",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "41",
+            "url": "http://news.bbc.co.uk/2/hi/science/nature/3391431.stm",
+            "lineNumber": 1865,
+            "columnNumber": 4
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: BBC is not defined\n    at http://news.bbc.co.uk/2/hi/science/nature/3391431.stm:1866:5",
+        "objectId": "{\"injectedScriptId\":3,\"id\":6}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: BBC is not defined\n    at http://news.bbc.co.uk/2/hi/science/nature/3391431.stm:1866:5",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: BBC is not defined\n    at http://n….bbc.co.uk/2/hi/science/nature/3391431.stm:1866:5"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "BBC is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583425469969.6628,
+    "exceptionDetails": {
+      "exceptionId": 7,
+      "text": "Uncaught",
+      "lineNumber": 1876,
+      "columnNumber": 4,
+      "url": "http://news.bbc.co.uk/2/hi/science/nature/3391431.stm",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "42",
+            "url": "http://news.bbc.co.uk/2/hi/science/nature/3391431.stm",
+            "lineNumber": 1876,
+            "columnNumber": 4
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: BBC is not defined\n    at http://news.bbc.co.uk/2/hi/science/nature/3391431.stm:1877:5",
+        "objectId": "{\"injectedScriptId\":3,\"id\":7}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: BBC is not defined\n    at http://news.bbc.co.uk/2/hi/science/nature/3391431.stm:1877:5",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: BBC is not defined\n    at http://n….bbc.co.uk/2/hi/science/nature/3391431.stm:1877:5"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "BBC is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583425469970.146,
+    "exceptionDetails": {
+      "exceptionId": 8,
+      "text": "Uncaught",
+      "lineNumber": 1895,
+      "columnNumber": 4,
+      "url": "http://news.bbc.co.uk/2/hi/science/nature/3391431.stm",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "43",
+            "url": "http://news.bbc.co.uk/2/hi/science/nature/3391431.stm",
+            "lineNumber": 1895,
+            "columnNumber": 4
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: BBC is not defined\n    at http://news.bbc.co.uk/2/hi/science/nature/3391431.stm:1896:5",
+        "objectId": "{\"injectedScriptId\":3,\"id\":8}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: BBC is not defined\n    at http://news.bbc.co.uk/2/hi/science/nature/3391431.stm:1896:5",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: BBC is not defined\n    at http://n….bbc.co.uk/2/hi/science/nature/3391431.stm:1896:5"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "BBC is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

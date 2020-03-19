@@ -1,0 +1,124 @@
+[
+  {
+    "timestamp": 1583750881231.355,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught (in promise)",
+      "lineNumber": 10,
+      "columnNumber": 2111,
+      "url": "https://queso-cdn.prod.reuters.tv/assets/embedded.bundle.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "value",
+            "scriptId": "26",
+            "url": "https://queso-cdn.prod.reuters.tv/assets/embedded.bundle.js",
+            "lineNumber": 10,
+            "columnNumber": 2111
+          },
+          {
+            "functionName": "value",
+            "scriptId": "26",
+            "url": "https://queso-cdn.prod.reuters.tv/assets/embedded.bundle.js",
+            "lineNumber": 22,
+            "columnNumber": 24517
+          },
+          {
+            "functionName": "Fh",
+            "scriptId": "23",
+            "url": "https://imasdk.googleapis.com/js/sdkloader/ima3.js?bust=1583750879368",
+            "lineNumber": 103,
+            "columnNumber": 199
+          },
+          {
+            "functionName": "k.dispatchEvent",
+            "scriptId": "23",
+            "url": "https://imasdk.googleapis.com/js/sdkloader/ima3.js?bust=1583750879368",
+            "lineNumber": 101,
+            "columnNumber": 322
+          },
+          {
+            "functionName": "Bv.I",
+            "scriptId": "23",
+            "url": "https://imasdk.googleapis.com/js/sdkloader/ima3.js?bust=1583750879368",
+            "lineNumber": 426,
+            "columnNumber": 364
+          },
+          {
+            "functionName": "Fh",
+            "scriptId": "23",
+            "url": "https://imasdk.googleapis.com/js/sdkloader/ima3.js?bust=1583750879368",
+            "lineNumber": 103,
+            "columnNumber": 199
+          },
+          {
+            "functionName": "k.dispatchEvent",
+            "scriptId": "23",
+            "url": "https://imasdk.googleapis.com/js/sdkloader/ima3.js?bust=1583750879368",
+            "lineNumber": 101,
+            "columnNumber": 322
+          },
+          {
+            "functionName": "Js.D",
+            "scriptId": "23",
+            "url": "https://imasdk.googleapis.com/js/sdkloader/ima3.js?bust=1583750879368",
+            "lineNumber": 319,
+            "columnNumber": 245
+          },
+          {
+            "functionName": "Ch",
+            "scriptId": "23",
+            "url": "https://imasdk.googleapis.com/js/sdkloader/ima3.js?bust=1583750879368",
+            "lineNumber": 99,
+            "columnNumber": 334
+          },
+          {
+            "functionName": "zh",
+            "scriptId": "23",
+            "url": "https://imasdk.googleapis.com/js/sdkloader/ima3.js?bust=1583750879368",
+            "lineNumber": 100,
+            "columnNumber": 283
+          },
+          {
+            "functionName": "b",
+            "scriptId": "23",
+            "url": "https://imasdk.googleapis.com/js/sdkloader/ima3.js?bust=1583750879368",
+            "lineNumber": 97,
+            "columnNumber": 284
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "DOMException",
+        "description": "DOMException: play() failed because the user didn't interact with the document first. https://goo.gl/xX8pDD",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "DOMException: play() failed because the user didn't interact with the document first. https://goo.gl/xX8pDD",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "code",
+              "type": "number",
+              "value": "0"
+            },
+            {
+              "name": "name",
+              "type": "string",
+              "value": "NotAllowedError"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "play() failed because the user didn't interact with the document first. https://goo.gl/xX8pDD"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

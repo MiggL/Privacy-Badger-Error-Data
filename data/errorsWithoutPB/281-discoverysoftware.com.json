@@ -1,0 +1,145 @@
+[
+  {
+    "timestamp": 1583010856721.463,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 808,
+      "columnNumber": 22,
+      "url": "http://discoverysoftware.com/wp-content/themes/nayma-child/js/scripts.js?ver=5.0.8",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "29",
+            "url": "http://discoverysoftware.com/wp-content/themes/nayma-child/js/scripts.js?ver=5.0.8",
+            "lineNumber": 808,
+            "columnNumber": 22
+          },
+          {
+            "functionName": "i",
+            "scriptId": "14",
+            "url": "http://discoverysoftware.com/wp-includes/js/jquery/jquery.js?ver=1.12.4",
+            "lineNumber": 1,
+            "columnNumber": 27361
+          },
+          {
+            "functionName": "fireWith",
+            "scriptId": "14",
+            "url": "http://discoverysoftware.com/wp-includes/js/jquery/jquery.js?ver=1.12.4",
+            "lineNumber": 1,
+            "columnNumber": 28120
+          },
+          {
+            "functionName": "ready",
+            "scriptId": "14",
+            "url": "http://discoverysoftware.com/wp-includes/js/jquery/jquery.js?ver=1.12.4",
+            "lineNumber": 1,
+            "columnNumber": 29913
+          },
+          {
+            "functionName": "J",
+            "scriptId": "14",
+            "url": "http://discoverysoftware.com/wp-includes/js/jquery/jquery.js?ver=1.12.4",
+            "lineNumber": 1,
+            "columnNumber": 30275
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'split' of null\n    at HTMLDocument.<anonymous> (http://discoverysoftware.com/wp-content/themes/nayma-child/js/scripts.js?ver=5.0.8:809:23)\n    at i (http://discoverysoftware.com/wp-includes/js/jquery/jquery.js?ver=1.12.4:2:27362)\n    at Object.fireWith [as resolveWith] (http://discoverysoftware.com/wp-includes/js/jquery/jquery.js?ver=1.12.4:2:28121)\n    at Function.ready (http://discoverysoftware.com/wp-includes/js/jquery/jquery.js?ver=1.12.4:2:29914)\n    at HTMLDocument.J (http://discoverysoftware.com/wp-includes/js/jquery/jquery.js?ver=1.12.4:2:30276)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'split' of null\n    at HTMLDocument.<anonymous> (http://discoverysoftware.com/wp-content/themes/nayma-child/js/scripts.js?ver=5.0.8:809:23)\n    at i (http://discoverysoftware.com/wp-includes/js/jquery/jquery.js?ver=1.12.4:2:27362)\n    at Object.fireWith [as resolveWith] (http://discoverysoftware.com/wp-includes/js/jquery/jquery.js?ver=1.12.4:2:28121)\n    at Function.ready (http://discoverysoftware.com/wp-includes/js/jquery/jquery.js?ver=1.12.4:2:29914)\n    at HTMLDocument.J (http://discoverysoftware.com/wp-includes/js/jquery/jquery.js?ver=1.12.4:2:30276)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'split' of null\n  …-includes/js/jquery/jquery.js?ver=1.12.4:2:30276)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'split' of null"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583010856822.326,
+    "exceptionDetails": {
+      "exceptionId": 2,
+      "text": "Uncaught",
+      "lineNumber": 7,
+      "columnNumber": 25847,
+      "url": "http://discoverysoftware.com/wp-content/plugins/revslider/rs-plugin/js/jquery.themepunch.revolution.min.js?rev=4.3.3&ver=5.0.8",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "L",
+            "scriptId": "17",
+            "url": "http://discoverysoftware.com/wp-content/plugins/revslider/rs-plugin/js/jquery.themepunch.revolution.min.js?rev=4.3.3&ver=5.0.8",
+            "lineNumber": 7,
+            "columnNumber": 25847
+          },
+          {
+            "functionName": "k",
+            "scriptId": "17",
+            "url": "http://discoverysoftware.com/wp-content/plugins/revslider/rs-plugin/js/jquery.themepunch.revolution.min.js?rev=4.3.3&ver=5.0.8",
+            "lineNumber": 7,
+            "columnNumber": 24394
+          },
+          {
+            "functionName": "",
+            "scriptId": "17",
+            "url": "http://discoverysoftware.com/wp-content/plugins/revslider/rs-plugin/js/jquery.themepunch.revolution.min.js?rev=4.3.3&ver=5.0.8",
+            "lineNumber": 7,
+            "columnNumber": 24218
+          },
+          {
+            "functionName": "",
+            "scriptId": "17",
+            "url": "http://discoverysoftware.com/wp-content/plugins/revslider/rs-plugin/js/jquery.themepunch.revolution.min.js?rev=4.3.3&ver=5.0.8",
+            "lineNumber": 7,
+            "columnNumber": 88256
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'split' of undefined\n    at L (http://discoverysoftware.com/wp-content/plugins/revslider/rs-plugin/js/jquery.themepunch.revolution.min.js?rev=4.3.3&ver=5.0.8:8:25848)\n    at k (http://discoverysoftware.com/wp-content/plugins/revslider/rs-plugin/js/jquery.themepunch.revolution.min.js?rev=4.3.3&ver=5.0.8:8:24395)\n    at http://discoverysoftware.com/wp-content/plugins/revslider/rs-plugin/js/jquery.themepunch.revolution.min.js?rev=4.3.3&ver=5.0.8:8:24219\n    at http://discoverysoftware.com/wp-content/plugins/revslider/rs-plugin/js/jquery.themepunch.revolution.min.js?rev=4.3.3&ver=5.0.8:8:88257",
+        "objectId": "{\"injectedScriptId\":3,\"id\":2}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'split' of undefined\n    at L (http://discoverysoftware.com/wp-content/plugins/revslider/rs-plugin/js/jquery.themepunch.revolution.min.js?rev=4.3.3&ver=5.0.8:8:25848)\n    at k (http://discoverysoftware.com/wp-content/plugins/revslider/rs-plugin/js/jquery.themepunch.revolution.min.js?rev=4.3.3&ver=5.0.8:8:24395)\n    at http://discoverysoftware.com/wp-content/plugins/revslider/rs-plugin/js/jquery.themepunch.revolution.min.js?rev=4.3.3&ver=5.0.8:8:24219\n    at http://discoverysoftware.com/wp-content/plugins/revslider/rs-plugin/js/jquery.themepunch.revolution.min.js?rev=4.3.3&ver=5.0.8:8:88257",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'split' of undefin…nch.revolution.min.js?rev=4.3.3&ver=5.0.8:8:88257"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'split' of undefined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

@@ -1,0 +1,63 @@
+[
+  {
+    "timestamp": 1582812552391.319,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 826,
+      "columnNumber": 45,
+      "url": "https://www.staples.com/Ink-Toner-Finder/cat_SC43",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "39",
+            "url": "https://www.staples.com/Ink-Toner-Finder/cat_SC43",
+            "lineNumber": 826,
+            "columnNumber": 45
+          },
+          {
+            "functionName": "SS.Require",
+            "scriptId": "24",
+            "url": "https://www.staples.com/Ink-Toner-Finder/cat_SC43",
+            "lineNumber": 347,
+            "columnNumber": 8
+          },
+          {
+            "functionName": "",
+            "scriptId": "39",
+            "url": "https://www.staples.com/Ink-Toner-Finder/cat_SC43",
+            "lineNumber": 798,
+            "columnNumber": 7
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'addEventListener' of null\n    at https://www.staples.com/Ink-Toner-Finder/cat_SC43:827:46\n    at Object.SS.Require (https://www.staples.com/Ink-Toner-Finder/cat_SC43:348:9)\n    at https://www.staples.com/Ink-Toner-Finder/cat_SC43:799:8",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'addEventListener' of null\n    at https://www.staples.com/Ink-Toner-Finder/cat_SC43:827:46\n    at Object.SS.Require (https://www.staples.com/Ink-Toner-Finder/cat_SC43:348:9)\n    at https://www.staples.com/Ink-Toner-Finder/cat_SC43:799:8",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'addEventListener'…//www.staples.com/Ink-Toner-Finder/cat_SC43:799:8"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'addEventListener' of null"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

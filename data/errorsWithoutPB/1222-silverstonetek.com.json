@@ -1,0 +1,77 @@
+[
+  {
+    "timestamp": 1583002120910.507,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 255,
+      "columnNumber": 21,
+      "url": "https://silverstonetek.com/raven/products/index.php?model=RVP01&area=en&top=A",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "23",
+            "url": "https://silverstonetek.com/raven/products/index.php?model=RVP01&area=en&top=A",
+            "lineNumber": 255,
+            "columnNumber": 21
+          },
+          {
+            "functionName": "c",
+            "scriptId": "12",
+            "url": "https://silverstonetek.com/raven/js/jquery-1.9.1.min.js",
+            "lineNumber": 2,
+            "columnNumber": 7856
+          },
+          {
+            "functionName": "fireWith",
+            "scriptId": "12",
+            "url": "https://silverstonetek.com/raven/js/jquery-1.9.1.min.js",
+            "lineNumber": 2,
+            "columnNumber": 8657
+          },
+          {
+            "functionName": "ready",
+            "scriptId": "12",
+            "url": "https://silverstonetek.com/raven/js/jquery-1.9.1.min.js",
+            "lineNumber": 2,
+            "columnNumber": 3265
+          },
+          {
+            "functionName": "H",
+            "scriptId": "12",
+            "url": "https://silverstonetek.com/raven/js/jquery-1.9.1.min.js",
+            "lineNumber": 2,
+            "columnNumber": 694
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: $(...).lightbox is not a function\n    at HTMLDocument.<anonymous> (https://silverstonetek.com/raven/products/index.php?model=RVP01&area=en&top=A:256:22)\n    at c (https://silverstonetek.com/raven/js/jquery-1.9.1.min.js:3:7857)\n    at Object.fireWith [as resolveWith] (https://silverstonetek.com/raven/js/jquery-1.9.1.min.js:3:8658)\n    at Function.ready (https://silverstonetek.com/raven/js/jquery-1.9.1.min.js:3:3266)\n    at HTMLDocument.H (https://silverstonetek.com/raven/js/jquery-1.9.1.min.js:3:695)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: $(...).lightbox is not a function\n    at HTMLDocument.<anonymous> (https://silverstonetek.com/raven/products/index.php?model=RVP01&area=en&top=A:256:22)\n    at c (https://silverstonetek.com/raven/js/jquery-1.9.1.min.js:3:7857)\n    at Object.fireWith [as resolveWith] (https://silverstonetek.com/raven/js/jquery-1.9.1.min.js:3:8658)\n    at Function.ready (https://silverstonetek.com/raven/js/jquery-1.9.1.min.js:3:3266)\n    at HTMLDocument.H (https://silverstonetek.com/raven/js/jquery-1.9.1.min.js:3:695)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: $(...).lightbox is not a function\n    a…rstonetek.com/raven/js/jquery-1.9.1.min.js:3:695)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "$(...).lightbox is not a function"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

@@ -1,0 +1,64 @@
+[
+  {
+    "timestamp": 1582921908711.617,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 78,
+      "columnNumber": 35,
+      "scriptId": "20",
+      "url": "https://cdn.appdynamics.com/adrum/adrum-latest.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "25",
+            "url": "https://www.debenhams.com/wcsstore/DebenhamsStorefrontAssetStore/javascript/Deb.DCF.Mobify.js",
+            "lineNumber": 15,
+            "columnNumber": 41
+          },
+          {
+            "functionName": "b.yg",
+            "scriptId": "20",
+            "url": "https://cdn.appdynamics.com/adrum/adrum-latest.js",
+            "lineNumber": 78,
+            "columnNumber": 14
+          },
+          {
+            "functionName": "",
+            "scriptId": "20",
+            "url": "https://cdn.appdynamics.com/adrum/adrum-latest.js",
+            "lineNumber": 79,
+            "columnNumber": 9
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: $(...).bxSlider is not a function\n    at https://www.debenhams.com/wcsstore/DebenhamsStorefrontAssetStore/javascript/Deb.DCF.Mobify.js:16:42\n    at Function.b.yg (https://cdn.appdynamics.com/adrum/adrum-latest.js:79:15)\n    at https://cdn.appdynamics.com/adrum/adrum-latest.js:80:10",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: $(...).bxSlider is not a function\n    at https://www.debenhams.com/wcsstore/DebenhamsStorefrontAssetStore/javascript/Deb.DCF.Mobify.js:16:42\n    at Function.b.yg (https://cdn.appdynamics.com/adrum/adrum-latest.js:79:15)\n    at https://cdn.appdynamics.com/adrum/adrum-latest.js:80:10",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: $(...).bxSlider is not a function\n    a…//cdn.appdynamics.com/adrum/adrum-latest.js:80:10"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "$(...).bxSlider is not a function"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

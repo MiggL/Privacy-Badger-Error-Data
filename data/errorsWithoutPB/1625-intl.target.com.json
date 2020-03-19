@@ -1,0 +1,135 @@
+[
+  {
+    "timestamp": 1582817213238.555,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught (in promise)",
+      "lineNumber": 0,
+      "columnNumber": 0,
+      "scriptId": "1",
+      "url": "https://www.target.com/c/slippers-girls-shoes/oval/-/N-5xtvfZ5y68j",
+      "exception": {
+        "type": "object",
+        "className": "Object",
+        "description": "Object",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "description": "Object",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "hasGuestStore",
+              "type": "boolean",
+              "value": "false"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1582817213793.205,
+    "exceptionDetails": {
+      "exceptionId": 2,
+      "text": "Uncaught",
+      "lineNumber": 0,
+      "columnNumber": 13168,
+      "url": "https://bat.bing.com/bat.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "UET.throwError",
+            "scriptId": "292",
+            "url": "https://bat.bing.com/bat.js",
+            "lineNumber": 0,
+            "columnNumber": 13168
+          },
+          {
+            "functionName": "UET.validateProdId",
+            "scriptId": "292",
+            "url": "https://bat.bing.com/bat.js",
+            "lineNumber": 0,
+            "columnNumber": 14371
+          },
+          {
+            "functionName": "UET.validateDataObject",
+            "scriptId": "292",
+            "url": "https://bat.bing.com/bat.js",
+            "lineNumber": 0,
+            "columnNumber": 18939
+          },
+          {
+            "functionName": "UET.evt",
+            "scriptId": "292",
+            "url": "https://bat.bing.com/bat.js",
+            "lineNumber": 0,
+            "columnNumber": 19348
+          },
+          {
+            "functionName": "UET._push",
+            "scriptId": "292",
+            "url": "https://bat.bing.com/bat.js",
+            "lineNumber": 0,
+            "columnNumber": 7755
+          },
+          {
+            "functionName": "UET.push",
+            "scriptId": "292",
+            "url": "https://bat.bing.com/bat.js",
+            "lineNumber": 0,
+            "columnNumber": 7512
+          },
+          {
+            "functionName": "UET.dispatchq",
+            "scriptId": "292",
+            "url": "https://bat.bing.com/bat.js",
+            "lineNumber": 0,
+            "columnNumber": 8260
+          },
+          {
+            "functionName": "UET.evt",
+            "scriptId": "292",
+            "url": "https://bat.bing.com/bat.js",
+            "lineNumber": 0,
+            "columnNumber": 20775
+          },
+          {
+            "functionName": "UET._push",
+            "scriptId": "292",
+            "url": "https://bat.bing.com/bat.js",
+            "lineNumber": 0,
+            "columnNumber": 7755
+          },
+          {
+            "functionName": "UET.push",
+            "scriptId": "292",
+            "url": "https://bat.bing.com/bat.js",
+            "lineNumber": 0,
+            "columnNumber": 7512
+          },
+          {
+            "functionName": "f",
+            "scriptId": "281",
+            "url": "https://taglocker.target.com/bing-adaptive/react/bing_universal.js",
+            "lineNumber": 26,
+            "columnNumber": 21
+          },
+          {
+            "functionName": "n.onload.n.onreadystatechange",
+            "scriptId": "281",
+            "url": "https://taglocker.target.com/bing-adaptive/react/bing_universal.js",
+            "lineNumber": 35,
+            "columnNumber": 60
+          }
+        ]
+      },
+      "exception": {
+        "type": "string",
+        "value": "The prodid value must be within 1 to 50 characters."
+      },
+      "executionContextId": 3
+    }
+  }
+]

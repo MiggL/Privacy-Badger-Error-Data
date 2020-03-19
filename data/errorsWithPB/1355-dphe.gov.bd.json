@@ -1,0 +1,124 @@
+[
+  {
+    "timestamp": 1583419847529.316,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 1032,
+      "columnNumber": 2,
+      "url": "http://www.dphe.gov.bd/themes/responsive_npf/js/jquery-accessibleMegaMenu.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "24",
+            "url": "http://www.dphe.gov.bd/themes/responsive_npf/js/jquery-accessibleMegaMenu.js",
+            "lineNumber": 1032,
+            "columnNumber": 2
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: jQuery is not defined\n    at http://www.dphe.gov.bd/themes/responsive_npf/js/jquery-accessibleMegaMenu.js:1033:3",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: jQuery is not defined\n    at http://www.dphe.gov.bd/themes/responsive_npf/js/jquery-accessibleMegaMenu.js:1033:3",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: jQuery is not defined\n    at http:…onsive_npf/js/jquery-accessibleMegaMenu.js:1033:3"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "jQuery is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583419850336.22,
+    "exceptionDetails": {
+      "exceptionId": 2,
+      "text": "Uncaught",
+      "lineNumber": 811,
+      "columnNumber": 28,
+      "url": "http://www.dphe.gov.bd/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D77%26Itemid%3D28",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "41",
+            "url": "http://www.dphe.gov.bd/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D77%26Itemid%3D28",
+            "lineNumber": 811,
+            "columnNumber": 28
+          },
+          {
+            "functionName": "c",
+            "scriptId": "22",
+            "url": "http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js",
+            "lineNumber": 2,
+            "columnNumber": 7856
+          },
+          {
+            "functionName": "fireWith",
+            "scriptId": "22",
+            "url": "http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js",
+            "lineNumber": 2,
+            "columnNumber": 8657
+          },
+          {
+            "functionName": "ready",
+            "scriptId": "22",
+            "url": "http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js",
+            "lineNumber": 2,
+            "columnNumber": 3265
+          },
+          {
+            "functionName": "H",
+            "scriptId": "22",
+            "url": "http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js",
+            "lineNumber": 2,
+            "columnNumber": 694
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: $(...).accessibleMegaMenu is not a function\n    at HTMLDocument.<anonymous> (http://www.dphe.gov.bd/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D77%26Itemid%3D28:812:29)\n    at c (http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js:3:7857)\n    at Object.fireWith [as resolveWith] (http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js:3:8658)\n    at Function.ready (http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js:3:3266)\n    at HTMLDocument.H (http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js:3:695)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":2}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: $(...).accessibleMegaMenu is not a function\n    at HTMLDocument.<anonymous> (http://www.dphe.gov.bd/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D77%26Itemid%3D28:812:29)\n    at c (http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js:3:7857)\n    at Object.fireWith [as resolveWith] (http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js:3:8658)\n    at Function.ready (http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js:3:3266)\n    at HTMLDocument.H (http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js:3:695)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: $(...).accessibleMegaMenu is not a func…s.com/ajax/libs/jquery/1.9.1/jquery.min.js:3:695)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "$(...).accessibleMegaMenu is not a function"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

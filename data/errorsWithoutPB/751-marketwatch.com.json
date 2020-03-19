@@ -1,0 +1,628 @@
+[
+  {
+    "timestamp": 1583006519406.621,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 60,
+      "columnNumber": 11192,
+      "scriptId": "13",
+      "url": "https://www.marketwatch.com/story/stock-market-bulls-could-get-scorched-by-icarus-trade-in-2017-2017-01-09",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "makeError",
+            "scriptId": "12",
+            "url": "https://sts3.wsj.net/bucket-a/foxtrot/public/article.min-4c35c07af5.js",
+            "lineNumber": 0,
+            "columnNumber": 1013
+          },
+          {
+            "functionName": "onScriptError",
+            "scriptId": "12",
+            "url": "https://sts3.wsj.net/bucket-a/foxtrot/public/article.min-4c35c07af5.js",
+            "lineNumber": 0,
+            "columnNumber": 12633
+          },
+          {
+            "functionName": "nrWrapper",
+            "scriptId": "13",
+            "url": "https://www.marketwatch.com/story/stock-market-bulls-could-get-scorched-by-icarus-trade-in-2017-2017-01-09",
+            "lineNumber": 60,
+            "columnNumber": 11172
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "Error",
+        "description": "Error: Script error for: track\nhttp://requirejs.org/docs/errors.html#scripterror\n    at makeError (https://sts3.wsj.net/bucket-a/foxtrot/public/article.min-4c35c07af5.js:1:1014)\n    at HTMLScriptElement.onScriptError (https://sts3.wsj.net/bucket-a/foxtrot/public/article.min-4c35c07af5.js:1:12634)\n    at HTMLScriptElement.nrWrapper (https://www.marketwatch.com/story/stock-market-bulls-could-get-scorched-by-icarus-trade-in-2017-2017-01-09:61:11173)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":2}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "Error: Script error for: track\nhttp://requirejs.org/docs/errors.html#scripterror\n    at makeError (https://sts3.wsj.net/bucket-a/foxtrot/public/article.min-4c35c07af5.js:1:1014)\n    at HTMLScriptElement.onScriptError (https://sts3.wsj.net/bucket-a/foxtrot/public/article.min-4c35c07af5.js:1:12634)\n    at HTMLScriptElement.nrWrapper (https://www.marketwatch.com/story/stock-market-bulls-could-get-scorched-by-icarus-trade-in-2017-2017-01-09:61:11173)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "requireType",
+              "type": "string",
+              "value": "scripterror"
+            },
+            {
+              "name": "requireModules",
+              "type": "object",
+              "value": "Array(1)",
+              "subtype": "array"
+            },
+            {
+              "name": "originalError",
+              "type": "object",
+              "value": "Event"
+            },
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "Error: Script error for: track\nhttp://requirejs.or…ched-by-icarus-trade-in-2017-2017-01-09:61:11173)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Script error for: track\nhttp://requirejs.org/docs/errors.html#scripterror"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583006520169.6091,
+    "exceptionDetails": {
+      "exceptionId": 2,
+      "text": "Uncaught",
+      "lineNumber": 60,
+      "columnNumber": 11192,
+      "scriptId": "13",
+      "url": "https://www.marketwatch.com/story/stock-market-bulls-could-get-scorched-by-icarus-trade-in-2017-2017-01-09",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "makeError",
+            "scriptId": "12",
+            "url": "https://sts3.wsj.net/bucket-a/foxtrot/public/article.min-4c35c07af5.js",
+            "lineNumber": 0,
+            "columnNumber": 1013
+          },
+          {
+            "functionName": "onScriptError",
+            "scriptId": "12",
+            "url": "https://sts3.wsj.net/bucket-a/foxtrot/public/article.min-4c35c07af5.js",
+            "lineNumber": 0,
+            "columnNumber": 12633
+          },
+          {
+            "functionName": "nrWrapper",
+            "scriptId": "13",
+            "url": "https://www.marketwatch.com/story/stock-market-bulls-could-get-scorched-by-icarus-trade-in-2017-2017-01-09",
+            "lineNumber": 60,
+            "columnNumber": 11172
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "Error",
+        "description": "Error: Script error for: trackInfo\nhttp://requirejs.org/docs/errors.html#scripterror\n    at makeError (https://sts3.wsj.net/bucket-a/foxtrot/public/article.min-4c35c07af5.js:1:1014)\n    at HTMLScriptElement.onScriptError (https://sts3.wsj.net/bucket-a/foxtrot/public/article.min-4c35c07af5.js:1:12634)\n    at HTMLScriptElement.nrWrapper (https://www.marketwatch.com/story/stock-market-bulls-could-get-scorched-by-icarus-trade-in-2017-2017-01-09:61:11173)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":4}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "Error: Script error for: trackInfo\nhttp://requirejs.org/docs/errors.html#scripterror\n    at makeError (https://sts3.wsj.net/bucket-a/foxtrot/public/article.min-4c35c07af5.js:1:1014)\n    at HTMLScriptElement.onScriptError (https://sts3.wsj.net/bucket-a/foxtrot/public/article.min-4c35c07af5.js:1:12634)\n    at HTMLScriptElement.nrWrapper (https://www.marketwatch.com/story/stock-market-bulls-could-get-scorched-by-icarus-trade-in-2017-2017-01-09:61:11173)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "requireType",
+              "type": "string",
+              "value": "scripterror"
+            },
+            {
+              "name": "requireModules",
+              "type": "object",
+              "value": "Array(1)",
+              "subtype": "array"
+            },
+            {
+              "name": "originalError",
+              "type": "object",
+              "value": "Event"
+            },
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "Error: Script error for: trackInfo\nhttp://requirej…ched-by-icarus-trade-in-2017-2017-01-09:61:11173)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Script error for: trackInfo\nhttp://requirejs.org/docs/errors.html#scripterror"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583006523687.9932,
+    "exceptionDetails": {
+      "exceptionId": 3,
+      "text": "Uncaught",
+      "lineNumber": 11,
+      "columnNumber": 3057,
+      "url": "https://us.tags.newscgp.com/prod/ncg/cookie.html",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "i",
+            "scriptId": "128",
+            "url": "https://us.tags.newscgp.com/prod/ncg/cookie.html",
+            "lineNumber": 11,
+            "columnNumber": 3057
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'toString' of undefined\n    at i (https://us.tags.newscgp.com/prod/ncg/cookie.html:12:3058)",
+        "objectId": "{\"injectedScriptId\":14,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'toString' of undefined\n    at i (https://us.tags.newscgp.com/prod/ncg/cookie.html:12:3058)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'toString' of unde…us.tags.newscgp.com/prod/ncg/cookie.html:12:3058)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'toString' of undefined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 14
+    }
+  },
+  {
+    "timestamp": 1583006523688.3308,
+    "exceptionDetails": {
+      "exceptionId": 4,
+      "text": "Uncaught",
+      "lineNumber": 11,
+      "columnNumber": 3057,
+      "url": "https://www.ncaudienceexchange.com/prod/ncg/cookie.html",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "i",
+            "scriptId": "149",
+            "url": "https://www.ncaudienceexchange.com/prod/ncg/cookie.html",
+            "lineNumber": 11,
+            "columnNumber": 3057
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'toString' of undefined\n    at i (https://www.ncaudienceexchange.com/prod/ncg/cookie.html:12:3058)",
+        "objectId": "{\"injectedScriptId\":27,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'toString' of undefined\n    at i (https://www.ncaudienceexchange.com/prod/ncg/cookie.html:12:3058)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'toString' of unde…udienceexchange.com/prod/ncg/cookie.html:12:3058)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'toString' of undefined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 27
+    }
+  },
+  {
+    "timestamp": 1583006523688.632,
+    "exceptionDetails": {
+      "exceptionId": 5,
+      "text": "Uncaught",
+      "lineNumber": 11,
+      "columnNumber": 3057,
+      "url": "https://tags.realtor.com/prod/ncg/cookie.html",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "i",
+            "scriptId": "150",
+            "url": "https://tags.realtor.com/prod/ncg/cookie.html",
+            "lineNumber": 11,
+            "columnNumber": 3057
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'toString' of undefined\n    at i (https://tags.realtor.com/prod/ncg/cookie.html:12:3058)",
+        "objectId": "{\"injectedScriptId\":29,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'toString' of undefined\n    at i (https://tags.realtor.com/prod/ncg/cookie.html:12:3058)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'toString' of unde…://tags.realtor.com/prod/ncg/cookie.html:12:3058)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'toString' of undefined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 29
+    }
+  },
+  {
+    "timestamp": 1583006523688.968,
+    "exceptionDetails": {
+      "exceptionId": 6,
+      "text": "Uncaught",
+      "lineNumber": 11,
+      "columnNumber": 3057,
+      "url": "https://tags.barrons.com/prod/ncg/cookie.html",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "i",
+            "scriptId": "164",
+            "url": "https://tags.barrons.com/prod/ncg/cookie.html",
+            "lineNumber": 11,
+            "columnNumber": 3057
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'toString' of undefined\n    at i (https://tags.barrons.com/prod/ncg/cookie.html:12:3058)",
+        "objectId": "{\"injectedScriptId\":31,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'toString' of undefined\n    at i (https://tags.barrons.com/prod/ncg/cookie.html:12:3058)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'toString' of unde…://tags.barrons.com/prod/ncg/cookie.html:12:3058)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'toString' of undefined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 31
+    }
+  },
+  {
+    "timestamp": 1583006523689.2659,
+    "exceptionDetails": {
+      "exceptionId": 7,
+      "text": "Uncaught",
+      "lineNumber": 11,
+      "columnNumber": 3057,
+      "url": "https://tags.mansionglobal.com/prod/ncg/cookie.html",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "i",
+            "scriptId": "170",
+            "url": "https://tags.mansionglobal.com/prod/ncg/cookie.html",
+            "lineNumber": 11,
+            "columnNumber": 3057
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'toString' of undefined\n    at i (https://tags.mansionglobal.com/prod/ncg/cookie.html:12:3058)",
+        "objectId": "{\"injectedScriptId\":43,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'toString' of undefined\n    at i (https://tags.mansionglobal.com/prod/ncg/cookie.html:12:3058)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'toString' of unde…s.mansionglobal.com/prod/ncg/cookie.html:12:3058)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'toString' of undefined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 43
+    }
+  },
+  {
+    "timestamp": 1583006523689.478,
+    "exceptionDetails": {
+      "exceptionId": 8,
+      "text": "Uncaught",
+      "lineNumber": 11,
+      "columnNumber": 3057,
+      "url": "https://tags.wsj.com/prod/ncg/cookie.html",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "i",
+            "scriptId": "166",
+            "url": "https://tags.wsj.com/prod/ncg/cookie.html",
+            "lineNumber": 11,
+            "columnNumber": 3057
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'toString' of undefined\n    at i (https://tags.wsj.com/prod/ncg/cookie.html:12:3058)",
+        "objectId": "{\"injectedScriptId\":35,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'toString' of undefined\n    at i (https://tags.wsj.com/prod/ncg/cookie.html:12:3058)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'toString' of unde…ttps://tags.wsj.com/prod/ncg/cookie.html:12:3058)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'toString' of undefined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 35
+    }
+  },
+  {
+    "timestamp": 1583006523689.6401,
+    "exceptionDetails": {
+      "exceptionId": 9,
+      "text": "Uncaught",
+      "lineNumber": 11,
+      "columnNumber": 3057,
+      "url": "https://tags.nypost.com/prod/ncg/cookie.html",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "i",
+            "scriptId": "165",
+            "url": "https://tags.nypost.com/prod/ncg/cookie.html",
+            "lineNumber": 11,
+            "columnNumber": 3057
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'toString' of undefined\n    at i (https://tags.nypost.com/prod/ncg/cookie.html:12:3058)",
+        "objectId": "{\"injectedScriptId\":33,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'toString' of undefined\n    at i (https://tags.nypost.com/prod/ncg/cookie.html:12:3058)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'toString' of unde…s://tags.nypost.com/prod/ncg/cookie.html:12:3058)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'toString' of undefined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 33
+    }
+  },
+  {
+    "timestamp": 1583006523689.8,
+    "exceptionDetails": {
+      "exceptionId": 10,
+      "text": "Uncaught",
+      "lineNumber": 11,
+      "columnNumber": 3057,
+      "url": "https://tags.decider.com/prod/ncg/cookie.html",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "i",
+            "scriptId": "167",
+            "url": "https://tags.decider.com/prod/ncg/cookie.html",
+            "lineNumber": 11,
+            "columnNumber": 3057
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'toString' of undefined\n    at i (https://tags.decider.com/prod/ncg/cookie.html:12:3058)",
+        "objectId": "{\"injectedScriptId\":37,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'toString' of undefined\n    at i (https://tags.decider.com/prod/ncg/cookie.html:12:3058)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'toString' of unde…://tags.decider.com/prod/ncg/cookie.html:12:3058)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'toString' of undefined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 37
+    }
+  },
+  {
+    "timestamp": 1583006523689.9631,
+    "exceptionDetails": {
+      "exceptionId": 11,
+      "text": "Uncaught",
+      "lineNumber": 11,
+      "columnNumber": 3057,
+      "url": "https://tags.pagesix.com/prod/ncg/cookie.html",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "i",
+            "scriptId": "168",
+            "url": "https://tags.pagesix.com/prod/ncg/cookie.html",
+            "lineNumber": 11,
+            "columnNumber": 3057
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'toString' of undefined\n    at i (https://tags.pagesix.com/prod/ncg/cookie.html:12:3058)",
+        "objectId": "{\"injectedScriptId\":39,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'toString' of undefined\n    at i (https://tags.pagesix.com/prod/ncg/cookie.html:12:3058)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'toString' of unde…://tags.pagesix.com/prod/ncg/cookie.html:12:3058)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'toString' of undefined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 39
+    }
+  },
+  {
+    "timestamp": 1583006523690.117,
+    "exceptionDetails": {
+      "exceptionId": 12,
+      "text": "Uncaught",
+      "lineNumber": 11,
+      "columnNumber": 3057,
+      "url": "https://tags.knewz.com/prod/ncg/cookie.html",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "i",
+            "scriptId": "169",
+            "url": "https://tags.knewz.com/prod/ncg/cookie.html",
+            "lineNumber": 11,
+            "columnNumber": 3057
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'toString' of undefined\n    at i (https://tags.knewz.com/prod/ncg/cookie.html:12:3058)",
+        "objectId": "{\"injectedScriptId\":41,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'toString' of undefined\n    at i (https://tags.knewz.com/prod/ncg/cookie.html:12:3058)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'toString' of unde…ps://tags.knewz.com/prod/ncg/cookie.html:12:3058)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'toString' of undefined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 41
+    }
+  }
+]

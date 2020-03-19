@@ -1,0 +1,72 @@
+[
+  {
+    "timestamp": 1583758566725.9631,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 4,
+      "columnNumber": 1062,
+      "url": "https://www.cbsnews.com/fly/bundles/cbsnewscore/js-build/main.js?v=1.91e9b898fa1dc46f2bd4c67050e92466b65ef827",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "makeError",
+            "scriptId": "22",
+            "url": "https://www.cbsnews.com/fly/bundles/cbsnewscore/js-build/main.js?v=1.91e9b898fa1dc46f2bd4c67050e92466b65ef827",
+            "lineNumber": 4,
+            "columnNumber": 1062
+          },
+          {
+            "functionName": "onScriptError",
+            "scriptId": "22",
+            "url": "https://www.cbsnews.com/fly/bundles/cbsnewscore/js-build/main.js?v=1.91e9b898fa1dc46f2bd4c67050e92466b65ef827",
+            "lineNumber": 4,
+            "columnNumber": 13194
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "Error",
+        "description": "Error: Script error for \"https://securepubads.g.doubleclick.net/tag/js/gpt.js#\"\nhttp://requirejs.org/docs/errors.html#scripterror\n    at makeError (https://www.cbsnews.com/fly/bundles/cbsnewscore/js-build/main.js?v=1.91e9b898fa1dc46f2bd4c67050e92466b65ef827:5:1063)\n    at HTMLScriptElement.onScriptError (https://www.cbsnews.com/fly/bundles/cbsnewscore/js-build/main.js?v=1.91e9b898fa1dc46f2bd4c67050e92466b65ef827:5:13195)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "Error: Script error for \"https://securepubads.g.doubleclick.net/tag/js/gpt.js#\"\nhttp://requirejs.org/docs/errors.html#scripterror\n    at makeError (https://www.cbsnews.com/fly/bundles/cbsnewscore/js-build/main.js?v=1.91e9b898fa1dc46f2bd4c67050e92466b65ef827:5:1063)\n    at HTMLScriptElement.onScriptError (https://www.cbsnews.com/fly/bundles/cbsnewscore/js-build/main.js?v=1.91e9b898fa1dc46f2bd4c67050e92466b65ef827:5:13195)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "requireType",
+              "type": "string",
+              "value": "scripterror"
+            },
+            {
+              "name": "requireModules",
+              "type": "object",
+              "value": "Array(1)",
+              "subtype": "array"
+            },
+            {
+              "name": "originalError",
+              "type": "object",
+              "value": "Event"
+            },
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "Error: Script error for \"https://securepubads.g.do…91e9b898fa1dc46f2bd4c67050e92466b65ef827:5:13195)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Script error for \"https://securepubads.g.doublecli…http://requirejs.org/docs/errors.html#scripterror"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

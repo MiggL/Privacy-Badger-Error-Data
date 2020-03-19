@@ -1,0 +1,113 @@
+[
+  {
+    "timestamp": 1582815632889.903,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 6,
+      "columnNumber": 518,
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "getComplexPageProperties",
+            "scriptId": "26",
+            "url": "",
+            "lineNumber": 6,
+            "columnNumber": 518
+          },
+          {
+            "functionName": "",
+            "scriptId": "26",
+            "url": "",
+            "lineNumber": 7,
+            "columnNumber": 338
+          },
+          {
+            "functionName": "",
+            "scriptId": "17",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-K43R85&gtm_auth=hytklheaHE5sD0bruU1jNQ&gtm_preview=env-1&gtm_cookies_win=x",
+            "lineNumber": 400,
+            "columnNumber": 413
+          },
+          {
+            "functionName": "c",
+            "scriptId": "17",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-K43R85&gtm_auth=hytklheaHE5sD0bruU1jNQ&gtm_preview=env-1&gtm_cookies_win=x",
+            "lineNumber": 402,
+            "columnNumber": 151
+          },
+          {
+            "functionName": "",
+            "scriptId": "17",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-K43R85&gtm_auth=hytklheaHE5sD0bruU1jNQ&gtm_preview=env-1&gtm_cookies_win=x",
+            "lineNumber": 402,
+            "columnNumber": 173
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'dataLayer' of undefined\n    at getComplexPageProperties (<anonymous>:7:519)\n    at <anonymous>:8:339\n    at https://www.googletagmanager.com/gtm.js?id=GTM-K43R85&gtm_auth=hytklheaHE5sD0bruU1jNQ&gtm_preview=env-1&gtm_cookies_win=x:401:414\n    at c (https://www.googletagmanager.com/gtm.js?id=GTM-K43R85&gtm_auth=hytklheaHE5sD0bruU1jNQ&gtm_preview=env-1&gtm_cookies_win=x:403:152)\n    at https://www.googletagmanager.com/gtm.js?id=GTM-K43R85&gtm_auth=hytklheaHE5sD0bruU1jNQ&gtm_preview=env-1&gtm_cookies_win=x:403:174",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'dataLayer' of undefined\n    at getComplexPageProperties (<anonymous>:7:519)\n    at <anonymous>:8:339\n    at https://www.googletagmanager.com/gtm.js?id=GTM-K43R85&gtm_auth=hytklheaHE5sD0bruU1jNQ&gtm_preview=env-1&gtm_cookies_win=x:401:414\n    at c (https://www.googletagmanager.com/gtm.js?id=GTM-K43R85&gtm_auth=hytklheaHE5sD0bruU1jNQ&gtm_preview=env-1&gtm_cookies_win=x:403:152)\n    at https://www.googletagmanager.com/gtm.js?id=GTM-K43R85&gtm_auth=hytklheaHE5sD0bruU1jNQ&gtm_preview=env-1&gtm_cookies_win=x:403:174",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'dataLayer' of und…U1jNQ&gtm_preview=env-1&gtm_cookies_win=x:403:174"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'dataLayer' of undefined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1582815633534.2979,
+    "exceptionDetails": {
+      "exceptionId": 2,
+      "text": "Uncaught (in promise)",
+      "lineNumber": 0,
+      "columnNumber": 0,
+      "scriptId": "1",
+      "url": "https://firstwefeast.com/features/2015/06/eggplant-emoji-history",
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Failed to register a ServiceWorker: A bad HTTP response code (404) was received when fetching the script.",
+        "objectId": "{\"injectedScriptId\":3,\"id\":2}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Failed to register a ServiceWorker: A bad HTTP response code (404) was received when fetching the script.",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Failed to register a ServiceWorker: A b…code (404) was received when fetching the script."
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Failed to register a ServiceWorker: A bad HTTP res…code (404) was received when fetching the script."
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

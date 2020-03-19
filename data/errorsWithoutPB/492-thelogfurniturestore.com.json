@@ -1,0 +1,171 @@
+[
+  {
+    "timestamp": 1583008897611.765,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 26,
+      "columnNumber": 567,
+      "url": "https://www.thelogfurniturestore.com/includes/javascript/jquery/jquery.prettyPhoto.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "18",
+            "url": "https://www.thelogfurniturestore.com/includes/javascript/jquery/jquery.prettyPhoto.js",
+            "lineNumber": 26,
+            "columnNumber": 567
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: jQuery is not defined\n    at https://www.thelogfurniturestore.com/includes/javascript/jquery/jquery.prettyPhoto.js:27:568",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: jQuery is not defined\n    at https://www.thelogfurniturestore.com/includes/javascript/jquery/jquery.prettyPhoto.js:27:568",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: jQuery is not defined\n    at https…es/javascript/jquery/jquery.prettyPhoto.js:27:568"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "jQuery is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583008898293.0142,
+    "exceptionDetails": {
+      "exceptionId": 2,
+      "text": "Uncaught",
+      "lineNumber": 934,
+      "columnNumber": 43,
+      "url": "https://www.thelogfurniturestore.com/rawhide-table-lampshade",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "45",
+            "url": "https://www.thelogfurniturestore.com/rawhide-table-lampshade",
+            "lineNumber": 934,
+            "columnNumber": 43
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: tp1 is not defined\n    at https://www.thelogfurniturestore.com/rawhide-table-lampshade:935:44",
+        "objectId": "{\"injectedScriptId\":3,\"id\":2}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: tp1 is not defined\n    at https://www.thelogfurniturestore.com/rawhide-table-lampshade:935:44",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: tp1 is not defined\n    at https://…furniturestore.com/rawhide-table-lampshade:935:44"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "tp1 is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583008898555.55,
+    "exceptionDetails": {
+      "exceptionId": 3,
+      "text": "Uncaught",
+      "lineNumber": 1235,
+      "columnNumber": 35,
+      "url": "https://www.thelogfurniturestore.com/rawhide-table-lampshade",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "59",
+            "url": "https://www.thelogfurniturestore.com/rawhide-table-lampshade",
+            "lineNumber": 1235,
+            "columnNumber": 35
+          },
+          {
+            "functionName": "c",
+            "scriptId": "21",
+            "url": "https://www.thelogfurniturestore.com/templates/cre65_rspv/css/bootstrap/jquery/jquery-1.9.1.min.js",
+            "lineNumber": 2,
+            "columnNumber": 7856
+          },
+          {
+            "functionName": "fireWith",
+            "scriptId": "21",
+            "url": "https://www.thelogfurniturestore.com/templates/cre65_rspv/css/bootstrap/jquery/jquery-1.9.1.min.js",
+            "lineNumber": 2,
+            "columnNumber": 8657
+          },
+          {
+            "functionName": "ready",
+            "scriptId": "21",
+            "url": "https://www.thelogfurniturestore.com/templates/cre65_rspv/css/bootstrap/jquery/jquery-1.9.1.min.js",
+            "lineNumber": 2,
+            "columnNumber": 3265
+          },
+          {
+            "functionName": "H",
+            "scriptId": "21",
+            "url": "https://www.thelogfurniturestore.com/templates/cre65_rspv/css/bootstrap/jquery/jquery-1.9.1.min.js",
+            "lineNumber": 2,
+            "columnNumber": 694
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: $(...).prettyPhoto is not a function\n    at HTMLDocument.<anonymous> (https://www.thelogfurniturestore.com/rawhide-table-lampshade:1236:36)\n    at c (https://www.thelogfurniturestore.com/templates/cre65_rspv/css/bootstrap/jquery/jquery-1.9.1.min.js:3:7857)\n    at Object.fireWith [as resolveWith] (https://www.thelogfurniturestore.com/templates/cre65_rspv/css/bootstrap/jquery/jquery-1.9.1.min.js:3:8658)\n    at Function.ready (https://www.thelogfurniturestore.com/templates/cre65_rspv/css/bootstrap/jquery/jquery-1.9.1.min.js:3:3266)\n    at HTMLDocument.H (https://www.thelogfurniturestore.com/templates/cre65_rspv/css/bootstrap/jquery/jquery-1.9.1.min.js:3:695)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":3}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: $(...).prettyPhoto is not a function\n    at HTMLDocument.<anonymous> (https://www.thelogfurniturestore.com/rawhide-table-lampshade:1236:36)\n    at c (https://www.thelogfurniturestore.com/templates/cre65_rspv/css/bootstrap/jquery/jquery-1.9.1.min.js:3:7857)\n    at Object.fireWith [as resolveWith] (https://www.thelogfurniturestore.com/templates/cre65_rspv/css/bootstrap/jquery/jquery-1.9.1.min.js:3:8658)\n    at Function.ready (https://www.thelogfurniturestore.com/templates/cre65_rspv/css/bootstrap/jquery/jquery-1.9.1.min.js:3:3266)\n    at HTMLDocument.H (https://www.thelogfurniturestore.com/templates/cre65_rspv/css/bootstrap/jquery/jquery-1.9.1.min.js:3:695)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: $(...).prettyPhoto is not a function\n  …v/css/bootstrap/jquery/jquery-1.9.1.min.js:3:695)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "$(...).prettyPhoto is not a function"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

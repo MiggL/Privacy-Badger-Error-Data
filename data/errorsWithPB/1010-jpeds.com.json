@@ -1,0 +1,77 @@
+[
+  {
+    "timestamp": 1583423135305.698,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 687,
+      "columnNumber": 0,
+      "url": "https://www.jpeds.com/wro/if24~product.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "init",
+            "scriptId": "23",
+            "url": "https://www.jpeds.com/wro/if24~product.js",
+            "lineNumber": 687,
+            "columnNumber": 0
+          },
+          {
+            "functionName": "loadWidget",
+            "scriptId": "23",
+            "url": "https://www.jpeds.com/wro/if24~product.js",
+            "lineNumber": 689,
+            "columnNumber": 88
+          },
+          {
+            "functionName": "",
+            "scriptId": "23",
+            "url": "https://www.jpeds.com/wro/if24~product.js",
+            "lineNumber": 690,
+            "columnNumber": 0
+          },
+          {
+            "functionName": "dispatch",
+            "scriptId": "23",
+            "url": "https://www.jpeds.com/wro/if24~product.js",
+            "lineNumber": 2,
+            "columnNumber": 28336
+          },
+          {
+            "functionName": "v.handle",
+            "scriptId": "23",
+            "url": "https://www.jpeds.com/wro/if24~product.js",
+            "lineNumber": 2,
+            "columnNumber": 25041
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: addthis is not defined\n    at init (https://www.jpeds.com/wro/if24~product.js:688:1)\n    at loadWidget (https://www.jpeds.com/wro/if24~product.js:690:89)\n    at https://www.jpeds.com/wro/if24~product.js:691:1\n    at dispatch (https://www.jpeds.com/wro/if24~product.js:3:28337)\n    at v.handle (https://www.jpeds.com/wro/if24~product.js:3:25042)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":3}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: addthis is not defined\n    at init (https://www.jpeds.com/wro/if24~product.js:688:1)\n    at loadWidget (https://www.jpeds.com/wro/if24~product.js:690:89)\n    at https://www.jpeds.com/wro/if24~product.js:691:1\n    at dispatch (https://www.jpeds.com/wro/if24~product.js:3:28337)\n    at v.handle (https://www.jpeds.com/wro/if24~product.js:3:25042)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: addthis is not defined\n    at init…ttps://www.jpeds.com/wro/if24~product.js:3:25042)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "addthis is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

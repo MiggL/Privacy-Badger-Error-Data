@@ -1,0 +1,49 @@
+[
+  {
+    "timestamp": 1582816808749.366,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 0,
+      "columnNumber": 0,
+      "url": "https://dev.livere.co.kr/API_Livere?command=getCount&calltype=refer&consumer_seq=587&livere_seq=14257&refer=english.hani.co.kr%2Farti%2Fenglish_edition%2Fe_business%2F749649.html&liverecallback=jQuery111308297934167243965_1582816800171&_=1582816800172",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "634",
+            "url": "https://dev.livere.co.kr/API_Livere?command=getCount&calltype=refer&consumer_seq=587&livere_seq=14257&refer=english.hani.co.kr%2Farti%2Fenglish_edition%2Fe_business%2F749649.html&liverecallback=jQuery111308297934167243965_1582816800171&_=1582816800172",
+            "lineNumber": 0,
+            "columnNumber": 0
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: jQuery111308297934167243965_1582816800171 is not a function\n    at https://dev.livere.co.kr/API_Livere?command=getCount&calltype=refer&consumer_seq=587&livere_seq=14257&refer=english.hani.co.kr%2Farti%2Fenglish_edition%2Fe_business%2F749649.html&liverecallback=jQuery111308297934167243965_1582816800171&_=1582816800172:1:1",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: jQuery111308297934167243965_1582816800171 is not a function\n    at https://dev.livere.co.kr/API_Livere?command=getCount&calltype=refer&consumer_seq=587&livere_seq=14257&refer=english.hani.co.kr%2Farti%2Fenglish_edition%2Fe_business%2F749649.html&liverecallback=jQuery111308297934167243965_1582816800171&_=1582816800172:1:1",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: jQuery111308297934167243965_15828168001…297934167243965_1582816800171&_=1582816800172:1:1"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "jQuery111308297934167243965_1582816800171 is not a function"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

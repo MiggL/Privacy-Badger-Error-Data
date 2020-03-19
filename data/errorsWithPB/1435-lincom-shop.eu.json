@@ -1,0 +1,56 @@
+[
+  {
+    "timestamp": 1583419098955.791,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 163,
+      "columnNumber": 28,
+      "url": "http://code.etracker.com/a.js?et=fKbuuV",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "k.setReady",
+            "scriptId": "121",
+            "url": "http://code.etracker.com/a.js?et=fKbuuV",
+            "lineNumber": 163,
+            "columnNumber": 28
+          },
+          {
+            "functionName": "",
+            "scriptId": "121",
+            "url": "http://code.etracker.com/a.js?et=fKbuuV",
+            "lineNumber": 189,
+            "columnNumber": 10
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: et_secureId is not defined\n    at k.setReady (http://code.etracker.com/a.js?et=fKbuuV:164:29)\n    at http://code.etracker.com/a.js?et=fKbuuV:190:11",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: et_secureId is not defined\n    at k.setReady (http://code.etracker.com/a.js?et=fKbuuV:164:29)\n    at http://code.etracker.com/a.js?et=fKbuuV:190:11",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: et_secureId is not defined\n    at …at http://code.etracker.com/a.js?et=fKbuuV:190:11"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "et_secureId is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

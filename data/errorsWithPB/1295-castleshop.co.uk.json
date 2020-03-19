@@ -1,0 +1,56 @@
+[
+  {
+    "timestamp": 1583420412834.125,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 70,
+      "columnNumber": 27,
+      "url": "https://www.castleshop.co.uk/js/jquery.fancybox.pack.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "103",
+            "url": "https://www.castleshop.co.uk/js/jquery.fancybox.pack.js",
+            "lineNumber": 70,
+            "columnNumber": 27
+          },
+          {
+            "functionName": "",
+            "scriptId": "103",
+            "url": "https://www.castleshop.co.uk/js/jquery.fancybox.pack.js",
+            "lineNumber": 698,
+            "columnNumber": 2
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'msie' of undefined\n    at https://www.castleshop.co.uk/js/jquery.fancybox.pack.js:71:28\n    at https://www.castleshop.co.uk/js/jquery.fancybox.pack.js:699:3",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'msie' of undefined\n    at https://www.castleshop.co.uk/js/jquery.fancybox.pack.js:71:28\n    at https://www.castleshop.co.uk/js/jquery.fancybox.pack.js:699:3",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'msie' of undefine…castleshop.co.uk/js/jquery.fancybox.pack.js:699:3"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'msie' of undefined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

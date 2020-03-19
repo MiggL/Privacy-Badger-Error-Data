@@ -1,0 +1,64 @@
+[
+  {
+    "timestamp": 1583750098225.532,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 2,
+      "columnNumber": 351,
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "b.onreadystatechange.b.onload",
+            "scriptId": "151",
+            "url": "",
+            "lineNumber": 2,
+            "columnNumber": 351
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'getPlatform' of undefined\n    at HTMLScriptElement.b.onreadystatechange.b.onload [as onreadystatechange] (<anonymous>:3:352)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'getPlatform' of undefined\n    at HTMLScriptElement.b.onreadystatechange.b.onload [as onreadystatechange] (<anonymous>:3:352)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'getPlatform' of u…nload [as onreadystatechange] (<anonymous>:3:352)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'getPlatform' of undefined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583750099629.215,
+    "exceptionDetails": {
+      "exceptionId": 2,
+      "text": "Uncaught (in promise)",
+      "lineNumber": 0,
+      "columnNumber": 0,
+      "scriptId": "1",
+      "url": "https://www.al.com/news/birmingham/2017/02/father_son_killed_in_head-on_c.html",
+      "exception": {
+        "type": "string",
+        "value": "Failed to load script"
+      },
+      "executionContextId": 3
+    }
+  }
+]

@@ -1,0 +1,103 @@
+[
+  {
+    "timestamp": 1583000724267.0542,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 129,
+      "columnNumber": 152,
+      "url": "https://nsidc.org/scripts/jquery/plugins/jquery.fancybox.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "38",
+            "url": "https://nsidc.org/scripts/jquery/plugins/jquery.fancybox.js",
+            "lineNumber": 129,
+            "columnNumber": 152
+          },
+          {
+            "functionName": "",
+            "scriptId": "38",
+            "url": "https://nsidc.org/scripts/jquery/plugins/jquery.fancybox.js",
+            "lineNumber": 1755,
+            "columnNumber": 1
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'msie' of undefined\n    at https://nsidc.org/scripts/jquery/plugins/jquery.fancybox.js:130:153\n    at https://nsidc.org/scripts/jquery/plugins/jquery.fancybox.js:1756:2",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'msie' of undefined\n    at https://nsidc.org/scripts/jquery/plugins/jquery.fancybox.js:130:153\n    at https://nsidc.org/scripts/jquery/plugins/jquery.fancybox.js:1756:2",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'msie' of undefine…/scripts/jquery/plugins/jquery.fancybox.js:1756:2"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'msie' of undefined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583000725384.0781,
+    "exceptionDetails": {
+      "exceptionId": 2,
+      "text": "Uncaught",
+      "lineNumber": 12,
+      "columnNumber": 16,
+      "url": "https://nsidc.org/scripts/global/buildModalDiv.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "buildDiv",
+            "scriptId": "25",
+            "url": "https://nsidc.org/scripts/global/buildModalDiv.js",
+            "lineNumber": 12,
+            "columnNumber": 16
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Failed to execute 'appendChild' on 'Node': parameter 1 is not of type 'Node'.\n    at buildDiv (https://nsidc.org/scripts/global/buildModalDiv.js:13:17)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":2}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Failed to execute 'appendChild' on 'Node': parameter 1 is not of type 'Node'.\n    at buildDiv (https://nsidc.org/scripts/global/buildModalDiv.js:13:17)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Failed to execute 'appendChild' on 'Nod…/nsidc.org/scripts/global/buildModalDiv.js:13:17)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Failed to execute 'appendChild' on 'Node': parameter 1 is not of type 'Node'."
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "timestamp": 1582891425723.981,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 1619,
+      "columnNumber": 20,
+      "url": "http://www.cnbc.com/2015/04/20/how-do-cable-companies-make-their-money.html",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "77",
+            "url": "http://www.cnbc.com/2015/04/20/how-do-cable-companies-make-their-money.html",
+            "lineNumber": 1619,
+            "columnNumber": 20
+          },
+          {
+            "functionName": "",
+            "scriptId": "77",
+            "url": "http://www.cnbc.com/2015/04/20/how-do-cable-companies-make-their-money.html",
+            "lineNumber": 1621,
+            "columnNumber": 1
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'removeEventListener' of null\n    at http://www.cnbc.com/2015/04/20/how-do-cable-companies-make-their-money.html:1620:21\n    at http://www.cnbc.com/2015/04/20/how-do-cable-companies-make-their-money.html:1622:2",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'removeEventListener' of null\n    at http://www.cnbc.com/2015/04/20/how-do-cable-companies-make-their-money.html:1620:21\n    at http://www.cnbc.com/2015/04/20/how-do-cable-companies-make-their-money.html:1622:2",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'removeEventListen…w-do-cable-companies-make-their-money.html:1622:2"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'removeEventListener' of null"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

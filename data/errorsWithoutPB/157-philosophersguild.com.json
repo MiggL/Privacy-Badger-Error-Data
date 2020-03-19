@@ -1,0 +1,44 @@
+[
+  {
+    "timestamp": 1583011957010.484,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught (in promise)",
+      "lineNumber": 0,
+      "columnNumber": 0,
+      "scriptId": "1",
+      "url": "https://philosophersguild.com/collections/pillboxes",
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "DOMException",
+        "description": "DOMException: Background Sync is disabled.",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "DOMException: Background Sync is disabled.",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "code",
+              "type": "number",
+              "value": "0"
+            },
+            {
+              "name": "name",
+              "type": "string",
+              "value": "UnknownError"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Background Sync is disabled."
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

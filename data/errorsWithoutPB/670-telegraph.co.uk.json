@@ -1,0 +1,178 @@
+[
+  {
+    "timestamp": 1583007254803.792,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 155,
+      "columnNumber": 60,
+      "url": "https://www.telegraph.co.uk/news/religion/11939933/First-white-Briton-to-join-al-Qaeda-in-Syria-is-middle-class-Muslim-convert.html",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "document.onreadystatechange",
+            "scriptId": "19",
+            "url": "https://www.telegraph.co.uk/news/religion/11939933/First-white-Briton-to-join-al-Qaeda-in-Syria-is-middle-class-Muslim-convert.html",
+            "lineNumber": 155,
+            "columnNumber": 60
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot set property 'src' of null\n    at HTMLDocument.document.onreadystatechange (https://www.telegraph.co.uk/news/religion/11939933/First-white-Briton-to-join-al-Qaeda-in-Syria-is-middle-class-Muslim-convert.html:156:61)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot set property 'src' of null\n    at HTMLDocument.document.onreadystatechange (https://www.telegraph.co.uk/news/religion/11939933/First-white-Briton-to-join-al-Qaeda-in-Syria-is-middle-class-Muslim-convert.html:156:61)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot set property 'src' of null\n    a…Syria-is-middle-class-Muslim-convert.html:156:61)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot set property 'src' of null"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583007255577.355,
+    "exceptionDetails": {
+      "exceptionId": 2,
+      "text": "Uncaught (in promise)",
+      "lineNumber": 2,
+      "columnNumber": 38130,
+      "url": "https://player.ooyala.com/v3/7dfd98005dba40baacc82277f292e522?platform=html5-fallback",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "n",
+            "scriptId": "163",
+            "url": "https://player.ooyala.com/v3/7dfd98005dba40baacc82277f292e522?platform=html5-fallback",
+            "lineNumber": 2,
+            "columnNumber": 38130
+          },
+          {
+            "functionName": "l",
+            "scriptId": "163",
+            "url": "https://player.ooyala.com/v3/7dfd98005dba40baacc82277f292e522?platform=html5-fallback",
+            "lineNumber": 2,
+            "columnNumber": 38341
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "className": "i",
+        "description": "i",
+        "objectId": "{\"injectedScriptId\":8,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "description": "i",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "code",
+              "type": "number",
+              "value": "1203"
+            },
+            {
+              "name": "name",
+              "type": "string",
+              "value": "SOURCE_NO_SUPPORTED_TECHNOLOGY"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "1203/SOURCE_NO_SUPPORTED_TECHNOLOGY"
+            },
+            {
+              "name": "data",
+              "type": "undefined",
+              "value": "undefined"
+            },
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "SOURCE_NO_SUPPORTED_TECHNOLOGY: 1203/SOURCE_NO_SUP…acc82277f292e522?platform=html5-fallback:9:975313"
+            }
+          ]
+        }
+      },
+      "executionContextId": 8
+    }
+  },
+  {
+    "timestamp": 1583007256715.503,
+    "exceptionDetails": {
+      "exceptionId": 3,
+      "text": "Uncaught",
+      "lineNumber": 155,
+      "columnNumber": 60,
+      "url": "https://www.telegraph.co.uk/news/religion/11939933/First-white-Briton-to-join-al-Qaeda-in-Syria-is-middle-class-Muslim-convert.html",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "document.onreadystatechange",
+            "scriptId": "19",
+            "url": "https://www.telegraph.co.uk/news/religion/11939933/First-white-Briton-to-join-al-Qaeda-in-Syria-is-middle-class-Muslim-convert.html",
+            "lineNumber": 155,
+            "columnNumber": 60
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot set property 'src' of null at HTMLDocument.document.onreadystatechange (https://www.telegraph.co.uk/news/religion/11939933/First-white-Briton-to-join-al-Qaeda-in-Syria-is-middle-class-Muslim-convert.html:156:61)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":2}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot set property 'src' of null at HTMLDocument.document.onreadystatechange (https://www.telegraph.co.uk/news/religion/11939933/First-white-Briton-to-join-al-Qaeda-in-Syria-is-middle-class-Muslim-convert.html:156:61)",
+          "overflow": true,
+          "properties": [
+            {
+              "name": "reported",
+              "type": "boolean",
+              "value": "true"
+            },
+            {
+              "name": "timestamp",
+              "type": "number",
+              "value": "1583007256713"
+            },
+            {
+              "name": "lineNumber",
+              "type": "string",
+              "value": "156"
+            },
+            {
+              "name": "columnNumber",
+              "type": "string",
+              "value": "61"
+            },
+            {
+              "name": "functionName",
+              "type": "string",
+              "value": "HTMLDocument.document.onreadystatechange"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

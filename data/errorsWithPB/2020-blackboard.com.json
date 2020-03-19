@@ -1,0 +1,681 @@
+[
+  {
+    "timestamp": 1582896314202.069,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 4438,
+      "columnNumber": 283,
+      "url": "https://www.googletagmanager.com/gtm.js?id=GTM-KQ8FVX",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "error",
+            "scriptId": "38",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-KQ8FVX",
+            "lineNumber": 4438,
+            "columnNumber": 283
+          },
+          {
+            "functionName": "onerror",
+            "scriptId": "38",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-KQ8FVX",
+            "lineNumber": 4445,
+            "columnNumber": 372
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "className": "Object",
+        "description": "Object",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "description": "Object",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "message",
+              "type": "string",
+              "value": "remote script failed https://vidassets.terminus.services/d95f9997-4381-412a-bf2e-c46c0fbaa640/t.js"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1582896314202.488,
+    "exceptionDetails": {
+      "exceptionId": 2,
+      "text": "Uncaught",
+      "lineNumber": 4438,
+      "columnNumber": 283,
+      "url": "https://www.googletagmanager.com/gtm.js?id=GTM-KQ8FVX",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "error",
+            "scriptId": "38",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-KQ8FVX",
+            "lineNumber": 4438,
+            "columnNumber": 283
+          },
+          {
+            "functionName": "v.qb.onerror",
+            "scriptId": "38",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-KQ8FVX",
+            "lineNumber": 4446,
+            "columnNumber": 496
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "className": "Object",
+        "description": "Object",
+        "objectId": "{\"injectedScriptId\":3,\"id\":2}",
+        "preview": {
+          "type": "object",
+          "description": "Object",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "Eh",
+              "type": "string",
+              "value": "Script error. - :0"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1582896314379.157,
+    "exceptionDetails": {
+      "exceptionId": 3,
+      "text": "Uncaught",
+      "lineNumber": 7,
+      "columnNumber": 251,
+      "url": "https://press.blackboard.com/js/require.min.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "C",
+            "scriptId": "32",
+            "url": "https://press.blackboard.com/js/require.min.js",
+            "lineNumber": 7,
+            "columnNumber": 251
+          },
+          {
+            "functionName": "onScriptError",
+            "scriptId": "32",
+            "url": "https://press.blackboard.com/js/require.min.js",
+            "lineNumber": 28,
+            "columnNumber": 513
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "Error",
+        "description": "Error: Script error for: require.min\nhttp://requirejs.org/docs/errors.html#scripterror\n    at C (https://press.blackboard.com/js/require.min.js:8:252)\n    at HTMLScriptElement.onScriptError (https://press.blackboard.com/js/require.min.js:29:514)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":3}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "Error: Script error for: require.min\nhttp://requirejs.org/docs/errors.html#scripterror\n    at C (https://press.blackboard.com/js/require.min.js:8:252)\n    at HTMLScriptElement.onScriptError (https://press.blackboard.com/js/require.min.js:29:514)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "requireType",
+              "type": "string",
+              "value": "scripterror"
+            },
+            {
+              "name": "requireModules",
+              "type": "object",
+              "value": "Array(1)",
+              "subtype": "array"
+            },
+            {
+              "name": "originalError",
+              "type": "object",
+              "value": "Event"
+            },
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "Error: Script error for: require.min\nhttp://requir…://press.blackboard.com/js/require.min.js:29:514)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Script error for: require.min\nhttp://requirejs.org/docs/errors.html#scripterror"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1582896314379.405,
+    "exceptionDetails": {
+      "exceptionId": 4,
+      "text": "Uncaught",
+      "lineNumber": 4438,
+      "columnNumber": 283,
+      "url": "https://www.googletagmanager.com/gtm.js?id=GTM-KQ8FVX",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "error",
+            "scriptId": "38",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-KQ8FVX",
+            "lineNumber": 4438,
+            "columnNumber": 283
+          },
+          {
+            "functionName": "v.qb.onerror",
+            "scriptId": "38",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-KQ8FVX",
+            "lineNumber": 4446,
+            "columnNumber": 496
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "className": "Object",
+        "description": "Object",
+        "objectId": "{\"injectedScriptId\":3,\"id\":4}",
+        "preview": {
+          "type": "object",
+          "description": "Object",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "Eh",
+              "type": "string",
+              "value": "Uncaught Error: Script error for: require.min\nhttp… https://press.blackboard.com/js/require.min.js:8"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1582896314420.5972,
+    "exceptionDetails": {
+      "exceptionId": 5,
+      "text": "Uncaught",
+      "lineNumber": 7,
+      "columnNumber": 251,
+      "url": "https://press.blackboard.com/js/require.min.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "C",
+            "scriptId": "32",
+            "url": "https://press.blackboard.com/js/require.min.js",
+            "lineNumber": 7,
+            "columnNumber": 251
+          },
+          {
+            "functionName": "onScriptError",
+            "scriptId": "32",
+            "url": "https://press.blackboard.com/js/require.min.js",
+            "lineNumber": 28,
+            "columnNumber": 513
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "Error",
+        "description": "Error: Script error for: jquery.cookie\nhttp://requirejs.org/docs/errors.html#scripterror\n    at C (https://press.blackboard.com/js/require.min.js:8:252)\n    at HTMLScriptElement.onScriptError (https://press.blackboard.com/js/require.min.js:29:514)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":5}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "Error: Script error for: jquery.cookie\nhttp://requirejs.org/docs/errors.html#scripterror\n    at C (https://press.blackboard.com/js/require.min.js:8:252)\n    at HTMLScriptElement.onScriptError (https://press.blackboard.com/js/require.min.js:29:514)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "requireType",
+              "type": "string",
+              "value": "scripterror"
+            },
+            {
+              "name": "requireModules",
+              "type": "object",
+              "value": "Array(1)",
+              "subtype": "array"
+            },
+            {
+              "name": "originalError",
+              "type": "object",
+              "value": "Event"
+            },
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "Error: Script error for: jquery.cookie\nhttp://requ…://press.blackboard.com/js/require.min.js:29:514)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Script error for: jquery.cookie\nhttp://requirejs.org/docs/errors.html#scripterror"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1582896314420.981,
+    "exceptionDetails": {
+      "exceptionId": 6,
+      "text": "Uncaught",
+      "lineNumber": 4438,
+      "columnNumber": 283,
+      "url": "https://www.googletagmanager.com/gtm.js?id=GTM-KQ8FVX",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "error",
+            "scriptId": "38",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-KQ8FVX",
+            "lineNumber": 4438,
+            "columnNumber": 283
+          },
+          {
+            "functionName": "v.qb.onerror",
+            "scriptId": "38",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-KQ8FVX",
+            "lineNumber": 4446,
+            "columnNumber": 496
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "className": "Object",
+        "description": "Object",
+        "objectId": "{\"injectedScriptId\":3,\"id\":6}",
+        "preview": {
+          "type": "object",
+          "description": "Object",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "Eh",
+              "type": "string",
+              "value": "Uncaught Error: Script error for: jquery.cookie\nht… https://press.blackboard.com/js/require.min.js:8"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1582896314429.867,
+    "exceptionDetails": {
+      "exceptionId": 7,
+      "text": "Uncaught",
+      "lineNumber": 7,
+      "columnNumber": 251,
+      "url": "https://press.blackboard.com/js/require.min.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "C",
+            "scriptId": "32",
+            "url": "https://press.blackboard.com/js/require.min.js",
+            "lineNumber": 7,
+            "columnNumber": 251
+          },
+          {
+            "functionName": "onScriptError",
+            "scriptId": "32",
+            "url": "https://press.blackboard.com/js/require.min.js",
+            "lineNumber": 28,
+            "columnNumber": 513
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "Error",
+        "description": "Error: Script error for: jquery.validate\nhttp://requirejs.org/docs/errors.html#scripterror\n    at C (https://press.blackboard.com/js/require.min.js:8:252)\n    at HTMLScriptElement.onScriptError (https://press.blackboard.com/js/require.min.js:29:514)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":7}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "Error: Script error for: jquery.validate\nhttp://requirejs.org/docs/errors.html#scripterror\n    at C (https://press.blackboard.com/js/require.min.js:8:252)\n    at HTMLScriptElement.onScriptError (https://press.blackboard.com/js/require.min.js:29:514)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "requireType",
+              "type": "string",
+              "value": "scripterror"
+            },
+            {
+              "name": "requireModules",
+              "type": "object",
+              "value": "Array(1)",
+              "subtype": "array"
+            },
+            {
+              "name": "originalError",
+              "type": "object",
+              "value": "Event"
+            },
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "Error: Script error for: jquery.validate\nhttp://re…://press.blackboard.com/js/require.min.js:29:514)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Script error for: jquery.validate\nhttp://requirejs.org/docs/errors.html#scripterror"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1582896314430.2412,
+    "exceptionDetails": {
+      "exceptionId": 8,
+      "text": "Uncaught",
+      "lineNumber": 4438,
+      "columnNumber": 283,
+      "url": "https://www.googletagmanager.com/gtm.js?id=GTM-KQ8FVX",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "error",
+            "scriptId": "38",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-KQ8FVX",
+            "lineNumber": 4438,
+            "columnNumber": 283
+          },
+          {
+            "functionName": "v.qb.onerror",
+            "scriptId": "38",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-KQ8FVX",
+            "lineNumber": 4446,
+            "columnNumber": 496
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "className": "Object",
+        "description": "Object",
+        "objectId": "{\"injectedScriptId\":3,\"id\":8}",
+        "preview": {
+          "type": "object",
+          "description": "Object",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "Eh",
+              "type": "string",
+              "value": "Uncaught Error: Script error for: jquery.validate\n… https://press.blackboard.com/js/require.min.js:8"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1582896314587.8179,
+    "exceptionDetails": {
+      "exceptionId": 9,
+      "text": "Uncaught",
+      "lineNumber": 7,
+      "columnNumber": 251,
+      "url": "https://press.blackboard.com/js/require.min.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "C",
+            "scriptId": "32",
+            "url": "https://press.blackboard.com/js/require.min.js",
+            "lineNumber": 7,
+            "columnNumber": 251
+          },
+          {
+            "functionName": "onScriptError",
+            "scriptId": "32",
+            "url": "https://press.blackboard.com/js/require.min.js",
+            "lineNumber": 28,
+            "columnNumber": 513
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "Error",
+        "description": "Error: Script error for: jquery.bxslider\nhttp://requirejs.org/docs/errors.html#scripterror\n    at C (https://press.blackboard.com/js/require.min.js:8:252)\n    at HTMLScriptElement.onScriptError (https://press.blackboard.com/js/require.min.js:29:514)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":9}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "Error: Script error for: jquery.bxslider\nhttp://requirejs.org/docs/errors.html#scripterror\n    at C (https://press.blackboard.com/js/require.min.js:8:252)\n    at HTMLScriptElement.onScriptError (https://press.blackboard.com/js/require.min.js:29:514)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "requireType",
+              "type": "string",
+              "value": "scripterror"
+            },
+            {
+              "name": "requireModules",
+              "type": "object",
+              "value": "Array(1)",
+              "subtype": "array"
+            },
+            {
+              "name": "originalError",
+              "type": "object",
+              "value": "Event"
+            },
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "Error: Script error for: jquery.bxslider\nhttp://re…://press.blackboard.com/js/require.min.js:29:514)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Script error for: jquery.bxslider\nhttp://requirejs.org/docs/errors.html#scripterror"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1582896314588.285,
+    "exceptionDetails": {
+      "exceptionId": 10,
+      "text": "Uncaught",
+      "lineNumber": 4438,
+      "columnNumber": 283,
+      "url": "https://www.googletagmanager.com/gtm.js?id=GTM-KQ8FVX",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "error",
+            "scriptId": "38",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-KQ8FVX",
+            "lineNumber": 4438,
+            "columnNumber": 283
+          },
+          {
+            "functionName": "v.qb.onerror",
+            "scriptId": "38",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-KQ8FVX",
+            "lineNumber": 4446,
+            "columnNumber": 496
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "className": "Object",
+        "description": "Object",
+        "objectId": "{\"injectedScriptId\":3,\"id\":10}",
+        "preview": {
+          "type": "object",
+          "description": "Object",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "Eh",
+              "type": "string",
+              "value": "Uncaught Error: Script error for: jquery.bxslider\n… https://press.blackboard.com/js/require.min.js:8"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1582896314759.36,
+    "exceptionDetails": {
+      "exceptionId": 11,
+      "text": "Uncaught",
+      "lineNumber": 7,
+      "columnNumber": 251,
+      "url": "https://press.blackboard.com/js/require.min.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "C",
+            "scriptId": "32",
+            "url": "https://press.blackboard.com/js/require.min.js",
+            "lineNumber": 7,
+            "columnNumber": 251
+          },
+          {
+            "functionName": "onScriptError",
+            "scriptId": "32",
+            "url": "https://press.blackboard.com/js/require.min.js",
+            "lineNumber": 28,
+            "columnNumber": 513
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "Error",
+        "description": "Error: Script error for: jquery.lazyload\nhttp://requirejs.org/docs/errors.html#scripterror\n    at C (https://press.blackboard.com/js/require.min.js:8:252)\n    at HTMLScriptElement.onScriptError (https://press.blackboard.com/js/require.min.js:29:514)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":11}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "Error: Script error for: jquery.lazyload\nhttp://requirejs.org/docs/errors.html#scripterror\n    at C (https://press.blackboard.com/js/require.min.js:8:252)\n    at HTMLScriptElement.onScriptError (https://press.blackboard.com/js/require.min.js:29:514)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "requireType",
+              "type": "string",
+              "value": "scripterror"
+            },
+            {
+              "name": "requireModules",
+              "type": "object",
+              "value": "Array(1)",
+              "subtype": "array"
+            },
+            {
+              "name": "originalError",
+              "type": "object",
+              "value": "Event"
+            },
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "Error: Script error for: jquery.lazyload\nhttp://re…://press.blackboard.com/js/require.min.js:29:514)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Script error for: jquery.lazyload\nhttp://requirejs.org/docs/errors.html#scripterror"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1582896314759.697,
+    "exceptionDetails": {
+      "exceptionId": 12,
+      "text": "Uncaught",
+      "lineNumber": 4438,
+      "columnNumber": 283,
+      "url": "https://www.googletagmanager.com/gtm.js?id=GTM-KQ8FVX",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "error",
+            "scriptId": "38",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-KQ8FVX",
+            "lineNumber": 4438,
+            "columnNumber": 283
+          },
+          {
+            "functionName": "v.qb.onerror",
+            "scriptId": "38",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-KQ8FVX",
+            "lineNumber": 4446,
+            "columnNumber": 496
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "className": "Object",
+        "description": "Object",
+        "objectId": "{\"injectedScriptId\":3,\"id\":12}",
+        "preview": {
+          "type": "object",
+          "description": "Object",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "Eh",
+              "type": "string",
+              "value": "Uncaught Error: Script error for: jquery.lazyload\n… https://press.blackboard.com/js/require.min.js:8"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

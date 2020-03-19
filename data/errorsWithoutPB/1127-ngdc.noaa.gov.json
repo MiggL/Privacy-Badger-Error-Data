@@ -1,0 +1,49 @@
+[
+  {
+    "timestamp": 1583003052310.909,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 5,
+      "columnNumber": 36,
+      "url": "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/js/bootstrap.min.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "23",
+            "url": "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/js/bootstrap.min.js",
+            "lineNumber": 5,
+            "columnNumber": 36
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "Error",
+        "description": "Error: Bootstrap's JavaScript requires jQuery\n    at https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/js/bootstrap.min.js:6:37",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "Error: Bootstrap's JavaScript requires jQuery\n    at https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/js/bootstrap.min.js:6:37",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "Error: Bootstrap's JavaScript requires jQuery\n    …pcdn.com/bootstrap/3.3.1/js/bootstrap.min.js:6:37"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Bootstrap's JavaScript requires jQuery"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": 1583012979051.423,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 43,
+      "columnNumber": 47,
+      "scriptId": "131",
+      "url": "https://8296686.fls.doubleclick.net/activityi;dc_pre=CM7ApfLe9-cCFda23god6iwMdA;src=8296686;type=sciecema;cat=scien003;ord=6100130366072;gtm=2od2j0;auiddc=2107809032.1583012979;~oref=https%3A%2F%2Fscience.sciencemag.org%2Fcontent%2F310%2F5749%2F805%3Fck%3Dnck?",
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "SyntaxError",
+        "description": "SyntaxError: Unexpected identifier",
+        "objectId": "{\"injectedScriptId\":15,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "SyntaxError: Unexpected identifier",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "SyntaxError: Unexpected identifier"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Unexpected identifier"
+            }
+          ]
+        }
+      },
+      "executionContextId": 15
+    }
+  }
+]

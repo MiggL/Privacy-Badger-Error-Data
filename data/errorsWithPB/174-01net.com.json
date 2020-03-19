@@ -1,0 +1,241 @@
+[
+  {
+    "timestamp": 1583757777580.7048,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 1355,
+      "columnNumber": 4,
+      "url": "https://www.01net.com/telecharger/windows/Bureautique/gestion_k7_dvd_cd_vin/fiches/100490.html",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "63",
+            "url": "https://www.01net.com/telecharger/windows/Bureautique/gestion_k7_dvd_cd_vin/fiches/100490.html",
+            "lineNumber": 1355,
+            "columnNumber": 4
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: pubactive is not defined\n    at https://www.01net.com/telecharger/windows/Bureautique/gestion_k7_dvd_cd_vin/fiches/100490.html:1356:5",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: pubactive is not defined\n    at https://www.01net.com/telecharger/windows/Bureautique/gestion_k7_dvd_cd_vin/fiches/100490.html:1356:5",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: pubactive is not defined\n    at ht…e/gestion_k7_dvd_cd_vin/fiches/100490.html:1356:5"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "pubactive is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583757777681.167,
+    "exceptionDetails": {
+      "exceptionId": 2,
+      "text": "Uncaught",
+      "lineNumber": 1,
+      "columnNumber": 31688,
+      "scriptId": "24",
+      "url": "https://code.jquery.com/jquery-3.2.1.min.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "suggest.insert_box",
+            "scriptId": "22",
+            "url": "https://www.01net.com/build/scripts.min.js",
+            "lineNumber": 1,
+            "columnNumber": 14239
+          },
+          {
+            "functionName": "suggest",
+            "scriptId": "22",
+            "url": "https://www.01net.com/build/scripts.min.js",
+            "lineNumber": 1,
+            "columnNumber": 5188
+          },
+          {
+            "functionName": "",
+            "scriptId": "22",
+            "url": "https://www.01net.com/build/scripts.min.js",
+            "lineNumber": 1,
+            "columnNumber": 13643
+          },
+          {
+            "functionName": "j",
+            "scriptId": "24",
+            "url": "https://code.jquery.com/jquery-3.2.1.min.js",
+            "lineNumber": 1,
+            "columnNumber": 29998
+          },
+          {
+            "functionName": "k",
+            "scriptId": "24",
+            "url": "https://code.jquery.com/jquery-3.2.1.min.js",
+            "lineNumber": 1,
+            "columnNumber": 30312
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: $(...).injectAfter is not a function\n    at suggest.insert_box (https://www.01net.com/build/scripts.min.js:2:14240)\n    at new suggest (https://www.01net.com/build/scripts.min.js:2:5189)\n    at HTMLDocument.<anonymous> (https://www.01net.com/build/scripts.min.js:2:13644)\n    at j (https://code.jquery.com/jquery-3.2.1.min.js:2:29999)\n    at k (https://code.jquery.com/jquery-3.2.1.min.js:2:30313)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":2}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: $(...).injectAfter is not a function\n    at suggest.insert_box (https://www.01net.com/build/scripts.min.js:2:14240)\n    at new suggest (https://www.01net.com/build/scripts.min.js:2:5189)\n    at HTMLDocument.<anonymous> (https://www.01net.com/build/scripts.min.js:2:13644)\n    at j (https://code.jquery.com/jquery-3.2.1.min.js:2:29999)\n    at k (https://code.jquery.com/jquery-3.2.1.min.js:2:30313)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: $(...).injectAfter is not a function\n  …ps://code.jquery.com/jquery-3.2.1.min.js:2:30313)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "$(...).injectAfter is not a function"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583757777681.449,
+    "exceptionDetails": {
+      "exceptionId": 3,
+      "text": "Uncaught",
+      "lineNumber": 1,
+      "columnNumber": 31688,
+      "scriptId": "24",
+      "url": "https://code.jquery.com/jquery-3.2.1.min.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "bulle",
+            "scriptId": "46",
+            "url": "https://www.01net.com/telecharger/windows/Bureautique/gestion_k7_dvd_cd_vin/fiches/100490.html",
+            "lineNumber": 631,
+            "columnNumber": 79
+          },
+          {
+            "functionName": "",
+            "scriptId": "46",
+            "url": "https://www.01net.com/telecharger/windows/Bureautique/gestion_k7_dvd_cd_vin/fiches/100490.html",
+            "lineNumber": 631,
+            "columnNumber": 382
+          },
+          {
+            "functionName": "j",
+            "scriptId": "24",
+            "url": "https://code.jquery.com/jquery-3.2.1.min.js",
+            "lineNumber": 1,
+            "columnNumber": 29998
+          },
+          {
+            "functionName": "k",
+            "scriptId": "24",
+            "url": "https://code.jquery.com/jquery-3.2.1.min.js",
+            "lineNumber": 1,
+            "columnNumber": 30312
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'left' of undefined\n    at bulle (https://www.01net.com/telecharger/windows/Bureautique/gestion_k7_dvd_cd_vin/fiches/100490.html:632:80)\n    at HTMLDocument.<anonymous> (https://www.01net.com/telecharger/windows/Bureautique/gestion_k7_dvd_cd_vin/fiches/100490.html:632:383)\n    at j (https://code.jquery.com/jquery-3.2.1.min.js:2:29999)\n    at k (https://code.jquery.com/jquery-3.2.1.min.js:2:30313)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":3}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'left' of undefined\n    at bulle (https://www.01net.com/telecharger/windows/Bureautique/gestion_k7_dvd_cd_vin/fiches/100490.html:632:80)\n    at HTMLDocument.<anonymous> (https://www.01net.com/telecharger/windows/Bureautique/gestion_k7_dvd_cd_vin/fiches/100490.html:632:383)\n    at j (https://code.jquery.com/jquery-3.2.1.min.js:2:29999)\n    at k (https://code.jquery.com/jquery-3.2.1.min.js:2:30313)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'left' of undefine…ps://code.jquery.com/jquery-3.2.1.min.js:2:30313)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'left' of undefined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583757778006.104,
+    "exceptionDetails": {
+      "exceptionId": 4,
+      "text": "Uncaught",
+      "lineNumber": 189,
+      "columnNumber": 16,
+      "url": "https://www.01net.com/telecharger/windows/Bureautique/gestion_k7_dvd_cd_vin/fiches/100490.html",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "window.onload",
+            "scriptId": "34",
+            "url": "https://www.01net.com/telecharger/windows/Bureautique/gestion_k7_dvd_cd_vin/fiches/100490.html",
+            "lineNumber": 189,
+            "columnNumber": 16
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'set' of null\n    at window.onload (https://www.01net.com/telecharger/windows/Bureautique/gestion_k7_dvd_cd_vin/fiches/100490.html:190:17)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":5}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'set' of null\n    at window.onload (https://www.01net.com/telecharger/windows/Bureautique/gestion_k7_dvd_cd_vin/fiches/100490.html:190:17)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'set' of null\n    …/gestion_k7_dvd_cd_vin/fiches/100490.html:190:17)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'set' of null"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

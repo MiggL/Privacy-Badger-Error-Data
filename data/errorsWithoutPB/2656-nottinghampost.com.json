@@ -1,0 +1,125 @@
+[
+  {
+    "timestamp": 1582898662682.874,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 0,
+      "columnNumber": 212561,
+      "url": "https://quantcast.mgr.consensu.org/v28/cmp.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "t",
+            "scriptId": "98",
+            "url": "https://quantcast.mgr.consensu.org/v28/cmp.js",
+            "lineNumber": 0,
+            "columnNumber": 212561
+          },
+          {
+            "functionName": "",
+            "scriptId": "84",
+            "url": "",
+            "lineNumber": 2,
+            "columnNumber": 215
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'apply' of undefined\n    at t (https://quantcast.mgr.consensu.org/v28/cmp.js:1:212562)\n    at <anonymous>:3:216",
+        "objectId": "{\"injectedScriptId\":3,\"id\":6}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'apply' of undefined\n    at t (https://quantcast.mgr.consensu.org/v28/cmp.js:1:212562)\n    at <anonymous>:3:216",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'apply' of undefin…org/v28/cmp.js:1:212562)\n    at <anonymous>:3:216"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'apply' of undefined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1582898662799.875,
+    "exceptionDetails": {
+      "exceptionId": 2,
+      "text": "Uncaught",
+      "lineNumber": 0,
+      "columnNumber": 0,
+      "scriptId": "129",
+      "url": "https://www.nottinghampost.com/news/local-news/29-nottingham-phrases-you-might-136782",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "window.Node.<computed>.<computed>",
+            "scriptId": "16",
+            "url": "https://scripts.webcontentassessor.com/scripts/97cb40ea2af7e780a18c4c3073ee12c433061d71d5d929f444371d87670c9c77",
+            "lineNumber": 0,
+            "columnNumber": 33311
+          },
+          {
+            "functionName": "c",
+            "scriptId": "102",
+            "url": "https://cdn.exelator.com/build/static.min.js",
+            "lineNumber": 0,
+            "columnNumber": 2275
+          },
+          {
+            "functionName": "s",
+            "scriptId": "102",
+            "url": "https://cdn.exelator.com/build/static.min.js",
+            "lineNumber": 0,
+            "columnNumber": 2150
+          },
+          {
+            "functionName": "t.onreadystatechange",
+            "scriptId": "102",
+            "url": "https://cdn.exelator.com/build/static.min.js",
+            "lineNumber": 0,
+            "columnNumber": 3734
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "SyntaxError",
+        "description": "SyntaxError: Unexpected token '<'\n    at HTMLBodyElement.window.Node.<computed>.<computed> [as appendChild] (https://scripts.webcontentassessor.com/scripts/97cb40ea2af7e780a18c4c3073ee12c433061d71d5d929f444371d87670c9c77:1:33312)\n    at c (https://cdn.exelator.com/build/static.min.js:1:2276)\n    at s (https://cdn.exelator.com/build/static.min.js:1:2151)\n    at XMLHttpRequest.t.onreadystatechange (https://cdn.exelator.com/build/static.min.js:1:3735)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":8}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "SyntaxError: Unexpected token '<'\n    at HTMLBodyElement.window.Node.<computed>.<computed> [as appendChild] (https://scripts.webcontentassessor.com/scripts/97cb40ea2af7e780a18c4c3073ee12c433061d71d5d929f444371d87670c9c77:1:33312)\n    at c (https://cdn.exelator.com/build/static.min.js:1:2276)\n    at s (https://cdn.exelator.com/build/static.min.js:1:2151)\n    at XMLHttpRequest.t.onreadystatechange (https://cdn.exelator.com/build/static.min.js:1:3735)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "SyntaxError: Unexpected token '<'\n    at HTMLBodyE…ps://cdn.exelator.com/build/static.min.js:1:3735)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Unexpected token '<'"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

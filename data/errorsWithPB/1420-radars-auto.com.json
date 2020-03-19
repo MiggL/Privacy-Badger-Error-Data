@@ -1,0 +1,49 @@
+[
+  {
+    "timestamp": 1583419236137.643,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 89,
+      "columnNumber": 67,
+      "url": "https://www.radars-auto.com/carte-radar/",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "onunload",
+            "scriptId": "59",
+            "url": "https://www.radars-auto.com/carte-radar/",
+            "lineNumber": 89,
+            "columnNumber": 67
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: GUnload is not defined\n    at onunload (https://www.radars-auto.com/carte-radar/:90:68)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: GUnload is not defined\n    at onunload (https://www.radars-auto.com/carte-radar/:90:68)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: GUnload is not defined\n    at onun… (https://www.radars-auto.com/carte-radar/:90:68)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "GUnload is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

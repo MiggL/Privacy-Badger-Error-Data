@@ -1,0 +1,85 @@
+[
+  {
+    "timestamp": 1583749670652.833,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 48,
+      "columnNumber": 397,
+      "url": "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "l.da",
+            "scriptId": "22",
+            "url": "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js",
+            "lineNumber": 48,
+            "columnNumber": 397
+          },
+          {
+            "functionName": "wf",
+            "scriptId": "22",
+            "url": "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js",
+            "lineNumber": 56,
+            "columnNumber": 408
+          },
+          {
+            "functionName": "Ik",
+            "scriptId": "22",
+            "url": "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js",
+            "lineNumber": 189,
+            "columnNumber": 469
+          },
+          {
+            "functionName": "",
+            "scriptId": "22",
+            "url": "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js",
+            "lineNumber": 198,
+            "columnNumber": 361
+          },
+          {
+            "functionName": "",
+            "scriptId": "22",
+            "url": "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js",
+            "lineNumber": 198,
+            "columnNumber": 369
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "className": "N",
+        "description": "N",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "description": "N",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "message",
+              "type": "string",
+              "value": "adsbygoogle.push() error: No slot size for availableWidth=0"
+            },
+            {
+              "name": "name",
+              "type": "string",
+              "value": "TagError"
+            },
+            {
+              "name": "pbr",
+              "type": "boolean",
+              "value": "true"
+            },
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TagError: adsbygoogle.push() error: No slot size f…esyndication.com/pagead/js/adsbygoogle.js:199:370"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

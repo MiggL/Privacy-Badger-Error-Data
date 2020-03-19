@@ -1,0 +1,199 @@
+[
+  {
+    "timestamp": 1583418395043.219,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 1,
+      "columnNumber": 16671,
+      "url": "https://www.seattletimes.com/wp-content/themes/st_refresh/js/bundle.min.js?ver=1583258448",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "SEATIMESCO.ads.setUpAdTestConfig",
+            "scriptId": "38",
+            "url": "https://www.seattletimes.com/wp-content/themes/st_refresh/js/bundle.min.js?ver=1583258448",
+            "lineNumber": 1,
+            "columnNumber": 16671
+          },
+          {
+            "functionName": "dataLayer.hide.end",
+            "scriptId": "38",
+            "url": "https://www.seattletimes.com/wp-content/themes/st_refresh/js/bundle.min.js?ver=1583258448",
+            "lineNumber": 1,
+            "columnNumber": 16981
+          },
+          {
+            "functionName": "",
+            "scriptId": "83",
+            "url": "data:application/javascript;base64,KGZ1bmN0aW9uKCkgewoJLy8gaHR0cHM6Ly9kZXZlbG9wZXJzLmdvb2dsZS5jb20vYW5hbHl0aWNzL2Rldmd1aWRlcy9jb2xsZWN0aW9uL2FuYWx5dGljc2pzLwoJdmFyIG5vb3BmbiA9IGZ1bmN0aW9uKCkgewoJCTsKCX07Cgl2YXIgbm9vcG51bGxmbiA9IGZ1bmN0aW9uKCkgewoJCXJldHVybiBudWxsOwoJfTsKCS8vCgl2YXIgVHJhY2tlciA9IGZ1bmN0aW9uKCkgewoJCTsKCX07Cgl2YXIgcCA9IFRyYWNrZXIucHJvdG90eXBlOwoJcC5nZXQgPSBub29wZm47CglwLnNldCA9IG5vb3BmbjsKCXAuc2VuZCA9IG5vb3BmbjsKCS8vCgl2YXIgdyA9IHdpbmRvdywKCQlnYU5hbWUgPSB3Lkdvb2dsZUFuYWx5dGljc09iamVjdCB8fCAnZ2EnOwoJdmFyIGdhID0gZnVuY3Rpb24oKSB7CgkJdmFyIGxlbiA9IGFyZ3VtZW50cy5sZW5ndGg7CgkJaWYgKCBsZW4gPT09IDAgKSB7CgkJCXJldHVybjsKCQl9CgkJdmFyIGYgPSBhcmd1bWVudHNbbGVuLTFdOwoJCWlmICggdHlwZW9mIGYgIT09ICdvYmplY3QnIHx8IGYgPT09IG51bGwgfHwgdHlwZW9mIGYuaGl0Q2FsbGJhY2sgIT09ICdmdW5jdGlvbicgKSB7CgkJCXJldHVybjsKCQl9CgkJdHJ5IHsKCQkJZi5oaXRDYWxsYmFjaygpOwoJCX0gY2F0Y2ggKGV4KSB7CgkJfQoJfTsKCWdhLmNyZWF0ZSA9IGZ1bmN0aW9uKCkgewoJCXJldHVybiBuZXcgVHJhY2tlcigpOwoJfTsKCWdhLmdldEJ5TmFtZSA9IG5vb3BudWxsZm47CglnYS5nZXRBbGwgPSBmdW5jdGlvbigpIHsKCQlyZXR1cm4gW107Cgl9OwoJZ2EucmVtb3ZlID0gbm9vcGZuOwoJLy8gaHR0cHM6Ly9naXRodWIuY29tL3VCbG9ja09yaWdpbi91QXNzZXRzL2lzc3Vlcy8yMTA3CglnYS5sb2FkZWQgPSB0cnVlOwoJd1tnYU5hbWVdID0gZ2E7CgkvLyBodHRwczovL2dpdGh1Yi5jb20vZ29yaGlsbC91QmxvY2svaXNzdWVzLzMwNzUKCXZhciBkbCA9IHcuZGF0YUxheWVyOwoJaWYgKCBkbCBpbnN0YW5jZW9mIE9iamVjdCAmJiBkbC5oaWRlIGluc3RhbmNlb2YgT2JqZWN0ICYmIHR5cGVvZiBkbC5oaWRlLmVuZCA9PT0gJ2Z1bmN0aW9uJyApIHsKCQlkbC5oaWRlLmVuZCgpOwoJfQp9KSgpOw==",
+            "lineNumber": 47,
+            "columnNumber": 10
+          },
+          {
+            "functionName": "",
+            "scriptId": "83",
+            "url": "data:application/javascript;base64,KGZ1bmN0aW9uKCkgewoJLy8gaHR0cHM6Ly9kZXZlbG9wZXJzLmdvb2dsZS5jb20vYW5hbHl0aWNzL2Rldmd1aWRlcy9jb2xsZWN0aW9uL2FuYWx5dGljc2pzLwoJdmFyIG5vb3BmbiA9IGZ1bmN0aW9uKCkgewoJCTsKCX07Cgl2YXIgbm9vcG51bGxmbiA9IGZ1bmN0aW9uKCkgewoJCXJldHVybiBudWxsOwoJfTsKCS8vCgl2YXIgVHJhY2tlciA9IGZ1bmN0aW9uKCkgewoJCTsKCX07Cgl2YXIgcCA9IFRyYWNrZXIucHJvdG90eXBlOwoJcC5nZXQgPSBub29wZm47CglwLnNldCA9IG5vb3BmbjsKCXAuc2VuZCA9IG5vb3BmbjsKCS8vCgl2YXIgdyA9IHdpbmRvdywKCQlnYU5hbWUgPSB3Lkdvb2dsZUFuYWx5dGljc09iamVjdCB8fCAnZ2EnOwoJdmFyIGdhID0gZnVuY3Rpb24oKSB7CgkJdmFyIGxlbiA9IGFyZ3VtZW50cy5sZW5ndGg7CgkJaWYgKCBsZW4gPT09IDAgKSB7CgkJCXJldHVybjsKCQl9CgkJdmFyIGYgPSBhcmd1bWVudHNbbGVuLTFdOwoJCWlmICggdHlwZW9mIGYgIT09ICdvYmplY3QnIHx8IGYgPT09IG51bGwgfHwgdHlwZW9mIGYuaGl0Q2FsbGJhY2sgIT09ICdmdW5jdGlvbicgKSB7CgkJCXJldHVybjsKCQl9CgkJdHJ5IHsKCQkJZi5oaXRDYWxsYmFjaygpOwoJCX0gY2F0Y2ggKGV4KSB7CgkJfQoJfTsKCWdhLmNyZWF0ZSA9IGZ1bmN0aW9uKCkgewoJCXJldHVybiBuZXcgVHJhY2tlcigpOwoJfTsKCWdhLmdldEJ5TmFtZSA9IG5vb3BudWxsZm47CglnYS5nZXRBbGwgPSBmdW5jdGlvbigpIHsKCQlyZXR1cm4gW107Cgl9OwoJZ2EucmVtb3ZlID0gbm9vcGZuOwoJLy8gaHR0cHM6Ly9naXRodWIuY29tL3VCbG9ja09yaWdpbi91QXNzZXRzL2lzc3Vlcy8yMTA3CglnYS5sb2FkZWQgPSB0cnVlOwoJd1tnYU5hbWVdID0gZ2E7CgkvLyBodHRwczovL2dpdGh1Yi5jb20vZ29yaGlsbC91QmxvY2svaXNzdWVzLzMwNzUKCXZhciBkbCA9IHcuZGF0YUxheWVyOwoJaWYgKCBkbCBpbnN0YW5jZW9mIE9iamVjdCAmJiBkbC5oaWRlIGluc3RhbmNlb2YgT2JqZWN0ICYmIHR5cGVvZiBkbC5oaWRlLmVuZCA9PT0gJ2Z1bmN0aW9uJyApIHsKCQlkbC5oaWRlLmVuZCgpOwoJfQp9KSgpOw==",
+            "lineNumber": 49,
+            "columnNumber": 2
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: google_optimize is not defined\n    at Object.SEATIMESCO.ads.setUpAdTestConfig (https://www.seattletimes.com/wp-content/themes/st_refresh/js/bundle.min.js?ver=1583258448:2:16672)\n    at Object.dataLayer.hide.end (https://www.seattletimes.com/wp-content/themes/st_refresh/js/bundle.min.js?ver=1583258448:2:16982)\n    at data:application/javascript;base64,KGZ1bmN0aW9uKCkgewoJLy8gaHR0cHM6Ly9kZXZlbG9wZXJzLmdvb2dsZS5jb20vYW5hbHl0aWNzL2Rldmd1aWRlcy9jb2xsZWN0aW9uL2FuYWx5dGljc2pzLwoJdmFyIG5vb3BmbiA9IGZ1bmN0aW9uKCkgewoJCTsKCX07Cgl2YXIgbm9vcG51bGxmbiA9IGZ1bmN0aW9uKCkgewoJCXJldHVybiBudWxsOwoJfTsKCS8vCgl2YXIgVHJhY2tlciA9IGZ1bmN0aW9uKCkgewoJCTsKCX07Cgl2YXIgcCA9IFRyYWNrZXIucHJvdG90eXBlOwoJcC5nZXQgPSBub29wZm47CglwLnNldCA9IG5vb3BmbjsKCXAuc2VuZCA9IG5vb3BmbjsKCS8vCgl2YXIgdyA9IHdpbmRvdywKCQlnYU5hbWUgPSB3Lkdvb2dsZUFuYWx5dGljc09iamVjdCB8fCAnZ2EnOwoJdmFyIGdhID0gZnVuY3Rpb24oKSB7CgkJdmFyIGxlbiA9IGFyZ3VtZW50cy5sZW5ndGg7CgkJaWYgKCBsZW4gPT09IDAgKSB7CgkJCXJldHVybjsKCQl9CgkJdmFyIGYgPSBhcmd1bWVudHNbbGVuLTFdOwoJCWlmICggdHlwZW9mIGYgIT09ICdvYmplY3QnIHx8IGYgPT09IG51bGwgfHwgdHlwZW9mIGYuaGl0Q2FsbGJhY2sgIT09ICdmdW5jdGlvbicgKSB7CgkJCXJldHVybjsKCQl9CgkJdHJ5IHsKCQkJZi5oaXRDYWxsYmFjaygpOwoJCX0gY2F0Y2ggKGV4KSB7CgkJfQoJfTsKCWdhLmNyZWF0ZSA9IGZ1bmN0aW9uKCkgewoJCXJldHVybiBuZXcgVHJhY2tlcigpOwoJfTsKCWdhLmdldEJ5TmFtZSA9IG5vb3BudWxsZm47CglnYS5nZXRBbGwgPSBmdW5jdGlvbigpIHsKCQlyZXR1cm4gW107Cgl9OwoJZ2EucmVtb3ZlID0gbm9vcGZuOwoJLy8gaHR0cHM6Ly9naXRodWIuY29tL3VCbG9ja09yaWdpbi91QXNzZXRzL2lzc3Vlcy8yMTA3CglnYS5sb2FkZWQgPSB0cnVlOwoJd1tnYU5hbWVdID0gZ2E7CgkvLyBodHRwczovL2dpdGh1Yi5jb20vZ29yaGlsbC91QmxvY2svaXNzdWVzLzMwNzUKCXZhciBkbCA9IHcuZGF0YUxheWVyOwoJaWYgKCBkbCBpbnN0YW5jZW9mIE9iamVjdCAmJiBkbC5oaWRlIGluc3RhbmNlb2YgT2JqZWN0ICYmIHR5cGVvZiBkbC5oaWRlLmVuZCA9PT0gJ2Z1bmN0aW9uJyApIHsKCQlkbC5oaWRlLmVuZCgpOwoJfQp9KSgpOw==:48:11\n    at data:application/javascript;base64,KGZ1bmN0aW9uKCkgewoJLy8gaHR0cHM6Ly9kZXZlbG9wZXJzLmdvb2dsZS5jb20vYW5hbHl0aWNzL2Rldmd1aWRlcy9jb2xsZWN0aW9uL2FuYWx5dGljc2pzLwoJdmFyIG5vb3BmbiA9IGZ1bmN0aW9uKCkgewoJCTsKCX07Cgl2YXIgbm9vcG51bGxmbiA9IGZ1bmN0aW9uKCkgewoJCXJldHVybiBudWxsOwoJfTsKCS8vCgl2YXIgVHJhY2tlciA9IGZ1bmN0aW9uKCkgewoJCTsKCX07Cgl2YXIgcCA9IFRyYWNrZXIucHJvdG90eXBlOwoJcC5nZXQgPSBub29wZm47CglwLnNldCA9IG5vb3BmbjsKCXAuc2VuZCA9IG5vb3BmbjsKCS8vCgl2YXIgdyA9IHdpbmRvdywKCQlnYU5hbWUgPSB3Lkdvb2dsZUFuYWx5dGljc09iamVjdCB8fCAnZ2EnOwoJdmFyIGdhID0gZnVuY3Rpb24oKSB7CgkJdmFyIGxlbiA9IGFyZ3VtZW50cy5sZW5ndGg7CgkJaWYgKCBsZW4gPT09IDAgKSB7CgkJCXJldHVybjsKCQl9CgkJdmFyIGYgPSBhcmd1bWVudHNbbGVuLTFdOwoJCWlmICggdHlwZW9mIGYgIT09ICdvYmplY3QnIHx8IGYgPT09IG51bGwgfHwgdHlwZW9mIGYuaGl0Q2FsbGJhY2sgIT09ICdmdW5jdGlvbicgKSB7CgkJCXJldHVybjsKCQl9CgkJdHJ5IHsKCQkJZi5oaXRDYWxsYmFjaygpOwoJCX0gY2F0Y2ggKGV4KSB7CgkJfQoJfTsKCWdhLmNyZWF0ZSA9IGZ1bmN0aW9uKCkgewoJCXJldHVybiBuZXcgVHJhY2tlcigpOwoJfTsKCWdhLmdldEJ5TmFtZSA9IG5vb3BudWxsZm47CglnYS5nZXRBbGwgPSBmdW5jdGlvbigpIHsKCQlyZXR1cm4gW107Cgl9OwoJZ2EucmVtb3ZlID0gbm9vcGZuOwoJLy8gaHR0cHM6Ly9naXRodWIuY29tL3VCbG9ja09yaWdpbi91QXNzZXRzL2lzc3Vlcy8yMTA3CglnYS5sb2FkZWQgPSB0cnVlOwoJd1tnYU5hbWVdID0gZ2E7CgkvLyBodHRwczovL2dpdGh1Yi5jb20vZ29yaGlsbC91QmxvY2svaXNzdWVzLzMwNzUKCXZhciBkbCA9IHcuZGF0YUxheWVyOwoJaWYgKCBkbCBpbnN0YW5jZW9mIE9iamVjdCAmJiBkbC5oaWRlIGluc3RhbmNlb2YgT2JqZWN0ICYmIHR5cGVvZiBkbC5oaWRlLmVuZCA9PT0gJ2Z1bmN0aW9uJyApIHsKCQlkbC5oaWRlLmVuZCgpOwoJfQp9KSgpOw==:50:3",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: google_optimize is not defined\n    at Object.SEATIMESCO.ads.setUpAdTestConfig (https://www.seattletimes.com/wp-content/themes/st_refresh/js/bundle.min.js?ver=1583258448:2:16672)\n    at Object.dataLayer.hide.end (https://www.seattletimes.com/wp-content/themes/st_refresh/js/bundle.min.js?ver=1583258448:2:16982)\n    at data:application/javascript;base64,KGZ1bmN0aW9uKCkgewoJLy8gaHR0cHM6Ly9kZXZlbG9wZXJzLmdvb2dsZS5jb20vYW5hbHl0aWNzL2Rldmd1aWRlcy9jb2xsZWN0aW9uL2FuYWx5dGljc2pzLwoJdmFyIG5vb3BmbiA9IGZ1bmN0aW9uKCkgewoJCTsKCX07Cgl2YXIgbm9vcG51bGxmbiA9IGZ1bmN0aW9uKCkgewoJCXJldHVybiBudWxsOwoJfTsKCS8vCgl2YXIgVHJhY2tlciA9IGZ1bmN0aW9uKCkgewoJCTsKCX07Cgl2YXIgcCA9IFRyYWNrZXIucHJvdG90eXBlOwoJcC5nZXQgPSBub29wZm47CglwLnNldCA9IG5vb3BmbjsKCXAuc2VuZCA9IG5vb3BmbjsKCS8vCgl2YXIgdyA9IHdpbmRvdywKCQlnYU5hbWUgPSB3Lkdvb2dsZUFuYWx5dGljc09iamVjdCB8fCAnZ2EnOwoJdmFyIGdhID0gZnVuY3Rpb24oKSB7CgkJdmFyIGxlbiA9IGFyZ3VtZW50cy5sZW5ndGg7CgkJaWYgKCBsZW4gPT09IDAgKSB7CgkJCXJldHVybjsKCQl9CgkJdmFyIGYgPSBhcmd1bWVudHNbbGVuLTFdOwoJCWlmICggdHlwZW9mIGYgIT09ICdvYmplY3QnIHx8IGYgPT09IG51bGwgfHwgdHlwZW9mIGYuaGl0Q2FsbGJhY2sgIT09ICdmdW5jdGlvbicgKSB7CgkJCXJldHVybjsKCQl9CgkJdHJ5IHsKCQkJZi5oaXRDYWxsYmFjaygpOwoJCX0gY2F0Y2ggKGV4KSB7CgkJfQoJfTsKCWdhLmNyZWF0ZSA9IGZ1bmN0aW9uKCkgewoJCXJldHVybiBuZXcgVHJhY2tlcigpOwoJfTsKCWdhLmdldEJ5TmFtZSA9IG5vb3BudWxsZm47CglnYS5nZXRBbGwgPSBmdW5jdGlvbigpIHsKCQlyZXR1cm4gW107Cgl9OwoJZ2EucmVtb3ZlID0gbm9vcGZuOwoJLy8gaHR0cHM6Ly9naXRodWIuY29tL3VCbG9ja09yaWdpbi91QXNzZXRzL2lzc3Vlcy8yMTA3CglnYS5sb2FkZWQgPSB0cnVlOwoJd1tnYU5hbWVdID0gZ2E7CgkvLyBodHRwczovL2dpdGh1Yi5jb20vZ29yaGlsbC91QmxvY2svaXNzdWVzLzMwNzUKCXZhciBkbCA9IHcuZGF0YUxheWVyOwoJaWYgKCBkbCBpbnN0YW5jZW9mIE9iamVjdCAmJiBkbC5oaWRlIGluc3RhbmNlb2YgT2JqZWN0ICYmIHR5cGVvZiBkbC5oaWRlLmVuZCA9PT0gJ2Z1bmN0aW9uJyApIHsKCQlkbC5oaWRlLmVuZCgpOwoJfQp9KSgpOw==:48:11\n    at data:application/javascript;base64,KGZ1bmN0aW9uKCkgewoJLy8gaHR0cHM6Ly9kZXZlbG9wZXJzLmdvb2dsZS5jb20vYW5hbHl0aWNzL2Rldmd1aWRlcy9jb2xsZWN0aW9uL2FuYWx5dGljc2pzLwoJdmFyIG5vb3BmbiA9IGZ1bmN0aW9uKCkgewoJCTsKCX07Cgl2YXIgbm9vcG51bGxmbiA9IGZ1bmN0aW9uKCkgewoJCXJldHVybiBudWxsOwoJfTsKCS8vCgl2YXIgVHJhY2tlciA9IGZ1bmN0aW9uKCkgewoJCTsKCX07Cgl2YXIgcCA9IFRyYWNrZXIucHJvdG90eXBlOwoJcC5nZXQgPSBub29wZm47CglwLnNldCA9IG5vb3BmbjsKCXAuc2VuZCA9IG5vb3BmbjsKCS8vCgl2YXIgdyA9IHdpbmRvdywKCQlnYU5hbWUgPSB3Lkdvb2dsZUFuYWx5dGljc09iamVjdCB8fCAnZ2EnOwoJdmFyIGdhID0gZnVuY3Rpb24oKSB7CgkJdmFyIGxlbiA9IGFyZ3VtZW50cy5sZW5ndGg7CgkJaWYgKCBsZW4gPT09IDAgKSB7CgkJCXJldHVybjsKCQl9CgkJdmFyIGYgPSBhcmd1bWVudHNbbGVuLTFdOwoJCWlmICggdHlwZW9mIGYgIT09ICdvYmplY3QnIHx8IGYgPT09IG51bGwgfHwgdHlwZW9mIGYuaGl0Q2FsbGJhY2sgIT09ICdmdW5jdGlvbicgKSB7CgkJCXJldHVybjsKCQl9CgkJdHJ5IHsKCQkJZi5oaXRDYWxsYmFjaygpOwoJCX0gY2F0Y2ggKGV4KSB7CgkJfQoJfTsKCWdhLmNyZWF0ZSA9IGZ1bmN0aW9uKCkgewoJCXJldHVybiBuZXcgVHJhY2tlcigpOwoJfTsKCWdhLmdldEJ5TmFtZSA9IG5vb3BudWxsZm47CglnYS5nZXRBbGwgPSBmdW5jdGlvbigpIHsKCQlyZXR1cm4gW107Cgl9OwoJZ2EucmVtb3ZlID0gbm9vcGZuOwoJLy8gaHR0cHM6Ly9naXRodWIuY29tL3VCbG9ja09yaWdpbi91QXNzZXRzL2lzc3Vlcy8yMTA3CglnYS5sb2FkZWQgPSB0cnVlOwoJd1tnYU5hbWVdID0gZ2E7CgkvLyBodHRwczovL2dpdGh1Yi5jb20vZ29yaGlsbC91QmxvY2svaXNzdWVzLzMwNzUKCXZhciBkbCA9IHcuZGF0YUxheWVyOwoJaWYgKCBkbCBpbnN0YW5jZW9mIE9iamVjdCAmJiBkbC5oaWRlIGluc3RhbmNlb2YgT2JqZWN0ICYmIHR5cGVvZiBkbC5oaWRlLmVuZCA9PT0gJ2Z1bmN0aW9uJyApIHsKCQlkbC5oaWRlLmVuZCgpOwoJfQp9KSgpOw==:50:3",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: google_optimize is not defined\n   …JyApIHsKCQlkbC5oaWRlLmVuZCgpOwoJfQp9KSgpOw==:50:3"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "google_optimize is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583418395079.862,
+    "exceptionDetails": {
+      "exceptionId": 2,
+      "text": "Uncaught",
+      "lineNumber": 1,
+      "columnNumber": 16671,
+      "url": "https://www.seattletimes.com/wp-content/themes/st_refresh/js/bundle.min.js?ver=1583258448",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "SEATIMESCO.ads.setUpAdTestConfig",
+            "scriptId": "38",
+            "url": "https://www.seattletimes.com/wp-content/themes/st_refresh/js/bundle.min.js?ver=1583258448",
+            "lineNumber": 1,
+            "columnNumber": 16671
+          },
+          {
+            "functionName": "dataLayer.hide.end",
+            "scriptId": "38",
+            "url": "https://www.seattletimes.com/wp-content/themes/st_refresh/js/bundle.min.js?ver=1583258448",
+            "lineNumber": 1,
+            "columnNumber": 16981
+          },
+          {
+            "functionName": "",
+            "scriptId": "83",
+            "url": "data:application/javascript;base64,KGZ1bmN0aW9uKCkgewoJLy8gaHR0cHM6Ly9kZXZlbG9wZXJzLmdvb2dsZS5jb20vYW5hbHl0aWNzL2Rldmd1aWRlcy9jb2xsZWN0aW9uL2FuYWx5dGljc2pzLwoJdmFyIG5vb3BmbiA9IGZ1bmN0aW9uKCkgewoJCTsKCX07Cgl2YXIgbm9vcG51bGxmbiA9IGZ1bmN0aW9uKCkgewoJCXJldHVybiBudWxsOwoJfTsKCS8vCgl2YXIgVHJhY2tlciA9IGZ1bmN0aW9uKCkgewoJCTsKCX07Cgl2YXIgcCA9IFRyYWNrZXIucHJvdG90eXBlOwoJcC5nZXQgPSBub29wZm47CglwLnNldCA9IG5vb3BmbjsKCXAuc2VuZCA9IG5vb3BmbjsKCS8vCgl2YXIgdyA9IHdpbmRvdywKCQlnYU5hbWUgPSB3Lkdvb2dsZUFuYWx5dGljc09iamVjdCB8fCAnZ2EnOwoJdmFyIGdhID0gZnVuY3Rpb24oKSB7CgkJdmFyIGxlbiA9IGFyZ3VtZW50cy5sZW5ndGg7CgkJaWYgKCBsZW4gPT09IDAgKSB7CgkJCXJldHVybjsKCQl9CgkJdmFyIGYgPSBhcmd1bWVudHNbbGVuLTFdOwoJCWlmICggdHlwZW9mIGYgIT09ICdvYmplY3QnIHx8IGYgPT09IG51bGwgfHwgdHlwZW9mIGYuaGl0Q2FsbGJhY2sgIT09ICdmdW5jdGlvbicgKSB7CgkJCXJldHVybjsKCQl9CgkJdHJ5IHsKCQkJZi5oaXRDYWxsYmFjaygpOwoJCX0gY2F0Y2ggKGV4KSB7CgkJfQoJfTsKCWdhLmNyZWF0ZSA9IGZ1bmN0aW9uKCkgewoJCXJldHVybiBuZXcgVHJhY2tlcigpOwoJfTsKCWdhLmdldEJ5TmFtZSA9IG5vb3BudWxsZm47CglnYS5nZXRBbGwgPSBmdW5jdGlvbigpIHsKCQlyZXR1cm4gW107Cgl9OwoJZ2EucmVtb3ZlID0gbm9vcGZuOwoJLy8gaHR0cHM6Ly9naXRodWIuY29tL3VCbG9ja09yaWdpbi91QXNzZXRzL2lzc3Vlcy8yMTA3CglnYS5sb2FkZWQgPSB0cnVlOwoJd1tnYU5hbWVdID0gZ2E7CgkvLyBodHRwczovL2dpdGh1Yi5jb20vZ29yaGlsbC91QmxvY2svaXNzdWVzLzMwNzUKCXZhciBkbCA9IHcuZGF0YUxheWVyOwoJaWYgKCBkbCBpbnN0YW5jZW9mIE9iamVjdCAmJiBkbC5oaWRlIGluc3RhbmNlb2YgT2JqZWN0ICYmIHR5cGVvZiBkbC5oaWRlLmVuZCA9PT0gJ2Z1bmN0aW9uJyApIHsKCQlkbC5oaWRlLmVuZCgpOwoJfQp9KSgpOw==",
+            "lineNumber": 47,
+            "columnNumber": 10
+          },
+          {
+            "functionName": "",
+            "scriptId": "83",
+            "url": "data:application/javascript;base64,KGZ1bmN0aW9uKCkgewoJLy8gaHR0cHM6Ly9kZXZlbG9wZXJzLmdvb2dsZS5jb20vYW5hbHl0aWNzL2Rldmd1aWRlcy9jb2xsZWN0aW9uL2FuYWx5dGljc2pzLwoJdmFyIG5vb3BmbiA9IGZ1bmN0aW9uKCkgewoJCTsKCX07Cgl2YXIgbm9vcG51bGxmbiA9IGZ1bmN0aW9uKCkgewoJCXJldHVybiBudWxsOwoJfTsKCS8vCgl2YXIgVHJhY2tlciA9IGZ1bmN0aW9uKCkgewoJCTsKCX07Cgl2YXIgcCA9IFRyYWNrZXIucHJvdG90eXBlOwoJcC5nZXQgPSBub29wZm47CglwLnNldCA9IG5vb3BmbjsKCXAuc2VuZCA9IG5vb3BmbjsKCS8vCgl2YXIgdyA9IHdpbmRvdywKCQlnYU5hbWUgPSB3Lkdvb2dsZUFuYWx5dGljc09iamVjdCB8fCAnZ2EnOwoJdmFyIGdhID0gZnVuY3Rpb24oKSB7CgkJdmFyIGxlbiA9IGFyZ3VtZW50cy5sZW5ndGg7CgkJaWYgKCBsZW4gPT09IDAgKSB7CgkJCXJldHVybjsKCQl9CgkJdmFyIGYgPSBhcmd1bWVudHNbbGVuLTFdOwoJCWlmICggdHlwZW9mIGYgIT09ICdvYmplY3QnIHx8IGYgPT09IG51bGwgfHwgdHlwZW9mIGYuaGl0Q2FsbGJhY2sgIT09ICdmdW5jdGlvbicgKSB7CgkJCXJldHVybjsKCQl9CgkJdHJ5IHsKCQkJZi5oaXRDYWxsYmFjaygpOwoJCX0gY2F0Y2ggKGV4KSB7CgkJfQoJfTsKCWdhLmNyZWF0ZSA9IGZ1bmN0aW9uKCkgewoJCXJldHVybiBuZXcgVHJhY2tlcigpOwoJfTsKCWdhLmdldEJ5TmFtZSA9IG5vb3BudWxsZm47CglnYS5nZXRBbGwgPSBmdW5jdGlvbigpIHsKCQlyZXR1cm4gW107Cgl9OwoJZ2EucmVtb3ZlID0gbm9vcGZuOwoJLy8gaHR0cHM6Ly9naXRodWIuY29tL3VCbG9ja09yaWdpbi91QXNzZXRzL2lzc3Vlcy8yMTA3CglnYS5sb2FkZWQgPSB0cnVlOwoJd1tnYU5hbWVdID0gZ2E7CgkvLyBodHRwczovL2dpdGh1Yi5jb20vZ29yaGlsbC91QmxvY2svaXNzdWVzLzMwNzUKCXZhciBkbCA9IHcuZGF0YUxheWVyOwoJaWYgKCBkbCBpbnN0YW5jZW9mIE9iamVjdCAmJiBkbC5oaWRlIGluc3RhbmNlb2YgT2JqZWN0ICYmIHR5cGVvZiBkbC5oaWRlLmVuZCA9PT0gJ2Z1bmN0aW9uJyApIHsKCQlkbC5oaWRlLmVuZCgpOwoJfQp9KSgpOw==",
+            "lineNumber": 49,
+            "columnNumber": 2
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: google_optimize is not defined\n    at Object.SEATIMESCO.ads.setUpAdTestConfig (https://www.seattletimes.com/wp-content/themes/st_refresh/js/bundle.min.js?ver=1583258448:2:16672)\n    at Object.dataLayer.hide.end (https://www.seattletimes.com/wp-content/themes/st_refresh/js/bundle.min.js?ver=1583258448:2:16982)\n    at data:application/javascript;base64,KGZ1bmN0aW9uKCkgewoJLy8gaHR0cHM6Ly9kZXZlbG9wZXJzLmdvb2dsZS5jb20vYW5hbHl0aWNzL2Rldmd1aWRlcy9jb2xsZWN0aW9uL2FuYWx5dGljc2pzLwoJdmFyIG5vb3BmbiA9IGZ1bmN0aW9uKCkgewoJCTsKCX07Cgl2YXIgbm9vcG51bGxmbiA9IGZ1bmN0aW9uKCkgewoJCXJldHVybiBudWxsOwoJfTsKCS8vCgl2YXIgVHJhY2tlciA9IGZ1bmN0aW9uKCkgewoJCTsKCX07Cgl2YXIgcCA9IFRyYWNrZXIucHJvdG90eXBlOwoJcC5nZXQgPSBub29wZm47CglwLnNldCA9IG5vb3BmbjsKCXAuc2VuZCA9IG5vb3BmbjsKCS8vCgl2YXIgdyA9IHdpbmRvdywKCQlnYU5hbWUgPSB3Lkdvb2dsZUFuYWx5dGljc09iamVjdCB8fCAnZ2EnOwoJdmFyIGdhID0gZnVuY3Rpb24oKSB7CgkJdmFyIGxlbiA9IGFyZ3VtZW50cy5sZW5ndGg7CgkJaWYgKCBsZW4gPT09IDAgKSB7CgkJCXJldHVybjsKCQl9CgkJdmFyIGYgPSBhcmd1bWVudHNbbGVuLTFdOwoJCWlmICggdHlwZW9mIGYgIT09ICdvYmplY3QnIHx8IGYgPT09IG51bGwgfHwgdHlwZW9mIGYuaGl0Q2FsbGJhY2sgIT09ICdmdW5jdGlvbicgKSB7CgkJCXJldHVybjsKCQl9CgkJdHJ5IHsKCQkJZi5oaXRDYWxsYmFjaygpOwoJCX0gY2F0Y2ggKGV4KSB7CgkJfQoJfTsKCWdhLmNyZWF0ZSA9IGZ1bmN0aW9uKCkgewoJCXJldHVybiBuZXcgVHJhY2tlcigpOwoJfTsKCWdhLmdldEJ5TmFtZSA9IG5vb3BudWxsZm47CglnYS5nZXRBbGwgPSBmdW5jdGlvbigpIHsKCQlyZXR1cm4gW107Cgl9OwoJZ2EucmVtb3ZlID0gbm9vcGZuOwoJLy8gaHR0cHM6Ly9naXRodWIuY29tL3VCbG9ja09yaWdpbi91QXNzZXRzL2lzc3Vlcy8yMTA3CglnYS5sb2FkZWQgPSB0cnVlOwoJd1tnYU5hbWVdID0gZ2E7CgkvLyBodHRwczovL2dpdGh1Yi5jb20vZ29yaGlsbC91QmxvY2svaXNzdWVzLzMwNzUKCXZhciBkbCA9IHcuZGF0YUxheWVyOwoJaWYgKCBkbCBpbnN0YW5jZW9mIE9iamVjdCAmJiBkbC5oaWRlIGluc3RhbmNlb2YgT2JqZWN0ICYmIHR5cGVvZiBkbC5oaWRlLmVuZCA9PT0gJ2Z1bmN0aW9uJyApIHsKCQlkbC5oaWRlLmVuZCgpOwoJfQp9KSgpOw==:48:11\n    at data:application/javascript;base64,KGZ1bmN0aW9uKCkgewoJLy8gaHR0cHM6Ly9kZXZlbG9wZXJzLmdvb2dsZS5jb20vYW5hbHl0aWNzL2Rldmd1aWRlcy9jb2xsZWN0aW9uL2FuYWx5dGljc2pzLwoJdmFyIG5vb3BmbiA9IGZ1bmN0aW9uKCkgewoJCTsKCX07Cgl2YXIgbm9vcG51bGxmbiA9IGZ1bmN0aW9uKCkgewoJCXJldHVybiBudWxsOwoJfTsKCS8vCgl2YXIgVHJhY2tlciA9IGZ1bmN0aW9uKCkgewoJCTsKCX07Cgl2YXIgcCA9IFRyYWNrZXIucHJvdG90eXBlOwoJcC5nZXQgPSBub29wZm47CglwLnNldCA9IG5vb3BmbjsKCXAuc2VuZCA9IG5vb3BmbjsKCS8vCgl2YXIgdyA9IHdpbmRvdywKCQlnYU5hbWUgPSB3Lkdvb2dsZUFuYWx5dGljc09iamVjdCB8fCAnZ2EnOwoJdmFyIGdhID0gZnVuY3Rpb24oKSB7CgkJdmFyIGxlbiA9IGFyZ3VtZW50cy5sZW5ndGg7CgkJaWYgKCBsZW4gPT09IDAgKSB7CgkJCXJldHVybjsKCQl9CgkJdmFyIGYgPSBhcmd1bWVudHNbbGVuLTFdOwoJCWlmICggdHlwZW9mIGYgIT09ICdvYmplY3QnIHx8IGYgPT09IG51bGwgfHwgdHlwZW9mIGYuaGl0Q2FsbGJhY2sgIT09ICdmdW5jdGlvbicgKSB7CgkJCXJldHVybjsKCQl9CgkJdHJ5IHsKCQkJZi5oaXRDYWxsYmFjaygpOwoJCX0gY2F0Y2ggKGV4KSB7CgkJfQoJfTsKCWdhLmNyZWF0ZSA9IGZ1bmN0aW9uKCkgewoJCXJldHVybiBuZXcgVHJhY2tlcigpOwoJfTsKCWdhLmdldEJ5TmFtZSA9IG5vb3BudWxsZm47CglnYS5nZXRBbGwgPSBmdW5jdGlvbigpIHsKCQlyZXR1cm4gW107Cgl9OwoJZ2EucmVtb3ZlID0gbm9vcGZuOwoJLy8gaHR0cHM6Ly9naXRodWIuY29tL3VCbG9ja09yaWdpbi91QXNzZXRzL2lzc3Vlcy8yMTA3CglnYS5sb2FkZWQgPSB0cnVlOwoJd1tnYU5hbWVdID0gZ2E7CgkvLyBodHRwczovL2dpdGh1Yi5jb20vZ29yaGlsbC91QmxvY2svaXNzdWVzLzMwNzUKCXZhciBkbCA9IHcuZGF0YUxheWVyOwoJaWYgKCBkbCBpbnN0YW5jZW9mIE9iamVjdCAmJiBkbC5oaWRlIGluc3RhbmNlb2YgT2JqZWN0ICYmIHR5cGVvZiBkbC5oaWRlLmVuZCA9PT0gJ2Z1bmN0aW9uJyApIHsKCQlkbC5oaWRlLmVuZCgpOwoJfQp9KSgpOw==:50:3",
+        "objectId": "{\"injectedScriptId\":3,\"id\":2}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: google_optimize is not defined\n    at Object.SEATIMESCO.ads.setUpAdTestConfig (https://www.seattletimes.com/wp-content/themes/st_refresh/js/bundle.min.js?ver=1583258448:2:16672)\n    at Object.dataLayer.hide.end (https://www.seattletimes.com/wp-content/themes/st_refresh/js/bundle.min.js?ver=1583258448:2:16982)\n    at data:application/javascript;base64,KGZ1bmN0aW9uKCkgewoJLy8gaHR0cHM6Ly9kZXZlbG9wZXJzLmdvb2dsZS5jb20vYW5hbHl0aWNzL2Rldmd1aWRlcy9jb2xsZWN0aW9uL2FuYWx5dGljc2pzLwoJdmFyIG5vb3BmbiA9IGZ1bmN0aW9uKCkgewoJCTsKCX07Cgl2YXIgbm9vcG51bGxmbiA9IGZ1bmN0aW9uKCkgewoJCXJldHVybiBudWxsOwoJfTsKCS8vCgl2YXIgVHJhY2tlciA9IGZ1bmN0aW9uKCkgewoJCTsKCX07Cgl2YXIgcCA9IFRyYWNrZXIucHJvdG90eXBlOwoJcC5nZXQgPSBub29wZm47CglwLnNldCA9IG5vb3BmbjsKCXAuc2VuZCA9IG5vb3BmbjsKCS8vCgl2YXIgdyA9IHdpbmRvdywKCQlnYU5hbWUgPSB3Lkdvb2dsZUFuYWx5dGljc09iamVjdCB8fCAnZ2EnOwoJdmFyIGdhID0gZnVuY3Rpb24oKSB7CgkJdmFyIGxlbiA9IGFyZ3VtZW50cy5sZW5ndGg7CgkJaWYgKCBsZW4gPT09IDAgKSB7CgkJCXJldHVybjsKCQl9CgkJdmFyIGYgPSBhcmd1bWVudHNbbGVuLTFdOwoJCWlmICggdHlwZW9mIGYgIT09ICdvYmplY3QnIHx8IGYgPT09IG51bGwgfHwgdHlwZW9mIGYuaGl0Q2FsbGJhY2sgIT09ICdmdW5jdGlvbicgKSB7CgkJCXJldHVybjsKCQl9CgkJdHJ5IHsKCQkJZi5oaXRDYWxsYmFjaygpOwoJCX0gY2F0Y2ggKGV4KSB7CgkJfQoJfTsKCWdhLmNyZWF0ZSA9IGZ1bmN0aW9uKCkgewoJCXJldHVybiBuZXcgVHJhY2tlcigpOwoJfTsKCWdhLmdldEJ5TmFtZSA9IG5vb3BudWxsZm47CglnYS5nZXRBbGwgPSBmdW5jdGlvbigpIHsKCQlyZXR1cm4gW107Cgl9OwoJZ2EucmVtb3ZlID0gbm9vcGZuOwoJLy8gaHR0cHM6Ly9naXRodWIuY29tL3VCbG9ja09yaWdpbi91QXNzZXRzL2lzc3Vlcy8yMTA3CglnYS5sb2FkZWQgPSB0cnVlOwoJd1tnYU5hbWVdID0gZ2E7CgkvLyBodHRwczovL2dpdGh1Yi5jb20vZ29yaGlsbC91QmxvY2svaXNzdWVzLzMwNzUKCXZhciBkbCA9IHcuZGF0YUxheWVyOwoJaWYgKCBkbCBpbnN0YW5jZW9mIE9iamVjdCAmJiBkbC5oaWRlIGluc3RhbmNlb2YgT2JqZWN0ICYmIHR5cGVvZiBkbC5oaWRlLmVuZCA9PT0gJ2Z1bmN0aW9uJyApIHsKCQlkbC5oaWRlLmVuZCgpOwoJfQp9KSgpOw==:48:11\n    at data:application/javascript;base64,KGZ1bmN0aW9uKCkgewoJLy8gaHR0cHM6Ly9kZXZlbG9wZXJzLmdvb2dsZS5jb20vYW5hbHl0aWNzL2Rldmd1aWRlcy9jb2xsZWN0aW9uL2FuYWx5dGljc2pzLwoJdmFyIG5vb3BmbiA9IGZ1bmN0aW9uKCkgewoJCTsKCX07Cgl2YXIgbm9vcG51bGxmbiA9IGZ1bmN0aW9uKCkgewoJCXJldHVybiBudWxsOwoJfTsKCS8vCgl2YXIgVHJhY2tlciA9IGZ1bmN0aW9uKCkgewoJCTsKCX07Cgl2YXIgcCA9IFRyYWNrZXIucHJvdG90eXBlOwoJcC5nZXQgPSBub29wZm47CglwLnNldCA9IG5vb3BmbjsKCXAuc2VuZCA9IG5vb3BmbjsKCS8vCgl2YXIgdyA9IHdpbmRvdywKCQlnYU5hbWUgPSB3Lkdvb2dsZUFuYWx5dGljc09iamVjdCB8fCAnZ2EnOwoJdmFyIGdhID0gZnVuY3Rpb24oKSB7CgkJdmFyIGxlbiA9IGFyZ3VtZW50cy5sZW5ndGg7CgkJaWYgKCBsZW4gPT09IDAgKSB7CgkJCXJldHVybjsKCQl9CgkJdmFyIGYgPSBhcmd1bWVudHNbbGVuLTFdOwoJCWlmICggdHlwZW9mIGYgIT09ICdvYmplY3QnIHx8IGYgPT09IG51bGwgfHwgdHlwZW9mIGYuaGl0Q2FsbGJhY2sgIT09ICdmdW5jdGlvbicgKSB7CgkJCXJldHVybjsKCQl9CgkJdHJ5IHsKCQkJZi5oaXRDYWxsYmFjaygpOwoJCX0gY2F0Y2ggKGV4KSB7CgkJfQoJfTsKCWdhLmNyZWF0ZSA9IGZ1bmN0aW9uKCkgewoJCXJldHVybiBuZXcgVHJhY2tlcigpOwoJfTsKCWdhLmdldEJ5TmFtZSA9IG5vb3BudWxsZm47CglnYS5nZXRBbGwgPSBmdW5jdGlvbigpIHsKCQlyZXR1cm4gW107Cgl9OwoJZ2EucmVtb3ZlID0gbm9vcGZuOwoJLy8gaHR0cHM6Ly9naXRodWIuY29tL3VCbG9ja09yaWdpbi91QXNzZXRzL2lzc3Vlcy8yMTA3CglnYS5sb2FkZWQgPSB0cnVlOwoJd1tnYU5hbWVdID0gZ2E7CgkvLyBodHRwczovL2dpdGh1Yi5jb20vZ29yaGlsbC91QmxvY2svaXNzdWVzLzMwNzUKCXZhciBkbCA9IHcuZGF0YUxheWVyOwoJaWYgKCBkbCBpbnN0YW5jZW9mIE9iamVjdCAmJiBkbC5oaWRlIGluc3RhbmNlb2YgT2JqZWN0ICYmIHR5cGVvZiBkbC5oaWRlLmVuZCA9PT0gJ2Z1bmN0aW9uJyApIHsKCQlkbC5oaWRlLmVuZCgpOwoJfQp9KSgpOw==:50:3",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: google_optimize is not defined\n   …JyApIHsKCQlkbC5oaWRlLmVuZCgpOwoJfQp9KSgpOw==:50:3"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "google_optimize is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583418396085,
+    "exceptionDetails": {
+      "exceptionId": 3,
+      "text": "Uncaught",
+      "lineNumber": 0,
+      "columnNumber": 9344,
+      "url": "https://www.seattletimes.com/wp-content/plugins/st-advertising/dist/st-advertising-bundle.js?ver=1582236077",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "getGoogleAnalyticsIdFromCookie",
+            "scriptId": "48",
+            "url": "https://www.seattletimes.com/wp-content/plugins/st-advertising/dist/st-advertising-bundle.js?ver=1582236077",
+            "lineNumber": 0,
+            "columnNumber": 9344
+          },
+          {
+            "functionName": "continueSetup",
+            "scriptId": "48",
+            "url": "https://www.seattletimes.com/wp-content/plugins/st-advertising/dist/st-advertising-bundle.js?ver=1582236077",
+            "lineNumber": 0,
+            "columnNumber": 3690
+          },
+          {
+            "functionName": "",
+            "scriptId": "48",
+            "url": "https://www.seattletimes.com/wp-content/plugins/st-advertising/dist/st-advertising-bundle.js?ver=1582236077",
+            "lineNumber": 0,
+            "columnNumber": 2086
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: helpers.getCookie(...).split is not a function\n    at Object.getGoogleAnalyticsIdFromCookie (https://www.seattletimes.com/wp-content/plugins/st-advertising/dist/st-advertising-bundle.js?ver=1582236077:1:9345)\n    at Object.continueSetup (https://www.seattletimes.com/wp-content/plugins/st-advertising/dist/st-advertising-bundle.js?ver=1582236077:1:3691)\n    at https://www.seattletimes.com/wp-content/plugins/st-advertising/dist/st-advertising-bundle.js?ver=1582236077:1:2087",
+        "objectId": "{\"injectedScriptId\":3,\"id\":3}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: helpers.getCookie(...).split is not a function\n    at Object.getGoogleAnalyticsIdFromCookie (https://www.seattletimes.com/wp-content/plugins/st-advertising/dist/st-advertising-bundle.js?ver=1582236077:1:9345)\n    at Object.continueSetup (https://www.seattletimes.com/wp-content/plugins/st-advertising/dist/st-advertising-bundle.js?ver=1582236077:1:3691)\n    at https://www.seattletimes.com/wp-content/plugins/st-advertising/dist/st-advertising-bundle.js?ver=1582236077:1:2087",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: helpers.getCookie(...).split is not a f…st/st-advertising-bundle.js?ver=1582236077:1:2087"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "helpers.getCookie(...).split is not a function"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

@@ -1,0 +1,49 @@
+[
+  {
+    "timestamp": 1583751466381.71,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 15,
+      "columnNumber": 27468,
+      "url": "https://s0.2mdn.net/ads/studio/cached_libs/tweenmax_1.18.0_499ba64a23378545748ff12d372e59e9_min.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "21",
+            "url": "https://s0.2mdn.net/ads/studio/cached_libs/tweenmax_1.18.0_499ba64a23378545748ff12d372e59e9_min.js",
+            "lineNumber": 15,
+            "columnNumber": 27468
+          },
+          {
+            "functionName": "d.to",
+            "scriptId": "21",
+            "url": "https://s0.2mdn.net/ads/studio/cached_libs/tweenmax_1.18.0_499ba64a23378545748ff12d372e59e9_min.js",
+            "lineNumber": 13,
+            "columnNumber": 10269
+          },
+          {
+            "functionName": "init",
+            "scriptId": "23",
+            "url": "http://aka-cdn-ns.adtechus.com/apps/75/Ad0St3Sz529Sq0V1Id25933899/js/main.js",
+            "lineNumber": 24,
+            "columnNumber": 9
+          },
+          {
+            "functionName": "window.onload",
+            "scriptId": "23",
+            "url": "http://aka-cdn-ns.adtechus.com/apps/75/Ad0St3Sz529Sq0V1Id25933899/js/main.js",
+            "lineNumber": 43,
+            "columnNumber": 8
+          }
+        ]
+      },
+      "exception": {
+        "type": "string",
+        "value": "Cannot tween a null target."
+      },
+      "executionContextId": 3
+    }
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "timestamp": 1583416732060.583,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught (in promise)",
+      "lineNumber": 0,
+      "columnNumber": 0,
+      "scriptId": "1",
+      "url": "https://www.dailymotion.com/video/x1z2bnh",
+      "exception": {
+        "type": "string",
+        "value": "No cast extension found"
+      },
+      "executionContextId": 3
+    }
+  }
+]

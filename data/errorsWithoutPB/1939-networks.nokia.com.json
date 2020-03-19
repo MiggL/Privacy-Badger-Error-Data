@@ -1,0 +1,49 @@
+[
+  {
+    "timestamp": 1582814347367.83,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 1507,
+      "columnNumber": 0,
+      "url": "https://networks.nokia.com/src/course/interior-routing-protocols",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "59",
+            "url": "https://networks.nokia.com/src/course/interior-routing-protocols",
+            "lineNumber": 1507,
+            "columnNumber": 0
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: s is not defined\n    at https://networks.nokia.com/src/course/interior-routing-protocols:1508:1",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: s is not defined\n    at https://networks.nokia.com/src/course/interior-routing-protocols:1508:1",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: s is not defined\n    at https://ne….com/src/course/interior-routing-protocols:1508:1"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "s is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

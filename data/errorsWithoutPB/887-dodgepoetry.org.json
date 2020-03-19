@@ -1,0 +1,56 @@
+[
+  {
+    "timestamp": 1583005272569.263,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 207,
+      "columnNumber": 14,
+      "url": "http://www.dodgepoetry.org/typo3conf/ext/t3site/Sites/Main/Resources/Public/Javascript/Usr/instafeed.js?1511984460",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "Instafeed.parse",
+            "scriptId": "15",
+            "url": "http://www.dodgepoetry.org/typo3conf/ext/t3site/Sites/Main/Resources/Public/Javascript/Usr/instafeed.js?1511984460",
+            "lineNumber": 207,
+            "columnNumber": 14
+          },
+          {
+            "functionName": "",
+            "scriptId": "33",
+            "url": "http://www.dodgepoetry.org/?eID=instagram&callback=instafeedCachef4e320bb1137c054.parse/media/popular?client_id=undefined&count=4&callback=instafeedCachef4e320bb1137c054.parse",
+            "lineNumber": 0,
+            "columnNumber": 36
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "Error",
+        "description": "Error: No element with id=\"instafeed\" on page.\n    at Instafeed.parse (http://www.dodgepoetry.org/typo3conf/ext/t3site/Sites/Main/Resources/Public/Javascript/Usr/instafeed.js?1511984460:208:15)\n    at http://www.dodgepoetry.org/?eID=instagram&callback=instafeedCachef4e320bb1137c054.parse/media/popular?client_id=undefined&count=4&callback=instafeedCachef4e320bb1137c054.parse:1:37",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "Error: No element with id=\"instafeed\" on page.\n    at Instafeed.parse (http://www.dodgepoetry.org/typo3conf/ext/t3site/Sites/Main/Resources/Public/Javascript/Usr/instafeed.js?1511984460:208:15)\n    at http://www.dodgepoetry.org/?eID=instagram&callback=instafeedCachef4e320bb1137c054.parse/media/popular?client_id=undefined&count=4&callback=instafeedCachef4e320bb1137c054.parse:1:37",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "Error: No element with id=\"instafeed\" on page.\n   …allback=instafeedCachef4e320bb1137c054.parse:1:37"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "No element with id=\"instafeed\" on page."
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

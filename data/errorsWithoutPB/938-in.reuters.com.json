@@ -1,0 +1,49 @@
+[
+  {
+    "timestamp": 1583004799864.967,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 945,
+      "columnNumber": 283,
+      "url": "https://www.googletagmanager.com/gtm.js?id=GTM-W9SLGS",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "error",
+            "scriptId": "16",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-W9SLGS",
+            "lineNumber": 945,
+            "columnNumber": 283
+          },
+          {
+            "functionName": "v.qb.onerror",
+            "scriptId": "16",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-W9SLGS",
+            "lineNumber": 953,
+            "columnNumber": 496
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "className": "Object",
+        "description": "Object",
+        "objectId": "{\"injectedScriptId\":3,\"id\":2}",
+        "preview": {
+          "type": "object",
+          "description": "Object",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "Eh",
+              "type": "string",
+              "value": "ResizeObserver loop limit exceeded - https://in.re…/article/sport-doping-nado-russia-idINKBN14U2GQ:0"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

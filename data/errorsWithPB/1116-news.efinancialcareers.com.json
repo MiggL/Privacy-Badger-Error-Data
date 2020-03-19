@@ -1,0 +1,147 @@
+[
+  {
+    "timestamp": 1583422146089.9438,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 1,
+      "columnNumber": 82467,
+      "url": "https://code.jquery.com/jquery-3.3.1.min.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "w.fn.load",
+            "scriptId": "22",
+            "url": "https://code.jquery.com/jquery-3.3.1.min.js",
+            "lineNumber": 1,
+            "columnNumber": 82467
+          },
+          {
+            "functionName": "",
+            "scriptId": "51",
+            "url": "",
+            "lineNumber": 0,
+            "columnNumber": 15
+          },
+          {
+            "functionName": "",
+            "scriptId": "33",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-MG62GJ",
+            "lineNumber": 1646,
+            "columnNumber": 413
+          },
+          {
+            "functionName": "c",
+            "scriptId": "33",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-MG62GJ",
+            "lineNumber": 1648,
+            "columnNumber": 151
+          },
+          {
+            "functionName": "Cb",
+            "scriptId": "33",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-MG62GJ",
+            "lineNumber": 1479,
+            "columnNumber": 395
+          },
+          {
+            "functionName": "e",
+            "scriptId": "33",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-MG62GJ",
+            "lineNumber": 1525,
+            "columnNumber": 137
+          },
+          {
+            "functionName": "",
+            "scriptId": "33",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-MG62GJ",
+            "lineNumber": 1468,
+            "columnNumber": 113
+          },
+          {
+            "functionName": "",
+            "scriptId": "33",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-MG62GJ",
+            "lineNumber": 1526,
+            "columnNumber": 228
+          },
+          {
+            "functionName": "",
+            "scriptId": "33",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-MG62GJ",
+            "lineNumber": 1525,
+            "columnNumber": 472
+          },
+          {
+            "functionName": "nf",
+            "scriptId": "33",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-MG62GJ",
+            "lineNumber": 1526,
+            "columnNumber": 517
+          },
+          {
+            "functionName": "pf",
+            "scriptId": "33",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-MG62GJ",
+            "lineNumber": 1528,
+            "columnNumber": 226
+          },
+          {
+            "functionName": "hj",
+            "scriptId": "33",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-MG62GJ",
+            "lineNumber": 1574,
+            "columnNumber": 186
+          },
+          {
+            "functionName": "gj",
+            "scriptId": "33",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-MG62GJ",
+            "lineNumber": 1574,
+            "columnNumber": 0
+          },
+          {
+            "functionName": "ij",
+            "scriptId": "33",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-MG62GJ",
+            "lineNumber": 1576,
+            "columnNumber": 356
+          },
+          {
+            "functionName": "jj",
+            "scriptId": "33",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-MG62GJ",
+            "lineNumber": 1577,
+            "columnNumber": 29
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: e.indexOf is not a function\n    at w.fn.init.w.fn.load (https://code.jquery.com/jquery-3.3.1.min.js:2:82468)\n    at <anonymous>:1:16\n    at https://www.googletagmanager.com/gtm.js?id=GTM-MG62GJ:1647:414\n    at c (https://www.googletagmanager.com/gtm.js?id=GTM-MG62GJ:1649:152)\n    at Cb (https://www.googletagmanager.com/gtm.js?id=GTM-MG62GJ:1480:396)\n    at e (https://www.googletagmanager.com/gtm.js?id=GTM-MG62GJ:1526:138)\n    at https://www.googletagmanager.com/gtm.js?id=GTM-MG62GJ:1469:114\n    at Array.<anonymous> (https://www.googletagmanager.com/gtm.js?id=GTM-MG62GJ:1527:229)\n    at Object.Zf (https://www.googletagmanager.com/gtm.js?id=GTM-MG62GJ:1526:473)\n    at nf (https://www.googletagmanager.com/gtm.js?id=GTM-MG62GJ:1527:518)\n    at pf (https://www.googletagmanager.com/gtm.js?id=GTM-MG62GJ:1529:227)\n    at hj (https://www.googletagmanager.com/gtm.js?id=GTM-MG62GJ:1575:187)\n    at gj (https://www.googletagmanager.com/gtm.js?id=GTM-MG62GJ:1575:1)\n    at ij (https://www.googletagmanager.com/gtm.js?id=GTM-MG62GJ:1577:357)\n    at jj (https://www.googletagmanager.com/gtm.js?id=GTM-MG62GJ:1578:30)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: e.indexOf is not a function\n    at w.fn.init.w.fn.load (https://code.jquery.com/jquery-3.3.1.min.js:2:82468)\n    at <anonymous>:1:16\n    at https://www.googletagmanager.com/gtm.js?id=GTM-MG62GJ:1647:414\n    at c (https://www.googletagmanager.com/gtm.js?id=GTM-MG62GJ:1649:152)\n    at Cb (https://www.googletagmanager.com/gtm.js?id=GTM-MG62GJ:1480:396)\n    at e (https://www.googletagmanager.com/gtm.js?id=GTM-MG62GJ:1526:138)\n    at https://www.googletagmanager.com/gtm.js?id=GTM-MG62GJ:1469:114\n    at Array.<anonymous> (https://www.googletagmanager.com/gtm.js?id=GTM-MG62GJ:1527:229)\n    at Object.Zf (https://www.googletagmanager.com/gtm.js?id=GTM-MG62GJ:1526:473)\n    at nf (https://www.googletagmanager.com/gtm.js?id=GTM-MG62GJ:1527:518)\n    at pf (https://www.googletagmanager.com/gtm.js?id=GTM-MG62GJ:1529:227)\n    at hj (https://www.googletagmanager.com/gtm.js?id=GTM-MG62GJ:1575:187)\n    at gj (https://www.googletagmanager.com/gtm.js?id=GTM-MG62GJ:1575:1)\n    at ij (https://www.googletagmanager.com/gtm.js?id=GTM-MG62GJ:1577:357)\n    at jj (https://www.googletagmanager.com/gtm.js?id=GTM-MG62GJ:1578:30)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: e.indexOf is not a function\n    at w.fn…oogletagmanager.com/gtm.js?id=GTM-MG62GJ:1578:30)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "e.indexOf is not a function"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

@@ -1,0 +1,126 @@
+[
+  {
+    "timestamp": 1583006720861.4631,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 151,
+      "columnNumber": 60,
+      "url": "https://www.telegraph.co.uk/history/world-war-one/11011316/Military-kit-through-the-ages-from-the-Battle-of-Hastings-to-Helmand.html",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "document.onreadystatechange",
+            "scriptId": "18",
+            "url": "https://www.telegraph.co.uk/history/world-war-one/11011316/Military-kit-through-the-ages-from-the-Battle-of-Hastings-to-Helmand.html",
+            "lineNumber": 151,
+            "columnNumber": 60
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot set property 'src' of null at HTMLDocument.document.onreadystatechange (https://www.telegraph.co.uk/history/world-war-one/11011316/Military-kit-through-the-ages-from-the-Battle-of-Hastings-to-Helmand.html:152:61)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot set property 'src' of null at HTMLDocument.document.onreadystatechange (https://www.telegraph.co.uk/history/world-war-one/11011316/Military-kit-through-the-ages-from-the-Battle-of-Hastings-to-Helmand.html:152:61)",
+          "overflow": true,
+          "properties": [
+            {
+              "name": "reported",
+              "type": "boolean",
+              "value": "true"
+            },
+            {
+              "name": "timestamp",
+              "type": "number",
+              "value": "1583006720860"
+            },
+            {
+              "name": "lineNumber",
+              "type": "string",
+              "value": "152"
+            },
+            {
+              "name": "columnNumber",
+              "type": "string",
+              "value": "61"
+            },
+            {
+              "name": "functionName",
+              "type": "string",
+              "value": "HTMLDocument.document.onreadystatechange"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583006722888.385,
+    "exceptionDetails": {
+      "exceptionId": 2,
+      "text": "Uncaught",
+      "lineNumber": 151,
+      "columnNumber": 60,
+      "url": "https://www.telegraph.co.uk/history/world-war-one/11011316/Military-kit-through-the-ages-from-the-Battle-of-Hastings-to-Helmand.html",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "document.onreadystatechange",
+            "scriptId": "18",
+            "url": "https://www.telegraph.co.uk/history/world-war-one/11011316/Military-kit-through-the-ages-from-the-Battle-of-Hastings-to-Helmand.html",
+            "lineNumber": 151,
+            "columnNumber": 60
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot set property 'src' of null at HTMLDocument.document.onreadystatechange (https://www.telegraph.co.uk/history/world-war-one/11011316/Military-kit-through-the-ages-from-the-Battle-of-Hastings-to-Helmand.html:152:61)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":2}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot set property 'src' of null at HTMLDocument.document.onreadystatechange (https://www.telegraph.co.uk/history/world-war-one/11011316/Military-kit-through-the-ages-from-the-Battle-of-Hastings-to-Helmand.html:152:61)",
+          "overflow": true,
+          "properties": [
+            {
+              "name": "reported",
+              "type": "boolean",
+              "value": "true"
+            },
+            {
+              "name": "timestamp",
+              "type": "number",
+              "value": "1583006722887"
+            },
+            {
+              "name": "lineNumber",
+              "type": "string",
+              "value": "152"
+            },
+            {
+              "name": "columnNumber",
+              "type": "string",
+              "value": "61"
+            },
+            {
+              "name": "functionName",
+              "type": "string",
+              "value": "HTMLDocument.document.onreadystatechange"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

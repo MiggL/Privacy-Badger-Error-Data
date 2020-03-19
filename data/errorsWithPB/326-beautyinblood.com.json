@@ -1,0 +1,242 @@
+[
+  {
+    "timestamp": 1583751601322.8928,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 0,
+      "columnNumber": 1,
+      "scriptId": "42",
+      "url": "http://www.beautyinblood.com/",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "f",
+            "scriptId": "26",
+            "url": "http://www.beautyinblood.com/scripts/museutils.js?275725342",
+            "lineNumber": 75,
+            "columnNumber": 134
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "SyntaxError",
+        "description": "SyntaxError: Unexpected token o in JSON at position 1\n    at JSON.parse (<anonymous>)\n    at f (http://www.beautyinblood.com/scripts/museutils.js?275725342:76:135)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "SyntaxError: Unexpected token o in JSON at position 1\n    at JSON.parse (<anonymous>)\n    at f (http://www.beautyinblood.com/scripts/museutils.js?275725342:76:135)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "SyntaxError: Unexpected token o in JSON at positio…nblood.com/scripts/museutils.js?275725342:76:135)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Unexpected token o in JSON at position 1"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583751601386.3489,
+    "exceptionDetails": {
+      "exceptionId": 2,
+      "text": "Uncaught",
+      "lineNumber": 0,
+      "columnNumber": 1,
+      "scriptId": "43",
+      "url": "http://www.beautyinblood.com/",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "f",
+            "scriptId": "26",
+            "url": "http://www.beautyinblood.com/scripts/museutils.js?275725342",
+            "lineNumber": 75,
+            "columnNumber": 134
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "SyntaxError",
+        "description": "SyntaxError: Unexpected token o in JSON at position 1\n    at JSON.parse (<anonymous>)\n    at f (http://www.beautyinblood.com/scripts/museutils.js?275725342:76:135)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":2}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "SyntaxError: Unexpected token o in JSON at position 1\n    at JSON.parse (<anonymous>)\n    at f (http://www.beautyinblood.com/scripts/museutils.js?275725342:76:135)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "SyntaxError: Unexpected token o in JSON at positio…nblood.com/scripts/museutils.js?275725342:76:135)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Unexpected token o in JSON at position 1"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583751601451.745,
+    "exceptionDetails": {
+      "exceptionId": 3,
+      "text": "Uncaught",
+      "lineNumber": 0,
+      "columnNumber": 1,
+      "scriptId": "44",
+      "url": "http://www.beautyinblood.com/",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "f",
+            "scriptId": "26",
+            "url": "http://www.beautyinblood.com/scripts/museutils.js?275725342",
+            "lineNumber": 75,
+            "columnNumber": 134
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "SyntaxError",
+        "description": "SyntaxError: Unexpected token o in JSON at position 1\n    at JSON.parse (<anonymous>)\n    at f (http://www.beautyinblood.com/scripts/museutils.js?275725342:76:135)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":3}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "SyntaxError: Unexpected token o in JSON at position 1\n    at JSON.parse (<anonymous>)\n    at f (http://www.beautyinblood.com/scripts/museutils.js?275725342:76:135)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "SyntaxError: Unexpected token o in JSON at positio…nblood.com/scripts/museutils.js?275725342:76:135)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Unexpected token o in JSON at position 1"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583751601554.456,
+    "exceptionDetails": {
+      "exceptionId": 4,
+      "text": "Uncaught",
+      "lineNumber": 0,
+      "columnNumber": 1,
+      "scriptId": "45",
+      "url": "http://www.beautyinblood.com/",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "f",
+            "scriptId": "26",
+            "url": "http://www.beautyinblood.com/scripts/museutils.js?275725342",
+            "lineNumber": 75,
+            "columnNumber": 134
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "SyntaxError",
+        "description": "SyntaxError: Unexpected token o in JSON at position 1\n    at JSON.parse (<anonymous>)\n    at f (http://www.beautyinblood.com/scripts/museutils.js?275725342:76:135)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":4}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "SyntaxError: Unexpected token o in JSON at position 1\n    at JSON.parse (<anonymous>)\n    at f (http://www.beautyinblood.com/scripts/museutils.js?275725342:76:135)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "SyntaxError: Unexpected token o in JSON at positio…nblood.com/scripts/museutils.js?275725342:76:135)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Unexpected token o in JSON at position 1"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583751601584.378,
+    "exceptionDetails": {
+      "exceptionId": 5,
+      "text": "Uncaught",
+      "lineNumber": 0,
+      "columnNumber": 1,
+      "scriptId": "46",
+      "url": "http://www.beautyinblood.com/",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "f",
+            "scriptId": "26",
+            "url": "http://www.beautyinblood.com/scripts/museutils.js?275725342",
+            "lineNumber": 75,
+            "columnNumber": 134
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "SyntaxError",
+        "description": "SyntaxError: Unexpected token o in JSON at position 1\n    at JSON.parse (<anonymous>)\n    at f (http://www.beautyinblood.com/scripts/museutils.js?275725342:76:135)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":5}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "SyntaxError: Unexpected token o in JSON at position 1\n    at JSON.parse (<anonymous>)\n    at f (http://www.beautyinblood.com/scripts/museutils.js?275725342:76:135)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "SyntaxError: Unexpected token o in JSON at positio…nblood.com/scripts/museutils.js?275725342:76:135)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Unexpected token o in JSON at position 1"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

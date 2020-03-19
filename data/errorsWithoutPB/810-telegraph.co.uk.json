@@ -1,0 +1,49 @@
+[
+  {
+    "timestamp": 1583005972808.21,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 151,
+      "columnNumber": 60,
+      "url": "https://www.telegraph.co.uk/news/religion/9668919/Archbishop-of-Canterbury-You-have-no-future-in-the-Church.html",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "document.onreadystatechange",
+            "scriptId": "18",
+            "url": "https://www.telegraph.co.uk/news/religion/9668919/Archbishop-of-Canterbury-You-have-no-future-in-the-Church.html",
+            "lineNumber": 151,
+            "columnNumber": 60
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot set property 'src' of null\n    at HTMLDocument.document.onreadystatechange (https://www.telegraph.co.uk/news/religion/9668919/Archbishop-of-Canterbury-You-have-no-future-in-the-Church.html:152:61)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot set property 'src' of null\n    at HTMLDocument.document.onreadystatechange (https://www.telegraph.co.uk/news/religion/9668919/Archbishop-of-Canterbury-You-have-no-future-in-the-Church.html:152:61)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot set property 'src' of null\n    a…ury-You-have-no-future-in-the-Church.html:152:61)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot set property 'src' of null"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

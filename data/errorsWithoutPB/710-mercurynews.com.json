@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": 1583006893330.131,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 1120,
+      "columnNumber": 25,
+      "scriptId": "53",
+      "url": "https://www.mercurynews.com/2013/06/04/zoot-suit-riots-sailors-vs-pachucos-a-turning-point-for-latino-culture-in-california/",
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "SyntaxError",
+        "description": "SyntaxError: Unexpected number",
+        "objectId": "{\"injectedScriptId\":3,\"id\":2}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "SyntaxError: Unexpected number",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "SyntaxError: Unexpected number"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Unexpected number"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

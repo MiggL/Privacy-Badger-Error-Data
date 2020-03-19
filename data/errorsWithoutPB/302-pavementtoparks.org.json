@@ -1,0 +1,73 @@
+[
+  {
+    "timestamp": 1583010646271.802,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 523,
+      "columnNumber": 22,
+      "url": "http://pavementtoparks.org/follow/",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "30",
+            "url": "http://pavementtoparks.org/follow/",
+            "lineNumber": 523,
+            "columnNumber": 22
+          },
+          {
+            "functionName": "",
+            "scriptId": "30",
+            "url": "http://pavementtoparks.org/follow/",
+            "lineNumber": 528,
+            "columnNumber": 7
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'addEventListener' of undefined\n    at http://pavementtoparks.org/follow/:524:23\n    at http://pavementtoparks.org/follow/:529:8",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'addEventListener' of undefined\n    at http://pavementtoparks.org/follow/:524:23\n    at http://pavementtoparks.org/follow/:529:8",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'addEventListener'…3\n    at http://pavementtoparks.org/follow/:529:8"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'addEventListener' of undefined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583010646559.8809,
+    "exceptionDetails": {
+      "exceptionId": 2,
+      "text": "Uncaught (in promise)",
+      "lineNumber": 0,
+      "columnNumber": 0,
+      "scriptId": "1",
+      "url": "http://pavementtoparks.org/follow/",
+      "exception": {
+        "type": "object",
+        "subtype": "null",
+        "value": null
+      },
+      "executionContextId": 3
+    }
+  }
+]

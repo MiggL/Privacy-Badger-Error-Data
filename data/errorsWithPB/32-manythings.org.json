@@ -1,0 +1,49 @@
+[
+  {
+    "timestamp": 1583759027323.3298,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 12,
+      "columnNumber": 20,
+      "url": "http://www.manythings.org/sentences/words/sheep/1.html",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "29",
+            "url": "http://www.manythings.org/sentences/words/sheep/1.html",
+            "lineNumber": 12,
+            "columnNumber": 20
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: m is not defined\n    at http://www.manythings.org/sentences/words/sheep/1.html:13:21",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: m is not defined\n    at http://www.manythings.org/sentences/words/sheep/1.html:13:21",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: m is not defined\n    at http://www.manythings.org/sentences/words/sheep/1.html:13:21"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "m is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

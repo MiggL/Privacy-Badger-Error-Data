@@ -1,0 +1,91 @@
+[
+  {
+    "timestamp": 1582922826067.334,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 0,
+      "columnNumber": 164030,
+      "url": "https://cdn.permutive.com/7a1850a3-d5db-4f53-ba9b-43b4aca93b40-web.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "t.buildConfig",
+            "scriptId": "30",
+            "url": "https://cdn.permutive.com/7a1850a3-d5db-4f53-ba9b-43b4aca93b40-web.js",
+            "lineNumber": 0,
+            "columnNumber": 164030
+          },
+          {
+            "functionName": "",
+            "scriptId": "30",
+            "url": "https://cdn.permutive.com/7a1850a3-d5db-4f53-ba9b-43b4aca93b40-web.js",
+            "lineNumber": 0,
+            "columnNumber": 36814
+          },
+          {
+            "functionName": "",
+            "scriptId": "30",
+            "url": "https://cdn.permutive.com/7a1850a3-d5db-4f53-ba9b-43b4aca93b40-web.js",
+            "lineNumber": 0,
+            "columnNumber": 45729
+          },
+          {
+            "functionName": "",
+            "scriptId": "30",
+            "url": "https://cdn.permutive.com/7a1850a3-d5db-4f53-ba9b-43b4aca93b40-web.js",
+            "lineNumber": 0,
+            "columnNumber": 45734
+          },
+          {
+            "functionName": "n",
+            "scriptId": "30",
+            "url": "https://cdn.permutive.com/7a1850a3-d5db-4f53-ba9b-43b4aca93b40-web.js",
+            "lineNumber": 0,
+            "columnNumber": 186
+          },
+          {
+            "functionName": "",
+            "scriptId": "30",
+            "url": "https://cdn.permutive.com/7a1850a3-d5db-4f53-ba9b-43b4aca93b40-web.js",
+            "lineNumber": 0,
+            "columnNumber": 978
+          },
+          {
+            "functionName": "",
+            "scriptId": "30",
+            "url": "https://cdn.permutive.com/7a1850a3-d5db-4f53-ba9b-43b4aca93b40-web.js",
+            "lineNumber": 0,
+            "columnNumber": 988
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'config' of undefined\n    at Object.t.buildConfig (https://cdn.permutive.com/7a1850a3-d5db-4f53-ba9b-43b4aca93b40-web.js:1:164031)\n    at https://cdn.permutive.com/7a1850a3-d5db-4f53-ba9b-43b4aca93b40-web.js:1:36815\n    at Object.<anonymous> (https://cdn.permutive.com/7a1850a3-d5db-4f53-ba9b-43b4aca93b40-web.js:1:45730)\n    at Object.<anonymous> (https://cdn.permutive.com/7a1850a3-d5db-4f53-ba9b-43b4aca93b40-web.js:1:45735)\n    at n (https://cdn.permutive.com/7a1850a3-d5db-4f53-ba9b-43b4aca93b40-web.js:1:187)\n    at https://cdn.permutive.com/7a1850a3-d5db-4f53-ba9b-43b4aca93b40-web.js:1:979\n    at https://cdn.permutive.com/7a1850a3-d5db-4f53-ba9b-43b4aca93b40-web.js:1:989",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'config' of undefined\n    at Object.t.buildConfig (https://cdn.permutive.com/7a1850a3-d5db-4f53-ba9b-43b4aca93b40-web.js:1:164031)\n    at https://cdn.permutive.com/7a1850a3-d5db-4f53-ba9b-43b4aca93b40-web.js:1:36815\n    at Object.<anonymous> (https://cdn.permutive.com/7a1850a3-d5db-4f53-ba9b-43b4aca93b40-web.js:1:45730)\n    at Object.<anonymous> (https://cdn.permutive.com/7a1850a3-d5db-4f53-ba9b-43b4aca93b40-web.js:1:45735)\n    at n (https://cdn.permutive.com/7a1850a3-d5db-4f53-ba9b-43b4aca93b40-web.js:1:187)\n    at https://cdn.permutive.com/7a1850a3-d5db-4f53-ba9b-43b4aca93b40-web.js:1:979\n    at https://cdn.permutive.com/7a1850a3-d5db-4f53-ba9b-43b4aca93b40-web.js:1:989",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'config' of undefi…7a1850a3-d5db-4f53-ba9b-43b4aca93b40-web.js:1:989"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'config' of undefined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

@@ -1,0 +1,49 @@
+[
+  {
+    "timestamp": 1583750837649.62,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 101,
+      "columnNumber": 57,
+      "url": "http://www.motorsinside.com/f1/2016/actualite/20843-Manor-La-reflexion-au-profit-de-la-performance.html",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "30",
+            "url": "http://www.motorsinside.com/f1/2016/actualite/20843-Manor-La-reflexion-au-profit-de-la-performance.html",
+            "lineNumber": 101,
+            "columnNumber": 57
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: opt_value is not defined\n    at http://www.motorsinside.com/f1/2016/actualite/20843-Manor-La-reflexion-au-profit-de-la-performance.html:102:58",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: opt_value is not defined\n    at http://www.motorsinside.com/f1/2016/actualite/20843-Manor-La-reflexion-au-profit-de-la-performance.html:102:58",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: opt_value is not defined\n    at ht…reflexion-au-profit-de-la-performance.html:102:58"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "opt_value is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

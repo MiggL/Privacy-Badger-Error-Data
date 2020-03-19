@@ -1,0 +1,49 @@
+[
+  {
+    "timestamp": 1583011425434.932,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 524,
+      "columnNumber": 69,
+      "url": "https://www.espace-loggia.com/fr/accueil.html",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "25",
+            "url": "https://www.espace-loggia.com/fr/accueil.html",
+            "lineNumber": 524,
+            "columnNumber": 69
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: cookieChoices is not defined\n    at HTMLDocument.<anonymous> (https://www.espace-loggia.com/fr/accueil.html:525:70)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: cookieChoices is not defined\n    at HTMLDocument.<anonymous> (https://www.espace-loggia.com/fr/accueil.html:525:70)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: cookieChoices is not defined\n    a…s://www.espace-loggia.com/fr/accueil.html:525:70)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "cookieChoices is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

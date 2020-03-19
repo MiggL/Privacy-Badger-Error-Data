@@ -1,0 +1,49 @@
+[
+  {
+    "timestamp": 1582816080781.177,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 51,
+      "columnNumber": 18,
+      "url": "https://www.irishexaminer.com/assets/js/ads/ads.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "18",
+            "url": "https://www.irishexaminer.com/assets/js/ads/ads.js",
+            "lineNumber": 51,
+            "columnNumber": 18
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: lazyLoadedAds is not defined\n    at HTMLDocument.<anonymous> (https://www.irishexaminer.com/assets/js/ads/ads.js:52:19)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":2}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: lazyLoadedAds is not defined\n    at HTMLDocument.<anonymous> (https://www.irishexaminer.com/assets/js/ads/ads.js:52:19)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: lazyLoadedAds is not defined\n    a…www.irishexaminer.com/assets/js/ads/ads.js:52:19)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "lazyLoadedAds is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

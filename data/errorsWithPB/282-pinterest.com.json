@@ -1,0 +1,53 @@
+[
+  {
+    "timestamp": 1583756766742.455,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught (in promise)",
+      "lineNumber": 0,
+      "columnNumber": 0,
+      "scriptId": "1",
+      "url": "https://www.pinterest.com/stevefmitchell/cool-stuff/",
+      "exception": {
+        "type": "object",
+        "className": "r",
+        "description": "r",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "description": "r",
+          "overflow": true,
+          "properties": [
+            {
+              "name": "name",
+              "type": "string",
+              "value": "DenzelError"
+            },
+            {
+              "name": "code",
+              "type": "number",
+              "value": "10"
+            },
+            {
+              "name": "http_status",
+              "type": "number",
+              "value": "404"
+            },
+            {
+              "name": "api_error_code",
+              "type": "number",
+              "value": "10"
+            },
+            {
+              "name": "target",
+              "type": "object",
+              "value": "null",
+              "subtype": "null"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

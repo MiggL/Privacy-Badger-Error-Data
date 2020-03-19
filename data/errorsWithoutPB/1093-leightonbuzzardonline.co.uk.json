@@ -1,0 +1,373 @@
+[
+  {
+    "timestamp": 1583003354212.891,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 1,
+      "columnNumber": 0,
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "151",
+            "url": "",
+            "lineNumber": 1,
+            "columnNumber": 0
+          },
+          {
+            "functionName": "",
+            "scriptId": "18",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-5XJ5WX5",
+            "lineNumber": 1852,
+            "columnNumber": 413
+          },
+          {
+            "functionName": "c",
+            "scriptId": "18",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-5XJ5WX5",
+            "lineNumber": 1854,
+            "columnNumber": 151
+          },
+          {
+            "functionName": "nd",
+            "scriptId": "18",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-5XJ5WX5",
+            "lineNumber": 1676,
+            "columnNumber": 395
+          },
+          {
+            "functionName": "e",
+            "scriptId": "18",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-5XJ5WX5",
+            "lineNumber": 1712,
+            "columnNumber": 144
+          },
+          {
+            "functionName": "",
+            "scriptId": "18",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-5XJ5WX5",
+            "lineNumber": 1638,
+            "columnNumber": 113
+          },
+          {
+            "functionName": "",
+            "scriptId": "18",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-5XJ5WX5",
+            "lineNumber": 1713,
+            "columnNumber": 228
+          },
+          {
+            "functionName": "",
+            "scriptId": "18",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-5XJ5WX5",
+            "lineNumber": 1712,
+            "columnNumber": 479
+          },
+          {
+            "functionName": "Uh",
+            "scriptId": "18",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-5XJ5WX5",
+            "lineNumber": 1713,
+            "columnNumber": 517
+          },
+          {
+            "functionName": "Wh",
+            "scriptId": "18",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-5XJ5WX5",
+            "lineNumber": 1715,
+            "columnNumber": 234
+          },
+          {
+            "functionName": "vm",
+            "scriptId": "18",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-5XJ5WX5",
+            "lineNumber": 1767,
+            "columnNumber": 188
+          },
+          {
+            "functionName": "um",
+            "scriptId": "18",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-5XJ5WX5",
+            "lineNumber": 1767,
+            "columnNumber": 0
+          },
+          {
+            "functionName": "wm",
+            "scriptId": "18",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-5XJ5WX5",
+            "lineNumber": 1769,
+            "columnNumber": 243
+          },
+          {
+            "functionName": "a.push",
+            "scriptId": "18",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-5XJ5WX5",
+            "lineNumber": 1771,
+            "columnNumber": 95
+          },
+          {
+            "functionName": "a.push",
+            "scriptId": "45",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-N9NRFKV&l=dataLayer",
+            "lineNumber": 195,
+            "columnNumber": 455
+          },
+          {
+            "functionName": "",
+            "scriptId": "18",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-5XJ5WX5",
+            "lineNumber": 1770,
+            "columnNumber": 216
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: EV is not defined\n    at <anonymous>:2:1\n    at https://www.googletagmanager.com/gtm.js?id=GTM-5XJ5WX5:1853:414\n    at c (https://www.googletagmanager.com/gtm.js?id=GTM-5XJ5WX5:1855:152)\n    at nd (https://www.googletagmanager.com/gtm.js?id=GTM-5XJ5WX5:1677:396)\n    at e (https://www.googletagmanager.com/gtm.js?id=GTM-5XJ5WX5:1713:145)\n    at https://www.googletagmanager.com/gtm.js?id=GTM-5XJ5WX5:1639:114\n    at Array.<anonymous> (https://www.googletagmanager.com/gtm.js?id=GTM-5XJ5WX5:1714:229)\n    at Object.Qb (https://www.googletagmanager.com/gtm.js?id=GTM-5XJ5WX5:1713:480)\n    at Uh (https://www.googletagmanager.com/gtm.js?id=GTM-5XJ5WX5:1714:518)\n    at Wh (https://www.googletagmanager.com/gtm.js?id=GTM-5XJ5WX5:1716:235)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: EV is not defined\n    at <anonymous>:2:1\n    at https://www.googletagmanager.com/gtm.js?id=GTM-5XJ5WX5:1853:414\n    at c (https://www.googletagmanager.com/gtm.js?id=GTM-5XJ5WX5:1855:152)\n    at nd (https://www.googletagmanager.com/gtm.js?id=GTM-5XJ5WX5:1677:396)\n    at e (https://www.googletagmanager.com/gtm.js?id=GTM-5XJ5WX5:1713:145)\n    at https://www.googletagmanager.com/gtm.js?id=GTM-5XJ5WX5:1639:114\n    at Array.<anonymous> (https://www.googletagmanager.com/gtm.js?id=GTM-5XJ5WX5:1714:229)\n    at Object.Qb (https://www.googletagmanager.com/gtm.js?id=GTM-5XJ5WX5:1713:480)\n    at Uh (https://www.googletagmanager.com/gtm.js?id=GTM-5XJ5WX5:1714:518)\n    at Wh (https://www.googletagmanager.com/gtm.js?id=GTM-5XJ5WX5:1716:235)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: EV is not defined\n    at <anonymou…gletagmanager.com/gtm.js?id=GTM-5XJ5WX5:1716:235)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "EV is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583003354213.971,
+    "exceptionDetails": {
+      "exceptionId": 2,
+      "text": "Uncaught",
+      "lineNumber": 7,
+      "columnNumber": 314,
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "bindDataLayerEvent",
+            "scriptId": "152",
+            "url": "",
+            "lineNumber": 7,
+            "columnNumber": 314
+          },
+          {
+            "functionName": "",
+            "scriptId": "152",
+            "url": "",
+            "lineNumber": 7,
+            "columnNumber": 451
+          },
+          {
+            "functionName": "",
+            "scriptId": "18",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-5XJ5WX5",
+            "lineNumber": 1852,
+            "columnNumber": 413
+          },
+          {
+            "functionName": "c",
+            "scriptId": "18",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-5XJ5WX5",
+            "lineNumber": 1854,
+            "columnNumber": 151
+          },
+          {
+            "functionName": "nd",
+            "scriptId": "18",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-5XJ5WX5",
+            "lineNumber": 1676,
+            "columnNumber": 395
+          },
+          {
+            "functionName": "e",
+            "scriptId": "18",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-5XJ5WX5",
+            "lineNumber": 1712,
+            "columnNumber": 144
+          },
+          {
+            "functionName": "",
+            "scriptId": "18",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-5XJ5WX5",
+            "lineNumber": 1638,
+            "columnNumber": 113
+          },
+          {
+            "functionName": "",
+            "scriptId": "18",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-5XJ5WX5",
+            "lineNumber": 1713,
+            "columnNumber": 228
+          },
+          {
+            "functionName": "",
+            "scriptId": "18",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-5XJ5WX5",
+            "lineNumber": 1712,
+            "columnNumber": 479
+          },
+          {
+            "functionName": "Uh",
+            "scriptId": "18",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-5XJ5WX5",
+            "lineNumber": 1713,
+            "columnNumber": 517
+          },
+          {
+            "functionName": "Wh",
+            "scriptId": "18",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-5XJ5WX5",
+            "lineNumber": 1715,
+            "columnNumber": 234
+          },
+          {
+            "functionName": "vm",
+            "scriptId": "18",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-5XJ5WX5",
+            "lineNumber": 1767,
+            "columnNumber": 188
+          },
+          {
+            "functionName": "um",
+            "scriptId": "18",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-5XJ5WX5",
+            "lineNumber": 1767,
+            "columnNumber": 0
+          },
+          {
+            "functionName": "wm",
+            "scriptId": "18",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-5XJ5WX5",
+            "lineNumber": 1769,
+            "columnNumber": 243
+          },
+          {
+            "functionName": "a.push",
+            "scriptId": "18",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-5XJ5WX5",
+            "lineNumber": 1771,
+            "columnNumber": 95
+          },
+          {
+            "functionName": "a.push",
+            "scriptId": "45",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-N9NRFKV&l=dataLayer",
+            "lineNumber": 195,
+            "columnNumber": 455
+          },
+          {
+            "functionName": "",
+            "scriptId": "18",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-5XJ5WX5",
+            "lineNumber": 1770,
+            "columnNumber": 216
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: EV is not defined\n    at bindDataLayerEvent (<anonymous>:8:315)\n    at <anonymous>:8:452\n    at https://www.googletagmanager.com/gtm.js?id=GTM-5XJ5WX5:1853:414\n    at c (https://www.googletagmanager.com/gtm.js?id=GTM-5XJ5WX5:1855:152)\n    at nd (https://www.googletagmanager.com/gtm.js?id=GTM-5XJ5WX5:1677:396)\n    at e (https://www.googletagmanager.com/gtm.js?id=GTM-5XJ5WX5:1713:145)\n    at https://www.googletagmanager.com/gtm.js?id=GTM-5XJ5WX5:1639:114\n    at Array.<anonymous> (https://www.googletagmanager.com/gtm.js?id=GTM-5XJ5WX5:1714:229)\n    at Object.Qb (https://www.googletagmanager.com/gtm.js?id=GTM-5XJ5WX5:1713:480)\n    at Uh (https://www.googletagmanager.com/gtm.js?id=GTM-5XJ5WX5:1714:518)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":2}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: EV is not defined\n    at bindDataLayerEvent (<anonymous>:8:315)\n    at <anonymous>:8:452\n    at https://www.googletagmanager.com/gtm.js?id=GTM-5XJ5WX5:1853:414\n    at c (https://www.googletagmanager.com/gtm.js?id=GTM-5XJ5WX5:1855:152)\n    at nd (https://www.googletagmanager.com/gtm.js?id=GTM-5XJ5WX5:1677:396)\n    at e (https://www.googletagmanager.com/gtm.js?id=GTM-5XJ5WX5:1713:145)\n    at https://www.googletagmanager.com/gtm.js?id=GTM-5XJ5WX5:1639:114\n    at Array.<anonymous> (https://www.googletagmanager.com/gtm.js?id=GTM-5XJ5WX5:1714:229)\n    at Object.Qb (https://www.googletagmanager.com/gtm.js?id=GTM-5XJ5WX5:1713:480)\n    at Uh (https://www.googletagmanager.com/gtm.js?id=GTM-5XJ5WX5:1714:518)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: EV is not defined\n    at bindDataL…gletagmanager.com/gtm.js?id=GTM-5XJ5WX5:1714:518)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "EV is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583003354302.9731,
+    "exceptionDetails": {
+      "exceptionId": 3,
+      "text": "Uncaught",
+      "lineNumber": 0,
+      "columnNumber": 0,
+      "scriptId": "155",
+      "url": "https://www.leightonbuzzardonline.co.uk/news/crime",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "c",
+            "scriptId": "122",
+            "url": "https://cdn.exelator.com/build/static.min.js",
+            "lineNumber": 0,
+            "columnNumber": 2275
+          },
+          {
+            "functionName": "s",
+            "scriptId": "122",
+            "url": "https://cdn.exelator.com/build/static.min.js",
+            "lineNumber": 0,
+            "columnNumber": 2150
+          },
+          {
+            "functionName": "t.onreadystatechange",
+            "scriptId": "122",
+            "url": "https://cdn.exelator.com/build/static.min.js",
+            "lineNumber": 0,
+            "columnNumber": 3734
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "SyntaxError",
+        "description": "SyntaxError: Unexpected token '<'\n    at c (https://cdn.exelator.com/build/static.min.js:1:2276)\n    at s (https://cdn.exelator.com/build/static.min.js:1:2151)\n    at XMLHttpRequest.t.onreadystatechange (https://cdn.exelator.com/build/static.min.js:1:3735)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":3}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "SyntaxError: Unexpected token '<'\n    at c (https://cdn.exelator.com/build/static.min.js:1:2276)\n    at s (https://cdn.exelator.com/build/static.min.js:1:2151)\n    at XMLHttpRequest.t.onreadystatechange (https://cdn.exelator.com/build/static.min.js:1:3735)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "SyntaxError: Unexpected token '<'\n    at c (https:…ps://cdn.exelator.com/build/static.min.js:1:3735)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Unexpected token '<'"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "timestamp": 1583749176665.583,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 56,
+      "columnNumber": 29,
+      "url": "https://des.kar.nic.in/js/scrollplay.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "mq",
+            "scriptId": "24",
+            "url": "https://des.kar.nic.in/js/scrollplay.js",
+            "lineNumber": 56,
+            "columnNumber": 29
+          },
+          {
+            "functionName": "start",
+            "scriptId": "24",
+            "url": "https://des.kar.nic.in/js/scrollplay.js",
+            "lineNumber": 1,
+            "columnNumber": 3
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'getElementsByTagName' of null\n    at new mq (https://des.kar.nic.in/js/scrollplay.js:57:30)\n    at start (https://des.kar.nic.in/js/scrollplay.js:2:4)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'getElementsByTagName' of null\n    at new mq (https://des.kar.nic.in/js/scrollplay.js:57:30)\n    at start (https://des.kar.nic.in/js/scrollplay.js:2:4)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'getElementsByTagN…art (https://des.kar.nic.in/js/scrollplay.js:2:4)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'getElementsByTagName' of null"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

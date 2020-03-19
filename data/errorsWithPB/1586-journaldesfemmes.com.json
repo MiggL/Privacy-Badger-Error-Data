@@ -1,0 +1,183 @@
+[
+  {
+    "timestamp": 1583417702547.16,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught (in promise)",
+      "lineNumber": 0,
+      "columnNumber": 0,
+      "scriptId": "1",
+      "url": "https://www.journaldesfemmes.fr/maman/creches/target/ville-03277",
+      "exception": {
+        "type": "object",
+        "className": "Object",
+        "description": "Object",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "description": "Object",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "url",
+              "type": "string",
+              "value": "//acdn.adnxs.com/ast/ast.js"
+            },
+            {
+              "name": "options",
+              "type": "object",
+              "value": "Object"
+            },
+            {
+              "name": "node",
+              "type": "object",
+              "value": "script",
+              "subtype": "node"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583417702549.219,
+    "exceptionDetails": {
+      "exceptionId": 2,
+      "text": "Uncaught (in promise)",
+      "lineNumber": 0,
+      "columnNumber": 0,
+      "scriptId": "1",
+      "url": "https://www.journaldesfemmes.fr/maman/creches/target/ville-03277",
+      "exception": {
+        "type": "object",
+        "className": "Object",
+        "description": "Object",
+        "objectId": "{\"injectedScriptId\":3,\"id\":2}",
+        "preview": {
+          "type": "object",
+          "description": "Object",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "url",
+              "type": "string",
+              "value": "https://w.estat.com/js/whap.js"
+            },
+            {
+              "name": "options",
+              "type": "object",
+              "value": "Object"
+            },
+            {
+              "name": "node",
+              "type": "object",
+              "value": "script",
+              "subtype": "node"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583417702549.587,
+    "exceptionDetails": {
+      "exceptionId": 3,
+      "text": "Uncaught (in promise)",
+      "lineNumber": 0,
+      "columnNumber": 0,
+      "scriptId": "1",
+      "url": "https://www.journaldesfemmes.fr/maman/creches/target/ville-03277",
+      "exception": {
+        "type": "object",
+        "className": "Object",
+        "description": "Object",
+        "objectId": "{\"injectedScriptId\":3,\"id\":3}",
+        "preview": {
+          "type": "object",
+          "description": "Object",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "url",
+              "type": "string",
+              "value": "https://tag.audience.acpm.fr/js/on-1.0.min.js"
+            },
+            {
+              "name": "options",
+              "type": "object",
+              "value": "Object"
+            },
+            {
+              "name": "node",
+              "type": "object",
+              "value": "script",
+              "subtype": "node"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583417707534.3882,
+    "exceptionDetails": {
+      "exceptionId": 4,
+      "text": "Uncaught (in promise)",
+      "lineNumber": 472,
+      "columnNumber": 134,
+      "url": "https://astatic.ccmbg.com/fc/js/core,lang.fr?v=20200302102536",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "fail",
+            "scriptId": "133",
+            "url": "https://astatic.ccmbg.com/fc/js/core,lang.fr?v=20200302102536",
+            "lineNumber": 472,
+            "columnNumber": 134
+          },
+          {
+            "functionName": "node.onerror",
+            "scriptId": "133",
+            "url": "https://astatic.ccmbg.com/fc/js/core,lang.fr?v=20200302102536",
+            "lineNumber": 473,
+            "columnNumber": 60
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "className": "Object",
+        "description": "Object",
+        "objectId": "{\"injectedScriptId\":3,\"id\":4}",
+        "preview": {
+          "type": "object",
+          "description": "Object",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "url",
+              "type": "string",
+              "value": "//js.agkn.com/prod/v0/tag.js"
+            },
+            {
+              "name": "options",
+              "type": "object",
+              "value": "Object"
+            },
+            {
+              "name": "node",
+              "type": "object",
+              "value": "script",
+              "subtype": "node"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

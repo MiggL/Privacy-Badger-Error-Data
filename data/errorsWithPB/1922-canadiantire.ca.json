@@ -1,0 +1,361 @@
+[
+  {
+    "timestamp": 1582897149195.4119,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 1,
+      "columnNumber": 16560,
+      "scriptId": "30",
+      "url": "https://assets.adobedtm.com/909cca5aa6b75b8ab2fdc451c4284c226f778e4e/scripts/satellite-5b0c630a64746d6e04005aa5.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "a.getPostalCode",
+            "scriptId": "23",
+            "url": "https://www.canadiantire.ca/etc/designs/canadian-tire-general/clientlibs.min.edb97f4ca60c2ea58e86f96d6d8f1234.js",
+            "lineNumber": 12660,
+            "columnNumber": 35
+          },
+          {
+            "functionName": "a.getDeliveryOptions",
+            "scriptId": "23",
+            "url": "https://www.canadiantire.ca/etc/designs/canadian-tire-general/clientlibs.min.edb97f4ca60c2ea58e86f96d6d8f1234.js",
+            "lineNumber": 12653,
+            "columnNumber": 214
+          },
+          {
+            "functionName": "g.deliveryOptionsRequestWrapper",
+            "scriptId": "28",
+            "url": "https://www.canadiantire.ca/etc/clientlibs/dynamic-libs/24c27e21e952d36972a38f8f7a7519f9.min.6457e20913998edd7bf3a611dbabd644.js",
+            "lineNumber": 3147,
+            "columnNumber": 28
+          },
+          {
+            "functionName": "g.skuOrStoreChanged",
+            "scriptId": "28",
+            "url": "https://www.canadiantire.ca/etc/clientlibs/dynamic-libs/24c27e21e952d36972a38f8f7a7519f9.min.6457e20913998edd7bf3a611dbabd644.js",
+            "lineNumber": 3133,
+            "columnNumber": 12
+          },
+          {
+            "functionName": "a",
+            "scriptId": "23",
+            "url": "https://www.canadiantire.ca/etc/designs/canadian-tire-general/clientlibs.min.edb97f4ca60c2ea58e86f96d6d8f1234.js",
+            "lineNumber": 8326,
+            "columnNumber": 110
+          },
+          {
+            "functionName": "g.init",
+            "scriptId": "28",
+            "url": "https://www.canadiantire.ca/etc/clientlibs/dynamic-libs/24c27e21e952d36972a38f8f7a7519f9.min.6457e20913998edd7bf3a611dbabd644.js",
+            "lineNumber": 3094,
+            "columnNumber": 14
+          },
+          {
+            "functionName": "g",
+            "scriptId": "28",
+            "url": "https://www.canadiantire.ca/etc/clientlibs/dynamic-libs/24c27e21e952d36972a38f8f7a7519f9.min.6457e20913998edd7bf3a611dbabd644.js",
+            "lineNumber": 3081,
+            "columnNumber": 5
+          },
+          {
+            "functionName": "b",
+            "scriptId": "23",
+            "url": "https://www.canadiantire.ca/etc/designs/canadian-tire-general/clientlibs.min.edb97f4ca60c2ea58e86f96d6d8f1234.js",
+            "lineNumber": 8197,
+            "columnNumber": 6
+          },
+          {
+            "functionName": "z",
+            "scriptId": "23",
+            "url": "https://www.canadiantire.ca/etc/designs/canadian-tire-general/clientlibs.min.edb97f4ca60c2ea58e86f96d6d8f1234.js",
+            "lineNumber": 8184,
+            "columnNumber": 11
+          },
+          {
+            "functionName": "nrWrapper",
+            "scriptId": "30",
+            "url": "https://assets.adobedtm.com/909cca5aa6b75b8ab2fdc451c4284c226f778e4e/scripts/satellite-5b0c630a64746d6e04005aa5.js",
+            "lineNumber": 1,
+            "columnNumber": 16540
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'storePostalCode' of null\n    at a.getPostalCode (https://www.canadiantire.ca/etc/designs/canadian-tire-general/clientlibs.min.edb97f4ca60c2ea58e86f96d6d8f1234.js:12661:36)\n    at a.getDeliveryOptions (https://www.canadiantire.ca/etc/designs/canadian-tire-general/clientlibs.min.edb97f4ca60c2ea58e86f96d6d8f1234.js:12654:215)\n    at g.deliveryOptionsRequestWrapper (https://www.canadiantire.ca/etc/clientlibs/dynamic-libs/24c27e21e952d36972a38f8f7a7519f9.min.6457e20913998edd7bf3a611dbabd644.js:3148:29)\n    at g.skuOrStoreChanged (https://www.canadiantire.ca/etc/clientlibs/dynamic-libs/24c27e21e952d36972a38f8f7a7519f9.min.6457e20913998edd7bf3a611dbabd644.js:3134:13)\n    at g.a [as subscribe] (https://www.canadiantire.ca/etc/designs/canadian-tire-general/clientlibs.min.edb97f4ca60c2ea58e86f96d6d8f1234.js:8327:111)\n    at g.init (https://www.canadiantire.ca/etc/clientlibs/dynamic-libs/24c27e21e952d36972a38f8f7a7519f9.min.6457e20913998edd7bf3a611dbabd644.js:3095:15)\n    at new g (https://www.canadiantire.ca/etc/clientlibs/dynamic-libs/24c27e21e952d36972a38f8f7a7519f9.min.6457e20913998edd7bf3a611dbabd644.js:3082:6)\n    at Object.b [as _initViewInner] (https://www.canadiantire.ca/etc/designs/canadian-tire-general/clientlibs.min.edb97f4ca60c2ea58e86f96d6d8f1234.js:8198:7)\n    at Object.z (https://www.canadiantire.ca/etc/designs/canadian-tire-general/clientlibs.min.edb97f4ca60c2ea58e86f96d6d8f1234.js:8185:12)\n    at nrWrapper (https://assets.adobedtm.com/909cca5aa6b75b8ab2fdc451c4284c226f778e4e/scripts/satellite-5b0c630a64746d6e04005aa5.js:2:16541)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":17}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'storePostalCode' of null\n    at a.getPostalCode (https://www.canadiantire.ca/etc/designs/canadian-tire-general/clientlibs.min.edb97f4ca60c2ea58e86f96d6d8f1234.js:12661:36)\n    at a.getDeliveryOptions (https://www.canadiantire.ca/etc/designs/canadian-tire-general/clientlibs.min.edb97f4ca60c2ea58e86f96d6d8f1234.js:12654:215)\n    at g.deliveryOptionsRequestWrapper (https://www.canadiantire.ca/etc/clientlibs/dynamic-libs/24c27e21e952d36972a38f8f7a7519f9.min.6457e20913998edd7bf3a611dbabd644.js:3148:29)\n    at g.skuOrStoreChanged (https://www.canadiantire.ca/etc/clientlibs/dynamic-libs/24c27e21e952d36972a38f8f7a7519f9.min.6457e20913998edd7bf3a611dbabd644.js:3134:13)\n    at g.a [as subscribe] (https://www.canadiantire.ca/etc/designs/canadian-tire-general/clientlibs.min.edb97f4ca60c2ea58e86f96d6d8f1234.js:8327:111)\n    at g.init (https://www.canadiantire.ca/etc/clientlibs/dynamic-libs/24c27e21e952d36972a38f8f7a7519f9.min.6457e20913998edd7bf3a611dbabd644.js:3095:15)\n    at new g (https://www.canadiantire.ca/etc/clientlibs/dynamic-libs/24c27e21e952d36972a38f8f7a7519f9.min.6457e20913998edd7bf3a611dbabd644.js:3082:6)\n    at Object.b [as _initViewInner] (https://www.canadiantire.ca/etc/designs/canadian-tire-general/clientlibs.min.edb97f4ca60c2ea58e86f96d6d8f1234.js:8198:7)\n    at Object.z (https://www.canadiantire.ca/etc/designs/canadian-tire-general/clientlibs.min.edb97f4ca60c2ea58e86f96d6d8f1234.js:8185:12)\n    at nrWrapper (https://assets.adobedtm.com/909cca5aa6b75b8ab2fdc451c4284c226f778e4e/scripts/satellite-5b0c630a64746d6e04005aa5.js:2:16541)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'storePostalCode' …ts/satellite-5b0c630a64746d6e04005aa5.js:2:16541)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'storePostalCode' of null"
+            },
+            {
+              "name": "nr@seenError",
+              "type": "boolean",
+              "value": "true"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1582897150252.051,
+    "exceptionDetails": {
+      "exceptionId": 2,
+      "text": "Uncaught",
+      "lineNumber": 1,
+      "columnNumber": 16560,
+      "scriptId": "30",
+      "url": "https://assets.adobedtm.com/909cca5aa6b75b8ab2fdc451c4284c226f778e4e/scripts/satellite-5b0c630a64746d6e04005aa5.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "28",
+            "url": "https://www.canadiantire.ca/etc/clientlibs/dynamic-libs/24c27e21e952d36972a38f8f7a7519f9.min.6457e20913998edd7bf3a611dbabd644.js",
+            "lineNumber": 381,
+            "columnNumber": 53
+          },
+          {
+            "functionName": "",
+            "scriptId": "22",
+            "url": "https://www.canadiantire.ca/etc/designs/canadian-tire-aem-composed-libs/clientlibs.min.dd6246ad2f4594f27b365de8d76e79a3.js",
+            "lineNumber": 832,
+            "columnNumber": 34
+          },
+          {
+            "functionName": "b5",
+            "scriptId": "22",
+            "url": "https://www.canadiantire.ca/etc/designs/canadian-tire-aem-composed-libs/clientlibs.min.dd6246ad2f4594f27b365de8d76e79a3.js",
+            "lineNumber": 783,
+            "columnNumber": 16
+          },
+          {
+            "functionName": "fireWith",
+            "scriptId": "22",
+            "url": "https://www.canadiantire.ca/etc/designs/canadian-tire-aem-composed-libs/clientlibs.min.dd6246ad2f4594f27b365de8d76e79a3.js",
+            "lineNumber": 819,
+            "columnNumber": 6
+          },
+          {
+            "functionName": "e.<computed>",
+            "scriptId": "22",
+            "url": "https://www.canadiantire.ca/etc/designs/canadian-tire-aem-composed-libs/clientlibs.min.dd6246ad2f4594f27b365de8d76e79a3.js",
+            "lineNumber": 846,
+            "columnNumber": 36
+          },
+          {
+            "functionName": "",
+            "scriptId": "23",
+            "url": "https://www.canadiantire.ca/etc/designs/canadian-tire-general/clientlibs.min.edb97f4ca60c2ea58e86f96d6d8f1234.js",
+            "lineNumber": 10365,
+            "columnNumber": 89
+          },
+          {
+            "functionName": "b5",
+            "scriptId": "22",
+            "url": "https://www.canadiantire.ca/etc/designs/canadian-tire-aem-composed-libs/clientlibs.min.dd6246ad2f4594f27b365de8d76e79a3.js",
+            "lineNumber": 783,
+            "columnNumber": 16
+          },
+          {
+            "functionName": "fireWith",
+            "scriptId": "22",
+            "url": "https://www.canadiantire.ca/etc/designs/canadian-tire-aem-composed-libs/clientlibs.min.dd6246ad2f4594f27b365de8d76e79a3.js",
+            "lineNumber": 819,
+            "columnNumber": 6
+          },
+          {
+            "functionName": "cf",
+            "scriptId": "22",
+            "url": "https://www.canadiantire.ca/etc/designs/canadian-tire-aem-composed-libs/clientlibs.min.dd6246ad2f4594f27b365de8d76e79a3.js",
+            "lineNumber": 2420,
+            "columnNumber": 9
+          },
+          {
+            "functionName": "b5",
+            "scriptId": "22",
+            "url": "https://www.canadiantire.ca/etc/designs/canadian-tire-aem-composed-libs/clientlibs.min.dd6246ad2f4594f27b365de8d76e79a3.js",
+            "lineNumber": 2518,
+            "columnNumber": 11
+          },
+          {
+            "functionName": "nrWrapper",
+            "scriptId": "30",
+            "url": "https://assets.adobedtm.com/909cca5aa6b75b8ab2fdc451c4284c226f778e4e/scripts/satellite-5b0c630a64746d6e04005aa5.js",
+            "lineNumber": 1,
+            "columnNumber": 16540
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property '0' of undefined\n    at e.<anonymous> (https://www.canadiantire.ca/etc/clientlibs/dynamic-libs/24c27e21e952d36972a38f8f7a7519f9.min.6457e20913998edd7bf3a611dbabd644.js:382:54)\n    at Object.<anonymous> (https://www.canadiantire.ca/etc/designs/canadian-tire-aem-composed-libs/clientlibs.min.dd6246ad2f4594f27b365de8d76e79a3.js:833:35)\n    at b5 (https://www.canadiantire.ca/etc/designs/canadian-tire-aem-composed-libs/clientlibs.min.dd6246ad2f4594f27b365de8d76e79a3.js:784:17)\n    at Object.fireWith [as resolveWith] (https://www.canadiantire.ca/etc/designs/canadian-tire-aem-composed-libs/clientlibs.min.dd6246ad2f4594f27b365de8d76e79a3.js:820:7)\n    at Object.e.<computed> [as resolve] (https://www.canadiantire.ca/etc/designs/canadian-tire-aem-composed-libs/clientlibs.min.dd6246ad2f4594f27b365de8d76e79a3.js:847:37)\n    at Object.<anonymous> (https://www.canadiantire.ca/etc/designs/canadian-tire-general/clientlibs.min.edb97f4ca60c2ea58e86f96d6d8f1234.js:10366:90)\n    at b5 (https://www.canadiantire.ca/etc/designs/canadian-tire-aem-composed-libs/clientlibs.min.dd6246ad2f4594f27b365de8d76e79a3.js:784:17)\n    at Object.fireWith [as resolveWith] (https://www.canadiantire.ca/etc/designs/canadian-tire-aem-composed-libs/clientlibs.min.dd6246ad2f4594f27b365de8d76e79a3.js:820:7)\n    at cf (https://www.canadiantire.ca/etc/designs/canadian-tire-aem-composed-libs/clientlibs.min.dd6246ad2f4594f27b365de8d76e79a3.js:2421:10)\n    at XMLHttpRequest.b5 (https://www.canadiantire.ca/etc/designs/canadian-tire-aem-composed-libs/clientlibs.min.dd6246ad2f4594f27b365de8d76e79a3.js:2519:12)\n    at XMLHttpRequest.nrWrapper (https://assets.adobedtm.com/909cca5aa6b75b8ab2fdc451c4284c226f778e4e/scripts/satellite-5b0c630a64746d6e04005aa5.js:2:16541)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":18}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property '0' of undefined\n    at e.<anonymous> (https://www.canadiantire.ca/etc/clientlibs/dynamic-libs/24c27e21e952d36972a38f8f7a7519f9.min.6457e20913998edd7bf3a611dbabd644.js:382:54)\n    at Object.<anonymous> (https://www.canadiantire.ca/etc/designs/canadian-tire-aem-composed-libs/clientlibs.min.dd6246ad2f4594f27b365de8d76e79a3.js:833:35)\n    at b5 (https://www.canadiantire.ca/etc/designs/canadian-tire-aem-composed-libs/clientlibs.min.dd6246ad2f4594f27b365de8d76e79a3.js:784:17)\n    at Object.fireWith [as resolveWith] (https://www.canadiantire.ca/etc/designs/canadian-tire-aem-composed-libs/clientlibs.min.dd6246ad2f4594f27b365de8d76e79a3.js:820:7)\n    at Object.e.<computed> [as resolve] (https://www.canadiantire.ca/etc/designs/canadian-tire-aem-composed-libs/clientlibs.min.dd6246ad2f4594f27b365de8d76e79a3.js:847:37)\n    at Object.<anonymous> (https://www.canadiantire.ca/etc/designs/canadian-tire-general/clientlibs.min.edb97f4ca60c2ea58e86f96d6d8f1234.js:10366:90)\n    at b5 (https://www.canadiantire.ca/etc/designs/canadian-tire-aem-composed-libs/clientlibs.min.dd6246ad2f4594f27b365de8d76e79a3.js:784:17)\n    at Object.fireWith [as resolveWith] (https://www.canadiantire.ca/etc/designs/canadian-tire-aem-composed-libs/clientlibs.min.dd6246ad2f4594f27b365de8d76e79a3.js:820:7)\n    at cf (https://www.canadiantire.ca/etc/designs/canadian-tire-aem-composed-libs/clientlibs.min.dd6246ad2f4594f27b365de8d76e79a3.js:2421:10)\n    at XMLHttpRequest.b5 (https://www.canadiantire.ca/etc/designs/canadian-tire-aem-composed-libs/clientlibs.min.dd6246ad2f4594f27b365de8d76e79a3.js:2519:12)\n    at XMLHttpRequest.nrWrapper (https://assets.adobedtm.com/909cca5aa6b75b8ab2fdc451c4284c226f778e4e/scripts/satellite-5b0c630a64746d6e04005aa5.js:2:16541)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property '0' of undefined\n …ts/satellite-5b0c630a64746d6e04005aa5.js:2:16541)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property '0' of undefined"
+            },
+            {
+              "name": "nr@seenError",
+              "type": "boolean",
+              "value": "true"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1582897152630.5461,
+    "exceptionDetails": {
+      "exceptionId": 3,
+      "text": "Uncaught",
+      "lineNumber": 1,
+      "columnNumber": 16560,
+      "scriptId": "30",
+      "url": "https://assets.adobedtm.com/909cca5aa6b75b8ab2fdc451c4284c226f778e4e/scripts/satellite-5b0c630a64746d6e04005aa5.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "initCriticalFitment",
+            "scriptId": "87",
+            "url": "https://assets.adobedtm.com/909cca5aa6b75b8ab2fdc451c4284c226f778e4e/scripts/satellite-5dbadf1364746d1c48002866.js",
+            "lineNumber": 5,
+            "columnNumber": 29
+          },
+          {
+            "functionName": "nrWrapper",
+            "scriptId": "30",
+            "url": "https://assets.adobedtm.com/909cca5aa6b75b8ab2fdc451c4284c226f778e4e/scripts/satellite-5b0c630a64746d6e04005aa5.js",
+            "lineNumber": 1,
+            "columnNumber": 16540
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot set property 'initFix' of undefined\n    at initCriticalFitment (https://assets.adobedtm.com/909cca5aa6b75b8ab2fdc451c4284c226f778e4e/scripts/satellite-5dbadf1364746d1c48002866.js:6:30)\n    at nrWrapper (https://assets.adobedtm.com/909cca5aa6b75b8ab2fdc451c4284c226f778e4e/scripts/satellite-5b0c630a64746d6e04005aa5.js:2:16541)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":19}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot set property 'initFix' of undefined\n    at initCriticalFitment (https://assets.adobedtm.com/909cca5aa6b75b8ab2fdc451c4284c226f778e4e/scripts/satellite-5dbadf1364746d1c48002866.js:6:30)\n    at nrWrapper (https://assets.adobedtm.com/909cca5aa6b75b8ab2fdc451c4284c226f778e4e/scripts/satellite-5b0c630a64746d6e04005aa5.js:2:16541)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot set property 'initFix' of undefi…ts/satellite-5b0c630a64746d6e04005aa5.js:2:16541)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot set property 'initFix' of undefined"
+            },
+            {
+              "name": "nr@seenError",
+              "type": "boolean",
+              "value": "true"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1582897153171.458,
+    "exceptionDetails": {
+      "exceptionId": 4,
+      "text": "Uncaught",
+      "lineNumber": 1,
+      "columnNumber": 16560,
+      "scriptId": "30",
+      "url": "https://assets.adobedtm.com/909cca5aa6b75b8ab2fdc451c4284c226f778e4e/scripts/satellite-5b0c630a64746d6e04005aa5.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "changeStoreHours",
+            "scriptId": "191",
+            "url": "https://assets.adobedtm.com/909cca5aa6b75b8ab2fdc451c4284c226f778e4e/scripts/satellite-5882919764746d47d001771d.js",
+            "lineNumber": 38,
+            "columnNumber": 38
+          },
+          {
+            "functionName": "nrWrapper",
+            "scriptId": "30",
+            "url": "https://assets.adobedtm.com/909cca5aa6b75b8ab2fdc451c4284c226f778e4e/scripts/satellite-5b0c630a64746d6e04005aa5.js",
+            "lineNumber": 1,
+            "columnNumber": 16540
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'innerHTML' of undefined\n    at changeStoreHours (https://assets.adobedtm.com/909cca5aa6b75b8ab2fdc451c4284c226f778e4e/scripts/satellite-5882919764746d47d001771d.js:39:39)\n    at nrWrapper (https://assets.adobedtm.com/909cca5aa6b75b8ab2fdc451c4284c226f778e4e/scripts/satellite-5b0c630a64746d6e04005aa5.js:2:16541)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":20}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'innerHTML' of undefined\n    at changeStoreHours (https://assets.adobedtm.com/909cca5aa6b75b8ab2fdc451c4284c226f778e4e/scripts/satellite-5882919764746d47d001771d.js:39:39)\n    at nrWrapper (https://assets.adobedtm.com/909cca5aa6b75b8ab2fdc451c4284c226f778e4e/scripts/satellite-5b0c630a64746d6e04005aa5.js:2:16541)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'innerHTML' of und…ts/satellite-5b0c630a64746d6e04005aa5.js:2:16541)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'innerHTML' of undefined"
+            },
+            {
+              "name": "nr@seenError",
+              "type": "boolean",
+              "value": "true"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

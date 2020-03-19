@@ -1,0 +1,49 @@
+[
+  {
+    "timestamp": 1583421188721.599,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 125,
+      "columnNumber": 2,
+      "url": "https://www.familyhandyman.com/kitchen/diy-kitchen-cabinets/how-to-install-under-cabinet-lighting-in-your-kitchen/",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "50",
+            "url": "https://www.familyhandyman.com/kitchen/diy-kitchen-cabinets/how-to-install-under-cabinet-lighting-in-your-kitchen/",
+            "lineNumber": 125,
+            "columnNumber": 2
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: gs_channels is not defined\n    at https://www.familyhandyman.com/kitchen/diy-kitchen-cabinets/how-to-install-under-cabinet-lighting-in-your-kitchen/:126:3",
+        "objectId": "{\"injectedScriptId\":3,\"id\":6}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: gs_channels is not defined\n    at https://www.familyhandyman.com/kitchen/diy-kitchen-cabinets/how-to-install-under-cabinet-lighting-in-your-kitchen/:126:3",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: gs_channels is not defined\n    at …all-under-cabinet-lighting-in-your-kitchen/:126:3"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "gs_channels is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

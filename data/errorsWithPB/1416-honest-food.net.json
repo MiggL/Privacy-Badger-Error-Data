@@ -1,0 +1,49 @@
+[
+  {
+    "timestamp": 1583419270884.541,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 146,
+      "columnNumber": 138,
+      "url": "https://honest-food.net/sharptail-grouse-prairie-style/",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "59",
+            "url": "https://honest-food.net/sharptail-grouse-prairie-style/",
+            "lineNumber": 146,
+            "columnNumber": 138
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: st_go is not defined\n    at https://honest-food.net/sharptail-grouse-prairie-style/:147:139",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: st_go is not defined\n    at https://honest-food.net/sharptail-grouse-prairie-style/:147:139",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: st_go is not defined\n    at https:…-food.net/sharptail-grouse-prairie-style/:147:139"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "st_go is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

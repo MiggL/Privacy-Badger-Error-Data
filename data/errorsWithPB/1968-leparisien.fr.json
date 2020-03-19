@@ -1,0 +1,71 @@
+[
+  {
+    "timestamp": 1582896760395.3809,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught (in promise)",
+      "lineNumber": 0,
+      "columnNumber": 7809,
+      "url": "http://www.leparisien.fr/pf/resources/dist/base.js?d=168",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "e.exports",
+            "scriptId": "22",
+            "url": "http://www.leparisien.fr/pf/resources/dist/base.js?d=168",
+            "lineNumber": 0,
+            "columnNumber": 7809
+          },
+          {
+            "functionName": "p.onerror",
+            "scriptId": "22",
+            "url": "http://www.leparisien.fr/pf/resources/dist/base.js?d=168",
+            "lineNumber": 0,
+            "columnNumber": 6866
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "Error",
+        "description": "Error: Network Error\n    at e.exports (http://www.leparisien.fr/pf/resources/dist/base.js?d=168:1:7810)\n    at XMLHttpRequest.p.onerror (http://www.leparisien.fr/pf/resources/dist/base.js?d=168:1:6867)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "Error: Network Error\n    at e.exports (http://www.leparisien.fr/pf/resources/dist/base.js?d=168:1:7810)\n    at XMLHttpRequest.p.onerror (http://www.leparisien.fr/pf/resources/dist/base.js?d=168:1:6867)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "config",
+              "type": "object",
+              "value": "Object"
+            },
+            {
+              "name": "request",
+              "type": "object",
+              "value": "XMLHttpRequest"
+            },
+            {
+              "name": "response",
+              "type": "undefined",
+              "value": "undefined"
+            },
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "Error: Network Error\n    at e.exports (http://www.…risien.fr/pf/resources/dist/base.js?d=168:1:6867)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Network Error"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

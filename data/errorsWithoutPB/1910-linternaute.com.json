@@ -1,0 +1,148 @@
+[
+  {
+    "timestamp": 1582814592612.932,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught (in promise)",
+      "lineNumber": 0,
+      "columnNumber": 332,
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "93",
+            "url": "",
+            "lineNumber": 0,
+            "columnNumber": 332
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: eStatWhap is not defined\n    at <anonymous>:1:333",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: eStatWhap is not defined\n    at <anonymous>:1:333",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: eStatWhap is not defined\n    at <anonymous>:1:333"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "eStatWhap is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1582814593880.103,
+    "exceptionDetails": {
+      "exceptionId": 2,
+      "text": "Uncaught",
+      "lineNumber": 64,
+      "columnNumber": 44,
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "b",
+            "scriptId": "20",
+            "url": "",
+            "lineNumber": 64,
+            "columnNumber": 44
+          },
+          {
+            "functionName": "f",
+            "scriptId": "20",
+            "url": "",
+            "lineNumber": 66,
+            "columnNumber": 363
+          },
+          {
+            "functionName": "handler",
+            "scriptId": "20",
+            "url": "",
+            "lineNumber": 71,
+            "columnNumber": 263
+          },
+          {
+            "functionName": "m",
+            "scriptId": "20",
+            "url": "",
+            "lineNumber": 27,
+            "columnNumber": 317
+          },
+          {
+            "functionName": "b.ready.push",
+            "scriptId": "20",
+            "url": "",
+            "lineNumber": 27,
+            "columnNumber": 473
+          },
+          {
+            "functionName": "",
+            "scriptId": "20",
+            "url": "",
+            "lineNumber": 71,
+            "columnNumber": 162
+          },
+          {
+            "functionName": "_gtm.utils.positionInsertion",
+            "scriptId": "20",
+            "url": "",
+            "lineNumber": 69,
+            "columnNumber": 284
+          },
+          {
+            "functionName": "",
+            "scriptId": "192",
+            "url": "",
+            "lineNumber": 0,
+            "columnNumber": 102
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "Error",
+        "description": "handledError: PositionInsertion : No insertion point found : #jPosInsertColRightBottom\n    at b (<anonymous>:65:45)\n    at f (<anonymous>:67:364)\n    at Object.handler (<anonymous>:72:264)\n    at m (<anonymous>:28:318)\n    at Array.b.ready.push (<anonymous>:28:474)\n    at <anonymous>:72:163\n    at new Promise (<anonymous>)\n    at Object._gtm.utils.positionInsertion (<anonymous>:70:285)\n    at <anonymous>:1:103",
+        "objectId": "{\"injectedScriptId\":3,\"id\":2}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "handledError: PositionInsertion : No insertion point found : #jPosInsertColRightBottom\n    at b (<anonymous>:65:45)\n    at f (<anonymous>:67:364)\n    at Object.handler (<anonymous>:72:264)\n    at m (<anonymous>:28:318)\n    at Array.b.ready.push (<anonymous>:28:474)\n    at <anonymous>:72:163\n    at new Promise (<anonymous>)\n    at Object._gtm.utils.positionInsertion (<anonymous>:70:285)\n    at <anonymous>:1:103",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "name",
+              "type": "string",
+              "value": "handledError"
+            },
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "handledError: PositionInsertion : No insertion poi…ion (<anonymous>:70:285)\n    at <anonymous>:1:103"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "PositionInsertion : No insertion point found : #jPosInsertColRightBottom"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

@@ -1,0 +1,126 @@
+[
+  {
+    "timestamp": 1582894144854.922,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 12,
+      "columnNumber": 5981,
+      "url": "https://assets.adobedtm.com/40b40c7ad89ae2cba04e4f0fb40ba9419c44847b/satelliteLib-697fecf8946b8fb6abd08fc2c6b767b87db83649.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "customJS",
+            "scriptId": "21",
+            "url": "https://assets.adobedtm.com/40b40c7ad89ae2cba04e4f0fb40ba9419c44847b/satelliteLib-697fecf8946b8fb6abd08fc2c6b767b87db83649.js",
+            "lineNumber": 12,
+            "columnNumber": 5981
+          },
+          {
+            "functionName": "w.realGetDataElement",
+            "scriptId": "21",
+            "url": "https://assets.adobedtm.com/40b40c7ad89ae2cba04e4f0fb40ba9419c44847b/satelliteLib-697fecf8946b8fb6abd08fc2c6b767b87db83649.js",
+            "lineNumber": 9,
+            "columnNumber": 12989
+          },
+          {
+            "functionName": "w.getDataElement",
+            "scriptId": "21",
+            "url": "https://assets.adobedtm.com/40b40c7ad89ae2cba04e4f0fb40ba9419c44847b/satelliteLib-697fecf8946b8fb6abd08fc2c6b767b87db83649.js",
+            "lineNumber": 9,
+            "columnNumber": 13209
+          },
+          {
+            "functionName": "w.getVar",
+            "scriptId": "21",
+            "url": "https://assets.adobedtm.com/40b40c7ad89ae2cba04e4f0fb40ba9419c44847b/satelliteLib-697fecf8946b8fb6abd08fc2c6b767b87db83649.js",
+            "lineNumber": 9,
+            "columnNumber": 13645
+          },
+          {
+            "functionName": "",
+            "scriptId": "21",
+            "url": "https://assets.adobedtm.com/40b40c7ad89ae2cba04e4f0fb40ba9419c44847b/satelliteLib-697fecf8946b8fb6abd08fc2c6b767b87db83649.js",
+            "lineNumber": 9,
+            "columnNumber": 14433
+          },
+          {
+            "functionName": "w.replace",
+            "scriptId": "21",
+            "url": "https://assets.adobedtm.com/40b40c7ad89ae2cba04e4f0fb40ba9419c44847b/satelliteLib-697fecf8946b8fb6abd08fc2c6b767b87db83649.js",
+            "lineNumber": 9,
+            "columnNumber": 14392
+          },
+          {
+            "functionName": "substituteVariables",
+            "scriptId": "21",
+            "url": "https://assets.adobedtm.com/40b40c7ad89ae2cba04e4f0fb40ba9419c44847b/satelliteLib-697fecf8946b8fb6abd08fc2c6b767b87db83649.js",
+            "lineNumber": 10,
+            "columnNumber": 24179
+          },
+          {
+            "functionName": "initialize",
+            "scriptId": "21",
+            "url": "https://assets.adobedtm.com/40b40c7ad89ae2cba04e4f0fb40ba9419c44847b/satelliteLib-697fecf8946b8fb6abd08fc2c6b767b87db83649.js",
+            "lineNumber": 10,
+            "columnNumber": 21183
+          },
+          {
+            "functionName": "endPLPhase",
+            "scriptId": "21",
+            "url": "https://assets.adobedtm.com/40b40c7ad89ae2cba04e4f0fb40ba9419c44847b/satelliteLib-697fecf8946b8fb6abd08fc2c6b767b87db83649.js",
+            "lineNumber": 10,
+            "columnNumber": 21089
+          },
+          {
+            "functionName": "w.firePageLoadEvent",
+            "scriptId": "21",
+            "url": "https://assets.adobedtm.com/40b40c7ad89ae2cba04e4f0fb40ba9419c44847b/satelliteLib-697fecf8946b8fb6abd08fc2c6b767b87db83649.js",
+            "lineNumber": 9,
+            "columnNumber": 15323
+          },
+          {
+            "functionName": "w.pageBottom",
+            "scriptId": "21",
+            "url": "https://assets.adobedtm.com/40b40c7ad89ae2cba04e4f0fb40ba9419c44847b/satelliteLib-697fecf8946b8fb6abd08fc2c6b767b87db83649.js",
+            "lineNumber": 9,
+            "columnNumber": 26285
+          },
+          {
+            "functionName": "",
+            "scriptId": "50",
+            "url": "https://www.acs.org/content/acs/en/pressroom/newsreleases/2016/march/blueberries.html",
+            "lineNumber": 1919,
+            "columnNumber": 46
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property '0' of null\n    at Object.customJS (https://assets.adobedtm.com/40b40c7ad89ae2cba04e4f0fb40ba9419c44847b/satelliteLib-697fecf8946b8fb6abd08fc2c6b767b87db83649.js:13:5982)\n    at Object.w.realGetDataElement (https://assets.adobedtm.com/40b40c7ad89ae2cba04e4f0fb40ba9419c44847b/satelliteLib-697fecf8946b8fb6abd08fc2c6b767b87db83649.js:10:12990)\n    at Object.w.getDataElement (https://assets.adobedtm.com/40b40c7ad89ae2cba04e4f0fb40ba9419c44847b/satelliteLib-697fecf8946b8fb6abd08fc2c6b767b87db83649.js:10:13210)\n    at Object.w.getVar (https://assets.adobedtm.com/40b40c7ad89ae2cba04e4f0fb40ba9419c44847b/satelliteLib-697fecf8946b8fb6abd08fc2c6b767b87db83649.js:10:13646)\n    at https://assets.adobedtm.com/40b40c7ad89ae2cba04e4f0fb40ba9419c44847b/satelliteLib-697fecf8946b8fb6abd08fc2c6b767b87db83649.js:10:14434\n    at String.replace (<anonymous>)\n    at Object.w.replace (https://assets.adobedtm.com/40b40c7ad89ae2cba04e4f0fb40ba9419c44847b/satelliteLib-697fecf8946b8fb6abd08fc2c6b767b87db83649.js:10:14393)\n    at _.substituteVariables (https://assets.adobedtm.com/40b40c7ad89ae2cba04e4f0fb40ba9419c44847b/satelliteLib-697fecf8946b8fb6abd08fc2c6b767b87db83649.js:11:24180)\n    at _.initialize (https://assets.adobedtm.com/40b40c7ad89ae2cba04e4f0fb40ba9419c44847b/satelliteLib-697fecf8946b8fb6abd08fc2c6b767b87db83649.js:11:21184)\n    at _.endPLPhase (https://assets.adobedtm.com/40b40c7ad89ae2cba04e4f0fb40ba9419c44847b/satelliteLib-697fecf8946b8fb6abd08fc2c6b767b87db83649.js:11:21090)\n    at Object.w.firePageLoadEvent (https://assets.adobedtm.com/40b40c7ad89ae2cba04e4f0fb40ba9419c44847b/satelliteLib-697fecf8946b8fb6abd08fc2c6b767b87db83649.js:10:15324)\n    at Object.w.pageBottom (https://assets.adobedtm.com/40b40c7ad89ae2cba04e4f0fb40ba9419c44847b/satelliteLib-697fecf8946b8fb6abd08fc2c6b767b87db83649.js:10:26286)\n    at https://www.acs.org/content/acs/en/pressroom/newsreleases/2016/march/blueberries.html:1920:47",
+        "objectId": "{\"injectedScriptId\":3,\"id\":2}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property '0' of null\n    at Object.customJS (https://assets.adobedtm.com/40b40c7ad89ae2cba04e4f0fb40ba9419c44847b/satelliteLib-697fecf8946b8fb6abd08fc2c6b767b87db83649.js:13:5982)\n    at Object.w.realGetDataElement (https://assets.adobedtm.com/40b40c7ad89ae2cba04e4f0fb40ba9419c44847b/satelliteLib-697fecf8946b8fb6abd08fc2c6b767b87db83649.js:10:12990)\n    at Object.w.getDataElement (https://assets.adobedtm.com/40b40c7ad89ae2cba04e4f0fb40ba9419c44847b/satelliteLib-697fecf8946b8fb6abd08fc2c6b767b87db83649.js:10:13210)\n    at Object.w.getVar (https://assets.adobedtm.com/40b40c7ad89ae2cba04e4f0fb40ba9419c44847b/satelliteLib-697fecf8946b8fb6abd08fc2c6b767b87db83649.js:10:13646)\n    at https://assets.adobedtm.com/40b40c7ad89ae2cba04e4f0fb40ba9419c44847b/satelliteLib-697fecf8946b8fb6abd08fc2c6b767b87db83649.js:10:14434\n    at String.replace (<anonymous>)\n    at Object.w.replace (https://assets.adobedtm.com/40b40c7ad89ae2cba04e4f0fb40ba9419c44847b/satelliteLib-697fecf8946b8fb6abd08fc2c6b767b87db83649.js:10:14393)\n    at _.substituteVariables (https://assets.adobedtm.com/40b40c7ad89ae2cba04e4f0fb40ba9419c44847b/satelliteLib-697fecf8946b8fb6abd08fc2c6b767b87db83649.js:11:24180)\n    at _.initialize (https://assets.adobedtm.com/40b40c7ad89ae2cba04e4f0fb40ba9419c44847b/satelliteLib-697fecf8946b8fb6abd08fc2c6b767b87db83649.js:11:21184)\n    at _.endPLPhase (https://assets.adobedtm.com/40b40c7ad89ae2cba04e4f0fb40ba9419c44847b/satelliteLib-697fecf8946b8fb6abd08fc2c6b767b87db83649.js:11:21090)\n    at Object.w.firePageLoadEvent (https://assets.adobedtm.com/40b40c7ad89ae2cba04e4f0fb40ba9419c44847b/satelliteLib-697fecf8946b8fb6abd08fc2c6b767b87db83649.js:10:15324)\n    at Object.w.pageBottom (https://assets.adobedtm.com/40b40c7ad89ae2cba04e4f0fb40ba9419c44847b/satelliteLib-697fecf8946b8fb6abd08fc2c6b767b87db83649.js:10:26286)\n    at https://www.acs.org/content/acs/en/pressroom/newsreleases/2016/march/blueberries.html:1920:47",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property '0' of null\n    at…/newsreleases/2016/march/blueberries.html:1920:47"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property '0' of null"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

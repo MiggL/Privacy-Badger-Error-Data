@@ -1,0 +1,193 @@
+[
+  {
+    "timestamp": 1583418856465.955,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 366,
+      "columnNumber": 6609,
+      "url": "https://www.wired.com/assets/load/?c=1&load%5B%5D=skimlinks,outbrain,blockadblock,jquery,wired,plugin-global-min,ads,wp-embed&scripts=true&ver=1580927067",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "28",
+            "url": "https://www.wired.com/assets/load/?c=1&load%5B%5D=skimlinks,outbrain,blockadblock,jquery,wired,plugin-global-min,ads,wp-embed&scripts=true&ver=1580927067",
+            "lineNumber": 366,
+            "columnNumber": 6609
+          },
+          {
+            "functionName": "i",
+            "scriptId": "28",
+            "url": "https://www.wired.com/assets/load/?c=1&load%5B%5D=skimlinks,outbrain,blockadblock,jquery,wired,plugin-global-min,ads,wp-embed&scripts=true&ver=1580927067",
+            "lineNumber": 326,
+            "columnNumber": 27448
+          },
+          {
+            "functionName": "fireWith",
+            "scriptId": "28",
+            "url": "https://www.wired.com/assets/load/?c=1&load%5B%5D=skimlinks,outbrain,blockadblock,jquery,wired,plugin-global-min,ads,wp-embed&scripts=true&ver=1580927067",
+            "lineNumber": 326,
+            "columnNumber": 28212
+          },
+          {
+            "functionName": "e.<computed>",
+            "scriptId": "28",
+            "url": "https://www.wired.com/assets/load/?c=1&load%5B%5D=skimlinks,outbrain,blockadblock,jquery,wired,plugin-global-min,ads,wp-embed&scripts=true&ver=1580927067",
+            "lineNumber": 326,
+            "columnNumber": 29191
+          },
+          {
+            "functionName": "i",
+            "scriptId": "28",
+            "url": "https://www.wired.com/assets/load/?c=1&load%5B%5D=skimlinks,outbrain,blockadblock,jquery,wired,plugin-global-min,ads,wp-embed&scripts=true&ver=1580927067",
+            "lineNumber": 326,
+            "columnNumber": 27448
+          },
+          {
+            "functionName": "fireWith",
+            "scriptId": "28",
+            "url": "https://www.wired.com/assets/load/?c=1&load%5B%5D=skimlinks,outbrain,blockadblock,jquery,wired,plugin-global-min,ads,wp-embed&scripts=true&ver=1580927067",
+            "lineNumber": 326,
+            "columnNumber": 28212
+          },
+          {
+            "functionName": "y",
+            "scriptId": "28",
+            "url": "https://www.wired.com/assets/load/?c=1&load%5B%5D=skimlinks,outbrain,blockadblock,jquery,wired,plugin-global-min,ads,wp-embed&scripts=true&ver=1580927067",
+            "lineNumber": 328,
+            "columnNumber": 22745
+          },
+          {
+            "functionName": "c",
+            "scriptId": "28",
+            "url": "https://www.wired.com/assets/load/?c=1&load%5B%5D=skimlinks,outbrain,blockadblock,jquery,wired,plugin-global-min,ads,wp-embed&scripts=true&ver=1580927067",
+            "lineNumber": 328,
+            "columnNumber": 26924
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'error' of undefined\n    at Object.<anonymous> (https://www.wired.com/assets/load/?c=1&load%5B%5D=skimlinks,outbrain,blockadblock,jquery,wired,plugin-global-min,ads,wp-embed&scripts=true&ver=1580927067:367:6610)\n    at i (https://www.wired.com/assets/load/?c=1&load%5B%5D=skimlinks,outbrain,blockadblock,jquery,wired,plugin-global-min,ads,wp-embed&scripts=true&ver=1580927067:327:27449)\n    at Object.fireWith [as rejectWith] (https://www.wired.com/assets/load/?c=1&load%5B%5D=skimlinks,outbrain,blockadblock,jquery,wired,plugin-global-min,ads,wp-embed&scripts=true&ver=1580927067:327:28213)\n    at Object.e.<computed> (https://www.wired.com/assets/load/?c=1&load%5B%5D=skimlinks,outbrain,blockadblock,jquery,wired,plugin-global-min,ads,wp-embed&scripts=true&ver=1580927067:327:29192)\n    at i (https://www.wired.com/assets/load/?c=1&load%5B%5D=skimlinks,outbrain,blockadblock,jquery,wired,plugin-global-min,ads,wp-embed&scripts=true&ver=1580927067:327:27449)\n    at Object.fireWith [as rejectWith] (https://www.wired.com/assets/load/?c=1&load%5B%5D=skimlinks,outbrain,blockadblock,jquery,wired,plugin-global-min,ads,wp-embed&scripts=true&ver=1580927067:327:28213)\n    at y (https://www.wired.com/assets/load/?c=1&load%5B%5D=skimlinks,outbrain,blockadblock,jquery,wired,plugin-global-min,ads,wp-embed&scripts=true&ver=1580927067:329:22746)\n    at XMLHttpRequest.c (https://www.wired.com/assets/load/?c=1&load%5B%5D=skimlinks,outbrain,blockadblock,jquery,wired,plugin-global-min,ads,wp-embed&scripts=true&ver=1580927067:329:26925)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":3}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'error' of undefined\n    at Object.<anonymous> (https://www.wired.com/assets/load/?c=1&load%5B%5D=skimlinks,outbrain,blockadblock,jquery,wired,plugin-global-min,ads,wp-embed&scripts=true&ver=1580927067:367:6610)\n    at i (https://www.wired.com/assets/load/?c=1&load%5B%5D=skimlinks,outbrain,blockadblock,jquery,wired,plugin-global-min,ads,wp-embed&scripts=true&ver=1580927067:327:27449)\n    at Object.fireWith [as rejectWith] (https://www.wired.com/assets/load/?c=1&load%5B%5D=skimlinks,outbrain,blockadblock,jquery,wired,plugin-global-min,ads,wp-embed&scripts=true&ver=1580927067:327:28213)\n    at Object.e.<computed> (https://www.wired.com/assets/load/?c=1&load%5B%5D=skimlinks,outbrain,blockadblock,jquery,wired,plugin-global-min,ads,wp-embed&scripts=true&ver=1580927067:327:29192)\n    at i (https://www.wired.com/assets/load/?c=1&load%5B%5D=skimlinks,outbrain,blockadblock,jquery,wired,plugin-global-min,ads,wp-embed&scripts=true&ver=1580927067:327:27449)\n    at Object.fireWith [as rejectWith] (https://www.wired.com/assets/load/?c=1&load%5B%5D=skimlinks,outbrain,blockadblock,jquery,wired,plugin-global-min,ads,wp-embed&scripts=true&ver=1580927067:327:28213)\n    at y (https://www.wired.com/assets/load/?c=1&load%5B%5D=skimlinks,outbrain,blockadblock,jquery,wired,plugin-global-min,ads,wp-embed&scripts=true&ver=1580927067:329:22746)\n    at XMLHttpRequest.c (https://www.wired.com/assets/load/?c=1&load%5B%5D=skimlinks,outbrain,blockadblock,jquery,wired,plugin-global-min,ads,wp-embed&scripts=true&ver=1580927067:329:26925)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'error' of undefin…s,wp-embed&scripts=true&ver=1580927067:329:26925)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'error' of undefined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583418856702.7969,
+    "exceptionDetails": {
+      "exceptionId": 2,
+      "text": "Uncaught",
+      "lineNumber": 0,
+      "columnNumber": 289,
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "eval",
+            "scriptId": "102",
+            "url": "",
+            "lineNumber": 0,
+            "columnNumber": 289
+          },
+          {
+            "functionName": "a",
+            "scriptId": "48",
+            "url": "https://assets.adobedtm.com/6372cf21ef88ee60bc2977a4898dcb5c7945a212/satelliteLib-5e0259aff0b35c55ae1387e43a61e5902ea0cdb6.js",
+            "lineNumber": 3,
+            "columnNumber": 8318
+          },
+          {
+            "functionName": "AppMeasurement.a.t.a.track",
+            "scriptId": "75",
+            "url": "https://assets.adobedtm.com/6372cf21ef88ee60bc2977a4898dcb5c7945a212/s-code-contents-4db97ef176d632a0c5cd3a7d6c33be3c1957ff0c.js",
+            "lineNumber": 61,
+            "columnNumber": 471
+          },
+          {
+            "functionName": "sendBeacon",
+            "scriptId": "48",
+            "url": "https://assets.adobedtm.com/6372cf21ef88ee60bc2977a4898dcb5c7945a212/satelliteLib-5e0259aff0b35c55ae1387e43a61e5902ea0cdb6.js",
+            "lineNumber": 2,
+            "columnNumber": 23546
+          },
+          {
+            "functionName": "onSCodeLoaded",
+            "scriptId": "48",
+            "url": "https://assets.adobedtm.com/6372cf21ef88ee60bc2977a4898dcb5c7945a212/satelliteLib-5e0259aff0b35c55ae1387e43a61e5902ea0cdb6.js",
+            "lineNumber": 2,
+            "columnNumber": 22606
+          },
+          {
+            "functionName": "",
+            "scriptId": "48",
+            "url": "https://assets.adobedtm.com/6372cf21ef88ee60bc2977a4898dcb5c7945a212/satelliteLib-5e0259aff0b35c55ae1387e43a61e5902ea0cdb6.js",
+            "lineNumber": 1,
+            "columnNumber": 4823
+          },
+          {
+            "functionName": "i",
+            "scriptId": "48",
+            "url": "https://assets.adobedtm.com/6372cf21ef88ee60bc2977a4898dcb5c7945a212/satelliteLib-5e0259aff0b35c55ae1387e43a61e5902ea0cdb6.js",
+            "lineNumber": 1,
+            "columnNumber": 5707
+          },
+          {
+            "functionName": "t.onload",
+            "scriptId": "48",
+            "url": "https://assets.adobedtm.com/6372cf21ef88ee60bc2977a4898dcb5c7945a212/satelliteLib-5e0259aff0b35c55ae1387e43a61e5902ea0cdb6.js",
+            "lineNumber": 1,
+            "columnNumber": 5746
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'split' of undefined\n    at AppMeasurement.eval [as getTimeParting] (eval at customInit (https://assets.adobedtm.com/6372cf21ef88ee60bc2977a4898dcb5c7945a212/satelliteLib-5e0259aff0b35c55ae1387e43a61e5902ea0cdb6.js:4:20839), <anonymous>:1:290)\n    at AppMeasurement.a [as doPlugins] (https://assets.adobedtm.com/6372cf21ef88ee60bc2977a4898dcb5c7945a212/satelliteLib-5e0259aff0b35c55ae1387e43a61e5902ea0cdb6.js:4:8319)\n    at AppMeasurement.a.t.a.track (https://assets.adobedtm.com/6372cf21ef88ee60bc2977a4898dcb5c7945a212/s-code-contents-4db97ef176d632a0c5cd3a7d6c33be3c1957ff0c.js:62:472)\n    at k.sendBeacon (https://assets.adobedtm.com/6372cf21ef88ee60bc2977a4898dcb5c7945a212/satelliteLib-5e0259aff0b35c55ae1387e43a61e5902ea0cdb6.js:3:23547)\n    at k.onSCodeLoaded (https://assets.adobedtm.com/6372cf21ef88ee60bc2977a4898dcb5c7945a212/satelliteLib-5e0259aff0b35c55ae1387e43a61e5902ea0cdb6.js:3:22607)\n    at https://assets.adobedtm.com/6372cf21ef88ee60bc2977a4898dcb5c7945a212/satelliteLib-5e0259aff0b35c55ae1387e43a61e5902ea0cdb6.js:2:4824\n    at i (https://assets.adobedtm.com/6372cf21ef88ee60bc2977a4898dcb5c7945a212/satelliteLib-5e0259aff0b35c55ae1387e43a61e5902ea0cdb6.js:2:5708)\n    at HTMLScriptElement.t.onload (https://assets.adobedtm.com/6372cf21ef88ee60bc2977a4898dcb5c7945a212/satelliteLib-5e0259aff0b35c55ae1387e43a61e5902ea0cdb6.js:2:5747)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":5}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'split' of undefined\n    at AppMeasurement.eval [as getTimeParting] (eval at customInit (https://assets.adobedtm.com/6372cf21ef88ee60bc2977a4898dcb5c7945a212/satelliteLib-5e0259aff0b35c55ae1387e43a61e5902ea0cdb6.js:4:20839), <anonymous>:1:290)\n    at AppMeasurement.a [as doPlugins] (https://assets.adobedtm.com/6372cf21ef88ee60bc2977a4898dcb5c7945a212/satelliteLib-5e0259aff0b35c55ae1387e43a61e5902ea0cdb6.js:4:8319)\n    at AppMeasurement.a.t.a.track (https://assets.adobedtm.com/6372cf21ef88ee60bc2977a4898dcb5c7945a212/s-code-contents-4db97ef176d632a0c5cd3a7d6c33be3c1957ff0c.js:62:472)\n    at k.sendBeacon (https://assets.adobedtm.com/6372cf21ef88ee60bc2977a4898dcb5c7945a212/satelliteLib-5e0259aff0b35c55ae1387e43a61e5902ea0cdb6.js:3:23547)\n    at k.onSCodeLoaded (https://assets.adobedtm.com/6372cf21ef88ee60bc2977a4898dcb5c7945a212/satelliteLib-5e0259aff0b35c55ae1387e43a61e5902ea0cdb6.js:3:22607)\n    at https://assets.adobedtm.com/6372cf21ef88ee60bc2977a4898dcb5c7945a212/satelliteLib-5e0259aff0b35c55ae1387e43a61e5902ea0cdb6.js:2:4824\n    at i (https://assets.adobedtm.com/6372cf21ef88ee60bc2977a4898dcb5c7945a212/satelliteLib-5e0259aff0b35c55ae1387e43a61e5902ea0cdb6.js:2:5708)\n    at HTMLScriptElement.t.onload (https://assets.adobedtm.com/6372cf21ef88ee60bc2977a4898dcb5c7945a212/satelliteLib-5e0259aff0b35c55ae1387e43a61e5902ea0cdb6.js:2:5747)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'split' of undefin…0259aff0b35c55ae1387e43a61e5902ea0cdb6.js:2:5747)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'split' of undefined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

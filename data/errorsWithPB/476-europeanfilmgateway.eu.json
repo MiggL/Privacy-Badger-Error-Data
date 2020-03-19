@@ -1,0 +1,56 @@
+[
+  {
+    "timestamp": 1583750019296.1719,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 610,
+      "columnNumber": 42,
+      "url": "http://www.europeanfilmgateway.eu/sites/default/files/js/js_wp_Ct1uQtjCgAPRCoebGruxysmKFBnB2IY7sAFC7bzA.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "26",
+            "url": "http://www.europeanfilmgateway.eu/sites/default/files/js/js_wp_Ct1uQtjCgAPRCoebGruxysmKFBnB2IY7sAFC7bzA.js",
+            "lineNumber": 610,
+            "columnNumber": 42
+          },
+          {
+            "functionName": "",
+            "scriptId": "26",
+            "url": "http://www.europeanfilmgateway.eu/sites/default/files/js/js_wp_Ct1uQtjCgAPRCoebGruxysmKFBnB2IY7sAFC7bzA.js",
+            "lineNumber": 776,
+            "columnNumber": 2
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot set property 'currentBreakpoints' of undefined\n    at http://www.europeanfilmgateway.eu/sites/default/files/js/js_wp_Ct1uQtjCgAPRCoebGruxysmKFBnB2IY7sAFC7bzA.js:611:43\n    at http://www.europeanfilmgateway.eu/sites/default/files/js/js_wp_Ct1uQtjCgAPRCoebGruxysmKFBnB2IY7sAFC7bzA.js:777:3",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot set property 'currentBreakpoints' of undefined\n    at http://www.europeanfilmgateway.eu/sites/default/files/js/js_wp_Ct1uQtjCgAPRCoebGruxysmKFBnB2IY7sAFC7bzA.js:611:43\n    at http://www.europeanfilmgateway.eu/sites/default/files/js/js_wp_Ct1uQtjCgAPRCoebGruxysmKFBnB2IY7sAFC7bzA.js:777:3",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot set property 'currentBreakpoints…Ct1uQtjCgAPRCoebGruxysmKFBnB2IY7sAFC7bzA.js:777:3"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot set property 'currentBreakpoints' of undefined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

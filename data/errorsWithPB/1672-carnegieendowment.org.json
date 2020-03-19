@@ -1,0 +1,96 @@
+[
+  {
+    "timestamp": 1583416938843.7441,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 23,
+      "columnNumber": 0,
+      "url": "https://carnegieendowment.org/2017/01/01/succor-not-salvation-pub-67687",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "22",
+            "url": "https://carnegieendowment.org/2017/01/01/succor-not-salvation-pub-67687",
+            "lineNumber": 23,
+            "columnNumber": 0
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: gtag is not defined\n    at https://carnegieendowment.org/2017/01/01/succor-not-salvation-pub-67687:24:1",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: gtag is not defined\n    at https://carnegieendowment.org/2017/01/01/succor-not-salvation-pub-67687:24:1",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: gtag is not defined\n    at https:/…rg/2017/01/01/succor-not-salvation-pub-67687:24:1"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "gtag is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583416938914.123,
+    "exceptionDetails": {
+      "exceptionId": 2,
+      "text": "Uncaught",
+      "lineNumber": 107,
+      "columnNumber": 5275,
+      "url": "https://carnegieendowment.org/2017/01/01/succor-not-salvation-pub-67687",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "32",
+            "url": "https://carnegieendowment.org/2017/01/01/succor-not-salvation-pub-67687",
+            "lineNumber": 107,
+            "columnNumber": 5275
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: addthis is not defined\n    at https://carnegieendowment.org/2017/01/01/succor-not-salvation-pub-67687:108:5276",
+        "objectId": "{\"injectedScriptId\":3,\"id\":2}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: addthis is not defined\n    at https://carnegieendowment.org/2017/01/01/succor-not-salvation-pub-67687:108:5276",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: addthis is not defined\n    at http…017/01/01/succor-not-salvation-pub-67687:108:5276"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "addthis is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

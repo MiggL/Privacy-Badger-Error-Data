@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": 1583001113092.646,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 3,
+      "columnNumber": 15,
+      "scriptId": "57",
+      "url": "http://thescienceexplorer.com/?page=210&__hstc=242876957.1e835c34ab7bf88e972fdd7a7debc857.1454716800074.1454716800075.1454716800076.1&__hssc=242876957.1.1454716800077&__hsfp=3972014050",
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "SyntaxError",
+        "description": "SyntaxError: Invalid or unexpected token",
+        "objectId": "{\"injectedScriptId\":7,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "SyntaxError: Invalid or unexpected token",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "SyntaxError: Invalid or unexpected token"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Invalid or unexpected token"
+            }
+          ]
+        }
+      },
+      "executionContextId": 7
+    }
+  }
+]

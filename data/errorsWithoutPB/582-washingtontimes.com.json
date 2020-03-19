@@ -1,0 +1,112 @@
+[
+  {
+    "timestamp": 1583008064883.417,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught (in promise)",
+      "lineNumber": 0,
+      "columnNumber": 32514,
+      "url": "https://absorbingband.com/v2/0/kerl6rW8Gkqsd-UFopdtl-Vy2yczkAON1fFguvzc1xlPBeJJ--RCvLzLCETRiAUiJ6n",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "66",
+            "url": "https://absorbingband.com/v2/0/kerl6rW8Gkqsd-UFopdtl-Vy2yczkAON1fFguvzc1xlPBeJJ--RCvLzLCETRiAUiJ6n",
+            "lineNumber": 0,
+            "columnNumber": 32514
+          },
+          {
+            "functionName": "",
+            "scriptId": "66",
+            "url": "https://absorbingband.com/v2/0/kerl6rW8Gkqsd-UFopdtl-Vy2yczkAON1fFguvzc1xlPBeJJ--RCvLzLCETRiAUiJ6n",
+            "lineNumber": 0,
+            "columnNumber": 32496
+          },
+          {
+            "functionName": "n",
+            "scriptId": "66",
+            "url": "https://absorbingband.com/v2/0/kerl6rW8Gkqsd-UFopdtl-Vy2yczkAON1fFguvzc1xlPBeJJ--RCvLzLCETRiAUiJ6n",
+            "lineNumber": 0,
+            "columnNumber": 32176
+          },
+          {
+            "functionName": "value",
+            "scriptId": "66",
+            "url": "https://absorbingband.com/v2/0/kerl6rW8Gkqsd-UFopdtl-Vy2yczkAON1fFguvzc1xlPBeJJ--RCvLzLCETRiAUiJ6n",
+            "lineNumber": 0,
+            "columnNumber": 86298
+          },
+          {
+            "functionName": "value",
+            "scriptId": "66",
+            "url": "https://absorbingband.com/v2/0/kerl6rW8Gkqsd-UFopdtl-Vy2yczkAON1fFguvzc1xlPBeJJ--RCvLzLCETRiAUiJ6n",
+            "lineNumber": 0,
+            "columnNumber": 78025
+          },
+          {
+            "functionName": "",
+            "scriptId": "66",
+            "url": "https://absorbingband.com/v2/0/kerl6rW8Gkqsd-UFopdtl-Vy2yczkAON1fFguvzc1xlPBeJJ--RCvLzLCETRiAUiJ6n",
+            "lineNumber": 0,
+            "columnNumber": 86838
+          },
+          {
+            "functionName": "",
+            "scriptId": "66",
+            "url": "https://absorbingband.com/v2/0/kerl6rW8Gkqsd-UFopdtl-Vy2yczkAON1fFguvzc1xlPBeJJ--RCvLzLCETRiAUiJ6n",
+            "lineNumber": 0,
+            "columnNumber": 86860
+          },
+          {
+            "functionName": "i",
+            "scriptId": "66",
+            "url": "https://absorbingband.com/v2/0/kerl6rW8Gkqsd-UFopdtl-Vy2yczkAON1fFguvzc1xlPBeJJ--RCvLzLCETRiAUiJ6n",
+            "lineNumber": 0,
+            "columnNumber": 110
+          },
+          {
+            "functionName": "",
+            "scriptId": "66",
+            "url": "https://absorbingband.com/v2/0/kerl6rW8Gkqsd-UFopdtl-Vy2yczkAON1fFguvzc1xlPBeJJ--RCvLzLCETRiAUiJ6n",
+            "lineNumber": 0,
+            "columnNumber": 904
+          },
+          {
+            "functionName": "",
+            "scriptId": "66",
+            "url": "https://absorbingband.com/v2/0/kerl6rW8Gkqsd-UFopdtl-Vy2yczkAON1fFguvzc1xlPBeJJ--RCvLzLCETRiAUiJ6n",
+            "lineNumber": 0,
+            "columnNumber": 915
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: __cmp is not defined\n    at https://absorbingband.com/v2/0/kerl6rW8Gkqsd-UFopdtl-Vy2yczkAON1fFguvzc1xlPBeJJ--RCvLzLCETRiAUiJ6n:1:32515\n    at new Promise (<anonymous>)\n    at https://absorbingband.com/v2/0/kerl6rW8Gkqsd-UFopdtl-Vy2yczkAON1fFguvzc1xlPBeJJ--RCvLzLCETRiAUiJ6n:1:32497\n    at new Promise (<anonymous>)\n    at n (https://absorbingband.com/v2/0/kerl6rW8Gkqsd-UFopdtl-Vy2yczkAON1fFguvzc1xlPBeJJ--RCvLzLCETRiAUiJ6n:1:32177)\n    at r.value (https://absorbingband.com/v2/0/kerl6rW8Gkqsd-UFopdtl-Vy2yczkAON1fFguvzc1xlPBeJJ--RCvLzLCETRiAUiJ6n:1:86299)\n    at Function.value (https://absorbingband.com/v2/0/kerl6rW8Gkqsd-UFopdtl-Vy2yczkAON1fFguvzc1xlPBeJJ--RCvLzLCETRiAUiJ6n:1:78026)\n    at Module.<anonymous> (https://absorbingband.com/v2/0/kerl6rW8Gkqsd-UFopdtl-Vy2yczkAON1fFguvzc1xlPBeJJ--RCvLzLCETRiAUiJ6n:1:86839)\n    at Module.<anonymous> (https://absorbingband.com/v2/0/kerl6rW8Gkqsd-UFopdtl-Vy2yczkAON1fFguvzc1xlPBeJJ--RCvLzLCETRiAUiJ6n:1:86861)\n    at i (https://absorbingband.com/v2/0/kerl6rW8Gkqsd-UFopdtl-Vy2yczkAON1fFguvzc1xlPBeJJ--RCvLzLCETRiAUiJ6n:1:111)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":2}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: __cmp is not defined\n    at https://absorbingband.com/v2/0/kerl6rW8Gkqsd-UFopdtl-Vy2yczkAON1fFguvzc1xlPBeJJ--RCvLzLCETRiAUiJ6n:1:32515\n    at new Promise (<anonymous>)\n    at https://absorbingband.com/v2/0/kerl6rW8Gkqsd-UFopdtl-Vy2yczkAON1fFguvzc1xlPBeJJ--RCvLzLCETRiAUiJ6n:1:32497\n    at new Promise (<anonymous>)\n    at n (https://absorbingband.com/v2/0/kerl6rW8Gkqsd-UFopdtl-Vy2yczkAON1fFguvzc1xlPBeJJ--RCvLzLCETRiAUiJ6n:1:32177)\n    at r.value (https://absorbingband.com/v2/0/kerl6rW8Gkqsd-UFopdtl-Vy2yczkAON1fFguvzc1xlPBeJJ--RCvLzLCETRiAUiJ6n:1:86299)\n    at Function.value (https://absorbingband.com/v2/0/kerl6rW8Gkqsd-UFopdtl-Vy2yczkAON1fFguvzc1xlPBeJJ--RCvLzLCETRiAUiJ6n:1:78026)\n    at Module.<anonymous> (https://absorbingband.com/v2/0/kerl6rW8Gkqsd-UFopdtl-Vy2yczkAON1fFguvzc1xlPBeJJ--RCvLzLCETRiAUiJ6n:1:86839)\n    at Module.<anonymous> (https://absorbingband.com/v2/0/kerl6rW8Gkqsd-UFopdtl-Vy2yczkAON1fFguvzc1xlPBeJJ--RCvLzLCETRiAUiJ6n:1:86861)\n    at i (https://absorbingband.com/v2/0/kerl6rW8Gkqsd-UFopdtl-Vy2yczkAON1fFguvzc1xlPBeJJ--RCvLzLCETRiAUiJ6n:1:111)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: __cmp is not defined\n    at https:…yczkAON1fFguvzc1xlPBeJJ--RCvLzLCETRiAUiJ6n:1:111)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "__cmp is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

@@ -1,0 +1,170 @@
+[
+  {
+    "timestamp": 1583424899826.189,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught (in promise)",
+      "lineNumber": 23,
+      "columnNumber": 305,
+      "url": "https://www.independent.co.uk/amp/v0.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "f.assert",
+            "scriptId": "28",
+            "url": "https://www.independent.co.uk/amp/v0.js",
+            "lineNumber": 23,
+            "columnNumber": 305
+          },
+          {
+            "functionName": "db",
+            "scriptId": "28",
+            "url": "https://www.independent.co.uk/amp/v0.js",
+            "lineNumber": 26,
+            "columnNumber": 54
+          },
+          {
+            "functionName": "f.assertElement",
+            "scriptId": "28",
+            "url": "https://www.independent.co.uk/amp/v0.js",
+            "lineNumber": 24,
+            "columnNumber": 30
+          },
+          {
+            "functionName": "",
+            "scriptId": "29",
+            "url": "https://www.independent.co.uk/amp/v0/amp-analytics-0.1.js",
+            "lineNumber": 137,
+            "columnNumber": 38
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "Error",
+        "description": "Error: Element \"[id^='reply-']\" not found: null​​​\n    at Ya.f.assert (https://www.independent.co.uk/amp/v0.js:24:306)\n    at db (https://www.independent.co.uk/amp/v0.js:27:55)\n    at Ya.f.assertElement (https://www.independent.co.uk/amp/v0.js:25:31)\n    at https://www.independent.co.uk/amp/v0/amp-analytics-0.1.js:138:39",
+        "objectId": "{\"injectedScriptId\":3,\"id\":16}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "Error: Element \"[id^='reply-']\" not found: null​​​\n    at Ya.f.assert (https://www.independent.co.uk/amp/v0.js:24:306)\n    at db (https://www.independent.co.uk/amp/v0.js:27:55)\n    at Ya.f.assertElement (https://www.independent.co.uk/amp/v0.js:25:31)\n    at https://www.independent.co.uk/amp/v0/amp-analytics-0.1.js:138:39",
+          "overflow": true,
+          "properties": [
+            {
+              "name": "fromAssert",
+              "type": "boolean",
+              "value": "true"
+            },
+            {
+              "name": "associatedElement",
+              "type": "undefined",
+              "value": "undefined"
+            },
+            {
+              "name": "messageArray",
+              "type": "object",
+              "value": "Array(2)",
+              "subtype": "array"
+            },
+            {
+              "name": "reported",
+              "type": "boolean",
+              "value": "true"
+            },
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "Error: Element \"[id^='reply-']\" not found: null​​​…ependent.co.uk/amp/v0/amp-analytics-0.1.js:138:39"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583424899826.4402,
+    "exceptionDetails": {
+      "exceptionId": 2,
+      "text": "Uncaught (in promise)",
+      "lineNumber": 23,
+      "columnNumber": 305,
+      "url": "https://www.independent.co.uk/amp/v0.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "f.assert",
+            "scriptId": "28",
+            "url": "https://www.independent.co.uk/amp/v0.js",
+            "lineNumber": 23,
+            "columnNumber": 305
+          },
+          {
+            "functionName": "db",
+            "scriptId": "28",
+            "url": "https://www.independent.co.uk/amp/v0.js",
+            "lineNumber": 26,
+            "columnNumber": 54
+          },
+          {
+            "functionName": "f.assertElement",
+            "scriptId": "28",
+            "url": "https://www.independent.co.uk/amp/v0.js",
+            "lineNumber": 24,
+            "columnNumber": 30
+          },
+          {
+            "functionName": "",
+            "scriptId": "29",
+            "url": "https://www.independent.co.uk/amp/v0/amp-analytics-0.1.js",
+            "lineNumber": 137,
+            "columnNumber": 38
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "Error",
+        "description": "Error: Element \"[id^='subscription-reply-']\" not found: null​​​\n    at Ya.f.assert (https://www.independent.co.uk/amp/v0.js:24:306)\n    at db (https://www.independent.co.uk/amp/v0.js:27:55)\n    at Ya.f.assertElement (https://www.independent.co.uk/amp/v0.js:25:31)\n    at https://www.independent.co.uk/amp/v0/amp-analytics-0.1.js:138:39",
+        "objectId": "{\"injectedScriptId\":3,\"id\":17}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "Error: Element \"[id^='subscription-reply-']\" not found: null​​​\n    at Ya.f.assert (https://www.independent.co.uk/amp/v0.js:24:306)\n    at db (https://www.independent.co.uk/amp/v0.js:27:55)\n    at Ya.f.assertElement (https://www.independent.co.uk/amp/v0.js:25:31)\n    at https://www.independent.co.uk/amp/v0/amp-analytics-0.1.js:138:39",
+          "overflow": true,
+          "properties": [
+            {
+              "name": "fromAssert",
+              "type": "boolean",
+              "value": "true"
+            },
+            {
+              "name": "associatedElement",
+              "type": "undefined",
+              "value": "undefined"
+            },
+            {
+              "name": "messageArray",
+              "type": "object",
+              "value": "Array(2)",
+              "subtype": "array"
+            },
+            {
+              "name": "reported",
+              "type": "boolean",
+              "value": "true"
+            },
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "Error: Element \"[id^='subscription-reply-']\" not f…ependent.co.uk/amp/v0/amp-analytics-0.1.js:138:39"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

@@ -1,0 +1,146 @@
+[
+  {
+    "timestamp": 1583758980515.3242,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 0,
+      "columnNumber": 502,
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "105",
+            "url": "",
+            "lineNumber": 0,
+            "columnNumber": 502
+          },
+          {
+            "functionName": "",
+            "scriptId": "41",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-T9G2MP",
+            "lineNumber": 804,
+            "columnNumber": 413
+          },
+          {
+            "functionName": "c",
+            "scriptId": "41",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-T9G2MP",
+            "lineNumber": 806,
+            "columnNumber": 151
+          },
+          {
+            "functionName": "Cb",
+            "scriptId": "41",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-T9G2MP",
+            "lineNumber": 655,
+            "columnNumber": 395
+          },
+          {
+            "functionName": "e",
+            "scriptId": "41",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-T9G2MP",
+            "lineNumber": 701,
+            "columnNumber": 137
+          },
+          {
+            "functionName": "",
+            "scriptId": "41",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-T9G2MP",
+            "lineNumber": 645,
+            "columnNumber": 113
+          },
+          {
+            "functionName": "",
+            "scriptId": "41",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-T9G2MP",
+            "lineNumber": 702,
+            "columnNumber": 228
+          },
+          {
+            "functionName": "",
+            "scriptId": "41",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-T9G2MP",
+            "lineNumber": 701,
+            "columnNumber": 472
+          },
+          {
+            "functionName": "nf",
+            "scriptId": "41",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-T9G2MP",
+            "lineNumber": 702,
+            "columnNumber": 517
+          },
+          {
+            "functionName": "pf",
+            "scriptId": "41",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-T9G2MP",
+            "lineNumber": 704,
+            "columnNumber": 226
+          },
+          {
+            "functionName": "hj",
+            "scriptId": "41",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-T9G2MP",
+            "lineNumber": 747,
+            "columnNumber": 186
+          },
+          {
+            "functionName": "gj",
+            "scriptId": "41",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-T9G2MP",
+            "lineNumber": 747,
+            "columnNumber": 0
+          },
+          {
+            "functionName": "ij",
+            "scriptId": "41",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-T9G2MP",
+            "lineNumber": 749,
+            "columnNumber": 356
+          },
+          {
+            "functionName": "a.push",
+            "scriptId": "41",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-T9G2MP",
+            "lineNumber": 752,
+            "columnNumber": 94
+          },
+          {
+            "functionName": "",
+            "scriptId": "41",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-T9G2MP",
+            "lineNumber": 751,
+            "columnNumber": 216
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: nSdkInstance is not defined\n    at <anonymous>:1:503\n    at https://www.googletagmanager.com/gtm.js?id=GTM-T9G2MP:805:414\n    at c (https://www.googletagmanager.com/gtm.js?id=GTM-T9G2MP:807:152)\n    at Cb (https://www.googletagmanager.com/gtm.js?id=GTM-T9G2MP:656:396)\n    at e (https://www.googletagmanager.com/gtm.js?id=GTM-T9G2MP:702:138)\n    at https://www.googletagmanager.com/gtm.js?id=GTM-T9G2MP:646:114\n    at Array.<anonymous> (https://www.googletagmanager.com/gtm.js?id=GTM-T9G2MP:703:229)\n    at Object.Zf (https://www.googletagmanager.com/gtm.js?id=GTM-T9G2MP:702:473)\n    at nf (https://www.googletagmanager.com/gtm.js?id=GTM-T9G2MP:703:518)\n    at pf (https://www.googletagmanager.com/gtm.js?id=GTM-T9G2MP:705:227)\n    at hj (https://www.googletagmanager.com/gtm.js?id=GTM-T9G2MP:748:187)\n    at gj (https://www.googletagmanager.com/gtm.js?id=GTM-T9G2MP:748:1)\n    at ij (https://www.googletagmanager.com/gtm.js?id=GTM-T9G2MP:750:357)\n    at Array.a.push (https://www.googletagmanager.com/gtm.js?id=GTM-T9G2MP:753:95)\n    at https://www.googletagmanager.com/gtm.js?id=GTM-T9G2MP:752:217",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: nSdkInstance is not defined\n    at <anonymous>:1:503\n    at https://www.googletagmanager.com/gtm.js?id=GTM-T9G2MP:805:414\n    at c (https://www.googletagmanager.com/gtm.js?id=GTM-T9G2MP:807:152)\n    at Cb (https://www.googletagmanager.com/gtm.js?id=GTM-T9G2MP:656:396)\n    at e (https://www.googletagmanager.com/gtm.js?id=GTM-T9G2MP:702:138)\n    at https://www.googletagmanager.com/gtm.js?id=GTM-T9G2MP:646:114\n    at Array.<anonymous> (https://www.googletagmanager.com/gtm.js?id=GTM-T9G2MP:703:229)\n    at Object.Zf (https://www.googletagmanager.com/gtm.js?id=GTM-T9G2MP:702:473)\n    at nf (https://www.googletagmanager.com/gtm.js?id=GTM-T9G2MP:703:518)\n    at pf (https://www.googletagmanager.com/gtm.js?id=GTM-T9G2MP:705:227)\n    at hj (https://www.googletagmanager.com/gtm.js?id=GTM-T9G2MP:748:187)\n    at gj (https://www.googletagmanager.com/gtm.js?id=GTM-T9G2MP:748:1)\n    at ij (https://www.googletagmanager.com/gtm.js?id=GTM-T9G2MP:750:357)\n    at Array.a.push (https://www.googletagmanager.com/gtm.js?id=GTM-T9G2MP:753:95)\n    at https://www.googletagmanager.com/gtm.js?id=GTM-T9G2MP:752:217",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: nSdkInstance is not defined\n    at…googletagmanager.com/gtm.js?id=GTM-T9G2MP:752:217"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "nSdkInstance is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

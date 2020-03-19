@@ -1,0 +1,231 @@
+[
+  {
+    "timestamp": 1583422479673.373,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 110,
+      "columnNumber": 24880,
+      "url": "https://news.bbcimg.co.uk/news/special/2016/newsspec_14255/static/build/js/story.2886.min.js?v=1.2",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "43",
+            "url": "https://news.bbcimg.co.uk/news/special/2016/newsspec_14255/static/build/js/story.2886.min.js?v=1.2",
+            "lineNumber": 110,
+            "columnNumber": 24880
+          },
+          {
+            "functionName": "b",
+            "scriptId": "41",
+            "url": "https://news.bbcimg.co.uk/news/special/2016/newsspec_14255/static/build/js/common.2886.min.js?v=1.2",
+            "lineNumber": 3,
+            "columnNumber": 1301
+          },
+          {
+            "functionName": "k",
+            "scriptId": "41",
+            "url": "https://news.bbcimg.co.uk/news/special/2016/newsspec_14255/static/build/js/common.2886.min.js?v=1.2",
+            "lineNumber": 1,
+            "columnNumber": 5922
+          },
+          {
+            "functionName": "fireWith",
+            "scriptId": "41",
+            "url": "https://news.bbcimg.co.uk/news/special/2016/newsspec_14255/static/build/js/common.2886.min.js?v=1.2",
+            "lineNumber": 1,
+            "columnNumber": 6739
+          },
+          {
+            "functionName": "fire",
+            "scriptId": "41",
+            "url": "https://news.bbcimg.co.uk/news/special/2016/newsspec_14255/static/build/js/common.2886.min.js?v=1.2",
+            "lineNumber": 1,
+            "columnNumber": 6776
+          },
+          {
+            "functionName": "trigger",
+            "scriptId": "41",
+            "url": "https://news.bbcimg.co.uk/news/special/2016/newsspec_14255/static/build/js/common.2886.min.js?v=1.2",
+            "lineNumber": 3,
+            "columnNumber": 24053
+          },
+          {
+            "functionName": "handleScroll",
+            "scriptId": "41",
+            "url": "https://news.bbcimg.co.uk/news/special/2016/newsspec_14255/static/build/js/common.2886.min.js?v=1.2",
+            "lineNumber": 3,
+            "columnNumber": 23807
+          },
+          {
+            "functionName": "b",
+            "scriptId": "41",
+            "url": "https://news.bbcimg.co.uk/news/special/2016/newsspec_14255/static/build/js/common.2886.min.js?v=1.2",
+            "lineNumber": 3,
+            "columnNumber": 1301
+          },
+          {
+            "functionName": "onScroll",
+            "scriptId": "41",
+            "url": "https://news.bbcimg.co.uk/news/special/2016/newsspec_14255/static/build/js/common.2886.min.js?v=1.2",
+            "lineNumber": 3,
+            "columnNumber": 23909
+          },
+          {
+            "functionName": "b",
+            "scriptId": "41",
+            "url": "https://news.bbcimg.co.uk/news/special/2016/newsspec_14255/static/build/js/common.2886.min.js?v=1.2",
+            "lineNumber": 3,
+            "columnNumber": 1301
+          },
+          {
+            "functionName": "dispatch",
+            "scriptId": "41",
+            "url": "https://news.bbcimg.co.uk/news/special/2016/newsspec_14255/static/build/js/common.2886.min.js?v=1.2",
+            "lineNumber": 1,
+            "columnNumber": 17714
+          },
+          {
+            "functionName": "q.handle",
+            "scriptId": "41",
+            "url": "https://news.bbcimg.co.uk/news/special/2016/newsspec_14255/static/build/js/common.2886.min.js?v=1.2",
+            "lineNumber": 1,
+            "columnNumber": 14389
+          },
+          {
+            "functionName": "trigger",
+            "scriptId": "41",
+            "url": "https://news.bbcimg.co.uk/news/special/2016/newsspec_14255/static/build/js/common.2886.min.js?v=1.2",
+            "lineNumber": 1,
+            "columnNumber": 16810
+          },
+          {
+            "functionName": "",
+            "scriptId": "41",
+            "url": "https://news.bbcimg.co.uk/news/special/2016/newsspec_14255/static/build/js/common.2886.min.js?v=1.2",
+            "lineNumber": 1,
+            "columnNumber": 24735
+          },
+          {
+            "functionName": "each",
+            "scriptId": "41",
+            "url": "https://news.bbcimg.co.uk/news/special/2016/newsspec_14255/static/build/js/common.2886.min.js?v=1.2",
+            "lineNumber": 0,
+            "columnNumber": 14194
+          },
+          {
+            "functionName": "each",
+            "scriptId": "41",
+            "url": "https://news.bbcimg.co.uk/news/special/2016/newsspec_14255/static/build/js/common.2886.min.js?v=1.2",
+            "lineNumber": 0,
+            "columnNumber": 12040
+          },
+          {
+            "functionName": "trigger",
+            "scriptId": "41",
+            "url": "https://news.bbcimg.co.uk/news/special/2016/newsspec_14255/static/build/js/common.2886.min.js?v=1.2",
+            "lineNumber": 1,
+            "columnNumber": 24710
+          },
+          {
+            "functionName": "ea.fn.<computed>",
+            "scriptId": "41",
+            "url": "https://news.bbcimg.co.uk/news/special/2016/newsspec_14255/static/build/js/common.2886.min.js?v=1.2",
+            "lineNumber": 2,
+            "columnNumber": 18106
+          },
+          {
+            "functionName": "on",
+            "scriptId": "41",
+            "url": "https://news.bbcimg.co.uk/news/special/2016/newsspec_14255/static/build/js/common.2886.min.js?v=1.2",
+            "lineNumber": 3,
+            "columnNumber": 23144
+          },
+          {
+            "functionName": "",
+            "scriptId": "43",
+            "url": "https://news.bbcimg.co.uk/news/special/2016/newsspec_14255/static/build/js/story.2886.min.js?v=1.2",
+            "lineNumber": 110,
+            "columnNumber": 24688
+          },
+          {
+            "functionName": "each",
+            "scriptId": "41",
+            "url": "https://news.bbcimg.co.uk/news/special/2016/newsspec_14255/static/build/js/common.2886.min.js?v=1.2",
+            "lineNumber": 0,
+            "columnNumber": 14194
+          },
+          {
+            "functionName": "each",
+            "scriptId": "41",
+            "url": "https://news.bbcimg.co.uk/news/special/2016/newsspec_14255/static/build/js/common.2886.min.js?v=1.2",
+            "lineNumber": 0,
+            "columnNumber": 12040
+          },
+          {
+            "functionName": "",
+            "scriptId": "43",
+            "url": "https://news.bbcimg.co.uk/news/special/2016/newsspec_14255/static/build/js/story.2886.min.js?v=1.2",
+            "lineNumber": 110,
+            "columnNumber": 24573
+          },
+          {
+            "functionName": "k",
+            "scriptId": "41",
+            "url": "https://news.bbcimg.co.uk/news/special/2016/newsspec_14255/static/build/js/common.2886.min.js?v=1.2",
+            "lineNumber": 1,
+            "columnNumber": 5922
+          },
+          {
+            "functionName": "fireWith",
+            "scriptId": "41",
+            "url": "https://news.bbcimg.co.uk/news/special/2016/newsspec_14255/static/build/js/common.2886.min.js?v=1.2",
+            "lineNumber": 1,
+            "columnNumber": 6739
+          },
+          {
+            "functionName": "ready",
+            "scriptId": "41",
+            "url": "https://news.bbcimg.co.uk/news/special/2016/newsspec_14255/static/build/js/common.2886.min.js?v=1.2",
+            "lineNumber": 1,
+            "columnNumber": 8599
+          },
+          {
+            "functionName": "h",
+            "scriptId": "41",
+            "url": "https://news.bbcimg.co.uk/news/special/2016/newsspec_14255/static/build/js/common.2886.min.js?v=1.2",
+            "lineNumber": 0,
+            "columnNumber": 1176
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: a is not a function\n    at ea.fn.init.<anonymous> (https://news.bbcimg.co.uk/news/special/2016/newsspec_14255/static/build/js/story.2886.min.js?v=1.2:111:24881)\n    at Object.b (https://news.bbcimg.co.uk/news/special/2016/newsspec_14255/static/build/js/common.2886.min.js?v=1.2:4:1302)\n    at k (https://news.bbcimg.co.uk/news/special/2016/newsspec_14255/static/build/js/common.2886.min.js?v=1.2:2:5923)\n    at Object.fireWith (https://news.bbcimg.co.uk/news/special/2016/newsspec_14255/static/build/js/common.2886.min.js?v=1.2:2:6740)\n    at Object.fire (https://news.bbcimg.co.uk/news/special/2016/newsspec_14255/static/build/js/common.2886.min.js?v=1.2:2:6777)\n    at f.trigger (https://news.bbcimg.co.uk/news/special/2016/newsspec_14255/static/build/js/common.2886.min.js?v=1.2:4:24054)\n    at f.handleScroll (https://news.bbcimg.co.uk/news/special/2016/newsspec_14255/static/build/js/common.2886.min.js?v=1.2:4:23808)\n    at f.b [as handleScroll] (https://news.bbcimg.co.uk/news/special/2016/newsspec_14255/static/build/js/common.2886.min.js?v=1.2:4:1302)\n    at f.onScroll (https://news.bbcimg.co.uk/news/special/2016/newsspec_14255/static/build/js/common.2886.min.js?v=1.2:4:23910)\n    at b (https://news.bbcimg.co.uk/news/special/2016/newsspec_14255/static/build/js/common.2886.min.js?v=1.2:4:1302)\n    at dispatch (https://news.bbcimg.co.uk/news/special/2016/newsspec_14255/static/build/js/common.2886.min.js?v=1.2:2:17715)\n    at q.handle (https://news.bbcimg.co.uk/news/special/2016/newsspec_14255/static/build/js/common.2886.min.js?v=1.2:2:14390)\n    at Object.trigger (https://news.bbcimg.co.uk/news/special/2016/newsspec_14255/static/build/js/common.2886.min.js?v=1.2:2:16811)\n    at https://news.bbcimg.co.uk/news/special/2016/newsspec_14255/static/build/js/common.2886.min.js?v=1.2:2:24736\n    at Function.each (https://news.bbcimg.co.uk/news/special/2016/newsspec_14255/static/build/js/common.2886.min.js?v=1.2:1:14195)\n    at ea.fn.init.each (https://news.bbcimg.co.uk/news/special/2016/newsspec_14255/static/build/js/common.2886.min.js?v=1.2:1:12041)\n    at ea.fn.init.trigger (https://news.bbcimg.co.uk/news/special/2016/newsspec_14255/static/build/js/common.2886.min.js?v=1.2:2:24711)\n    at ea.fn.init.ea.fn.<computed> [as scroll] (https://news.bbcimg.co.uk/news/special/2016/newsspec_14255/static/build/js/common.2886.min.js?v=1.2:3:18107)\n    at f.on (https://news.bbcimg.co.uk/news/special/2016/newsspec_14255/static/build/js/common.2886.min.js?v=1.2:4:23145)\n    at HTMLDivElement.<anonymous> (https://news.bbcimg.co.uk/news/special/2016/newsspec_14255/static/build/js/story.2886.min.js?v=1.2:111:24689)\n    at Function.each (https://news.bbcimg.co.uk/news/special/2016/newsspec_14255/static/build/js/common.2886.min.js?v=1.2:1:14195)\n    at ea.fn.init.each (https://news.bbcimg.co.uk/news/special/2016/newsspec_14255/static/build/js/common.2886.min.js?v=1.2:1:12041)\n    at HTMLDocument.<anonymous> (https://news.bbcimg.co.uk/news/special/2016/newsspec_14255/static/build/js/story.2886.min.js?v=1.2:111:24574)\n    at k (https://news.bbcimg.co.uk/news/special/2016/newsspec_14255/static/build/js/common.2886.min.js?v=1.2:2:5923)\n    at Object.fireWith [as resolveWith] (https://news.bbcimg.co.uk/news/special/2016/newsspec_14255/static/build/js/common.2886.min.js?v=1.2:2:6740)\n    at Function.ready (https://news.bbcimg.co.uk/news/special/2016/newsspec_14255/static/build/js/common.2886.min.js?v=1.2:2:8600)\n    at HTMLDocument.h (https://news.bbcimg.co.uk/news/special/2016/newsspec_14255/static/build/js/common.2886.min.js?v=1.2:1:1177)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: a is not a function\n    at ea.fn.init.<anonymous> (https://news.bbcimg.co.uk/news/special/2016/newsspec_14255/static/build/js/story.2886.min.js?v=1.2:111:24881)\n    at Object.b (https://news.bbcimg.co.uk/news/special/2016/newsspec_14255/static/build/js/common.2886.min.js?v=1.2:4:1302)\n    at k (https://news.bbcimg.co.uk/news/special/2016/newsspec_14255/static/build/js/common.2886.min.js?v=1.2:2:5923)\n    at Object.fireWith (https://news.bbcimg.co.uk/news/special/2016/newsspec_14255/static/build/js/common.2886.min.js?v=1.2:2:6740)\n    at Object.fire (https://news.bbcimg.co.uk/news/special/2016/newsspec_14255/static/build/js/common.2886.min.js?v=1.2:2:6777)\n    at f.trigger (https://news.bbcimg.co.uk/news/special/2016/newsspec_14255/static/build/js/common.2886.min.js?v=1.2:4:24054)\n    at f.handleScroll (https://news.bbcimg.co.uk/news/special/2016/newsspec_14255/static/build/js/common.2886.min.js?v=1.2:4:23808)\n    at f.b [as handleScroll] (https://news.bbcimg.co.uk/news/special/2016/newsspec_14255/static/build/js/common.2886.min.js?v=1.2:4:1302)\n    at f.onScroll (https://news.bbcimg.co.uk/news/special/2016/newsspec_14255/static/build/js/common.2886.min.js?v=1.2:4:23910)\n    at b (https://news.bbcimg.co.uk/news/special/2016/newsspec_14255/static/build/js/common.2886.min.js?v=1.2:4:1302)\n    at dispatch (https://news.bbcimg.co.uk/news/special/2016/newsspec_14255/static/build/js/common.2886.min.js?v=1.2:2:17715)\n    at q.handle (https://news.bbcimg.co.uk/news/special/2016/newsspec_14255/static/build/js/common.2886.min.js?v=1.2:2:14390)\n    at Object.trigger (https://news.bbcimg.co.uk/news/special/2016/newsspec_14255/static/build/js/common.2886.min.js?v=1.2:2:16811)\n    at https://news.bbcimg.co.uk/news/special/2016/newsspec_14255/static/build/js/common.2886.min.js?v=1.2:2:24736\n    at Function.each (https://news.bbcimg.co.uk/news/special/2016/newsspec_14255/static/build/js/common.2886.min.js?v=1.2:1:14195)\n    at ea.fn.init.each (https://news.bbcimg.co.uk/news/special/2016/newsspec_14255/static/build/js/common.2886.min.js?v=1.2:1:12041)\n    at ea.fn.init.trigger (https://news.bbcimg.co.uk/news/special/2016/newsspec_14255/static/build/js/common.2886.min.js?v=1.2:2:24711)\n    at ea.fn.init.ea.fn.<computed> [as scroll] (https://news.bbcimg.co.uk/news/special/2016/newsspec_14255/static/build/js/common.2886.min.js?v=1.2:3:18107)\n    at f.on (https://news.bbcimg.co.uk/news/special/2016/newsspec_14255/static/build/js/common.2886.min.js?v=1.2:4:23145)\n    at HTMLDivElement.<anonymous> (https://news.bbcimg.co.uk/news/special/2016/newsspec_14255/static/build/js/story.2886.min.js?v=1.2:111:24689)\n    at Function.each (https://news.bbcimg.co.uk/news/special/2016/newsspec_14255/static/build/js/common.2886.min.js?v=1.2:1:14195)\n    at ea.fn.init.each (https://news.bbcimg.co.uk/news/special/2016/newsspec_14255/static/build/js/common.2886.min.js?v=1.2:1:12041)\n    at HTMLDocument.<anonymous> (https://news.bbcimg.co.uk/news/special/2016/newsspec_14255/static/build/js/story.2886.min.js?v=1.2:111:24574)\n    at k (https://news.bbcimg.co.uk/news/special/2016/newsspec_14255/static/build/js/common.2886.min.js?v=1.2:2:5923)\n    at Object.fireWith [as resolveWith] (https://news.bbcimg.co.uk/news/special/2016/newsspec_14255/static/build/js/common.2886.min.js?v=1.2:2:6740)\n    at Function.ready (https://news.bbcimg.co.uk/news/special/2016/newsspec_14255/static/build/js/common.2886.min.js?v=1.2:2:8600)\n    at HTMLDocument.h (https://news.bbcimg.co.uk/news/special/2016/newsspec_14255/static/build/js/common.2886.min.js?v=1.2:1:1177)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: a is not a function\n    at ea.fn.init.<…/static/build/js/common.2886.min.js?v=1.2:1:1177)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "a is not a function"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

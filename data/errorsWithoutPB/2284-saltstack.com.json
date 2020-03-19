@@ -1,0 +1,49 @@
+[
+  {
+    "timestamp": 1582812646960.9019,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 147,
+      "columnNumber": 15,
+      "url": "https://www.saltstack.com/wp-content/themes/ekrblank-saltstack/js/scripts.js?ver=1.0",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "siteLoad",
+            "scriptId": "36",
+            "url": "https://www.saltstack.com/wp-content/themes/ekrblank-saltstack/js/scripts.js?ver=1.0",
+            "lineNumber": 147,
+            "columnNumber": 15
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: skrollr.destroy is not a function\n    at siteLoad (https://www.saltstack.com/wp-content/themes/ekrblank-saltstack/js/scripts.js?ver=1.0:148:16)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: skrollr.destroy is not a function\n    at siteLoad (https://www.saltstack.com/wp-content/themes/ekrblank-saltstack/js/scripts.js?ver=1.0:148:16)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: skrollr.destroy is not a function\n    a…/ekrblank-saltstack/js/scripts.js?ver=1.0:148:16)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "skrollr.destroy is not a function"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

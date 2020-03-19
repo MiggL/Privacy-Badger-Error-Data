@@ -1,0 +1,49 @@
+[
+  {
+    "timestamp": 1583750308190.614,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 85,
+      "columnNumber": 16,
+      "url": "https://blog.rocorescue.com/roco-rescue-blog",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "24",
+            "url": "https://blog.rocorescue.com/roco-rescue-blog",
+            "lineNumber": 85,
+            "columnNumber": 16
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: catSetSelectedCSSItem is not defined\n    at https://blog.rocorescue.com/roco-rescue-blog:86:17",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: catSetSelectedCSSItem is not defined\n    at https://blog.rocorescue.com/roco-rescue-blog:86:17",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: catSetSelectedCSSItem is not defin…ttps://blog.rocorescue.com/roco-rescue-blog:86:17"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "catSetSelectedCSSItem is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

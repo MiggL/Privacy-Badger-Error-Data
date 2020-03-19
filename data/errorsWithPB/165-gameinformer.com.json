@@ -1,0 +1,49 @@
+[
+  {
+    "timestamp": 1583757857182.054,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 1466,
+      "columnNumber": 13,
+      "url": "https://www.gameinformer.com/b/features/archive/2017/03/11/hands-on-with-final-fantasy-xv-episode-gladiolus.aspx",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "38",
+            "url": "https://www.gameinformer.com/b/features/archive/2017/03/11/hands-on-with-final-fantasy-xv-episode-gladiolus.aspx",
+            "lineNumber": 1466,
+            "columnNumber": 13
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: googletag.pubads is not a function\n    at https://www.gameinformer.com/b/features/archive/2017/03/11/hands-on-with-final-fantasy-xv-episode-gladiolus.aspx:1467:14",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: googletag.pubads is not a function\n    at https://www.gameinformer.com/b/features/archive/2017/03/11/hands-on-with-final-fantasy-xv-episode-gladiolus.aspx:1467:14",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: googletag.pubads is not a function\n    …h-final-fantasy-xv-episode-gladiolus.aspx:1467:14"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "googletag.pubads is not a function"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

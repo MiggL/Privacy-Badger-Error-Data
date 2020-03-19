@@ -1,0 +1,182 @@
+[
+  {
+    "timestamp": 1582816183541.91,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 363,
+      "columnNumber": 82,
+      "url": "https://www.chron.com/business/technology/article/Rice-studies-the-big-picture-on-tiny-nanoparticles-1496505.php",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "27",
+            "url": "https://www.chron.com/business/technology/article/Rice-studies-the-big-picture-on-tiny-nanoparticles-1496505.php",
+            "lineNumber": 363,
+            "columnNumber": 82
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'style' of undefined\n    at https://www.chron.com/business/technology/article/Rice-studies-the-big-picture-on-tiny-nanoparticles-1496505.php:364:83",
+        "objectId": "{\"injectedScriptId\":3,\"id\":5}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'style' of undefined\n    at https://www.chron.com/business/technology/article/Rice-studies-the-big-picture-on-tiny-nanoparticles-1496505.php:364:83",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'style' of undefin…-picture-on-tiny-nanoparticles-1496505.php:364:83"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'style' of undefined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1582816183615.37,
+    "exceptionDetails": {
+      "exceptionId": 2,
+      "text": "Uncaught",
+      "lineNumber": 23,
+      "columnNumber": 52,
+      "url": "https://nexus.ensighten.com/hearst/news/code/fa82154fa4da5fd1814fc17b36edf2b5.js?conditionId0=305111",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "tWatch.change",
+            "scriptId": "67",
+            "url": "https://nexus.ensighten.com/hearst/news/code/fa82154fa4da5fd1814fc17b36edf2b5.js?conditionId0=305111",
+            "lineNumber": 23,
+            "columnNumber": 52
+          },
+          {
+            "functionName": "_private.doChecks",
+            "scriptId": "34",
+            "url": "https://nexus.ensighten.com/hearst/news/Bootstrap.js",
+            "lineNumber": 125,
+            "columnNumber": 505
+          },
+          {
+            "functionName": "",
+            "scriptId": "34",
+            "url": "https://nexus.ensighten.com/hearst/news/Bootstrap.js",
+            "lineNumber": 126,
+            "columnNumber": 179
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'onSessionFound' of undefined\n    at Object.tWatch.change (https://nexus.ensighten.com/hearst/news/code/fa82154fa4da5fd1814fc17b36edf2b5.js?conditionId0=305111:24:53)\n    at Object._private.doChecks (https://nexus.ensighten.com/hearst/news/Bootstrap.js:126:506)\n    at https://nexus.ensighten.com/hearst/news/Bootstrap.js:127:180",
+        "objectId": "{\"injectedScriptId\":3,\"id\":6}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'onSessionFound' of undefined\n    at Object.tWatch.change (https://nexus.ensighten.com/hearst/news/code/fa82154fa4da5fd1814fc17b36edf2b5.js?conditionId0=305111:24:53)\n    at Object._private.doChecks (https://nexus.ensighten.com/hearst/news/Bootstrap.js:126:506)\n    at https://nexus.ensighten.com/hearst/news/Bootstrap.js:127:180",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'onSessionFound' o…us.ensighten.com/hearst/news/Bootstrap.js:127:180"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'onSessionFound' of undefined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1582816186071.754,
+    "exceptionDetails": {
+      "exceptionId": 3,
+      "text": "Uncaught",
+      "lineNumber": 10,
+      "columnNumber": 275,
+      "url": "https://nexus.ensighten.com/hearst/news/code/fa82154fa4da5fd1814fc17b36edf2b5.js?conditionId0=305111",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "67",
+            "url": "https://nexus.ensighten.com/hearst/news/code/fa82154fa4da5fd1814fc17b36edf2b5.js?conditionId0=305111",
+            "lineNumber": 10,
+            "columnNumber": 275
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'id' of undefined\n    at https://nexus.ensighten.com/hearst/news/code/fa82154fa4da5fd1814fc17b36edf2b5.js?conditionId0=305111:11:276",
+        "objectId": "{\"injectedScriptId\":3,\"id\":7}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'id' of undefined\n    at https://nexus.ensighten.com/hearst/news/code/fa82154fa4da5fd1814fc17b36edf2b5.js?conditionId0=305111:11:276",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'id' of undefined\n…fd1814fc17b36edf2b5.js?conditionId0=305111:11:276"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'id' of undefined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1582816186532.479,
+    "exceptionDetails": {
+      "exceptionId": 4,
+      "text": "Uncaught",
+      "lineNumber": 5,
+      "columnNumber": 94124,
+      "url": "https://securepubads.g.doubleclick.net/gpt/pubads_impl_2020022001.js?21065598",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "54",
+            "url": "https://securepubads.g.doubleclick.net/gpt/pubads_impl_2020022001.js?21065598",
+            "lineNumber": 5,
+            "columnNumber": 94124
+          }
+        ]
+      },
+      "exception": {
+        "type": "undefined"
+      },
+      "executionContextId": 3
+    }
+  }
+]

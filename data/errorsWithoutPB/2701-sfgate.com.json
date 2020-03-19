@@ -1,0 +1,110 @@
+[
+  {
+    "timestamp": 1582734776071.831,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 401,
+      "columnNumber": 82,
+      "url": "https://www.sfgate.com/music/article/Summer-of-Love-bands-then-and-now-11090888.php",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "31",
+            "url": "https://www.sfgate.com/music/article/Summer-of-Love-bands-then-and-now-11090888.php",
+            "lineNumber": 401,
+            "columnNumber": 82
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'style' of undefined\n    at https://www.sfgate.com/music/article/Summer-of-Love-bands-then-and-now-11090888.php:402:83",
+        "objectId": "{\"injectedScriptId\":3,\"id\":5}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'style' of undefined\n    at https://www.sfgate.com/music/article/Summer-of-Love-bands-then-and-now-11090888.php:402:83",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'style' of undefin…er-of-Love-bands-then-and-now-11090888.php:402:83"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'style' of undefined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1582734776183.12,
+    "exceptionDetails": {
+      "exceptionId": 2,
+      "text": "Uncaught",
+      "lineNumber": 20,
+      "columnNumber": 52,
+      "url": "https://nexus.ensighten.com/hearst/news/code/33eb537fcac9cd2db8ca3fc37919ef01.js?conditionId0=304054",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "tWatch.change",
+            "scriptId": "78",
+            "url": "https://nexus.ensighten.com/hearst/news/code/33eb537fcac9cd2db8ca3fc37919ef01.js?conditionId0=304054",
+            "lineNumber": 20,
+            "columnNumber": 52
+          },
+          {
+            "functionName": "_private.doChecks",
+            "scriptId": "41",
+            "url": "https://nexus.ensighten.com/hearst/news/Bootstrap.js",
+            "lineNumber": 125,
+            "columnNumber": 505
+          },
+          {
+            "functionName": "",
+            "scriptId": "41",
+            "url": "https://nexus.ensighten.com/hearst/news/Bootstrap.js",
+            "lineNumber": 126,
+            "columnNumber": 179
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'onSessionFound' of undefined\n    at Object.tWatch.change (https://nexus.ensighten.com/hearst/news/code/33eb537fcac9cd2db8ca3fc37919ef01.js?conditionId0=304054:21:53)\n    at Object._private.doChecks (https://nexus.ensighten.com/hearst/news/Bootstrap.js:126:506)\n    at https://nexus.ensighten.com/hearst/news/Bootstrap.js:127:180",
+        "objectId": "{\"injectedScriptId\":3,\"id\":6}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'onSessionFound' of undefined\n    at Object.tWatch.change (https://nexus.ensighten.com/hearst/news/code/33eb537fcac9cd2db8ca3fc37919ef01.js?conditionId0=304054:21:53)\n    at Object._private.doChecks (https://nexus.ensighten.com/hearst/news/Bootstrap.js:126:506)\n    at https://nexus.ensighten.com/hearst/news/Bootstrap.js:127:180",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'onSessionFound' o…us.ensighten.com/hearst/news/Bootstrap.js:127:180"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'onSessionFound' of undefined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

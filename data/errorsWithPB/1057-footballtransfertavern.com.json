@@ -1,0 +1,110 @@
+[
+  {
+    "timestamp": 1583422694684.732,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 0,
+      "columnNumber": 1849,
+      "url": "https://cdn.footballtransfertavern.com/wp-content/plugins/snack-onesignal/dist/js/onesignal.min.js?ver=190912-94633",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "getSubscriptionState",
+            "scriptId": "61",
+            "url": "https://cdn.footballtransfertavern.com/wp-content/plugins/snack-onesignal/dist/js/onesignal.min.js?ver=190912-94633",
+            "lineNumber": 0,
+            "columnNumber": 1849
+          },
+          {
+            "functionName": "window.onload",
+            "scriptId": "61",
+            "url": "https://cdn.footballtransfertavern.com/wp-content/plugins/snack-onesignal/dist/js/onesignal.min.js?ver=190912-94633",
+            "lineNumber": 0,
+            "columnNumber": 3450
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: OneSignal.isPushNotificationsEnabled is not a function\n    at getSubscriptionState (https://cdn.footballtransfertavern.com/wp-content/plugins/snack-onesignal/dist/js/onesignal.min.js?ver=190912-94633:1:1850)\n    at window.onload (https://cdn.footballtransfertavern.com/wp-content/plugins/snack-onesignal/dist/js/onesignal.min.js?ver=190912-94633:1:3451)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: OneSignal.isPushNotificationsEnabled is not a function\n    at getSubscriptionState (https://cdn.footballtransfertavern.com/wp-content/plugins/snack-onesignal/dist/js/onesignal.min.js?ver=190912-94633:1:1850)\n    at window.onload (https://cdn.footballtransfertavern.com/wp-content/plugins/snack-onesignal/dist/js/onesignal.min.js?ver=190912-94633:1:3451)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: OneSignal.isPushNotificationsEnabled is…dist/js/onesignal.min.js?ver=190912-94633:1:3451)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "OneSignal.isPushNotificationsEnabled is not a function"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583422695372.312,
+    "exceptionDetails": {
+      "exceptionId": 2,
+      "text": "Uncaught",
+      "lineNumber": 0,
+      "columnNumber": 1849,
+      "url": "https://cdn.footballtransfertavern.com/wp-content/plugins/snack-onesignal/dist/js/onesignal.min.js?ver=190912-94633",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "getSubscriptionState",
+            "scriptId": "61",
+            "url": "https://cdn.footballtransfertavern.com/wp-content/plugins/snack-onesignal/dist/js/onesignal.min.js?ver=190912-94633",
+            "lineNumber": 0,
+            "columnNumber": 1849
+          },
+          {
+            "functionName": "window.onload",
+            "scriptId": "61",
+            "url": "https://cdn.footballtransfertavern.com/wp-content/plugins/snack-onesignal/dist/js/onesignal.min.js?ver=190912-94633",
+            "lineNumber": 0,
+            "columnNumber": 3450
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: OneSignal.isPushNotificationsEnabled is not a function\n    at getSubscriptionState (https://cdn.footballtransfertavern.com/wp-content/plugins/snack-onesignal/dist/js/onesignal.min.js?ver=190912-94633:1:1850)\n    at window.onload (https://cdn.footballtransfertavern.com/wp-content/plugins/snack-onesignal/dist/js/onesignal.min.js?ver=190912-94633:1:3451)",
+        "objectId": "{\"injectedScriptId\":21,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: OneSignal.isPushNotificationsEnabled is not a function\n    at getSubscriptionState (https://cdn.footballtransfertavern.com/wp-content/plugins/snack-onesignal/dist/js/onesignal.min.js?ver=190912-94633:1:1850)\n    at window.onload (https://cdn.footballtransfertavern.com/wp-content/plugins/snack-onesignal/dist/js/onesignal.min.js?ver=190912-94633:1:3451)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: OneSignal.isPushNotificationsEnabled is…dist/js/onesignal.min.js?ver=190912-94633:1:3451)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "OneSignal.isPushNotificationsEnabled is not a function"
+            }
+          ]
+        }
+      },
+      "executionContextId": 21
+    }
+  }
+]

@@ -1,0 +1,49 @@
+[
+  {
+    "timestamp": 1583422532623.228,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 1313,
+      "columnNumber": 2,
+      "url": "http://blumenfield.lacity.org/public_safety_town_hall_questions_and_answers",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "40",
+            "url": "http://blumenfield.lacity.org/public_safety_town_hall_questions_and_answers",
+            "lineNumber": 1313,
+            "columnNumber": 2
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: FB is not defined\n    at http://blumenfield.lacity.org/public_safety_town_hall_questions_and_answers:1314:3",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: FB is not defined\n    at http://blumenfield.lacity.org/public_safety_town_hall_questions_and_answers:1314:3",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: FB is not defined\n    at http://bl…lic_safety_town_hall_questions_and_answers:1314:3"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "FB is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

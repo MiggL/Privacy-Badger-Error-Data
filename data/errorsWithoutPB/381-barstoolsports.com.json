@@ -1,0 +1,193 @@
+[
+  {
+    "timestamp": 1583009902366.686,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught (in promise)",
+      "lineNumber": 0,
+      "columnNumber": 157508,
+      "url": "https://www.barstoolsports.com/static/app.e27fffe13afc9196c6a1.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "value",
+            "scriptId": "17",
+            "url": "https://www.barstoolsports.com/static/app.e27fffe13afc9196c6a1.js",
+            "lineNumber": 0,
+            "columnNumber": 157508
+          },
+          {
+            "functionName": "",
+            "scriptId": "17",
+            "url": "https://www.barstoolsports.com/static/app.e27fffe13afc9196c6a1.js",
+            "lineNumber": 0,
+            "columnNumber": 158992
+          },
+          {
+            "functionName": "u",
+            "scriptId": "16",
+            "url": "https://www.barstoolsports.com/static/vendors~app.2d6770e0d15046dd41af.js",
+            "lineNumber": 120,
+            "columnNumber": 6873
+          },
+          {
+            "functionName": "",
+            "scriptId": "16",
+            "url": "https://www.barstoolsports.com/static/vendors~app.2d6770e0d15046dd41af.js",
+            "lineNumber": 120,
+            "columnNumber": 6626
+          },
+          {
+            "functionName": "forEach.e.<computed>",
+            "scriptId": "16",
+            "url": "https://www.barstoolsports.com/static/vendors~app.2d6770e0d15046dd41af.js",
+            "lineNumber": 120,
+            "columnNumber": 7230
+          },
+          {
+            "functionName": "n",
+            "scriptId": "16",
+            "url": "https://www.barstoolsports.com/static/vendors~app.2d6770e0d15046dd41af.js",
+            "lineNumber": 29,
+            "columnNumber": 51501
+          },
+          {
+            "functionName": "s",
+            "scriptId": "16",
+            "url": "https://www.barstoolsports.com/static/vendors~app.2d6770e0d15046dd41af.js",
+            "lineNumber": 29,
+            "columnNumber": 51712
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'name' of undefined\n    at t.value (https://www.barstoolsports.com/static/app.e27fffe13afc9196c6a1.js:1:157509)\n    at t.<anonymous> (https://www.barstoolsports.com/static/app.e27fffe13afc9196c6a1.js:1:158993)\n    at u (https://www.barstoolsports.com/static/vendors~app.2d6770e0d15046dd41af.js:121:6874)\n    at Generator._invoke (https://www.barstoolsports.com/static/vendors~app.2d6770e0d15046dd41af.js:121:6627)\n    at Generator.forEach.e.<computed> [as next] (https://www.barstoolsports.com/static/vendors~app.2d6770e0d15046dd41af.js:121:7231)\n    at n (https://www.barstoolsports.com/static/vendors~app.2d6770e0d15046dd41af.js:30:51502)\n    at s (https://www.barstoolsports.com/static/vendors~app.2d6770e0d15046dd41af.js:30:51713)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'name' of undefined\n    at t.value (https://www.barstoolsports.com/static/app.e27fffe13afc9196c6a1.js:1:157509)\n    at t.<anonymous> (https://www.barstoolsports.com/static/app.e27fffe13afc9196c6a1.js:1:158993)\n    at u (https://www.barstoolsports.com/static/vendors~app.2d6770e0d15046dd41af.js:121:6874)\n    at Generator._invoke (https://www.barstoolsports.com/static/vendors~app.2d6770e0d15046dd41af.js:121:6627)\n    at Generator.forEach.e.<computed> [as next] (https://www.barstoolsports.com/static/vendors~app.2d6770e0d15046dd41af.js:121:7231)\n    at n (https://www.barstoolsports.com/static/vendors~app.2d6770e0d15046dd41af.js:30:51502)\n    at s (https://www.barstoolsports.com/static/vendors~app.2d6770e0d15046dd41af.js:30:51713)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'name' of undefine…tic/vendors~app.2d6770e0d15046dd41af.js:30:51713)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'name' of undefined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583009903970.287,
+    "exceptionDetails": {
+      "exceptionId": 2,
+      "text": "Uncaught",
+      "lineNumber": 1,
+      "columnNumber": 0,
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "94",
+            "url": "",
+            "lineNumber": 1,
+            "columnNumber": 0
+          },
+          {
+            "functionName": "",
+            "scriptId": "12",
+            "url": "https://dnderkfeab66.cloudfront.net/script.js",
+            "lineNumber": 0,
+            "columnNumber": 74184
+          },
+          {
+            "functionName": "",
+            "scriptId": "68",
+            "url": "https://launcher.spot.im/spot/sp_rnhQMwip",
+            "lineNumber": 169,
+            "columnNumber": 71614
+          },
+          {
+            "functionName": "e.default",
+            "scriptId": "68",
+            "url": "https://launcher.spot.im/spot/sp_rnhQMwip",
+            "lineNumber": 169,
+            "columnNumber": 71332
+          },
+          {
+            "functionName": "e.injectOverrides",
+            "scriptId": "68",
+            "url": "https://launcher.spot.im/spot/sp_rnhQMwip",
+            "lineNumber": 169,
+            "columnNumber": 74257
+          },
+          {
+            "functionName": "",
+            "scriptId": "68",
+            "url": "https://launcher.spot.im/spot/sp_rnhQMwip",
+            "lineNumber": 169,
+            "columnNumber": 68780
+          },
+          {
+            "functionName": "",
+            "scriptId": "68",
+            "url": "https://launcher.spot.im/spot/sp_rnhQMwip",
+            "lineNumber": 169,
+            "columnNumber": 65519
+          },
+          {
+            "functionName": "",
+            "scriptId": "68",
+            "url": "https://launcher.spot.im/spot/sp_rnhQMwip",
+            "lineNumber": 169,
+            "columnNumber": 65624
+          },
+          {
+            "functionName": "a",
+            "scriptId": "68",
+            "url": "https://launcher.spot.im/spot/sp_rnhQMwip",
+            "lineNumber": 169,
+            "columnNumber": 64338
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: __SPOTIM_DEV_STORE__ is not defined\n    at <anonymous>:2:1\n    at HTMLBodyElement.appendChild (https://dnderkfeab66.cloudfront.net/script.js:1:74185)\n    at https://launcher.spot.im/spot/sp_rnhQMwip:170:71615\n    at new Promise (<anonymous>)\n    at Object.e.default (https://launcher.spot.im/spot/sp_rnhQMwip:170:71333)\n    at Object.e.injectOverrides (https://launcher.spot.im/spot/sp_rnhQMwip:170:74258)\n    at Object.<anonymous> (https://launcher.spot.im/spot/sp_rnhQMwip:170:68781)\n    at https://launcher.spot.im/spot/sp_rnhQMwip:170:65520\n    at Object.next (https://launcher.spot.im/spot/sp_rnhQMwip:170:65625)\n    at a (https://launcher.spot.im/spot/sp_rnhQMwip:170:64339)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":3}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: __SPOTIM_DEV_STORE__ is not defined\n    at <anonymous>:2:1\n    at HTMLBodyElement.appendChild (https://dnderkfeab66.cloudfront.net/script.js:1:74185)\n    at https://launcher.spot.im/spot/sp_rnhQMwip:170:71615\n    at new Promise (<anonymous>)\n    at Object.e.default (https://launcher.spot.im/spot/sp_rnhQMwip:170:71333)\n    at Object.e.injectOverrides (https://launcher.spot.im/spot/sp_rnhQMwip:170:74258)\n    at Object.<anonymous> (https://launcher.spot.im/spot/sp_rnhQMwip:170:68781)\n    at https://launcher.spot.im/spot/sp_rnhQMwip:170:65520\n    at Object.next (https://launcher.spot.im/spot/sp_rnhQMwip:170:65625)\n    at a (https://launcher.spot.im/spot/sp_rnhQMwip:170:64339)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: __SPOTIM_DEV_STORE__ is not define…ps://launcher.spot.im/spot/sp_rnhQMwip:170:64339)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "__SPOTIM_DEV_STORE__ is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

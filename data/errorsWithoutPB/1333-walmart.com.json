@@ -1,0 +1,105 @@
+[
+  {
+    "timestamp": 1583001094689.757,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 0,
+      "columnNumber": 13168,
+      "url": "https://bat.bing.com/bat.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "UET.throwError",
+            "scriptId": "124",
+            "url": "https://bat.bing.com/bat.js",
+            "lineNumber": 0,
+            "columnNumber": 13168
+          },
+          {
+            "functionName": "UET.validateParameter",
+            "scriptId": "124",
+            "url": "https://bat.bing.com/bat.js",
+            "lineNumber": 0,
+            "columnNumber": 15327
+          },
+          {
+            "functionName": "UET.validateSubparams",
+            "scriptId": "124",
+            "url": "https://bat.bing.com/bat.js",
+            "lineNumber": 0,
+            "columnNumber": 15898
+          },
+          {
+            "functionName": "UET.validateDataObjectNew",
+            "scriptId": "124",
+            "url": "https://bat.bing.com/bat.js",
+            "lineNumber": 0,
+            "columnNumber": 16805
+          },
+          {
+            "functionName": "UET.evt",
+            "scriptId": "124",
+            "url": "https://bat.bing.com/bat.js",
+            "lineNumber": 0,
+            "columnNumber": 19397
+          },
+          {
+            "functionName": "UET._push",
+            "scriptId": "124",
+            "url": "https://bat.bing.com/bat.js",
+            "lineNumber": 0,
+            "columnNumber": 7755
+          },
+          {
+            "functionName": "UET.push",
+            "scriptId": "124",
+            "url": "https://bat.bing.com/bat.js",
+            "lineNumber": 0,
+            "columnNumber": 7512
+          },
+          {
+            "functionName": "UET.dispatchq",
+            "scriptId": "124",
+            "url": "https://bat.bing.com/bat.js",
+            "lineNumber": 0,
+            "columnNumber": 8216
+          },
+          {
+            "functionName": "UET.evt",
+            "scriptId": "124",
+            "url": "https://bat.bing.com/bat.js",
+            "lineNumber": 0,
+            "columnNumber": 20775
+          },
+          {
+            "functionName": "UET._push",
+            "scriptId": "124",
+            "url": "https://bat.bing.com/bat.js",
+            "lineNumber": 0,
+            "columnNumber": 7755
+          },
+          {
+            "functionName": "UET.push",
+            "scriptId": "124",
+            "url": "https://bat.bing.com/bat.js",
+            "lineNumber": 0,
+            "columnNumber": 7512
+          },
+          {
+            "functionName": "",
+            "scriptId": "116",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-W3TVVWN",
+            "lineNumber": 924,
+            "columnNumber": 60
+          }
+        ]
+      },
+      "exception": {
+        "type": "string",
+        "value": "ecomm_pagetype value must be one of the allowed values"
+      },
+      "executionContextId": 3
+    }
+  }
+]

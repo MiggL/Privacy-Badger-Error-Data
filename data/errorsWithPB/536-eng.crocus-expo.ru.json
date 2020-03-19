@@ -1,0 +1,103 @@
+[
+  {
+    "timestamp": 1583749448077.6912,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 28,
+      "columnNumber": 29,
+      "url": "http://www.crocus-expo.ru.js.1c-bitrix-cdn.ru/bitrix/cache/js/c2/crocus_expo_2017_eng/template_bfe9da9bf2eb5e1779da875309abc2f3/template_bfe9da9bf2eb5e1779da875309abc2f3_v1.js?158290149412526",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "41",
+            "url": "http://www.crocus-expo.ru.js.1c-bitrix-cdn.ru/bitrix/cache/js/c2/crocus_expo_2017_eng/template_bfe9da9bf2eb5e1779da875309abc2f3/template_bfe9da9bf2eb5e1779da875309abc2f3_v1.js?158290149412526",
+            "lineNumber": 28,
+            "columnNumber": 29
+          },
+          {
+            "functionName": "",
+            "scriptId": "41",
+            "url": "http://www.crocus-expo.ru.js.1c-bitrix-cdn.ru/bitrix/cache/js/c2/crocus_expo_2017_eng/template_bfe9da9bf2eb5e1779da875309abc2f3/template_bfe9da9bf2eb5e1779da875309abc2f3_v1.js?158290149412526",
+            "lineNumber": 240,
+            "columnNumber": 2
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'msie' of undefined\n    at http://www.crocus-expo.ru.js.1c-bitrix-cdn.ru/bitrix/cache/js/c2/crocus_expo_2017_eng/template_bfe9da9bf2eb5e1779da875309abc2f3/template_bfe9da9bf2eb5e1779da875309abc2f3_v1.js?158290149412526:29:30\n    at http://www.crocus-expo.ru.js.1c-bitrix-cdn.ru/bitrix/cache/js/c2/crocus_expo_2017_eng/template_bfe9da9bf2eb5e1779da875309abc2f3/template_bfe9da9bf2eb5e1779da875309abc2f3_v1.js?158290149412526:241:3",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'msie' of undefined\n    at http://www.crocus-expo.ru.js.1c-bitrix-cdn.ru/bitrix/cache/js/c2/crocus_expo_2017_eng/template_bfe9da9bf2eb5e1779da875309abc2f3/template_bfe9da9bf2eb5e1779da875309abc2f3_v1.js?158290149412526:29:30\n    at http://www.crocus-expo.ru.js.1c-bitrix-cdn.ru/bitrix/cache/js/c2/crocus_expo_2017_eng/template_bfe9da9bf2eb5e1779da875309abc2f3/template_bfe9da9bf2eb5e1779da875309abc2f3_v1.js?158290149412526:241:3",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'msie' of undefine…b5e1779da875309abc2f3_v1.js?158290149412526:241:3"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'msie' of undefined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583749448109.196,
+    "exceptionDetails": {
+      "exceptionId": 2,
+      "text": "Uncaught",
+      "lineNumber": 257,
+      "columnNumber": 4,
+      "url": "http://eng.crocus-expo.ru/",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "46",
+            "url": "http://eng.crocus-expo.ru/",
+            "lineNumber": 257,
+            "columnNumber": 4
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: $ is not a function\n    at http://eng.crocus-expo.ru/:258:5",
+        "objectId": "{\"injectedScriptId\":3,\"id\":2}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: $ is not a function\n    at http://eng.crocus-expo.ru/:258:5",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: $ is not a function\n    at http://eng.crocus-expo.ru/:258:5"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "$ is not a function"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

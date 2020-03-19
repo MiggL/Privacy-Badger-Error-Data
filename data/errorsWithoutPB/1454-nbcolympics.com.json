@@ -1,0 +1,56 @@
+[
+  {
+    "timestamp": 1582818742284.601,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 311,
+      "columnNumber": 23,
+      "url": "https://www.nbcolympics.com/_static/??-eJyNjksOwjAMRC9EGiIEXSHO0jhWmtZ2onyouD0RQohldh7Ne9boIymIUlGq5qYSNR+k6A1rWmDXHF0jLPpIPsc1Tls56T+jrsi9FQuRXpwCdLPoAjkSjbHP4HDwrW3W9i2DcMZlD+KV4DGofG8F6yKCpFKO/JsWBKg5/IA9Ilt0Ewfp/YPv5jrfZmPOF7O9Ab+Offw=",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "22",
+            "url": "https://www.nbcolympics.com/_static/??-eJyNjksOwjAMRC9EGiIEXSHO0jhWmtZ2onyouD0RQohldh7Ne9boIymIUlGq5qYSNR+k6A1rWmDXHF0jLPpIPsc1Tls56T+jrsi9FQuRXpwCdLPoAjkSjbHP4HDwrW3W9i2DcMZlD+KV4DGofG8F6yKCpFKO/JsWBKg5/IA9Ilt0Ewfp/YPv5jrfZmPOF7O9Ab+Offw=",
+            "lineNumber": 311,
+            "columnNumber": 23
+          },
+          {
+            "functionName": "",
+            "scriptId": "22",
+            "url": "https://www.nbcolympics.com/_static/??-eJyNjksOwjAMRC9EGiIEXSHO0jhWmtZ2onyouD0RQohldh7Ne9boIymIUlGq5qYSNR+k6A1rWmDXHF0jLPpIPsc1Tls56T+jrsi9FQuRXpwCdLPoAjkSjbHP4HDwrW3W9i2DcMZlD+KV4DGofG8F6yKCpFKO/JsWBKg5/IA9Ilt0Ewfp/YPv5jrfZmPOF7O9Ab+Offw=",
+            "lineNumber": 322,
+            "columnNumber": 2
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'querySelectorAll' of null\n    at https://www.nbcolympics.com/_static/??-eJyNjksOwjAMRC9EGiIEXSHO0jhWmtZ2onyouD0RQohldh7Ne9boIymIUlGq5qYSNR+k6A1rWmDXHF0jLPpIPsc1Tls56T+jrsi9FQuRXpwCdLPoAjkSjbHP4HDwrW3W9i2DcMZlD+KV4DGofG8F6yKCpFKO/JsWBKg5/IA9Ilt0Ewfp/YPv5jrfZmPOF7O9Ab+Offw=:312:24\n    at https://www.nbcolympics.com/_static/??-eJyNjksOwjAMRC9EGiIEXSHO0jhWmtZ2onyouD0RQohldh7Ne9boIymIUlGq5qYSNR+k6A1rWmDXHF0jLPpIPsc1Tls56T+jrsi9FQuRXpwCdLPoAjkSjbHP4HDwrW3W9i2DcMZlD+KV4DGofG8F6yKCpFKO/JsWBKg5/IA9Ilt0Ewfp/YPv5jrfZmPOF7O9Ab+Offw=:323:3",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'querySelectorAll' of null\n    at https://www.nbcolympics.com/_static/??-eJyNjksOwjAMRC9EGiIEXSHO0jhWmtZ2onyouD0RQohldh7Ne9boIymIUlGq5qYSNR+k6A1rWmDXHF0jLPpIPsc1Tls56T+jrsi9FQuRXpwCdLPoAjkSjbHP4HDwrW3W9i2DcMZlD+KV4DGofG8F6yKCpFKO/JsWBKg5/IA9Ilt0Ewfp/YPv5jrfZmPOF7O9Ab+Offw=:312:24\n    at https://www.nbcolympics.com/_static/??-eJyNjksOwjAMRC9EGiIEXSHO0jhWmtZ2onyouD0RQohldh7Ne9boIymIUlGq5qYSNR+k6A1rWmDXHF0jLPpIPsc1Tls56T+jrsi9FQuRXpwCdLPoAjkSjbHP4HDwrW3W9i2DcMZlD+KV4DGofG8F6yKCpFKO/JsWBKg5/IA9Ilt0Ewfp/YPv5jrfZmPOF7O9Ab+Offw=:323:3",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'querySelectorAll'…JsWBKg5/IA9Ilt0Ewfp/YPv5jrfZmPOF7O9Ab+Offw=:323:3"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'querySelectorAll' of null"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

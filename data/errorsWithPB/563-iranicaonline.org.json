@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": 1583749207441.2961,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 2816,
+      "columnNumber": 29,
+      "scriptId": "32",
+      "url": "http://w.sharethis.com/button/sharethis.js",
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "SyntaxError",
+        "description": "SyntaxError: missing ) after argument list",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "SyntaxError: missing ) after argument list",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "SyntaxError: missing ) after argument list"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "missing ) after argument list"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

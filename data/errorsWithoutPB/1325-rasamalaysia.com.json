@@ -1,0 +1,49 @@
+[
+  {
+    "timestamp": 1583001169381.468,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 182,
+      "columnNumber": 573,
+      "url": "https://rasamalaysia.com/balinese-chicken-ayam-pelalah/",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "onload",
+            "scriptId": "73",
+            "url": "https://rasamalaysia.com/balinese-chicken-ayam-pelalah/",
+            "lineNumber": 182,
+            "columnNumber": 573
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: pagespeed is not defined\n    at HTMLImageElement.onload (https://rasamalaysia.com/balinese-chicken-ayam-pelalah/:183:574)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: pagespeed is not defined\n    at HTMLImageElement.onload (https://rasamalaysia.com/balinese-chicken-ayam-pelalah/:183:574)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: pagespeed is not defined\n    at HT…aysia.com/balinese-chicken-ayam-pelalah/:183:574)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "pagespeed is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

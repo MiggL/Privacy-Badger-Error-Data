@@ -1,0 +1,173 @@
+[
+  {
+    "timestamp": 1583005432712.892,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 166,
+      "columnNumber": 2328,
+      "url": "http://news.bbc.co.uk/earth/hi/earth_news/newsid_8151000/8151644.stm",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "oqsSurveyManager",
+            "scriptId": "24",
+            "url": "http://news.bbc.co.uk/earth/hi/earth_news/newsid_8151000/8151644.stm",
+            "lineNumber": 166,
+            "columnNumber": 2328
+          },
+          {
+            "functionName": "",
+            "scriptId": "24",
+            "url": "http://news.bbc.co.uk/earth/hi/earth_news/newsid_8151000/8151644.stm",
+            "lineNumber": 166,
+            "columnNumber": 2525
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: w.orb.fig is not a function\n    at oqsSurveyManager (http://news.bbc.co.uk/earth/hi/earth_news/newsid_8151000/8151644.stm:167:2329)\n    at http://news.bbc.co.uk/earth/hi/earth_news/newsid_8151000/8151644.stm:167:2526",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: w.orb.fig is not a function\n    at oqsSurveyManager (http://news.bbc.co.uk/earth/hi/earth_news/newsid_8151000/8151644.stm:167:2329)\n    at http://news.bbc.co.uk/earth/hi/earth_news/newsid_8151000/8151644.stm:167:2526",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: w.orb.fig is not a function\n    at oqsS…hi/earth_news/newsid_8151000/8151644.stm:167:2526"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "w.orb.fig is not a function"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583005433467.773,
+    "exceptionDetails": {
+      "exceptionId": 2,
+      "text": "Uncaught",
+      "lineNumber": 45,
+      "columnNumber": 60,
+      "url": "http://news.bbc.co.uk/js/app/bbccom/1.52.0/adsense_write.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "78",
+            "url": "http://news.bbc.co.uk/js/app/bbccom/1.52.0/adsense_write.js",
+            "lineNumber": 45,
+            "columnNumber": 60
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot set property 'innerHTML' of null\n    at http://news.bbc.co.uk/js/app/bbccom/1.52.0/adsense_write.js:46:61",
+        "objectId": "{\"injectedScriptId\":3,\"id\":2}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot set property 'innerHTML' of null\n    at http://news.bbc.co.uk/js/app/bbccom/1.52.0/adsense_write.js:46:61",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot set property 'innerHTML' of null…co.uk/js/app/bbccom/1.52.0/adsense_write.js:46:61"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot set property 'innerHTML' of null"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583005434201.7542,
+    "exceptionDetails": {
+      "exceptionId": 3,
+      "text": "Uncaught",
+      "lineNumber": 6,
+      "columnNumber": 1146,
+      "url": "http://static.bbci.co.uk/frameworks/requirejs/lib.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "makeError",
+            "scriptId": "17",
+            "url": "http://static.bbci.co.uk/frameworks/requirejs/lib.js",
+            "lineNumber": 6,
+            "columnNumber": 1146
+          },
+          {
+            "functionName": "onScriptError",
+            "scriptId": "17",
+            "url": "http://static.bbci.co.uk/frameworks/requirejs/lib.js",
+            "lineNumber": 6,
+            "columnNumber": 12797
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "Error",
+        "description": "Error: Script error for: idcta/statusbar\nhttp://requirejs.org/docs/errors.html#scripterror\n    at makeError (http://static.bbci.co.uk/frameworks/requirejs/lib.js:7:1147)\n    at HTMLScriptElement.onScriptError (http://static.bbci.co.uk/frameworks/requirejs/lib.js:7:12798)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":3}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "Error: Script error for: idcta/statusbar\nhttp://requirejs.org/docs/errors.html#scripterror\n    at makeError (http://static.bbci.co.uk/frameworks/requirejs/lib.js:7:1147)\n    at HTMLScriptElement.onScriptError (http://static.bbci.co.uk/frameworks/requirejs/lib.js:7:12798)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "requireType",
+              "type": "string",
+              "value": "scripterror"
+            },
+            {
+              "name": "requireModules",
+              "type": "object",
+              "value": "Array(1)",
+              "subtype": "array"
+            },
+            {
+              "name": "originalError",
+              "type": "object",
+              "value": "Event"
+            },
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "Error: Script error for: idcta/statusbar\nhttp://re…c.bbci.co.uk/frameworks/requirejs/lib.js:7:12798)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Script error for: idcta/statusbar\nhttp://requirejs.org/docs/errors.html#scripterror"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

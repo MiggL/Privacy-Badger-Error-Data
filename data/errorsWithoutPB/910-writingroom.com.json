@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": 1583005054828.761,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 2816,
+      "columnNumber": 29,
+      "scriptId": "21",
+      "url": "http://w.sharethis.com/widget/?tabs=web%2Cemail&charset=utf-8&services=reddit%2Cdigg%2Cfacebook%2Cmyspace%2Cdelicious%2Cstumbleupon%2Ctechnorati%2Cpropeller%2Cblinklist%2Cmixx%2Cnewsvine%2Cgoogle_bmarks%2Cyahoo_myweb%2Cwindows_live&style=default&publisher=537cd848-3d10-485e-8dce-919f6eb07ac1&headerbg=%23ffa000&inactivebg=%23f9c64c&inactivefg=%23ffffff&linkfg=%233682c6",
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "SyntaxError",
+        "description": "SyntaxError: missing ) after argument list",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "SyntaxError: missing ) after argument list",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "SyntaxError: missing ) after argument list"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "missing ) after argument list"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

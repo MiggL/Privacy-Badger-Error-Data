@@ -1,0 +1,48 @@
+[
+  {
+    "timestamp": 1582813896105.143,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 2,
+      "columnNumber": 342,
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "57",
+            "url": "",
+            "lineNumber": 2,
+            "columnNumber": 342
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: window.a.shift is not a function\n    at HTMLScriptElement.<anonymous> (<anonymous>:3:343)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: window.a.shift is not a function\n    at HTMLScriptElement.<anonymous> (<anonymous>:3:343)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: window.a.shift is not a function\n    at HTMLScriptElement.<anonymous> (<anonymous>:3:343)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "window.a.shift is not a function"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

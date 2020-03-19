@@ -1,0 +1,110 @@
+[
+  {
+    "timestamp": 1582815661053.74,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 1,
+      "columnNumber": 103,
+      "url": "https://cdn.ziffstatic.com/zdconsentlite.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "41",
+            "url": "https://cdn.ziffstatic.com/zdconsentlite.js",
+            "lineNumber": 1,
+            "columnNumber": 103
+          },
+          {
+            "functionName": "",
+            "scriptId": "41",
+            "url": "https://cdn.ziffstatic.com/zdconsentlite.js",
+            "lineNumber": 2,
+            "columnNumber": 220
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: googletag is not defined\n    at https://cdn.ziffstatic.com/zdconsentlite.js:2:104\n    at https://cdn.ziffstatic.com/zdconsentlite.js:3:221",
+        "objectId": "{\"injectedScriptId\":5,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: googletag is not defined\n    at https://cdn.ziffstatic.com/zdconsentlite.js:2:104\n    at https://cdn.ziffstatic.com/zdconsentlite.js:3:221",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: googletag is not defined\n    at ht…https://cdn.ziffstatic.com/zdconsentlite.js:3:221"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "googletag is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 5
+    }
+  },
+  {
+    "timestamp": 1582815661083.345,
+    "exceptionDetails": {
+      "exceptionId": 2,
+      "text": "Uncaught",
+      "lineNumber": 1,
+      "columnNumber": 103,
+      "url": "https://cdn.ziffstatic.com/zdconsentlite.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "41",
+            "url": "https://cdn.ziffstatic.com/zdconsentlite.js",
+            "lineNumber": 1,
+            "columnNumber": 103
+          },
+          {
+            "functionName": "",
+            "scriptId": "41",
+            "url": "https://cdn.ziffstatic.com/zdconsentlite.js",
+            "lineNumber": 2,
+            "columnNumber": 220
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: googletag is not defined\n    at https://cdn.ziffstatic.com/zdconsentlite.js:2:104\n    at https://cdn.ziffstatic.com/zdconsentlite.js:3:221",
+        "objectId": "{\"injectedScriptId\":6,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: googletag is not defined\n    at https://cdn.ziffstatic.com/zdconsentlite.js:2:104\n    at https://cdn.ziffstatic.com/zdconsentlite.js:3:221",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: googletag is not defined\n    at ht…https://cdn.ziffstatic.com/zdconsentlite.js:3:221"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "googletag is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 6
+    }
+  }
+]

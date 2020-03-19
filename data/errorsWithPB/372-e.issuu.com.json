@@ -1,0 +1,105 @@
+[
+  {
+    "timestamp": 1583750986571.5388,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 0,
+      "columnNumber": 187453,
+      "url": "https://static.isu.pub/issuu-reader3/reader.fe5009fb.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "a",
+            "scriptId": "26",
+            "url": "https://static.isu.pub/issuu-reader3/reader.fe5009fb.js",
+            "lineNumber": 0,
+            "columnNumber": 187453
+          },
+          {
+            "functionName": "o",
+            "scriptId": "26",
+            "url": "https://static.isu.pub/issuu-reader3/reader.fe5009fb.js",
+            "lineNumber": 0,
+            "columnNumber": 187911
+          },
+          {
+            "functionName": "802",
+            "scriptId": "27",
+            "url": "https://e.issuu.com/issuu-reader3-embed-files/1965/document-page-reader.54342e5d.js",
+            "lineNumber": 0,
+            "columnNumber": 9314
+          },
+          {
+            "functionName": "u",
+            "scriptId": "23",
+            "url": "https://e.issuu.com/issuu-reader3-embed-files/latest/document-page-reader.html?u=buglenewspapers&d=niles_81414&p=1&cb=2017",
+            "lineNumber": 50,
+            "columnNumber": 7296
+          },
+          {
+            "functionName": "801",
+            "scriptId": "27",
+            "url": "https://e.issuu.com/issuu-reader3-embed-files/1965/document-page-reader.54342e5d.js",
+            "lineNumber": 0,
+            "columnNumber": 8819
+          },
+          {
+            "functionName": "u",
+            "scriptId": "23",
+            "url": "https://e.issuu.com/issuu-reader3-embed-files/latest/document-page-reader.html?u=buglenewspapers&d=niles_81414&p=1&cb=2017",
+            "lineNumber": 50,
+            "columnNumber": 7296
+          },
+          {
+            "functionName": "l",
+            "scriptId": "23",
+            "url": "https://e.issuu.com/issuu-reader3-embed-files/latest/document-page-reader.html?u=buglenewspapers&d=niles_81414&p=1&cb=2017",
+            "lineNumber": 50,
+            "columnNumber": 7165
+          },
+          {
+            "functionName": "e",
+            "scriptId": "23",
+            "url": "https://e.issuu.com/issuu-reader3-embed-files/latest/document-page-reader.html?u=buglenewspapers&d=niles_81414&p=1&cb=2017",
+            "lineNumber": 50,
+            "columnNumber": 7028
+          },
+          {
+            "functionName": "",
+            "scriptId": "27",
+            "url": "https://e.issuu.com/issuu-reader3-embed-files/1965/document-page-reader.54342e5d.js",
+            "lineNumber": 0,
+            "columnNumber": 6785
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "Error",
+        "description": "Error: This reader MUST be loaded inside an iframe\n    at a (https://static.isu.pub/issuu-reader3/reader.fe5009fb.js:1:187454)\n    at o (https://static.isu.pub/issuu-reader3/reader.fe5009fb.js:1:187912)\n    at Module.802 (https://e.issuu.com/issuu-reader3-embed-files/1965/document-page-reader.54342e5d.js:1:9315)\n    at u (https://e.issuu.com/issuu-reader3-embed-files/latest/document-page-reader.html?u=buglenewspapers&d=niles_81414&p=1&cb=2017:51:7297)\n    at Object.801 (https://e.issuu.com/issuu-reader3-embed-files/1965/document-page-reader.54342e5d.js:1:8820)\n    at u (https://e.issuu.com/issuu-reader3-embed-files/latest/document-page-reader.html?u=buglenewspapers&d=niles_81414&p=1&cb=2017:51:7297)\n    at l (https://e.issuu.com/issuu-reader3-embed-files/latest/document-page-reader.html?u=buglenewspapers&d=niles_81414&p=1&cb=2017:51:7166)\n    at Array.e [as push] (https://e.issuu.com/issuu-reader3-embed-files/latest/document-page-reader.html?u=buglenewspapers&d=niles_81414&p=1&cb=2017:51:7029)\n    at https://e.issuu.com/issuu-reader3-embed-files/1965/document-page-reader.54342e5d.js:1:6786",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "Error: This reader MUST be loaded inside an iframe\n    at a (https://static.isu.pub/issuu-reader3/reader.fe5009fb.js:1:187454)\n    at o (https://static.isu.pub/issuu-reader3/reader.fe5009fb.js:1:187912)\n    at Module.802 (https://e.issuu.com/issuu-reader3-embed-files/1965/document-page-reader.54342e5d.js:1:9315)\n    at u (https://e.issuu.com/issuu-reader3-embed-files/latest/document-page-reader.html?u=buglenewspapers&d=niles_81414&p=1&cb=2017:51:7297)\n    at Object.801 (https://e.issuu.com/issuu-reader3-embed-files/1965/document-page-reader.54342e5d.js:1:8820)\n    at u (https://e.issuu.com/issuu-reader3-embed-files/latest/document-page-reader.html?u=buglenewspapers&d=niles_81414&p=1&cb=2017:51:7297)\n    at l (https://e.issuu.com/issuu-reader3-embed-files/latest/document-page-reader.html?u=buglenewspapers&d=niles_81414&p=1&cb=2017:51:7166)\n    at Array.e [as push] (https://e.issuu.com/issuu-reader3-embed-files/latest/document-page-reader.html?u=buglenewspapers&d=niles_81414&p=1&cb=2017:51:7029)\n    at https://e.issuu.com/issuu-reader3-embed-files/1965/document-page-reader.54342e5d.js:1:6786",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "Error: This reader MUST be loaded inside an iframe…iles/1965/document-page-reader.54342e5d.js:1:6786"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "This reader MUST be loaded inside an iframe"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

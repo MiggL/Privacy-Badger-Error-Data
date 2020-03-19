@@ -1,0 +1,252 @@
+[
+  {
+    "timestamp": 1583009124591.861,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 60,
+      "columnNumber": 11192,
+      "scriptId": "13",
+      "url": "https://www.marketwatch.com/story/snap-stock-tumbles-7-in-rocky-trade-2017-03-06",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "makeError",
+            "scriptId": "12",
+            "url": "https://sts3.wsj.net/bucket-a/foxtrot/public/article.min-4c35c07af5.js",
+            "lineNumber": 0,
+            "columnNumber": 1013
+          },
+          {
+            "functionName": "onScriptError",
+            "scriptId": "12",
+            "url": "https://sts3.wsj.net/bucket-a/foxtrot/public/article.min-4c35c07af5.js",
+            "lineNumber": 0,
+            "columnNumber": 12633
+          },
+          {
+            "functionName": "nrWrapper",
+            "scriptId": "13",
+            "url": "https://www.marketwatch.com/story/snap-stock-tumbles-7-in-rocky-trade-2017-03-06",
+            "lineNumber": 60,
+            "columnNumber": 11172
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "Error",
+        "description": "Error: Script error for: track\nhttp://requirejs.org/docs/errors.html#scripterror\n    at makeError (https://sts3.wsj.net/bucket-a/foxtrot/public/article.min-4c35c07af5.js:1:1014)\n    at HTMLScriptElement.onScriptError (https://sts3.wsj.net/bucket-a/foxtrot/public/article.min-4c35c07af5.js:1:12634)\n    at HTMLScriptElement.nrWrapper (https://www.marketwatch.com/story/snap-stock-tumbles-7-in-rocky-trade-2017-03-06:61:11173)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":2}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "Error: Script error for: track\nhttp://requirejs.org/docs/errors.html#scripterror\n    at makeError (https://sts3.wsj.net/bucket-a/foxtrot/public/article.min-4c35c07af5.js:1:1014)\n    at HTMLScriptElement.onScriptError (https://sts3.wsj.net/bucket-a/foxtrot/public/article.min-4c35c07af5.js:1:12634)\n    at HTMLScriptElement.nrWrapper (https://www.marketwatch.com/story/snap-stock-tumbles-7-in-rocky-trade-2017-03-06:61:11173)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "requireType",
+              "type": "string",
+              "value": "scripterror"
+            },
+            {
+              "name": "requireModules",
+              "type": "object",
+              "value": "Array(1)",
+              "subtype": "array"
+            },
+            {
+              "name": "originalError",
+              "type": "object",
+              "value": "Event"
+            },
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "Error: Script error for: track\nhttp://requirejs.or…ock-tumbles-7-in-rocky-trade-2017-03-06:61:11173)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Script error for: track\nhttp://requirejs.org/docs/errors.html#scripterror"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583009125397.756,
+    "exceptionDetails": {
+      "exceptionId": 2,
+      "text": "Uncaught",
+      "lineNumber": 60,
+      "columnNumber": 11192,
+      "scriptId": "13",
+      "url": "https://www.marketwatch.com/story/snap-stock-tumbles-7-in-rocky-trade-2017-03-06",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "makeError",
+            "scriptId": "12",
+            "url": "https://sts3.wsj.net/bucket-a/foxtrot/public/article.min-4c35c07af5.js",
+            "lineNumber": 0,
+            "columnNumber": 1013
+          },
+          {
+            "functionName": "onScriptError",
+            "scriptId": "12",
+            "url": "https://sts3.wsj.net/bucket-a/foxtrot/public/article.min-4c35c07af5.js",
+            "lineNumber": 0,
+            "columnNumber": 12633
+          },
+          {
+            "functionName": "nrWrapper",
+            "scriptId": "13",
+            "url": "https://www.marketwatch.com/story/snap-stock-tumbles-7-in-rocky-trade-2017-03-06",
+            "lineNumber": 60,
+            "columnNumber": 11172
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "Error",
+        "description": "Error: Script error for: trackInfo\nhttp://requirejs.org/docs/errors.html#scripterror\n    at makeError (https://sts3.wsj.net/bucket-a/foxtrot/public/article.min-4c35c07af5.js:1:1014)\n    at HTMLScriptElement.onScriptError (https://sts3.wsj.net/bucket-a/foxtrot/public/article.min-4c35c07af5.js:1:12634)\n    at HTMLScriptElement.nrWrapper (https://www.marketwatch.com/story/snap-stock-tumbles-7-in-rocky-trade-2017-03-06:61:11173)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":3}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "Error: Script error for: trackInfo\nhttp://requirejs.org/docs/errors.html#scripterror\n    at makeError (https://sts3.wsj.net/bucket-a/foxtrot/public/article.min-4c35c07af5.js:1:1014)\n    at HTMLScriptElement.onScriptError (https://sts3.wsj.net/bucket-a/foxtrot/public/article.min-4c35c07af5.js:1:12634)\n    at HTMLScriptElement.nrWrapper (https://www.marketwatch.com/story/snap-stock-tumbles-7-in-rocky-trade-2017-03-06:61:11173)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "requireType",
+              "type": "string",
+              "value": "scripterror"
+            },
+            {
+              "name": "requireModules",
+              "type": "object",
+              "value": "Array(1)",
+              "subtype": "array"
+            },
+            {
+              "name": "originalError",
+              "type": "object",
+              "value": "Event"
+            },
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "Error: Script error for: trackInfo\nhttp://requirej…ock-tumbles-7-in-rocky-trade-2017-03-06:61:11173)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Script error for: trackInfo\nhttp://requirejs.org/docs/errors.html#scripterror"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583009127647.9412,
+    "exceptionDetails": {
+      "exceptionId": 3,
+      "text": "Uncaught",
+      "lineNumber": 11,
+      "columnNumber": 3057,
+      "url": "https://us.tags.newscgp.com/prod/ncg/cookie.html",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "i",
+            "scriptId": "115",
+            "url": "https://us.tags.newscgp.com/prod/ncg/cookie.html",
+            "lineNumber": 11,
+            "columnNumber": 3057
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'toString' of undefined\n    at i (https://us.tags.newscgp.com/prod/ncg/cookie.html:12:3058)",
+        "objectId": "{\"injectedScriptId\":14,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'toString' of undefined\n    at i (https://us.tags.newscgp.com/prod/ncg/cookie.html:12:3058)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'toString' of unde…us.tags.newscgp.com/prod/ncg/cookie.html:12:3058)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'toString' of undefined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 14
+    }
+  },
+  {
+    "timestamp": 1583009127648.268,
+    "exceptionDetails": {
+      "exceptionId": 4,
+      "text": "Uncaught",
+      "lineNumber": 11,
+      "columnNumber": 3057,
+      "url": "https://www.ncaudienceexchange.com/prod/ncg/cookie.html",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "i",
+            "scriptId": "134",
+            "url": "https://www.ncaudienceexchange.com/prod/ncg/cookie.html",
+            "lineNumber": 11,
+            "columnNumber": 3057
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'toString' of undefined\n    at i (https://www.ncaudienceexchange.com/prod/ncg/cookie.html:12:3058)",
+        "objectId": "{\"injectedScriptId\":18,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'toString' of undefined\n    at i (https://www.ncaudienceexchange.com/prod/ncg/cookie.html:12:3058)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'toString' of unde…udienceexchange.com/prod/ncg/cookie.html:12:3058)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'toString' of undefined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 18
+    }
+  }
+]

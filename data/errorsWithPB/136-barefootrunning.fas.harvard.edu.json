@@ -1,0 +1,49 @@
+[
+  {
+    "timestamp": 1583758119430.656,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 106,
+      "columnNumber": 81,
+      "url": "http://barefootrunning.fas.harvard.edu/4BiomechanicsofFootStrike.html",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "onload",
+            "scriptId": "24",
+            "url": "http://barefootrunning.fas.harvard.edu/4BiomechanicsofFootStrike.html",
+            "lineNumber": 106,
+            "columnNumber": 81
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: theTable is not defined\n    at onload (http://barefootrunning.fas.harvard.edu/4BiomechanicsofFootStrike.html:107:82)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: theTable is not defined\n    at onload (http://barefootrunning.fas.harvard.edu/4BiomechanicsofFootStrike.html:107:82)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: theTable is not defined\n    at onl…arvard.edu/4BiomechanicsofFootStrike.html:107:82)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "theTable is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

@@ -1,0 +1,49 @@
+[
+  {
+    "timestamp": 1582894727893.658,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 104,
+      "columnNumber": 0,
+      "url": "https://tricountypestco.com/wacky-pest-wednesday-chipmunks/",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "24",
+            "url": "https://tricountypestco.com/wacky-pest-wednesday-chipmunks/",
+            "lineNumber": 104,
+            "columnNumber": 0
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: WebFont is not defined\n    at https://tricountypestco.com/wacky-pest-wednesday-chipmunks/:105:1",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: WebFont is not defined\n    at https://tricountypestco.com/wacky-pest-wednesday-chipmunks/:105:1",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: WebFont is not defined\n    at http…ypestco.com/wacky-pest-wednesday-chipmunks/:105:1"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "WebFont is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

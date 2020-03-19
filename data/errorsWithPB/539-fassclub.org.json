@@ -1,0 +1,63 @@
+[
+  {
+    "timestamp": 1583749425257.4912,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 2,
+      "columnNumber": 34,
+      "url": "http://fassclub.org/wp-content/plugins/feed-them-social/feeds/instagram/js/date-format.js?ver=5.0.8",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "28",
+            "url": "http://fassclub.org/wp-content/plugins/feed-them-social/feeds/instagram/js/date-format.js?ver=5.0.8",
+            "lineNumber": 2,
+            "columnNumber": 34
+          },
+          {
+            "functionName": "dispatch",
+            "scriptId": "21",
+            "url": "http://fassclub.org/wp-includes/js/jquery/jquery.js?ver=1.12.4",
+            "lineNumber": 2,
+            "columnNumber": 12368
+          },
+          {
+            "functionName": "r.handle",
+            "scriptId": "21",
+            "url": "http://fassclub.org/wp-includes/js/jquery/jquery.js?ver=1.12.4",
+            "lineNumber": 2,
+            "columnNumber": 9087
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: jQuery(...).masonry is not a function\n    at http://fassclub.org/wp-content/plugins/feed-them-social/feeds/instagram/js/date-format.js?ver=5.0.8:3:35\n    at dispatch (http://fassclub.org/wp-includes/js/jquery/jquery.js?ver=1.12.4:3:12369)\n    at r.handle (http://fassclub.org/wp-includes/js/jquery/jquery.js?ver=1.12.4:3:9088)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: jQuery(...).masonry is not a function\n    at http://fassclub.org/wp-content/plugins/feed-them-social/feeds/instagram/js/date-format.js?ver=5.0.8:3:35\n    at dispatch (http://fassclub.org/wp-includes/js/jquery/jquery.js?ver=1.12.4:3:12369)\n    at r.handle (http://fassclub.org/wp-includes/js/jquery/jquery.js?ver=1.12.4:3:9088)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: jQuery(...).masonry is not a function\n …p-includes/js/jquery/jquery.js?ver=1.12.4:3:9088)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "jQuery(...).masonry is not a function"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

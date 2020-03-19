@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": 1583748267004.459,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 1393,
+      "columnNumber": 53,
+      "scriptId": "50",
+      "url": "http://www.sothebys.com/fr/auctions/ecatalogue/lot.2289.html/2012/important-watches-hk0389",
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "SyntaxError",
+        "description": "SyntaxError: Unexpected identifier",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "SyntaxError: Unexpected identifier",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "SyntaxError: Unexpected identifier"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Unexpected identifier"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

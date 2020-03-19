@@ -1,0 +1,63 @@
+[
+  {
+    "timestamp": 1583756875890.408,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 1,
+      "columnNumber": 82467,
+      "url": "https://novalynx.com/store/includes/jquery/jquery-3.3.1.min.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "w.fn.load",
+            "scriptId": "21",
+            "url": "https://novalynx.com/store/includes/jquery/jquery-3.3.1.min.js",
+            "lineNumber": 1,
+            "columnNumber": 82467
+          },
+          {
+            "functionName": "",
+            "scriptId": "39",
+            "url": "https://novalynx.com/store/pc/Temperature-and-Humidity-c12.htm",
+            "lineNumber": 1889,
+            "columnNumber": 11
+          },
+          {
+            "functionName": "",
+            "scriptId": "39",
+            "url": "https://novalynx.com/store/pc/Temperature-and-Humidity-c12.htm",
+            "lineNumber": 1915,
+            "columnNumber": 2
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: e.indexOf is not a function\n    at w.fn.init.w.fn.load (https://novalynx.com/store/includes/jquery/jquery-3.3.1.min.js:2:82468)\n    at https://novalynx.com/store/pc/Temperature-and-Humidity-c12.htm:1890:12\n    at https://novalynx.com/store/pc/Temperature-and-Humidity-c12.htm:1916:3",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: e.indexOf is not a function\n    at w.fn.init.w.fn.load (https://novalynx.com/store/includes/jquery/jquery-3.3.1.min.js:2:82468)\n    at https://novalynx.com/store/pc/Temperature-and-Humidity-c12.htm:1890:12\n    at https://novalynx.com/store/pc/Temperature-and-Humidity-c12.htm:1916:3",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: e.indexOf is not a function\n    at w.fn…/store/pc/Temperature-and-Humidity-c12.htm:1916:3"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "e.indexOf is not a function"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

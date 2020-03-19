@@ -1,0 +1,124 @@
+[
+  {
+    "timestamp": 1583012665619.822,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 30,
+      "columnNumber": 18,
+      "url": "http://www.microscopy-uk.org.uk/force_anindex.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "displayLink",
+            "scriptId": "12",
+            "url": "http://www.microscopy-uk.org.uk/force_anindex.js",
+            "lineNumber": 30,
+            "columnNumber": 18
+          },
+          {
+            "functionName": "callanindex",
+            "scriptId": "12",
+            "url": "http://www.microscopy-uk.org.uk/force_anindex.js",
+            "lineNumber": 79,
+            "columnNumber": 4
+          },
+          {
+            "functionName": "onload",
+            "scriptId": "13",
+            "url": "http://www.microscopy-uk.org.uk/mag/artjul11/bj-begonia.html",
+            "lineNumber": 13,
+            "columnNumber": 65
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'document' of undefined\n    at displayLink (http://www.microscopy-uk.org.uk/force_anindex.js:31:19)\n    at callanindex (http://www.microscopy-uk.org.uk/force_anindex.js:80:5)\n    at onload (http://www.microscopy-uk.org.uk/mag/artjul11/bj-begonia.html:14:66)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'document' of undefined\n    at displayLink (http://www.microscopy-uk.org.uk/force_anindex.js:31:19)\n    at callanindex (http://www.microscopy-uk.org.uk/force_anindex.js:80:5)\n    at onload (http://www.microscopy-uk.org.uk/mag/artjul11/bj-begonia.html:14:66)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'document' of unde…opy-uk.org.uk/mag/artjul11/bj-begonia.html:14:66)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'document' of undefined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583012665746.5972,
+    "exceptionDetails": {
+      "exceptionId": 2,
+      "text": "Uncaught",
+      "lineNumber": 30,
+      "columnNumber": 62,
+      "url": "http://www.microscopy-uk.org.uk/force_anindex.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "displayLink",
+            "scriptId": "12",
+            "url": "http://www.microscopy-uk.org.uk/force_anindex.js",
+            "lineNumber": 30,
+            "columnNumber": 62
+          },
+          {
+            "functionName": "callanindex",
+            "scriptId": "12",
+            "url": "http://www.microscopy-uk.org.uk/force_anindex.js",
+            "lineNumber": 79,
+            "columnNumber": 4
+          },
+          {
+            "functionName": "onload",
+            "scriptId": "17",
+            "url": "http://www.microscopy-uk.org.uk/mag/artjul11/bj-begonia.html",
+            "lineNumber": 13,
+            "columnNumber": 65
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot set property 'innerHTML' of null\n    at displayLink (http://www.microscopy-uk.org.uk/force_anindex.js:31:63)\n    at callanindex (http://www.microscopy-uk.org.uk/force_anindex.js:80:5)\n    at onload (http://www.microscopy-uk.org.uk/mag/artjul11/bj-begonia.html:14:66)",
+        "objectId": "{\"injectedScriptId\":7,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot set property 'innerHTML' of null\n    at displayLink (http://www.microscopy-uk.org.uk/force_anindex.js:31:63)\n    at callanindex (http://www.microscopy-uk.org.uk/force_anindex.js:80:5)\n    at onload (http://www.microscopy-uk.org.uk/mag/artjul11/bj-begonia.html:14:66)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot set property 'innerHTML' of null…opy-uk.org.uk/mag/artjul11/bj-begonia.html:14:66)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot set property 'innerHTML' of null"
+            }
+          ]
+        }
+      },
+      "executionContextId": 7
+    }
+  }
+]

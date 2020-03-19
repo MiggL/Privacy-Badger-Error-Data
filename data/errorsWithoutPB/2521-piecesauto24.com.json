@@ -1,0 +1,49 @@
+[
+  {
+    "timestamp": 1582922099687.592,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 120,
+      "columnNumber": 16,
+      "url": "https://www.piecesauto24.com/facet/7119201",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "19",
+            "url": "https://www.piecesauto24.com/facet/7119201",
+            "lineNumber": 120,
+            "columnNumber": 16
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: fbq is not defined\n    at https://www.piecesauto24.com/facet/7119201:121:17",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: fbq is not defined\n    at https://www.piecesauto24.com/facet/7119201:121:17",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: fbq is not defined\n    at https://www.piecesauto24.com/facet/7119201:121:17"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "fbq is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

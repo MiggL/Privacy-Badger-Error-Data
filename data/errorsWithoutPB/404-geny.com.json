@@ -1,0 +1,139 @@
+[
+  {
+    "timestamp": 1583009703162.749,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 0,
+      "columnNumber": 56,
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "23",
+            "url": "",
+            "lineNumber": 0,
+            "columnNumber": 56
+          },
+          {
+            "functionName": "",
+            "scriptId": "19",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-TL8VWR",
+            "lineNumber": 565,
+            "columnNumber": 413
+          },
+          {
+            "functionName": "c",
+            "scriptId": "19",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-TL8VWR",
+            "lineNumber": 567,
+            "columnNumber": 151
+          },
+          {
+            "functionName": "Db",
+            "scriptId": "19",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-TL8VWR",
+            "lineNumber": 420,
+            "columnNumber": 395
+          },
+          {
+            "functionName": "e",
+            "scriptId": "19",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-TL8VWR",
+            "lineNumber": 466,
+            "columnNumber": 137
+          },
+          {
+            "functionName": "",
+            "scriptId": "19",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-TL8VWR",
+            "lineNumber": 415,
+            "columnNumber": 113
+          },
+          {
+            "functionName": "",
+            "scriptId": "19",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-TL8VWR",
+            "lineNumber": 467,
+            "columnNumber": 228
+          },
+          {
+            "functionName": "",
+            "scriptId": "19",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-TL8VWR",
+            "lineNumber": 466,
+            "columnNumber": 472
+          },
+          {
+            "functionName": "of",
+            "scriptId": "19",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-TL8VWR",
+            "lineNumber": 467,
+            "columnNumber": 517
+          },
+          {
+            "functionName": "qf",
+            "scriptId": "19",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-TL8VWR",
+            "lineNumber": 469,
+            "columnNumber": 226
+          },
+          {
+            "functionName": "ij",
+            "scriptId": "19",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-TL8VWR",
+            "lineNumber": 512,
+            "columnNumber": 186
+          },
+          {
+            "functionName": "hj",
+            "scriptId": "19",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-TL8VWR",
+            "lineNumber": 512,
+            "columnNumber": 0
+          },
+          {
+            "functionName": "jj",
+            "scriptId": "19",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-TL8VWR",
+            "lineNumber": 514,
+            "columnNumber": 356
+          },
+          {
+            "functionName": "kj",
+            "scriptId": "19",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-TL8VWR",
+            "lineNumber": 515,
+            "columnNumber": 29
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: gtmTaboolaBelowThumbnailsListe is not defined\n    at <anonymous>:1:57\n    at https://www.googletagmanager.com/gtm.js?id=GTM-TL8VWR:566:414\n    at c (https://www.googletagmanager.com/gtm.js?id=GTM-TL8VWR:568:152)\n    at Db (https://www.googletagmanager.com/gtm.js?id=GTM-TL8VWR:421:396)\n    at e (https://www.googletagmanager.com/gtm.js?id=GTM-TL8VWR:467:138)\n    at https://www.googletagmanager.com/gtm.js?id=GTM-TL8VWR:416:114\n    at Array.<anonymous> (https://www.googletagmanager.com/gtm.js?id=GTM-TL8VWR:468:229)\n    at Object.Zf (https://www.googletagmanager.com/gtm.js?id=GTM-TL8VWR:467:473)\n    at of (https://www.googletagmanager.com/gtm.js?id=GTM-TL8VWR:468:518)\n    at qf (https://www.googletagmanager.com/gtm.js?id=GTM-TL8VWR:470:227)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: gtmTaboolaBelowThumbnailsListe is not defined\n    at <anonymous>:1:57\n    at https://www.googletagmanager.com/gtm.js?id=GTM-TL8VWR:566:414\n    at c (https://www.googletagmanager.com/gtm.js?id=GTM-TL8VWR:568:152)\n    at Db (https://www.googletagmanager.com/gtm.js?id=GTM-TL8VWR:421:396)\n    at e (https://www.googletagmanager.com/gtm.js?id=GTM-TL8VWR:467:138)\n    at https://www.googletagmanager.com/gtm.js?id=GTM-TL8VWR:416:114\n    at Array.<anonymous> (https://www.googletagmanager.com/gtm.js?id=GTM-TL8VWR:468:229)\n    at Object.Zf (https://www.googletagmanager.com/gtm.js?id=GTM-TL8VWR:467:473)\n    at of (https://www.googletagmanager.com/gtm.js?id=GTM-TL8VWR:468:518)\n    at qf (https://www.googletagmanager.com/gtm.js?id=GTM-TL8VWR:470:227)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: gtmTaboolaBelowThumbnailsListe is …oogletagmanager.com/gtm.js?id=GTM-TL8VWR:470:227)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "gtmTaboolaBelowThumbnailsListe is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

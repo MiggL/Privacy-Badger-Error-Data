@@ -1,0 +1,93 @@
+[
+  {
+    "timestamp": 1583006988887.685,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 977,
+      "columnNumber": 24,
+      "url": "https://www.sciencemag.org/news/2017/01/jet-lag-puts-baseball-players-their-game",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "adDemo",
+            "scriptId": "24",
+            "url": "https://www.sciencemag.org/news/2017/01/jet-lag-puts-baseball-players-their-game",
+            "lineNumber": 977,
+            "columnNumber": 24
+          },
+          {
+            "functionName": "",
+            "scriptId": "24",
+            "url": "https://www.sciencemag.org/news/2017/01/jet-lag-puts-baseball-players-their-game",
+            "lineNumber": 1003,
+            "columnNumber": 4
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: oas_tag is not defined\n    at adDemo (https://www.sciencemag.org/news/2017/01/jet-lag-puts-baseball-players-their-game:978:25)\n    at https://www.sciencemag.org/news/2017/01/jet-lag-puts-baseball-players-their-game:1004:5",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: oas_tag is not defined\n    at adDemo (https://www.sciencemag.org/news/2017/01/jet-lag-puts-baseball-players-their-game:978:25)\n    at https://www.sciencemag.org/news/2017/01/jet-lag-puts-baseball-players-their-game:1004:5",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: oas_tag is not defined\n    at adDe…1/jet-lag-puts-baseball-players-their-game:1004:5"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "oas_tag is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583006990021.468,
+    "exceptionDetails": {
+      "exceptionId": 2,
+      "text": "Uncaught",
+      "lineNumber": 43,
+      "columnNumber": 47,
+      "scriptId": "85",
+      "url": "https://8296686.fls.doubleclick.net/activityi;dc_pre=CML5vsrI9-cCFVCxewodDAYE3w;src=8296686;type=sciecema;cat=scien001;ord=9974788332692;gtm=2od2j0;auiddc=481244243.1583006990;~oref=https%3A%2F%2Fwww.sciencemag.org%2Fnews%2F2017%2F01%2Fjet-lag-puts-baseball-players-their-game?",
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "SyntaxError",
+        "description": "SyntaxError: Unexpected identifier",
+        "objectId": "{\"injectedScriptId\":21,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "SyntaxError: Unexpected identifier",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "SyntaxError: Unexpected identifier"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Unexpected identifier"
+            }
+          ]
+        }
+      },
+      "executionContextId": 21
+    }
+  }
+]

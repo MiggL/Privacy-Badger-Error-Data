@@ -1,0 +1,245 @@
+[
+  {
+    "timestamp": 1582921575354.509,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 0,
+      "columnNumber": 276550,
+      "url": "https://cdn.tinypass.com/api/tinypass.min.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "i.success",
+            "scriptId": "121",
+            "url": "https://cdn.tinypass.com/api/tinypass.min.js",
+            "lineNumber": 0,
+            "columnNumber": 276550
+          },
+          {
+            "functionName": "a",
+            "scriptId": "121",
+            "url": "https://cdn.tinypass.com/api/tinypass.min.js",
+            "lineNumber": 0,
+            "columnNumber": 70788
+          },
+          {
+            "functionName": "fireWith",
+            "scriptId": "121",
+            "url": "https://cdn.tinypass.com/api/tinypass.min.js",
+            "lineNumber": 0,
+            "columnNumber": 71558
+          },
+          {
+            "functionName": "T",
+            "scriptId": "121",
+            "url": "https://cdn.tinypass.com/api/tinypass.min.js",
+            "lineNumber": 0,
+            "columnNumber": 115065
+          },
+          {
+            "functionName": "n",
+            "scriptId": "121",
+            "url": "https://cdn.tinypass.com/api/tinypass.min.js",
+            "lineNumber": 0,
+            "columnNumber": 121315
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'registerTrackUnload' of null\n    at Object.i.success (https://cdn.tinypass.com/api/tinypass.min.js:1:276551)\n    at a (https://cdn.tinypass.com/api/tinypass.min.js:1:70789)\n    at Object.fireWith [as resolveWith] (https://cdn.tinypass.com/api/tinypass.min.js:1:71559)\n    at T (https://cdn.tinypass.com/api/tinypass.min.js:1:115066)\n    at XMLHttpRequest.n (https://cdn.tinypass.com/api/tinypass.min.js:1:121316)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":13}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'registerTrackUnload' of null\n    at Object.i.success (https://cdn.tinypass.com/api/tinypass.min.js:1:276551)\n    at a (https://cdn.tinypass.com/api/tinypass.min.js:1:70789)\n    at Object.fireWith [as resolveWith] (https://cdn.tinypass.com/api/tinypass.min.js:1:71559)\n    at T (https://cdn.tinypass.com/api/tinypass.min.js:1:115066)\n    at XMLHttpRequest.n (https://cdn.tinypass.com/api/tinypass.min.js:1:121316)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'registerTrackUnlo…://cdn.tinypass.com/api/tinypass.min.js:1:121316)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'registerTrackUnload' of null"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1582921575634.407,
+    "exceptionDetails": {
+      "exceptionId": 2,
+      "text": "Uncaught (in promise)",
+      "lineNumber": 23,
+      "columnNumber": 305,
+      "url": "https://www.independent.co.uk/amp/v0.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "f.assert",
+            "scriptId": "21",
+            "url": "https://www.independent.co.uk/amp/v0.js",
+            "lineNumber": 23,
+            "columnNumber": 305
+          },
+          {
+            "functionName": "db",
+            "scriptId": "21",
+            "url": "https://www.independent.co.uk/amp/v0.js",
+            "lineNumber": 26,
+            "columnNumber": 54
+          },
+          {
+            "functionName": "f.assertElement",
+            "scriptId": "21",
+            "url": "https://www.independent.co.uk/amp/v0.js",
+            "lineNumber": 24,
+            "columnNumber": 30
+          },
+          {
+            "functionName": "",
+            "scriptId": "22",
+            "url": "https://www.independent.co.uk/amp/v0/amp-analytics-0.1.js",
+            "lineNumber": 137,
+            "columnNumber": 38
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "Error",
+        "description": "Error: Element \"[id^='reply-']\" not found: null​​​\n    at Ya.f.assert (https://www.independent.co.uk/amp/v0.js:24:306)\n    at db (https://www.independent.co.uk/amp/v0.js:27:55)\n    at Ya.f.assertElement (https://www.independent.co.uk/amp/v0.js:25:31)\n    at https://www.independent.co.uk/amp/v0/amp-analytics-0.1.js:138:39",
+        "objectId": "{\"injectedScriptId\":3,\"id\":14}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "Error: Element \"[id^='reply-']\" not found: null​​​\n    at Ya.f.assert (https://www.independent.co.uk/amp/v0.js:24:306)\n    at db (https://www.independent.co.uk/amp/v0.js:27:55)\n    at Ya.f.assertElement (https://www.independent.co.uk/amp/v0.js:25:31)\n    at https://www.independent.co.uk/amp/v0/amp-analytics-0.1.js:138:39",
+          "overflow": true,
+          "properties": [
+            {
+              "name": "fromAssert",
+              "type": "boolean",
+              "value": "true"
+            },
+            {
+              "name": "associatedElement",
+              "type": "undefined",
+              "value": "undefined"
+            },
+            {
+              "name": "messageArray",
+              "type": "object",
+              "value": "Array(2)",
+              "subtype": "array"
+            },
+            {
+              "name": "reported",
+              "type": "boolean",
+              "value": "true"
+            },
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "Error: Element \"[id^='reply-']\" not found: null​​​…ependent.co.uk/amp/v0/amp-analytics-0.1.js:138:39"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1582921575634.661,
+    "exceptionDetails": {
+      "exceptionId": 3,
+      "text": "Uncaught (in promise)",
+      "lineNumber": 23,
+      "columnNumber": 305,
+      "url": "https://www.independent.co.uk/amp/v0.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "f.assert",
+            "scriptId": "21",
+            "url": "https://www.independent.co.uk/amp/v0.js",
+            "lineNumber": 23,
+            "columnNumber": 305
+          },
+          {
+            "functionName": "db",
+            "scriptId": "21",
+            "url": "https://www.independent.co.uk/amp/v0.js",
+            "lineNumber": 26,
+            "columnNumber": 54
+          },
+          {
+            "functionName": "f.assertElement",
+            "scriptId": "21",
+            "url": "https://www.independent.co.uk/amp/v0.js",
+            "lineNumber": 24,
+            "columnNumber": 30
+          },
+          {
+            "functionName": "",
+            "scriptId": "22",
+            "url": "https://www.independent.co.uk/amp/v0/amp-analytics-0.1.js",
+            "lineNumber": 137,
+            "columnNumber": 38
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "Error",
+        "description": "Error: Element \"[id^='subscription-reply-']\" not found: null​​​\n    at Ya.f.assert (https://www.independent.co.uk/amp/v0.js:24:306)\n    at db (https://www.independent.co.uk/amp/v0.js:27:55)\n    at Ya.f.assertElement (https://www.independent.co.uk/amp/v0.js:25:31)\n    at https://www.independent.co.uk/amp/v0/amp-analytics-0.1.js:138:39",
+        "objectId": "{\"injectedScriptId\":3,\"id\":15}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "Error: Element \"[id^='subscription-reply-']\" not found: null​​​\n    at Ya.f.assert (https://www.independent.co.uk/amp/v0.js:24:306)\n    at db (https://www.independent.co.uk/amp/v0.js:27:55)\n    at Ya.f.assertElement (https://www.independent.co.uk/amp/v0.js:25:31)\n    at https://www.independent.co.uk/amp/v0/amp-analytics-0.1.js:138:39",
+          "overflow": true,
+          "properties": [
+            {
+              "name": "fromAssert",
+              "type": "boolean",
+              "value": "true"
+            },
+            {
+              "name": "associatedElement",
+              "type": "undefined",
+              "value": "undefined"
+            },
+            {
+              "name": "messageArray",
+              "type": "object",
+              "value": "Array(2)",
+              "subtype": "array"
+            },
+            {
+              "name": "reported",
+              "type": "boolean",
+              "value": "true"
+            },
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "Error: Element \"[id^='subscription-reply-']\" not f…ependent.co.uk/amp/v0/amp-analytics-0.1.js:138:39"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

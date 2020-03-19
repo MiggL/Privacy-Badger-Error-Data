@@ -1,0 +1,178 @@
+[
+  {
+    "timestamp": 1583006073669.126,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 35,
+      "columnNumber": 8,
+      "url": "https://cdn.shopify.com/s/files/1/0591/9493/t/13/assets/jquery.custom.js?v=17190949332483804391",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "89",
+            "url": "https://cdn.shopify.com/s/files/1/0591/9493/t/13/assets/jquery.custom.js?v=17190949332483804391",
+            "lineNumber": 35,
+            "columnNumber": 8
+          },
+          {
+            "functionName": "j",
+            "scriptId": "24",
+            "url": "https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js",
+            "lineNumber": 1,
+            "columnNumber": 27135
+          },
+          {
+            "functionName": "fireWith",
+            "scriptId": "24",
+            "url": "https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js",
+            "lineNumber": 1,
+            "columnNumber": 27948
+          },
+          {
+            "functionName": "ready",
+            "scriptId": "24",
+            "url": "https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js",
+            "lineNumber": 1,
+            "columnNumber": 29782
+          },
+          {
+            "functionName": "K",
+            "scriptId": "24",
+            "url": "https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js",
+            "lineNumber": 1,
+            "columnNumber": 30127
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: $.cookie is not a function\n    at HTMLDocument.<anonymous> (https://cdn.shopify.com/s/files/1/0591/9493/t/13/assets/jquery.custom.js?v=17190949332483804391:36:9)\n    at j (https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js:2:27136)\n    at Object.fireWith [as resolveWith] (https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js:2:27949)\n    at Function.ready (https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js:2:29783)\n    at HTMLDocument.K (https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js:2:30128)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: $.cookie is not a function\n    at HTMLDocument.<anonymous> (https://cdn.shopify.com/s/files/1/0591/9493/t/13/assets/jquery.custom.js?v=17190949332483804391:36:9)\n    at j (https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js:2:27136)\n    at Object.fireWith [as resolveWith] (https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js:2:27949)\n    at Function.ready (https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js:2:29783)\n    at HTMLDocument.K (https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js:2:30128)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: $.cookie is not a function\n    at HTMLD…om/ajax/libs/jquery/1.11.0/jquery.min.js:2:30128)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "$.cookie is not a function"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583006074617.6501,
+    "exceptionDetails": {
+      "exceptionId": 2,
+      "text": "Uncaught",
+      "lineNumber": 454,
+      "columnNumber": 100,
+      "url": "https://www.lottie.com/products/stargazer-lottie",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "onload",
+            "scriptId": "107",
+            "url": "https://www.lottie.com/products/stargazer-lottie",
+            "lineNumber": 454,
+            "columnNumber": 100
+          },
+          {
+            "functionName": "window.onload",
+            "scriptId": "106",
+            "url": "https://cdn.shopify.com/s/assets/themes_support/ga_urchin_forms-99e991855b3d8ddc69e625c68ab0579dd9927b611c2ec4943d396c72e3af0849.js",
+            "lineNumber": 0,
+            "columnNumber": 384
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: load is not defined\n    at onload (https://www.lottie.com/products/stargazer-lottie:455:101)\n    at window.onload (https://cdn.shopify.com/s/assets/themes_support/ga_urchin_forms-99e991855b3d8ddc69e625c68ab0579dd9927b611c2ec4943d396c72e3af0849.js:1:385)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":2}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: load is not defined\n    at onload (https://www.lottie.com/products/stargazer-lottie:455:101)\n    at window.onload (https://cdn.shopify.com/s/assets/themes_support/ga_urchin_forms-99e991855b3d8ddc69e625c68ab0579dd9927b611c2ec4943d396c72e3af0849.js:1:385)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: load is not defined\n    at onload …ab0579dd9927b611c2ec4943d396c72e3af0849.js:1:385)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "load is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583006074667.301,
+    "exceptionDetails": {
+      "exceptionId": 3,
+      "text": "Uncaught",
+      "lineNumber": 1,
+      "columnNumber": 34,
+      "url": "https://cdn.shopify.com/s/files/1/0591/9493/t/13/assets/jquery.custom.js?v=17190949332483804391",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "89",
+            "url": "https://cdn.shopify.com/s/files/1/0591/9493/t/13/assets/jquery.custom.js?v=17190949332483804391",
+            "lineNumber": 1,
+            "columnNumber": 34
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: $.cookie is not a function\n    at https://cdn.shopify.com/s/files/1/0591/9493/t/13/assets/jquery.custom.js?v=17190949332483804391:2:35",
+        "objectId": "{\"injectedScriptId\":3,\"id\":3}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: $.cookie is not a function\n    at https://cdn.shopify.com/s/files/1/0591/9493/t/13/assets/jquery.custom.js?v=17190949332483804391:2:35",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: $.cookie is not a function\n    at https…sets/jquery.custom.js?v=17190949332483804391:2:35"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "$.cookie is not a function"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

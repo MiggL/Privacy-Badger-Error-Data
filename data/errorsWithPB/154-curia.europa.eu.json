@@ -1,0 +1,70 @@
+[
+  {
+    "timestamp": 1583757955000.182,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 6597,
+      "columnNumber": 12,
+      "url": "http://curia.europa.eu/juris/js/common/richfaces/prototype.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "fireEvent_DOM",
+            "scriptId": "23",
+            "url": "http://curia.europa.eu/juris/js/common/richfaces/prototype.js",
+            "lineNumber": 6597,
+            "columnNumber": 12
+          },
+          {
+            "functionName": "fire",
+            "scriptId": "23",
+            "url": "http://curia.europa.eu/juris/js/common/richfaces/prototype.js",
+            "lineNumber": 6586,
+            "columnNumber": 16
+          },
+          {
+            "functionName": "_methodized",
+            "scriptId": "23",
+            "url": "http://curia.europa.eu/juris/js/common/richfaces/prototype.js",
+            "lineNumber": 455,
+            "columnNumber": 22
+          },
+          {
+            "functionName": "fireContentLoadedEvent",
+            "scriptId": "23",
+            "url": "http://curia.europa.eu/juris/js/common/richfaces/prototype.js",
+            "lineNumber": 6772,
+            "columnNumber": 13
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: element.dispatchEvent is not a function\n    at fireEvent_DOM (http://curia.europa.eu/juris/js/common/richfaces/prototype.js:6598:13)\n    at fire (http://curia.europa.eu/juris/js/common/richfaces/prototype.js:6587:17)\n    at HTMLDocument._methodized [as fire] (http://curia.europa.eu/juris/js/common/richfaces/prototype.js:456:23)\n    at HTMLDocument.fireContentLoadedEvent (http://curia.europa.eu/juris/js/common/richfaces/prototype.js:6773:14)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: element.dispatchEvent is not a function\n    at fireEvent_DOM (http://curia.europa.eu/juris/js/common/richfaces/prototype.js:6598:13)\n    at fire (http://curia.europa.eu/juris/js/common/richfaces/prototype.js:6587:17)\n    at HTMLDocument._methodized [as fire] (http://curia.europa.eu/juris/js/common/richfaces/prototype.js:456:23)\n    at HTMLDocument.fireContentLoadedEvent (http://curia.europa.eu/juris/js/common/richfaces/prototype.js:6773:14)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: element.dispatchEvent is not a function…u/juris/js/common/richfaces/prototype.js:6773:14)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "element.dispatchEvent is not a function"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

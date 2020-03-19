@@ -1,0 +1,131 @@
+[
+  {
+    "timestamp": 1583425776456.981,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught (in promise)",
+      "lineNumber": 154,
+      "columnNumber": 4259,
+      "url": "https://www.mlbstatic.com/mlb.com/vendor/mlb-okta/mlb-okta.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "h",
+            "scriptId": "22",
+            "url": "https://www.mlbstatic.com/mlb.com/vendor/mlb-okta/mlb-okta.js",
+            "lineNumber": 154,
+            "columnNumber": 4259
+          },
+          {
+            "functionName": "",
+            "scriptId": "22",
+            "url": "https://www.mlbstatic.com/mlb.com/vendor/mlb-okta/mlb-okta.js",
+            "lineNumber": 154,
+            "columnNumber": 5983
+          },
+          {
+            "functionName": "",
+            "scriptId": "22",
+            "url": "https://www.mlbstatic.com/mlb.com/vendor/mlb-okta/mlb-okta.js",
+            "lineNumber": 58,
+            "columnNumber": 5885
+          },
+          {
+            "functionName": "",
+            "scriptId": "22",
+            "url": "https://www.mlbstatic.com/mlb.com/vendor/mlb-okta/mlb-okta.js",
+            "lineNumber": 58,
+            "columnNumber": 5924
+          },
+          {
+            "functionName": "when",
+            "scriptId": "22",
+            "url": "https://www.mlbstatic.com/mlb.com/vendor/mlb-okta/mlb-okta.js",
+            "lineNumber": 58,
+            "columnNumber": 7384
+          },
+          {
+            "functionName": "O.r.promiseDispatch",
+            "scriptId": "22",
+            "url": "https://www.mlbstatic.com/mlb.com/vendor/mlb-okta/mlb-okta.js",
+            "lineNumber": 58,
+            "columnNumber": 4373
+          },
+          {
+            "functionName": "",
+            "scriptId": "22",
+            "url": "https://www.mlbstatic.com/mlb.com/vendor/mlb-okta/mlb-okta.js",
+            "lineNumber": 58,
+            "columnNumber": 3620
+          },
+          {
+            "functionName": "f",
+            "scriptId": "22",
+            "url": "https://www.mlbstatic.com/mlb.com/vendor/mlb-okta/mlb-okta.js",
+            "lineNumber": 58,
+            "columnNumber": 433
+          },
+          {
+            "functionName": "c",
+            "scriptId": "22",
+            "url": "https://www.mlbstatic.com/mlb.com/vendor/mlb-okta/mlb-okta.js",
+            "lineNumber": 58,
+            "columnNumber": 373
+          },
+          {
+            "functionName": "",
+            "scriptId": "22",
+            "url": "https://www.mlbstatic.com/mlb.com/vendor/mlb-okta/mlb-okta.js",
+            "lineNumber": 106,
+            "columnNumber": 3736
+          },
+          {
+            "functionName": "h",
+            "scriptId": "22",
+            "url": "https://www.mlbstatic.com/mlb.com/vendor/mlb-okta/mlb-okta.js",
+            "lineNumber": 106,
+            "columnNumber": 3846
+          },
+          {
+            "functionName": "a",
+            "scriptId": "22",
+            "url": "https://www.mlbstatic.com/mlb.com/vendor/mlb-okta/mlb-okta.js",
+            "lineNumber": 106,
+            "columnNumber": 3209
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: OAuthError: The client specified not to prompt, but the user is not logged in.\n    at h (https://www.mlbstatic.com/mlb.com/vendor/mlb-okta/mlb-okta.js:155:4260)\n    at https://www.mlbstatic.com/mlb.com/vendor/mlb-okta/mlb-okta.js:155:5984\n    at https://www.mlbstatic.com/mlb.com/vendor/mlb-okta/mlb-okta.js:59:5886\n    at https://www.mlbstatic.com/mlb.com/vendor/mlb-okta/mlb-okta.js:59:5925\n    at O.when (https://www.mlbstatic.com/mlb.com/vendor/mlb-okta/mlb-okta.js:59:7385)\n    at O.r.promiseDispatch (https://www.mlbstatic.com/mlb.com/vendor/mlb-okta/mlb-okta.js:59:4374)\n    at https://www.mlbstatic.com/mlb.com/vendor/mlb-okta/mlb-okta.js:59:3621\n    at f (https://www.mlbstatic.com/mlb.com/vendor/mlb-okta/mlb-okta.js:59:434)\n    at c (https://www.mlbstatic.com/mlb.com/vendor/mlb-okta/mlb-okta.js:59:374)\n    at https://www.mlbstatic.com/mlb.com/vendor/mlb-okta/mlb-okta.js:107:3737\n    at h (https://www.mlbstatic.com/mlb.com/vendor/mlb-okta/mlb-okta.js:107:3847)\n    at a (https://www.mlbstatic.com/mlb.com/vendor/mlb-okta/mlb-okta.js:107:3210)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: OAuthError: The client specified not to prompt, but the user is not logged in.\n    at h (https://www.mlbstatic.com/mlb.com/vendor/mlb-okta/mlb-okta.js:155:4260)\n    at https://www.mlbstatic.com/mlb.com/vendor/mlb-okta/mlb-okta.js:155:5984\n    at https://www.mlbstatic.com/mlb.com/vendor/mlb-okta/mlb-okta.js:59:5886\n    at https://www.mlbstatic.com/mlb.com/vendor/mlb-okta/mlb-okta.js:59:5925\n    at O.when (https://www.mlbstatic.com/mlb.com/vendor/mlb-okta/mlb-okta.js:59:7385)\n    at O.r.promiseDispatch (https://www.mlbstatic.com/mlb.com/vendor/mlb-okta/mlb-okta.js:59:4374)\n    at https://www.mlbstatic.com/mlb.com/vendor/mlb-okta/mlb-okta.js:59:3621\n    at f (https://www.mlbstatic.com/mlb.com/vendor/mlb-okta/mlb-okta.js:59:434)\n    at c (https://www.mlbstatic.com/mlb.com/vendor/mlb-okta/mlb-okta.js:59:374)\n    at https://www.mlbstatic.com/mlb.com/vendor/mlb-okta/mlb-okta.js:107:3737\n    at h (https://www.mlbstatic.com/mlb.com/vendor/mlb-okta/mlb-okta.js:107:3847)\n    at a (https://www.mlbstatic.com/mlb.com/vendor/mlb-okta/mlb-okta.js:107:3210)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "redirect",
+              "type": "boolean",
+              "value": "true"
+            },
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: OAuthError: The client specified not to…com/mlb.com/vendor/mlb-okta/mlb-okta.js:107:3210)"
+            },
+            {
+              "name": "message",
+              "type": "object",
+              "value": "n"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

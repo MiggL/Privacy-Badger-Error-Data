@@ -1,0 +1,49 @@
+[
+  {
+    "timestamp": 1582819127605.382,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 0,
+      "columnNumber": 670,
+      "url": "https://www.thelancet.com/products/marlin/lancet/releasedAssets/js/main.bundle.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "71",
+            "url": "https://www.thelancet.com/products/marlin/lancet/releasedAssets/js/main.bundle.js",
+            "lineNumber": 0,
+            "columnNumber": 670
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: a is not a function\n    at MutationObserver.<anonymous> (https://www.thelancet.com/products/marlin/lancet/releasedAssets/js/main.bundle.js:1:671)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: a is not a function\n    at MutationObserver.<anonymous> (https://www.thelancet.com/products/marlin/lancet/releasedAssets/js/main.bundle.js:1:671)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: a is not a function\n    at MutationObse…in/lancet/releasedAssets/js/main.bundle.js:1:671)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "a is not a function"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

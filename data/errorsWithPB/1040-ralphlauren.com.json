@@ -1,0 +1,49 @@
+[
+  {
+    "timestamp": 1583422843059.606,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 4358,
+      "columnNumber": 3,
+      "url": "https://www.ralphlauren.eu/se/en?ab=Geo_iSE_rUS_dEU&locale=en_SE",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "124",
+            "url": "https://www.ralphlauren.eu/se/en?ab=Geo_iSE_rUS_dEU&locale=en_SE",
+            "lineNumber": 4358,
+            "columnNumber": 3
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: _etmc is not defined\n    at https://www.ralphlauren.eu/se/en?ab=Geo_iSE_rUS_dEU&locale=en_SE:4359:4",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: _etmc is not defined\n    at https://www.ralphlauren.eu/se/en?ab=Geo_iSE_rUS_dEU&locale=en_SE:4359:4",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: _etmc is not defined\n    at https:…n.eu/se/en?ab=Geo_iSE_rUS_dEU&locale=en_SE:4359:4"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "_etmc is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

@@ -1,0 +1,57 @@
+[
+  {
+    "timestamp": 1583012244148.197,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 15,
+      "columnNumber": 26211,
+      "scriptId": "27",
+      "url": "https://a.academia-assets.com/assets/webpack_bundles/sentry.wjs-bundle-025b78bc790b89884129ddf8e4ce90010cb7b6f6832e249ffae87230f0c89c04.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "406",
+            "url": "https://www.scribd.com/javascripts/seamless.js",
+            "lineNumber": 156,
+            "columnNumber": 61
+          },
+          {
+            "functionName": "r",
+            "scriptId": "27",
+            "url": "https://a.academia-assets.com/assets/webpack_bundles/sentry.wjs-bundle-025b78bc790b89884129ddf8e4ce90010cb7b6f6832e249ffae87230f0c89c04.js",
+            "lineNumber": 15,
+            "columnNumber": 26188
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'pageNum' of null\n    at https://www.scribd.com/javascripts/seamless.js:157:62\n    at r (https://a.academia-assets.com/assets/webpack_bundles/sentry.wjs-bundle-025b78bc790b89884129ddf8e4ce90010cb7b6f6832e249ffae87230f0c89c04.js:16:26189)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'pageNum' of null\n    at https://www.scribd.com/javascripts/seamless.js:157:62\n    at r (https://a.academia-assets.com/assets/webpack_bundles/sentry.wjs-bundle-025b78bc790b89884129ddf8e4ce90010cb7b6f6832e249ffae87230f0c89c04.js:16:26189)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'pageNum' of null\n…90010cb7b6f6832e249ffae87230f0c89c04.js:16:26189)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'pageNum' of null"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

@@ -1,0 +1,806 @@
+[
+  {
+    "timestamp": 1583010528898.036,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 15,
+      "columnNumber": 23872,
+      "scriptId": "41",
+      "url": "https://s.go-mpulse.net/boomerang/N3VBG-DQE66-3MA8K-TTPM9-PTMU6",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "handleAttrInputChange",
+            "scriptId": "219",
+            "url": "https://www.vans.com/wcsstore/vans-storefront/20200226/js/wcs/view/product-price-service.js",
+            "lineNumber": 0,
+            "columnNumber": 7859
+          },
+          {
+            "functionName": "",
+            "scriptId": "219",
+            "url": "https://www.vans.com/wcsstore/vans-storefront/20200226/js/wcs/view/product-price-service.js",
+            "lineNumber": 0,
+            "columnNumber": 3394
+          },
+          {
+            "functionName": "each",
+            "scriptId": "85",
+            "url": "https://www.vans.com/wcsstore/vans-storefront/20200226/js/npm-lib/jquery.min.js",
+            "lineNumber": 1,
+            "columnNumber": 2776
+          },
+          {
+            "functionName": "each",
+            "scriptId": "85",
+            "url": "https://www.vans.com/wcsstore/vans-storefront/20200226/js/npm-lib/jquery.min.js",
+            "lineNumber": 1,
+            "columnNumber": 1418
+          },
+          {
+            "functionName": "_getNewAttributeSelections",
+            "scriptId": "219",
+            "url": "https://www.vans.com/wcsstore/vans-storefront/20200226/js/wcs/view/product-price-service.js",
+            "lineNumber": 0,
+            "columnNumber": 3253
+          },
+          {
+            "functionName": "_resetPrice",
+            "scriptId": "219",
+            "url": "https://www.vans.com/wcsstore/vans-storefront/20200226/js/wcs/view/product-price-service.js",
+            "lineNumber": 0,
+            "columnNumber": 3758
+          },
+          {
+            "functionName": "_handleItemPricing",
+            "scriptId": "219",
+            "url": "https://www.vans.com/wcsstore/vans-storefront/20200226/js/wcs/view/product-price-service.js",
+            "lineNumber": 0,
+            "columnNumber": 3023
+          },
+          {
+            "functionName": "_handleSuccessDataReturn",
+            "scriptId": "219",
+            "url": "https://www.vans.com/wcsstore/vans-storefront/20200226/js/wcs/view/product-price-service.js",
+            "lineNumber": 0,
+            "columnNumber": 2636
+          },
+          {
+            "functionName": "",
+            "scriptId": "219",
+            "url": "https://www.vans.com/wcsstore/vans-storefront/20200226/js/wcs/view/product-price-service.js",
+            "lineNumber": 0,
+            "columnNumber": 2044
+          },
+          {
+            "functionName": "c",
+            "scriptId": "85",
+            "url": "https://www.vans.com/wcsstore/vans-storefront/20200226/js/npm-lib/jquery.min.js",
+            "lineNumber": 1,
+            "columnNumber": 27741
+          },
+          {
+            "functionName": "add",
+            "scriptId": "85",
+            "url": "https://www.vans.com/wcsstore/vans-storefront/20200226/js/npm-lib/jquery.min.js",
+            "lineNumber": 1,
+            "columnNumber": 28019
+          },
+          {
+            "functionName": "_getPricingByProductID",
+            "scriptId": "219",
+            "url": "https://www.vans.com/wcsstore/vans-storefront/20200226/js/wcs/view/product-price-service.js",
+            "lineNumber": 0,
+            "columnNumber": 2025
+          },
+          {
+            "functionName": "_handleItemPricing",
+            "scriptId": "219",
+            "url": "https://www.vans.com/wcsstore/vans-storefront/20200226/js/wcs/view/product-price-service.js",
+            "lineNumber": 0,
+            "columnNumber": 3121
+          },
+          {
+            "functionName": "",
+            "scriptId": "219",
+            "url": "https://www.vans.com/wcsstore/vans-storefront/20200226/js/wcs/view/product-price-service.js",
+            "lineNumber": 0,
+            "columnNumber": 1606
+          },
+          {
+            "functionName": "each",
+            "scriptId": "85",
+            "url": "https://www.vans.com/wcsstore/vans-storefront/20200226/js/npm-lib/jquery.min.js",
+            "lineNumber": 1,
+            "columnNumber": 2776
+          },
+          {
+            "functionName": "each",
+            "scriptId": "85",
+            "url": "https://www.vans.com/wcsstore/vans-storefront/20200226/js/npm-lib/jquery.min.js",
+            "lineNumber": 1,
+            "columnNumber": 1418
+          },
+          {
+            "functionName": "parseProductFormAttributes",
+            "scriptId": "219",
+            "url": "https://www.vans.com/wcsstore/vans-storefront/20200226/js/wcs/view/product-price-service.js",
+            "lineNumber": 0,
+            "columnNumber": 1341
+          },
+          {
+            "functionName": "",
+            "scriptId": "86",
+            "url": "https://www.vans.com/wcsstore/vans-storefront/20200226/js/main-wcs.js",
+            "lineNumber": 0,
+            "columnNumber": 1176
+          },
+          {
+            "functionName": "execCb",
+            "scriptId": "22",
+            "url": "https://www.vans.com/wcsstore/vans-storefront/js/lib/require.js?v=273",
+            "lineNumber": 0,
+            "columnNumber": 16716
+          },
+          {
+            "functionName": "check",
+            "scriptId": "22",
+            "url": "https://www.vans.com/wcsstore/vans-storefront/js/lib/require.js?v=273",
+            "lineNumber": 0,
+            "columnNumber": 10488
+          },
+          {
+            "functionName": "",
+            "scriptId": "22",
+            "url": "https://www.vans.com/wcsstore/vans-storefront/js/lib/require.js?v=273",
+            "lineNumber": 0,
+            "columnNumber": 12904
+          },
+          {
+            "functionName": "",
+            "scriptId": "22",
+            "url": "https://www.vans.com/wcsstore/vans-storefront/js/lib/require.js?v=273",
+            "lineNumber": 0,
+            "columnNumber": 1541
+          },
+          {
+            "functionName": "",
+            "scriptId": "22",
+            "url": "https://www.vans.com/wcsstore/vans-storefront/js/lib/require.js?v=273",
+            "lineNumber": 0,
+            "columnNumber": 13365
+          },
+          {
+            "functionName": "each",
+            "scriptId": "22",
+            "url": "https://www.vans.com/wcsstore/vans-storefront/js/lib/require.js?v=273",
+            "lineNumber": 0,
+            "columnNumber": 1019
+          },
+          {
+            "functionName": "emit",
+            "scriptId": "22",
+            "url": "https://www.vans.com/wcsstore/vans-storefront/js/lib/require.js?v=273",
+            "lineNumber": 0,
+            "columnNumber": 13333
+          },
+          {
+            "functionName": "check",
+            "scriptId": "22",
+            "url": "https://www.vans.com/wcsstore/vans-storefront/js/lib/require.js?v=273",
+            "lineNumber": 0,
+            "columnNumber": 11047
+          },
+          {
+            "functionName": "",
+            "scriptId": "22",
+            "url": "https://www.vans.com/wcsstore/vans-storefront/js/lib/require.js?v=273",
+            "lineNumber": 0,
+            "columnNumber": 12904
+          },
+          {
+            "functionName": "",
+            "scriptId": "22",
+            "url": "https://www.vans.com/wcsstore/vans-storefront/js/lib/require.js?v=273",
+            "lineNumber": 0,
+            "columnNumber": 1541
+          },
+          {
+            "functionName": "",
+            "scriptId": "22",
+            "url": "https://www.vans.com/wcsstore/vans-storefront/js/lib/require.js?v=273",
+            "lineNumber": 0,
+            "columnNumber": 13365
+          },
+          {
+            "functionName": "each",
+            "scriptId": "22",
+            "url": "https://www.vans.com/wcsstore/vans-storefront/js/lib/require.js?v=273",
+            "lineNumber": 0,
+            "columnNumber": 1019
+          },
+          {
+            "functionName": "emit",
+            "scriptId": "22",
+            "url": "https://www.vans.com/wcsstore/vans-storefront/js/lib/require.js?v=273",
+            "lineNumber": 0,
+            "columnNumber": 13333
+          },
+          {
+            "functionName": "check",
+            "scriptId": "22",
+            "url": "https://www.vans.com/wcsstore/vans-storefront/js/lib/require.js?v=273",
+            "lineNumber": 0,
+            "columnNumber": 11047
+          },
+          {
+            "functionName": "enable",
+            "scriptId": "22",
+            "url": "https://www.vans.com/wcsstore/vans-storefront/js/lib/require.js?v=273",
+            "lineNumber": 0,
+            "columnNumber": 13231
+          },
+          {
+            "functionName": "init",
+            "scriptId": "22",
+            "url": "https://www.vans.com/wcsstore/vans-storefront/js/lib/require.js?v=273",
+            "lineNumber": 0,
+            "columnNumber": 9594
+          },
+          {
+            "functionName": "a",
+            "scriptId": "22",
+            "url": "https://www.vans.com/wcsstore/vans-storefront/js/lib/require.js?v=273",
+            "lineNumber": 0,
+            "columnNumber": 8294
+          },
+          {
+            "functionName": "completeLoad",
+            "scriptId": "22",
+            "url": "https://www.vans.com/wcsstore/vans-storefront/js/lib/require.js?v=273",
+            "lineNumber": 0,
+            "columnNumber": 15951
+          },
+          {
+            "functionName": "onScriptLoad",
+            "scriptId": "22",
+            "url": "https://www.vans.com/wcsstore/vans-storefront/js/lib/require.js?v=273",
+            "lineNumber": 0,
+            "columnNumber": 16871
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property '7000000000000000453' of undefined at Object.handleAttrInputChange (https://www.vans.com/wcsstore/vans-storefront/20200226/js/wcs/view/product-price-service.js:1:7860) at HTMLButtonElement.<anonymous> (https://www.vans.com/wcsstore/vans-storefront/20200226/js/wcs/view/product-price-service.js:1:3395) at Function.each (https://www.vans.com/wcsstore/vans-storefront/20200226/js/npm-lib/jquery.min.js:2:2777) at k.fn.init.each (https://www.vans.com/wcsstore/vans-storefront/20200226/js/npm-lib/jquery.min.js:2:1419) at Object._getNewAttributeSelections (https://www.vans.com/wcsstore/vans-storefront/20200226/js/wcs/view/product-price-service.js:1:3254) at Object._resetPrice (https://www.vans.com/wcsstore/vans-storefront/20200226/js/wcs/view/product-price-service.js:1:3759) at Object._handleItemPricing (https://www.vans.com/wcsstore/vans-storefront/20200226/js/wcs/view/product-price-service.js:1:3024) at Object._handleSuccessDataReturn (https://www.vans.com/wcsstore/vans-storefront/20200226/js/wcs/view/product-price-service.js:1:2637) at Object.<anonymous> (https://www.vans.com/wcsstore/vans-storefront/20200226/js/wcs/view/product-price-service.js:1:2045) at c (https://www.vans.com/wcsstore/vans-storefront/20200226/js/npm-lib/jquery.min.js:2:27742)",
+        "objectId": "{\"injectedScriptId\":5,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property '7000000000000000453' of undefined at Object.handleAttrInputChange (https://www.vans.com/wcsstore/vans-storefront/20200226/js/wcs/view/product-price-service.js:1:7860) at HTMLButtonElement.<anonymous> (https://www.vans.com/wcsstore/vans-storefront/20200226/js/wcs/view/product-price-service.js:1:3395) at Function.each (https://www.vans.com/wcsstore/vans-storefront/20200226/js/npm-lib/jquery.min.js:2:2777) at k.fn.init.each (https://www.vans.com/wcsstore/vans-storefront/20200226/js/npm-lib/jquery.min.js:2:1419) at Object._getNewAttributeSelections (https://www.vans.com/wcsstore/vans-storefront/20200226/js/wcs/view/product-price-service.js:1:3254) at Object._resetPrice (https://www.vans.com/wcsstore/vans-storefront/20200226/js/wcs/view/product-price-service.js:1:3759) at Object._handleItemPricing (https://www.vans.com/wcsstore/vans-storefront/20200226/js/wcs/view/product-price-service.js:1:3024) at Object._handleSuccessDataReturn (https://www.vans.com/wcsstore/vans-storefront/20200226/js/wcs/view/product-price-service.js:1:2637) at Object.<anonymous> (https://www.vans.com/wcsstore/vans-storefront/20200226/js/wcs/view/product-price-service.js:1:2045) at c (https://www.vans.com/wcsstore/vans-storefront/20200226/js/npm-lib/jquery.min.js:2:27742)",
+          "overflow": true,
+          "properties": [
+            {
+              "name": "reported",
+              "type": "boolean",
+              "value": "true"
+            },
+            {
+              "name": "timestamp",
+              "type": "number",
+              "value": "1583010528894"
+            },
+            {
+              "name": "lineNumber",
+              "type": "string",
+              "value": "1"
+            },
+            {
+              "name": "columnNumber",
+              "type": "string",
+              "value": "7860"
+            },
+            {
+              "name": "functionName",
+              "type": "string",
+              "value": "Object.handleAttrInputChange"
+            }
+          ]
+        }
+      },
+      "executionContextId": 5
+    }
+  },
+  {
+    "timestamp": 1583010529170.253,
+    "exceptionDetails": {
+      "exceptionId": 2,
+      "text": "Uncaught",
+      "lineNumber": 0,
+      "columnNumber": 519,
+      "url": "https://www.vans.com/wcsstore/vans-storefront/20200226/js/wcs/view/vfdp-s7-viewer/helpers.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "r",
+            "scriptId": "133",
+            "url": "https://www.vans.com/wcsstore/vans-storefront/20200226/js/wcs/view/vfdp-s7-viewer/helpers.js",
+            "lineNumber": 0,
+            "columnNumber": 519
+          },
+          {
+            "functionName": "r",
+            "scriptId": "133",
+            "url": "https://www.vans.com/wcsstore/vans-storefront/20200226/js/wcs/view/vfdp-s7-viewer/helpers.js",
+            "lineNumber": 0,
+            "columnNumber": 544
+          },
+          {
+            "functionName": "r",
+            "scriptId": "133",
+            "url": "https://www.vans.com/wcsstore/vans-storefront/20200226/js/wcs/view/vfdp-s7-viewer/helpers.js",
+            "lineNumber": 0,
+            "columnNumber": 544
+          },
+          {
+            "functionName": "r",
+            "scriptId": "133",
+            "url": "https://www.vans.com/wcsstore/vans-storefront/20200226/js/wcs/view/vfdp-s7-viewer/helpers.js",
+            "lineNumber": 0,
+            "columnNumber": 485
+          },
+          {
+            "functionName": "setConfig",
+            "scriptId": "134",
+            "url": "https://www.vans.com/wcsstore/vans-storefront/20200226/js/wcs/view/vfdp-s7-viewer/config.js",
+            "lineNumber": 0,
+            "columnNumber": 2741
+          },
+          {
+            "functionName": "onConfigChange",
+            "scriptId": "111",
+            "url": "https://www.vans.com/wcsstore/vans-storefront/20200226/js/wcs/view/vfdp-s7-viewer/app.js",
+            "lineNumber": 0,
+            "columnNumber": 22692
+          },
+          {
+            "functionName": "",
+            "scriptId": "111",
+            "url": "https://www.vans.com/wcsstore/vans-storefront/20200226/js/wcs/view/vfdp-s7-viewer/app.js",
+            "lineNumber": 0,
+            "columnNumber": 14960
+          },
+          {
+            "functionName": "",
+            "scriptId": "111",
+            "url": "https://www.vans.com/wcsstore/vans-storefront/20200226/js/wcs/view/vfdp-s7-viewer/app.js",
+            "lineNumber": 0,
+            "columnNumber": 14938
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'constructor' of null at r (https://www.vans.com/wcsstore/vans-storefront/20200226/js/wcs/view/vfdp-s7-viewer/helpers.js:1:520) at r (https://www.vans.com/wcsstore/vans-storefront/20200226/js/wcs/view/vfdp-s7-viewer/helpers.js:1:545) at r (https://www.vans.com/wcsstore/vans-storefront/20200226/js/wcs/view/vfdp-s7-viewer/helpers.js:1:545) at Object.r [as extend] (https://www.vans.com/wcsstore/vans-storefront/20200226/js/wcs/view/vfdp-s7-viewer/helpers.js:1:486) at e.setConfig (https://www.vans.com/wcsstore/vans-storefront/20200226/js/wcs/view/vfdp-s7-viewer/config.js:1:2742) at n.onConfigChange (https://www.vans.com/wcsstore/vans-storefront/20200226/js/wcs/view/vfdp-s7-viewer/app.js:1:22693) at https://www.vans.com/wcsstore/vans-storefront/20200226/js/wcs/view/vfdp-s7-viewer/app.js:1:14961 at Array.forEach (<anonymous>) at MutationObserver.<anonymous> (https://www.vans.com/wcsstore/vans-storefront/20200226/js/wcs/view/vfdp-s7-viewer/app.js:1:14939)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":11}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'constructor' of null at r (https://www.vans.com/wcsstore/vans-storefront/20200226/js/wcs/view/vfdp-s7-viewer/helpers.js:1:520) at r (https://www.vans.com/wcsstore/vans-storefront/20200226/js/wcs/view/vfdp-s7-viewer/helpers.js:1:545) at r (https://www.vans.com/wcsstore/vans-storefront/20200226/js/wcs/view/vfdp-s7-viewer/helpers.js:1:545) at Object.r [as extend] (https://www.vans.com/wcsstore/vans-storefront/20200226/js/wcs/view/vfdp-s7-viewer/helpers.js:1:486) at e.setConfig (https://www.vans.com/wcsstore/vans-storefront/20200226/js/wcs/view/vfdp-s7-viewer/config.js:1:2742) at n.onConfigChange (https://www.vans.com/wcsstore/vans-storefront/20200226/js/wcs/view/vfdp-s7-viewer/app.js:1:22693) at https://www.vans.com/wcsstore/vans-storefront/20200226/js/wcs/view/vfdp-s7-viewer/app.js:1:14961 at Array.forEach (<anonymous>) at MutationObserver.<anonymous> (https://www.vans.com/wcsstore/vans-storefront/20200226/js/wcs/view/vfdp-s7-viewer/app.js:1:14939)",
+          "overflow": true,
+          "properties": [
+            {
+              "name": "reported",
+              "type": "boolean",
+              "value": "true"
+            },
+            {
+              "name": "timestamp",
+              "type": "number",
+              "value": "1583010529169"
+            },
+            {
+              "name": "lineNumber",
+              "type": "string",
+              "value": "1"
+            },
+            {
+              "name": "columnNumber",
+              "type": "string",
+              "value": "520"
+            },
+            {
+              "name": "functionName",
+              "type": "string",
+              "value": "r"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583010529454.4949,
+    "exceptionDetails": {
+      "exceptionId": 3,
+      "text": "Uncaught",
+      "lineNumber": 15,
+      "columnNumber": 23872,
+      "scriptId": "41",
+      "url": "https://s.go-mpulse.net/boomerang/N3VBG-DQE66-3MA8K-TTPM9-PTMU6",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "handleAttrInputChange",
+            "scriptId": "219",
+            "url": "https://www.vans.com/wcsstore/vans-storefront/20200226/js/wcs/view/product-price-service.js",
+            "lineNumber": 0,
+            "columnNumber": 7859
+          },
+          {
+            "functionName": "",
+            "scriptId": "219",
+            "url": "https://www.vans.com/wcsstore/vans-storefront/20200226/js/wcs/view/product-price-service.js",
+            "lineNumber": 0,
+            "columnNumber": 3394
+          },
+          {
+            "functionName": "each",
+            "scriptId": "85",
+            "url": "https://www.vans.com/wcsstore/vans-storefront/20200226/js/npm-lib/jquery.min.js",
+            "lineNumber": 1,
+            "columnNumber": 2776
+          },
+          {
+            "functionName": "each",
+            "scriptId": "85",
+            "url": "https://www.vans.com/wcsstore/vans-storefront/20200226/js/npm-lib/jquery.min.js",
+            "lineNumber": 1,
+            "columnNumber": 1418
+          },
+          {
+            "functionName": "_getNewAttributeSelections",
+            "scriptId": "219",
+            "url": "https://www.vans.com/wcsstore/vans-storefront/20200226/js/wcs/view/product-price-service.js",
+            "lineNumber": 0,
+            "columnNumber": 3253
+          },
+          {
+            "functionName": "_resetPrice",
+            "scriptId": "219",
+            "url": "https://www.vans.com/wcsstore/vans-storefront/20200226/js/wcs/view/product-price-service.js",
+            "lineNumber": 0,
+            "columnNumber": 3758
+          },
+          {
+            "functionName": "_handleItemPricing",
+            "scriptId": "219",
+            "url": "https://www.vans.com/wcsstore/vans-storefront/20200226/js/wcs/view/product-price-service.js",
+            "lineNumber": 0,
+            "columnNumber": 3023
+          },
+          {
+            "functionName": "",
+            "scriptId": "219",
+            "url": "https://www.vans.com/wcsstore/vans-storefront/20200226/js/wcs/view/product-price-service.js",
+            "lineNumber": 0,
+            "columnNumber": 1606
+          },
+          {
+            "functionName": "each",
+            "scriptId": "85",
+            "url": "https://www.vans.com/wcsstore/vans-storefront/20200226/js/npm-lib/jquery.min.js",
+            "lineNumber": 1,
+            "columnNumber": 2776
+          },
+          {
+            "functionName": "each",
+            "scriptId": "85",
+            "url": "https://www.vans.com/wcsstore/vans-storefront/20200226/js/npm-lib/jquery.min.js",
+            "lineNumber": 1,
+            "columnNumber": 1418
+          },
+          {
+            "functionName": "parseProductFormAttributes",
+            "scriptId": "219",
+            "url": "https://www.vans.com/wcsstore/vans-storefront/20200226/js/wcs/view/product-price-service.js",
+            "lineNumber": 0,
+            "columnNumber": 1341
+          },
+          {
+            "functionName": "_checkInitialState",
+            "scriptId": "371",
+            "url": "https://www.vans.com/wcsstore/vans-storefront/20200226/js/wcs/view/product-price.js",
+            "lineNumber": 0,
+            "columnNumber": 985
+          },
+          {
+            "functionName": "init",
+            "scriptId": "371",
+            "url": "https://www.vans.com/wcsstore/vans-storefront/20200226/js/wcs/view/product-price.js",
+            "lineNumber": 0,
+            "columnNumber": 562
+          },
+          {
+            "functionName": "",
+            "scriptId": "371",
+            "url": "https://www.vans.com/wcsstore/vans-storefront/20200226/js/wcs/view/product-price.js",
+            "lineNumber": 0,
+            "columnNumber": 2808
+          },
+          {
+            "functionName": "each",
+            "scriptId": "85",
+            "url": "https://www.vans.com/wcsstore/vans-storefront/20200226/js/npm-lib/jquery.min.js",
+            "lineNumber": 1,
+            "columnNumber": 2776
+          },
+          {
+            "functionName": "each",
+            "scriptId": "85",
+            "url": "https://www.vans.com/wcsstore/vans-storefront/20200226/js/npm-lib/jquery.min.js",
+            "lineNumber": 1,
+            "columnNumber": 1418
+          },
+          {
+            "functionName": "o.fn.productPrices",
+            "scriptId": "371",
+            "url": "https://www.vans.com/wcsstore/vans-storefront/20200226/js/wcs/view/product-price.js",
+            "lineNumber": 0,
+            "columnNumber": 2750
+          },
+          {
+            "functionName": "s",
+            "scriptId": "346",
+            "url": "https://www.vans.com/wcsstore/vans-storefront/20200226/js/wcs/view/product-views/product-views.js",
+            "lineNumber": 0,
+            "columnNumber": 1704
+          },
+          {
+            "functionName": "",
+            "scriptId": "304",
+            "url": "https://www.vans.com/wcsstore/vans-storefront/20200226/js/wcs/product-detail.js",
+            "lineNumber": 0,
+            "columnNumber": 2790
+          },
+          {
+            "functionName": "r",
+            "scriptId": "113",
+            "url": "https://www.vans.com/wcsstore/vans-storefront/20200226/js/npm-lib/domReady.js",
+            "lineNumber": 0,
+            "columnNumber": 671
+          },
+          {
+            "functionName": "",
+            "scriptId": "304",
+            "url": "https://www.vans.com/wcsstore/vans-storefront/20200226/js/wcs/product-detail.js",
+            "lineNumber": 0,
+            "columnNumber": 2415
+          },
+          {
+            "functionName": "execCb",
+            "scriptId": "22",
+            "url": "https://www.vans.com/wcsstore/vans-storefront/js/lib/require.js?v=273",
+            "lineNumber": 0,
+            "columnNumber": 16716
+          },
+          {
+            "functionName": "check",
+            "scriptId": "22",
+            "url": "https://www.vans.com/wcsstore/vans-storefront/js/lib/require.js?v=273",
+            "lineNumber": 0,
+            "columnNumber": 10488
+          },
+          {
+            "functionName": "",
+            "scriptId": "22",
+            "url": "https://www.vans.com/wcsstore/vans-storefront/js/lib/require.js?v=273",
+            "lineNumber": 0,
+            "columnNumber": 12904
+          },
+          {
+            "functionName": "",
+            "scriptId": "22",
+            "url": "https://www.vans.com/wcsstore/vans-storefront/js/lib/require.js?v=273",
+            "lineNumber": 0,
+            "columnNumber": 1541
+          },
+          {
+            "functionName": "",
+            "scriptId": "22",
+            "url": "https://www.vans.com/wcsstore/vans-storefront/js/lib/require.js?v=273",
+            "lineNumber": 0,
+            "columnNumber": 13365
+          },
+          {
+            "functionName": "each",
+            "scriptId": "22",
+            "url": "https://www.vans.com/wcsstore/vans-storefront/js/lib/require.js?v=273",
+            "lineNumber": 0,
+            "columnNumber": 1019
+          },
+          {
+            "functionName": "emit",
+            "scriptId": "22",
+            "url": "https://www.vans.com/wcsstore/vans-storefront/js/lib/require.js?v=273",
+            "lineNumber": 0,
+            "columnNumber": 13333
+          },
+          {
+            "functionName": "check",
+            "scriptId": "22",
+            "url": "https://www.vans.com/wcsstore/vans-storefront/js/lib/require.js?v=273",
+            "lineNumber": 0,
+            "columnNumber": 11047
+          },
+          {
+            "functionName": "",
+            "scriptId": "22",
+            "url": "https://www.vans.com/wcsstore/vans-storefront/js/lib/require.js?v=273",
+            "lineNumber": 0,
+            "columnNumber": 12904
+          },
+          {
+            "functionName": "",
+            "scriptId": "22",
+            "url": "https://www.vans.com/wcsstore/vans-storefront/js/lib/require.js?v=273",
+            "lineNumber": 0,
+            "columnNumber": 1541
+          },
+          {
+            "functionName": "",
+            "scriptId": "22",
+            "url": "https://www.vans.com/wcsstore/vans-storefront/js/lib/require.js?v=273",
+            "lineNumber": 0,
+            "columnNumber": 13365
+          },
+          {
+            "functionName": "each",
+            "scriptId": "22",
+            "url": "https://www.vans.com/wcsstore/vans-storefront/js/lib/require.js?v=273",
+            "lineNumber": 0,
+            "columnNumber": 1019
+          },
+          {
+            "functionName": "emit",
+            "scriptId": "22",
+            "url": "https://www.vans.com/wcsstore/vans-storefront/js/lib/require.js?v=273",
+            "lineNumber": 0,
+            "columnNumber": 13333
+          },
+          {
+            "functionName": "check",
+            "scriptId": "22",
+            "url": "https://www.vans.com/wcsstore/vans-storefront/js/lib/require.js?v=273",
+            "lineNumber": 0,
+            "columnNumber": 11047
+          },
+          {
+            "functionName": "",
+            "scriptId": "22",
+            "url": "https://www.vans.com/wcsstore/vans-storefront/js/lib/require.js?v=273",
+            "lineNumber": 0,
+            "columnNumber": 12904
+          },
+          {
+            "functionName": "",
+            "scriptId": "22",
+            "url": "https://www.vans.com/wcsstore/vans-storefront/js/lib/require.js?v=273",
+            "lineNumber": 0,
+            "columnNumber": 1541
+          },
+          {
+            "functionName": "",
+            "scriptId": "22",
+            "url": "https://www.vans.com/wcsstore/vans-storefront/js/lib/require.js?v=273",
+            "lineNumber": 0,
+            "columnNumber": 13365
+          },
+          {
+            "functionName": "each",
+            "scriptId": "22",
+            "url": "https://www.vans.com/wcsstore/vans-storefront/js/lib/require.js?v=273",
+            "lineNumber": 0,
+            "columnNumber": 1019
+          },
+          {
+            "functionName": "emit",
+            "scriptId": "22",
+            "url": "https://www.vans.com/wcsstore/vans-storefront/js/lib/require.js?v=273",
+            "lineNumber": 0,
+            "columnNumber": 13333
+          },
+          {
+            "functionName": "check",
+            "scriptId": "22",
+            "url": "https://www.vans.com/wcsstore/vans-storefront/js/lib/require.js?v=273",
+            "lineNumber": 0,
+            "columnNumber": 11047
+          },
+          {
+            "functionName": "enable",
+            "scriptId": "22",
+            "url": "https://www.vans.com/wcsstore/vans-storefront/js/lib/require.js?v=273",
+            "lineNumber": 0,
+            "columnNumber": 13231
+          },
+          {
+            "functionName": "init",
+            "scriptId": "22",
+            "url": "https://www.vans.com/wcsstore/vans-storefront/js/lib/require.js?v=273",
+            "lineNumber": 0,
+            "columnNumber": 9594
+          },
+          {
+            "functionName": "a",
+            "scriptId": "22",
+            "url": "https://www.vans.com/wcsstore/vans-storefront/js/lib/require.js?v=273",
+            "lineNumber": 0,
+            "columnNumber": 8294
+          },
+          {
+            "functionName": "completeLoad",
+            "scriptId": "22",
+            "url": "https://www.vans.com/wcsstore/vans-storefront/js/lib/require.js?v=273",
+            "lineNumber": 0,
+            "columnNumber": 15951
+          },
+          {
+            "functionName": "onScriptLoad",
+            "scriptId": "22",
+            "url": "https://www.vans.com/wcsstore/vans-storefront/js/lib/require.js?v=273",
+            "lineNumber": 0,
+            "columnNumber": 16871
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property '7000000000000000453' of undefined at Object.handleAttrInputChange (https://www.vans.com/wcsstore/vans-storefront/20200226/js/wcs/view/product-price-service.js:1:7860) at HTMLButtonElement.<anonymous> (https://www.vans.com/wcsstore/vans-storefront/20200226/js/wcs/view/product-price-service.js:1:3395) at Function.each (https://www.vans.com/wcsstore/vans-storefront/20200226/js/npm-lib/jquery.min.js:2:2777) at k.fn.init.each (https://www.vans.com/wcsstore/vans-storefront/20200226/js/npm-lib/jquery.min.js:2:1419) at Object._getNewAttributeSelections (https://www.vans.com/wcsstore/vans-storefront/20200226/js/wcs/view/product-price-service.js:1:3254) at Object._resetPrice (https://www.vans.com/wcsstore/vans-storefront/20200226/js/wcs/view/product-price-service.js:1:3759) at Object._handleItemPricing (https://www.vans.com/wcsstore/vans-storefront/20200226/js/wcs/view/product-price-service.js:1:3024) at HTMLFormElement.<anonymous> (https://www.vans.com/wcsstore/vans-storefront/20200226/js/wcs/view/product-price-service.js:1:1607) at Function.each (https://www.vans.com/wcsstore/vans-storefront/20200226/js/npm-lib/jquery.min.js:2:2777) at k.fn.init.each (https://www.vans.com/wcsstore/vans-storefront/20200226/js/npm-lib/jquery.min.js:2:1419)",
+        "objectId": "{\"injectedScriptId\":5,\"id\":2}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property '7000000000000000453' of undefined at Object.handleAttrInputChange (https://www.vans.com/wcsstore/vans-storefront/20200226/js/wcs/view/product-price-service.js:1:7860) at HTMLButtonElement.<anonymous> (https://www.vans.com/wcsstore/vans-storefront/20200226/js/wcs/view/product-price-service.js:1:3395) at Function.each (https://www.vans.com/wcsstore/vans-storefront/20200226/js/npm-lib/jquery.min.js:2:2777) at k.fn.init.each (https://www.vans.com/wcsstore/vans-storefront/20200226/js/npm-lib/jquery.min.js:2:1419) at Object._getNewAttributeSelections (https://www.vans.com/wcsstore/vans-storefront/20200226/js/wcs/view/product-price-service.js:1:3254) at Object._resetPrice (https://www.vans.com/wcsstore/vans-storefront/20200226/js/wcs/view/product-price-service.js:1:3759) at Object._handleItemPricing (https://www.vans.com/wcsstore/vans-storefront/20200226/js/wcs/view/product-price-service.js:1:3024) at HTMLFormElement.<anonymous> (https://www.vans.com/wcsstore/vans-storefront/20200226/js/wcs/view/product-price-service.js:1:1607) at Function.each (https://www.vans.com/wcsstore/vans-storefront/20200226/js/npm-lib/jquery.min.js:2:2777) at k.fn.init.each (https://www.vans.com/wcsstore/vans-storefront/20200226/js/npm-lib/jquery.min.js:2:1419)",
+          "overflow": true,
+          "properties": [
+            {
+              "name": "reported",
+              "type": "boolean",
+              "value": "true"
+            },
+            {
+              "name": "timestamp",
+              "type": "number",
+              "value": "1583010529453"
+            },
+            {
+              "name": "lineNumber",
+              "type": "string",
+              "value": "1"
+            },
+            {
+              "name": "columnNumber",
+              "type": "string",
+              "value": "7860"
+            },
+            {
+              "name": "functionName",
+              "type": "string",
+              "value": "Object.handleAttrInputChange"
+            }
+          ]
+        }
+      },
+      "executionContextId": 5
+    }
+  }
+]

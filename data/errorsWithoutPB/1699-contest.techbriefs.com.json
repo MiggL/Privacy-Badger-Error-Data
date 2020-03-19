@@ -1,0 +1,171 @@
+[
+  {
+    "timestamp": 1582816509385.1199,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 0,
+      "columnNumber": 453,
+      "url": "https://contest.techbriefs.com/media/system/js/keepalive.js?c42e319c3bbfc31e64dd1b3d04093204",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "16",
+            "url": "https://contest.techbriefs.com/media/system/js/keepalive.js?c42e319c3bbfc31e64dd1b3d04093204",
+            "lineNumber": 0,
+            "columnNumber": 453
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: Joomla is not defined\n    at https://contest.techbriefs.com/media/system/js/keepalive.js?c42e319c3bbfc31e64dd1b3d04093204:1:454",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: Joomla is not defined\n    at https://contest.techbriefs.com/media/system/js/keepalive.js?c42e319c3bbfc31e64dd1b3d04093204:1:454",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: Joomla is not defined\n    at https…epalive.js?c42e319c3bbfc31e64dd1b3d04093204:1:454"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Joomla is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1582816509616.6028,
+    "exceptionDetails": {
+      "exceptionId": 2,
+      "text": "Uncaught",
+      "lineNumber": 6,
+      "columnNumber": 973,
+      "url": "https://cdn.jsdelivr.net/npm/bootstrap-confirmation2@4.1.0/dist/bootstrap-confirmation.min.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "42",
+            "url": "https://cdn.jsdelivr.net/npm/bootstrap-confirmation2@4.1.0/dist/bootstrap-confirmation.min.js",
+            "lineNumber": 6,
+            "columnNumber": 973
+          },
+          {
+            "functionName": "",
+            "scriptId": "42",
+            "url": "https://cdn.jsdelivr.net/npm/bootstrap-confirmation2@4.1.0/dist/bootstrap-confirmation.min.js",
+            "lineNumber": 6,
+            "columnNumber": 181
+          },
+          {
+            "functionName": "",
+            "scriptId": "42",
+            "url": "https://cdn.jsdelivr.net/npm/bootstrap-confirmation2@4.1.0/dist/bootstrap-confirmation.min.js",
+            "lineNumber": 6,
+            "columnNumber": 203
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "Error",
+        "description": "Error: Bootstrap Confirmation 4 requires Bootstrap Popover 4\n    at https://cdn.jsdelivr.net/npm/bootstrap-confirmation2@4.1.0/dist/bootstrap-confirmation.min.js:7:974\n    at https://cdn.jsdelivr.net/npm/bootstrap-confirmation2@4.1.0/dist/bootstrap-confirmation.min.js:7:182\n    at https://cdn.jsdelivr.net/npm/bootstrap-confirmation2@4.1.0/dist/bootstrap-confirmation.min.js:7:204",
+        "objectId": "{\"injectedScriptId\":3,\"id\":2}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "Error: Bootstrap Confirmation 4 requires Bootstrap Popover 4\n    at https://cdn.jsdelivr.net/npm/bootstrap-confirmation2@4.1.0/dist/bootstrap-confirmation.min.js:7:974\n    at https://cdn.jsdelivr.net/npm/bootstrap-confirmation2@4.1.0/dist/bootstrap-confirmation.min.js:7:182\n    at https://cdn.jsdelivr.net/npm/bootstrap-confirmation2@4.1.0/dist/bootstrap-confirmation.min.js:7:204",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "Error: Bootstrap Confirmation 4 requires Bootstrap…n2@4.1.0/dist/bootstrap-confirmation.min.js:7:204"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Bootstrap Confirmation 4 requires Bootstrap Popover 4"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1582816510265.0571,
+    "exceptionDetails": {
+      "exceptionId": 3,
+      "text": "Uncaught",
+      "lineNumber": 103,
+      "columnNumber": 4,
+      "url": "https://contest.techbriefs.com/2012/entries/medical/2708",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "17",
+            "url": "https://contest.techbriefs.com/2012/entries/medical/2708",
+            "lineNumber": 103,
+            "columnNumber": 4
+          },
+          {
+            "functionName": "dispatch",
+            "scriptId": "12",
+            "url": "https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js",
+            "lineNumber": 1,
+            "columnNumber": 42570
+          },
+          {
+            "functionName": "v.handle",
+            "scriptId": "12",
+            "url": "https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js",
+            "lineNumber": 1,
+            "columnNumber": 40571
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: JCaption is not defined\n    at https://contest.techbriefs.com/2012/entries/medical/2708:104:5\n    at dispatch (https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js:2:42571)\n    at v.handle (https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js:2:40572)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":3}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: JCaption is not defined\n    at https://contest.techbriefs.com/2012/entries/medical/2708:104:5\n    at dispatch (https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js:2:42571)\n    at v.handle (https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js:2:40572)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: JCaption is not defined\n    at htt…com/ajax/libs/jquery/3.4.1/jquery.min.js:2:40572)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "JCaption is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

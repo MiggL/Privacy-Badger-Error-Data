@@ -1,0 +1,86 @@
+[
+  {
+    "timestamp": 1583421971076.4019,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 0,
+      "columnNumber": 0,
+      "scriptId": "141",
+      "url": "https://rbas.mainroll.com/a/fw_inarticle_business.js",
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "SyntaxError",
+        "description": "SyntaxError: Unexpected token '<'",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "SyntaxError: Unexpected token '<'",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "SyntaxError: Unexpected token '<'"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Unexpected token '<'"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583421971076.621,
+    "exceptionDetails": {
+      "exceptionId": 2,
+      "text": "Uncaught",
+      "lineNumber": 391,
+      "columnNumber": 283,
+      "url": "https://www.googletagmanager.com/gtm.js?id=GTM-TLPH5Q",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "error",
+            "scriptId": "23",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-TLPH5Q",
+            "lineNumber": 391,
+            "columnNumber": 283
+          },
+          {
+            "functionName": "v.qb.onerror",
+            "scriptId": "23",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-TLPH5Q",
+            "lineNumber": 399,
+            "columnNumber": 496
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "className": "Object",
+        "description": "Object",
+        "objectId": "{\"injectedScriptId\":3,\"id\":2}",
+        "preview": {
+          "type": "object",
+          "description": "Object",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "Eh",
+              "type": "string",
+              "value": "Script error. - :0"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

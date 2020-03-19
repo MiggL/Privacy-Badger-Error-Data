@@ -1,0 +1,49 @@
+[
+  {
+    "timestamp": 1582895614698.117,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 491,
+      "columnNumber": 47,
+      "url": "https://www.les-supers-parents.com/",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "45",
+            "url": "https://www.les-supers-parents.com/",
+            "lineNumber": 491,
+            "columnNumber": 47
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: stLight is not defined\n    at https://www.les-supers-parents.com/:492:48",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: stLight is not defined\n    at https://www.les-supers-parents.com/:492:48",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: stLight is not defined\n    at https://www.les-supers-parents.com/:492:48"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "stLight is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

@@ -1,0 +1,49 @@
+[
+  {
+    "timestamp": 1583418951500.053,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 2989,
+      "columnNumber": 1196,
+      "url": "https://www.thecut.com/2017/02/this-finnish-word-makes-your-sad-weekend-plans-sound-cooler.html",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "33",
+            "url": "https://www.thecut.com/2017/02/this-finnish-word-makes-your-sad-weekend-plans-sound-cooler.html",
+            "lineNumber": 2989,
+            "columnNumber": 1196
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: i.googletag.pubads is not a function\n    at https://www.thecut.com/2017/02/this-finnish-word-makes-your-sad-weekend-plans-sound-cooler.html:2990:1197",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: i.googletag.pubads is not a function\n    at https://www.thecut.com/2017/02/this-finnish-word-makes-your-sad-weekend-plans-sound-cooler.html:2990:1197",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: i.googletag.pubads is not a function\n  …our-sad-weekend-plans-sound-cooler.html:2990:1197"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "i.googletag.pubads is not a function"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

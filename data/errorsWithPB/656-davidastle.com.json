@@ -1,0 +1,77 @@
+[
+  {
+    "timestamp": 1583748331465.3179,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 205,
+      "columnNumber": 2,
+      "url": "https://davidastle.com/scripts/application.js?v=3",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "36",
+            "url": "https://davidastle.com/scripts/application.js?v=3",
+            "lineNumber": 205,
+            "columnNumber": 2
+          },
+          {
+            "functionName": "responder",
+            "scriptId": "34",
+            "url": "https://davidastle.com/scripts/prototype.js",
+            "lineNumber": 5574,
+            "columnNumber": 16
+          },
+          {
+            "functionName": "fire",
+            "scriptId": "34",
+            "url": "https://davidastle.com/scripts/prototype.js",
+            "lineNumber": 5733,
+            "columnNumber": 14
+          },
+          {
+            "functionName": "_methodized",
+            "scriptId": "34",
+            "url": "https://davidastle.com/scripts/prototype.js",
+            "lineNumber": 437,
+            "columnNumber": 22
+          },
+          {
+            "functionName": "fireContentLoadedEvent",
+            "scriptId": "34",
+            "url": "https://davidastle.com/scripts/prototype.js",
+            "lineNumber": 5819,
+            "columnNumber": 13
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: getTwitters is not defined\n    at HTMLDocument.<anonymous> (https://davidastle.com/scripts/application.js?v=3:206:3)\n    at HTMLDocument.responder (https://davidastle.com/scripts/prototype.js:5575:17)\n    at fire (https://davidastle.com/scripts/prototype.js:5734:15)\n    at HTMLDocument._methodized [as fire] (https://davidastle.com/scripts/prototype.js:438:23)\n    at HTMLDocument.fireContentLoadedEvent (https://davidastle.com/scripts/prototype.js:5820:14)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: getTwitters is not defined\n    at HTMLDocument.<anonymous> (https://davidastle.com/scripts/application.js?v=3:206:3)\n    at HTMLDocument.responder (https://davidastle.com/scripts/prototype.js:5575:17)\n    at fire (https://davidastle.com/scripts/prototype.js:5734:15)\n    at HTMLDocument._methodized [as fire] (https://davidastle.com/scripts/prototype.js:438:23)\n    at HTMLDocument.fireContentLoadedEvent (https://davidastle.com/scripts/prototype.js:5820:14)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: getTwitters is not defined\n    at …ps://davidastle.com/scripts/prototype.js:5820:14)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "getTwitters is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

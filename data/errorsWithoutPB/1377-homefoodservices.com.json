@@ -1,0 +1,131 @@
+[
+  {
+    "timestamp": 1583000667080.82,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 256,
+      "columnNumber": 31,
+      "url": "http://www.homefoodservices.com/Calves-Liver",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "30",
+            "url": "http://www.homefoodservices.com/Calves-Liver",
+            "lineNumber": 256,
+            "columnNumber": 31
+          },
+          {
+            "functionName": "f",
+            "scriptId": "16",
+            "url": "https://ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js",
+            "lineNumber": 0,
+            "columnNumber": 18277
+          },
+          {
+            "functionName": "fireWith",
+            "scriptId": "16",
+            "url": "https://ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js",
+            "lineNumber": 0,
+            "columnNumber": 19063
+          },
+          {
+            "functionName": "ready",
+            "scriptId": "16",
+            "url": "https://ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js",
+            "lineNumber": 0,
+            "columnNumber": 13873
+          },
+          {
+            "functionName": "xt",
+            "scriptId": "16",
+            "url": "https://ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js",
+            "lineNumber": 0,
+            "columnNumber": 11366
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: $(...).prettyPhoto is not a function\n    at HTMLDocument.<anonymous> (http://www.homefoodservices.com/Calves-Liver:257:32)\n    at f (https://ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js:1:18278)\n    at Object.fireWith [as resolveWith] (https://ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js:1:19064)\n    at Function.ready (https://ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js:1:13874)\n    at HTMLDocument.xt (https://ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js:1:11367)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: $(...).prettyPhoto is not a function\n    at HTMLDocument.<anonymous> (http://www.homefoodservices.com/Calves-Liver:257:32)\n    at f (https://ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js:1:18278)\n    at Object.fireWith [as resolveWith] (https://ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js:1:19064)\n    at Function.ready (https://ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js:1:13874)\n    at HTMLDocument.xt (https://ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js:1:11367)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: $(...).prettyPhoto is not a function\n  …com/ajax/libs/jquery/1.9.0/jquery.min.js:1:11367)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "$(...).prettyPhoto is not a function"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583000667394.732,
+    "exceptionDetails": {
+      "exceptionId": 2,
+      "text": "Uncaught",
+      "lineNumber": 313,
+      "columnNumber": 305,
+      "url": "http://www.homefoodservices.com/includes/jQuerySlideshow/jQuerySlideshow.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "a.fn.jQuerySlideShow",
+            "scriptId": "21",
+            "url": "http://www.homefoodservices.com/includes/jQuerySlideshow/jQuerySlideshow.js",
+            "lineNumber": 313,
+            "columnNumber": 305
+          },
+          {
+            "functionName": "createJQuerySlideShow",
+            "scriptId": "22",
+            "url": "http://www.homefoodservices.com/includes/jQuerySlideshow/hfs_home_slides.js",
+            "lineNumber": 259,
+            "columnNumber": 52
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: k.startSlider is not a function\n    at init.a.fn.jQuerySlideShow (http://www.homefoodservices.com/includes/jQuerySlideshow/jQuerySlideshow.js:314:306)\n    at createJQuerySlideShow (http://www.homefoodservices.com/includes/jQuerySlideshow/hfs_home_slides.js:260:53)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":2}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: k.startSlider is not a function\n    at init.a.fn.jQuerySlideShow (http://www.homefoodservices.com/includes/jQuerySlideshow/jQuerySlideshow.js:314:306)\n    at createJQuerySlideShow (http://www.homefoodservices.com/includes/jQuerySlideshow/hfs_home_slides.js:260:53)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: k.startSlider is not a function\n    at …cludes/jQuerySlideshow/hfs_home_slides.js:260:53)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "k.startSlider is not a function"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

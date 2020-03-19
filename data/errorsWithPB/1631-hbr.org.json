@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": 1583417326270.593,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 222,
+      "columnNumber": 35,
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "33",
+            "url": "",
+            "lineNumber": 222,
+            "columnNumber": 35
+          },
+          {
+            "functionName": "dispatch",
+            "scriptId": "30",
+            "url": "",
+            "lineNumber": 3,
+            "columnNumber": 8435
+          },
+          {
+            "functionName": "r.handle",
+            "scriptId": "30",
+            "url": "",
+            "lineNumber": 3,
+            "columnNumber": 5138
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: googletag.pubads is not a function\n    at <anonymous>:223:36\n    at dispatch (<anonymous>:4:8436)\n    at r.handle (<anonymous>:4:5139)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":3}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: googletag.pubads is not a function\n    at <anonymous>:223:36\n    at dispatch (<anonymous>:4:8436)\n    at r.handle (<anonymous>:4:5139)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: googletag.pubads is not a function\n    …ous>:4:8436)\n    at r.handle (<anonymous>:4:5139)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "googletag.pubads is not a function"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

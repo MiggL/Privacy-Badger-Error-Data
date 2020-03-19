@@ -1,0 +1,139 @@
+[
+  {
+    "timestamp": 1583006640254.552,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 9,
+      "columnNumber": 126,
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "28",
+            "url": "",
+            "lineNumber": 9,
+            "columnNumber": 126
+          },
+          {
+            "functionName": "",
+            "scriptId": "20",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-KBDRDTF",
+            "lineNumber": 239,
+            "columnNumber": 413
+          },
+          {
+            "functionName": "c",
+            "scriptId": "20",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-KBDRDTF",
+            "lineNumber": 241,
+            "columnNumber": 151
+          },
+          {
+            "functionName": "Db",
+            "scriptId": "20",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-KBDRDTF",
+            "lineNumber": 115,
+            "columnNumber": 395
+          },
+          {
+            "functionName": "e",
+            "scriptId": "20",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-KBDRDTF",
+            "lineNumber": 144,
+            "columnNumber": 137
+          },
+          {
+            "functionName": "",
+            "scriptId": "20",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-KBDRDTF",
+            "lineNumber": 110,
+            "columnNumber": 113
+          },
+          {
+            "functionName": "",
+            "scriptId": "20",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-KBDRDTF",
+            "lineNumber": 145,
+            "columnNumber": 228
+          },
+          {
+            "functionName": "",
+            "scriptId": "20",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-KBDRDTF",
+            "lineNumber": 144,
+            "columnNumber": 472
+          },
+          {
+            "functionName": "of",
+            "scriptId": "20",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-KBDRDTF",
+            "lineNumber": 145,
+            "columnNumber": 517
+          },
+          {
+            "functionName": "qf",
+            "scriptId": "20",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-KBDRDTF",
+            "lineNumber": 147,
+            "columnNumber": 226
+          },
+          {
+            "functionName": "ij",
+            "scriptId": "20",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-KBDRDTF",
+            "lineNumber": 190,
+            "columnNumber": 186
+          },
+          {
+            "functionName": "hj",
+            "scriptId": "20",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-KBDRDTF",
+            "lineNumber": 190,
+            "columnNumber": 0
+          },
+          {
+            "functionName": "jj",
+            "scriptId": "20",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-KBDRDTF",
+            "lineNumber": 192,
+            "columnNumber": 356
+          },
+          {
+            "functionName": "kj",
+            "scriptId": "20",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-KBDRDTF",
+            "lineNumber": 193,
+            "columnNumber": 29
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: jQuery is not defined\n    at <anonymous>:10:127\n    at https://www.googletagmanager.com/gtm.js?id=GTM-KBDRDTF:240:414\n    at c (https://www.googletagmanager.com/gtm.js?id=GTM-KBDRDTF:242:152)\n    at Db (https://www.googletagmanager.com/gtm.js?id=GTM-KBDRDTF:116:396)\n    at e (https://www.googletagmanager.com/gtm.js?id=GTM-KBDRDTF:145:138)\n    at https://www.googletagmanager.com/gtm.js?id=GTM-KBDRDTF:111:114\n    at Array.<anonymous> (https://www.googletagmanager.com/gtm.js?id=GTM-KBDRDTF:146:229)\n    at Object.Zf (https://www.googletagmanager.com/gtm.js?id=GTM-KBDRDTF:145:473)\n    at of (https://www.googletagmanager.com/gtm.js?id=GTM-KBDRDTF:146:518)\n    at qf (https://www.googletagmanager.com/gtm.js?id=GTM-KBDRDTF:148:227)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: jQuery is not defined\n    at <anonymous>:10:127\n    at https://www.googletagmanager.com/gtm.js?id=GTM-KBDRDTF:240:414\n    at c (https://www.googletagmanager.com/gtm.js?id=GTM-KBDRDTF:242:152)\n    at Db (https://www.googletagmanager.com/gtm.js?id=GTM-KBDRDTF:116:396)\n    at e (https://www.googletagmanager.com/gtm.js?id=GTM-KBDRDTF:145:138)\n    at https://www.googletagmanager.com/gtm.js?id=GTM-KBDRDTF:111:114\n    at Array.<anonymous> (https://www.googletagmanager.com/gtm.js?id=GTM-KBDRDTF:146:229)\n    at Object.Zf (https://www.googletagmanager.com/gtm.js?id=GTM-KBDRDTF:145:473)\n    at of (https://www.googletagmanager.com/gtm.js?id=GTM-KBDRDTF:146:518)\n    at qf (https://www.googletagmanager.com/gtm.js?id=GTM-KBDRDTF:148:227)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: jQuery is not defined\n    at <anon…ogletagmanager.com/gtm.js?id=GTM-KBDRDTF:148:227)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "jQuery is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

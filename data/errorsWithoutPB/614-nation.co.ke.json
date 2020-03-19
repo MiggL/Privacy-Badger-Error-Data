@@ -1,0 +1,294 @@
+[
+  {
+    "timestamp": 1583007777183.158,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 2,
+      "columnNumber": 2,
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "47",
+            "url": "",
+            "lineNumber": 2,
+            "columnNumber": 2
+          },
+          {
+            "functionName": "t.activateScript",
+            "scriptId": "14",
+            "url": "https://ajax.cloudflare.com/cdn-cgi/scripts/7089c43e/cloudflare-static/rocket-loader.min.js",
+            "lineNumber": 0,
+            "columnNumber": 11832
+          },
+          {
+            "functionName": "",
+            "scriptId": "14",
+            "url": "https://ajax.cloudflare.com/cdn-cgi/scripts/7089c43e/cloudflare-static/rocket-loader.min.js",
+            "lineNumber": 0,
+            "columnNumber": 11029
+          },
+          {
+            "functionName": "t.run",
+            "scriptId": "14",
+            "url": "https://ajax.cloudflare.com/cdn-cgi/scripts/7089c43e/cloudflare-static/rocket-loader.min.js",
+            "lineNumber": 0,
+            "columnNumber": 11236
+          },
+          {
+            "functionName": "",
+            "scriptId": "14",
+            "url": "https://ajax.cloudflare.com/cdn-cgi/scripts/7089c43e/cloudflare-static/rocket-loader.min.js",
+            "lineNumber": 0,
+            "columnNumber": 11133
+          },
+          {
+            "functionName": "",
+            "scriptId": "14",
+            "url": "https://ajax.cloudflare.com/cdn-cgi/scripts/7089c43e/cloudflare-static/rocket-loader.min.js",
+            "lineNumber": 0,
+            "columnNumber": 669
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: ga is not defined\n    at <anonymous>:3:3\n    at t.activateScript (https://ajax.cloudflare.com/cdn-cgi/scripts/7089c43e/cloudflare-static/rocket-loader.min.js:1:11833)\n    at https://ajax.cloudflare.com/cdn-cgi/scripts/7089c43e/cloudflare-static/rocket-loader.min.js:1:11030\n    at t.run (https://ajax.cloudflare.com/cdn-cgi/scripts/7089c43e/cloudflare-static/rocket-loader.min.js:1:11237)\n    at https://ajax.cloudflare.com/cdn-cgi/scripts/7089c43e/cloudflare-static/rocket-loader.min.js:1:11134\n    at HTMLScriptElement.<anonymous> (https://ajax.cloudflare.com/cdn-cgi/scripts/7089c43e/cloudflare-static/rocket-loader.min.js:1:670)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: ga is not defined\n    at <anonymous>:3:3\n    at t.activateScript (https://ajax.cloudflare.com/cdn-cgi/scripts/7089c43e/cloudflare-static/rocket-loader.min.js:1:11833)\n    at https://ajax.cloudflare.com/cdn-cgi/scripts/7089c43e/cloudflare-static/rocket-loader.min.js:1:11030\n    at t.run (https://ajax.cloudflare.com/cdn-cgi/scripts/7089c43e/cloudflare-static/rocket-loader.min.js:1:11237)\n    at https://ajax.cloudflare.com/cdn-cgi/scripts/7089c43e/cloudflare-static/rocket-loader.min.js:1:11134\n    at HTMLScriptElement.<anonymous> (https://ajax.cloudflare.com/cdn-cgi/scripts/7089c43e/cloudflare-static/rocket-loader.min.js:1:670)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: ga is not defined\n    at <anonymou…43e/cloudflare-static/rocket-loader.min.js:1:670)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "ga is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583007777269.386,
+    "exceptionDetails": {
+      "exceptionId": 2,
+      "text": "Uncaught",
+      "lineNumber": 18,
+      "columnNumber": 56,
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "myFunction",
+            "scriptId": "53",
+            "url": "",
+            "lineNumber": 18,
+            "columnNumber": 56
+          },
+          {
+            "functionName": "xmlhttp.onreadystatechange",
+            "scriptId": "53",
+            "url": "",
+            "lineNumber": 5,
+            "columnNumber": 6
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'nodeValue' of undefined\n    at myFunction (<anonymous>:19:57)\n    at XMLHttpRequest.xmlhttp.onreadystatechange (<anonymous>:6:7)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":2}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'nodeValue' of undefined\n    at myFunction (<anonymous>:19:57)\n    at XMLHttpRequest.xmlhttp.onreadystatechange (<anonymous>:6:7)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'nodeValue' of und…uest.xmlhttp.onreadystatechange (<anonymous>:6:7)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'nodeValue' of undefined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583007777406.876,
+    "exceptionDetails": {
+      "exceptionId": 3,
+      "text": "Uncaught",
+      "lineNumber": 0,
+      "columnNumber": 95,
+      "url": "https://www.nation.co.ke/code/view/DailyNation/-/2456274/-/i04jhl/-/globalvideo.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "79",
+            "url": "https://www.nation.co.ke/code/view/DailyNation/-/2456274/-/i04jhl/-/globalvideo.js",
+            "lineNumber": 0,
+            "columnNumber": 95
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'getElementsByTagName' of null\n    at https://www.nation.co.ke/code/view/DailyNation/-/2456274/-/i04jhl/-/globalvideo.js:1:96",
+        "objectId": "{\"injectedScriptId\":3,\"id\":3}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'getElementsByTagName' of null\n    at https://www.nation.co.ke/code/view/DailyNation/-/2456274/-/i04jhl/-/globalvideo.js:1:96",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'getElementsByTagN…lyNation/-/2456274/-/i04jhl/-/globalvideo.js:1:96"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'getElementsByTagName' of null"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583007777591.1301,
+    "exceptionDetails": {
+      "exceptionId": 4,
+      "text": "Uncaught",
+      "lineNumber": 48,
+      "columnNumber": 397,
+      "url": "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "l.da",
+            "scriptId": "40",
+            "url": "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js",
+            "lineNumber": 48,
+            "columnNumber": 397
+          },
+          {
+            "functionName": "wf",
+            "scriptId": "40",
+            "url": "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js",
+            "lineNumber": 56,
+            "columnNumber": 408
+          },
+          {
+            "functionName": "Ck",
+            "scriptId": "40",
+            "url": "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js",
+            "lineNumber": 183,
+            "columnNumber": 24
+          },
+          {
+            "functionName": "",
+            "scriptId": "101",
+            "url": "",
+            "lineNumber": 0,
+            "columnNumber": 193
+          },
+          {
+            "functionName": "t.activateScript",
+            "scriptId": "14",
+            "url": "https://ajax.cloudflare.com/cdn-cgi/scripts/7089c43e/cloudflare-static/rocket-loader.min.js",
+            "lineNumber": 0,
+            "columnNumber": 11832
+          },
+          {
+            "functionName": "",
+            "scriptId": "14",
+            "url": "https://ajax.cloudflare.com/cdn-cgi/scripts/7089c43e/cloudflare-static/rocket-loader.min.js",
+            "lineNumber": 0,
+            "columnNumber": 11029
+          },
+          {
+            "functionName": "t.run",
+            "scriptId": "14",
+            "url": "https://ajax.cloudflare.com/cdn-cgi/scripts/7089c43e/cloudflare-static/rocket-loader.min.js",
+            "lineNumber": 0,
+            "columnNumber": 11236
+          },
+          {
+            "functionName": "",
+            "scriptId": "14",
+            "url": "https://ajax.cloudflare.com/cdn-cgi/scripts/7089c43e/cloudflare-static/rocket-loader.min.js",
+            "lineNumber": 0,
+            "columnNumber": 11133
+          },
+          {
+            "functionName": "",
+            "scriptId": "14",
+            "url": "https://ajax.cloudflare.com/cdn-cgi/scripts/7089c43e/cloudflare-static/rocket-loader.min.js",
+            "lineNumber": 0,
+            "columnNumber": 669
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "className": "N",
+        "description": "N",
+        "objectId": "{\"injectedScriptId\":3,\"id\":4}",
+        "preview": {
+          "type": "object",
+          "description": "N",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "message",
+              "type": "string",
+              "value": "adsbygoogle.push() error: Only one 'enable_page_level_ads' allowed per page."
+            },
+            {
+              "name": "name",
+              "type": "string",
+              "value": "TagError"
+            },
+            {
+              "name": "pbr",
+              "type": "boolean",
+              "value": "true"
+            },
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TagError: adsbygoogle.push() error: Only one 'enab…esyndication.com/pagead/js/adsbygoogle.js:57:409)"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

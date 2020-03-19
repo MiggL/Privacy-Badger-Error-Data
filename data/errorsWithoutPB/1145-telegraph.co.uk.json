@@ -1,0 +1,126 @@
+[
+  {
+    "timestamp": 1583002873210.857,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 153,
+      "columnNumber": 60,
+      "url": "https://www.telegraph.co.uk/news/worldnews/africaandindianocean/southafrica/12173750/Why-the-worlds-largest-rhino-farmer-is-cutting-off-their-horns.html",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "document.onreadystatechange",
+            "scriptId": "18",
+            "url": "https://www.telegraph.co.uk/news/worldnews/africaandindianocean/southafrica/12173750/Why-the-worlds-largest-rhino-farmer-is-cutting-off-their-horns.html",
+            "lineNumber": 153,
+            "columnNumber": 60
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot set property 'src' of null at HTMLDocument.document.onreadystatechange (https://www.telegraph.co.uk/news/worldnews/africaandindianocean/southafrica/12173750/Why-the-worlds-largest-rhino-farmer-is-cutting-off-their-horns.html:154:61)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot set property 'src' of null at HTMLDocument.document.onreadystatechange (https://www.telegraph.co.uk/news/worldnews/africaandindianocean/southafrica/12173750/Why-the-worlds-largest-rhino-farmer-is-cutting-off-their-horns.html:154:61)",
+          "overflow": true,
+          "properties": [
+            {
+              "name": "reported",
+              "type": "boolean",
+              "value": "true"
+            },
+            {
+              "name": "timestamp",
+              "type": "number",
+              "value": "1583002873209"
+            },
+            {
+              "name": "lineNumber",
+              "type": "string",
+              "value": "154"
+            },
+            {
+              "name": "columnNumber",
+              "type": "string",
+              "value": "61"
+            },
+            {
+              "name": "functionName",
+              "type": "string",
+              "value": "HTMLDocument.document.onreadystatechange"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583002875640.9211,
+    "exceptionDetails": {
+      "exceptionId": 2,
+      "text": "Uncaught",
+      "lineNumber": 153,
+      "columnNumber": 60,
+      "url": "https://www.telegraph.co.uk/news/worldnews/africaandindianocean/southafrica/12173750/Why-the-worlds-largest-rhino-farmer-is-cutting-off-their-horns.html",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "document.onreadystatechange",
+            "scriptId": "18",
+            "url": "https://www.telegraph.co.uk/news/worldnews/africaandindianocean/southafrica/12173750/Why-the-worlds-largest-rhino-farmer-is-cutting-off-their-horns.html",
+            "lineNumber": 153,
+            "columnNumber": 60
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot set property 'src' of null at HTMLDocument.document.onreadystatechange (https://www.telegraph.co.uk/news/worldnews/africaandindianocean/southafrica/12173750/Why-the-worlds-largest-rhino-farmer-is-cutting-off-their-horns.html:154:61)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":2}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot set property 'src' of null at HTMLDocument.document.onreadystatechange (https://www.telegraph.co.uk/news/worldnews/africaandindianocean/southafrica/12173750/Why-the-worlds-largest-rhino-farmer-is-cutting-off-their-horns.html:154:61)",
+          "overflow": true,
+          "properties": [
+            {
+              "name": "reported",
+              "type": "boolean",
+              "value": "true"
+            },
+            {
+              "name": "timestamp",
+              "type": "number",
+              "value": "1583002875639"
+            },
+            {
+              "name": "lineNumber",
+              "type": "string",
+              "value": "154"
+            },
+            {
+              "name": "columnNumber",
+              "type": "string",
+              "value": "61"
+            },
+            {
+              "name": "functionName",
+              "type": "string",
+              "value": "HTMLDocument.document.onreadystatechange"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

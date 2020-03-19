@@ -1,0 +1,455 @@
+[
+  {
+    "timestamp": 1583003463872.0479,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 174,
+      "columnNumber": 2328,
+      "url": "http://news.bbc.co.uk/2/hi/programmes/newsnight/8701959.stm",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "oqsSurveyManager",
+            "scriptId": "24",
+            "url": "http://news.bbc.co.uk/2/hi/programmes/newsnight/8701959.stm",
+            "lineNumber": 174,
+            "columnNumber": 2328
+          },
+          {
+            "functionName": "",
+            "scriptId": "24",
+            "url": "http://news.bbc.co.uk/2/hi/programmes/newsnight/8701959.stm",
+            "lineNumber": 174,
+            "columnNumber": 2525
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: w.orb.fig is not a function\n    at oqsSurveyManager (http://news.bbc.co.uk/2/hi/programmes/newsnight/8701959.stm:175:2329)\n    at http://news.bbc.co.uk/2/hi/programmes/newsnight/8701959.stm:175:2526",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: w.orb.fig is not a function\n    at oqsSurveyManager (http://news.bbc.co.uk/2/hi/programmes/newsnight/8701959.stm:175:2329)\n    at http://news.bbc.co.uk/2/hi/programmes/newsnight/8701959.stm:175:2526",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: w.orb.fig is not a function\n    at oqsS…uk/2/hi/programmes/newsnight/8701959.stm:175:2526"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "w.orb.fig is not a function"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583003464418.078,
+    "exceptionDetails": {
+      "exceptionId": 2,
+      "text": "Uncaught",
+      "lineNumber": 1799,
+      "columnNumber": 4,
+      "url": "http://news.bbc.co.uk/2/hi/programmes/newsnight/8701959.stm",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "56",
+            "url": "http://news.bbc.co.uk/2/hi/programmes/newsnight/8701959.stm",
+            "lineNumber": 1799,
+            "columnNumber": 4
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: BBC is not defined\n    at http://news.bbc.co.uk/2/hi/programmes/newsnight/8701959.stm:1800:5",
+        "objectId": "{\"injectedScriptId\":3,\"id\":2}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: BBC is not defined\n    at http://news.bbc.co.uk/2/hi/programmes/newsnight/8701959.stm:1800:5",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: BBC is not defined\n    at http://n…o.uk/2/hi/programmes/newsnight/8701959.stm:1800:5"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "BBC is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583003464418.4429,
+    "exceptionDetails": {
+      "exceptionId": 3,
+      "text": "Uncaught",
+      "lineNumber": 1810,
+      "columnNumber": 4,
+      "url": "http://news.bbc.co.uk/2/hi/programmes/newsnight/8701959.stm",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "57",
+            "url": "http://news.bbc.co.uk/2/hi/programmes/newsnight/8701959.stm",
+            "lineNumber": 1810,
+            "columnNumber": 4
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: BBC is not defined\n    at http://news.bbc.co.uk/2/hi/programmes/newsnight/8701959.stm:1811:5",
+        "objectId": "{\"injectedScriptId\":3,\"id\":3}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: BBC is not defined\n    at http://news.bbc.co.uk/2/hi/programmes/newsnight/8701959.stm:1811:5",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: BBC is not defined\n    at http://n…o.uk/2/hi/programmes/newsnight/8701959.stm:1811:5"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "BBC is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583003464418.7268,
+    "exceptionDetails": {
+      "exceptionId": 4,
+      "text": "Uncaught",
+      "lineNumber": 1818,
+      "columnNumber": 4,
+      "url": "http://news.bbc.co.uk/2/hi/programmes/newsnight/8701959.stm",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "58",
+            "url": "http://news.bbc.co.uk/2/hi/programmes/newsnight/8701959.stm",
+            "lineNumber": 1818,
+            "columnNumber": 4
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: BBC is not defined\n    at http://news.bbc.co.uk/2/hi/programmes/newsnight/8701959.stm:1819:5",
+        "objectId": "{\"injectedScriptId\":3,\"id\":4}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: BBC is not defined\n    at http://news.bbc.co.uk/2/hi/programmes/newsnight/8701959.stm:1819:5",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: BBC is not defined\n    at http://n…o.uk/2/hi/programmes/newsnight/8701959.stm:1819:5"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "BBC is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583003464418.988,
+    "exceptionDetails": {
+      "exceptionId": 5,
+      "text": "Uncaught",
+      "lineNumber": 1831,
+      "columnNumber": 4,
+      "url": "http://news.bbc.co.uk/2/hi/programmes/newsnight/8701959.stm",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "59",
+            "url": "http://news.bbc.co.uk/2/hi/programmes/newsnight/8701959.stm",
+            "lineNumber": 1831,
+            "columnNumber": 4
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: BBC is not defined\n    at http://news.bbc.co.uk/2/hi/programmes/newsnight/8701959.stm:1832:5",
+        "objectId": "{\"injectedScriptId\":3,\"id\":5}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: BBC is not defined\n    at http://news.bbc.co.uk/2/hi/programmes/newsnight/8701959.stm:1832:5",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: BBC is not defined\n    at http://n…o.uk/2/hi/programmes/newsnight/8701959.stm:1832:5"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "BBC is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583003464419.2268,
+    "exceptionDetails": {
+      "exceptionId": 6,
+      "text": "Uncaught",
+      "lineNumber": 1839,
+      "columnNumber": 4,
+      "url": "http://news.bbc.co.uk/2/hi/programmes/newsnight/8701959.stm",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "60",
+            "url": "http://news.bbc.co.uk/2/hi/programmes/newsnight/8701959.stm",
+            "lineNumber": 1839,
+            "columnNumber": 4
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: BBC is not defined\n    at http://news.bbc.co.uk/2/hi/programmes/newsnight/8701959.stm:1840:5",
+        "objectId": "{\"injectedScriptId\":3,\"id\":6}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: BBC is not defined\n    at http://news.bbc.co.uk/2/hi/programmes/newsnight/8701959.stm:1840:5",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: BBC is not defined\n    at http://n…o.uk/2/hi/programmes/newsnight/8701959.stm:1840:5"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "BBC is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583003464419.577,
+    "exceptionDetails": {
+      "exceptionId": 7,
+      "text": "Uncaught",
+      "lineNumber": 1850,
+      "columnNumber": 4,
+      "url": "http://news.bbc.co.uk/2/hi/programmes/newsnight/8701959.stm",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "61",
+            "url": "http://news.bbc.co.uk/2/hi/programmes/newsnight/8701959.stm",
+            "lineNumber": 1850,
+            "columnNumber": 4
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: BBC is not defined\n    at http://news.bbc.co.uk/2/hi/programmes/newsnight/8701959.stm:1851:5",
+        "objectId": "{\"injectedScriptId\":3,\"id\":7}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: BBC is not defined\n    at http://news.bbc.co.uk/2/hi/programmes/newsnight/8701959.stm:1851:5",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: BBC is not defined\n    at http://n…o.uk/2/hi/programmes/newsnight/8701959.stm:1851:5"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "BBC is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583003464419.911,
+    "exceptionDetails": {
+      "exceptionId": 8,
+      "text": "Uncaught",
+      "lineNumber": 1869,
+      "columnNumber": 4,
+      "url": "http://news.bbc.co.uk/2/hi/programmes/newsnight/8701959.stm",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "62",
+            "url": "http://news.bbc.co.uk/2/hi/programmes/newsnight/8701959.stm",
+            "lineNumber": 1869,
+            "columnNumber": 4
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: BBC is not defined\n    at http://news.bbc.co.uk/2/hi/programmes/newsnight/8701959.stm:1870:5",
+        "objectId": "{\"injectedScriptId\":3,\"id\":8}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: BBC is not defined\n    at http://news.bbc.co.uk/2/hi/programmes/newsnight/8701959.stm:1870:5",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: BBC is not defined\n    at http://n…o.uk/2/hi/programmes/newsnight/8701959.stm:1870:5"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "BBC is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583003465046.8372,
+    "exceptionDetails": {
+      "exceptionId": 9,
+      "text": "Uncaught",
+      "lineNumber": 6,
+      "columnNumber": 1146,
+      "url": "http://static.bbci.co.uk/frameworks/requirejs/lib.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "makeError",
+            "scriptId": "17",
+            "url": "http://static.bbci.co.uk/frameworks/requirejs/lib.js",
+            "lineNumber": 6,
+            "columnNumber": 1146
+          },
+          {
+            "functionName": "onScriptError",
+            "scriptId": "17",
+            "url": "http://static.bbci.co.uk/frameworks/requirejs/lib.js",
+            "lineNumber": 6,
+            "columnNumber": 12797
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "Error",
+        "description": "Error: Script error for: idcta/statusbar\nhttp://requirejs.org/docs/errors.html#scripterror\n    at makeError (http://static.bbci.co.uk/frameworks/requirejs/lib.js:7:1147)\n    at HTMLScriptElement.onScriptError (http://static.bbci.co.uk/frameworks/requirejs/lib.js:7:12798)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":9}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "Error: Script error for: idcta/statusbar\nhttp://requirejs.org/docs/errors.html#scripterror\n    at makeError (http://static.bbci.co.uk/frameworks/requirejs/lib.js:7:1147)\n    at HTMLScriptElement.onScriptError (http://static.bbci.co.uk/frameworks/requirejs/lib.js:7:12798)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "requireType",
+              "type": "string",
+              "value": "scripterror"
+            },
+            {
+              "name": "requireModules",
+              "type": "object",
+              "value": "Array(1)",
+              "subtype": "array"
+            },
+            {
+              "name": "originalError",
+              "type": "object",
+              "value": "Event"
+            },
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "Error: Script error for: idcta/statusbar\nhttp://re…c.bbci.co.uk/frameworks/requirejs/lib.js:7:12798)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Script error for: idcta/statusbar\nhttp://requirejs.org/docs/errors.html#scripterror"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

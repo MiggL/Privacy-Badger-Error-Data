@@ -1,0 +1,64 @@
+[
+  {
+    "timestamp": 1583423545786.627,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 1,
+      "columnNumber": 31039,
+      "scriptId": "21",
+      "url": "http://code.jquery.com/jquery-3.3.1.min.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "23",
+            "url": "http://www.dwellinghome.com/product/resin-beaded/",
+            "lineNumber": 161,
+            "columnNumber": 12
+          },
+          {
+            "functionName": "l",
+            "scriptId": "21",
+            "url": "http://code.jquery.com/jquery-3.3.1.min.js",
+            "lineNumber": 1,
+            "columnNumber": 29374
+          },
+          {
+            "functionName": "c",
+            "scriptId": "21",
+            "url": "http://code.jquery.com/jquery-3.3.1.min.js",
+            "lineNumber": 1,
+            "columnNumber": 29676
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: prettyPrint is not defined\n    at HTMLDocument.<anonymous> (http://www.dwellinghome.com/product/resin-beaded/:162:13)\n    at l (http://code.jquery.com/jquery-3.3.1.min.js:2:29375)\n    at c (http://code.jquery.com/jquery-3.3.1.min.js:2:29677)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: prettyPrint is not defined\n    at HTMLDocument.<anonymous> (http://www.dwellinghome.com/product/resin-beaded/:162:13)\n    at l (http://code.jquery.com/jquery-3.3.1.min.js:2:29375)\n    at c (http://code.jquery.com/jquery-3.3.1.min.js:2:29677)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: prettyPrint is not defined\n    at …tp://code.jquery.com/jquery-3.3.1.min.js:2:29677)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "prettyPrint is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

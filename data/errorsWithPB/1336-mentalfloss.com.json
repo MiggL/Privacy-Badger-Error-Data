@@ -1,0 +1,77 @@
+[
+  {
+    "timestamp": 1583420033081.574,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 38,
+      "columnNumber": 4,
+      "url": "https://www.mentalfloss.com/js/22fee9b.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "47",
+            "url": "https://www.mentalfloss.com/js/22fee9b.js",
+            "lineNumber": 38,
+            "columnNumber": 4
+          },
+          {
+            "functionName": "c",
+            "scriptId": "24",
+            "url": "https://code.jquery.com/jquery-1.10.1.min.js",
+            "lineNumber": 3,
+            "columnNumber": 26050
+          },
+          {
+            "functionName": "fireWith",
+            "scriptId": "24",
+            "url": "https://code.jquery.com/jquery-1.10.1.min.js",
+            "lineNumber": 3,
+            "columnNumber": 26855
+          },
+          {
+            "functionName": "ready",
+            "scriptId": "24",
+            "url": "https://code.jquery.com/jquery-1.10.1.min.js",
+            "lineNumber": 3,
+            "columnNumber": 3304
+          },
+          {
+            "functionName": "q",
+            "scriptId": "24",
+            "url": "https://code.jquery.com/jquery-1.10.1.min.js",
+            "lineNumber": 3,
+            "columnNumber": 716
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: addthis is not defined\n    at HTMLDocument.<anonymous> (https://www.mentalfloss.com/js/22fee9b.js:39:5)\n    at c (https://code.jquery.com/jquery-1.10.1.min.js:4:26051)\n    at Object.fireWith [as resolveWith] (https://code.jquery.com/jquery-1.10.1.min.js:4:26856)\n    at Function.ready (https://code.jquery.com/jquery-1.10.1.min.js:4:3305)\n    at HTMLDocument.q (https://code.jquery.com/jquery-1.10.1.min.js:4:717)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: addthis is not defined\n    at HTMLDocument.<anonymous> (https://www.mentalfloss.com/js/22fee9b.js:39:5)\n    at c (https://code.jquery.com/jquery-1.10.1.min.js:4:26051)\n    at Object.fireWith [as resolveWith] (https://code.jquery.com/jquery-1.10.1.min.js:4:26856)\n    at Function.ready (https://code.jquery.com/jquery-1.10.1.min.js:4:3305)\n    at HTMLDocument.q (https://code.jquery.com/jquery-1.10.1.min.js:4:717)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: addthis is not defined\n    at HTML…tps://code.jquery.com/jquery-1.10.1.min.js:4:717)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "addthis is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

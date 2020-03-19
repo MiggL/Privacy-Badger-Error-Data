@@ -1,0 +1,213 @@
+[
+  {
+    "timestamp": 1582892341345.109,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 11,
+      "columnNumber": 203427,
+      "url": "https://d2c8v52ll5s99u.cloudfront.net/player/main-8acd27185b78ea8d8dde.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "e.__tryOrUnsub",
+            "scriptId": "93",
+            "url": "https://d2c8v52ll5s99u.cloudfront.net/player/main-8acd27185b78ea8d8dde.js",
+            "lineNumber": 11,
+            "columnNumber": 203427
+          },
+          {
+            "functionName": "e.error",
+            "scriptId": "93",
+            "url": "https://d2c8v52ll5s99u.cloudfront.net/player/main-8acd27185b78ea8d8dde.js",
+            "lineNumber": 11,
+            "columnNumber": 202931
+          },
+          {
+            "functionName": "e._error",
+            "scriptId": "93",
+            "url": "https://d2c8v52ll5s99u.cloudfront.net/player/main-8acd27185b78ea8d8dde.js",
+            "lineNumber": 11,
+            "columnNumber": 201833
+          },
+          {
+            "functionName": "e.error",
+            "scriptId": "93",
+            "url": "https://d2c8v52ll5s99u.cloudfront.net/player/main-8acd27185b78ea8d8dde.js",
+            "lineNumber": 11,
+            "columnNumber": 201527
+          },
+          {
+            "functionName": "e.notifyError",
+            "scriptId": "93",
+            "url": "https://d2c8v52ll5s99u.cloudfront.net/player/main-8acd27185b78ea8d8dde.js",
+            "lineNumber": 11,
+            "columnNumber": 204408
+          },
+          {
+            "functionName": "e._error",
+            "scriptId": "93",
+            "url": "https://d2c8v52ll5s99u.cloudfront.net/player/main-8acd27185b78ea8d8dde.js",
+            "lineNumber": 11,
+            "columnNumber": 339563
+          },
+          {
+            "functionName": "e.error",
+            "scriptId": "93",
+            "url": "https://d2c8v52ll5s99u.cloudfront.net/player/main-8acd27185b78ea8d8dde.js",
+            "lineNumber": 11,
+            "columnNumber": 201527
+          },
+          {
+            "functionName": "e._error",
+            "scriptId": "93",
+            "url": "https://d2c8v52ll5s99u.cloudfront.net/player/main-8acd27185b78ea8d8dde.js",
+            "lineNumber": 11,
+            "columnNumber": 361009
+          },
+          {
+            "functionName": "e.error",
+            "scriptId": "93",
+            "url": "https://d2c8v52ll5s99u.cloudfront.net/player/main-8acd27185b78ea8d8dde.js",
+            "lineNumber": 11,
+            "columnNumber": 201527
+          },
+          {
+            "functionName": "e._error",
+            "scriptId": "93",
+            "url": "https://d2c8v52ll5s99u.cloudfront.net/player/main-8acd27185b78ea8d8dde.js",
+            "lineNumber": 11,
+            "columnNumber": 201833
+          },
+          {
+            "functionName": "e.error",
+            "scriptId": "93",
+            "url": "https://d2c8v52ll5s99u.cloudfront.net/player/main-8acd27185b78ea8d8dde.js",
+            "lineNumber": 11,
+            "columnNumber": 201527
+          },
+          {
+            "functionName": "e.error",
+            "scriptId": "93",
+            "url": "https://d2c8v52ll5s99u.cloudfront.net/player/main-8acd27185b78ea8d8dde.js",
+            "lineNumber": 11,
+            "columnNumber": 214518
+          },
+          {
+            "functionName": "e._error",
+            "scriptId": "93",
+            "url": "https://d2c8v52ll5s99u.cloudfront.net/player/main-8acd27185b78ea8d8dde.js",
+            "lineNumber": 11,
+            "columnNumber": 201833
+          },
+          {
+            "functionName": "e._error",
+            "scriptId": "93",
+            "url": "https://d2c8v52ll5s99u.cloudfront.net/player/main-8acd27185b78ea8d8dde.js",
+            "lineNumber": 11,
+            "columnNumber": 373343
+          },
+          {
+            "functionName": "e.error",
+            "scriptId": "93",
+            "url": "https://d2c8v52ll5s99u.cloudfront.net/player/main-8acd27185b78ea8d8dde.js",
+            "lineNumber": 11,
+            "columnNumber": 201527
+          },
+          {
+            "functionName": "e.notifyError",
+            "scriptId": "93",
+            "url": "https://d2c8v52ll5s99u.cloudfront.net/player/main-8acd27185b78ea8d8dde.js",
+            "lineNumber": 11,
+            "columnNumber": 204408
+          },
+          {
+            "functionName": "e._error",
+            "scriptId": "93",
+            "url": "https://d2c8v52ll5s99u.cloudfront.net/player/main-8acd27185b78ea8d8dde.js",
+            "lineNumber": 11,
+            "columnNumber": 339563
+          },
+          {
+            "functionName": "e.error",
+            "scriptId": "93",
+            "url": "https://d2c8v52ll5s99u.cloudfront.net/player/main-8acd27185b78ea8d8dde.js",
+            "lineNumber": 11,
+            "columnNumber": 201527
+          },
+          {
+            "functionName": "e.notifyError",
+            "scriptId": "93",
+            "url": "https://d2c8v52ll5s99u.cloudfront.net/player/main-8acd27185b78ea8d8dde.js",
+            "lineNumber": 11,
+            "columnNumber": 204408
+          },
+          {
+            "functionName": "e._error",
+            "scriptId": "93",
+            "url": "https://d2c8v52ll5s99u.cloudfront.net/player/main-8acd27185b78ea8d8dde.js",
+            "lineNumber": 11,
+            "columnNumber": 339563
+          },
+          {
+            "functionName": "e.error",
+            "scriptId": "93",
+            "url": "https://d2c8v52ll5s99u.cloudfront.net/player/main-8acd27185b78ea8d8dde.js",
+            "lineNumber": 11,
+            "columnNumber": 201527
+          },
+          {
+            "functionName": "e._error",
+            "scriptId": "93",
+            "url": "https://d2c8v52ll5s99u.cloudfront.net/player/main-8acd27185b78ea8d8dde.js",
+            "lineNumber": 11,
+            "columnNumber": 201833
+          },
+          {
+            "functionName": "e.error",
+            "scriptId": "93",
+            "url": "https://d2c8v52ll5s99u.cloudfront.net/player/main-8acd27185b78ea8d8dde.js",
+            "lineNumber": 11,
+            "columnNumber": 201527
+          },
+          {
+            "functionName": "n.onerror",
+            "scriptId": "93",
+            "url": "https://d2c8v52ll5s99u.cloudfront.net/player/main-8acd27185b78ea8d8dde.js",
+            "lineNumber": 11,
+            "columnNumber": 223813
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "className": "Object",
+        "description": "Object",
+        "objectId": "{\"injectedScriptId\":9,\"id\":2}",
+        "preview": {
+          "type": "object",
+          "description": "Object",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "message",
+              "type": "string",
+              "value": "ajax error. Trying to GET https://pubads.g.doublec…cmsid=1495&ppid=21f9846824c8475a88d93f51aa1d902b."
+            },
+            {
+              "name": "status",
+              "type": "number",
+              "value": "0"
+            },
+            {
+              "name": "success",
+              "type": "boolean",
+              "value": "false"
+            }
+          ]
+        }
+      },
+      "executionContextId": 9
+    }
+  }
+]

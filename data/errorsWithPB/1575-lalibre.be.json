@@ -1,0 +1,146 @@
+[
+  {
+    "timestamp": 1583417798246.052,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 0,
+      "columnNumber": 74,
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "41",
+            "url": "",
+            "lineNumber": 0,
+            "columnNumber": 74
+          },
+          {
+            "functionName": "",
+            "scriptId": "41",
+            "url": "",
+            "lineNumber": 0,
+            "columnNumber": 263
+          },
+          {
+            "functionName": "",
+            "scriptId": "33",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-56JJW4",
+            "lineNumber": 2174,
+            "columnNumber": 413
+          },
+          {
+            "functionName": "c",
+            "scriptId": "33",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-56JJW4",
+            "lineNumber": 2176,
+            "columnNumber": 151
+          },
+          {
+            "functionName": "Cb",
+            "scriptId": "33",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-56JJW4",
+            "lineNumber": 2021,
+            "columnNumber": 395
+          },
+          {
+            "functionName": "e",
+            "scriptId": "33",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-56JJW4",
+            "lineNumber": 2050,
+            "columnNumber": 137
+          },
+          {
+            "functionName": "",
+            "scriptId": "33",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-56JJW4",
+            "lineNumber": 2011,
+            "columnNumber": 113
+          },
+          {
+            "functionName": "",
+            "scriptId": "33",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-56JJW4",
+            "lineNumber": 2051,
+            "columnNumber": 228
+          },
+          {
+            "functionName": "",
+            "scriptId": "33",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-56JJW4",
+            "lineNumber": 2050,
+            "columnNumber": 472
+          },
+          {
+            "functionName": "nf",
+            "scriptId": "33",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-56JJW4",
+            "lineNumber": 2051,
+            "columnNumber": 517
+          },
+          {
+            "functionName": "pf",
+            "scriptId": "33",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-56JJW4",
+            "lineNumber": 2053,
+            "columnNumber": 226
+          },
+          {
+            "functionName": "hj",
+            "scriptId": "33",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-56JJW4",
+            "lineNumber": 2096,
+            "columnNumber": 186
+          },
+          {
+            "functionName": "gj",
+            "scriptId": "33",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-56JJW4",
+            "lineNumber": 2096,
+            "columnNumber": 0
+          },
+          {
+            "functionName": "ij",
+            "scriptId": "33",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-56JJW4",
+            "lineNumber": 2098,
+            "columnNumber": 356
+          },
+          {
+            "functionName": "jj",
+            "scriptId": "33",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-56JJW4",
+            "lineNumber": 2099,
+            "columnNumber": 29
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'split' of undefined\n    at <anonymous>:1:75\n    at <anonymous>:1:264\n    at https://www.googletagmanager.com/gtm.js?id=GTM-56JJW4:2175:414\n    at c (https://www.googletagmanager.com/gtm.js?id=GTM-56JJW4:2177:152)\n    at Cb (https://www.googletagmanager.com/gtm.js?id=GTM-56JJW4:2022:396)\n    at e (https://www.googletagmanager.com/gtm.js?id=GTM-56JJW4:2051:138)\n    at https://www.googletagmanager.com/gtm.js?id=GTM-56JJW4:2012:114\n    at Array.<anonymous> (https://www.googletagmanager.com/gtm.js?id=GTM-56JJW4:2052:229)\n    at Object.Zf (https://www.googletagmanager.com/gtm.js?id=GTM-56JJW4:2051:473)\n    at nf (https://www.googletagmanager.com/gtm.js?id=GTM-56JJW4:2052:518)\n    at pf (https://www.googletagmanager.com/gtm.js?id=GTM-56JJW4:2054:227)\n    at hj (https://www.googletagmanager.com/gtm.js?id=GTM-56JJW4:2097:187)\n    at gj (https://www.googletagmanager.com/gtm.js?id=GTM-56JJW4:2097:1)\n    at ij (https://www.googletagmanager.com/gtm.js?id=GTM-56JJW4:2099:357)\n    at jj (https://www.googletagmanager.com/gtm.js?id=GTM-56JJW4:2100:30)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":3}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'split' of undefined\n    at <anonymous>:1:75\n    at <anonymous>:1:264\n    at https://www.googletagmanager.com/gtm.js?id=GTM-56JJW4:2175:414\n    at c (https://www.googletagmanager.com/gtm.js?id=GTM-56JJW4:2177:152)\n    at Cb (https://www.googletagmanager.com/gtm.js?id=GTM-56JJW4:2022:396)\n    at e (https://www.googletagmanager.com/gtm.js?id=GTM-56JJW4:2051:138)\n    at https://www.googletagmanager.com/gtm.js?id=GTM-56JJW4:2012:114\n    at Array.<anonymous> (https://www.googletagmanager.com/gtm.js?id=GTM-56JJW4:2052:229)\n    at Object.Zf (https://www.googletagmanager.com/gtm.js?id=GTM-56JJW4:2051:473)\n    at nf (https://www.googletagmanager.com/gtm.js?id=GTM-56JJW4:2052:518)\n    at pf (https://www.googletagmanager.com/gtm.js?id=GTM-56JJW4:2054:227)\n    at hj (https://www.googletagmanager.com/gtm.js?id=GTM-56JJW4:2097:187)\n    at gj (https://www.googletagmanager.com/gtm.js?id=GTM-56JJW4:2097:1)\n    at ij (https://www.googletagmanager.com/gtm.js?id=GTM-56JJW4:2099:357)\n    at jj (https://www.googletagmanager.com/gtm.js?id=GTM-56JJW4:2100:30)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'split' of undefin…oogletagmanager.com/gtm.js?id=GTM-56JJW4:2100:30)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'split' of undefined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

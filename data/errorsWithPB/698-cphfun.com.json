@@ -1,0 +1,70 @@
+[
+  {
+    "timestamp": 1583425999614.562,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 1,
+      "columnNumber": 1,
+      "url": "http://www.cphfun.com/wp-content/themes/colonial/js/thickbox.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "22",
+            "url": "http://www.cphfun.com/wp-content/themes/colonial/js/thickbox.js",
+            "lineNumber": 1,
+            "columnNumber": 1
+          },
+          {
+            "functionName": "resolveWith",
+            "scriptId": "21",
+            "url": "http://code.jquery.com/jquery-1.6.4.min.js",
+            "lineNumber": 1,
+            "columnNumber": 15719
+          },
+          {
+            "functionName": "ready",
+            "scriptId": "21",
+            "url": "http://code.jquery.com/jquery-1.6.4.min.js",
+            "lineNumber": 1,
+            "columnNumber": 10656
+          },
+          {
+            "functionName": "C",
+            "scriptId": "21",
+            "url": "http://code.jquery.com/jquery-1.6.4.min.js",
+            "lineNumber": 1,
+            "columnNumber": 15175
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: $ is not a function\n    at HTMLDocument.<anonymous> (http://www.cphfun.com/wp-content/themes/colonial/js/thickbox.js:2:2)\n    at Object.resolveWith (http://code.jquery.com/jquery-1.6.4.min.js:2:15720)\n    at Function.ready (http://code.jquery.com/jquery-1.6.4.min.js:2:10657)\n    at HTMLDocument.C (http://code.jquery.com/jquery-1.6.4.min.js:2:15176)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: $ is not a function\n    at HTMLDocument.<anonymous> (http://www.cphfun.com/wp-content/themes/colonial/js/thickbox.js:2:2)\n    at Object.resolveWith (http://code.jquery.com/jquery-1.6.4.min.js:2:15720)\n    at Function.ready (http://code.jquery.com/jquery-1.6.4.min.js:2:10657)\n    at HTMLDocument.C (http://code.jquery.com/jquery-1.6.4.min.js:2:15176)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: $ is not a function\n    at HTMLDocument…tp://code.jquery.com/jquery-1.6.4.min.js:2:15176)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "$ is not a function"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

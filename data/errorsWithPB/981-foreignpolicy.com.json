@@ -1,0 +1,143 @@
+[
+  {
+    "timestamp": 1583423390706.5452,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 213,
+      "columnNumber": 49,
+      "url": "https://foreignpolicy.com/2013/11/06/the-seduction-of-george-w-bush/",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "33",
+            "url": "https://foreignpolicy.com/2013/11/06/the-seduction-of-george-w-bush/",
+            "lineNumber": 213,
+            "columnNumber": 49
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: googletag.pubads is not a function\n    at https://foreignpolicy.com/2013/11/06/the-seduction-of-george-w-bush/:214:50",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: googletag.pubads is not a function\n    at https://foreignpolicy.com/2013/11/06/the-seduction-of-george-w-bush/:214:50",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: googletag.pubads is not a function\n    …2013/11/06/the-seduction-of-george-w-bush/:214:50"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "googletag.pubads is not a function"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583423390707.1272,
+    "exceptionDetails": {
+      "exceptionId": 2,
+      "text": "Uncaught",
+      "lineNumber": 213,
+      "columnNumber": 317,
+      "url": "https://foreignpolicy.com/2013/11/06/the-seduction-of-george-w-bush/",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "34",
+            "url": "https://foreignpolicy.com/2013/11/06/the-seduction-of-george-w-bush/",
+            "lineNumber": 213,
+            "columnNumber": 317
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: googletag.pubads is not a function\n    at https://foreignpolicy.com/2013/11/06/the-seduction-of-george-w-bush/:214:318",
+        "objectId": "{\"injectedScriptId\":3,\"id\":2}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: googletag.pubads is not a function\n    at https://foreignpolicy.com/2013/11/06/the-seduction-of-george-w-bush/:214:318",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: googletag.pubads is not a function\n    …013/11/06/the-seduction-of-george-w-bush/:214:318"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "googletag.pubads is not a function"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583423390707.505,
+    "exceptionDetails": {
+      "exceptionId": 3,
+      "text": "Uncaught",
+      "lineNumber": 213,
+      "columnNumber": 406,
+      "url": "https://foreignpolicy.com/2013/11/06/the-seduction-of-george-w-bush/",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "35",
+            "url": "https://foreignpolicy.com/2013/11/06/the-seduction-of-george-w-bush/",
+            "lineNumber": 213,
+            "columnNumber": 406
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: googletag.pubads is not a function\n    at https://foreignpolicy.com/2013/11/06/the-seduction-of-george-w-bush/:214:407",
+        "objectId": "{\"injectedScriptId\":3,\"id\":3}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: googletag.pubads is not a function\n    at https://foreignpolicy.com/2013/11/06/the-seduction-of-george-w-bush/:214:407",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: googletag.pubads is not a function\n    …013/11/06/the-seduction-of-george-w-bush/:214:407"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "googletag.pubads is not a function"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

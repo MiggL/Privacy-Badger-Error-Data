@@ -1,0 +1,98 @@
+[
+  {
+    "timestamp": 1582922898878.4631,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 123,
+      "columnNumber": 409,
+      "url": "https://maps.google.com/maps/api/js?sensor=false",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "_.xi",
+            "scriptId": "29",
+            "url": "https://maps.google.com/maps/api/js?sensor=false",
+            "lineNumber": 123,
+            "columnNumber": 409
+          },
+          {
+            "functionName": "Ci",
+            "scriptId": "29",
+            "url": "https://maps.google.com/maps/api/js?sensor=false",
+            "lineNumber": 125,
+            "columnNumber": 60
+          },
+          {
+            "functionName": "initialize",
+            "scriptId": "30",
+            "url": "https://www.verif.com/media/www/verif-v2/js/google-map.js?new_verif",
+            "lineNumber": 12,
+            "columnNumber": 7
+          },
+          {
+            "functionName": "",
+            "scriptId": "68",
+            "url": "https://www.verif.com/societe/CABINET-GAS-%26-MARAND-493586101/",
+            "lineNumber": 1126,
+            "columnNumber": 2
+          },
+          {
+            "functionName": "j",
+            "scriptId": "23",
+            "url": "https://www.verif.com/media/www/verif-v2/js/jquery-1.11.0.min.js?new_verif",
+            "lineNumber": 1,
+            "columnNumber": 27135
+          },
+          {
+            "functionName": "fireWith",
+            "scriptId": "23",
+            "url": "https://www.verif.com/media/www/verif-v2/js/jquery-1.11.0.min.js?new_verif",
+            "lineNumber": 1,
+            "columnNumber": 27948
+          },
+          {
+            "functionName": "ready",
+            "scriptId": "23",
+            "url": "https://www.verif.com/media/www/verif-v2/js/jquery-1.11.0.min.js?new_verif",
+            "lineNumber": 1,
+            "columnNumber": 29782
+          },
+          {
+            "functionName": "K",
+            "scriptId": "23",
+            "url": "https://www.verif.com/media/www/verif-v2/js/jquery-1.11.0.min.js?new_verif",
+            "lineNumber": 1,
+            "columnNumber": 30127
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'firstChild' of null\n    at Object._.xi (https://maps.google.com/maps/api/js?sensor=false:124:410)\n    at new Ci (https://maps.google.com/maps/api/js?sensor=false:126:61)\n    at initialize (https://www.verif.com/media/www/verif-v2/js/google-map.js?new_verif:13:8)\n    at HTMLDocument.<anonymous> (https://www.verif.com/societe/CABINET-GAS-%26-MARAND-493586101/:1127:3)\n    at j (https://www.verif.com/media/www/verif-v2/js/jquery-1.11.0.min.js?new_verif:2:27136)\n    at Object.fireWith [as resolveWith] (https://www.verif.com/media/www/verif-v2/js/jquery-1.11.0.min.js?new_verif:2:27949)\n    at Function.ready (https://www.verif.com/media/www/verif-v2/js/jquery-1.11.0.min.js?new_verif:2:29783)\n    at HTMLDocument.K (https://www.verif.com/media/www/verif-v2/js/jquery-1.11.0.min.js?new_verif:2:30128)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":2}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'firstChild' of null\n    at Object._.xi (https://maps.google.com/maps/api/js?sensor=false:124:410)\n    at new Ci (https://maps.google.com/maps/api/js?sensor=false:126:61)\n    at initialize (https://www.verif.com/media/www/verif-v2/js/google-map.js?new_verif:13:8)\n    at HTMLDocument.<anonymous> (https://www.verif.com/societe/CABINET-GAS-%26-MARAND-493586101/:1127:3)\n    at j (https://www.verif.com/media/www/verif-v2/js/jquery-1.11.0.min.js?new_verif:2:27136)\n    at Object.fireWith [as resolveWith] (https://www.verif.com/media/www/verif-v2/js/jquery-1.11.0.min.js?new_verif:2:27949)\n    at Function.ready (https://www.verif.com/media/www/verif-v2/js/jquery-1.11.0.min.js?new_verif:2:29783)\n    at HTMLDocument.K (https://www.verif.com/media/www/verif-v2/js/jquery-1.11.0.min.js?new_verif:2:30128)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'firstChild' of nu…rif-v2/js/jquery-1.11.0.min.js?new_verif:2:30128)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'firstChild' of null"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

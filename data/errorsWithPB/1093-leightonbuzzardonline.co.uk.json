@@ -1,0 +1,311 @@
+[
+  {
+    "timestamp": 1583422352497.4749,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 1,
+      "columnNumber": 0,
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "133",
+            "url": "",
+            "lineNumber": 1,
+            "columnNumber": 0
+          },
+          {
+            "functionName": "",
+            "scriptId": "29",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-5XJ5WX5",
+            "lineNumber": 1801,
+            "columnNumber": 413
+          },
+          {
+            "functionName": "c",
+            "scriptId": "29",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-5XJ5WX5",
+            "lineNumber": 1803,
+            "columnNumber": 151
+          },
+          {
+            "functionName": "md",
+            "scriptId": "29",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-5XJ5WX5",
+            "lineNumber": 1626,
+            "columnNumber": 395
+          },
+          {
+            "functionName": "e",
+            "scriptId": "29",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-5XJ5WX5",
+            "lineNumber": 1661,
+            "columnNumber": 144
+          },
+          {
+            "functionName": "",
+            "scriptId": "29",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-5XJ5WX5",
+            "lineNumber": 1588,
+            "columnNumber": 113
+          },
+          {
+            "functionName": "",
+            "scriptId": "29",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-5XJ5WX5",
+            "lineNumber": 1662,
+            "columnNumber": 228
+          },
+          {
+            "functionName": "",
+            "scriptId": "29",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-5XJ5WX5",
+            "lineNumber": 1661,
+            "columnNumber": 479
+          },
+          {
+            "functionName": "Th",
+            "scriptId": "29",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-5XJ5WX5",
+            "lineNumber": 1662,
+            "columnNumber": 517
+          },
+          {
+            "functionName": "Vh",
+            "scriptId": "29",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-5XJ5WX5",
+            "lineNumber": 1664,
+            "columnNumber": 234
+          },
+          {
+            "functionName": "um",
+            "scriptId": "29",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-5XJ5WX5",
+            "lineNumber": 1716,
+            "columnNumber": 188
+          },
+          {
+            "functionName": "tm",
+            "scriptId": "29",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-5XJ5WX5",
+            "lineNumber": 1716,
+            "columnNumber": 0
+          },
+          {
+            "functionName": "vm",
+            "scriptId": "29",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-5XJ5WX5",
+            "lineNumber": 1718,
+            "columnNumber": 243
+          },
+          {
+            "functionName": "a.push",
+            "scriptId": "29",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-5XJ5WX5",
+            "lineNumber": 1720,
+            "columnNumber": 95
+          },
+          {
+            "functionName": "a.push",
+            "scriptId": "57",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-N9NRFKV&l=dataLayer",
+            "lineNumber": 195,
+            "columnNumber": 455
+          },
+          {
+            "functionName": "",
+            "scriptId": "29",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-5XJ5WX5",
+            "lineNumber": 1719,
+            "columnNumber": 216
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: EV is not defined\n    at <anonymous>:2:1\n    at https://www.googletagmanager.com/gtm.js?id=GTM-5XJ5WX5:1802:414\n    at c (https://www.googletagmanager.com/gtm.js?id=GTM-5XJ5WX5:1804:152)\n    at md (https://www.googletagmanager.com/gtm.js?id=GTM-5XJ5WX5:1627:396)\n    at e (https://www.googletagmanager.com/gtm.js?id=GTM-5XJ5WX5:1662:145)\n    at https://www.googletagmanager.com/gtm.js?id=GTM-5XJ5WX5:1589:114\n    at Array.<anonymous> (https://www.googletagmanager.com/gtm.js?id=GTM-5XJ5WX5:1663:229)\n    at Object.Qb (https://www.googletagmanager.com/gtm.js?id=GTM-5XJ5WX5:1662:480)\n    at Th (https://www.googletagmanager.com/gtm.js?id=GTM-5XJ5WX5:1663:518)\n    at Vh (https://www.googletagmanager.com/gtm.js?id=GTM-5XJ5WX5:1665:235)\n    at um (https://www.googletagmanager.com/gtm.js?id=GTM-5XJ5WX5:1717:189)\n    at tm (https://www.googletagmanager.com/gtm.js?id=GTM-5XJ5WX5:1717:1)\n    at vm (https://www.googletagmanager.com/gtm.js?id=GTM-5XJ5WX5:1719:244)\n    at Array.a.push (https://www.googletagmanager.com/gtm.js?id=GTM-5XJ5WX5:1721:96)\n    at Array.a.push (https://www.googletagmanager.com/gtm.js?id=GTM-N9NRFKV&l=dataLayer:196:456)\n    at https://www.googletagmanager.com/gtm.js?id=GTM-5XJ5WX5:1720:217",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: EV is not defined\n    at <anonymous>:2:1\n    at https://www.googletagmanager.com/gtm.js?id=GTM-5XJ5WX5:1802:414\n    at c (https://www.googletagmanager.com/gtm.js?id=GTM-5XJ5WX5:1804:152)\n    at md (https://www.googletagmanager.com/gtm.js?id=GTM-5XJ5WX5:1627:396)\n    at e (https://www.googletagmanager.com/gtm.js?id=GTM-5XJ5WX5:1662:145)\n    at https://www.googletagmanager.com/gtm.js?id=GTM-5XJ5WX5:1589:114\n    at Array.<anonymous> (https://www.googletagmanager.com/gtm.js?id=GTM-5XJ5WX5:1663:229)\n    at Object.Qb (https://www.googletagmanager.com/gtm.js?id=GTM-5XJ5WX5:1662:480)\n    at Th (https://www.googletagmanager.com/gtm.js?id=GTM-5XJ5WX5:1663:518)\n    at Vh (https://www.googletagmanager.com/gtm.js?id=GTM-5XJ5WX5:1665:235)\n    at um (https://www.googletagmanager.com/gtm.js?id=GTM-5XJ5WX5:1717:189)\n    at tm (https://www.googletagmanager.com/gtm.js?id=GTM-5XJ5WX5:1717:1)\n    at vm (https://www.googletagmanager.com/gtm.js?id=GTM-5XJ5WX5:1719:244)\n    at Array.a.push (https://www.googletagmanager.com/gtm.js?id=GTM-5XJ5WX5:1721:96)\n    at Array.a.push (https://www.googletagmanager.com/gtm.js?id=GTM-N9NRFKV&l=dataLayer:196:456)\n    at https://www.googletagmanager.com/gtm.js?id=GTM-5XJ5WX5:1720:217",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: EV is not defined\n    at <anonymou…ogletagmanager.com/gtm.js?id=GTM-5XJ5WX5:1720:217"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "EV is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583422352498.4,
+    "exceptionDetails": {
+      "exceptionId": 2,
+      "text": "Uncaught",
+      "lineNumber": 7,
+      "columnNumber": 314,
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "bindDataLayerEvent",
+            "scriptId": "134",
+            "url": "",
+            "lineNumber": 7,
+            "columnNumber": 314
+          },
+          {
+            "functionName": "",
+            "scriptId": "134",
+            "url": "",
+            "lineNumber": 7,
+            "columnNumber": 451
+          },
+          {
+            "functionName": "",
+            "scriptId": "29",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-5XJ5WX5",
+            "lineNumber": 1801,
+            "columnNumber": 413
+          },
+          {
+            "functionName": "c",
+            "scriptId": "29",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-5XJ5WX5",
+            "lineNumber": 1803,
+            "columnNumber": 151
+          },
+          {
+            "functionName": "md",
+            "scriptId": "29",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-5XJ5WX5",
+            "lineNumber": 1626,
+            "columnNumber": 395
+          },
+          {
+            "functionName": "e",
+            "scriptId": "29",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-5XJ5WX5",
+            "lineNumber": 1661,
+            "columnNumber": 144
+          },
+          {
+            "functionName": "",
+            "scriptId": "29",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-5XJ5WX5",
+            "lineNumber": 1588,
+            "columnNumber": 113
+          },
+          {
+            "functionName": "",
+            "scriptId": "29",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-5XJ5WX5",
+            "lineNumber": 1662,
+            "columnNumber": 228
+          },
+          {
+            "functionName": "",
+            "scriptId": "29",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-5XJ5WX5",
+            "lineNumber": 1661,
+            "columnNumber": 479
+          },
+          {
+            "functionName": "Th",
+            "scriptId": "29",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-5XJ5WX5",
+            "lineNumber": 1662,
+            "columnNumber": 517
+          },
+          {
+            "functionName": "Vh",
+            "scriptId": "29",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-5XJ5WX5",
+            "lineNumber": 1664,
+            "columnNumber": 234
+          },
+          {
+            "functionName": "um",
+            "scriptId": "29",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-5XJ5WX5",
+            "lineNumber": 1716,
+            "columnNumber": 188
+          },
+          {
+            "functionName": "tm",
+            "scriptId": "29",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-5XJ5WX5",
+            "lineNumber": 1716,
+            "columnNumber": 0
+          },
+          {
+            "functionName": "vm",
+            "scriptId": "29",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-5XJ5WX5",
+            "lineNumber": 1718,
+            "columnNumber": 243
+          },
+          {
+            "functionName": "a.push",
+            "scriptId": "29",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-5XJ5WX5",
+            "lineNumber": 1720,
+            "columnNumber": 95
+          },
+          {
+            "functionName": "a.push",
+            "scriptId": "57",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-N9NRFKV&l=dataLayer",
+            "lineNumber": 195,
+            "columnNumber": 455
+          },
+          {
+            "functionName": "",
+            "scriptId": "29",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-5XJ5WX5",
+            "lineNumber": 1719,
+            "columnNumber": 216
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: EV is not defined\n    at bindDataLayerEvent (<anonymous>:8:315)\n    at <anonymous>:8:452\n    at https://www.googletagmanager.com/gtm.js?id=GTM-5XJ5WX5:1802:414\n    at c (https://www.googletagmanager.com/gtm.js?id=GTM-5XJ5WX5:1804:152)\n    at md (https://www.googletagmanager.com/gtm.js?id=GTM-5XJ5WX5:1627:396)\n    at e (https://www.googletagmanager.com/gtm.js?id=GTM-5XJ5WX5:1662:145)\n    at https://www.googletagmanager.com/gtm.js?id=GTM-5XJ5WX5:1589:114\n    at Array.<anonymous> (https://www.googletagmanager.com/gtm.js?id=GTM-5XJ5WX5:1663:229)\n    at Object.Qb (https://www.googletagmanager.com/gtm.js?id=GTM-5XJ5WX5:1662:480)\n    at Th (https://www.googletagmanager.com/gtm.js?id=GTM-5XJ5WX5:1663:518)\n    at Vh (https://www.googletagmanager.com/gtm.js?id=GTM-5XJ5WX5:1665:235)\n    at um (https://www.googletagmanager.com/gtm.js?id=GTM-5XJ5WX5:1717:189)\n    at tm (https://www.googletagmanager.com/gtm.js?id=GTM-5XJ5WX5:1717:1)\n    at vm (https://www.googletagmanager.com/gtm.js?id=GTM-5XJ5WX5:1719:244)\n    at Array.a.push (https://www.googletagmanager.com/gtm.js?id=GTM-5XJ5WX5:1721:96)\n    at Array.a.push (https://www.googletagmanager.com/gtm.js?id=GTM-N9NRFKV&l=dataLayer:196:456)\n    at https://www.googletagmanager.com/gtm.js?id=GTM-5XJ5WX5:1720:217",
+        "objectId": "{\"injectedScriptId\":3,\"id\":2}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: EV is not defined\n    at bindDataLayerEvent (<anonymous>:8:315)\n    at <anonymous>:8:452\n    at https://www.googletagmanager.com/gtm.js?id=GTM-5XJ5WX5:1802:414\n    at c (https://www.googletagmanager.com/gtm.js?id=GTM-5XJ5WX5:1804:152)\n    at md (https://www.googletagmanager.com/gtm.js?id=GTM-5XJ5WX5:1627:396)\n    at e (https://www.googletagmanager.com/gtm.js?id=GTM-5XJ5WX5:1662:145)\n    at https://www.googletagmanager.com/gtm.js?id=GTM-5XJ5WX5:1589:114\n    at Array.<anonymous> (https://www.googletagmanager.com/gtm.js?id=GTM-5XJ5WX5:1663:229)\n    at Object.Qb (https://www.googletagmanager.com/gtm.js?id=GTM-5XJ5WX5:1662:480)\n    at Th (https://www.googletagmanager.com/gtm.js?id=GTM-5XJ5WX5:1663:518)\n    at Vh (https://www.googletagmanager.com/gtm.js?id=GTM-5XJ5WX5:1665:235)\n    at um (https://www.googletagmanager.com/gtm.js?id=GTM-5XJ5WX5:1717:189)\n    at tm (https://www.googletagmanager.com/gtm.js?id=GTM-5XJ5WX5:1717:1)\n    at vm (https://www.googletagmanager.com/gtm.js?id=GTM-5XJ5WX5:1719:244)\n    at Array.a.push (https://www.googletagmanager.com/gtm.js?id=GTM-5XJ5WX5:1721:96)\n    at Array.a.push (https://www.googletagmanager.com/gtm.js?id=GTM-N9NRFKV&l=dataLayer:196:456)\n    at https://www.googletagmanager.com/gtm.js?id=GTM-5XJ5WX5:1720:217",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: EV is not defined\n    at bindDataL…ogletagmanager.com/gtm.js?id=GTM-5XJ5WX5:1720:217"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "EV is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "timestamp": 1583002909106.508,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 41,
+      "columnNumber": 337,
+      "url": "https://www.livingwage.org.uk/sites/default/files/advagg_js/js__gYU57q9qpz77G0UUrH4VgfkTy_x8InElajIuVKWqF7c__5NZRuxPy4QmdX5rpxVjGBpzyRzI_HsTwHMOC_8hYzP4__rNwr_uKg3bGyGnMW6ySUVjUbCnrpFs7gu-rMRktPXbg.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "17",
+            "url": "https://www.livingwage.org.uk/sites/default/files/advagg_js/js__gYU57q9qpz77G0UUrH4VgfkTy_x8InElajIuVKWqF7c__5NZRuxPy4QmdX5rpxVjGBpzyRzI_HsTwHMOC_8hYzP4__rNwr_uKg3bGyGnMW6ySUVjUbCnrpFs7gu-rMRktPXbg.js",
+            "lineNumber": 41,
+            "columnNumber": 337
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'innerText' of undefined\n    at https://www.livingwage.org.uk/sites/default/files/advagg_js/js__gYU57q9qpz77G0UUrH4VgfkTy_x8InElajIuVKWqF7c__5NZRuxPy4QmdX5rpxVjGBpzyRzI_HsTwHMOC_8hYzP4__rNwr_uKg3bGyGnMW6ySUVjUbCnrpFs7gu-rMRktPXbg.js:42:338",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'innerText' of undefined\n    at https://www.livingwage.org.uk/sites/default/files/advagg_js/js__gYU57q9qpz77G0UUrH4VgfkTy_x8InElajIuVKWqF7c__5NZRuxPy4QmdX5rpxVjGBpzyRzI_HsTwHMOC_8hYzP4__rNwr_uKg3bGyGnMW6ySUVjUbCnrpFs7gu-rMRktPXbg.js:42:338",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'innerText' of und…_uKg3bGyGnMW6ySUVjUbCnrpFs7gu-rMRktPXbg.js:42:338"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'innerText' of undefined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583002909107.5662,
+    "exceptionDetails": {
+      "exceptionId": 2,
+      "text": "Uncaught",
+      "lineNumber": 40,
+      "columnNumber": 1870,
+      "url": "https://www.livingwage.org.uk/sites/default/files/advagg_js/js__gYU57q9qpz77G0UUrH4VgfkTy_x8InElajIuVKWqF7c__5NZRuxPy4QmdX5rpxVjGBpzyRzI_HsTwHMOC_8hYzP4__rNwr_uKg3bGyGnMW6ySUVjUbCnrpFs7gu-rMRktPXbg.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "17",
+            "url": "https://www.livingwage.org.uk/sites/default/files/advagg_js/js__gYU57q9qpz77G0UUrH4VgfkTy_x8InElajIuVKWqF7c__5NZRuxPy4QmdX5rpxVjGBpzyRzI_HsTwHMOC_8hYzP4__rNwr_uKg3bGyGnMW6ySUVjUbCnrpFs7gu-rMRktPXbg.js",
+            "lineNumber": 40,
+            "columnNumber": 1870
+          },
+          {
+            "functionName": "dispatch",
+            "scriptId": "13",
+            "url": "https://www.livingwage.org.uk/sites/default/files/advagg_js/js__scZipozawFUgEn9nD4ET1PIzTbcjs6ICQ_dJypv8FfI__kErYgx9MGwrs391Nx6J8Yew5Fkg_3szFkGxaZkNa5bE__rNwr_uKg3bGyGnMW6ySUVjUbCnrpFs7gu-rMRktPXbg.js",
+            "lineNumber": 4,
+            "columnNumber": 14128
+          },
+          {
+            "functionName": "v.handle",
+            "scriptId": "13",
+            "url": "https://www.livingwage.org.uk/sites/default/files/advagg_js/js__scZipozawFUgEn9nD4ET1PIzTbcjs6ICQ_dJypv8FfI__kErYgx9MGwrs391Nx6J8Yew5Fkg_3szFkGxaZkNa5bE__rNwr_uKg3bGyGnMW6ySUVjUbCnrpFs7gu-rMRktPXbg.js",
+            "lineNumber": 4,
+            "columnNumber": 10865
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'top' of undefined\n    at https://www.livingwage.org.uk/sites/default/files/advagg_js/js__gYU57q9qpz77G0UUrH4VgfkTy_x8InElajIuVKWqF7c__5NZRuxPy4QmdX5rpxVjGBpzyRzI_HsTwHMOC_8hYzP4__rNwr_uKg3bGyGnMW6ySUVjUbCnrpFs7gu-rMRktPXbg.js:41:1871\n    at dispatch (https://www.livingwage.org.uk/sites/default/files/advagg_js/js__scZipozawFUgEn9nD4ET1PIzTbcjs6ICQ_dJypv8FfI__kErYgx9MGwrs391Nx6J8Yew5Fkg_3szFkGxaZkNa5bE__rNwr_uKg3bGyGnMW6ySUVjUbCnrpFs7gu-rMRktPXbg.js:5:14129)\n    at v.handle (https://www.livingwage.org.uk/sites/default/files/advagg_js/js__scZipozawFUgEn9nD4ET1PIzTbcjs6ICQ_dJypv8FfI__kErYgx9MGwrs391Nx6J8Yew5Fkg_3szFkGxaZkNa5bE__rNwr_uKg3bGyGnMW6ySUVjUbCnrpFs7gu-rMRktPXbg.js:5:10866)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":2}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'top' of undefined\n    at https://www.livingwage.org.uk/sites/default/files/advagg_js/js__gYU57q9qpz77G0UUrH4VgfkTy_x8InElajIuVKWqF7c__5NZRuxPy4QmdX5rpxVjGBpzyRzI_HsTwHMOC_8hYzP4__rNwr_uKg3bGyGnMW6ySUVjUbCnrpFs7gu-rMRktPXbg.js:41:1871\n    at dispatch (https://www.livingwage.org.uk/sites/default/files/advagg_js/js__scZipozawFUgEn9nD4ET1PIzTbcjs6ICQ_dJypv8FfI__kErYgx9MGwrs391Nx6J8Yew5Fkg_3szFkGxaZkNa5bE__rNwr_uKg3bGyGnMW6ySUVjUbCnrpFs7gu-rMRktPXbg.js:5:14129)\n    at v.handle (https://www.livingwage.org.uk/sites/default/files/advagg_js/js__scZipozawFUgEn9nD4ET1PIzTbcjs6ICQ_dJypv8FfI__kErYgx9MGwrs391Nx6J8Yew5Fkg_3szFkGxaZkNa5bE__rNwr_uKg3bGyGnMW6ySUVjUbCnrpFs7gu-rMRktPXbg.js:5:10866)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'top' of undefined…Kg3bGyGnMW6ySUVjUbCnrpFs7gu-rMRktPXbg.js:5:10866)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'top' of undefined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

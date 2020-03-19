@@ -1,0 +1,87 @@
+[
+  {
+    "timestamp": 1583423537779.388,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 13,
+      "columnNumber": 59,
+      "scriptId": "86",
+      "url": "https://www.peugeotcentral.co.uk/ftopic-13722.html",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "85",
+            "url": "https://www.peugeotcentral.co.uk/includes/overlib_hideform.js",
+            "lineNumber": 119,
+            "columnNumber": 17
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "SyntaxError",
+        "description": "SyntaxError: Unexpected token '{'\n    at https://www.peugeotcentral.co.uk/includes/overlib_hideform.js:120:18",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "SyntaxError: Unexpected token '{'\n    at https://www.peugeotcentral.co.uk/includes/overlib_hideform.js:120:18",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "SyntaxError: Unexpected token '{'\n    at https://w…central.co.uk/includes/overlib_hideform.js:120:18"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Unexpected token '{'"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583423537995.949,
+    "exceptionDetails": {
+      "exceptionId": 2,
+      "text": "Uncaught",
+      "lineNumber": 458,
+      "columnNumber": 1,
+      "scriptId": "108",
+      "url": "https://www.peugeotcentral.co.uk/ftopic-13722.html",
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "SyntaxError",
+        "description": "SyntaxError: Unexpected token 'else'",
+        "objectId": "{\"injectedScriptId\":3,\"id\":2}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "SyntaxError: Unexpected token 'else'",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "SyntaxError: Unexpected token 'else'"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Unexpected token 'else'"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

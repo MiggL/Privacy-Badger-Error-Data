@@ -1,0 +1,279 @@
+[
+  {
+    "timestamp": 1583424593999.398,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 433,
+      "columnNumber": 0,
+      "scriptId": "27",
+      "url": "http://www.roeselienraimond.com/",
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "SyntaxError",
+        "description": "SyntaxError: Unexpected token '<'",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "SyntaxError: Unexpected token '<'",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "SyntaxError: Unexpected token '<'"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Unexpected token '<'"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583424594311.206,
+    "exceptionDetails": {
+      "exceptionId": 2,
+      "text": "Uncaught",
+      "lineNumber": 0,
+      "columnNumber": 7,
+      "scriptId": "63",
+      "url": "http://www.roeselienraimond.com/",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "29",
+            "url": "https://fineartamerica.com/widgetshoppingcart/widgetscripts.php",
+            "lineNumber": 182,
+            "columnNumber": 45
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "SyntaxError",
+        "description": "SyntaxError: Unexpected token ':'\n    at https://fineartamerica.com/widgetshoppingcart/widgetscripts.php:183:46",
+        "objectId": "{\"injectedScriptId\":3,\"id\":2}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "SyntaxError: Unexpected token ':'\n    at https://fineartamerica.com/widgetshoppingcart/widgetscripts.php:183:46",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "SyntaxError: Unexpected token ':'\n    at https://f…a.com/widgetshoppingcart/widgetscripts.php:183:46"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Unexpected token ':'"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583424594780.9092,
+    "exceptionDetails": {
+      "exceptionId": 3,
+      "text": "Uncaught",
+      "lineNumber": 0,
+      "columnNumber": 7,
+      "scriptId": "71",
+      "url": "http://www.roeselienraimond.com/",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "29",
+            "url": "https://fineartamerica.com/widgetshoppingcart/widgetscripts.php",
+            "lineNumber": 182,
+            "columnNumber": 45
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "SyntaxError",
+        "description": "SyntaxError: Unexpected token ':'\n    at https://fineartamerica.com/widgetshoppingcart/widgetscripts.php:183:46",
+        "objectId": "{\"injectedScriptId\":3,\"id\":3}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "SyntaxError: Unexpected token ':'\n    at https://fineartamerica.com/widgetshoppingcart/widgetscripts.php:183:46",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "SyntaxError: Unexpected token ':'\n    at https://f…a.com/widgetshoppingcart/widgetscripts.php:183:46"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Unexpected token ':'"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583424595032.9849,
+    "exceptionDetails": {
+      "exceptionId": 4,
+      "text": "Uncaught",
+      "lineNumber": 0,
+      "columnNumber": 5,
+      "scriptId": "72",
+      "url": "http://www.roeselienraimond.com/",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "29",
+            "url": "https://fineartamerica.com/widgetshoppingcart/widgetscripts.php",
+            "lineNumber": 182,
+            "columnNumber": 45
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "SyntaxError",
+        "description": "SyntaxError: Invalid left-hand side in assignment\n    at https://fineartamerica.com/widgetshoppingcart/widgetscripts.php:183:46",
+        "objectId": "{\"injectedScriptId\":3,\"id\":4}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "SyntaxError: Invalid left-hand side in assignment\n    at https://fineartamerica.com/widgetshoppingcart/widgetscripts.php:183:46",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "SyntaxError: Invalid left-hand side in assignment\n…a.com/widgetshoppingcart/widgetscripts.php:183:46"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Invalid left-hand side in assignment"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583424595034.413,
+    "exceptionDetails": {
+      "exceptionId": 5,
+      "text": "Uncaught",
+      "lineNumber": 0,
+      "columnNumber": 10,
+      "scriptId": "74",
+      "url": "http://www.roeselienraimond.com/",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "29",
+            "url": "https://fineartamerica.com/widgetshoppingcart/widgetscripts.php",
+            "lineNumber": 182,
+            "columnNumber": 45
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "SyntaxError",
+        "description": "SyntaxError: Invalid left-hand side in assignment\n    at https://fineartamerica.com/widgetshoppingcart/widgetscripts.php:183:46",
+        "objectId": "{\"injectedScriptId\":3,\"id\":5}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "SyntaxError: Invalid left-hand side in assignment\n    at https://fineartamerica.com/widgetshoppingcart/widgetscripts.php:183:46",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "SyntaxError: Invalid left-hand side in assignment\n…a.com/widgetshoppingcart/widgetscripts.php:183:46"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Invalid left-hand side in assignment"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583424595035.379,
+    "exceptionDetails": {
+      "exceptionId": 6,
+      "text": "Uncaught",
+      "lineNumber": 0,
+      "columnNumber": 5,
+      "scriptId": "76",
+      "url": "http://www.roeselienraimond.com/",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "29",
+            "url": "https://fineartamerica.com/widgetshoppingcart/widgetscripts.php",
+            "lineNumber": 182,
+            "columnNumber": 45
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "SyntaxError",
+        "description": "SyntaxError: Invalid left-hand side in assignment\n    at https://fineartamerica.com/widgetshoppingcart/widgetscripts.php:183:46",
+        "objectId": "{\"injectedScriptId\":3,\"id\":6}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "SyntaxError: Invalid left-hand side in assignment\n    at https://fineartamerica.com/widgetshoppingcart/widgetscripts.php:183:46",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "SyntaxError: Invalid left-hand side in assignment\n…a.com/widgetshoppingcart/widgetscripts.php:183:46"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Invalid left-hand side in assignment"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

@@ -1,0 +1,626 @@
+[
+  {
+    "timestamp": 1583001615416.794,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught (in promise)",
+      "lineNumber": 0,
+      "columnNumber": 0,
+      "scriptId": "1",
+      "url": "https://thecookspyjamas.com/coconut-macadamia-granola/",
+      "exception": {
+        "type": "object",
+        "className": "Event",
+        "description": "Event",
+        "objectId": "{\"injectedScriptId\":11,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "description": "Event",
+          "overflow": true,
+          "properties": [
+            {
+              "name": "isTrusted",
+              "type": "boolean",
+              "value": "true"
+            },
+            {
+              "name": "type",
+              "type": "string",
+              "value": "error"
+            },
+            {
+              "name": "target",
+              "type": "object",
+              "value": "img",
+              "subtype": "node"
+            },
+            {
+              "name": "currentTarget",
+              "type": "object",
+              "value": "null",
+              "subtype": "null"
+            },
+            {
+              "name": "eventPhase",
+              "type": "number",
+              "value": "0"
+            }
+          ]
+        }
+      },
+      "executionContextId": 11
+    }
+  },
+  {
+    "timestamp": 1583001615417.189,
+    "exceptionDetails": {
+      "exceptionId": 2,
+      "text": "Uncaught (in promise)",
+      "lineNumber": 0,
+      "columnNumber": 0,
+      "scriptId": "1",
+      "url": "https://thecookspyjamas.com/coconut-macadamia-granola/",
+      "exception": {
+        "type": "object",
+        "className": "Event",
+        "description": "Event",
+        "objectId": "{\"injectedScriptId\":11,\"id\":2}",
+        "preview": {
+          "type": "object",
+          "description": "Event",
+          "overflow": true,
+          "properties": [
+            {
+              "name": "isTrusted",
+              "type": "boolean",
+              "value": "true"
+            },
+            {
+              "name": "type",
+              "type": "string",
+              "value": "error"
+            },
+            {
+              "name": "target",
+              "type": "object",
+              "value": "img",
+              "subtype": "node"
+            },
+            {
+              "name": "currentTarget",
+              "type": "object",
+              "value": "null",
+              "subtype": "null"
+            },
+            {
+              "name": "eventPhase",
+              "type": "number",
+              "value": "0"
+            }
+          ]
+        }
+      },
+      "executionContextId": 11
+    }
+  },
+  {
+    "timestamp": 1583001615462.905,
+    "exceptionDetails": {
+      "exceptionId": 3,
+      "text": "Uncaught (in promise)",
+      "lineNumber": 0,
+      "columnNumber": 0,
+      "scriptId": "1",
+      "url": "https://thecookspyjamas.com/coconut-macadamia-granola/",
+      "exception": {
+        "type": "object",
+        "className": "Event",
+        "description": "Event",
+        "objectId": "{\"injectedScriptId\":11,\"id\":3}",
+        "preview": {
+          "type": "object",
+          "description": "Event",
+          "overflow": true,
+          "properties": [
+            {
+              "name": "isTrusted",
+              "type": "boolean",
+              "value": "true"
+            },
+            {
+              "name": "type",
+              "type": "string",
+              "value": "error"
+            },
+            {
+              "name": "target",
+              "type": "object",
+              "value": "img",
+              "subtype": "node"
+            },
+            {
+              "name": "currentTarget",
+              "type": "object",
+              "value": "null",
+              "subtype": "null"
+            },
+            {
+              "name": "eventPhase",
+              "type": "number",
+              "value": "0"
+            }
+          ]
+        }
+      },
+      "executionContextId": 11
+    }
+  },
+  {
+    "timestamp": 1583001615463.286,
+    "exceptionDetails": {
+      "exceptionId": 4,
+      "text": "Uncaught (in promise)",
+      "lineNumber": 0,
+      "columnNumber": 0,
+      "scriptId": "1",
+      "url": "https://thecookspyjamas.com/coconut-macadamia-granola/",
+      "exception": {
+        "type": "object",
+        "className": "Event",
+        "description": "Event",
+        "objectId": "{\"injectedScriptId\":11,\"id\":4}",
+        "preview": {
+          "type": "object",
+          "description": "Event",
+          "overflow": true,
+          "properties": [
+            {
+              "name": "isTrusted",
+              "type": "boolean",
+              "value": "true"
+            },
+            {
+              "name": "type",
+              "type": "string",
+              "value": "error"
+            },
+            {
+              "name": "target",
+              "type": "object",
+              "value": "img",
+              "subtype": "node"
+            },
+            {
+              "name": "currentTarget",
+              "type": "object",
+              "value": "null",
+              "subtype": "null"
+            },
+            {
+              "name": "eventPhase",
+              "type": "number",
+              "value": "0"
+            }
+          ]
+        }
+      },
+      "executionContextId": 11
+    }
+  },
+  {
+    "timestamp": 1583001615519.0662,
+    "exceptionDetails": {
+      "exceptionId": 5,
+      "text": "Uncaught (in promise)",
+      "lineNumber": 0,
+      "columnNumber": 0,
+      "scriptId": "1",
+      "url": "https://thecookspyjamas.com/coconut-macadamia-granola/",
+      "exception": {
+        "type": "object",
+        "className": "Event",
+        "description": "Event",
+        "objectId": "{\"injectedScriptId\":11,\"id\":5}",
+        "preview": {
+          "type": "object",
+          "description": "Event",
+          "overflow": true,
+          "properties": [
+            {
+              "name": "isTrusted",
+              "type": "boolean",
+              "value": "true"
+            },
+            {
+              "name": "type",
+              "type": "string",
+              "value": "error"
+            },
+            {
+              "name": "target",
+              "type": "object",
+              "value": "img",
+              "subtype": "node"
+            },
+            {
+              "name": "currentTarget",
+              "type": "object",
+              "value": "null",
+              "subtype": "null"
+            },
+            {
+              "name": "eventPhase",
+              "type": "number",
+              "value": "0"
+            }
+          ]
+        }
+      },
+      "executionContextId": 11
+    }
+  },
+  {
+    "timestamp": 1583001615519.43,
+    "exceptionDetails": {
+      "exceptionId": 6,
+      "text": "Uncaught (in promise)",
+      "lineNumber": 0,
+      "columnNumber": 0,
+      "scriptId": "1",
+      "url": "https://thecookspyjamas.com/coconut-macadamia-granola/",
+      "exception": {
+        "type": "object",
+        "className": "Event",
+        "description": "Event",
+        "objectId": "{\"injectedScriptId\":11,\"id\":6}",
+        "preview": {
+          "type": "object",
+          "description": "Event",
+          "overflow": true,
+          "properties": [
+            {
+              "name": "isTrusted",
+              "type": "boolean",
+              "value": "true"
+            },
+            {
+              "name": "type",
+              "type": "string",
+              "value": "error"
+            },
+            {
+              "name": "target",
+              "type": "object",
+              "value": "img",
+              "subtype": "node"
+            },
+            {
+              "name": "currentTarget",
+              "type": "object",
+              "value": "null",
+              "subtype": "null"
+            },
+            {
+              "name": "eventPhase",
+              "type": "number",
+              "value": "0"
+            }
+          ]
+        }
+      },
+      "executionContextId": 11
+    }
+  },
+  {
+    "timestamp": 1583001615554.409,
+    "exceptionDetails": {
+      "exceptionId": 7,
+      "text": "Uncaught (in promise)",
+      "lineNumber": 0,
+      "columnNumber": 0,
+      "scriptId": "1",
+      "url": "https://thecookspyjamas.com/coconut-macadamia-granola/",
+      "exception": {
+        "type": "object",
+        "className": "Event",
+        "description": "Event",
+        "objectId": "{\"injectedScriptId\":11,\"id\":7}",
+        "preview": {
+          "type": "object",
+          "description": "Event",
+          "overflow": true,
+          "properties": [
+            {
+              "name": "isTrusted",
+              "type": "boolean",
+              "value": "true"
+            },
+            {
+              "name": "type",
+              "type": "string",
+              "value": "error"
+            },
+            {
+              "name": "target",
+              "type": "object",
+              "value": "img",
+              "subtype": "node"
+            },
+            {
+              "name": "currentTarget",
+              "type": "object",
+              "value": "null",
+              "subtype": "null"
+            },
+            {
+              "name": "eventPhase",
+              "type": "number",
+              "value": "0"
+            }
+          ]
+        }
+      },
+      "executionContextId": 11
+    }
+  },
+  {
+    "timestamp": 1583001615554.757,
+    "exceptionDetails": {
+      "exceptionId": 8,
+      "text": "Uncaught (in promise)",
+      "lineNumber": 0,
+      "columnNumber": 0,
+      "scriptId": "1",
+      "url": "https://thecookspyjamas.com/coconut-macadamia-granola/",
+      "exception": {
+        "type": "object",
+        "className": "Event",
+        "description": "Event",
+        "objectId": "{\"injectedScriptId\":11,\"id\":8}",
+        "preview": {
+          "type": "object",
+          "description": "Event",
+          "overflow": true,
+          "properties": [
+            {
+              "name": "isTrusted",
+              "type": "boolean",
+              "value": "true"
+            },
+            {
+              "name": "type",
+              "type": "string",
+              "value": "error"
+            },
+            {
+              "name": "target",
+              "type": "object",
+              "value": "img",
+              "subtype": "node"
+            },
+            {
+              "name": "currentTarget",
+              "type": "object",
+              "value": "null",
+              "subtype": "null"
+            },
+            {
+              "name": "eventPhase",
+              "type": "number",
+              "value": "0"
+            }
+          ]
+        }
+      },
+      "executionContextId": 11
+    }
+  },
+  {
+    "timestamp": 1583001615574.221,
+    "exceptionDetails": {
+      "exceptionId": 9,
+      "text": "Uncaught (in promise)",
+      "lineNumber": 0,
+      "columnNumber": 0,
+      "scriptId": "1",
+      "url": "https://thecookspyjamas.com/coconut-macadamia-granola/",
+      "exception": {
+        "type": "object",
+        "className": "Event",
+        "description": "Event",
+        "objectId": "{\"injectedScriptId\":11,\"id\":9}",
+        "preview": {
+          "type": "object",
+          "description": "Event",
+          "overflow": true,
+          "properties": [
+            {
+              "name": "isTrusted",
+              "type": "boolean",
+              "value": "true"
+            },
+            {
+              "name": "type",
+              "type": "string",
+              "value": "error"
+            },
+            {
+              "name": "target",
+              "type": "object",
+              "value": "img",
+              "subtype": "node"
+            },
+            {
+              "name": "currentTarget",
+              "type": "object",
+              "value": "null",
+              "subtype": "null"
+            },
+            {
+              "name": "eventPhase",
+              "type": "number",
+              "value": "0"
+            }
+          ]
+        }
+      },
+      "executionContextId": 11
+    }
+  },
+  {
+    "timestamp": 1583001615574.489,
+    "exceptionDetails": {
+      "exceptionId": 10,
+      "text": "Uncaught (in promise)",
+      "lineNumber": 0,
+      "columnNumber": 0,
+      "scriptId": "1",
+      "url": "https://thecookspyjamas.com/coconut-macadamia-granola/",
+      "exception": {
+        "type": "object",
+        "className": "Event",
+        "description": "Event",
+        "objectId": "{\"injectedScriptId\":11,\"id\":10}",
+        "preview": {
+          "type": "object",
+          "description": "Event",
+          "overflow": true,
+          "properties": [
+            {
+              "name": "isTrusted",
+              "type": "boolean",
+              "value": "true"
+            },
+            {
+              "name": "type",
+              "type": "string",
+              "value": "error"
+            },
+            {
+              "name": "target",
+              "type": "object",
+              "value": "img",
+              "subtype": "node"
+            },
+            {
+              "name": "currentTarget",
+              "type": "object",
+              "value": "null",
+              "subtype": "null"
+            },
+            {
+              "name": "eventPhase",
+              "type": "number",
+              "value": "0"
+            }
+          ]
+        }
+      },
+      "executionContextId": 11
+    }
+  },
+  {
+    "timestamp": 1583001615579.534,
+    "exceptionDetails": {
+      "exceptionId": 11,
+      "text": "Uncaught (in promise)",
+      "lineNumber": 0,
+      "columnNumber": 0,
+      "scriptId": "1",
+      "url": "https://thecookspyjamas.com/coconut-macadamia-granola/",
+      "exception": {
+        "type": "object",
+        "className": "Event",
+        "description": "Event",
+        "objectId": "{\"injectedScriptId\":11,\"id\":11}",
+        "preview": {
+          "type": "object",
+          "description": "Event",
+          "overflow": true,
+          "properties": [
+            {
+              "name": "isTrusted",
+              "type": "boolean",
+              "value": "true"
+            },
+            {
+              "name": "type",
+              "type": "string",
+              "value": "error"
+            },
+            {
+              "name": "target",
+              "type": "object",
+              "value": "img",
+              "subtype": "node"
+            },
+            {
+              "name": "currentTarget",
+              "type": "object",
+              "value": "null",
+              "subtype": "null"
+            },
+            {
+              "name": "eventPhase",
+              "type": "number",
+              "value": "0"
+            }
+          ]
+        }
+      },
+      "executionContextId": 11
+    }
+  },
+  {
+    "timestamp": 1583001615579.862,
+    "exceptionDetails": {
+      "exceptionId": 12,
+      "text": "Uncaught (in promise)",
+      "lineNumber": 0,
+      "columnNumber": 0,
+      "scriptId": "1",
+      "url": "https://thecookspyjamas.com/coconut-macadamia-granola/",
+      "exception": {
+        "type": "object",
+        "className": "Event",
+        "description": "Event",
+        "objectId": "{\"injectedScriptId\":11,\"id\":12}",
+        "preview": {
+          "type": "object",
+          "description": "Event",
+          "overflow": true,
+          "properties": [
+            {
+              "name": "isTrusted",
+              "type": "boolean",
+              "value": "true"
+            },
+            {
+              "name": "type",
+              "type": "string",
+              "value": "error"
+            },
+            {
+              "name": "target",
+              "type": "object",
+              "value": "img",
+              "subtype": "node"
+            },
+            {
+              "name": "currentTarget",
+              "type": "object",
+              "value": "null",
+              "subtype": "null"
+            },
+            {
+              "name": "eventPhase",
+              "type": "number",
+              "value": "0"
+            }
+          ]
+        }
+      },
+      "executionContextId": 11
+    }
+  }
+]

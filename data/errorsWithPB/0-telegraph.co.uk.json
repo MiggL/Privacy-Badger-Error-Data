@@ -1,0 +1,143 @@
+[
+  {
+    "timestamp": 1583759334597.727,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 2196,
+      "columnNumber": 15,
+      "url": "https://www.telegraph.co.uk/finance/personalfinance/expat-money/11226294/Peer-to-peer-exchange-firms-cut-out-the-banks-and-brokers.html",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "151",
+            "url": "https://www.telegraph.co.uk/finance/personalfinance/expat-money/11226294/Peer-to-peer-exchange-firms-cut-out-the-banks-and-brokers.html",
+            "lineNumber": 2196,
+            "columnNumber": 15
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: nol_t is not defined\n    at https://www.telegraph.co.uk/finance/personalfinance/expat-money/11226294/Peer-to-peer-exchange-firms-cut-out-the-banks-and-brokers.html:2197:16",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: nol_t is not defined\n    at https://www.telegraph.co.uk/finance/personalfinance/expat-money/11226294/Peer-to-peer-exchange-firms-cut-out-the-banks-and-brokers.html:2197:16",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: nol_t is not defined\n    at https:…-firms-cut-out-the-banks-and-brokers.html:2197:16"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "nol_t is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583759334604.654,
+    "exceptionDetails": {
+      "exceptionId": 2,
+      "text": "Uncaught",
+      "lineNumber": 148,
+      "columnNumber": 60,
+      "url": "https://www.telegraph.co.uk/finance/personalfinance/expat-money/11226294/Peer-to-peer-exchange-firms-cut-out-the-banks-and-brokers.html",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "document.onreadystatechange",
+            "scriptId": "33",
+            "url": "https://www.telegraph.co.uk/finance/personalfinance/expat-money/11226294/Peer-to-peer-exchange-firms-cut-out-the-banks-and-brokers.html",
+            "lineNumber": 148,
+            "columnNumber": 60
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot set property 'src' of null\n    at HTMLDocument.document.onreadystatechange (https://www.telegraph.co.uk/finance/personalfinance/expat-money/11226294/Peer-to-peer-exchange-firms-cut-out-the-banks-and-brokers.html:149:61)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":2}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot set property 'src' of null\n    at HTMLDocument.document.onreadystatechange (https://www.telegraph.co.uk/finance/personalfinance/expat-money/11226294/Peer-to-peer-exchange-firms-cut-out-the-banks-and-brokers.html:149:61)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot set property 'src' of null\n    a…-firms-cut-out-the-banks-and-brokers.html:149:61)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot set property 'src' of null"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583759334738.351,
+    "exceptionDetails": {
+      "exceptionId": 3,
+      "text": "Uncaught",
+      "lineNumber": 148,
+      "columnNumber": 60,
+      "url": "https://www.telegraph.co.uk/finance/personalfinance/expat-money/11226294/Peer-to-peer-exchange-firms-cut-out-the-banks-and-brokers.html",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "document.onreadystatechange",
+            "scriptId": "33",
+            "url": "https://www.telegraph.co.uk/finance/personalfinance/expat-money/11226294/Peer-to-peer-exchange-firms-cut-out-the-banks-and-brokers.html",
+            "lineNumber": 148,
+            "columnNumber": 60
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot set property 'src' of null\n    at HTMLDocument.document.onreadystatechange (https://www.telegraph.co.uk/finance/personalfinance/expat-money/11226294/Peer-to-peer-exchange-firms-cut-out-the-banks-and-brokers.html:149:61)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":3}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot set property 'src' of null\n    at HTMLDocument.document.onreadystatechange (https://www.telegraph.co.uk/finance/personalfinance/expat-money/11226294/Peer-to-peer-exchange-firms-cut-out-the-banks-and-brokers.html:149:61)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot set property 'src' of null\n    a…-firms-cut-out-the-banks-and-brokers.html:149:61)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot set property 'src' of null"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

@@ -1,0 +1,55 @@
+[
+  {
+    "timestamp": 1582816978065.187,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 0,
+      "columnNumber": 287,
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "window.onload",
+            "scriptId": "43",
+            "url": "",
+            "lineNumber": 0,
+            "columnNumber": 287
+          },
+          {
+            "functionName": "",
+            "scriptId": "47",
+            "url": "https://cdn.mxpnl.com/libs/mixpanel-2-latest.min.js",
+            "lineNumber": 44,
+            "columnNumber": 230
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot set property 'value' of null\n    at window.onload (<anonymous>:1:288)\n    at https://cdn.mxpnl.com/libs/mixpanel-2-latest.min.js:45:231",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot set property 'value' of null\n    at window.onload (<anonymous>:1:288)\n    at https://cdn.mxpnl.com/libs/mixpanel-2-latest.min.js:45:231",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot set property 'value' of null\n   …dn.mxpnl.com/libs/mixpanel-2-latest.min.js:45:231"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot set property 'value' of null"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

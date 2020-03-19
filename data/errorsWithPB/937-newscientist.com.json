@@ -1,0 +1,91 @@
+[
+  {
+    "timestamp": 1583423793661.447,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 0,
+      "columnNumber": 32352,
+      "url": "https://cdn.permutive.com/33e288f1-17a3-4a1f-b7ab-6d5d5187c6d0-web.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "handleConsent",
+            "scriptId": "21",
+            "url": "https://cdn.permutive.com/33e288f1-17a3-4a1f-b7ab-6d5d5187c6d0-web.js",
+            "lineNumber": 0,
+            "columnNumber": 32352
+          },
+          {
+            "functionName": "",
+            "scriptId": "21",
+            "url": "https://cdn.permutive.com/33e288f1-17a3-4a1f-b7ab-6d5d5187c6d0-web.js",
+            "lineNumber": 0,
+            "columnNumber": 32601
+          },
+          {
+            "functionName": "",
+            "scriptId": "21",
+            "url": "https://cdn.permutive.com/33e288f1-17a3-4a1f-b7ab-6d5d5187c6d0-web.js",
+            "lineNumber": 0,
+            "columnNumber": 40553
+          },
+          {
+            "functionName": "",
+            "scriptId": "21",
+            "url": "https://cdn.permutive.com/33e288f1-17a3-4a1f-b7ab-6d5d5187c6d0-web.js",
+            "lineNumber": 0,
+            "columnNumber": 40558
+          },
+          {
+            "functionName": "i",
+            "scriptId": "21",
+            "url": "https://cdn.permutive.com/33e288f1-17a3-4a1f-b7ab-6d5d5187c6d0-web.js",
+            "lineNumber": 0,
+            "columnNumber": 186
+          },
+          {
+            "functionName": "",
+            "scriptId": "21",
+            "url": "https://cdn.permutive.com/33e288f1-17a3-4a1f-b7ab-6d5d5187c6d0-web.js",
+            "lineNumber": 0,
+            "columnNumber": 978
+          },
+          {
+            "functionName": "",
+            "scriptId": "21",
+            "url": "https://cdn.permutive.com/33e288f1-17a3-4a1f-b7ab-6d5d5187c6d0-web.js",
+            "lineNumber": 0,
+            "columnNumber": 988
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'length' of undefined\n    at handleConsent (https://cdn.permutive.com/33e288f1-17a3-4a1f-b7ab-6d5d5187c6d0-web.js:1:32353)\n    at https://cdn.permutive.com/33e288f1-17a3-4a1f-b7ab-6d5d5187c6d0-web.js:1:32602\n    at Object.<anonymous> (https://cdn.permutive.com/33e288f1-17a3-4a1f-b7ab-6d5d5187c6d0-web.js:1:40554)\n    at Object.<anonymous> (https://cdn.permutive.com/33e288f1-17a3-4a1f-b7ab-6d5d5187c6d0-web.js:1:40559)\n    at i (https://cdn.permutive.com/33e288f1-17a3-4a1f-b7ab-6d5d5187c6d0-web.js:1:187)\n    at https://cdn.permutive.com/33e288f1-17a3-4a1f-b7ab-6d5d5187c6d0-web.js:1:979\n    at https://cdn.permutive.com/33e288f1-17a3-4a1f-b7ab-6d5d5187c6d0-web.js:1:989",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'length' of undefined\n    at handleConsent (https://cdn.permutive.com/33e288f1-17a3-4a1f-b7ab-6d5d5187c6d0-web.js:1:32353)\n    at https://cdn.permutive.com/33e288f1-17a3-4a1f-b7ab-6d5d5187c6d0-web.js:1:32602\n    at Object.<anonymous> (https://cdn.permutive.com/33e288f1-17a3-4a1f-b7ab-6d5d5187c6d0-web.js:1:40554)\n    at Object.<anonymous> (https://cdn.permutive.com/33e288f1-17a3-4a1f-b7ab-6d5d5187c6d0-web.js:1:40559)\n    at i (https://cdn.permutive.com/33e288f1-17a3-4a1f-b7ab-6d5d5187c6d0-web.js:1:187)\n    at https://cdn.permutive.com/33e288f1-17a3-4a1f-b7ab-6d5d5187c6d0-web.js:1:979\n    at https://cdn.permutive.com/33e288f1-17a3-4a1f-b7ab-6d5d5187c6d0-web.js:1:989",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'length' of undefi…33e288f1-17a3-4a1f-b7ab-6d5d5187c6d0-web.js:1:989"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'length' of undefined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

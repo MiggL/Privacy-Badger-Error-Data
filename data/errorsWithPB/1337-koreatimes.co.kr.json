@@ -1,0 +1,77 @@
+[
+  {
+    "timestamp": 1583420024188.551,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 1678,
+      "columnNumber": 2,
+      "url": "http://www.koreatimes.co.kr/www/news/nation/2017/02/251_224386.html",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "64",
+            "url": "http://www.koreatimes.co.kr/www/news/nation/2017/02/251_224386.html",
+            "lineNumber": 1678,
+            "columnNumber": 2
+          },
+          {
+            "functionName": "c",
+            "scriptId": "24",
+            "url": "https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js",
+            "lineNumber": 2,
+            "columnNumber": 7856
+          },
+          {
+            "functionName": "fireWith",
+            "scriptId": "24",
+            "url": "https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js",
+            "lineNumber": 2,
+            "columnNumber": 8657
+          },
+          {
+            "functionName": "ready",
+            "scriptId": "24",
+            "url": "https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js",
+            "lineNumber": 2,
+            "columnNumber": 3265
+          },
+          {
+            "functionName": "H",
+            "scriptId": "24",
+            "url": "https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js",
+            "lineNumber": 2,
+            "columnNumber": 694
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: SyntaxHighlighter is not defined\n    at HTMLDocument.<anonymous> (http://www.koreatimes.co.kr/www/news/nation/2017/02/251_224386.html:1679:3)\n    at c (https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js:3:7857)\n    at Object.fireWith [as resolveWith] (https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js:3:8658)\n    at Function.ready (https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js:3:3266)\n    at HTMLDocument.H (https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js:3:695)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: SyntaxHighlighter is not defined\n    at HTMLDocument.<anonymous> (http://www.koreatimes.co.kr/www/news/nation/2017/02/251_224386.html:1679:3)\n    at c (https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js:3:7857)\n    at Object.fireWith [as resolveWith] (https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js:3:8658)\n    at Function.ready (https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js:3:3266)\n    at HTMLDocument.H (https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js:3:695)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: SyntaxHighlighter is not defined\n …s.com/ajax/libs/jquery/1.9.1/jquery.min.js:3:695)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "SyntaxHighlighter is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

@@ -1,0 +1,49 @@
+[
+  {
+    "timestamp": 1583004859449.6729,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 0,
+      "columnNumber": 0,
+      "url": "https://drivemomcrazy.com/wp-content/plugins/jroll/jroll.js?ver=0.0.1",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "15",
+            "url": "https://drivemomcrazy.com/wp-content/plugins/jroll/jroll.js?ver=0.0.1",
+            "lineNumber": 0,
+            "columnNumber": 0
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: $ is not a function\n    at https://drivemomcrazy.com/wp-content/plugins/jroll/jroll.js?ver=0.0.1:1:1",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: $ is not a function\n    at https://drivemomcrazy.com/wp-content/plugins/jroll/jroll.js?ver=0.0.1:1:1",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: $ is not a function\n    at https://driv…m/wp-content/plugins/jroll/jroll.js?ver=0.0.1:1:1"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "$ is not a function"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

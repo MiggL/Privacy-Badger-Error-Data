@@ -1,0 +1,125 @@
+[
+  {
+    "timestamp": 1582897304996.57,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught (in promise)",
+      "lineNumber": 0,
+      "columnNumber": 0,
+      "scriptId": "1",
+      "url": "https://www.commentcamarche.net/faq/40917-comment-faire-des-e-majuscules-avec-accent",
+      "exception": {
+        "type": "object",
+        "className": "Object",
+        "description": "Object",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "description": "Object",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "url",
+              "type": "string",
+              "value": "//acdn.adnxs.com/ast/ast.js"
+            },
+            {
+              "name": "options",
+              "type": "object",
+              "value": "Object"
+            },
+            {
+              "name": "node",
+              "type": "object",
+              "value": "script",
+              "subtype": "node"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1582897304996.891,
+    "exceptionDetails": {
+      "exceptionId": 2,
+      "text": "Uncaught (in promise)",
+      "lineNumber": 0,
+      "columnNumber": 0,
+      "scriptId": "1",
+      "url": "https://www.commentcamarche.net/faq/40917-comment-faire-des-e-majuscules-avec-accent",
+      "exception": {
+        "type": "object",
+        "className": "Object",
+        "description": "Object",
+        "objectId": "{\"injectedScriptId\":3,\"id\":2}",
+        "preview": {
+          "type": "object",
+          "description": "Object",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "url",
+              "type": "string",
+              "value": "https://w.estat.com/js/whap.js"
+            },
+            {
+              "name": "options",
+              "type": "object",
+              "value": "Object"
+            },
+            {
+              "name": "node",
+              "type": "object",
+              "value": "script",
+              "subtype": "node"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1582897304997.525,
+    "exceptionDetails": {
+      "exceptionId": 3,
+      "text": "Uncaught (in promise)",
+      "lineNumber": 0,
+      "columnNumber": 0,
+      "scriptId": "1",
+      "url": "https://www.commentcamarche.net/faq/40917-comment-faire-des-e-majuscules-avec-accent",
+      "exception": {
+        "type": "object",
+        "className": "Object",
+        "description": "Object",
+        "objectId": "{\"injectedScriptId\":3,\"id\":3}",
+        "preview": {
+          "type": "object",
+          "description": "Object",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "url",
+              "type": "string",
+              "value": "https://tag.audience.acpm.fr/js/on-1.0.min.js"
+            },
+            {
+              "name": "options",
+              "type": "object",
+              "value": "Object"
+            },
+            {
+              "name": "node",
+              "type": "object",
+              "value": "script",
+              "subtype": "node"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

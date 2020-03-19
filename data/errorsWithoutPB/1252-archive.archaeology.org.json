@@ -1,0 +1,56 @@
+[
+  {
+    "timestamp": 1583001856513.713,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 7,
+      "columnNumber": 1161,
+      "url": "https://www.archaeology.org/media/jui/js/bootstrap.min.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "17",
+            "url": "https://www.archaeology.org/media/jui/js/bootstrap.min.js",
+            "lineNumber": 7,
+            "columnNumber": 1161
+          },
+          {
+            "functionName": "",
+            "scriptId": "17",
+            "url": "https://www.archaeology.org/media/jui/js/bootstrap.min.js",
+            "lineNumber": 7,
+            "columnNumber": 1208
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: t(...).on is not a function\n    at https://www.archaeology.org/media/jui/js/bootstrap.min.js:8:1162\n    at https://www.archaeology.org/media/jui/js/bootstrap.min.js:8:1209",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: t(...).on is not a function\n    at https://www.archaeology.org/media/jui/js/bootstrap.min.js:8:1162\n    at https://www.archaeology.org/media/jui/js/bootstrap.min.js:8:1209",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: t(...).on is not a function\n    at http…haeology.org/media/jui/js/bootstrap.min.js:8:1209"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "t(...).on is not a function"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

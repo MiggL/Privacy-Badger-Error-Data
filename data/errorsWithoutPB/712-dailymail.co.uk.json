@@ -1,0 +1,291 @@
+[
+  {
+    "timestamp": 1583006879843.701,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught (in promise)",
+      "lineNumber": 0,
+      "columnNumber": 8583,
+      "url": "https://a.teads.tv/media/format/v3/teads-format.min.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "t.match",
+            "scriptId": "447",
+            "url": "https://a.teads.tv/media/format/v3/teads-format.min.js",
+            "lineNumber": 0,
+            "columnNumber": 8583
+          },
+          {
+            "functionName": "",
+            "scriptId": "447",
+            "url": "https://a.teads.tv/media/format/v3/teads-format.min.js",
+            "lineNumber": 1,
+            "columnNumber": 110296
+          },
+          {
+            "functionName": "t.retrievePayloadFromPublisherCookie",
+            "scriptId": "447",
+            "url": "https://a.teads.tv/media/format/v3/teads-format.min.js",
+            "lineNumber": 1,
+            "columnNumber": 110195
+          },
+          {
+            "functionName": "",
+            "scriptId": "447",
+            "url": "https://a.teads.tv/media/format/v3/teads-format.min.js",
+            "lineNumber": 1,
+            "columnNumber": 107246
+          },
+          {
+            "functionName": "t.requestConsentString",
+            "scriptId": "447",
+            "url": "https://a.teads.tv/media/format/v3/teads-format.min.js",
+            "lineNumber": 1,
+            "columnNumber": 108071
+          },
+          {
+            "functionName": "t",
+            "scriptId": "447",
+            "url": "https://a.teads.tv/media/format/v3/teads-format.min.js",
+            "lineNumber": 1,
+            "columnNumber": 274884
+          },
+          {
+            "functionName": "t.callRAS",
+            "scriptId": "447",
+            "url": "https://a.teads.tv/media/format/v3/teads-format.min.js",
+            "lineNumber": 8,
+            "columnNumber": 42504
+          },
+          {
+            "functionName": "",
+            "scriptId": "447",
+            "url": "https://a.teads.tv/media/format/v3/teads-format.min.js",
+            "lineNumber": 8,
+            "columnNumber": 70555
+          },
+          {
+            "functionName": "E",
+            "scriptId": "447",
+            "url": "https://a.teads.tv/media/format/v3/teads-format.min.js",
+            "lineNumber": 0,
+            "columnNumber": 36260
+          },
+          {
+            "functionName": "t.onReadyState",
+            "scriptId": "447",
+            "url": "https://a.teads.tv/media/format/v3/teads-format.min.js",
+            "lineNumber": 8,
+            "columnNumber": 76892
+          },
+          {
+            "functionName": "t.load",
+            "scriptId": "447",
+            "url": "https://a.teads.tv/media/format/v3/teads-format.min.js",
+            "lineNumber": 8,
+            "columnNumber": 69719
+          },
+          {
+            "functionName": "t.serve",
+            "scriptId": "447",
+            "url": "https://a.teads.tv/media/format/v3/teads-format.min.js",
+            "lineNumber": 8,
+            "columnNumber": 71655
+          },
+          {
+            "functionName": "t.placement",
+            "scriptId": "447",
+            "url": "https://a.teads.tv/media/format/v3/teads-format.min.js",
+            "lineNumber": 8,
+            "columnNumber": 69270
+          },
+          {
+            "functionName": "placement",
+            "scriptId": "447",
+            "url": "https://a.teads.tv/media/format/v3/teads-format.min.js",
+            "lineNumber": 8,
+            "columnNumber": 68495
+          },
+          {
+            "functionName": "ttag",
+            "scriptId": "446",
+            "url": "https://a.teads.tv/page/7458/tag",
+            "lineNumber": 5,
+            "columnNumber": 23
+          }
+        ]
+      },
+      "exception": {
+        "type": "undefined"
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583006880531.11,
+    "exceptionDetails": {
+      "exceptionId": 2,
+      "text": "Uncaught",
+      "lineNumber": 11,
+      "columnNumber": 15,
+      "url": "https://securepubads.g.doubleclick.net/gampad/ads?gdfp_req=1&glade_req=1&glv=36&dt=1583006880230&output=html&iu=%2F5765%2Fdailymail.uk%2Fdm_dmteadspassback_art&sz=480x270&adsid=NT&npa=1&guci=1.2.0.0.2.1.0&sfv=1-0-29&correlator=269418066106582&adk=1744245582&biw=1280&bih=600&adx=0&ady=0&oid=3&u_sd=1&ifi=1&vis=1&url=https%3A%2F%2Fwww.dailymail.co.uk%2Ffemail%2Farticle-4211380%2FBeauty-blogger-s-fringe-cutting-hack-goes-wrong.html",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "456",
+            "url": "https://securepubads.g.doubleclick.net/gampad/ads?gdfp_req=1&glade_req=1&glv=36&dt=1583006880230&output=html&iu=%2F5765%2Fdailymail.uk%2Fdm_dmteadspassback_art&sz=480x270&adsid=NT&npa=1&guci=1.2.0.0.2.1.0&sfv=1-0-29&correlator=269418066106582&adk=1744245582&biw=1280&bih=600&adx=0&ady=0&oid=3&u_sd=1&ifi=1&vis=1&url=https%3A%2F%2Fwww.dailymail.co.uk%2Ffemail%2Farticle-4211380%2FBeauty-blogger-s-fringe-cutting-hack-goes-wrong.html",
+            "lineNumber": 11,
+            "columnNumber": 15
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "DOMException",
+        "description": "DOMException: Blocked a frame with origin \"https://securepubads.g.doubleclick.net\" from accessing a cross-origin frame.\n    at https://securepubads.g.doubleclick.net/gampad/ads?gdfp_req=1&glade_req=1&glv=36&dt=1583006880230&output=html&iu=%2F5765%2Fdailymail.uk%2Fdm_dmteadspassback_art&sz=480x270&adsid=NT&npa=1&guci=1.2.0.0.2.1.0&sfv=1-0-29&correlator=269418066106582&adk=1744245582&biw=1280&bih=600&adx=0&ady=0&oid=3&u_sd=1&ifi=1&vis=1&url=https%3A%2F%2Fwww.dailymail.co.uk%2Ffemail%2Farticle-4211380%2FBeauty-blogger-s-fringe-cutting-hack-goes-wrong.html:12:16",
+        "objectId": "{\"injectedScriptId\":29,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "DOMException: Blocked a frame with origin \"https://securepubads.g.doubleclick.net\" from accessing a cross-origin frame.\n    at https://securepubads.g.doubleclick.net/gampad/ads?gdfp_req=1&glade_req=1&glv=36&dt=1583006880230&output=html&iu=%2F5765%2Fdailymail.uk%2Fdm_dmteadspassback_art&sz=480x270&adsid=NT&npa=1&guci=1.2.0.0.2.1.0&sfv=1-0-29&correlator=269418066106582&adk=1744245582&biw=1280&bih=600&adx=0&ady=0&oid=3&u_sd=1&ifi=1&vis=1&url=https%3A%2F%2Fwww.dailymail.co.uk%2Ffemail%2Farticle-4211380%2FBeauty-blogger-s-fringe-cutting-hack-goes-wrong.html:12:16",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "accessor"
+            },
+            {
+              "name": "code",
+              "type": "number",
+              "value": "18"
+            },
+            {
+              "name": "name",
+              "type": "string",
+              "value": "SecurityError"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Blocked a frame with origin \"https://securepubads.…leclick.net\" from accessing a cross-origin frame."
+            }
+          ]
+        }
+      },
+      "executionContextId": 29
+    }
+  },
+  {
+    "timestamp": 1583006880531.949,
+    "exceptionDetails": {
+      "exceptionId": 3,
+      "text": "Uncaught",
+      "lineNumber": 16,
+      "columnNumber": 14,
+      "url": "https://securepubads.g.doubleclick.net/gampad/ads?gdfp_req=1&glade_req=1&glv=36&dt=1583006880230&output=html&iu=%2F5765%2Fdailymail.uk%2Fdm_dmteadspassback_art&sz=480x270&adsid=NT&npa=1&guci=1.2.0.0.2.1.0&sfv=1-0-29&correlator=269418066106582&adk=1744245582&biw=1280&bih=600&adx=0&ady=0&oid=3&u_sd=1&ifi=1&vis=1&url=https%3A%2F%2Fwww.dailymail.co.uk%2Ffemail%2Farticle-4211380%2FBeauty-blogger-s-fringe-cutting-hack-goes-wrong.html",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "457",
+            "url": "https://securepubads.g.doubleclick.net/gampad/ads?gdfp_req=1&glade_req=1&glv=36&dt=1583006880230&output=html&iu=%2F5765%2Fdailymail.uk%2Fdm_dmteadspassback_art&sz=480x270&adsid=NT&npa=1&guci=1.2.0.0.2.1.0&sfv=1-0-29&correlator=269418066106582&adk=1744245582&biw=1280&bih=600&adx=0&ady=0&oid=3&u_sd=1&ifi=1&vis=1&url=https%3A%2F%2Fwww.dailymail.co.uk%2Ffemail%2Farticle-4211380%2FBeauty-blogger-s-fringe-cutting-hack-goes-wrong.html",
+            "lineNumber": 16,
+            "columnNumber": 14
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'parentElement' of null\n    at https://securepubads.g.doubleclick.net/gampad/ads?gdfp_req=1&glade_req=1&glv=36&dt=1583006880230&output=html&iu=%2F5765%2Fdailymail.uk%2Fdm_dmteadspassback_art&sz=480x270&adsid=NT&npa=1&guci=1.2.0.0.2.1.0&sfv=1-0-29&correlator=269418066106582&adk=1744245582&biw=1280&bih=600&adx=0&ady=0&oid=3&u_sd=1&ifi=1&vis=1&url=https%3A%2F%2Fwww.dailymail.co.uk%2Ffemail%2Farticle-4211380%2FBeauty-blogger-s-fringe-cutting-hack-goes-wrong.html:17:15",
+        "objectId": "{\"injectedScriptId\":29,\"id\":2}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'parentElement' of null\n    at https://securepubads.g.doubleclick.net/gampad/ads?gdfp_req=1&glade_req=1&glv=36&dt=1583006880230&output=html&iu=%2F5765%2Fdailymail.uk%2Fdm_dmteadspassback_art&sz=480x270&adsid=NT&npa=1&guci=1.2.0.0.2.1.0&sfv=1-0-29&correlator=269418066106582&adk=1744245582&biw=1280&bih=600&adx=0&ady=0&oid=3&u_sd=1&ifi=1&vis=1&url=https%3A%2F%2Fwww.dailymail.co.uk%2Ffemail%2Farticle-4211380%2FBeauty-blogger-s-fringe-cutting-hack-goes-wrong.html:17:15",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'parentElement' of…ogger-s-fringe-cutting-hack-goes-wrong.html:17:15"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'parentElement' of null"
+            }
+          ]
+        }
+      },
+      "executionContextId": 29
+    }
+  },
+  {
+    "timestamp": 1583006880539.185,
+    "exceptionDetails": {
+      "exceptionId": 4,
+      "text": "Uncaught",
+      "lineNumber": 99,
+      "columnNumber": 18,
+      "url": "https://securepubads.g.doubleclick.net/gampad/ads?gdfp_req=1&glade_req=1&glv=36&dt=1583006880230&output=html&iu=%2F5765%2Fdailymail.uk%2Fdm_dmteadspassback_art&sz=480x270&adsid=NT&npa=1&guci=1.2.0.0.2.1.0&sfv=1-0-29&correlator=269418066106582&adk=1744245582&biw=1280&bih=600&adx=0&ady=0&oid=3&u_sd=1&ifi=1&vis=1&url=https%3A%2F%2Fwww.dailymail.co.uk%2Ffemail%2Farticle-4211380%2FBeauty-blogger-s-fringe-cutting-hack-goes-wrong.html",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "460",
+            "url": "https://securepubads.g.doubleclick.net/gampad/ads?gdfp_req=1&glade_req=1&glv=36&dt=1583006880230&output=html&iu=%2F5765%2Fdailymail.uk%2Fdm_dmteadspassback_art&sz=480x270&adsid=NT&npa=1&guci=1.2.0.0.2.1.0&sfv=1-0-29&correlator=269418066106582&adk=1744245582&biw=1280&bih=600&adx=0&ady=0&oid=3&u_sd=1&ifi=1&vis=1&url=https%3A%2F%2Fwww.dailymail.co.uk%2Ffemail%2Farticle-4211380%2FBeauty-blogger-s-fringe-cutting-hack-goes-wrong.html",
+            "lineNumber": 99,
+            "columnNumber": 18
+          },
+          {
+            "functionName": "",
+            "scriptId": "460",
+            "url": "https://securepubads.g.doubleclick.net/gampad/ads?gdfp_req=1&glade_req=1&glv=36&dt=1583006880230&output=html&iu=%2F5765%2Fdailymail.uk%2Fdm_dmteadspassback_art&sz=480x270&adsid=NT&npa=1&guci=1.2.0.0.2.1.0&sfv=1-0-29&correlator=269418066106582&adk=1744245582&biw=1280&bih=600&adx=0&ady=0&oid=3&u_sd=1&ifi=1&vis=1&url=https%3A%2F%2Fwww.dailymail.co.uk%2Ffemail%2Farticle-4211380%2FBeauty-blogger-s-fringe-cutting-hack-goes-wrong.html",
+            "lineNumber": 115,
+            "columnNumber": 2
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "DOMException",
+        "description": "DOMException: Blocked a frame with origin \"https://securepubads.g.doubleclick.net\" from accessing a cross-origin frame.\n    at https://securepubads.g.doubleclick.net/gampad/ads?gdfp_req=1&glade_req=1&glv=36&dt=1583006880230&output=html&iu=%2F5765%2Fdailymail.uk%2Fdm_dmteadspassback_art&sz=480x270&adsid=NT&npa=1&guci=1.2.0.0.2.1.0&sfv=1-0-29&correlator=269418066106582&adk=1744245582&biw=1280&bih=600&adx=0&ady=0&oid=3&u_sd=1&ifi=1&vis=1&url=https%3A%2F%2Fwww.dailymail.co.uk%2Ffemail%2Farticle-4211380%2FBeauty-blogger-s-fringe-cutting-hack-goes-wrong.html:100:19\n    at https://securepubads.g.doubleclick.net/gampad/ads?gdfp_req=1&glade_req=1&glv=36&dt=1583006880230&output=html&iu=%2F5765%2Fdailymail.uk%2Fdm_dmteadspassback_art&sz=480x270&adsid=NT&npa=1&guci=1.2.0.0.2.1.0&sfv=1-0-29&correlator=269418066106582&adk=1744245582&biw=1280&bih=600&adx=0&ady=0&oid=3&u_sd=1&ifi=1&vis=1&url=https%3A%2F%2Fwww.dailymail.co.uk%2Ffemail%2Farticle-4211380%2FBeauty-blogger-s-fringe-cutting-hack-goes-wrong.html:116:3",
+        "objectId": "{\"injectedScriptId\":29,\"id\":3}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "DOMException: Blocked a frame with origin \"https://securepubads.g.doubleclick.net\" from accessing a cross-origin frame.\n    at https://securepubads.g.doubleclick.net/gampad/ads?gdfp_req=1&glade_req=1&glv=36&dt=1583006880230&output=html&iu=%2F5765%2Fdailymail.uk%2Fdm_dmteadspassback_art&sz=480x270&adsid=NT&npa=1&guci=1.2.0.0.2.1.0&sfv=1-0-29&correlator=269418066106582&adk=1744245582&biw=1280&bih=600&adx=0&ady=0&oid=3&u_sd=1&ifi=1&vis=1&url=https%3A%2F%2Fwww.dailymail.co.uk%2Ffemail%2Farticle-4211380%2FBeauty-blogger-s-fringe-cutting-hack-goes-wrong.html:100:19\n    at https://securepubads.g.doubleclick.net/gampad/ads?gdfp_req=1&glade_req=1&glv=36&dt=1583006880230&output=html&iu=%2F5765%2Fdailymail.uk%2Fdm_dmteadspassback_art&sz=480x270&adsid=NT&npa=1&guci=1.2.0.0.2.1.0&sfv=1-0-29&correlator=269418066106582&adk=1744245582&biw=1280&bih=600&adx=0&ady=0&oid=3&u_sd=1&ifi=1&vis=1&url=https%3A%2F%2Fwww.dailymail.co.uk%2Ffemail%2Farticle-4211380%2FBeauty-blogger-s-fringe-cutting-hack-goes-wrong.html:116:3",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "accessor"
+            },
+            {
+              "name": "code",
+              "type": "number",
+              "value": "18"
+            },
+            {
+              "name": "name",
+              "type": "string",
+              "value": "SecurityError"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Blocked a frame with origin \"https://securepubads.…leclick.net\" from accessing a cross-origin frame."
+            }
+          ]
+        }
+      },
+      "executionContextId": 29
+    }
+  }
+]

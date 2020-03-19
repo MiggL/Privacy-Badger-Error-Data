@@ -1,0 +1,63 @@
+[
+  {
+    "timestamp": 1583007211357.561,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 1,
+      "columnNumber": 14492,
+      "url": "https://fogl1onf.com/1401/b.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "getSegments",
+            "scriptId": "76",
+            "url": "https://fogl1onf.com/1401/b.js",
+            "lineNumber": 1,
+            "columnNumber": 14492
+          },
+          {
+            "functionName": "done",
+            "scriptId": "76",
+            "url": "https://fogl1onf.com/1401/b.js",
+            "lineNumber": 1,
+            "columnNumber": 26567
+          },
+          {
+            "functionName": "",
+            "scriptId": "76",
+            "url": "https://fogl1onf.com/1401/b.js",
+            "lineNumber": 1,
+            "columnNumber": 26863
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: d.value.replace is not a function\n    at Object.getSegments (https://fogl1onf.com/1401/b.js:2:14493)\n    at Object.done (https://fogl1onf.com/1401/b.js:2:26568)\n    at https://fogl1onf.com/1401/b.js:2:26864",
+        "objectId": "{\"injectedScriptId\":7,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: d.value.replace is not a function\n    at Object.getSegments (https://fogl1onf.com/1401/b.js:2:14493)\n    at Object.done (https://fogl1onf.com/1401/b.js:2:26568)\n    at https://fogl1onf.com/1401/b.js:2:26864",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: d.value.replace is not a function\n    a…68)\n    at https://fogl1onf.com/1401/b.js:2:26864"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "d.value.replace is not a function"
+            }
+          ]
+        }
+      },
+      "executionContextId": 7
+    }
+  }
+]

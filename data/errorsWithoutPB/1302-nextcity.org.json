@@ -1,0 +1,77 @@
+[
+  {
+    "timestamp": 1583001370210.74,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 39,
+      "columnNumber": 7858,
+      "url": "https://nextamericancity.disqus.com/embed.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "k",
+            "scriptId": "76",
+            "url": "https://nextamericancity.disqus.com/embed.js",
+            "lineNumber": 39,
+            "columnNumber": 7858
+          },
+          {
+            "functionName": "l",
+            "scriptId": "76",
+            "url": "https://nextamericancity.disqus.com/embed.js",
+            "lineNumber": 39,
+            "columnNumber": 7929
+          },
+          {
+            "functionName": "i.toJSON",
+            "scriptId": "76",
+            "url": "https://nextamericancity.disqus.com/embed.js",
+            "lineNumber": 39,
+            "columnNumber": 12293
+          },
+          {
+            "functionName": "c.loadEmbed",
+            "scriptId": "76",
+            "url": "https://nextamericancity.disqus.com/embed.js",
+            "lineNumber": 41,
+            "columnNumber": 885
+          },
+          {
+            "functionName": "",
+            "scriptId": "76",
+            "url": "https://nextamericancity.disqus.com/embed.js",
+            "lineNumber": 41,
+            "columnNumber": 2843
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'appendChild' of null\n    at k (https://nextamericancity.disqus.com/embed.js:40:7859)\n    at Object.l [as isSerif] (https://nextamericancity.disqus.com/embed.js:40:7930)\n    at h.i.toJSON (https://nextamericancity.disqus.com/embed.js:40:12294)\n    at Object.c.loadEmbed [as _loadEmbed] (https://nextamericancity.disqus.com/embed.js:42:886)\n    at https://nextamericancity.disqus.com/embed.js:42:2844",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'appendChild' of null\n    at k (https://nextamericancity.disqus.com/embed.js:40:7859)\n    at Object.l [as isSerif] (https://nextamericancity.disqus.com/embed.js:40:7930)\n    at h.i.toJSON (https://nextamericancity.disqus.com/embed.js:40:12294)\n    at Object.c.loadEmbed [as _loadEmbed] (https://nextamericancity.disqus.com/embed.js:42:886)\n    at https://nextamericancity.disqus.com/embed.js:42:2844",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'appendChild' of n…ps://nextamericancity.disqus.com/embed.js:42:2844"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'appendChild' of null"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

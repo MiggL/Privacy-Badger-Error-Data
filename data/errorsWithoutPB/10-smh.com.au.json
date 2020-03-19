@@ -1,0 +1,143 @@
+[
+  {
+    "timestamp": 1583013303920.488,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught (in promise)",
+      "lineNumber": 0,
+      "columnNumber": 93589,
+      "url": "https://www.smh.com.au/assets/client.b24690ee3221e74935d2.chunk.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "38",
+            "url": "https://www.smh.com.au/assets/client.b24690ee3221e74935d2.chunk.js",
+            "lineNumber": 0,
+            "columnNumber": 93589
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "Error",
+        "description": "Error: Paywall front:getdata timed out\n    at https://www.smh.com.au/assets/client.b24690ee3221e74935d2.chunk.js:1:93590",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "Error: Paywall front:getdata timed out\n    at https://www.smh.com.au/assets/client.b24690ee3221e74935d2.chunk.js:1:93590",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "Error: Paywall front:getdata timed out\n    at http…sets/client.b24690ee3221e74935d2.chunk.js:1:93590"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Paywall front:getdata timed out"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583013304283.9019,
+    "exceptionDetails": {
+      "exceptionId": 2,
+      "text": "Uncaught (in promise)",
+      "lineNumber": 0,
+      "columnNumber": 93589,
+      "url": "https://www.smh.com.au/assets/client.b24690ee3221e74935d2.chunk.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "38",
+            "url": "https://www.smh.com.au/assets/client.b24690ee3221e74935d2.chunk.js",
+            "lineNumber": 0,
+            "columnNumber": 93589
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "Error",
+        "description": "Error: Paywall front:getdata timed out\n    at https://www.smh.com.au/assets/client.b24690ee3221e74935d2.chunk.js:1:93590",
+        "objectId": "{\"injectedScriptId\":3,\"id\":2}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "Error: Paywall front:getdata timed out\n    at https://www.smh.com.au/assets/client.b24690ee3221e74935d2.chunk.js:1:93590",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "Error: Paywall front:getdata timed out\n    at http…sets/client.b24690ee3221e74935d2.chunk.js:1:93590"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Paywall front:getdata timed out"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583013304332.1682,
+    "exceptionDetails": {
+      "exceptionId": 3,
+      "text": "Uncaught (in promise)",
+      "lineNumber": 0,
+      "columnNumber": 93589,
+      "url": "https://www.smh.com.au/assets/client.b24690ee3221e74935d2.chunk.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "38",
+            "url": "https://www.smh.com.au/assets/client.b24690ee3221e74935d2.chunk.js",
+            "lineNumber": 0,
+            "columnNumber": 93589
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "Error",
+        "description": "Error: AudienceSegments front:getdata timed out\n    at https://www.smh.com.au/assets/client.b24690ee3221e74935d2.chunk.js:1:93590",
+        "objectId": "{\"injectedScriptId\":3,\"id\":3}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "Error: AudienceSegments front:getdata timed out\n    at https://www.smh.com.au/assets/client.b24690ee3221e74935d2.chunk.js:1:93590",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "Error: AudienceSegments front:getdata timed out\n  …sets/client.b24690ee3221e74935d2.chunk.js:1:93590"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "AudienceSegments front:getdata timed out"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

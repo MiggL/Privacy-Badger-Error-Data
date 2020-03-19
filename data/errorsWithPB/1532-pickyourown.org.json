@@ -1,0 +1,49 @@
+[
+  {
+    "timestamp": 1583418215786.371,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 909,
+      "columnNumber": 11,
+      "url": "http://www.pickyourown.org/",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "82",
+            "url": "http://www.pickyourown.org/",
+            "lineNumber": 909,
+            "columnNumber": 11
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: $(...).imageMapResize is not a function\n    at http://www.pickyourown.org/:910:12",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: $(...).imageMapResize is not a function\n    at http://www.pickyourown.org/:910:12",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: $(...).imageMapResize is not a function\n    at http://www.pickyourown.org/:910:12"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "$(...).imageMapResize is not a function"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

@@ -1,0 +1,477 @@
+[
+  {
+    "timestamp": 1582818815292.754,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 0,
+      "columnNumber": 519,
+      "url": "https://www.smartwool.com/wcsstore/swl/153ecfceaa/js/wcs/view/vfdp-s7-viewer/helpers.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "r",
+            "scriptId": "124",
+            "url": "https://www.smartwool.com/wcsstore/swl/153ecfceaa/js/wcs/view/vfdp-s7-viewer/helpers.js",
+            "lineNumber": 0,
+            "columnNumber": 519
+          },
+          {
+            "functionName": "r",
+            "scriptId": "124",
+            "url": "https://www.smartwool.com/wcsstore/swl/153ecfceaa/js/wcs/view/vfdp-s7-viewer/helpers.js",
+            "lineNumber": 0,
+            "columnNumber": 544
+          },
+          {
+            "functionName": "r",
+            "scriptId": "124",
+            "url": "https://www.smartwool.com/wcsstore/swl/153ecfceaa/js/wcs/view/vfdp-s7-viewer/helpers.js",
+            "lineNumber": 0,
+            "columnNumber": 544
+          },
+          {
+            "functionName": "r",
+            "scriptId": "124",
+            "url": "https://www.smartwool.com/wcsstore/swl/153ecfceaa/js/wcs/view/vfdp-s7-viewer/helpers.js",
+            "lineNumber": 0,
+            "columnNumber": 485
+          },
+          {
+            "functionName": "setConfig",
+            "scriptId": "125",
+            "url": "https://www.smartwool.com/wcsstore/swl/153ecfceaa/js/wcs/view/vfdp-s7-viewer/config.js",
+            "lineNumber": 0,
+            "columnNumber": 2741
+          },
+          {
+            "functionName": "onConfigChange",
+            "scriptId": "108",
+            "url": "https://www.smartwool.com/wcsstore/swl/153ecfceaa/js/wcs/view/vfdp-s7-viewer/app.js",
+            "lineNumber": 0,
+            "columnNumber": 22692
+          },
+          {
+            "functionName": "",
+            "scriptId": "108",
+            "url": "https://www.smartwool.com/wcsstore/swl/153ecfceaa/js/wcs/view/vfdp-s7-viewer/app.js",
+            "lineNumber": 0,
+            "columnNumber": 14960
+          },
+          {
+            "functionName": "",
+            "scriptId": "108",
+            "url": "https://www.smartwool.com/wcsstore/swl/153ecfceaa/js/wcs/view/vfdp-s7-viewer/app.js",
+            "lineNumber": 0,
+            "columnNumber": 14938
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'constructor' of null at r (https://www.smartwool.com/wcsstore/swl/153ecfceaa/js/wcs/view/vfdp-s7-viewer/helpers.js:1:520) at r (https://www.smartwool.com/wcsstore/swl/153ecfceaa/js/wcs/view/vfdp-s7-viewer/helpers.js:1:545) at r (https://www.smartwool.com/wcsstore/swl/153ecfceaa/js/wcs/view/vfdp-s7-viewer/helpers.js:1:545) at Object.r [as extend] (https://www.smartwool.com/wcsstore/swl/153ecfceaa/js/wcs/view/vfdp-s7-viewer/helpers.js:1:486) at e.setConfig (https://www.smartwool.com/wcsstore/swl/153ecfceaa/js/wcs/view/vfdp-s7-viewer/config.js:1:2742) at n.onConfigChange (https://www.smartwool.com/wcsstore/swl/153ecfceaa/js/wcs/view/vfdp-s7-viewer/app.js:1:22693) at https://www.smartwool.com/wcsstore/swl/153ecfceaa/js/wcs/view/vfdp-s7-viewer/app.js:1:14961 at Array.forEach (<anonymous>) at MutationObserver.<anonymous> (https://www.smartwool.com/wcsstore/swl/153ecfceaa/js/wcs/view/vfdp-s7-viewer/app.js:1:14939)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":10}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'constructor' of null at r (https://www.smartwool.com/wcsstore/swl/153ecfceaa/js/wcs/view/vfdp-s7-viewer/helpers.js:1:520) at r (https://www.smartwool.com/wcsstore/swl/153ecfceaa/js/wcs/view/vfdp-s7-viewer/helpers.js:1:545) at r (https://www.smartwool.com/wcsstore/swl/153ecfceaa/js/wcs/view/vfdp-s7-viewer/helpers.js:1:545) at Object.r [as extend] (https://www.smartwool.com/wcsstore/swl/153ecfceaa/js/wcs/view/vfdp-s7-viewer/helpers.js:1:486) at e.setConfig (https://www.smartwool.com/wcsstore/swl/153ecfceaa/js/wcs/view/vfdp-s7-viewer/config.js:1:2742) at n.onConfigChange (https://www.smartwool.com/wcsstore/swl/153ecfceaa/js/wcs/view/vfdp-s7-viewer/app.js:1:22693) at https://www.smartwool.com/wcsstore/swl/153ecfceaa/js/wcs/view/vfdp-s7-viewer/app.js:1:14961 at Array.forEach (<anonymous>) at MutationObserver.<anonymous> (https://www.smartwool.com/wcsstore/swl/153ecfceaa/js/wcs/view/vfdp-s7-viewer/app.js:1:14939)",
+          "overflow": true,
+          "properties": [
+            {
+              "name": "reported",
+              "type": "boolean",
+              "value": "true"
+            },
+            {
+              "name": "timestamp",
+              "type": "number",
+              "value": "1582818815291"
+            },
+            {
+              "name": "lineNumber",
+              "type": "string",
+              "value": "1"
+            },
+            {
+              "name": "columnNumber",
+              "type": "string",
+              "value": "520"
+            },
+            {
+              "name": "functionName",
+              "type": "string",
+              "value": "r"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1582818815570.953,
+    "exceptionDetails": {
+      "exceptionId": 2,
+      "text": "Uncaught",
+      "lineNumber": 15,
+      "columnNumber": 23872,
+      "scriptId": "35",
+      "url": "https://s.go-mpulse.net/boomerang/UK9T8-AF2AR-QGBS9-N8J26-DD3NH",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "initProductAuthentication",
+            "scriptId": "307",
+            "url": "https://www.smartwool.com/wcsstore/swl/153ecfceaa/js/wcs/view/product-form/product-form-add-to-cart.js",
+            "lineNumber": 0,
+            "columnNumber": 673
+          },
+          {
+            "functionName": "initAddToCart",
+            "scriptId": "307",
+            "url": "https://www.smartwool.com/wcsstore/swl/153ecfceaa/js/wcs/view/product-form/product-form-add-to-cart.js",
+            "lineNumber": 0,
+            "columnNumber": 537
+          },
+          {
+            "functionName": "",
+            "scriptId": "307",
+            "url": "https://www.smartwool.com/wcsstore/swl/153ecfceaa/js/wcs/view/product-form/product-form-add-to-cart.js",
+            "lineNumber": 0,
+            "columnNumber": 9141
+          },
+          {
+            "functionName": "each",
+            "scriptId": "105",
+            "url": "https://www.smartwool.com/wcsstore/swl/153ecfceaa/js/npm-lib/jquery.min.js",
+            "lineNumber": 1,
+            "columnNumber": 2776
+          },
+          {
+            "functionName": "each",
+            "scriptId": "105",
+            "url": "https://www.smartwool.com/wcsstore/swl/153ecfceaa/js/npm-lib/jquery.min.js",
+            "lineNumber": 1,
+            "columnNumber": 1418
+          },
+          {
+            "functionName": "l.fn.AddToCartForm",
+            "scriptId": "307",
+            "url": "https://www.smartwool.com/wcsstore/swl/153ecfceaa/js/wcs/view/product-form/product-form-add-to-cart.js",
+            "lineNumber": 0,
+            "columnNumber": 9083
+          },
+          {
+            "functionName": "",
+            "scriptId": "262",
+            "url": "https://www.smartwool.com/wcsstore/swl/153ecfceaa/js/vfdp/view/product-form.js",
+            "lineNumber": 0,
+            "columnNumber": 1460
+          },
+          {
+            "functionName": "execCb",
+            "scriptId": "22",
+            "url": "https://www.smartwool.com/wcsstore/swl/js/lib/require.js?v=247",
+            "lineNumber": 0,
+            "columnNumber": 16716
+          },
+          {
+            "functionName": "check",
+            "scriptId": "22",
+            "url": "https://www.smartwool.com/wcsstore/swl/js/lib/require.js?v=247",
+            "lineNumber": 0,
+            "columnNumber": 10488
+          },
+          {
+            "functionName": "",
+            "scriptId": "22",
+            "url": "https://www.smartwool.com/wcsstore/swl/js/lib/require.js?v=247",
+            "lineNumber": 0,
+            "columnNumber": 12904
+          },
+          {
+            "functionName": "",
+            "scriptId": "22",
+            "url": "https://www.smartwool.com/wcsstore/swl/js/lib/require.js?v=247",
+            "lineNumber": 0,
+            "columnNumber": 1541
+          },
+          {
+            "functionName": "",
+            "scriptId": "22",
+            "url": "https://www.smartwool.com/wcsstore/swl/js/lib/require.js?v=247",
+            "lineNumber": 0,
+            "columnNumber": 13365
+          },
+          {
+            "functionName": "each",
+            "scriptId": "22",
+            "url": "https://www.smartwool.com/wcsstore/swl/js/lib/require.js?v=247",
+            "lineNumber": 0,
+            "columnNumber": 1019
+          },
+          {
+            "functionName": "emit",
+            "scriptId": "22",
+            "url": "https://www.smartwool.com/wcsstore/swl/js/lib/require.js?v=247",
+            "lineNumber": 0,
+            "columnNumber": 13333
+          },
+          {
+            "functionName": "check",
+            "scriptId": "22",
+            "url": "https://www.smartwool.com/wcsstore/swl/js/lib/require.js?v=247",
+            "lineNumber": 0,
+            "columnNumber": 11047
+          },
+          {
+            "functionName": "",
+            "scriptId": "22",
+            "url": "https://www.smartwool.com/wcsstore/swl/js/lib/require.js?v=247",
+            "lineNumber": 0,
+            "columnNumber": 12904
+          },
+          {
+            "functionName": "",
+            "scriptId": "22",
+            "url": "https://www.smartwool.com/wcsstore/swl/js/lib/require.js?v=247",
+            "lineNumber": 0,
+            "columnNumber": 1541
+          },
+          {
+            "functionName": "",
+            "scriptId": "22",
+            "url": "https://www.smartwool.com/wcsstore/swl/js/lib/require.js?v=247",
+            "lineNumber": 0,
+            "columnNumber": 13365
+          },
+          {
+            "functionName": "each",
+            "scriptId": "22",
+            "url": "https://www.smartwool.com/wcsstore/swl/js/lib/require.js?v=247",
+            "lineNumber": 0,
+            "columnNumber": 1019
+          },
+          {
+            "functionName": "emit",
+            "scriptId": "22",
+            "url": "https://www.smartwool.com/wcsstore/swl/js/lib/require.js?v=247",
+            "lineNumber": 0,
+            "columnNumber": 13333
+          },
+          {
+            "functionName": "check",
+            "scriptId": "22",
+            "url": "https://www.smartwool.com/wcsstore/swl/js/lib/require.js?v=247",
+            "lineNumber": 0,
+            "columnNumber": 11047
+          },
+          {
+            "functionName": "",
+            "scriptId": "22",
+            "url": "https://www.smartwool.com/wcsstore/swl/js/lib/require.js?v=247",
+            "lineNumber": 0,
+            "columnNumber": 12904
+          },
+          {
+            "functionName": "",
+            "scriptId": "22",
+            "url": "https://www.smartwool.com/wcsstore/swl/js/lib/require.js?v=247",
+            "lineNumber": 0,
+            "columnNumber": 1541
+          },
+          {
+            "functionName": "",
+            "scriptId": "22",
+            "url": "https://www.smartwool.com/wcsstore/swl/js/lib/require.js?v=247",
+            "lineNumber": 0,
+            "columnNumber": 13365
+          },
+          {
+            "functionName": "each",
+            "scriptId": "22",
+            "url": "https://www.smartwool.com/wcsstore/swl/js/lib/require.js?v=247",
+            "lineNumber": 0,
+            "columnNumber": 1019
+          },
+          {
+            "functionName": "emit",
+            "scriptId": "22",
+            "url": "https://www.smartwool.com/wcsstore/swl/js/lib/require.js?v=247",
+            "lineNumber": 0,
+            "columnNumber": 13333
+          },
+          {
+            "functionName": "check",
+            "scriptId": "22",
+            "url": "https://www.smartwool.com/wcsstore/swl/js/lib/require.js?v=247",
+            "lineNumber": 0,
+            "columnNumber": 11047
+          },
+          {
+            "functionName": "",
+            "scriptId": "22",
+            "url": "https://www.smartwool.com/wcsstore/swl/js/lib/require.js?v=247",
+            "lineNumber": 0,
+            "columnNumber": 12904
+          },
+          {
+            "functionName": "",
+            "scriptId": "22",
+            "url": "https://www.smartwool.com/wcsstore/swl/js/lib/require.js?v=247",
+            "lineNumber": 0,
+            "columnNumber": 1541
+          },
+          {
+            "functionName": "",
+            "scriptId": "22",
+            "url": "https://www.smartwool.com/wcsstore/swl/js/lib/require.js?v=247",
+            "lineNumber": 0,
+            "columnNumber": 13365
+          },
+          {
+            "functionName": "each",
+            "scriptId": "22",
+            "url": "https://www.smartwool.com/wcsstore/swl/js/lib/require.js?v=247",
+            "lineNumber": 0,
+            "columnNumber": 1019
+          },
+          {
+            "functionName": "emit",
+            "scriptId": "22",
+            "url": "https://www.smartwool.com/wcsstore/swl/js/lib/require.js?v=247",
+            "lineNumber": 0,
+            "columnNumber": 13333
+          },
+          {
+            "functionName": "check",
+            "scriptId": "22",
+            "url": "https://www.smartwool.com/wcsstore/swl/js/lib/require.js?v=247",
+            "lineNumber": 0,
+            "columnNumber": 11047
+          },
+          {
+            "functionName": "",
+            "scriptId": "22",
+            "url": "https://www.smartwool.com/wcsstore/swl/js/lib/require.js?v=247",
+            "lineNumber": 0,
+            "columnNumber": 12904
+          },
+          {
+            "functionName": "",
+            "scriptId": "22",
+            "url": "https://www.smartwool.com/wcsstore/swl/js/lib/require.js?v=247",
+            "lineNumber": 0,
+            "columnNumber": 1541
+          },
+          {
+            "functionName": "",
+            "scriptId": "22",
+            "url": "https://www.smartwool.com/wcsstore/swl/js/lib/require.js?v=247",
+            "lineNumber": 0,
+            "columnNumber": 13365
+          },
+          {
+            "functionName": "each",
+            "scriptId": "22",
+            "url": "https://www.smartwool.com/wcsstore/swl/js/lib/require.js?v=247",
+            "lineNumber": 0,
+            "columnNumber": 1019
+          },
+          {
+            "functionName": "emit",
+            "scriptId": "22",
+            "url": "https://www.smartwool.com/wcsstore/swl/js/lib/require.js?v=247",
+            "lineNumber": 0,
+            "columnNumber": 13333
+          },
+          {
+            "functionName": "check",
+            "scriptId": "22",
+            "url": "https://www.smartwool.com/wcsstore/swl/js/lib/require.js?v=247",
+            "lineNumber": 0,
+            "columnNumber": 11047
+          },
+          {
+            "functionName": "enable",
+            "scriptId": "22",
+            "url": "https://www.smartwool.com/wcsstore/swl/js/lib/require.js?v=247",
+            "lineNumber": 0,
+            "columnNumber": 13231
+          },
+          {
+            "functionName": "init",
+            "scriptId": "22",
+            "url": "https://www.smartwool.com/wcsstore/swl/js/lib/require.js?v=247",
+            "lineNumber": 0,
+            "columnNumber": 9594
+          },
+          {
+            "functionName": "a",
+            "scriptId": "22",
+            "url": "https://www.smartwool.com/wcsstore/swl/js/lib/require.js?v=247",
+            "lineNumber": 0,
+            "columnNumber": 8294
+          },
+          {
+            "functionName": "completeLoad",
+            "scriptId": "22",
+            "url": "https://www.smartwool.com/wcsstore/swl/js/lib/require.js?v=247",
+            "lineNumber": 0,
+            "columnNumber": 15951
+          },
+          {
+            "functionName": "onScriptLoad",
+            "scriptId": "22",
+            "url": "https://www.smartwool.com/wcsstore/swl/js/lib/require.js?v=247",
+            "lineNumber": 0,
+            "columnNumber": 16871
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'authenticatedOnlyAddToCart' of undefined at n.initProductAuthentication (https://www.smartwool.com/wcsstore/swl/153ecfceaa/js/wcs/view/product-form/product-form-add-to-cart.js:1:674) at n.initAddToCart (https://www.smartwool.com/wcsstore/swl/153ecfceaa/js/wcs/view/product-form/product-form-add-to-cart.js:1:538) at HTMLFormElement.<anonymous> (https://www.smartwool.com/wcsstore/swl/153ecfceaa/js/wcs/view/product-form/product-form-add-to-cart.js:1:9142) at Function.each (https://www.smartwool.com/wcsstore/swl/153ecfceaa/js/npm-lib/jquery.min.js:2:2777) at k.fn.init.each (https://www.smartwool.com/wcsstore/swl/153ecfceaa/js/npm-lib/jquery.min.js:2:1419) at k.fn.init.l.fn.AddToCartForm (https://www.smartwool.com/wcsstore/swl/153ecfceaa/js/wcs/view/product-form/product-form-add-to-cart.js:1:9084) at https://www.smartwool.com/wcsstore/swl/153ecfceaa/js/vfdp/view/product-form.js:1:1461 at Object.execCb (https://www.smartwool.com/wcsstore/swl/js/lib/require.js?v=247:1:16717) at e.check (https://www.smartwool.com/wcsstore/swl/js/lib/require.js?v=247:1:10489) at e.<anonymous> (https://www.smartwool.com/wcsstore/swl/js/lib/require.js?v=247:1:12905)",
+        "objectId": "{\"injectedScriptId\":5,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'authenticatedOnlyAddToCart' of undefined at n.initProductAuthentication (https://www.smartwool.com/wcsstore/swl/153ecfceaa/js/wcs/view/product-form/product-form-add-to-cart.js:1:674) at n.initAddToCart (https://www.smartwool.com/wcsstore/swl/153ecfceaa/js/wcs/view/product-form/product-form-add-to-cart.js:1:538) at HTMLFormElement.<anonymous> (https://www.smartwool.com/wcsstore/swl/153ecfceaa/js/wcs/view/product-form/product-form-add-to-cart.js:1:9142) at Function.each (https://www.smartwool.com/wcsstore/swl/153ecfceaa/js/npm-lib/jquery.min.js:2:2777) at k.fn.init.each (https://www.smartwool.com/wcsstore/swl/153ecfceaa/js/npm-lib/jquery.min.js:2:1419) at k.fn.init.l.fn.AddToCartForm (https://www.smartwool.com/wcsstore/swl/153ecfceaa/js/wcs/view/product-form/product-form-add-to-cart.js:1:9084) at https://www.smartwool.com/wcsstore/swl/153ecfceaa/js/vfdp/view/product-form.js:1:1461 at Object.execCb (https://www.smartwool.com/wcsstore/swl/js/lib/require.js?v=247:1:16717) at e.check (https://www.smartwool.com/wcsstore/swl/js/lib/require.js?v=247:1:10489) at e.<anonymous> (https://www.smartwool.com/wcsstore/swl/js/lib/require.js?v=247:1:12905)",
+          "overflow": true,
+          "properties": [
+            {
+              "name": "reported",
+              "type": "boolean",
+              "value": "true"
+            },
+            {
+              "name": "timestamp",
+              "type": "number",
+              "value": "1582818815570"
+            },
+            {
+              "name": "lineNumber",
+              "type": "string",
+              "value": "1"
+            },
+            {
+              "name": "columnNumber",
+              "type": "string",
+              "value": "674"
+            },
+            {
+              "name": "functionName",
+              "type": "string",
+              "value": "n.initProductAuthentication"
+            }
+          ]
+        }
+      },
+      "executionContextId": 5
+    }
+  }
+]

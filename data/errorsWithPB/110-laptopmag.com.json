@@ -1,0 +1,348 @@
+[
+  {
+    "timestamp": 1583758322618.4548,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught (in promise)",
+      "lineNumber": 15,
+      "columnNumber": 114941,
+      "url": "https://vanilla.futurecdn.net/laptopmag/165949/media/js/header/header.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "48",
+            "url": "https://vanilla.futurecdn.net/laptopmag/165949/media/js/header/header.js",
+            "lineNumber": 15,
+            "columnNumber": 114941
+          },
+          {
+            "functionName": "",
+            "scriptId": "48",
+            "url": "https://vanilla.futurecdn.net/laptopmag/165949/media/js/header/header.js",
+            "lineNumber": 41,
+            "columnNumber": 182356
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot create property 'supplement' on boolean 'false'\n    at Object.fromError (https://vanilla.futurecdn.net/laptopmag/165949/media/js/header/header.js:16:114942)\n    at https://vanilla.futurecdn.net/laptopmag/165949/media/js/header/header.js:42:182357",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot create property 'supplement' on boolean 'false'\n    at Object.fromError (https://vanilla.futurecdn.net/laptopmag/165949/media/js/header/header.js:16:114942)\n    at https://vanilla.futurecdn.net/laptopmag/165949/media/js/header/header.js:42:182357",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot create property 'supplement' on …topmag/165949/media/js/header/header.js:42:182357"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot create property 'supplement' on boolean 'false'"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583758322618.668,
+    "exceptionDetails": {
+      "exceptionId": 2,
+      "text": "Uncaught (in promise)",
+      "lineNumber": 15,
+      "columnNumber": 114941,
+      "url": "https://vanilla.futurecdn.net/laptopmag/165949/media/js/header/header.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "48",
+            "url": "https://vanilla.futurecdn.net/laptopmag/165949/media/js/header/header.js",
+            "lineNumber": 15,
+            "columnNumber": 114941
+          },
+          {
+            "functionName": "",
+            "scriptId": "48",
+            "url": "https://vanilla.futurecdn.net/laptopmag/165949/media/js/header/header.js",
+            "lineNumber": 41,
+            "columnNumber": 185311
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot create property 'supplement' on boolean 'false'\n    at Object.fromError (https://vanilla.futurecdn.net/laptopmag/165949/media/js/header/header.js:16:114942)\n    at https://vanilla.futurecdn.net/laptopmag/165949/media/js/header/header.js:42:185312",
+        "objectId": "{\"injectedScriptId\":3,\"id\":2}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot create property 'supplement' on boolean 'false'\n    at Object.fromError (https://vanilla.futurecdn.net/laptopmag/165949/media/js/header/header.js:16:114942)\n    at https://vanilla.futurecdn.net/laptopmag/165949/media/js/header/header.js:42:185312",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot create property 'supplement' on …topmag/165949/media/js/header/header.js:42:185312"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot create property 'supplement' on boolean 'false'"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583758324068.158,
+    "exceptionDetails": {
+      "exceptionId": 3,
+      "text": "Uncaught (in promise)",
+      "lineNumber": 28,
+      "columnNumber": 200,
+      "url": "https://www.laptopmag.com/articles/cadillac-could-have-self-driving-car-by-mid-decade",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "25",
+            "url": "https://www.laptopmag.com/articles/cadillac-could-have-self-driving-car-by-mid-decade",
+            "lineNumber": 28,
+            "columnNumber": 200
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'contentWindow' of null\n    at https://www.laptopmag.com/articles/cadillac-could-have-self-driving-car-by-mid-decade:29:201",
+        "objectId": "{\"injectedScriptId\":3,\"id\":3}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'contentWindow' of null\n    at https://www.laptopmag.com/articles/cadillac-could-have-self-driving-car-by-mid-decade:29:201",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'contentWindow' of…-could-have-self-driving-car-by-mid-decade:29:201"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'contentWindow' of null"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583758324068.386,
+    "exceptionDetails": {
+      "exceptionId": 4,
+      "text": "Uncaught (in promise)",
+      "lineNumber": 28,
+      "columnNumber": 416,
+      "url": "https://www.laptopmag.com/articles/cadillac-could-have-self-driving-car-by-mid-decade",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "25",
+            "url": "https://www.laptopmag.com/articles/cadillac-could-have-self-driving-car-by-mid-decade",
+            "lineNumber": 28,
+            "columnNumber": 416
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'contentWindow' of null\n    at https://www.laptopmag.com/articles/cadillac-could-have-self-driving-car-by-mid-decade:29:417",
+        "objectId": "{\"injectedScriptId\":3,\"id\":4}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'contentWindow' of null\n    at https://www.laptopmag.com/articles/cadillac-could-have-self-driving-car-by-mid-decade:29:417",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'contentWindow' of…-could-have-self-driving-car-by-mid-decade:29:417"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'contentWindow' of null"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583758325583.09,
+    "exceptionDetails": {
+      "exceptionId": 5,
+      "text": "Uncaught",
+      "lineNumber": 2,
+      "columnNumber": 329,
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "198",
+            "url": "",
+            "lineNumber": 2,
+            "columnNumber": 329
+          },
+          {
+            "functionName": "",
+            "scriptId": "197",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-KHCPGDF",
+            "lineNumber": 187,
+            "columnNumber": 413
+          },
+          {
+            "functionName": "c",
+            "scriptId": "197",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-KHCPGDF",
+            "lineNumber": 189,
+            "columnNumber": 151
+          },
+          {
+            "functionName": "Cb",
+            "scriptId": "197",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-KHCPGDF",
+            "lineNumber": 76,
+            "columnNumber": 395
+          },
+          {
+            "functionName": "e",
+            "scriptId": "197",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-KHCPGDF",
+            "lineNumber": 104,
+            "columnNumber": 137
+          },
+          {
+            "functionName": "",
+            "scriptId": "197",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-KHCPGDF",
+            "lineNumber": 71,
+            "columnNumber": 113
+          },
+          {
+            "functionName": "",
+            "scriptId": "197",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-KHCPGDF",
+            "lineNumber": 105,
+            "columnNumber": 228
+          },
+          {
+            "functionName": "",
+            "scriptId": "197",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-KHCPGDF",
+            "lineNumber": 104,
+            "columnNumber": 472
+          },
+          {
+            "functionName": "nf",
+            "scriptId": "197",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-KHCPGDF",
+            "lineNumber": 105,
+            "columnNumber": 517
+          },
+          {
+            "functionName": "pf",
+            "scriptId": "197",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-KHCPGDF",
+            "lineNumber": 107,
+            "columnNumber": 226
+          },
+          {
+            "functionName": "hj",
+            "scriptId": "197",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-KHCPGDF",
+            "lineNumber": 150,
+            "columnNumber": 186
+          },
+          {
+            "functionName": "gj",
+            "scriptId": "197",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-KHCPGDF",
+            "lineNumber": 150,
+            "columnNumber": 0
+          },
+          {
+            "functionName": "ij",
+            "scriptId": "197",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-KHCPGDF",
+            "lineNumber": 152,
+            "columnNumber": 356
+          },
+          {
+            "functionName": "a.push",
+            "scriptId": "197",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-KHCPGDF",
+            "lineNumber": 155,
+            "columnNumber": 94
+          },
+          {
+            "functionName": "",
+            "scriptId": "197",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-KHCPGDF",
+            "lineNumber": 154,
+            "columnNumber": 216
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: onesignalConfig is not defined\n    at <anonymous>:3:330\n    at https://www.googletagmanager.com/gtm.js?id=GTM-KHCPGDF:188:414\n    at c (https://www.googletagmanager.com/gtm.js?id=GTM-KHCPGDF:190:152)\n    at Cb (https://www.googletagmanager.com/gtm.js?id=GTM-KHCPGDF:77:396)\n    at e (https://www.googletagmanager.com/gtm.js?id=GTM-KHCPGDF:105:138)\n    at https://www.googletagmanager.com/gtm.js?id=GTM-KHCPGDF:72:114\n    at Array.<anonymous> (https://www.googletagmanager.com/gtm.js?id=GTM-KHCPGDF:106:229)\n    at Object.Zf (https://www.googletagmanager.com/gtm.js?id=GTM-KHCPGDF:105:473)\n    at nf (https://www.googletagmanager.com/gtm.js?id=GTM-KHCPGDF:106:518)\n    at pf (https://www.googletagmanager.com/gtm.js?id=GTM-KHCPGDF:108:227)\n    at hj (https://www.googletagmanager.com/gtm.js?id=GTM-KHCPGDF:151:187)\n    at gj (https://www.googletagmanager.com/gtm.js?id=GTM-KHCPGDF:151:1)\n    at ij (https://www.googletagmanager.com/gtm.js?id=GTM-KHCPGDF:153:357)\n    at Array.a.push (https://www.googletagmanager.com/gtm.js?id=GTM-KHCPGDF:156:95)\n    at https://www.googletagmanager.com/gtm.js?id=GTM-KHCPGDF:155:217",
+        "objectId": "{\"injectedScriptId\":3,\"id\":5}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: onesignalConfig is not defined\n    at <anonymous>:3:330\n    at https://www.googletagmanager.com/gtm.js?id=GTM-KHCPGDF:188:414\n    at c (https://www.googletagmanager.com/gtm.js?id=GTM-KHCPGDF:190:152)\n    at Cb (https://www.googletagmanager.com/gtm.js?id=GTM-KHCPGDF:77:396)\n    at e (https://www.googletagmanager.com/gtm.js?id=GTM-KHCPGDF:105:138)\n    at https://www.googletagmanager.com/gtm.js?id=GTM-KHCPGDF:72:114\n    at Array.<anonymous> (https://www.googletagmanager.com/gtm.js?id=GTM-KHCPGDF:106:229)\n    at Object.Zf (https://www.googletagmanager.com/gtm.js?id=GTM-KHCPGDF:105:473)\n    at nf (https://www.googletagmanager.com/gtm.js?id=GTM-KHCPGDF:106:518)\n    at pf (https://www.googletagmanager.com/gtm.js?id=GTM-KHCPGDF:108:227)\n    at hj (https://www.googletagmanager.com/gtm.js?id=GTM-KHCPGDF:151:187)\n    at gj (https://www.googletagmanager.com/gtm.js?id=GTM-KHCPGDF:151:1)\n    at ij (https://www.googletagmanager.com/gtm.js?id=GTM-KHCPGDF:153:357)\n    at Array.a.push (https://www.googletagmanager.com/gtm.js?id=GTM-KHCPGDF:156:95)\n    at https://www.googletagmanager.com/gtm.js?id=GTM-KHCPGDF:155:217",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: onesignalConfig is not defined\n   …oogletagmanager.com/gtm.js?id=GTM-KHCPGDF:155:217"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "onesignalConfig is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

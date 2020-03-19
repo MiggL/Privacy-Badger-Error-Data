@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": 1583756930266.658,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 483,
+      "columnNumber": 27,
+      "scriptId": "46",
+      "url": "https://www.isi-web.org/",
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "SyntaxError",
+        "description": "SyntaxError: Unexpected token ')'",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "SyntaxError: Unexpected token ')'",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "SyntaxError: Unexpected token ')'"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Unexpected token ')'"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

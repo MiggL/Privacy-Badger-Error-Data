@@ -1,0 +1,168 @@
+[
+  {
+    "timestamp": 1582815533397.404,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught (in promise)",
+      "lineNumber": 130,
+      "columnNumber": 198819,
+      "url": "https://static.chatra.io/jscss/22f42fccb3e64143991dbfea83eed30966bc867e.js?meteor_js_resource=true",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "r",
+            "scriptId": "54",
+            "url": "https://static.chatra.io/jscss/22f42fccb3e64143991dbfea83eed30966bc867e.js?meteor_js_resource=true",
+            "lineNumber": 130,
+            "columnNumber": 198819
+          },
+          {
+            "functionName": "A",
+            "scriptId": "54",
+            "url": "https://static.chatra.io/jscss/22f42fccb3e64143991dbfea83eed30966bc867e.js?meteor_js_resource=true",
+            "lineNumber": 130,
+            "columnNumber": 212863
+          },
+          {
+            "functionName": "j",
+            "scriptId": "54",
+            "url": "https://static.chatra.io/jscss/22f42fccb3e64143991dbfea83eed30966bc867e.js?meteor_js_resource=true",
+            "lineNumber": 16,
+            "columnNumber": 119207
+          },
+          {
+            "functionName": "o",
+            "scriptId": "54",
+            "url": "https://static.chatra.io/jscss/22f42fccb3e64143991dbfea83eed30966bc867e.js?meteor_js_resource=true",
+            "lineNumber": 16,
+            "columnNumber": 120289
+          },
+          {
+            "functionName": "e.<computed>",
+            "scriptId": "54",
+            "url": "https://static.chatra.io/jscss/22f42fccb3e64143991dbfea83eed30966bc867e.js?meteor_js_resource=true",
+            "lineNumber": 16,
+            "columnNumber": 119386
+          },
+          {
+            "functionName": "j",
+            "scriptId": "54",
+            "url": "https://static.chatra.io/jscss/22f42fccb3e64143991dbfea83eed30966bc867e.js?meteor_js_resource=true",
+            "lineNumber": 16,
+            "columnNumber": 119207
+          },
+          {
+            "functionName": "t",
+            "scriptId": "54",
+            "url": "https://static.chatra.io/jscss/22f42fccb3e64143991dbfea83eed30966bc867e.js?meteor_js_resource=true",
+            "lineNumber": 16,
+            "columnNumber": 119442
+          },
+          {
+            "functionName": "",
+            "scriptId": "54",
+            "url": "https://static.chatra.io/jscss/22f42fccb3e64143991dbfea83eed30966bc867e.js?meteor_js_resource=true",
+            "lineNumber": 16,
+            "columnNumber": 119806
+          },
+          {
+            "functionName": "o",
+            "scriptId": "54",
+            "url": "https://static.chatra.io/jscss/22f42fccb3e64143991dbfea83eed30966bc867e.js?meteor_js_resource=true",
+            "lineNumber": 16,
+            "columnNumber": 119780
+          },
+          {
+            "functionName": "o",
+            "scriptId": "54",
+            "url": "https://static.chatra.io/jscss/22f42fccb3e64143991dbfea83eed30966bc867e.js?meteor_js_resource=true",
+            "lineNumber": 16,
+            "columnNumber": 119842
+          },
+          {
+            "functionName": "e.<computed>",
+            "scriptId": "54",
+            "url": "https://static.chatra.io/jscss/22f42fccb3e64143991dbfea83eed30966bc867e.js?meteor_js_resource=true",
+            "lineNumber": 16,
+            "columnNumber": 119386
+          },
+          {
+            "functionName": "f.async",
+            "scriptId": "54",
+            "url": "https://static.chatra.io/jscss/22f42fccb3e64143991dbfea83eed30966bc867e.js?meteor_js_resource=true",
+            "lineNumber": 16,
+            "columnNumber": 116549
+          },
+          {
+            "functionName": "e",
+            "scriptId": "54",
+            "url": "https://static.chatra.io/jscss/22f42fccb3e64143991dbfea83eed30966bc867e.js?meteor_js_resource=true",
+            "lineNumber": 130,
+            "columnNumber": 212655
+          },
+          {
+            "functionName": "",
+            "scriptId": "54",
+            "url": "https://static.chatra.io/jscss/22f42fccb3e64143991dbfea83eed30966bc867e.js?meteor_js_resource=true",
+            "lineNumber": 130,
+            "columnNumber": 147774
+          },
+          {
+            "functionName": "botDetector.js",
+            "scriptId": "54",
+            "url": "https://static.chatra.io/jscss/22f42fccb3e64143991dbfea83eed30966bc867e.js?meteor_js_resource=true",
+            "lineNumber": 130,
+            "columnNumber": 148471
+          },
+          {
+            "functionName": "k",
+            "scriptId": "54",
+            "url": "https://static.chatra.io/jscss/22f42fccb3e64143991dbfea83eed30966bc867e.js?meteor_js_resource=true",
+            "lineNumber": 14,
+            "columnNumber": 1361
+          },
+          {
+            "functionName": "e",
+            "scriptId": "54",
+            "url": "https://static.chatra.io/jscss/22f42fccb3e64143991dbfea83eed30966bc867e.js?meteor_js_resource=true",
+            "lineNumber": 14,
+            "columnNumber": 788
+          },
+          {
+            "functionName": "",
+            "scriptId": "54",
+            "url": "https://static.chatra.io/jscss/22f42fccb3e64143991dbfea83eed30966bc867e.js?meteor_js_resource=true",
+            "lineNumber": 130,
+            "columnNumber": 340462
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Chtr.url is not a function\n    at r (https://static.chatra.io/jscss/22f42fccb3e64143991dbfea83eed30966bc867e.js?meteor_js_resource=true:131:198820)\n    at Object.A (https://static.chatra.io/jscss/22f42fccb3e64143991dbfea83eed30966bc867e.js?meteor_js_resource=true:131:212864)\n    at j (https://static.chatra.io/jscss/22f42fccb3e64143991dbfea83eed30966bc867e.js?meteor_js_resource=true:17:119208)\n    at Generator.o [as _invoke] (https://static.chatra.io/jscss/22f42fccb3e64143991dbfea83eed30966bc867e.js?meteor_js_resource=true:17:120290)\n    at Generator.e.<computed> [as next] (https://static.chatra.io/jscss/22f42fccb3e64143991dbfea83eed30966bc867e.js?meteor_js_resource=true:17:119387)\n    at j (https://static.chatra.io/jscss/22f42fccb3e64143991dbfea83eed30966bc867e.js?meteor_js_resource=true:17:119208)\n    at t (https://static.chatra.io/jscss/22f42fccb3e64143991dbfea83eed30966bc867e.js?meteor_js_resource=true:17:119443)\n    at https://static.chatra.io/jscss/22f42fccb3e64143991dbfea83eed30966bc867e.js?meteor_js_resource=true:17:119807\n    at new Promise (<anonymous>)\n    at o (https://static.chatra.io/jscss/22f42fccb3e64143991dbfea83eed30966bc867e.js?meteor_js_resource=true:17:119781)",
+        "objectId": "{\"injectedScriptId\":26,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Chtr.url is not a function\n    at r (https://static.chatra.io/jscss/22f42fccb3e64143991dbfea83eed30966bc867e.js?meteor_js_resource=true:131:198820)\n    at Object.A (https://static.chatra.io/jscss/22f42fccb3e64143991dbfea83eed30966bc867e.js?meteor_js_resource=true:131:212864)\n    at j (https://static.chatra.io/jscss/22f42fccb3e64143991dbfea83eed30966bc867e.js?meteor_js_resource=true:17:119208)\n    at Generator.o [as _invoke] (https://static.chatra.io/jscss/22f42fccb3e64143991dbfea83eed30966bc867e.js?meteor_js_resource=true:17:120290)\n    at Generator.e.<computed> [as next] (https://static.chatra.io/jscss/22f42fccb3e64143991dbfea83eed30966bc867e.js?meteor_js_resource=true:17:119387)\n    at j (https://static.chatra.io/jscss/22f42fccb3e64143991dbfea83eed30966bc867e.js?meteor_js_resource=true:17:119208)\n    at t (https://static.chatra.io/jscss/22f42fccb3e64143991dbfea83eed30966bc867e.js?meteor_js_resource=true:17:119443)\n    at https://static.chatra.io/jscss/22f42fccb3e64143991dbfea83eed30966bc867e.js?meteor_js_resource=true:17:119807\n    at new Promise (<anonymous>)\n    at o (https://static.chatra.io/jscss/22f42fccb3e64143991dbfea83eed30966bc867e.js?meteor_js_resource=true:17:119781)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Chtr.url is not a function\n    at r (ht…30966bc867e.js?meteor_js_resource=true:17:119781)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Chtr.url is not a function"
+            }
+          ]
+        }
+      },
+      "executionContextId": 26
+    }
+  }
+]

@@ -1,0 +1,98 @@
+[
+  {
+    "timestamp": 1582891131092.3801,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 22,
+      "columnNumber": 878472,
+      "url": "https://services.radio-canada.ca/media/player/client/radiocanadaca_unit",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "t.onEventMetasChanged",
+            "scriptId": "91",
+            "url": "https://services.radio-canada.ca/media/player/client/radiocanadaca_unit",
+            "lineNumber": 22,
+            "columnNumber": 878472
+          },
+          {
+            "functionName": "l",
+            "scriptId": "91",
+            "url": "https://services.radio-canada.ca/media/player/client/radiocanadaca_unit",
+            "lineNumber": 22,
+            "columnNumber": 345242
+          },
+          {
+            "functionName": "w",
+            "scriptId": "91",
+            "url": "https://services.radio-canada.ca/media/player/client/radiocanadaca_unit",
+            "lineNumber": 22,
+            "columnNumber": 345827
+          },
+          {
+            "functionName": "b",
+            "scriptId": "91",
+            "url": "https://services.radio-canada.ca/media/player/client/radiocanadaca_unit",
+            "lineNumber": 22,
+            "columnNumber": 346690
+          },
+          {
+            "functionName": "o.fireEvent",
+            "scriptId": "91",
+            "url": "https://services.radio-canada.ca/media/player/client/radiocanadaca_unit",
+            "lineNumber": 22,
+            "columnNumber": 347522
+          },
+          {
+            "functionName": "fi",
+            "scriptId": "91",
+            "url": "https://services.radio-canada.ca/media/player/client/radiocanadaca_unit",
+            "lineNumber": 22,
+            "columnNumber": 578755
+          },
+          {
+            "functionName": "l",
+            "scriptId": "91",
+            "url": "https://services.radio-canada.ca/media/player/client/radiocanadaca_unit",
+            "lineNumber": 22,
+            "columnNumber": 345242
+          },
+          {
+            "functionName": "",
+            "scriptId": "91",
+            "url": "https://services.radio-canada.ca/media/player/client/radiocanadaca_unit",
+            "lineNumber": 22,
+            "columnNumber": 345661
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'setPlaylist' of null\n    at n.plugin.comscoreV2.Controller.t.onEventMetasChanged (https://services.radio-canada.ca/media/player/client/radiocanadaca_unit:23:878473)\n    at l (https://services.radio-canada.ca/media/player/client/radiocanadaca_unit:23:345243)\n    at w (https://services.radio-canada.ca/media/player/client/radiocanadaca_unit:23:345828)\n    at b (https://services.radio-canada.ca/media/player/client/radiocanadaca_unit:23:346691)\n    at n.controllers.Core.o.fireEvent (https://services.radio-canada.ca/media/player/client/radiocanadaca_unit:23:347523)\n    at fi (https://services.radio-canada.ca/media/player/client/radiocanadaca_unit:23:578756)\n    at l (https://services.radio-canada.ca/media/player/client/radiocanadaca_unit:23:345243)\n    at https://services.radio-canada.ca/media/player/client/radiocanadaca_unit:23:345662",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'setPlaylist' of null\n    at n.plugin.comscoreV2.Controller.t.onEventMetasChanged (https://services.radio-canada.ca/media/player/client/radiocanadaca_unit:23:878473)\n    at l (https://services.radio-canada.ca/media/player/client/radiocanadaca_unit:23:345243)\n    at w (https://services.radio-canada.ca/media/player/client/radiocanadaca_unit:23:345828)\n    at b (https://services.radio-canada.ca/media/player/client/radiocanadaca_unit:23:346691)\n    at n.controllers.Core.o.fireEvent (https://services.radio-canada.ca/media/player/client/radiocanadaca_unit:23:347523)\n    at fi (https://services.radio-canada.ca/media/player/client/radiocanadaca_unit:23:578756)\n    at l (https://services.radio-canada.ca/media/player/client/radiocanadaca_unit:23:345243)\n    at https://services.radio-canada.ca/media/player/client/radiocanadaca_unit:23:345662",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'setPlaylist' of n…/media/player/client/radiocanadaca_unit:23:345662"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'setPlaylist' of null"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

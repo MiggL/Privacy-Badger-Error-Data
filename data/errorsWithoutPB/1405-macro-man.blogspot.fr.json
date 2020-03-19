@@ -1,0 +1,403 @@
+[
+  {
+    "timestamp": 1582819178423.1702,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 2673,
+      "columnNumber": 9,
+      "scriptId": "23",
+      "url": "http://macro-man.blogspot.com/2008/09/tenor-madness.html",
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "SyntaxError",
+        "description": "SyntaxError: Unexpected token 'var'",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "SyntaxError: Unexpected token 'var'",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "SyntaxError: Unexpected token 'var'"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Unexpected token 'var'"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1582819181118.327,
+    "exceptionDetails": {
+      "exceptionId": 2,
+      "text": "Uncaught",
+      "lineNumber": 5567,
+      "columnNumber": 35,
+      "scriptId": "47",
+      "url": "http://macro-man.blogspot.com/2008/09/tenor-madness.html",
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "SyntaxError",
+        "description": "SyntaxError: Invalid or unexpected token",
+        "objectId": "{\"injectedScriptId\":3,\"id\":2}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "SyntaxError: Invalid or unexpected token",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "SyntaxError: Invalid or unexpected token"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Invalid or unexpected token"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1582819182556.478,
+    "exceptionDetails": {
+      "exceptionId": 3,
+      "text": "Uncaught",
+      "lineNumber": 1,
+      "columnNumber": 0,
+      "url": "http://macro-man.blogspot.com/feeds/comments/default?alt=json&callback=ms_recent&&max-results=50",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "56",
+            "url": "http://macro-man.blogspot.com/feeds/comments/default?alt=json&callback=ms_recent&&max-results=50",
+            "lineNumber": 1,
+            "columnNumber": 0
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: ms_recent is not defined\n    at http://macro-man.blogspot.com/feeds/comments/default?alt=json&callback=ms_recent&&max-results=50:2:1",
+        "objectId": "{\"injectedScriptId\":3,\"id\":3}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: ms_recent is not defined\n    at http://macro-man.blogspot.com/feeds/comments/default?alt=json&callback=ms_recent&&max-results=50:2:1",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: ms_recent is not defined\n    at ht…t?alt=json&callback=ms_recent&&max-results=50:2:1"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "ms_recent is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1582819182572.388,
+    "exceptionDetails": {
+      "exceptionId": 4,
+      "text": "Uncaught",
+      "lineNumber": 1,
+      "columnNumber": 0,
+      "url": "http://macro-man.blogspot.com/feeds/posts/default?orderby=published&alt=json-in-script&callback=showrecentpostswiththumbs",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "58",
+            "url": "http://macro-man.blogspot.com/feeds/posts/default?orderby=published&alt=json-in-script&callback=showrecentpostswiththumbs",
+            "lineNumber": 1,
+            "columnNumber": 0
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: showrecentpostswiththumbs is not defined\n    at http://macro-man.blogspot.com/feeds/posts/default?orderby=published&alt=json-in-script&callback=showrecentpostswiththumbs:2:1",
+        "objectId": "{\"injectedScriptId\":3,\"id\":4}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: showrecentpostswiththumbs is not defined\n    at http://macro-man.blogspot.com/feeds/posts/default?orderby=published&alt=json-in-script&callback=showrecentpostswiththumbs:2:1",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: showrecentpostswiththumbs is not d…-in-script&callback=showrecentpostswiththumbs:2:1"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "showrecentpostswiththumbs is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1582819182572.857,
+    "exceptionDetails": {
+      "exceptionId": 5,
+      "text": "Uncaught",
+      "lineNumber": 5613,
+      "columnNumber": 26,
+      "scriptId": "59",
+      "url": "http://macro-man.blogspot.com/2008/09/tenor-madness.html",
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "SyntaxError",
+        "description": "SyntaxError: Invalid or unexpected token",
+        "objectId": "{\"injectedScriptId\":3,\"id\":5}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "SyntaxError: Invalid or unexpected token",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "SyntaxError: Invalid or unexpected token"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Invalid or unexpected token"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1582819182573.185,
+    "exceptionDetails": {
+      "exceptionId": 6,
+      "text": "Uncaught",
+      "lineNumber": 5626,
+      "columnNumber": 25,
+      "scriptId": "60",
+      "url": "http://macro-man.blogspot.com/2008/09/tenor-madness.html",
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "SyntaxError",
+        "description": "SyntaxError: Invalid or unexpected token",
+        "objectId": "{\"injectedScriptId\":3,\"id\":6}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "SyntaxError: Invalid or unexpected token",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "SyntaxError: Invalid or unexpected token"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Invalid or unexpected token"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1582819182575.2512,
+    "exceptionDetails": {
+      "exceptionId": 7,
+      "text": "Uncaught",
+      "lineNumber": 5656,
+      "columnNumber": 29,
+      "scriptId": "62",
+      "url": "http://macro-man.blogspot.com/2008/09/tenor-madness.html",
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "SyntaxError",
+        "description": "SyntaxError: Invalid or unexpected token",
+        "objectId": "{\"injectedScriptId\":3,\"id\":7}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "SyntaxError: Invalid or unexpected token",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "SyntaxError: Invalid or unexpected token"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Invalid or unexpected token"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1582819182676.357,
+    "exceptionDetails": {
+      "exceptionId": 8,
+      "text": "Uncaught",
+      "lineNumber": 5899,
+      "columnNumber": 0,
+      "url": "http://macro-man.blogspot.com/2008/09/tenor-madness.html",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "90",
+            "url": "http://macro-man.blogspot.com/2008/09/tenor-madness.html",
+            "lineNumber": 5899,
+            "columnNumber": 0
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: Prism is not defined\n    at http://macro-man.blogspot.com/2008/09/tenor-madness.html:5900:1",
+        "objectId": "{\"injectedScriptId\":3,\"id\":8}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: Prism is not defined\n    at http://macro-man.blogspot.com/2008/09/tenor-madness.html:5900:1",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: Prism is not defined\n    at http:/…an.blogspot.com/2008/09/tenor-madness.html:5900:1"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Prism is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1582819182731.065,
+    "exceptionDetails": {
+      "exceptionId": 9,
+      "text": "Uncaught",
+      "lineNumber": 5843,
+      "columnNumber": 96,
+      "url": "http://macro-man.blogspot.com/2008/09/tenor-madness.html",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "89",
+            "url": "http://macro-man.blogspot.com/2008/09/tenor-madness.html",
+            "lineNumber": 5843,
+            "columnNumber": 96
+          },
+          {
+            "functionName": "j",
+            "scriptId": "13",
+            "url": "http://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js",
+            "lineNumber": 1,
+            "columnNumber": 26859
+          },
+          {
+            "functionName": "fireWith",
+            "scriptId": "13",
+            "url": "http://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js",
+            "lineNumber": 1,
+            "columnNumber": 27672
+          },
+          {
+            "functionName": "ready",
+            "scriptId": "13",
+            "url": "http://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js",
+            "lineNumber": 1,
+            "columnNumber": 29466
+          },
+          {
+            "functionName": "I",
+            "scriptId": "13",
+            "url": "http://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js",
+            "lineNumber": 1,
+            "columnNumber": 29657
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: $(...).replaceText is not a function\n    at HTMLDocument.<anonymous> (http://macro-man.blogspot.com/2008/09/tenor-madness.html:5844:97)\n    at j (http://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js:2:26860)\n    at Object.fireWith [as resolveWith] (http://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js:2:27673)\n    at Function.ready (http://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js:2:29467)\n    at HTMLDocument.I (http://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js:2:29658)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":9}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: $(...).replaceText is not a function\n    at HTMLDocument.<anonymous> (http://macro-man.blogspot.com/2008/09/tenor-madness.html:5844:97)\n    at j (http://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js:2:26860)\n    at Object.fireWith [as resolveWith] (http://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js:2:27673)\n    at Function.ready (http://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js:2:29467)\n    at HTMLDocument.I (http://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js:2:29658)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: $(...).replaceText is not a function\n  …com/ajax/libs/jquery/2.1.1/jquery.min.js:2:29658)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "$(...).replaceText is not a function"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

@@ -1,0 +1,96 @@
+[
+  {
+    "timestamp": 1583419400100.117,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 1692,
+      "columnNumber": 20,
+      "url": "https://www.sebikes.com/wordpressfiles?p=5969",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "65",
+            "url": "https://www.sebikes.com/wordpressfiles?p=5969",
+            "lineNumber": 1692,
+            "columnNumber": 20
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'addEventListener' of null\n    at https://www.sebikes.com/wordpressfiles?p=5969:1693:21",
+        "objectId": "{\"injectedScriptId\":3,\"id\":2}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'addEventListener' of null\n    at https://www.sebikes.com/wordpressfiles?p=5969:1693:21",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'addEventListener'…s://www.sebikes.com/wordpressfiles?p=5969:1693:21"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'addEventListener' of null"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583419400101.768,
+    "exceptionDetails": {
+      "exceptionId": 2,
+      "text": "Uncaught",
+      "lineNumber": 1799,
+      "columnNumber": 18,
+      "url": "https://www.sebikes.com/wordpressfiles?p=5969",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "70",
+            "url": "https://www.sebikes.com/wordpressfiles?p=5969",
+            "lineNumber": 1799,
+            "columnNumber": 18
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'addEventListener' of null\n    at https://www.sebikes.com/wordpressfiles?p=5969:1800:19",
+        "objectId": "{\"injectedScriptId\":3,\"id\":3}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'addEventListener' of null\n    at https://www.sebikes.com/wordpressfiles?p=5969:1800:19",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'addEventListener'…s://www.sebikes.com/wordpressfiles?p=5969:1800:19"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'addEventListener' of null"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

@@ -1,0 +1,103 @@
+[
+  {
+    "timestamp": 1583009310192.862,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 85,
+      "columnNumber": 16,
+      "url": "https://blog.rocorescue.com/roco-rescue-blog",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "37",
+            "url": "https://blog.rocorescue.com/roco-rescue-blog",
+            "lineNumber": 85,
+            "columnNumber": 16
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: catSetSelectedCSSItem is not defined\n    at https://blog.rocorescue.com/roco-rescue-blog:86:17",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: catSetSelectedCSSItem is not defined\n    at https://blog.rocorescue.com/roco-rescue-blog:86:17",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: catSetSelectedCSSItem is not defin…ttps://blog.rocorescue.com/roco-rescue-blog:86:17"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "catSetSelectedCSSItem is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583009313279.122,
+    "exceptionDetails": {
+      "exceptionId": 2,
+      "text": "Uncaught",
+      "lineNumber": 0,
+      "columnNumber": 10417,
+      "url": "https://blog.rocorescue.com/hubfs/RocoRescue_February2019/Js/lightbox2022.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "each",
+            "scriptId": "39",
+            "url": "https://blog.rocorescue.com/hubfs/RocoRescue_February2019/Js/lightbox2022.js",
+            "lineNumber": 0,
+            "columnNumber": 10417
+          },
+          {
+            "functionName": "_onMessageEventHandler",
+            "scriptId": "61",
+            "url": "https://static.hsappstatic.net/vidyard-embed/static-1.17/js/v4.umd.js",
+            "lineNumber": 1,
+            "columnNumber": 3352
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'bind' of undefined\n    at each (https://blog.rocorescue.com/hubfs/RocoRescue_February2019/Js/lightbox2022.js:1:10418)\n    at _onMessageEventHandler (https://static.hsappstatic.net/vidyard-embed/static-1.17/js/v4.umd.js:2:3353)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":2}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'bind' of undefined\n    at each (https://blog.rocorescue.com/hubfs/RocoRescue_February2019/Js/lightbox2022.js:1:10418)\n    at _onMessageEventHandler (https://static.hsappstatic.net/vidyard-embed/static-1.17/js/v4.umd.js:2:3353)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'bind' of undefine…et/vidyard-embed/static-1.17/js/v4.umd.js:2:3353)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'bind' of undefined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

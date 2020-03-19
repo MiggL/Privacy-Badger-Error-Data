@@ -1,0 +1,206 @@
+[
+  {
+    "timestamp": 1583420066432.365,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 2196,
+      "columnNumber": 15,
+      "url": "https://www.telegraph.co.uk/education/educationnews/11973610/Nicky-Morgan-Teachers-must-stop-pressurising-primary-school-children-with-after-test-parties.html",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "155",
+            "url": "https://www.telegraph.co.uk/education/educationnews/11973610/Nicky-Morgan-Teachers-must-stop-pressurising-primary-school-children-with-after-test-parties.html",
+            "lineNumber": 2196,
+            "columnNumber": 15
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: nol_t is not defined\n    at https://www.telegraph.co.uk/education/educationnews/11973610/Nicky-Morgan-Teachers-must-stop-pressurising-primary-school-children-with-after-test-parties.html:2197:16",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: nol_t is not defined\n    at https://www.telegraph.co.uk/education/educationnews/11973610/Nicky-Morgan-Teachers-must-stop-pressurising-primary-school-children-with-after-test-parties.html:2197:16",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: nol_t is not defined\n    at https:…ool-children-with-after-test-parties.html:2197:16"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "nol_t is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583420066440.691,
+    "exceptionDetails": {
+      "exceptionId": 2,
+      "text": "Uncaught",
+      "lineNumber": 148,
+      "columnNumber": 60,
+      "url": "https://www.telegraph.co.uk/education/educationnews/11973610/Nicky-Morgan-Teachers-must-stop-pressurising-primary-school-children-with-after-test-parties.html",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "document.onreadystatechange",
+            "scriptId": "32",
+            "url": "https://www.telegraph.co.uk/education/educationnews/11973610/Nicky-Morgan-Teachers-must-stop-pressurising-primary-school-children-with-after-test-parties.html",
+            "lineNumber": 148,
+            "columnNumber": 60
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot set property 'src' of null\n    at HTMLDocument.document.onreadystatechange (https://www.telegraph.co.uk/education/educationnews/11973610/Nicky-Morgan-Teachers-must-stop-pressurising-primary-school-children-with-after-test-parties.html:149:61)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":2}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot set property 'src' of null\n    at HTMLDocument.document.onreadystatechange (https://www.telegraph.co.uk/education/educationnews/11973610/Nicky-Morgan-Teachers-must-stop-pressurising-primary-school-children-with-after-test-parties.html:149:61)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot set property 'src' of null\n    a…ool-children-with-after-test-parties.html:149:61)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot set property 'src' of null"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583420066903.7832,
+    "exceptionDetails": {
+      "exceptionId": 3,
+      "text": "Uncaught",
+      "lineNumber": 0,
+      "columnNumber": 1,
+      "scriptId": "176",
+      "url": "https://www.telegraph.co.uk/education/educationnews/11973610/Nicky-Morgan-Teachers-must-stop-pressurising-primary-school-children-with-after-test-parties.html",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "103",
+            "url": "https://cf.eip.telegraph.co.uk/assets/_scripts/embed-card.js",
+            "lineNumber": 22,
+            "columnNumber": 32
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "SyntaxError",
+        "description": "SyntaxError: Unexpected token o in JSON at position 1\n    at JSON.parse (<anonymous>)\n    at https://cf.eip.telegraph.co.uk/assets/_scripts/embed-card.js:23:33",
+        "objectId": "{\"injectedScriptId\":3,\"id\":3}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "SyntaxError: Unexpected token o in JSON at position 1\n    at JSON.parse (<anonymous>)\n    at https://cf.eip.telegraph.co.uk/assets/_scripts/embed-card.js:23:33",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "SyntaxError: Unexpected token o in JSON at positio…legraph.co.uk/assets/_scripts/embed-card.js:23:33"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Unexpected token o in JSON at position 1"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583420066909.9841,
+    "exceptionDetails": {
+      "exceptionId": 4,
+      "text": "Uncaught",
+      "lineNumber": 148,
+      "columnNumber": 60,
+      "url": "https://www.telegraph.co.uk/education/educationnews/11973610/Nicky-Morgan-Teachers-must-stop-pressurising-primary-school-children-with-after-test-parties.html",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "document.onreadystatechange",
+            "scriptId": "32",
+            "url": "https://www.telegraph.co.uk/education/educationnews/11973610/Nicky-Morgan-Teachers-must-stop-pressurising-primary-school-children-with-after-test-parties.html",
+            "lineNumber": 148,
+            "columnNumber": 60
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot set property 'src' of null at HTMLDocument.document.onreadystatechange (https://www.telegraph.co.uk/education/educationnews/11973610/Nicky-Morgan-Teachers-must-stop-pressurising-primary-school-children-with-after-test-parties.html:149:61)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":4}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot set property 'src' of null at HTMLDocument.document.onreadystatechange (https://www.telegraph.co.uk/education/educationnews/11973610/Nicky-Morgan-Teachers-must-stop-pressurising-primary-school-children-with-after-test-parties.html:149:61)",
+          "overflow": true,
+          "properties": [
+            {
+              "name": "reported",
+              "type": "boolean",
+              "value": "true"
+            },
+            {
+              "name": "timestamp",
+              "type": "number",
+              "value": "1583420066908"
+            },
+            {
+              "name": "lineNumber",
+              "type": "string",
+              "value": "149"
+            },
+            {
+              "name": "columnNumber",
+              "type": "string",
+              "value": "61"
+            },
+            {
+              "name": "functionName",
+              "type": "string",
+              "value": "HTMLDocument.document.onreadystatechange"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

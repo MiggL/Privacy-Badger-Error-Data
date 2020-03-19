@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": 1582893866105.5142,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 85,
+      "columnNumber": 18671,
+      "scriptId": "22",
+      "url": "https://www.staples.com/Ink-Toner-Finder/cat_SC43",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "48",
+            "url": "https://www.staples.com/Ink-Toner-Finder/cat_SC43",
+            "lineNumber": 826,
+            "columnNumber": 45
+          },
+          {
+            "functionName": "nrWrapper",
+            "scriptId": "22",
+            "url": "https://www.staples.com/Ink-Toner-Finder/cat_SC43",
+            "lineNumber": 85,
+            "columnNumber": 18651
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'addEventListener' of null\n    at HTMLScriptElement.<anonymous> (https://www.staples.com/Ink-Toner-Finder/cat_SC43:827:46)\n    at HTMLScriptElement.nrWrapper (https://www.staples.com/Ink-Toner-Finder/cat_SC43:86:18652)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'addEventListener' of null\n    at HTMLScriptElement.<anonymous> (https://www.staples.com/Ink-Toner-Finder/cat_SC43:827:46)\n    at HTMLScriptElement.nrWrapper (https://www.staples.com/Ink-Toner-Finder/cat_SC43:86:18652)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'addEventListener'…w.staples.com/Ink-Toner-Finder/cat_SC43:86:18652)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'addEventListener' of null"
+            },
+            {
+              "name": "nr@seenError",
+              "type": "boolean",
+              "value": "true"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

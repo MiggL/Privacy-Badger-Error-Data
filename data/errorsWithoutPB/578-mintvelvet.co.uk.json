@@ -1,0 +1,71 @@
+[
+  {
+    "timestamp": 1583008097533.148,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 1,
+      "columnNumber": 31039,
+      "scriptId": "17",
+      "url": "https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "intPhoneNumber",
+            "scriptId": "32",
+            "url": "https://www.mintvelvet.co.uk/product/latte-faux-fur-ear-muffs/4764",
+            "lineNumber": 1699,
+            "columnNumber": 12
+          },
+          {
+            "functionName": "",
+            "scriptId": "32",
+            "url": "https://www.mintvelvet.co.uk/product/latte-faux-fur-ear-muffs/4764",
+            "lineNumber": 1714,
+            "columnNumber": 12
+          },
+          {
+            "functionName": "l",
+            "scriptId": "17",
+            "url": "https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js",
+            "lineNumber": 1,
+            "columnNumber": 29374
+          },
+          {
+            "functionName": "c",
+            "scriptId": "17",
+            "url": "https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js",
+            "lineNumber": 1,
+            "columnNumber": 29676
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: country is not defined\n    at intPhoneNumber (https://www.mintvelvet.co.uk/product/latte-faux-fur-ear-muffs/4764:1700:13)\n    at HTMLDocument.<anonymous> (https://www.mintvelvet.co.uk/product/latte-faux-fur-ear-muffs/4764:1715:13)\n    at l (https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js:2:29375)\n    at c (https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js:2:29677)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: country is not defined\n    at intPhoneNumber (https://www.mintvelvet.co.uk/product/latte-faux-fur-ear-muffs/4764:1700:13)\n    at HTMLDocument.<anonymous> (https://www.mintvelvet.co.uk/product/latte-faux-fur-ear-muffs/4764:1715:13)\n    at l (https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js:2:29375)\n    at c (https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js:2:29677)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: country is not defined\n    at intP…com/ajax/libs/jquery/3.3.1/jquery.min.js:2:29677)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "country is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

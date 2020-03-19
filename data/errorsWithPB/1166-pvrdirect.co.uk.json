@@ -1,0 +1,91 @@
+[
+  {
+    "timestamp": 1583421655970.679,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 140,
+      "columnNumber": 14,
+      "url": "http://www.pvrdirect.co.uk/template/js/megnor/custom.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "41",
+            "url": "http://www.pvrdirect.co.uk/template/js/megnor/custom.js",
+            "lineNumber": 140,
+            "columnNumber": 14
+          },
+          {
+            "functionName": "each",
+            "scriptId": "22",
+            "url": "https://cdn9.bigcommerce.com/r-d79ef59f34ad4127c5535888a4d7ba02a6c23bd6/javascript/jquery/1.7.2/jquery.min.js",
+            "lineNumber": 1,
+            "columnNumber": 11775
+          },
+          {
+            "functionName": "each",
+            "scriptId": "22",
+            "url": "https://cdn9.bigcommerce.com/r-d79ef59f34ad4127c5535888a4d7ba02a6c23bd6/javascript/jquery/1.7.2/jquery.min.js",
+            "lineNumber": 1,
+            "columnNumber": 8303
+          },
+          {
+            "functionName": "productListAutoSet",
+            "scriptId": "41",
+            "url": "http://www.pvrdirect.co.uk/template/js/megnor/custom.js",
+            "lineNumber": 138,
+            "columnNumber": 26
+          },
+          {
+            "functionName": "",
+            "scriptId": "41",
+            "url": "http://www.pvrdirect.co.uk/template/js/megnor/custom.js",
+            "lineNumber": 153,
+            "columnNumber": 26
+          },
+          {
+            "functionName": "dispatch",
+            "scriptId": "22",
+            "url": "https://cdn9.bigcommerce.com/r-d79ef59f34ad4127c5535888a4d7ba02a6c23bd6/javascript/jquery/1.7.2/jquery.min.js",
+            "lineNumber": 2,
+            "columnNumber": 4815
+          },
+          {
+            "functionName": "i",
+            "scriptId": "22",
+            "url": "https://cdn9.bigcommerce.com/r-d79ef59f34ad4127c5535888a4d7ba02a6c23bd6/javascript/jquery/1.7.2/jquery.min.js",
+            "lineNumber": 2,
+            "columnNumber": 708
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'length' of undefined\n    at HTMLUListElement.<anonymous> (http://www.pvrdirect.co.uk/template/js/megnor/custom.js:141:15)\n    at Function.each (https://cdn9.bigcommerce.com/r-d79ef59f34ad4127c5535888a4d7ba02a6c23bd6/javascript/jquery/1.7.2/jquery.min.js:2:11776)\n    at init.each (https://cdn9.bigcommerce.com/r-d79ef59f34ad4127c5535888a4d7ba02a6c23bd6/javascript/jquery/1.7.2/jquery.min.js:2:8304)\n    at productListAutoSet (http://www.pvrdirect.co.uk/template/js/megnor/custom.js:139:27)\n    at http://www.pvrdirect.co.uk/template/js/megnor/custom.js:154:27\n    at dispatch (https://cdn9.bigcommerce.com/r-d79ef59f34ad4127c5535888a4d7ba02a6c23bd6/javascript/jquery/1.7.2/jquery.min.js:3:4816)\n    at i (https://cdn9.bigcommerce.com/r-d79ef59f34ad4127c5535888a4d7ba02a6c23bd6/javascript/jquery/1.7.2/jquery.min.js:3:709)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'length' of undefined\n    at HTMLUListElement.<anonymous> (http://www.pvrdirect.co.uk/template/js/megnor/custom.js:141:15)\n    at Function.each (https://cdn9.bigcommerce.com/r-d79ef59f34ad4127c5535888a4d7ba02a6c23bd6/javascript/jquery/1.7.2/jquery.min.js:2:11776)\n    at init.each (https://cdn9.bigcommerce.com/r-d79ef59f34ad4127c5535888a4d7ba02a6c23bd6/javascript/jquery/1.7.2/jquery.min.js:2:8304)\n    at productListAutoSet (http://www.pvrdirect.co.uk/template/js/megnor/custom.js:139:27)\n    at http://www.pvrdirect.co.uk/template/js/megnor/custom.js:154:27\n    at dispatch (https://cdn9.bigcommerce.com/r-d79ef59f34ad4127c5535888a4d7ba02a6c23bd6/javascript/jquery/1.7.2/jquery.min.js:3:4816)\n    at i (https://cdn9.bigcommerce.com/r-d79ef59f34ad4127c5535888a4d7ba02a6c23bd6/javascript/jquery/1.7.2/jquery.min.js:3:709)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'length' of undefi…3bd6/javascript/jquery/1.7.2/jquery.min.js:3:709)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'length' of undefined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

@@ -1,0 +1,49 @@
+[
+  {
+    "timestamp": 1583757639120.045,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 1042,
+      "columnNumber": 9,
+      "url": "http://www.wwf.org.my/about_wwf/what_we_do/species_main/rhino/",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "31",
+            "url": "http://www.wwf.org.my/about_wwf/what_we_do/species_main/rhino/",
+            "lineNumber": 1042,
+            "columnNumber": 9
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: SWFObject is not defined\n    at http://www.wwf.org.my/about_wwf/what_we_do/species_main/rhino/:1043:10",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: SWFObject is not defined\n    at http://www.wwf.org.my/about_wwf/what_we_do/species_main/rhino/:1043:10",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: SWFObject is not defined\n    at ht…/about_wwf/what_we_do/species_main/rhino/:1043:10"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "SWFObject is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

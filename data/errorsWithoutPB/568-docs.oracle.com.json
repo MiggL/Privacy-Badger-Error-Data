@@ -1,0 +1,56 @@
+[
+  {
+    "timestamp": 1583008188062.734,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 928,
+      "columnNumber": 261,
+      "url": "https://docs.oracle.com/cd/B19306_01/dcommon/js/headfoot.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "checkReady",
+            "scriptId": "12",
+            "url": "https://docs.oracle.com/cd/B19306_01/dcommon/js/headfoot.js",
+            "lineNumber": 928,
+            "columnNumber": 261
+          },
+          {
+            "functionName": "",
+            "scriptId": "12",
+            "url": "https://docs.oracle.com/cd/B19306_01/dcommon/js/headfoot.js",
+            "lineNumber": 982,
+            "columnNumber": 39
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: aList[i].parentNode.parentNode.parentNode.getAttribute is not a function\n    at checkReady (https://docs.oracle.com/cd/B19306_01/dcommon/js/headfoot.js:929:262)\n    at https://docs.oracle.com/cd/B19306_01/dcommon/js/headfoot.js:983:40",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: aList[i].parentNode.parentNode.parentNode.getAttribute is not a function\n    at checkReady (https://docs.oracle.com/cd/B19306_01/dcommon/js/headfoot.js:929:262)\n    at https://docs.oracle.com/cd/B19306_01/dcommon/js/headfoot.js:983:40",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: aList[i].parentNode.parentNode.parentNo…le.com/cd/B19306_01/dcommon/js/headfoot.js:983:40"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "aList[i].parentNode.parentNode.parentNode.getAttribute is not a function"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

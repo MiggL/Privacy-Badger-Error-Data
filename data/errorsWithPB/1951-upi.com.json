@@ -1,0 +1,49 @@
+[
+  {
+    "timestamp": 1582896898020.167,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 904,
+      "columnNumber": 270,
+      "url": "https://www.upi.com/Defense-News/2003/09/27/Media-new-boogeyman-of-Iraq/43851064667720/?ur3=1",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "64",
+            "url": "https://www.upi.com/Defense-News/2003/09/27/Media-new-boogeyman-of-Iraq/43851064667720/?ur3=1",
+            "lineNumber": 904,
+            "columnNumber": 270
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: Insticator is not defined\n    at https://www.upi.com/Defense-News/2003/09/27/Media-new-boogeyman-of-Iraq/43851064667720/?ur3=1:905:271",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: Insticator is not defined\n    at https://www.upi.com/Defense-News/2003/09/27/Media-new-boogeyman-of-Iraq/43851064667720/?ur3=1:905:271",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: Insticator is not defined\n    at h…w-boogeyman-of-Iraq/43851064667720/?ur3=1:905:271"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Insticator is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

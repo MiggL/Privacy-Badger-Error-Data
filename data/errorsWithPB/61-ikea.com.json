@@ -1,0 +1,56 @@
+[
+  {
+    "timestamp": 1583758760928.243,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 0,
+      "columnNumber": 349,
+      "url": "https://www.ikea.com/us/en/local-extensions/header-footer/scripts/tradeDesk.1ce762572c3d8d82d7afdab0.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "47",
+            "url": "https://www.ikea.com/us/en/local-extensions/header-footer/scripts/tradeDesk.1ce762572c3d8d82d7afdab0.js",
+            "lineNumber": 0,
+            "columnNumber": 349
+          },
+          {
+            "functionName": "",
+            "scriptId": "47",
+            "url": "https://www.ikea.com/us/en/local-extensions/header-footer/scripts/tradeDesk.1ce762572c3d8d82d7afdab0.js",
+            "lineNumber": 0,
+            "columnNumber": 4555
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: ttd_dom_ready is not defined\n    at https://www.ikea.com/us/en/local-extensions/header-footer/scripts/tradeDesk.1ce762572c3d8d82d7afdab0.js:1:350\n    at https://www.ikea.com/us/en/local-extensions/header-footer/scripts/tradeDesk.1ce762572c3d8d82d7afdab0.js:1:4556",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: ttd_dom_ready is not defined\n    at https://www.ikea.com/us/en/local-extensions/header-footer/scripts/tradeDesk.1ce762572c3d8d82d7afdab0.js:1:350\n    at https://www.ikea.com/us/en/local-extensions/header-footer/scripts/tradeDesk.1ce762572c3d8d82d7afdab0.js:1:4556",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: ttd_dom_ready is not defined\n    a…ipts/tradeDesk.1ce762572c3d8d82d7afdab0.js:1:4556"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "ttd_dom_ready is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

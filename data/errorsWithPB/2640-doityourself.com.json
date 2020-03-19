@@ -1,0 +1,69 @@
+[
+  {
+    "timestamp": 1582890741699.853,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 182,
+      "columnNumber": 58,
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "processApstag",
+            "scriptId": "33",
+            "url": "",
+            "lineNumber": 182,
+            "columnNumber": 58
+          },
+          {
+            "functionName": "processAdSlots",
+            "scriptId": "33",
+            "url": "",
+            "lineNumber": 230,
+            "columnNumber": 29
+          },
+          {
+            "functionName": "injectMidContentAds",
+            "scriptId": "93",
+            "url": "https://www.doityourself.com/js/chunks/app-ib-inject-ad.js?id=6cf4e8c270858902d672",
+            "lineNumber": 0,
+            "columnNumber": 3531
+          },
+          {
+            "functionName": "",
+            "scriptId": "93",
+            "url": "https://www.doityourself.com/js/chunks/app-ib-inject-ad.js?id=6cf4e8c270858902d672",
+            "lineNumber": 0,
+            "columnNumber": 1076
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'getSlotElementId' of undefined\n    at processApstag (<anonymous>:183:59)\n    at processAdSlots (<anonymous>:231:30)\n    at a.injectMidContentAds (https://www.doityourself.com/js/chunks/app-ib-inject-ad.js?id=6cf4e8c270858902d672:1:3532)\n    at https://www.doityourself.com/js/chunks/app-ib-inject-ad.js?id=6cf4e8c270858902d672:1:1077",
+        "objectId": "{\"injectedScriptId\":3,\"id\":3}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'getSlotElementId' of undefined\n    at processApstag (<anonymous>:183:59)\n    at processAdSlots (<anonymous>:231:30)\n    at a.injectMidContentAds (https://www.doityourself.com/js/chunks/app-ib-inject-ad.js?id=6cf4e8c270858902d672:1:3532)\n    at https://www.doityourself.com/js/chunks/app-ib-inject-ad.js?id=6cf4e8c270858902d672:1:1077",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'getSlotElementId'…pp-ib-inject-ad.js?id=6cf4e8c270858902d672:1:1077"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'getSlotElementId' of undefined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

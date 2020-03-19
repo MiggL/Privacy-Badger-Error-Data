@@ -1,0 +1,291 @@
+[
+  {
+    "timestamp": 1583006112009.5762,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught (in promise)",
+      "lineNumber": 0,
+      "columnNumber": 4708,
+      "url": "https://a.teads.tv/media/format/v3/teads-format.min.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "t.match",
+            "scriptId": "559",
+            "url": "https://a.teads.tv/media/format/v3/teads-format.min.js",
+            "lineNumber": 0,
+            "columnNumber": 4708
+          },
+          {
+            "functionName": "",
+            "scriptId": "559",
+            "url": "https://a.teads.tv/media/format/v3/teads-format.min.js",
+            "lineNumber": 1,
+            "columnNumber": 110313
+          },
+          {
+            "functionName": "t.retrievePayloadFromPublisherCookie",
+            "scriptId": "559",
+            "url": "https://a.teads.tv/media/format/v3/teads-format.min.js",
+            "lineNumber": 1,
+            "columnNumber": 110212
+          },
+          {
+            "functionName": "",
+            "scriptId": "559",
+            "url": "https://a.teads.tv/media/format/v3/teads-format.min.js",
+            "lineNumber": 1,
+            "columnNumber": 107263
+          },
+          {
+            "functionName": "t.requestConsentString",
+            "scriptId": "559",
+            "url": "https://a.teads.tv/media/format/v3/teads-format.min.js",
+            "lineNumber": 1,
+            "columnNumber": 108088
+          },
+          {
+            "functionName": "t",
+            "scriptId": "559",
+            "url": "https://a.teads.tv/media/format/v3/teads-format.min.js",
+            "lineNumber": 1,
+            "columnNumber": 274910
+          },
+          {
+            "functionName": "t.callRAS",
+            "scriptId": "559",
+            "url": "https://a.teads.tv/media/format/v3/teads-format.min.js",
+            "lineNumber": 8,
+            "columnNumber": 42504
+          },
+          {
+            "functionName": "",
+            "scriptId": "559",
+            "url": "https://a.teads.tv/media/format/v3/teads-format.min.js",
+            "lineNumber": 8,
+            "columnNumber": 70555
+          },
+          {
+            "functionName": "E",
+            "scriptId": "559",
+            "url": "https://a.teads.tv/media/format/v3/teads-format.min.js",
+            "lineNumber": 0,
+            "columnNumber": 36296
+          },
+          {
+            "functionName": "t.onReadyState",
+            "scriptId": "559",
+            "url": "https://a.teads.tv/media/format/v3/teads-format.min.js",
+            "lineNumber": 8,
+            "columnNumber": 76892
+          },
+          {
+            "functionName": "t.load",
+            "scriptId": "559",
+            "url": "https://a.teads.tv/media/format/v3/teads-format.min.js",
+            "lineNumber": 8,
+            "columnNumber": 69719
+          },
+          {
+            "functionName": "t.serve",
+            "scriptId": "559",
+            "url": "https://a.teads.tv/media/format/v3/teads-format.min.js",
+            "lineNumber": 8,
+            "columnNumber": 71655
+          },
+          {
+            "functionName": "t.placement",
+            "scriptId": "559",
+            "url": "https://a.teads.tv/media/format/v3/teads-format.min.js",
+            "lineNumber": 8,
+            "columnNumber": 69270
+          },
+          {
+            "functionName": "placement",
+            "scriptId": "559",
+            "url": "https://a.teads.tv/media/format/v3/teads-format.min.js",
+            "lineNumber": 8,
+            "columnNumber": 68495
+          },
+          {
+            "functionName": "ttag",
+            "scriptId": "558",
+            "url": "https://a.teads.tv/page/7458/tag",
+            "lineNumber": 5,
+            "columnNumber": 23
+          }
+        ]
+      },
+      "exception": {
+        "type": "undefined"
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583006112570.394,
+    "exceptionDetails": {
+      "exceptionId": 2,
+      "text": "Uncaught",
+      "lineNumber": 11,
+      "columnNumber": 15,
+      "url": "https://securepubads.g.doubleclick.net/gampad/ads?gdfp_req=1&glade_req=1&glv=36&dt=1583006112364&output=html&iu=%2F5765%2Fdailymail.uk%2Fdm_dmteadspassback_art&sz=480x270&adsid=NT&jar=2020-02-29-19&npa=1&guci=1.2.0.0.2.1.0&sfv=1-0-29&correlator=1157670893001308&adk=3008142187&biw=1280&bih=600&adx=0&ady=0&oid=3&u_sd=1&ifi=1&vis=1&url=https%3A%2F%2Fwww.dailymail.co.uk%2Ffemail%2Ffood%2Farticle-4101212%2FHunky-Turkish-butcher-sends-social-media-frenzy-steamy-videos-chopping-meat-viral.html",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "568",
+            "url": "https://securepubads.g.doubleclick.net/gampad/ads?gdfp_req=1&glade_req=1&glv=36&dt=1583006112364&output=html&iu=%2F5765%2Fdailymail.uk%2Fdm_dmteadspassback_art&sz=480x270&adsid=NT&jar=2020-02-29-19&npa=1&guci=1.2.0.0.2.1.0&sfv=1-0-29&correlator=1157670893001308&adk=3008142187&biw=1280&bih=600&adx=0&ady=0&oid=3&u_sd=1&ifi=1&vis=1&url=https%3A%2F%2Fwww.dailymail.co.uk%2Ffemail%2Ffood%2Farticle-4101212%2FHunky-Turkish-butcher-sends-social-media-frenzy-steamy-videos-chopping-meat-viral.html",
+            "lineNumber": 11,
+            "columnNumber": 15
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "DOMException",
+        "description": "DOMException: Blocked a frame with origin \"https://securepubads.g.doubleclick.net\" from accessing a cross-origin frame.\n    at https://securepubads.g.doubleclick.net/gampad/ads?gdfp_req=1&glade_req=1&glv=36&dt=1583006112364&output=html&iu=%2F5765%2Fdailymail.uk%2Fdm_dmteadspassback_art&sz=480x270&adsid=NT&jar=2020-02-29-19&npa=1&guci=1.2.0.0.2.1.0&sfv=1-0-29&correlator=1157670893001308&adk=3008142187&biw=1280&bih=600&adx=0&ady=0&oid=3&u_sd=1&ifi=1&vis=1&url=https%3A%2F%2Fwww.dailymail.co.uk%2Ffemail%2Ffood%2Farticle-4101212%2FHunky-Turkish-butcher-sends-social-media-frenzy-steamy-videos-chopping-meat-viral.html:12:16",
+        "objectId": "{\"injectedScriptId\":31,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "DOMException: Blocked a frame with origin \"https://securepubads.g.doubleclick.net\" from accessing a cross-origin frame.\n    at https://securepubads.g.doubleclick.net/gampad/ads?gdfp_req=1&glade_req=1&glv=36&dt=1583006112364&output=html&iu=%2F5765%2Fdailymail.uk%2Fdm_dmteadspassback_art&sz=480x270&adsid=NT&jar=2020-02-29-19&npa=1&guci=1.2.0.0.2.1.0&sfv=1-0-29&correlator=1157670893001308&adk=3008142187&biw=1280&bih=600&adx=0&ady=0&oid=3&u_sd=1&ifi=1&vis=1&url=https%3A%2F%2Fwww.dailymail.co.uk%2Ffemail%2Ffood%2Farticle-4101212%2FHunky-Turkish-butcher-sends-social-media-frenzy-steamy-videos-chopping-meat-viral.html:12:16",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "accessor"
+            },
+            {
+              "name": "code",
+              "type": "number",
+              "value": "18"
+            },
+            {
+              "name": "name",
+              "type": "string",
+              "value": "SecurityError"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Blocked a frame with origin \"https://securepubads.…leclick.net\" from accessing a cross-origin frame."
+            }
+          ]
+        }
+      },
+      "executionContextId": 31
+    }
+  },
+  {
+    "timestamp": 1583006112571.157,
+    "exceptionDetails": {
+      "exceptionId": 3,
+      "text": "Uncaught",
+      "lineNumber": 16,
+      "columnNumber": 14,
+      "url": "https://securepubads.g.doubleclick.net/gampad/ads?gdfp_req=1&glade_req=1&glv=36&dt=1583006112364&output=html&iu=%2F5765%2Fdailymail.uk%2Fdm_dmteadspassback_art&sz=480x270&adsid=NT&jar=2020-02-29-19&npa=1&guci=1.2.0.0.2.1.0&sfv=1-0-29&correlator=1157670893001308&adk=3008142187&biw=1280&bih=600&adx=0&ady=0&oid=3&u_sd=1&ifi=1&vis=1&url=https%3A%2F%2Fwww.dailymail.co.uk%2Ffemail%2Ffood%2Farticle-4101212%2FHunky-Turkish-butcher-sends-social-media-frenzy-steamy-videos-chopping-meat-viral.html",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "569",
+            "url": "https://securepubads.g.doubleclick.net/gampad/ads?gdfp_req=1&glade_req=1&glv=36&dt=1583006112364&output=html&iu=%2F5765%2Fdailymail.uk%2Fdm_dmteadspassback_art&sz=480x270&adsid=NT&jar=2020-02-29-19&npa=1&guci=1.2.0.0.2.1.0&sfv=1-0-29&correlator=1157670893001308&adk=3008142187&biw=1280&bih=600&adx=0&ady=0&oid=3&u_sd=1&ifi=1&vis=1&url=https%3A%2F%2Fwww.dailymail.co.uk%2Ffemail%2Ffood%2Farticle-4101212%2FHunky-Turkish-butcher-sends-social-media-frenzy-steamy-videos-chopping-meat-viral.html",
+            "lineNumber": 16,
+            "columnNumber": 14
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'parentElement' of null\n    at https://securepubads.g.doubleclick.net/gampad/ads?gdfp_req=1&glade_req=1&glv=36&dt=1583006112364&output=html&iu=%2F5765%2Fdailymail.uk%2Fdm_dmteadspassback_art&sz=480x270&adsid=NT&jar=2020-02-29-19&npa=1&guci=1.2.0.0.2.1.0&sfv=1-0-29&correlator=1157670893001308&adk=3008142187&biw=1280&bih=600&adx=0&ady=0&oid=3&u_sd=1&ifi=1&vis=1&url=https%3A%2F%2Fwww.dailymail.co.uk%2Ffemail%2Ffood%2Farticle-4101212%2FHunky-Turkish-butcher-sends-social-media-frenzy-steamy-videos-chopping-meat-viral.html:17:15",
+        "objectId": "{\"injectedScriptId\":31,\"id\":2}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'parentElement' of null\n    at https://securepubads.g.doubleclick.net/gampad/ads?gdfp_req=1&glade_req=1&glv=36&dt=1583006112364&output=html&iu=%2F5765%2Fdailymail.uk%2Fdm_dmteadspassback_art&sz=480x270&adsid=NT&jar=2020-02-29-19&npa=1&guci=1.2.0.0.2.1.0&sfv=1-0-29&correlator=1157670893001308&adk=3008142187&biw=1280&bih=600&adx=0&ady=0&oid=3&u_sd=1&ifi=1&vis=1&url=https%3A%2F%2Fwww.dailymail.co.uk%2Ffemail%2Ffood%2Farticle-4101212%2FHunky-Turkish-butcher-sends-social-media-frenzy-steamy-videos-chopping-meat-viral.html:17:15",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'parentElement' of…enzy-steamy-videos-chopping-meat-viral.html:17:15"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'parentElement' of null"
+            }
+          ]
+        }
+      },
+      "executionContextId": 31
+    }
+  },
+  {
+    "timestamp": 1583006112579.99,
+    "exceptionDetails": {
+      "exceptionId": 4,
+      "text": "Uncaught",
+      "lineNumber": 99,
+      "columnNumber": 18,
+      "url": "https://securepubads.g.doubleclick.net/gampad/ads?gdfp_req=1&glade_req=1&glv=36&dt=1583006112364&output=html&iu=%2F5765%2Fdailymail.uk%2Fdm_dmteadspassback_art&sz=480x270&adsid=NT&jar=2020-02-29-19&npa=1&guci=1.2.0.0.2.1.0&sfv=1-0-29&correlator=1157670893001308&adk=3008142187&biw=1280&bih=600&adx=0&ady=0&oid=3&u_sd=1&ifi=1&vis=1&url=https%3A%2F%2Fwww.dailymail.co.uk%2Ffemail%2Ffood%2Farticle-4101212%2FHunky-Turkish-butcher-sends-social-media-frenzy-steamy-videos-chopping-meat-viral.html",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "572",
+            "url": "https://securepubads.g.doubleclick.net/gampad/ads?gdfp_req=1&glade_req=1&glv=36&dt=1583006112364&output=html&iu=%2F5765%2Fdailymail.uk%2Fdm_dmteadspassback_art&sz=480x270&adsid=NT&jar=2020-02-29-19&npa=1&guci=1.2.0.0.2.1.0&sfv=1-0-29&correlator=1157670893001308&adk=3008142187&biw=1280&bih=600&adx=0&ady=0&oid=3&u_sd=1&ifi=1&vis=1&url=https%3A%2F%2Fwww.dailymail.co.uk%2Ffemail%2Ffood%2Farticle-4101212%2FHunky-Turkish-butcher-sends-social-media-frenzy-steamy-videos-chopping-meat-viral.html",
+            "lineNumber": 99,
+            "columnNumber": 18
+          },
+          {
+            "functionName": "",
+            "scriptId": "572",
+            "url": "https://securepubads.g.doubleclick.net/gampad/ads?gdfp_req=1&glade_req=1&glv=36&dt=1583006112364&output=html&iu=%2F5765%2Fdailymail.uk%2Fdm_dmteadspassback_art&sz=480x270&adsid=NT&jar=2020-02-29-19&npa=1&guci=1.2.0.0.2.1.0&sfv=1-0-29&correlator=1157670893001308&adk=3008142187&biw=1280&bih=600&adx=0&ady=0&oid=3&u_sd=1&ifi=1&vis=1&url=https%3A%2F%2Fwww.dailymail.co.uk%2Ffemail%2Ffood%2Farticle-4101212%2FHunky-Turkish-butcher-sends-social-media-frenzy-steamy-videos-chopping-meat-viral.html",
+            "lineNumber": 115,
+            "columnNumber": 2
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "DOMException",
+        "description": "DOMException: Blocked a frame with origin \"https://securepubads.g.doubleclick.net\" from accessing a cross-origin frame.\n    at https://securepubads.g.doubleclick.net/gampad/ads?gdfp_req=1&glade_req=1&glv=36&dt=1583006112364&output=html&iu=%2F5765%2Fdailymail.uk%2Fdm_dmteadspassback_art&sz=480x270&adsid=NT&jar=2020-02-29-19&npa=1&guci=1.2.0.0.2.1.0&sfv=1-0-29&correlator=1157670893001308&adk=3008142187&biw=1280&bih=600&adx=0&ady=0&oid=3&u_sd=1&ifi=1&vis=1&url=https%3A%2F%2Fwww.dailymail.co.uk%2Ffemail%2Ffood%2Farticle-4101212%2FHunky-Turkish-butcher-sends-social-media-frenzy-steamy-videos-chopping-meat-viral.html:100:19\n    at https://securepubads.g.doubleclick.net/gampad/ads?gdfp_req=1&glade_req=1&glv=36&dt=1583006112364&output=html&iu=%2F5765%2Fdailymail.uk%2Fdm_dmteadspassback_art&sz=480x270&adsid=NT&jar=2020-02-29-19&npa=1&guci=1.2.0.0.2.1.0&sfv=1-0-29&correlator=1157670893001308&adk=3008142187&biw=1280&bih=600&adx=0&ady=0&oid=3&u_sd=1&ifi=1&vis=1&url=https%3A%2F%2Fwww.dailymail.co.uk%2Ffemail%2Ffood%2Farticle-4101212%2FHunky-Turkish-butcher-sends-social-media-frenzy-steamy-videos-chopping-meat-viral.html:116:3",
+        "objectId": "{\"injectedScriptId\":31,\"id\":3}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "DOMException: Blocked a frame with origin \"https://securepubads.g.doubleclick.net\" from accessing a cross-origin frame.\n    at https://securepubads.g.doubleclick.net/gampad/ads?gdfp_req=1&glade_req=1&glv=36&dt=1583006112364&output=html&iu=%2F5765%2Fdailymail.uk%2Fdm_dmteadspassback_art&sz=480x270&adsid=NT&jar=2020-02-29-19&npa=1&guci=1.2.0.0.2.1.0&sfv=1-0-29&correlator=1157670893001308&adk=3008142187&biw=1280&bih=600&adx=0&ady=0&oid=3&u_sd=1&ifi=1&vis=1&url=https%3A%2F%2Fwww.dailymail.co.uk%2Ffemail%2Ffood%2Farticle-4101212%2FHunky-Turkish-butcher-sends-social-media-frenzy-steamy-videos-chopping-meat-viral.html:100:19\n    at https://securepubads.g.doubleclick.net/gampad/ads?gdfp_req=1&glade_req=1&glv=36&dt=1583006112364&output=html&iu=%2F5765%2Fdailymail.uk%2Fdm_dmteadspassback_art&sz=480x270&adsid=NT&jar=2020-02-29-19&npa=1&guci=1.2.0.0.2.1.0&sfv=1-0-29&correlator=1157670893001308&adk=3008142187&biw=1280&bih=600&adx=0&ady=0&oid=3&u_sd=1&ifi=1&vis=1&url=https%3A%2F%2Fwww.dailymail.co.uk%2Ffemail%2Ffood%2Farticle-4101212%2FHunky-Turkish-butcher-sends-social-media-frenzy-steamy-videos-chopping-meat-viral.html:116:3",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "accessor"
+            },
+            {
+              "name": "code",
+              "type": "number",
+              "value": "18"
+            },
+            {
+              "name": "name",
+              "type": "string",
+              "value": "SecurityError"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Blocked a frame with origin \"https://securepubads.…leclick.net\" from accessing a cross-origin frame."
+            }
+          ]
+        }
+      },
+      "executionContextId": 31
+    }
+  }
+]

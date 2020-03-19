@@ -1,0 +1,241 @@
+[
+  {
+    "timestamp": 1583013369899.748,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 275,
+      "columnNumber": 20,
+      "url": "https://www.lapeermanufacturing.com/blog/c-clamps-benefits-uses/",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "25",
+            "url": "https://www.lapeermanufacturing.com/blog/c-clamps-benefits-uses/",
+            "lineNumber": 275,
+            "columnNumber": 20
+          },
+          {
+            "functionName": "fire",
+            "scriptId": "24",
+            "url": "https://www.lapeermanufacturing.com/blog/wp-content/themes/lapeer-corner/js/jquery.js",
+            "lineNumber": 3186,
+            "columnNumber": 30
+          },
+          {
+            "functionName": "fireWith",
+            "scriptId": "24",
+            "url": "https://www.lapeermanufacturing.com/blog/wp-content/themes/lapeer-corner/js/jquery.js",
+            "lineNumber": 3316,
+            "columnNumber": 6
+          },
+          {
+            "functionName": "ready",
+            "scriptId": "24",
+            "url": "https://www.lapeermanufacturing.com/blog/wp-content/themes/lapeer-corner/js/jquery.js",
+            "lineNumber": 3535,
+            "columnNumber": 12
+          },
+          {
+            "functionName": "completed",
+            "scriptId": "24",
+            "url": "https://www.lapeermanufacturing.com/blog/wp-content/themes/lapeer-corner/js/jquery.js",
+            "lineNumber": 3551,
+            "columnNumber": 8
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: $(...).foundation is not a function\n    at HTMLDocument.<anonymous> (https://www.lapeermanufacturing.com/blog/c-clamps-benefits-uses/:276:21)\n    at fire (https://www.lapeermanufacturing.com/blog/wp-content/themes/lapeer-corner/js/jquery.js:3187:31)\n    at Object.fireWith [as resolveWith] (https://www.lapeermanufacturing.com/blog/wp-content/themes/lapeer-corner/js/jquery.js:3317:7)\n    at Function.ready (https://www.lapeermanufacturing.com/blog/wp-content/themes/lapeer-corner/js/jquery.js:3536:13)\n    at HTMLDocument.completed (https://www.lapeermanufacturing.com/blog/wp-content/themes/lapeer-corner/js/jquery.js:3552:9)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: $(...).foundation is not a function\n    at HTMLDocument.<anonymous> (https://www.lapeermanufacturing.com/blog/c-clamps-benefits-uses/:276:21)\n    at fire (https://www.lapeermanufacturing.com/blog/wp-content/themes/lapeer-corner/js/jquery.js:3187:31)\n    at Object.fireWith [as resolveWith] (https://www.lapeermanufacturing.com/blog/wp-content/themes/lapeer-corner/js/jquery.js:3317:7)\n    at Function.ready (https://www.lapeermanufacturing.com/blog/wp-content/themes/lapeer-corner/js/jquery.js:3536:13)\n    at HTMLDocument.completed (https://www.lapeermanufacturing.com/blog/wp-content/themes/lapeer-corner/js/jquery.js:3552:9)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: $(...).foundation is not a function\n   …content/themes/lapeer-corner/js/jquery.js:3552:9)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "$(...).foundation is not a function"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583013370195.026,
+    "exceptionDetails": {
+      "exceptionId": 2,
+      "text": "Uncaught",
+      "lineNumber": 18,
+      "columnNumber": 20870,
+      "url": "https://www.lapeermanufacturing.com/blog/wp-content/themes/lapeer-corner/js/foundation.min.js?ver=5.5.3",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "breakpoint",
+            "scriptId": "19",
+            "url": "https://www.lapeermanufacturing.com/blog/wp-content/themes/lapeer-corner/js/foundation.min.js?ver=5.5.3",
+            "lineNumber": 18,
+            "columnNumber": 20870
+          },
+          {
+            "functionName": "",
+            "scriptId": "19",
+            "url": "https://www.lapeermanufacturing.com/blog/wp-content/themes/lapeer-corner/js/foundation.min.js?ver=5.5.3",
+            "lineNumber": 18,
+            "columnNumber": 20434
+          },
+          {
+            "functionName": "each",
+            "scriptId": "15",
+            "url": "https://www.lapeermanufacturing.com/blog/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp",
+            "lineNumber": 1,
+            "columnNumber": 2902
+          },
+          {
+            "functionName": "each",
+            "scriptId": "15",
+            "url": "https://www.lapeermanufacturing.com/blog/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp",
+            "lineNumber": 1,
+            "columnNumber": 845
+          },
+          {
+            "functionName": "resize",
+            "scriptId": "19",
+            "url": "https://www.lapeermanufacturing.com/blog/wp-content/themes/lapeer-corner/js/foundation.min.js?ver=5.5.3",
+            "lineNumber": 18,
+            "columnNumber": 20320
+          },
+          {
+            "functionName": "",
+            "scriptId": "19",
+            "url": "https://www.lapeermanufacturing.com/blog/wp-content/themes/lapeer-corner/js/foundation.min.js?ver=5.5.3",
+            "lineNumber": 18,
+            "columnNumber": 19151
+          },
+          {
+            "functionName": "",
+            "scriptId": "19",
+            "url": "https://www.lapeermanufacturing.com/blog/wp-content/themes/lapeer-corner/js/foundation.min.js?ver=5.5.3",
+            "lineNumber": 16,
+            "columnNumber": 2957
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'topbar' of undefined\n    at Object.breakpoint (https://www.lapeermanufacturing.com/blog/wp-content/themes/lapeer-corner/js/foundation.min.js?ver=5.5.3:19:20871)\n    at HTMLElement.<anonymous> (https://www.lapeermanufacturing.com/blog/wp-content/themes/lapeer-corner/js/foundation.min.js?ver=5.5.3:19:20435)\n    at Function.each (https://www.lapeermanufacturing.com/blog/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp:2:2903)\n    at a.fn.init.each (https://www.lapeermanufacturing.com/blog/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp:2:846)\n    at Object.resize (https://www.lapeermanufacturing.com/blog/wp-content/themes/lapeer-corner/js/foundation.min.js?ver=5.5.3:19:20321)\n    at https://www.lapeermanufacturing.com/blog/wp-content/themes/lapeer-corner/js/foundation.min.js?ver=5.5.3:19:19152\n    at https://www.lapeermanufacturing.com/blog/wp-content/themes/lapeer-corner/js/foundation.min.js?ver=5.5.3:17:2958",
+        "objectId": "{\"injectedScriptId\":3,\"id\":2}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'topbar' of undefined\n    at Object.breakpoint (https://www.lapeermanufacturing.com/blog/wp-content/themes/lapeer-corner/js/foundation.min.js?ver=5.5.3:19:20871)\n    at HTMLElement.<anonymous> (https://www.lapeermanufacturing.com/blog/wp-content/themes/lapeer-corner/js/foundation.min.js?ver=5.5.3:19:20435)\n    at Function.each (https://www.lapeermanufacturing.com/blog/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp:2:2903)\n    at a.fn.init.each (https://www.lapeermanufacturing.com/blog/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp:2:846)\n    at Object.resize (https://www.lapeermanufacturing.com/blog/wp-content/themes/lapeer-corner/js/foundation.min.js?ver=5.5.3:19:20321)\n    at https://www.lapeermanufacturing.com/blog/wp-content/themes/lapeer-corner/js/foundation.min.js?ver=5.5.3:19:19152\n    at https://www.lapeermanufacturing.com/blog/wp-content/themes/lapeer-corner/js/foundation.min.js?ver=5.5.3:17:2958",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'topbar' of undefi…eer-corner/js/foundation.min.js?ver=5.5.3:17:2958"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'topbar' of undefined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583013370419.401,
+    "exceptionDetails": {
+      "exceptionId": 3,
+      "text": "Uncaught",
+      "lineNumber": 0,
+      "columnNumber": 485,
+      "url": "https://www.lapeermanufacturing.com/blog/wp-content/plugins/sharify/admin/inc/sharifycounts.js?ver=1.4",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "20",
+            "url": "https://www.lapeermanufacturing.com/blog/wp-content/plugins/sharify/admin/inc/sharifycounts.js?ver=1.4",
+            "lineNumber": 0,
+            "columnNumber": 485
+          },
+          {
+            "functionName": "i",
+            "scriptId": "15",
+            "url": "https://www.lapeermanufacturing.com/blog/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp",
+            "lineNumber": 1,
+            "columnNumber": 27361
+          },
+          {
+            "functionName": "fireWith",
+            "scriptId": "15",
+            "url": "https://www.lapeermanufacturing.com/blog/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp",
+            "lineNumber": 1,
+            "columnNumber": 28120
+          },
+          {
+            "functionName": "x",
+            "scriptId": "15",
+            "url": "https://www.lapeermanufacturing.com/blog/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp",
+            "lineNumber": 3,
+            "columnNumber": 22574
+          },
+          {
+            "functionName": "c",
+            "scriptId": "15",
+            "url": "https://www.lapeermanufacturing.com/blog/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp",
+            "lineNumber": 3,
+            "columnNumber": 26775
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'share_count' of undefined\n    at Object.success (https://www.lapeermanufacturing.com/blog/wp-content/plugins/sharify/admin/inc/sharifycounts.js?ver=1.4:1:486)\n    at i (https://www.lapeermanufacturing.com/blog/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp:2:27362)\n    at Object.fireWith [as resolveWith] (https://www.lapeermanufacturing.com/blog/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp:2:28121)\n    at x (https://www.lapeermanufacturing.com/blog/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp:4:22575)\n    at XMLHttpRequest.c (https://www.lapeermanufacturing.com/blog/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp:4:26776)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":3}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'share_count' of undefined\n    at Object.success (https://www.lapeermanufacturing.com/blog/wp-content/plugins/sharify/admin/inc/sharifycounts.js?ver=1.4:1:486)\n    at i (https://www.lapeermanufacturing.com/blog/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp:2:27362)\n    at Object.fireWith [as resolveWith] (https://www.lapeermanufacturing.com/blog/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp:2:28121)\n    at x (https://www.lapeermanufacturing.com/blog/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp:4:22575)\n    at XMLHttpRequest.c (https://www.lapeermanufacturing.com/blog/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp:4:26776)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'share_count' of u…cludes/js/jquery/jquery.js?ver=1.12.4-wp:4:26776)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'share_count' of undefined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

@@ -1,0 +1,49 @@
+[
+  {
+    "timestamp": 1583009967421.679,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 5,
+      "columnNumber": 74,
+      "url": "http://parallelbible.com/pr/jude/1-24.htm",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "onload",
+            "scriptId": "13",
+            "url": "http://parallelbible.com/pr/jude/1-24.htm",
+            "lineNumber": 5,
+            "columnNumber": 74
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'reset' of undefined\n    at onload (http://parallelbible.com/pr/jude/1-24.htm:6:75)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'reset' of undefined\n    at onload (http://parallelbible.com/pr/jude/1-24.htm:6:75)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'reset' of undefin… (http://parallelbible.com/pr/jude/1-24.htm:6:75)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'reset' of undefined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

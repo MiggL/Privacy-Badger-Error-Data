@@ -1,0 +1,49 @@
+[
+  {
+    "timestamp": 1583421160513.768,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 61,
+      "columnNumber": 7,
+      "url": "https://img.xooimage.com/files1/4/6/9/script-304d29.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "21",
+            "url": "https://img.xooimage.com/files1/4/6/9/script-304d29.js",
+            "lineNumber": 61,
+            "columnNumber": 7
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: window.attachEvent is not a function\n    at https://img.xooimage.com/files1/4/6/9/script-304d29.js:62:8",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: window.attachEvent is not a function\n    at https://img.xooimage.com/files1/4/6/9/script-304d29.js:62:8",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: window.attachEvent is not a function\n  …g.xooimage.com/files1/4/6/9/script-304d29.js:62:8"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "window.attachEvent is not a function"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

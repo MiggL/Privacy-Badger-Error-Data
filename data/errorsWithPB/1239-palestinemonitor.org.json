@@ -1,0 +1,49 @@
+[
+  {
+    "timestamp": 1583420944866.58,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 45,
+      "columnNumber": 104,
+      "url": "http://www.palestinemonitor.org/details.php?id=s47htia9406yvj25bx7l0",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "onload",
+            "scriptId": "28",
+            "url": "http://www.palestinemonitor.org/details.php?id=s47htia9406yvj25bx7l0",
+            "lineNumber": 45,
+            "columnNumber": 104
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: goforit is not defined\n    at onload (http://www.palestinemonitor.org/details.php?id=s47htia9406yvj25bx7l0:46:105)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: goforit is not defined\n    at onload (http://www.palestinemonitor.org/details.php?id=s47htia9406yvj25bx7l0:46:105)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: goforit is not defined\n    at onlo….org/details.php?id=s47htia9406yvj25bx7l0:46:105)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "goforit is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

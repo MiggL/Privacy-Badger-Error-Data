@@ -1,0 +1,49 @@
+[
+  {
+    "timestamp": 1582891476473.0798,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 657,
+      "columnNumber": 56,
+      "url": "https://www.liveleak.com/browse?q=Pyjamas",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "52",
+            "url": "https://www.liveleak.com/browse?q=Pyjamas",
+            "lineNumber": 657,
+            "columnNumber": 56
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: quantserve is not defined\n    at https://www.liveleak.com/browse?q=Pyjamas:658:57",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: quantserve is not defined\n    at https://www.liveleak.com/browse?q=Pyjamas:658:57",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: quantserve is not defined\n    at https://www.liveleak.com/browse?q=Pyjamas:658:57"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "quantserve is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

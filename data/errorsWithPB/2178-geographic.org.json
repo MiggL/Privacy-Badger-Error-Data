@@ -1,0 +1,150 @@
+[
+  {
+    "timestamp": 1582894923890.002,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 201,
+      "columnNumber": 20,
+      "url": "https://www.geographic.org/cookies.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "cookies",
+            "scriptId": "38",
+            "url": "https://www.geographic.org/cookies.js",
+            "lineNumber": 201,
+            "columnNumber": 20
+          },
+          {
+            "functionName": "",
+            "scriptId": "38",
+            "url": "https://www.geographic.org/cookies.js",
+            "lineNumber": 215,
+            "columnNumber": 4
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'countryCode' of undefined\n    at cookies (https://www.geographic.org/cookies.js:202:21)\n    at https://www.geographic.org/cookies.js:216:5",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'countryCode' of undefined\n    at cookies (https://www.geographic.org/cookies.js:202:21)\n    at https://www.geographic.org/cookies.js:216:5",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'countryCode' of u…   at https://www.geographic.org/cookies.js:216:5"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'countryCode' of undefined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1582894925149.5571,
+    "exceptionDetails": {
+      "exceptionId": 2,
+      "text": "Uncaught",
+      "lineNumber": 32,
+      "columnNumber": 94,
+      "url": "https://www.geographic.org/geographic_names/name.php?uni=-4371089&fid=5582&c=saudi_arabia",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "onload",
+            "scriptId": "60",
+            "url": "https://www.geographic.org/geographic_names/name.php?uni=-4371089&fid=5582&c=saudi_arabia",
+            "lineNumber": 32,
+            "columnNumber": 94
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: initialize is not defined\n    at onload (https://www.geographic.org/geographic_names/name.php?uni=-4371089&fid=5582&c=saudi_arabia:33:95)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":2}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: initialize is not defined\n    at onload (https://www.geographic.org/geographic_names/name.php?uni=-4371089&fid=5582&c=saudi_arabia:33:95)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: initialize is not defined\n    at o…e.php?uni=-4371089&fid=5582&c=saudi_arabia:33:95)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "initialize is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1582894931941.219,
+    "exceptionDetails": {
+      "exceptionId": 3,
+      "text": "Uncaught",
+      "lineNumber": 32,
+      "columnNumber": 94,
+      "url": "https://www.geographic.org/geographic_names/name.php?uni=-4371089&fid=5582&c=saudi_arabia",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "onunload",
+            "scriptId": "61",
+            "url": "https://www.geographic.org/geographic_names/name.php?uni=-4371089&fid=5582&c=saudi_arabia",
+            "lineNumber": 32,
+            "columnNumber": 94
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: GUnload is not defined\n    at onunload (https://www.geographic.org/geographic_names/name.php?uni=-4371089&fid=5582&c=saudi_arabia:33:95)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":3}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: GUnload is not defined\n    at onunload (https://www.geographic.org/geographic_names/name.php?uni=-4371089&fid=5582&c=saudi_arabia:33:95)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: GUnload is not defined\n    at onun…e.php?uni=-4371089&fid=5582&c=saudi_arabia:33:95)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "GUnload is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

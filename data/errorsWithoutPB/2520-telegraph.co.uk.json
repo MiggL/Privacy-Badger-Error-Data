@@ -1,0 +1,64 @@
+[
+  {
+    "timestamp": 1582922113495.5808,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 143,
+      "columnNumber": 60,
+      "url": "https://www.telegraph.co.uk/gardening/3348368/Food-garden-competition-The-entries-so-far.html",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "document.onreadystatechange",
+            "scriptId": "19",
+            "url": "https://www.telegraph.co.uk/gardening/3348368/Food-garden-competition-The-entries-so-far.html",
+            "lineNumber": 143,
+            "columnNumber": 60
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot set property 'src' of null at HTMLDocument.document.onreadystatechange (https://www.telegraph.co.uk/gardening/3348368/Food-garden-competition-The-entries-so-far.html:144:61)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot set property 'src' of null at HTMLDocument.document.onreadystatechange (https://www.telegraph.co.uk/gardening/3348368/Food-garden-competition-The-entries-so-far.html:144:61)",
+          "overflow": true,
+          "properties": [
+            {
+              "name": "reported",
+              "type": "boolean",
+              "value": "true"
+            },
+            {
+              "name": "timestamp",
+              "type": "number",
+              "value": "1582922113494"
+            },
+            {
+              "name": "lineNumber",
+              "type": "string",
+              "value": "144"
+            },
+            {
+              "name": "columnNumber",
+              "type": "string",
+              "value": "61"
+            },
+            {
+              "name": "functionName",
+              "type": "string",
+              "value": "HTMLDocument.document.onreadystatechange"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

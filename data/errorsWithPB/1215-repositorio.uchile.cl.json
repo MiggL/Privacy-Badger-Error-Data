@@ -1,0 +1,63 @@
+[
+  {
+    "timestamp": 1583421152687.704,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 12,
+      "columnNumber": 108,
+      "url": "http://repositorio.uchile.cl/themes/Mirage2/scripts/selectFacultad.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "22",
+            "url": "http://repositorio.uchile.cl/themes/Mirage2/scripts/selectFacultad.js",
+            "lineNumber": 12,
+            "columnNumber": 108
+          },
+          {
+            "functionName": "ready",
+            "scriptId": "23",
+            "url": "http://repositorio.uchile.cl/themes/Mirage2/scripts/jquery.js",
+            "lineNumber": 25,
+            "columnNumber": 288
+          },
+          {
+            "functionName": "L",
+            "scriptId": "23",
+            "url": "http://repositorio.uchile.cl/themes/Mirage2/scripts/jquery.js",
+            "lineNumber": 32,
+            "columnNumber": 150
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'length' of null\n    at HTMLDocument.<anonymous> (http://repositorio.uchile.cl/themes/Mirage2/scripts/selectFacultad.js:13:109)\n    at Function.ready (http://repositorio.uchile.cl/themes/Mirage2/scripts/jquery.js:26:289)\n    at HTMLDocument.L (http://repositorio.uchile.cl/themes/Mirage2/scripts/jquery.js:33:151)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'length' of null\n    at HTMLDocument.<anonymous> (http://repositorio.uchile.cl/themes/Mirage2/scripts/selectFacultad.js:13:109)\n    at Function.ready (http://repositorio.uchile.cl/themes/Mirage2/scripts/jquery.js:26:289)\n    at HTMLDocument.L (http://repositorio.uchile.cl/themes/Mirage2/scripts/jquery.js:33:151)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'length' of null\n …chile.cl/themes/Mirage2/scripts/jquery.js:33:151)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'length' of null"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

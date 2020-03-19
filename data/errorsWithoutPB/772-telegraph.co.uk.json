@@ -1,0 +1,293 @@
+[
+  {
+    "timestamp": 1583006327929.826,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught (in promise)",
+      "lineNumber": 2,
+      "columnNumber": 38130,
+      "url": "https://player.ooyala.com/v3/ZTIxYmJjZDM2NWYzZDViZGRiOWJjYzc5?platform=html5-fallback",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "n",
+            "scriptId": "62",
+            "url": "https://player.ooyala.com/v3/ZTIxYmJjZDM2NWYzZDViZGRiOWJjYzc5?platform=html5-fallback",
+            "lineNumber": 2,
+            "columnNumber": 38130
+          },
+          {
+            "functionName": "l",
+            "scriptId": "62",
+            "url": "https://player.ooyala.com/v3/ZTIxYmJjZDM2NWYzZDViZGRiOWJjYzc5?platform=html5-fallback",
+            "lineNumber": 2,
+            "columnNumber": 38341
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "className": "i",
+        "description": "i",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "description": "i",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "code",
+              "type": "number",
+              "value": "1203"
+            },
+            {
+              "name": "name",
+              "type": "string",
+              "value": "SOURCE_NO_SUPPORTED_TECHNOLOGY"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "1203/SOURCE_NO_SUPPORTED_TECHNOLOGY"
+            },
+            {
+              "name": "data",
+              "type": "undefined",
+              "value": "undefined"
+            },
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "SOURCE_NO_SUPPORTED_TECHNOLOGY: 1203/SOURCE_NO_SUP…ZDViZGRiOWJjYzc5?platform=html5-fallback:9:975313"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583006327983.0552,
+    "exceptionDetails": {
+      "exceptionId": 2,
+      "text": "Uncaught",
+      "lineNumber": 0,
+      "columnNumber": 1,
+      "scriptId": "193",
+      "url": "https://www.telegraph.co.uk/news/worldnews/europe/france/12004720/Paris-attacks-female-suicide-bomber-shouted-Help-me-Help-me-to-police-during-Saint-Denis-raid.html",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "110",
+            "url": "https://cf.eip.telegraph.co.uk/assets/_scripts/embed-card.js",
+            "lineNumber": 22,
+            "columnNumber": 32
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "SyntaxError",
+        "description": "SyntaxError: Unexpected token o in JSON at position 1\n    at JSON.parse (<anonymous>)\n    at https://cf.eip.telegraph.co.uk/assets/_scripts/embed-card.js:23:33",
+        "objectId": "{\"injectedScriptId\":3,\"id\":2}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "SyntaxError: Unexpected token o in JSON at position 1\n    at JSON.parse (<anonymous>)\n    at https://cf.eip.telegraph.co.uk/assets/_scripts/embed-card.js:23:33",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "SyntaxError: Unexpected token o in JSON at positio…legraph.co.uk/assets/_scripts/embed-card.js:23:33"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Unexpected token o in JSON at position 1"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583006328110.126,
+    "exceptionDetails": {
+      "exceptionId": 3,
+      "text": "Uncaught",
+      "lineNumber": 156,
+      "columnNumber": 60,
+      "url": "https://www.telegraph.co.uk/news/worldnews/europe/france/12004720/Paris-attacks-female-suicide-bomber-shouted-Help-me-Help-me-to-police-during-Saint-Denis-raid.html",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "document.onreadystatechange",
+            "scriptId": "18",
+            "url": "https://www.telegraph.co.uk/news/worldnews/europe/france/12004720/Paris-attacks-female-suicide-bomber-shouted-Help-me-Help-me-to-police-during-Saint-Denis-raid.html",
+            "lineNumber": 156,
+            "columnNumber": 60
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot set property 'src' of null\n    at HTMLDocument.document.onreadystatechange (https://www.telegraph.co.uk/news/worldnews/europe/france/12004720/Paris-attacks-female-suicide-bomber-shouted-Help-me-Help-me-to-police-during-Saint-Denis-raid.html:157:61)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":3}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot set property 'src' of null\n    at HTMLDocument.document.onreadystatechange (https://www.telegraph.co.uk/news/worldnews/europe/france/12004720/Paris-attacks-female-suicide-bomber-shouted-Help-me-Help-me-to-police-during-Saint-Denis-raid.html:157:61)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot set property 'src' of null\n    a…me-to-police-during-Saint-Denis-raid.html:157:61)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot set property 'src' of null"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583006330228.769,
+    "exceptionDetails": {
+      "exceptionId": 4,
+      "text": "Uncaught (in promise)",
+      "lineNumber": 2,
+      "columnNumber": 38130,
+      "url": "https://player.ooyala.com/v3/7dfd98005dba40baacc82277f292e522?platform=html5-fallback",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "n",
+            "scriptId": "202",
+            "url": "https://player.ooyala.com/v3/7dfd98005dba40baacc82277f292e522?platform=html5-fallback",
+            "lineNumber": 2,
+            "columnNumber": 38130
+          },
+          {
+            "functionName": "l",
+            "scriptId": "202",
+            "url": "https://player.ooyala.com/v3/7dfd98005dba40baacc82277f292e522?platform=html5-fallback",
+            "lineNumber": 2,
+            "columnNumber": 38341
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "className": "i",
+        "description": "i",
+        "objectId": "{\"injectedScriptId\":17,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "description": "i",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "code",
+              "type": "number",
+              "value": "1203"
+            },
+            {
+              "name": "name",
+              "type": "string",
+              "value": "SOURCE_NO_SUPPORTED_TECHNOLOGY"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "1203/SOURCE_NO_SUPPORTED_TECHNOLOGY"
+            },
+            {
+              "name": "data",
+              "type": "undefined",
+              "value": "undefined"
+            },
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "SOURCE_NO_SUPPORTED_TECHNOLOGY: 1203/SOURCE_NO_SUP…acc82277f292e522?platform=html5-fallback:9:975313"
+            }
+          ]
+        }
+      },
+      "executionContextId": 17
+    }
+  },
+  {
+    "timestamp": 1583006331117.788,
+    "exceptionDetails": {
+      "exceptionId": 5,
+      "text": "Uncaught",
+      "lineNumber": 156,
+      "columnNumber": 60,
+      "url": "https://www.telegraph.co.uk/news/worldnews/europe/france/12004720/Paris-attacks-female-suicide-bomber-shouted-Help-me-Help-me-to-police-during-Saint-Denis-raid.html",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "document.onreadystatechange",
+            "scriptId": "18",
+            "url": "https://www.telegraph.co.uk/news/worldnews/europe/france/12004720/Paris-attacks-female-suicide-bomber-shouted-Help-me-Help-me-to-police-during-Saint-Denis-raid.html",
+            "lineNumber": 156,
+            "columnNumber": 60
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot set property 'src' of null at HTMLDocument.document.onreadystatechange (https://www.telegraph.co.uk/news/worldnews/europe/france/12004720/Paris-attacks-female-suicide-bomber-shouted-Help-me-Help-me-to-police-during-Saint-Denis-raid.html:157:61)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":4}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot set property 'src' of null at HTMLDocument.document.onreadystatechange (https://www.telegraph.co.uk/news/worldnews/europe/france/12004720/Paris-attacks-female-suicide-bomber-shouted-Help-me-Help-me-to-police-during-Saint-Denis-raid.html:157:61)",
+          "overflow": true,
+          "properties": [
+            {
+              "name": "reported",
+              "type": "boolean",
+              "value": "true"
+            },
+            {
+              "name": "timestamp",
+              "type": "number",
+              "value": "1583006331116"
+            },
+            {
+              "name": "lineNumber",
+              "type": "string",
+              "value": "157"
+            },
+            {
+              "name": "columnNumber",
+              "type": "string",
+              "value": "61"
+            },
+            {
+              "name": "functionName",
+              "type": "string",
+              "value": "HTMLDocument.document.onreadystatechange"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

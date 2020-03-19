@@ -1,0 +1,63 @@
+[
+  {
+    "timestamp": 1582890784107.743,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 1,
+      "columnNumber": 10336,
+      "url": "https://static.mediarithmics.com/tag/1/tag.min.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "panic",
+            "scriptId": "91",
+            "url": "https://static.mediarithmics.com/tag/1/tag.min.js",
+            "lineNumber": 1,
+            "columnNumber": 10336
+          },
+          {
+            "functionName": "",
+            "scriptId": "91",
+            "url": "https://static.mediarithmics.com/tag/1/tag.min.js",
+            "lineNumber": 1,
+            "columnNumber": 3312
+          },
+          {
+            "functionName": "c.onerror",
+            "scriptId": "91",
+            "url": "https://static.mediarithmics.com/tag/1/tag.min.js",
+            "lineNumber": 1,
+            "columnNumber": 5065
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: this.triggerCallsIfPossible is not a function\n    at a.exports.panic [as panicFn] (https://static.mediarithmics.com/tag/1/tag.min.js:2:10337)\n    at https://static.mediarithmics.com/tag/1/tag.min.js:2:3313\n    at HTMLScriptElement.c.onerror (https://static.mediarithmics.com/tag/1/tag.min.js:2:5066)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":4}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: this.triggerCallsIfPossible is not a function\n    at a.exports.panic [as panicFn] (https://static.mediarithmics.com/tag/1/tag.min.js:2:10337)\n    at https://static.mediarithmics.com/tag/1/tag.min.js:2:3313\n    at HTMLScriptElement.c.onerror (https://static.mediarithmics.com/tag/1/tag.min.js:2:5066)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: this.triggerCallsIfPossible is not a fu…static.mediarithmics.com/tag/1/tag.min.js:2:5066)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "this.triggerCallsIfPossible is not a function"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

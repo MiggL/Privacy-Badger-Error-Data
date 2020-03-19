@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": 1583420085196.5698,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught (in promise)",
+      "lineNumber": 0,
+      "columnNumber": 0,
+      "scriptId": "1",
+      "url": "https://www.nflshop.com/miami-dolphins/hats/t-14607049+d-7815223319+z-94-746139895",
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Failed to fetch",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Failed to fetch",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Failed to fetch"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Failed to fetch"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

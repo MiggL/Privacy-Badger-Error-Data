@@ -1,0 +1,110 @@
+[
+  {
+    "timestamp": 1583750140220.907,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 205,
+      "columnNumber": 31,
+      "url": "https://www.motorgeek.com/viewtopic.php?f=13&t=17207",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "31",
+            "url": "https://www.motorgeek.com/viewtopic.php?f=13&t=17207",
+            "lineNumber": 205,
+            "columnNumber": 31
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: tapatalkDetect is not defined\n    at https://www.motorgeek.com/viewtopic.php?f=13&t=17207:206:32",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: tapatalkDetect is not defined\n    at https://www.motorgeek.com/viewtopic.php?f=13&t=17207:206:32",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: tapatalkDetect is not defined\n    …w.motorgeek.com/viewtopic.php?f=13&t=17207:206:32"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "tapatalkDetect is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583750140582.56,
+    "exceptionDetails": {
+      "exceptionId": 2,
+      "text": "Uncaught",
+      "lineNumber": 2075,
+      "columnNumber": 65,
+      "url": "https://www.motorgeek.com/viewtopic.php?f=13&t=17207",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "success",
+            "scriptId": "48",
+            "url": "https://www.motorgeek.com/viewtopic.php?f=13&t=17207",
+            "lineNumber": 2075,
+            "columnNumber": 65
+          },
+          {
+            "functionName": "b",
+            "scriptId": "21",
+            "url": "https://www.motorgeek.com/styles/motorgeek_bb3/theme/thickbox/jquery-latest.pack.js",
+            "lineNumber": 123,
+            "columnNumber": 10
+          },
+          {
+            "functionName": "x.onreadystatechange",
+            "scriptId": "21",
+            "url": "https://www.motorgeek.com/styles/motorgeek_bb3/theme/thickbox/jquery-latest.pack.js",
+            "lineNumber": 128,
+            "columnNumber": 370
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'innerHTML' of null\n    at Object.success (https://www.motorgeek.com/viewtopic.php?f=13&t=17207:2076:66)\n    at b (https://www.motorgeek.com/styles/motorgeek_bb3/theme/thickbox/jquery-latest.pack.js:124:11)\n    at XMLHttpRequest.x.onreadystatechange (https://www.motorgeek.com/styles/motorgeek_bb3/theme/thickbox/jquery-latest.pack.js:129:371)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":2}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'innerHTML' of null\n    at Object.success (https://www.motorgeek.com/viewtopic.php?f=13&t=17207:2076:66)\n    at b (https://www.motorgeek.com/styles/motorgeek_bb3/theme/thickbox/jquery-latest.pack.js:124:11)\n    at XMLHttpRequest.x.onreadystatechange (https://www.motorgeek.com/styles/motorgeek_bb3/theme/thickbox/jquery-latest.pack.js:129:371)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'innerHTML' of nul…bb3/theme/thickbox/jquery-latest.pack.js:129:371)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'innerHTML' of null"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

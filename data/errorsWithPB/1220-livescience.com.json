@@ -1,0 +1,204 @@
+[
+  {
+    "timestamp": 1583421106816.625,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught (in promise)",
+      "lineNumber": 15,
+      "columnNumber": 114941,
+      "url": "https://vanilla.futurecdn.net/livescience/165233/media/js/header/header.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "50",
+            "url": "https://vanilla.futurecdn.net/livescience/165233/media/js/header/header.js",
+            "lineNumber": 15,
+            "columnNumber": 114941
+          },
+          {
+            "functionName": "",
+            "scriptId": "50",
+            "url": "https://vanilla.futurecdn.net/livescience/165233/media/js/header/header.js",
+            "lineNumber": 41,
+            "columnNumber": 182356
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot create property 'supplement' on boolean 'false'\n    at Object.fromError (https://vanilla.futurecdn.net/livescience/165233/media/js/header/header.js:16:114942)\n    at https://vanilla.futurecdn.net/livescience/165233/media/js/header/header.js:42:182357",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot create property 'supplement' on boolean 'false'\n    at Object.fromError (https://vanilla.futurecdn.net/livescience/165233/media/js/header/header.js:16:114942)\n    at https://vanilla.futurecdn.net/livescience/165233/media/js/header/header.js:42:182357",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot create property 'supplement' on …cience/165233/media/js/header/header.js:42:182357"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot create property 'supplement' on boolean 'false'"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583421106817.044,
+    "exceptionDetails": {
+      "exceptionId": 2,
+      "text": "Uncaught (in promise)",
+      "lineNumber": 15,
+      "columnNumber": 114941,
+      "url": "https://vanilla.futurecdn.net/livescience/165233/media/js/header/header.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "50",
+            "url": "https://vanilla.futurecdn.net/livescience/165233/media/js/header/header.js",
+            "lineNumber": 15,
+            "columnNumber": 114941
+          },
+          {
+            "functionName": "",
+            "scriptId": "50",
+            "url": "https://vanilla.futurecdn.net/livescience/165233/media/js/header/header.js",
+            "lineNumber": 41,
+            "columnNumber": 185311
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot create property 'supplement' on boolean 'false'\n    at Object.fromError (https://vanilla.futurecdn.net/livescience/165233/media/js/header/header.js:16:114942)\n    at https://vanilla.futurecdn.net/livescience/165233/media/js/header/header.js:42:185312",
+        "objectId": "{\"injectedScriptId\":3,\"id\":2}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot create property 'supplement' on boolean 'false'\n    at Object.fromError (https://vanilla.futurecdn.net/livescience/165233/media/js/header/header.js:16:114942)\n    at https://vanilla.futurecdn.net/livescience/165233/media/js/header/header.js:42:185312",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot create property 'supplement' on …cience/165233/media/js/header/header.js:42:185312"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot create property 'supplement' on boolean 'false'"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583421108237.739,
+    "exceptionDetails": {
+      "exceptionId": 3,
+      "text": "Uncaught (in promise)",
+      "lineNumber": 28,
+      "columnNumber": 200,
+      "url": "https://www.livescience.com/24827-energy-drinks-miscarriage.html",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "25",
+            "url": "https://www.livescience.com/24827-energy-drinks-miscarriage.html",
+            "lineNumber": 28,
+            "columnNumber": 200
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'contentWindow' of null\n    at https://www.livescience.com/24827-energy-drinks-miscarriage.html:29:201",
+        "objectId": "{\"injectedScriptId\":3,\"id\":3}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'contentWindow' of null\n    at https://www.livescience.com/24827-energy-drinks-miscarriage.html:29:201",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'contentWindow' of…e.com/24827-energy-drinks-miscarriage.html:29:201"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'contentWindow' of null"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583421108237.946,
+    "exceptionDetails": {
+      "exceptionId": 4,
+      "text": "Uncaught (in promise)",
+      "lineNumber": 28,
+      "columnNumber": 416,
+      "url": "https://www.livescience.com/24827-energy-drinks-miscarriage.html",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "25",
+            "url": "https://www.livescience.com/24827-energy-drinks-miscarriage.html",
+            "lineNumber": 28,
+            "columnNumber": 416
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'contentWindow' of null\n    at https://www.livescience.com/24827-energy-drinks-miscarriage.html:29:417",
+        "objectId": "{\"injectedScriptId\":3,\"id\":4}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'contentWindow' of null\n    at https://www.livescience.com/24827-energy-drinks-miscarriage.html:29:417",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'contentWindow' of…e.com/24827-energy-drinks-miscarriage.html:29:417"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'contentWindow' of null"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

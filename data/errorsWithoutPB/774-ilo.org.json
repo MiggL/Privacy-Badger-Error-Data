@@ -1,0 +1,49 @@
+[
+  {
+    "timestamp": 1583006309455.313,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 83,
+      "columnNumber": 20,
+      "url": "http://www.ilo.org/dyn/normlex/en/f?p=NORMLEXPUB:12100:0::NO::P12100_ILO_CODE:R020",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "19",
+            "url": "http://www.ilo.org/dyn/normlex/en/f?p=NORMLEXPUB:12100:0::NO::P12100_ILO_CODE:R020",
+            "lineNumber": 83,
+            "columnNumber": 20
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: ilo_nav_plain_horizontal is not defined\n    at http://www.ilo.org/dyn/normlex/en/f?p=NORMLEXPUB:12100:0::NO::P12100_ILO_CODE:R020:84:21",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: ilo_nav_plain_horizontal is not defined\n    at http://www.ilo.org/dyn/normlex/en/f?p=NORMLEXPUB:12100:0::NO::P12100_ILO_CODE:R020:84:21",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: ilo_nav_plain_horizontal is not de…ORMLEXPUB:12100:0::NO::P12100_ILO_CODE:R020:84:21"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "ilo_nav_plain_horizontal is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

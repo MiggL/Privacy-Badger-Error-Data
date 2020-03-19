@@ -1,0 +1,49 @@
+[
+  {
+    "timestamp": 1583748962550.181,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 126,
+      "columnNumber": 2,
+      "url": "https://www.familyhandyman.com/woodworking/furniture-repair/fix-a-wobbly-chair-reglue-a-wooden-chair/",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "43",
+            "url": "https://www.familyhandyman.com/woodworking/furniture-repair/fix-a-wobbly-chair-reglue-a-wooden-chair/",
+            "lineNumber": 126,
+            "columnNumber": 2
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: gs_channels is not defined\n    at https://www.familyhandyman.com/woodworking/furniture-repair/fix-a-wobbly-chair-reglue-a-wooden-chair/:127:3",
+        "objectId": "{\"injectedScriptId\":3,\"id\":5}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: gs_channels is not defined\n    at https://www.familyhandyman.com/woodworking/furniture-repair/fix-a-wobbly-chair-reglue-a-wooden-chair/:127:3",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: gs_channels is not defined\n    at …r/fix-a-wobbly-chair-reglue-a-wooden-chair/:127:3"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "gs_channels is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

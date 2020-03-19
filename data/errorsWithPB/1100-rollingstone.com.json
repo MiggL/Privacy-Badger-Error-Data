@@ -1,0 +1,77 @@
+[
+  {
+    "timestamp": 1583422287981.741,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 0,
+      "columnNumber": 55976,
+      "url": "https://www.rollingstone.com/wp-content/themes/vip/pmc-rollingstone-2018/assets/build/js/main.js?ver=3.6",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "75",
+            "url": "https://www.rollingstone.com/wp-content/themes/vip/pmc-rollingstone-2018/assets/build/js/main.js?ver=3.6",
+            "lineNumber": 0,
+            "columnNumber": 55976
+          },
+          {
+            "functionName": "i",
+            "scriptId": "42",
+            "url": "https://www.rollingstone.com/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp",
+            "lineNumber": 1,
+            "columnNumber": 27361
+          },
+          {
+            "functionName": "fireWith",
+            "scriptId": "42",
+            "url": "https://www.rollingstone.com/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp",
+            "lineNumber": 1,
+            "columnNumber": 28120
+          },
+          {
+            "functionName": "x",
+            "scriptId": "42",
+            "url": "https://www.rollingstone.com/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp",
+            "lineNumber": 3,
+            "columnNumber": 22574
+          },
+          {
+            "functionName": "c",
+            "scriptId": "42",
+            "url": "https://www.rollingstone.com/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp",
+            "lineNumber": 3,
+            "columnNumber": 26775
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: RS_Main is not defined\n    at Object.success (https://www.rollingstone.com/wp-content/themes/vip/pmc-rollingstone-2018/assets/build/js/main.js?ver=3.6:1:55977)\n    at i (https://www.rollingstone.com/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp:2:27362)\n    at Object.fireWith [as resolveWith] (https://www.rollingstone.com/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp:2:28121)\n    at x (https://www.rollingstone.com/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp:4:22575)\n    at XMLHttpRequest.c (https://www.rollingstone.com/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp:4:26776)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: RS_Main is not defined\n    at Object.success (https://www.rollingstone.com/wp-content/themes/vip/pmc-rollingstone-2018/assets/build/js/main.js?ver=3.6:1:55977)\n    at i (https://www.rollingstone.com/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp:2:27362)\n    at Object.fireWith [as resolveWith] (https://www.rollingstone.com/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp:2:28121)\n    at x (https://www.rollingstone.com/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp:4:22575)\n    at XMLHttpRequest.c (https://www.rollingstone.com/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp:4:26776)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: RS_Main is not defined\n    at Obje…cludes/js/jquery/jquery.js?ver=1.12.4-wp:4:26776)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "RS_Main is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

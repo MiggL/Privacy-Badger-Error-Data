@@ -1,0 +1,77 @@
+[
+  {
+    "timestamp": 1583011285990.051,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 6,
+      "columnNumber": 89,
+      "url": "https://www1.biu.ac.il/templates/biu/js/functions.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "17",
+            "url": "https://www1.biu.ac.il/templates/biu/js/functions.js",
+            "lineNumber": 6,
+            "columnNumber": 89
+          },
+          {
+            "functionName": "j",
+            "scriptId": "13",
+            "url": "https://code.jquery.com/jquery-latest.min.js",
+            "lineNumber": 1,
+            "columnNumber": 27243
+          },
+          {
+            "functionName": "fireWith",
+            "scriptId": "13",
+            "url": "https://code.jquery.com/jquery-latest.min.js",
+            "lineNumber": 1,
+            "columnNumber": 28056
+          },
+          {
+            "functionName": "ready",
+            "scriptId": "13",
+            "url": "https://code.jquery.com/jquery-latest.min.js",
+            "lineNumber": 1,
+            "columnNumber": 29890
+          },
+          {
+            "functionName": "J",
+            "scriptId": "13",
+            "url": "https://code.jquery.com/jquery-latest.min.js",
+            "lineNumber": 1,
+            "columnNumber": 30256
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'replace' of undefined\n    at HTMLDocument.<anonymous> (https://www1.biu.ac.il/templates/biu/js/functions.js:7:90)\n    at j (https://code.jquery.com/jquery-latest.min.js:2:27244)\n    at Object.fireWith [as resolveWith] (https://code.jquery.com/jquery-latest.min.js:2:28057)\n    at Function.ready (https://code.jquery.com/jquery-latest.min.js:2:29891)\n    at HTMLDocument.J (https://code.jquery.com/jquery-latest.min.js:2:30257)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'replace' of undefined\n    at HTMLDocument.<anonymous> (https://www1.biu.ac.il/templates/biu/js/functions.js:7:90)\n    at j (https://code.jquery.com/jquery-latest.min.js:2:27244)\n    at Object.fireWith [as resolveWith] (https://code.jquery.com/jquery-latest.min.js:2:28057)\n    at Function.ready (https://code.jquery.com/jquery-latest.min.js:2:29891)\n    at HTMLDocument.J (https://code.jquery.com/jquery-latest.min.js:2:30257)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'replace' of undef…s://code.jquery.com/jquery-latest.min.js:2:30257)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'replace' of undefined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

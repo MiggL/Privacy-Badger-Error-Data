@@ -1,0 +1,72 @@
+[
+  {
+    "timestamp": 1583750576345.677,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 0,
+      "columnNumber": 3519,
+      "url": "https://www.npttech.com/advertising.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "d._destroyBait",
+            "scriptId": "107",
+            "url": "https://www.npttech.com/advertising.js",
+            "lineNumber": 0,
+            "columnNumber": 3519
+          },
+          {
+            "functionName": "d._checkBait",
+            "scriptId": "107",
+            "url": "https://www.npttech.com/advertising.js",
+            "lineNumber": 0,
+            "columnNumber": 5083
+          },
+          {
+            "functionName": "",
+            "scriptId": "107",
+            "url": "https://www.npttech.com/advertising.js",
+            "lineNumber": 0,
+            "columnNumber": 4117
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "DOMException",
+        "description": "DOMException: Failed to execute 'removeChild' on 'Node': The node to be removed is not a child of this node.\n    at d._destroyBait (https://www.npttech.com/advertising.js:1:3520)\n    at d._checkBait (https://www.npttech.com/advertising.js:1:5084)\n    at https://www.npttech.com/advertising.js:1:4118",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "DOMException: Failed to execute 'removeChild' on 'Node': The node to be removed is not a child of this node.\n    at d._destroyBait (https://www.npttech.com/advertising.js:1:3520)\n    at d._checkBait (https://www.npttech.com/advertising.js:1:5084)\n    at https://www.npttech.com/advertising.js:1:4118",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "accessor"
+            },
+            {
+              "name": "code",
+              "type": "number",
+              "value": "8"
+            },
+            {
+              "name": "name",
+              "type": "string",
+              "value": "NotFoundError"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Failed to execute 'removeChild' on 'Node': The node to be removed is not a child of this node."
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

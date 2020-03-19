@@ -1,0 +1,58 @@
+[
+  {
+    "timestamp": 1583013255939.507,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 17,
+      "columnNumber": 26,
+      "url": "https://assets.tumblr.com/analytics.html?3cf694068d7db10315f7e7bccbe63e18",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "12",
+            "url": "https://assets.tumblr.com/analytics.html?3cf694068d7db10315f7e7bccbe63e18",
+            "lineNumber": 17,
+            "columnNumber": 26
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "DOMException",
+        "description": "DOMException: Failed to execute 'postMessage' on 'Window': Invalid target origin '' in a call to 'postMessage'.\n    at https://assets.tumblr.com/analytics.html?3cf694068d7db10315f7e7bccbe63e18:18:27",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "DOMException: Failed to execute 'postMessage' on 'Window': Invalid target origin '' in a call to 'postMessage'.\n    at https://assets.tumblr.com/analytics.html?3cf694068d7db10315f7e7bccbe63e18:18:27",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "accessor"
+            },
+            {
+              "name": "code",
+              "type": "number",
+              "value": "12"
+            },
+            {
+              "name": "name",
+              "type": "string",
+              "value": "SyntaxError"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Failed to execute 'postMessage' on 'Window': Invalid target origin '' in a call to 'postMessage'."
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

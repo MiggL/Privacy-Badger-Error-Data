@@ -1,0 +1,56 @@
+[
+  {
+    "timestamp": 1583421759117.887,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 145,
+      "columnNumber": 47,
+      "url": "https://www.fountainpenhospital.com/home/home12.asp",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "GetCount",
+            "scriptId": "24",
+            "url": "https://www.fountainpenhospital.com/home/home12.asp",
+            "lineNumber": 145,
+            "columnNumber": 47
+          },
+          {
+            "functionName": "window.s_itt_olo",
+            "scriptId": "28",
+            "url": "https://www.fountainpenhospital.com/tracking.js",
+            "lineNumber": 254,
+            "columnNumber": 23
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot set property 'innerHTML' of null\n    at GetCount (https://www.fountainpenhospital.com/home/home12.asp:146:48)\n    at window.s_itt_olo (https://www.fountainpenhospital.com/tracking.js:255:24)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot set property 'innerHTML' of null\n    at GetCount (https://www.fountainpenhospital.com/home/home12.asp:146:48)\n    at window.s_itt_olo (https://www.fountainpenhospital.com/tracking.js:255:24)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot set property 'innerHTML' of null…//www.fountainpenhospital.com/tracking.js:255:24)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot set property 'innerHTML' of null"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

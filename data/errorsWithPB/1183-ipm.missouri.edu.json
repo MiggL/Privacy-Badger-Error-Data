@@ -1,0 +1,49 @@
+[
+  {
+    "timestamp": 1583421465658.223,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 4,
+      "columnNumber": 18,
+      "url": "https://ipm.missouri.edu/scripts/respond.min.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "22",
+            "url": "https://ipm.missouri.edu/scripts/respond.min.js",
+            "lineNumber": 4,
+            "columnNumber": 18
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'getContext' of null\n    at https://ipm.missouri.edu/scripts/respond.min.js:5:19",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'getContext' of null\n    at https://ipm.missouri.edu/scripts/respond.min.js:5:19",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'getContext' of nu…ps://ipm.missouri.edu/scripts/respond.min.js:5:19"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'getContext' of null"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

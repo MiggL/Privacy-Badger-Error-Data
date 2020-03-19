@@ -1,0 +1,284 @@
+[
+  {
+    "timestamp": 1583000576533.8718,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 89,
+      "columnNumber": 42,
+      "url": "https://www.nytimes.com/interactive/projects/sochi2014/odometer",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "13",
+            "url": "https://www.nytimes.com/interactive/projects/sochi2014/odometer",
+            "lineNumber": 89,
+            "columnNumber": 42
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'writeLogo' of undefined\n    at https://www.nytimes.com/interactive/projects/sochi2014/odometer:90:43",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'writeLogo' of undefined\n    at https://www.nytimes.com/interactive/projects/sochi2014/odometer:90:43",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'writeLogo' of und…com/interactive/projects/sochi2014/odometer:90:43"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'writeLogo' of undefined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583000576591.708,
+    "exceptionDetails": {
+      "exceptionId": 2,
+      "text": "Uncaught",
+      "lineNumber": 186,
+      "columnNumber": 0,
+      "url": "https://www.nytimes.com/interactive/projects/sochi2014/odometer",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "14",
+            "url": "https://www.nytimes.com/interactive/projects/sochi2014/odometer",
+            "lineNumber": 186,
+            "columnNumber": 0
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: require is not a function\n    at https://www.nytimes.com/interactive/projects/sochi2014/odometer:187:1",
+        "objectId": "{\"injectedScriptId\":3,\"id\":2}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: require is not a function\n    at https://www.nytimes.com/interactive/projects/sochi2014/odometer:187:1",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: require is not a function\n    at https:…com/interactive/projects/sochi2014/odometer:187:1"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "require is not a function"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583000576592.918,
+    "exceptionDetails": {
+      "exceptionId": 3,
+      "text": "Uncaught",
+      "lineNumber": 246,
+      "columnNumber": 41,
+      "url": "https://www.nytimes.com/interactive/projects/sochi2014/odometer",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "15",
+            "url": "https://www.nytimes.com/interactive/projects/sochi2014/odometer",
+            "lineNumber": 246,
+            "columnNumber": 41
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: require.config is not a function\n    at https://www.nytimes.com/interactive/projects/sochi2014/odometer:247:42",
+        "objectId": "{\"injectedScriptId\":3,\"id\":3}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: require.config is not a function\n    at https://www.nytimes.com/interactive/projects/sochi2014/odometer:247:42",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: require.config is not a function\n    at…om/interactive/projects/sochi2014/odometer:247:42"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "require.config is not a function"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583000576664.607,
+    "exceptionDetails": {
+      "exceptionId": 4,
+      "text": "Uncaught",
+      "lineNumber": 0,
+      "columnNumber": 0,
+      "url": "https://int.nyt.com/applications/sochi_hub/assets/nytint/sochi-hub/odometer-e36b32d037d152144bb89851d7e262a0.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "16",
+            "url": "https://int.nyt.com/applications/sochi_hub/assets/nytint/sochi-hub/odometer-e36b32d037d152144bb89851d7e262a0.js",
+            "lineNumber": 0,
+            "columnNumber": 0
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: define is not defined\n    at https://int.nyt.com/applications/sochi_hub/assets/nytint/sochi-hub/odometer-e36b32d037d152144bb89851d7e262a0.js:1:1",
+        "objectId": "{\"injectedScriptId\":3,\"id\":4}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: define is not defined\n    at https://int.nyt.com/applications/sochi_hub/assets/nytint/sochi-hub/odometer-e36b32d037d152144bb89851d7e262a0.js:1:1",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: define is not defined\n    at https…/odometer-e36b32d037d152144bb89851d7e262a0.js:1:1"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "define is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583000576668.585,
+    "exceptionDetails": {
+      "exceptionId": 5,
+      "text": "Uncaught",
+      "lineNumber": 249,
+      "columnNumber": 4,
+      "url": "https://www.nytimes.com/interactive/projects/sochi2014/odometer",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "17",
+            "url": "https://www.nytimes.com/interactive/projects/sochi2014/odometer",
+            "lineNumber": 249,
+            "columnNumber": 4
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: require is not a function\n    at https://www.nytimes.com/interactive/projects/sochi2014/odometer:250:5",
+        "objectId": "{\"injectedScriptId\":3,\"id\":5}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: require is not a function\n    at https://www.nytimes.com/interactive/projects/sochi2014/odometer:250:5",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: require is not a function\n    at https:…com/interactive/projects/sochi2014/odometer:250:5"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "require is not a function"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583000576672.8262,
+    "exceptionDetails": {
+      "exceptionId": 6,
+      "text": "Uncaught",
+      "lineNumber": 298,
+      "columnNumber": 0,
+      "url": "https://www.nytimes.com/interactive/projects/sochi2014/odometer",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "18",
+            "url": "https://www.nytimes.com/interactive/projects/sochi2014/odometer",
+            "lineNumber": 298,
+            "columnNumber": 0
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: require is not a function\n    at https://www.nytimes.com/interactive/projects/sochi2014/odometer:299:1",
+        "objectId": "{\"injectedScriptId\":3,\"id\":6}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: require is not a function\n    at https://www.nytimes.com/interactive/projects/sochi2014/odometer:299:1",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: require is not a function\n    at https:…com/interactive/projects/sochi2014/odometer:299:1"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "require is not a function"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

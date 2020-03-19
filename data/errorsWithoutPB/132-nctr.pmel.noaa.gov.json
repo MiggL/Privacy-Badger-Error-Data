@@ -1,0 +1,49 @@
+[
+  {
+    "timestamp": 1583012171010.092,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 42,
+      "columnNumber": 117,
+      "url": "https://nctr.pmel.noaa.gov/Dart/",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "onload",
+            "scriptId": "16",
+            "url": "https://nctr.pmel.noaa.gov/Dart/",
+            "lineNumber": 42,
+            "columnNumber": 117
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: MM_preloadImages is not defined\n    at onload (https://nctr.pmel.noaa.gov/Dart/:43:118)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: MM_preloadImages is not defined\n    at onload (https://nctr.pmel.noaa.gov/Dart/:43:118)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: MM_preloadImages is not defined\n  … onload (https://nctr.pmel.noaa.gov/Dart/:43:118)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "MM_preloadImages is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

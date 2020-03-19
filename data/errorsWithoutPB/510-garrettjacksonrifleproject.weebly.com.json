@@ -1,0 +1,119 @@
+[
+  {
+    "timestamp": 1583008721603.015,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 4,
+      "columnNumber": 18897,
+      "url": "https://cdn2.editmysite.com/js/site/main.js?buildTime=1396472388",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "e",
+            "scriptId": "15",
+            "url": "https://cdn2.editmysite.com/js/site/main.js?buildTime=1396472388",
+            "lineNumber": 4,
+            "columnNumber": 18897
+          },
+          {
+            "functionName": "n.render",
+            "scriptId": "15",
+            "url": "https://cdn2.editmysite.com/js/site/main.js?buildTime=1396472388",
+            "lineNumber": 0,
+            "columnNumber": 24355
+          },
+          {
+            "functionName": "ne",
+            "scriptId": "15",
+            "url": "https://cdn2.editmysite.com/js/site/main.js?buildTime=1396472388",
+            "lineNumber": 13,
+            "columnNumber": 26912
+          },
+          {
+            "functionName": "ie",
+            "scriptId": "15",
+            "url": "https://cdn2.editmysite.com/js/site/main.js?buildTime=1396472388",
+            "lineNumber": 13,
+            "columnNumber": 26834
+          },
+          {
+            "functionName": "te",
+            "scriptId": "15",
+            "url": "https://cdn2.editmysite.com/js/site/main.js?buildTime=1396472388",
+            "lineNumber": 13,
+            "columnNumber": 26757
+          },
+          {
+            "functionName": "window.initPublishedFlyoutMenus",
+            "scriptId": "15",
+            "url": "https://cdn2.editmysite.com/js/site/main.js?buildTime=1396472388",
+            "lineNumber": 13,
+            "columnNumber": 13278
+          },
+          {
+            "functionName": "initFlyouts",
+            "scriptId": "17",
+            "url": "https://garrettjacksonrifleproject.weebly.com/",
+            "lineNumber": 56,
+            "columnNumber": 23
+          },
+          {
+            "functionName": "o",
+            "scriptId": "14",
+            "url": "https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js",
+            "lineNumber": 1,
+            "columnNumber": 14732
+          },
+          {
+            "functionName": "fireWith",
+            "scriptId": "14",
+            "url": "https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js",
+            "lineNumber": 1,
+            "columnNumber": 15501
+          },
+          {
+            "functionName": "ready",
+            "scriptId": "14",
+            "url": "https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js",
+            "lineNumber": 1,
+            "columnNumber": 9593
+          },
+          {
+            "functionName": "B",
+            "scriptId": "14",
+            "url": "https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js",
+            "lineNumber": 1,
+            "columnNumber": 14289
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Invalid template! Template should be a \"string\" but \"undefined\" was given as the first argument for mustache#render(template, view, partials)\n    at Object.e [as origRender] (https://cdn2.editmysite.com/js/site/main.js?buildTime=1396472388:5:18898)\n    at Object.n.render (https://cdn2.editmysite.com/js/site/main.js?buildTime=1396472388:1:24356)\n    at ne (https://cdn2.editmysite.com/js/site/main.js?buildTime=1396472388:14:26913)\n    at ie (https://cdn2.editmysite.com/js/site/main.js?buildTime=1396472388:14:26835)\n    at te (https://cdn2.editmysite.com/js/site/main.js?buildTime=1396472388:14:26758)\n    at window.initPublishedFlyoutMenus (https://cdn2.editmysite.com/js/site/main.js?buildTime=1396472388:14:13279)\n    at HTMLDocument.initFlyouts (https://garrettjacksonrifleproject.weebly.com/:57:24)\n    at o (https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js:2:14733)\n    at Object.fireWith (https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js:2:15502)\n    at Function.ready (https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js:2:9594)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Invalid template! Template should be a \"string\" but \"undefined\" was given as the first argument for mustache#render(template, view, partials)\n    at Object.e [as origRender] (https://cdn2.editmysite.com/js/site/main.js?buildTime=1396472388:5:18898)\n    at Object.n.render (https://cdn2.editmysite.com/js/site/main.js?buildTime=1396472388:1:24356)\n    at ne (https://cdn2.editmysite.com/js/site/main.js?buildTime=1396472388:14:26913)\n    at ie (https://cdn2.editmysite.com/js/site/main.js?buildTime=1396472388:14:26835)\n    at te (https://cdn2.editmysite.com/js/site/main.js?buildTime=1396472388:14:26758)\n    at window.initPublishedFlyoutMenus (https://cdn2.editmysite.com/js/site/main.js?buildTime=1396472388:14:13279)\n    at HTMLDocument.initFlyouts (https://garrettjacksonrifleproject.weebly.com/:57:24)\n    at o (https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js:2:14733)\n    at Object.fireWith (https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js:2:15502)\n    at Function.ready (https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js:2:9594)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Invalid template! Template should be a ….com/ajax/libs/jquery/1.7.2/jquery.min.js:2:9594)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Invalid template! Template should be a \"string\" bu…ent for mustache#render(template, view, partials)"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

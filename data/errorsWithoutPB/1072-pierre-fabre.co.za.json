@@ -1,0 +1,166 @@
+[
+  {
+    "timestamp": 1583003560944.69,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 1,
+      "columnNumber": 18773,
+      "url": "https://s7.addthis.com/js/300/addthis_widget.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "e.exports",
+            "scriptId": "32",
+            "url": "https://s7.addthis.com/js/300/addthis_widget.js",
+            "lineNumber": 1,
+            "columnNumber": 18773
+          },
+          {
+            "functionName": "e.exports",
+            "scriptId": "32",
+            "url": "https://s7.addthis.com/js/300/addthis_widget.js",
+            "lineNumber": 1,
+            "columnNumber": 18016
+          },
+          {
+            "functionName": "",
+            "scriptId": "32",
+            "url": "https://s7.addthis.com/js/300/addthis_widget.js",
+            "lineNumber": 1,
+            "columnNumber": 2853
+          },
+          {
+            "functionName": "",
+            "scriptId": "32",
+            "url": "https://s7.addthis.com/js/300/addthis_widget.js",
+            "lineNumber": 1,
+            "columnNumber": 5242
+          },
+          {
+            "functionName": "t",
+            "scriptId": "32",
+            "url": "https://s7.addthis.com/js/300/addthis_widget.js",
+            "lineNumber": 0,
+            "columnNumber": 106
+          },
+          {
+            "functionName": "",
+            "scriptId": "32",
+            "url": "https://s7.addthis.com/js/300/addthis_widget.js",
+            "lineNumber": 0,
+            "columnNumber": 7125
+          },
+          {
+            "functionName": "t",
+            "scriptId": "32",
+            "url": "https://s7.addthis.com/js/300/addthis_widget.js",
+            "lineNumber": 0,
+            "columnNumber": 106
+          },
+          {
+            "functionName": "",
+            "scriptId": "32",
+            "url": "https://s7.addthis.com/js/300/addthis_widget.js",
+            "lineNumber": 0,
+            "columnNumber": 6822
+          },
+          {
+            "functionName": "",
+            "scriptId": "32",
+            "url": "https://s7.addthis.com/js/300/addthis_widget.js",
+            "lineNumber": 0,
+            "columnNumber": 6827
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'indexOf' of undefined\n    at e.exports (https://s7.addthis.com/js/300/addthis_widget.js:2:18774)\n    at e.exports (https://s7.addthis.com/js/300/addthis_widget.js:2:18017)\n    at https://s7.addthis.com/js/300/addthis_widget.js:2:2854\n    at Object.<anonymous> (https://s7.addthis.com/js/300/addthis_widget.js:2:5243)\n    at t (https://s7.addthis.com/js/300/addthis_widget.js:1:107)\n    at Object.<anonymous> (https://s7.addthis.com/js/300/addthis_widget.js:1:7126)\n    at t (https://s7.addthis.com/js/300/addthis_widget.js:1:107)\n    at https://s7.addthis.com/js/300/addthis_widget.js:1:6823\n    at https://s7.addthis.com/js/300/addthis_widget.js:1:6828",
+        "objectId": "{\"injectedScriptId\":3,\"id\":2}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'indexOf' of undefined\n    at e.exports (https://s7.addthis.com/js/300/addthis_widget.js:2:18774)\n    at e.exports (https://s7.addthis.com/js/300/addthis_widget.js:2:18017)\n    at https://s7.addthis.com/js/300/addthis_widget.js:2:2854\n    at Object.<anonymous> (https://s7.addthis.com/js/300/addthis_widget.js:2:5243)\n    at t (https://s7.addthis.com/js/300/addthis_widget.js:1:107)\n    at Object.<anonymous> (https://s7.addthis.com/js/300/addthis_widget.js:1:7126)\n    at t (https://s7.addthis.com/js/300/addthis_widget.js:1:107)\n    at https://s7.addthis.com/js/300/addthis_widget.js:1:6823\n    at https://s7.addthis.com/js/300/addthis_widget.js:1:6828",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'indexOf' of undef…://s7.addthis.com/js/300/addthis_widget.js:1:6828"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'indexOf' of undefined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583003566562.754,
+    "exceptionDetails": {
+      "exceptionId": 2,
+      "text": "Uncaught",
+      "lineNumber": 42,
+      "columnNumber": 3302,
+      "url": "https://www.pierre-fabre.com/sites/pierre-fabre.com/files/js/js_DxKhhbFIXqiU2Zs6NZigMfBT_qjAd047_RwjdNNAY-0.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "Carousel.slide",
+            "scriptId": "30",
+            "url": "https://www.pierre-fabre.com/sites/pierre-fabre.com/files/js/js_DxKhhbFIXqiU2Zs6NZigMfBT_qjAd047_RwjdNNAY-0.js",
+            "lineNumber": 42,
+            "columnNumber": 3302
+          },
+          {
+            "functionName": "Carousel.next",
+            "scriptId": "30",
+            "url": "https://www.pierre-fabre.com/sites/pierre-fabre.com/files/js/js_DxKhhbFIXqiU2Zs6NZigMfBT_qjAd047_RwjdNNAY-0.js",
+            "lineNumber": 42,
+            "columnNumber": 2307
+          },
+          {
+            "functionName": "i",
+            "scriptId": "29",
+            "url": "https://www.pierre-fabre.com/sites/pierre-fabre.com/files/js/js_p4-KTXAqq6Xn1brBiAutlfEISx5_MEVxqF94uW9LkxI.js",
+            "lineNumber": 1,
+            "columnNumber": 87484
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'offsetWidth' of undefined\n    at Carousel.slide (https://www.pierre-fabre.com/sites/pierre-fabre.com/files/js/js_DxKhhbFIXqiU2Zs6NZigMfBT_qjAd047_RwjdNNAY-0.js:43:3303)\n    at Carousel.next (https://www.pierre-fabre.com/sites/pierre-fabre.com/files/js/js_DxKhhbFIXqiU2Zs6NZigMfBT_qjAd047_RwjdNNAY-0.js:43:2308)\n    at i (https://www.pierre-fabre.com/sites/pierre-fabre.com/files/js/js_p4-KTXAqq6Xn1brBiAutlfEISx5_MEVxqF94uW9LkxI.js:2:87485)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":3}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'offsetWidth' of undefined\n    at Carousel.slide (https://www.pierre-fabre.com/sites/pierre-fabre.com/files/js/js_DxKhhbFIXqiU2Zs6NZigMfBT_qjAd047_RwjdNNAY-0.js:43:3303)\n    at Carousel.next (https://www.pierre-fabre.com/sites/pierre-fabre.com/files/js/js_DxKhhbFIXqiU2Zs6NZigMfBT_qjAd047_RwjdNNAY-0.js:43:2308)\n    at i (https://www.pierre-fabre.com/sites/pierre-fabre.com/files/js/js_p4-KTXAqq6Xn1brBiAutlfEISx5_MEVxqF94uW9LkxI.js:2:87485)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'offsetWidth' of u…Aqq6Xn1brBiAutlfEISx5_MEVxqF94uW9LkxI.js:2:87485)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'offsetWidth' of undefined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

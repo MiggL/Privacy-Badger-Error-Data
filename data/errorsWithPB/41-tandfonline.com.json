@@ -1,0 +1,194 @@
+[
+  {
+    "timestamp": 1583758951281.279,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught (in promise)",
+      "lineNumber": 0,
+      "columnNumber": 90116,
+      "url": "https://js.trendmd.com/trendmd.min.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "59",
+            "url": "https://js.trendmd.com/trendmd.min.js",
+            "lineNumber": 0,
+            "columnNumber": 90116
+          },
+          {
+            "functionName": "e",
+            "scriptId": "59",
+            "url": "https://js.trendmd.com/trendmd.min.js",
+            "lineNumber": 0,
+            "columnNumber": 6336
+          },
+          {
+            "functionName": "",
+            "scriptId": "59",
+            "url": "https://js.trendmd.com/trendmd.min.js",
+            "lineNumber": 0,
+            "columnNumber": 89509
+          },
+          {
+            "functionName": "value",
+            "scriptId": "59",
+            "url": "https://js.trendmd.com/trendmd.min.js",
+            "lineNumber": 0,
+            "columnNumber": 89473
+          },
+          {
+            "functionName": "value",
+            "scriptId": "59",
+            "url": "https://js.trendmd.com/trendmd.min.js",
+            "lineNumber": 0,
+            "columnNumber": 81213
+          },
+          {
+            "functionName": "",
+            "scriptId": "59",
+            "url": "https://js.trendmd.com/trendmd.min.js",
+            "lineNumber": 0,
+            "columnNumber": 84291
+          },
+          {
+            "functionName": "value",
+            "scriptId": "59",
+            "url": "https://js.trendmd.com/trendmd.min.js",
+            "lineNumber": 0,
+            "columnNumber": 83931
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "Error",
+        "description": "Error: No element\n    at https://js.trendmd.com/trendmd.min.js:1:90117\n    at Function.e [as domready] (https://js.trendmd.com/trendmd.min.js:1:6337)\n    at https://js.trendmd.com/trendmd.min.js:1:89510\n    at new Promise (<anonymous>)\n    at e.value (https://js.trendmd.com/trendmd.min.js:1:89474)\n    at e.value (https://js.trendmd.com/trendmd.min.js:1:81214)\n    at https://js.trendmd.com/trendmd.min.js:1:84292\n    at Array.map (<anonymous>)\n    at e.value (https://js.trendmd.com/trendmd.min.js:1:83932)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "Error: No element\n    at https://js.trendmd.com/trendmd.min.js:1:90117\n    at Function.e [as domready] (https://js.trendmd.com/trendmd.min.js:1:6337)\n    at https://js.trendmd.com/trendmd.min.js:1:89510\n    at new Promise (<anonymous>)\n    at e.value (https://js.trendmd.com/trendmd.min.js:1:89474)\n    at e.value (https://js.trendmd.com/trendmd.min.js:1:81214)\n    at https://js.trendmd.com/trendmd.min.js:1:84292\n    at Array.map (<anonymous>)\n    at e.value (https://js.trendmd.com/trendmd.min.js:1:83932)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "Error: No element\n    at https://js.trendmd.com/tr…e (https://js.trendmd.com/trendmd.min.js:1:83932)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "No element"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583758955039.756,
+    "exceptionDetails": {
+      "exceptionId": 2,
+      "text": "Uncaught",
+      "lineNumber": 5678,
+      "columnNumber": 7603,
+      "url": "https://www.tandfonline.com/wro/iblb~product.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "_calcItemPositions",
+            "scriptId": "22",
+            "url": "https://www.tandfonline.com/wro/iblb~product.js",
+            "lineNumber": 5678,
+            "columnNumber": 7603
+          },
+          {
+            "functionName": "_placeItems",
+            "scriptId": "22",
+            "url": "https://www.tandfonline.com/wro/iblb~product.js",
+            "lineNumber": 5678,
+            "columnNumber": 9242
+          },
+          {
+            "functionName": "_handleFiltering",
+            "scriptId": "22",
+            "url": "https://www.tandfonline.com/wro/iblb~product.js",
+            "lineNumber": 5678,
+            "columnNumber": 8991
+          },
+          {
+            "functionName": "filter",
+            "scriptId": "22",
+            "url": "https://www.tandfonline.com/wro/iblb~product.js",
+            "lineNumber": 5678,
+            "columnNumber": 2622
+          },
+          {
+            "functionName": "init",
+            "scriptId": "22",
+            "url": "https://www.tandfonline.com/wro/iblb~product.js",
+            "lineNumber": 5678,
+            "columnNumber": 2485
+          },
+          {
+            "functionName": "i.fn.filterizr",
+            "scriptId": "22",
+            "url": "https://www.tandfonline.com/wro/iblb~product.js",
+            "lineNumber": 5678,
+            "columnNumber": 979
+          },
+          {
+            "functionName": "",
+            "scriptId": "22",
+            "url": "https://www.tandfonline.com/wro/iblb~product.js",
+            "lineNumber": 6075,
+            "columnNumber": 261
+          },
+          {
+            "functionName": "dispatch",
+            "scriptId": "22",
+            "url": "https://www.tandfonline.com/wro/iblb~product.js",
+            "lineNumber": 31,
+            "columnNumber": 28336
+          },
+          {
+            "functionName": "v.handle",
+            "scriptId": "22",
+            "url": "https://www.tandfonline.com/wro/iblb~product.js",
+            "lineNumber": 31,
+            "columnNumber": 25041
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'outerWidth' of undefined\n    at init._calcItemPositions (https://www.tandfonline.com/wro/iblb~product.js:5679:7604)\n    at init._placeItems (https://www.tandfonline.com/wro/iblb~product.js:5679:9243)\n    at init._handleFiltering (https://www.tandfonline.com/wro/iblb~product.js:5679:8992)\n    at init.filter (https://www.tandfonline.com/wro/iblb~product.js:5679:2623)\n    at Object.init (https://www.tandfonline.com/wro/iblb~product.js:5679:2486)\n    at init.i.fn.filterizr (https://www.tandfonline.com/wro/iblb~product.js:5679:980)\n    at https://www.tandfonline.com/wro/iblb~product.js:6076:262\n    at dispatch (https://www.tandfonline.com/wro/iblb~product.js:32:28337)\n    at v.handle (https://www.tandfonline.com/wro/iblb~product.js:32:25042)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":2}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'outerWidth' of undefined\n    at init._calcItemPositions (https://www.tandfonline.com/wro/iblb~product.js:5679:7604)\n    at init._placeItems (https://www.tandfonline.com/wro/iblb~product.js:5679:9243)\n    at init._handleFiltering (https://www.tandfonline.com/wro/iblb~product.js:5679:8992)\n    at init.filter (https://www.tandfonline.com/wro/iblb~product.js:5679:2623)\n    at Object.init (https://www.tandfonline.com/wro/iblb~product.js:5679:2486)\n    at init.i.fn.filterizr (https://www.tandfonline.com/wro/iblb~product.js:5679:980)\n    at https://www.tandfonline.com/wro/iblb~product.js:6076:262\n    at dispatch (https://www.tandfonline.com/wro/iblb~product.js:32:28337)\n    at v.handle (https://www.tandfonline.com/wro/iblb~product.js:32:25042)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'outerWidth' of un…www.tandfonline.com/wro/iblb~product.js:32:25042)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'outerWidth' of undefined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

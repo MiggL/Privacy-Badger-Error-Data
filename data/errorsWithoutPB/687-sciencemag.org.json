@@ -1,0 +1,140 @@
+[
+  {
+    "timestamp": 1583007101716.023,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 844,
+      "columnNumber": 24,
+      "url": "https://www.sciencemag.org/news/2017/03/ronald-drever-co-founder-ligo-has-died",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "adDemo",
+            "scriptId": "24",
+            "url": "https://www.sciencemag.org/news/2017/03/ronald-drever-co-founder-ligo-has-died",
+            "lineNumber": 844,
+            "columnNumber": 24
+          },
+          {
+            "functionName": "",
+            "scriptId": "24",
+            "url": "https://www.sciencemag.org/news/2017/03/ronald-drever-co-founder-ligo-has-died",
+            "lineNumber": 870,
+            "columnNumber": 4
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: oas_tag is not defined\n    at adDemo (https://www.sciencemag.org/news/2017/03/ronald-drever-co-founder-ligo-has-died:845:25)\n    at https://www.sciencemag.org/news/2017/03/ronald-drever-co-founder-ligo-has-died:871:5",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: oas_tag is not defined\n    at adDemo (https://www.sciencemag.org/news/2017/03/ronald-drever-co-founder-ligo-has-died:845:25)\n    at https://www.sciencemag.org/news/2017/03/ronald-drever-co-founder-ligo-has-died:871:5",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: oas_tag is not defined\n    at adDe…7/03/ronald-drever-co-founder-ligo-has-died:871:5"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "oas_tag is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583007102890.29,
+    "exceptionDetails": {
+      "exceptionId": 2,
+      "text": "Uncaught",
+      "lineNumber": 43,
+      "columnNumber": 47,
+      "scriptId": "80",
+      "url": "https://8296686.fls.doubleclick.net/activityi;dc_pre=CLPiqIDJ9-cCFVC8dwod_B8Azg;src=8296686;type=sciecema;cat=scien001;ord=3930148589319;gtm=2od2j0;auiddc=196894005.1583007103;~oref=https%3A%2F%2Fwww.sciencemag.org%2Fnews%2F2017%2F03%2Fronald-drever-co-founder-ligo-has-died?",
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "SyntaxError",
+        "description": "SyntaxError: Unexpected identifier",
+        "objectId": "{\"injectedScriptId\":18,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "SyntaxError: Unexpected identifier",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "SyntaxError: Unexpected identifier"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Unexpected identifier"
+            }
+          ]
+        }
+      },
+      "executionContextId": 18
+    }
+  },
+  {
+    "timestamp": 1583007103522.0361,
+    "exceptionDetails": {
+      "exceptionId": 3,
+      "text": "Uncaught",
+      "lineNumber": 0,
+      "columnNumber": 41,
+      "url": "https://www.sciencemag.org/news/2017/03/ronald-drever-co-founder-ligo-has-died",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "onload",
+            "scriptId": "95",
+            "url": "https://www.sciencemag.org/news/2017/03/ronald-drever-co-founder-ligo-has-died",
+            "lineNumber": 0,
+            "columnNumber": 41
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'body' of null\n    at HTMLIFrameElement.onload (https://www.sciencemag.org/news/2017/03/ronald-drever-co-founder-ligo-has-died:1:42)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":2}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'body' of null\n    at HTMLIFrameElement.onload (https://www.sciencemag.org/news/2017/03/ronald-drever-co-founder-ligo-has-died:1:42)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'body' of null\n   …7/03/ronald-drever-co-founder-ligo-has-died:1:42)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'body' of null"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

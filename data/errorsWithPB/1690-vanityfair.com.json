@@ -1,0 +1,238 @@
+[
+  {
+    "timestamp": 1583416757227.272,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught (in promise)",
+      "lineNumber": 0,
+      "columnNumber": 2033,
+      "url": "https://www.vanityfair.com/hotzones/src/pixelpropagate.js?cb=10125",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "beaconErr",
+            "scriptId": "44",
+            "url": "https://www.vanityfair.com/hotzones/src/pixelpropagate.js?cb=10125",
+            "lineNumber": 0,
+            "columnNumber": 2033
+          }
+        ]
+      },
+      "exception": {
+        "type": "undefined"
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583416760926.6611,
+    "exceptionDetails": {
+      "exceptionId": 2,
+      "text": "Uncaught",
+      "lineNumber": 11,
+      "columnNumber": 203427,
+      "url": "https://d2c8v52ll5s99u.cloudfront.net/player/main-8acd27185b78ea8d8dde.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "e.__tryOrUnsub",
+            "scriptId": "106",
+            "url": "https://d2c8v52ll5s99u.cloudfront.net/player/main-8acd27185b78ea8d8dde.js",
+            "lineNumber": 11,
+            "columnNumber": 203427
+          },
+          {
+            "functionName": "e.error",
+            "scriptId": "106",
+            "url": "https://d2c8v52ll5s99u.cloudfront.net/player/main-8acd27185b78ea8d8dde.js",
+            "lineNumber": 11,
+            "columnNumber": 202931
+          },
+          {
+            "functionName": "e._error",
+            "scriptId": "106",
+            "url": "https://d2c8v52ll5s99u.cloudfront.net/player/main-8acd27185b78ea8d8dde.js",
+            "lineNumber": 11,
+            "columnNumber": 201833
+          },
+          {
+            "functionName": "e.error",
+            "scriptId": "106",
+            "url": "https://d2c8v52ll5s99u.cloudfront.net/player/main-8acd27185b78ea8d8dde.js",
+            "lineNumber": 11,
+            "columnNumber": 201527
+          },
+          {
+            "functionName": "e.notifyError",
+            "scriptId": "106",
+            "url": "https://d2c8v52ll5s99u.cloudfront.net/player/main-8acd27185b78ea8d8dde.js",
+            "lineNumber": 11,
+            "columnNumber": 204408
+          },
+          {
+            "functionName": "e._error",
+            "scriptId": "106",
+            "url": "https://d2c8v52ll5s99u.cloudfront.net/player/main-8acd27185b78ea8d8dde.js",
+            "lineNumber": 11,
+            "columnNumber": 339563
+          },
+          {
+            "functionName": "e.error",
+            "scriptId": "106",
+            "url": "https://d2c8v52ll5s99u.cloudfront.net/player/main-8acd27185b78ea8d8dde.js",
+            "lineNumber": 11,
+            "columnNumber": 201527
+          },
+          {
+            "functionName": "e._error",
+            "scriptId": "106",
+            "url": "https://d2c8v52ll5s99u.cloudfront.net/player/main-8acd27185b78ea8d8dde.js",
+            "lineNumber": 11,
+            "columnNumber": 361009
+          },
+          {
+            "functionName": "e.error",
+            "scriptId": "106",
+            "url": "https://d2c8v52ll5s99u.cloudfront.net/player/main-8acd27185b78ea8d8dde.js",
+            "lineNumber": 11,
+            "columnNumber": 201527
+          },
+          {
+            "functionName": "e._error",
+            "scriptId": "106",
+            "url": "https://d2c8v52ll5s99u.cloudfront.net/player/main-8acd27185b78ea8d8dde.js",
+            "lineNumber": 11,
+            "columnNumber": 201833
+          },
+          {
+            "functionName": "e.error",
+            "scriptId": "106",
+            "url": "https://d2c8v52ll5s99u.cloudfront.net/player/main-8acd27185b78ea8d8dde.js",
+            "lineNumber": 11,
+            "columnNumber": 201527
+          },
+          {
+            "functionName": "e.error",
+            "scriptId": "106",
+            "url": "https://d2c8v52ll5s99u.cloudfront.net/player/main-8acd27185b78ea8d8dde.js",
+            "lineNumber": 11,
+            "columnNumber": 214518
+          },
+          {
+            "functionName": "e._error",
+            "scriptId": "106",
+            "url": "https://d2c8v52ll5s99u.cloudfront.net/player/main-8acd27185b78ea8d8dde.js",
+            "lineNumber": 11,
+            "columnNumber": 201833
+          },
+          {
+            "functionName": "e._error",
+            "scriptId": "106",
+            "url": "https://d2c8v52ll5s99u.cloudfront.net/player/main-8acd27185b78ea8d8dde.js",
+            "lineNumber": 11,
+            "columnNumber": 373343
+          },
+          {
+            "functionName": "e.error",
+            "scriptId": "106",
+            "url": "https://d2c8v52ll5s99u.cloudfront.net/player/main-8acd27185b78ea8d8dde.js",
+            "lineNumber": 11,
+            "columnNumber": 201527
+          },
+          {
+            "functionName": "e.notifyError",
+            "scriptId": "106",
+            "url": "https://d2c8v52ll5s99u.cloudfront.net/player/main-8acd27185b78ea8d8dde.js",
+            "lineNumber": 11,
+            "columnNumber": 204408
+          },
+          {
+            "functionName": "e._error",
+            "scriptId": "106",
+            "url": "https://d2c8v52ll5s99u.cloudfront.net/player/main-8acd27185b78ea8d8dde.js",
+            "lineNumber": 11,
+            "columnNumber": 339563
+          },
+          {
+            "functionName": "e.error",
+            "scriptId": "106",
+            "url": "https://d2c8v52ll5s99u.cloudfront.net/player/main-8acd27185b78ea8d8dde.js",
+            "lineNumber": 11,
+            "columnNumber": 201527
+          },
+          {
+            "functionName": "e.notifyError",
+            "scriptId": "106",
+            "url": "https://d2c8v52ll5s99u.cloudfront.net/player/main-8acd27185b78ea8d8dde.js",
+            "lineNumber": 11,
+            "columnNumber": 204408
+          },
+          {
+            "functionName": "e._error",
+            "scriptId": "106",
+            "url": "https://d2c8v52ll5s99u.cloudfront.net/player/main-8acd27185b78ea8d8dde.js",
+            "lineNumber": 11,
+            "columnNumber": 339563
+          },
+          {
+            "functionName": "e.error",
+            "scriptId": "106",
+            "url": "https://d2c8v52ll5s99u.cloudfront.net/player/main-8acd27185b78ea8d8dde.js",
+            "lineNumber": 11,
+            "columnNumber": 201527
+          },
+          {
+            "functionName": "e._error",
+            "scriptId": "106",
+            "url": "https://d2c8v52ll5s99u.cloudfront.net/player/main-8acd27185b78ea8d8dde.js",
+            "lineNumber": 11,
+            "columnNumber": 201833
+          },
+          {
+            "functionName": "e.error",
+            "scriptId": "106",
+            "url": "https://d2c8v52ll5s99u.cloudfront.net/player/main-8acd27185b78ea8d8dde.js",
+            "lineNumber": 11,
+            "columnNumber": 201527
+          },
+          {
+            "functionName": "n.onerror",
+            "scriptId": "106",
+            "url": "https://d2c8v52ll5s99u.cloudfront.net/player/main-8acd27185b78ea8d8dde.js",
+            "lineNumber": 11,
+            "columnNumber": 223813
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "className": "Object",
+        "description": "Object",
+        "objectId": "{\"injectedScriptId\":18,\"id\":2}",
+        "preview": {
+          "type": "object",
+          "description": "Object",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "message",
+              "type": "string",
+              "value": "ajax error. Trying to GET https://pubads.g.doublec…cmsid=1495&ppid=befe981b083d4fd9a033d93e811ddbdd."
+            },
+            {
+              "name": "status",
+              "type": "number",
+              "value": "0"
+            },
+            {
+              "name": "success",
+              "type": "boolean",
+              "value": "false"
+            }
+          ]
+        }
+      },
+      "executionContextId": 18
+    }
+  }
+]

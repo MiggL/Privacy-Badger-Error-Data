@@ -1,0 +1,56 @@
+[
+  {
+    "timestamp": 1582819146180.234,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 79,
+      "columnNumber": 23,
+      "url": "https://www.wwf.fr/libraries/anzeixer/dist/anzeixer.js?v=1",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "46",
+            "url": "https://www.wwf.fr/libraries/anzeixer/dist/anzeixer.js?v=1",
+            "lineNumber": 79,
+            "columnNumber": 23
+          },
+          {
+            "functionName": "",
+            "scriptId": "46",
+            "url": "https://www.wwf.fr/libraries/anzeixer/dist/anzeixer.js?v=1",
+            "lineNumber": 91,
+            "columnNumber": 1
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'push' of undefined\n    at https://www.wwf.fr/libraries/anzeixer/dist/anzeixer.js?v=1:80:24\n    at https://www.wwf.fr/libraries/anzeixer/dist/anzeixer.js?v=1:92:2",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'push' of undefined\n    at https://www.wwf.fr/libraries/anzeixer/dist/anzeixer.js?v=1:80:24\n    at https://www.wwf.fr/libraries/anzeixer/dist/anzeixer.js?v=1:92:2",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'push' of undefine…f.fr/libraries/anzeixer/dist/anzeixer.js?v=1:92:2"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'push' of undefined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

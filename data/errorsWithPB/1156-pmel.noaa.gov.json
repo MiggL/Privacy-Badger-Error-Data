@@ -1,0 +1,49 @@
+[
+  {
+    "timestamp": 1583421748521.463,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 99,
+      "columnNumber": 18,
+      "url": "https://www.pmel.noaa.gov/eoi/nemo2000/logbook/stu080300.html",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "20",
+            "url": "https://www.pmel.noaa.gov/eoi/nemo2000/logbook/stu080300.html",
+            "lineNumber": 99,
+            "columnNumber": 18
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: ImageCommander is not defined\n    at https://www.pmel.noaa.gov/eoi/nemo2000/logbook/stu080300.html:100:19",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: ImageCommander is not defined\n    at https://www.pmel.noaa.gov/eoi/nemo2000/logbook/stu080300.html:100:19",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: ImageCommander is not defined\n    …aa.gov/eoi/nemo2000/logbook/stu080300.html:100:19"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "ImageCommander is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

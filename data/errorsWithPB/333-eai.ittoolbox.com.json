@@ -1,0 +1,178 @@
+[
+  {
+    "timestamp": 1583751533300.745,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 661,
+      "columnNumber": 10,
+      "url": "https://it.toolbox.com/question/clear-timer-in-hawk-040803",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "35",
+            "url": "https://it.toolbox.com/question/clear-timer-in-hawk-040803",
+            "lineNumber": 661,
+            "columnNumber": 10
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'addEventListener' of null\n    at https://it.toolbox.com/question/clear-timer-in-hawk-040803:662:11",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'addEventListener' of null\n    at https://it.toolbox.com/question/clear-timer-in-hawk-040803:662:11",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'addEventListener'…ox.com/question/clear-timer-in-hawk-040803:662:11"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'addEventListener' of null"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583751534194.9512,
+    "exceptionDetails": {
+      "exceptionId": 2,
+      "text": "Uncaught",
+      "lineNumber": 51,
+      "columnNumber": 42,
+      "url": "https://cdn.ziffstatic.com/jst/zdsticky.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "init",
+            "scriptId": "41",
+            "url": "https://cdn.ziffstatic.com/jst/zdsticky.js",
+            "lineNumber": 51,
+            "columnNumber": 42
+          },
+          {
+            "functionName": "",
+            "scriptId": "41",
+            "url": "https://cdn.ziffstatic.com/jst/zdsticky.js",
+            "lineNumber": 192,
+            "columnNumber": 15
+          },
+          {
+            "functionName": "k",
+            "scriptId": "34",
+            "url": "https://toolbox.brightspotcdn.com/resource/page-article.concat.97ed6e99213966c53839ae9c38645923.gz.js",
+            "lineNumber": 0,
+            "columnNumber": 50669
+          },
+          {
+            "functionName": "add",
+            "scriptId": "34",
+            "url": "https://toolbox.brightspotcdn.com/resource/page-article.concat.97ed6e99213966c53839ae9c38645923.gz.js",
+            "lineNumber": 0,
+            "columnNumber": 50973
+          },
+          {
+            "functionName": "_.fn.ready",
+            "scriptId": "34",
+            "url": "https://toolbox.brightspotcdn.com/resource/page-article.concat.97ed6e99213966c53839ae9c38645923.gz.js",
+            "lineNumber": 0,
+            "columnNumber": 53079
+          },
+          {
+            "functionName": "",
+            "scriptId": "41",
+            "url": "https://cdn.ziffstatic.com/jst/zdsticky.js",
+            "lineNumber": 191,
+            "columnNumber": 19
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'top' of undefined\n    at Object.init (https://cdn.ziffstatic.com/jst/zdsticky.js:52:43)\n    at HTMLDocument.<anonymous> (https://cdn.ziffstatic.com/jst/zdsticky.js:193:16)\n    at k (https://toolbox.brightspotcdn.com/resource/page-article.concat.97ed6e99213966c53839ae9c38645923.gz.js:1:50670)\n    at Object.add [as done] (https://toolbox.brightspotcdn.com/resource/page-article.concat.97ed6e99213966c53839ae9c38645923.gz.js:1:50974)\n    at _.fn.init._.fn.ready (https://toolbox.brightspotcdn.com/resource/page-article.concat.97ed6e99213966c53839ae9c38645923.gz.js:1:53080)\n    at https://cdn.ziffstatic.com/jst/zdsticky.js:192:20",
+        "objectId": "{\"injectedScriptId\":3,\"id\":23}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'top' of undefined\n    at Object.init (https://cdn.ziffstatic.com/jst/zdsticky.js:52:43)\n    at HTMLDocument.<anonymous> (https://cdn.ziffstatic.com/jst/zdsticky.js:193:16)\n    at k (https://toolbox.brightspotcdn.com/resource/page-article.concat.97ed6e99213966c53839ae9c38645923.gz.js:1:50670)\n    at Object.add [as done] (https://toolbox.brightspotcdn.com/resource/page-article.concat.97ed6e99213966c53839ae9c38645923.gz.js:1:50974)\n    at _.fn.init._.fn.ready (https://toolbox.brightspotcdn.com/resource/page-article.concat.97ed6e99213966c53839ae9c38645923.gz.js:1:53080)\n    at https://cdn.ziffstatic.com/jst/zdsticky.js:192:20",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'top' of undefined…https://cdn.ziffstatic.com/jst/zdsticky.js:192:20"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'top' of undefined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583751534227.183,
+    "exceptionDetails": {
+      "exceptionId": 3,
+      "text": "Uncaught",
+      "lineNumber": 535,
+      "columnNumber": 247,
+      "url": "https://cdn.nsstatic.net/ns/toolbox-spiceworks.com.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "b.onerror",
+            "scriptId": "21",
+            "url": "https://cdn.nsstatic.net/ns/toolbox-spiceworks.com.js",
+            "lineNumber": 535,
+            "columnNumber": 247
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: NSGPT.loadGPT is not a function\n    at HTMLScriptElement.b.onerror (https://cdn.nsstatic.net/ns/toolbox-spiceworks.com.js:536:248)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":24}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: NSGPT.loadGPT is not a function\n    at HTMLScriptElement.b.onerror (https://cdn.nsstatic.net/ns/toolbox-spiceworks.com.js:536:248)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: NSGPT.loadGPT is not a function\n    at …sstatic.net/ns/toolbox-spiceworks.com.js:536:248)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "NSGPT.loadGPT is not a function"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

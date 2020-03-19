@@ -1,0 +1,239 @@
+[
+  {
+    "timestamp": 1583012874515.321,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 3,
+      "columnNumber": 2,
+      "url": "https://www.us.emb-japan.go.jp/jicc/js/app.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "18",
+            "url": "https://www.us.emb-japan.go.jp/jicc/js/app.js",
+            "lineNumber": 3,
+            "columnNumber": 2
+          },
+          {
+            "functionName": "",
+            "scriptId": "18",
+            "url": "https://www.us.emb-japan.go.jp/jicc/js/app.js",
+            "lineNumber": 5,
+            "columnNumber": 1
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: angular is not defined\n    at https://www.us.emb-japan.go.jp/jicc/js/app.js:4:3\n    at https://www.us.emb-japan.go.jp/jicc/js/app.js:6:2",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: angular is not defined\n    at https://www.us.emb-japan.go.jp/jicc/js/app.js:4:3\n    at https://www.us.emb-japan.go.jp/jicc/js/app.js:6:2",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: angular is not defined\n    at http…https://www.us.emb-japan.go.jp/jicc/js/app.js:6:2"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "angular is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583012874516.2302,
+    "exceptionDetails": {
+      "exceptionId": 2,
+      "text": "Uncaught",
+      "lineNumber": 61,
+      "columnNumber": 2,
+      "url": "https://www.us.emb-japan.go.jp/jicc/js/MainService.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "19",
+            "url": "https://www.us.emb-japan.go.jp/jicc/js/MainService.js",
+            "lineNumber": 61,
+            "columnNumber": 2
+          },
+          {
+            "functionName": "",
+            "scriptId": "19",
+            "url": "https://www.us.emb-japan.go.jp/jicc/js/MainService.js",
+            "lineNumber": 62,
+            "columnNumber": 1
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: angular is not defined\n    at https://www.us.emb-japan.go.jp/jicc/js/MainService.js:62:3\n    at https://www.us.emb-japan.go.jp/jicc/js/MainService.js:63:2",
+        "objectId": "{\"injectedScriptId\":3,\"id\":2}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: angular is not defined\n    at https://www.us.emb-japan.go.jp/jicc/js/MainService.js:62:3\n    at https://www.us.emb-japan.go.jp/jicc/js/MainService.js:63:2",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: angular is not defined\n    at http…ww.us.emb-japan.go.jp/jicc/js/MainService.js:63:2"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "angular is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583012874516.722,
+    "exceptionDetails": {
+      "exceptionId": 3,
+      "text": "Uncaught",
+      "lineNumber": 16,
+      "columnNumber": 2,
+      "url": "https://www.us.emb-japan.go.jp/jicc/js/MainController.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "20",
+            "url": "https://www.us.emb-japan.go.jp/jicc/js/MainController.js",
+            "lineNumber": 16,
+            "columnNumber": 2
+          },
+          {
+            "functionName": "",
+            "scriptId": "20",
+            "url": "https://www.us.emb-japan.go.jp/jicc/js/MainController.js",
+            "lineNumber": 17,
+            "columnNumber": 1
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: angular is not defined\n    at https://www.us.emb-japan.go.jp/jicc/js/MainController.js:17:3\n    at https://www.us.emb-japan.go.jp/jicc/js/MainController.js:18:2",
+        "objectId": "{\"injectedScriptId\":3,\"id\":3}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: angular is not defined\n    at https://www.us.emb-japan.go.jp/jicc/js/MainController.js:17:3\n    at https://www.us.emb-japan.go.jp/jicc/js/MainController.js:18:2",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: angular is not defined\n    at http…us.emb-japan.go.jp/jicc/js/MainController.js:18:2"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "angular is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583012874601.308,
+    "exceptionDetails": {
+      "exceptionId": 4,
+      "text": "Uncaught",
+      "lineNumber": 20,
+      "columnNumber": 1,
+      "url": "https://www.us.emb-japan.go.jp/jicc/js/main.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "17",
+            "url": "https://www.us.emb-japan.go.jp/jicc/js/main.js",
+            "lineNumber": 20,
+            "columnNumber": 1
+          },
+          {
+            "functionName": "l",
+            "scriptId": "14",
+            "url": "https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js",
+            "lineNumber": 1,
+            "columnNumber": 16995
+          },
+          {
+            "functionName": "fireWith",
+            "scriptId": "14",
+            "url": "https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js",
+            "lineNumber": 1,
+            "columnNumber": 17782
+          },
+          {
+            "functionName": "ready",
+            "scriptId": "14",
+            "url": "https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js",
+            "lineNumber": 1,
+            "columnNumber": 12503
+          },
+          {
+            "functionName": "A",
+            "scriptId": "14",
+            "url": "https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js",
+            "lineNumber": 1,
+            "columnNumber": 9908
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: WOW is not defined\n    at HTMLDocument.<anonymous> (https://www.us.emb-japan.go.jp/jicc/js/main.js:21:2)\n    at l (https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js:2:16996)\n    at Object.fireWith [as resolveWith] (https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js:2:17783)\n    at Function.ready (https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js:2:12504)\n    at HTMLDocument.A (https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js:2:9909)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":4}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: WOW is not defined\n    at HTMLDocument.<anonymous> (https://www.us.emb-japan.go.jp/jicc/js/main.js:21:2)\n    at l (https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js:2:16996)\n    at Object.fireWith [as resolveWith] (https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js:2:17783)\n    at Function.ready (https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js:2:12504)\n    at HTMLDocument.A (https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js:2:9909)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: WOW is not defined\n    at HTMLDocu….com/ajax/libs/jquery/1.8.3/jquery.min.js:2:9909)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "WOW is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

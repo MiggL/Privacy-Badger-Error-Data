@@ -1,0 +1,32 @@
+[
+  {
+    "timestamp": 1582734813432.468,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught (in promise)",
+      "lineNumber": 0,
+      "columnNumber": 0,
+      "scriptId": "1",
+      "url": "https://www.target.com/p/seventh-element-hardcover-wendy-mass/-/A-51133461?lnk=rec%7Cpdpipadh2%7Cbought_bought%7Cpdpipadh2%7C51133461%7C1",
+      "exception": {
+        "type": "object",
+        "className": "Object",
+        "description": "Object",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "description": "Object",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "hasGuestStore",
+              "type": "boolean",
+              "value": "false"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

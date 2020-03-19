@@ -1,0 +1,56 @@
+[
+  {
+    "timestamp": 1583422306239.0571,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 1,
+      "columnNumber": 1619,
+      "url": "http://www.plant-punch.pl/wp-content/themes/plantpunch/js/insta.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "e.parse",
+            "scriptId": "33",
+            "url": "http://www.plant-punch.pl/wp-content/themes/plantpunch/js/insta.js",
+            "lineNumber": 1,
+            "columnNumber": 1619
+          },
+          {
+            "functionName": "",
+            "scriptId": "60",
+            "url": "https://api.instagram.com/v1/users/1098483766/media/recent?access_token=1098483766.467ede5.73ea8e81beb349cda635eb6f46e77f64&count=6&callback=instafeedCache65b95559d82b1115.parse",
+            "lineNumber": 0,
+            "columnNumber": 36
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "Error",
+        "description": "Error: Error from Instagram: The access_token provided does not match an approved application.\n    at e.parse (http://www.plant-punch.pl/wp-content/themes/plantpunch/js/insta.js:2:1620)\n    at https://api.instagram.com/v1/users/1098483766/media/recent?access_token=1098483766.467ede5.73ea8e81beb349cda635eb6f46e77f64&count=6&callback=instafeedCache65b95559d82b1115.parse:1:37",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "Error: Error from Instagram: The access_token provided does not match an approved application.\n    at e.parse (http://www.plant-punch.pl/wp-content/themes/plantpunch/js/insta.js:2:1620)\n    at https://api.instagram.com/v1/users/1098483766/media/recent?access_token=1098483766.467ede5.73ea8e81beb349cda635eb6f46e77f64&count=6&callback=instafeedCache65b95559d82b1115.parse:1:37",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "Error: Error from Instagram: The access_token prov…allback=instafeedCache65b95559d82b1115.parse:1:37"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Error from Instagram: The access_token provided does not match an approved application."
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

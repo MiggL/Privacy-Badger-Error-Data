@@ -1,0 +1,49 @@
+[
+  {
+    "timestamp": 1582816814658.021,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 2902,
+      "columnNumber": 74,
+      "url": "https://the-chicken-chick.com/sprouting-grains-for-chickens-fodder/",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "41",
+            "url": "https://the-chicken-chick.com/sprouting-grains-for-chickens-fodder/",
+            "lineNumber": 2902,
+            "columnNumber": 74
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot set property 'onclick' of null\n    at HTMLDocument.<anonymous> (https://the-chicken-chick.com/sprouting-grains-for-chickens-fodder/:2903:75)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot set property 'onclick' of null\n    at HTMLDocument.<anonymous> (https://the-chicken-chick.com/sprouting-grains-for-chickens-fodder/:2903:75)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot set property 'onclick' of null\n …om/sprouting-grains-for-chickens-fodder/:2903:75)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot set property 'onclick' of null"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

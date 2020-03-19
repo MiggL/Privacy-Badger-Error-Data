@@ -1,0 +1,49 @@
+[
+  {
+    "timestamp": 1583417403443.5679,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 121,
+      "columnNumber": 2,
+      "url": "https://www.familyhandyman.com/electrical/outdoor-lighting/vinyl-siding-lights-how-to-mount-lights-using-a-vinyl-mounting-block/",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "50",
+            "url": "https://www.familyhandyman.com/electrical/outdoor-lighting/vinyl-siding-lights-how-to-mount-lights-using-a-vinyl-mounting-block/",
+            "lineNumber": 121,
+            "columnNumber": 2
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: gs_channels is not defined\n    at https://www.familyhandyman.com/electrical/outdoor-lighting/vinyl-siding-lights-how-to-mount-lights-using-a-vinyl-mounting-block/:122:3",
+        "objectId": "{\"injectedScriptId\":3,\"id\":6}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: gs_channels is not defined\n    at https://www.familyhandyman.com/electrical/outdoor-lighting/vinyl-siding-lights-how-to-mount-lights-using-a-vinyl-mounting-block/:122:3",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: gs_channels is not defined\n    at …-mount-lights-using-a-vinyl-mounting-block/:122:3"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "gs_channels is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

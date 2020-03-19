@@ -1,0 +1,56 @@
+[
+  {
+    "timestamp": 1583759252872.3208,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 28,
+      "columnNumber": 20,
+      "url": "https://cdn.shopify.com/s/files/1/0732/9117/t/25/assets/jquery.fancybox-1.3.4.js?4742",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "42",
+            "url": "https://cdn.shopify.com/s/files/1/0732/9117/t/25/assets/jquery.fancybox-1.3.4.js?4742",
+            "lineNumber": 28,
+            "columnNumber": 20
+          },
+          {
+            "functionName": "",
+            "scriptId": "42",
+            "url": "https://cdn.shopify.com/s/files/1/0732/9117/t/25/assets/jquery.fancybox-1.3.4.js?4742",
+            "lineNumber": 1155,
+            "columnNumber": 2
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'msie' of undefined\n    at https://cdn.shopify.com/s/files/1/0732/9117/t/25/assets/jquery.fancybox-1.3.4.js?4742:29:21\n    at https://cdn.shopify.com/s/files/1/0732/9117/t/25/assets/jquery.fancybox-1.3.4.js?4742:1156:3",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'msie' of undefined\n    at https://cdn.shopify.com/s/files/1/0732/9117/t/25/assets/jquery.fancybox-1.3.4.js?4742:29:21\n    at https://cdn.shopify.com/s/files/1/0732/9117/t/25/assets/jquery.fancybox-1.3.4.js?4742:1156:3",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'msie' of undefine…/t/25/assets/jquery.fancybox-1.3.4.js?4742:1156:3"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'msie' of undefined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

@@ -1,0 +1,49 @@
+[
+  {
+    "timestamp": 1583750132402.738,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 38,
+      "columnNumber": 55,
+      "url": "http://www.zoom-cargo.com/31_100006-transport-of-special-consignments-valuable-dangero",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "onload",
+            "scriptId": "30",
+            "url": "http://www.zoom-cargo.com/31_100006-transport-of-special-consignments-valuable-dangero",
+            "lineNumber": 38,
+            "columnNumber": 55
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: startAnimace is not defined\n    at onload (http://www.zoom-cargo.com/31_100006-transport-of-special-consignments-valuable-dangero:39:56)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: startAnimace is not defined\n    at onload (http://www.zoom-cargo.com/31_100006-transport-of-special-consignments-valuable-dangero:39:56)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: startAnimace is not defined\n    at…t-of-special-consignments-valuable-dangero:39:56)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "startAnimace is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

@@ -1,0 +1,76 @@
+[
+  {
+    "timestamp": 1583757531294.449,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 2,
+      "columnNumber": 221,
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "26",
+            "url": "",
+            "lineNumber": 2,
+            "columnNumber": 221
+          },
+          {
+            "functionName": "domEval",
+            "scriptId": "24",
+            "url": "https://fedoraproject.org/w/load.php?debug=false&lang=en&modules=startup&only=scripts&skin=fedora",
+            "lineNumber": 10,
+            "columnNumber": 242
+          },
+          {
+            "functionName": "runScript",
+            "scriptId": "24",
+            "url": "https://fedoraproject.org/w/load.php?debug=false&lang=en&modules=startup&only=scripts&skin=fedora",
+            "lineNumber": 11,
+            "columnNumber": 877
+          },
+          {
+            "functionName": "execute",
+            "scriptId": "24",
+            "url": "https://fedoraproject.org/w/load.php?debug=false&lang=en&modules=startup&only=scripts&skin=fedora",
+            "lineNumber": 13,
+            "columnNumber": 104
+          },
+          {
+            "functionName": "doPropagation",
+            "scriptId": "24",
+            "url": "https://fedoraproject.org/w/load.php?debug=false&lang=en&modules=startup&only=scripts&skin=fedora",
+            "lineNumber": 6,
+            "columnNumber": 907
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: addOnloadHook is not defined\n    at <anonymous>:3:222\n    at domEval (https://fedoraproject.org/w/load.php?debug=false&lang=en&modules=startup&only=scripts&skin=fedora:11:243)\n    at runScript (https://fedoraproject.org/w/load.php?debug=false&lang=en&modules=startup&only=scripts&skin=fedora:12:878)\n    at execute (https://fedoraproject.org/w/load.php?debug=false&lang=en&modules=startup&only=scripts&skin=fedora:14:105)\n    at doPropagation (https://fedoraproject.org/w/load.php?debug=false&lang=en&modules=startup&only=scripts&skin=fedora:7:908)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: addOnloadHook is not defined\n    at <anonymous>:3:222\n    at domEval (https://fedoraproject.org/w/load.php?debug=false&lang=en&modules=startup&only=scripts&skin=fedora:11:243)\n    at runScript (https://fedoraproject.org/w/load.php?debug=false&lang=en&modules=startup&only=scripts&skin=fedora:12:878)\n    at execute (https://fedoraproject.org/w/load.php?debug=false&lang=en&modules=startup&only=scripts&skin=fedora:14:105)\n    at doPropagation (https://fedoraproject.org/w/load.php?debug=false&lang=en&modules=startup&only=scripts&skin=fedora:7:908)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: addOnloadHook is not defined\n    a…n&modules=startup&only=scripts&skin=fedora:7:908)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "addOnloadHook is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

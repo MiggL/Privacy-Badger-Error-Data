@@ -1,0 +1,147 @@
+[
+  {
+    "timestamp": 1583001283230.59,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 1,
+      "columnNumber": 12680,
+      "url": "https://joingainswave.com/wp-includes/js/jquery/jquery.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "ea.error",
+            "scriptId": "12",
+            "url": "https://joingainswave.com/wp-includes/js/jquery/jquery.js",
+            "lineNumber": 1,
+            "columnNumber": 12680
+          },
+          {
+            "functionName": "ea.tokenize",
+            "scriptId": "12",
+            "url": "https://joingainswave.com/wp-includes/js/jquery/jquery.js",
+            "lineNumber": 1,
+            "columnNumber": 18716
+          },
+          {
+            "functionName": "ea.select",
+            "scriptId": "12",
+            "url": "https://joingainswave.com/wp-includes/js/jquery/jquery.js",
+            "lineNumber": 1,
+            "columnNumber": 21524
+          },
+          {
+            "functionName": "ea",
+            "scriptId": "12",
+            "url": "https://joingainswave.com/wp-includes/js/jquery/jquery.js",
+            "lineNumber": 1,
+            "columnNumber": 7332
+          },
+          {
+            "functionName": "a.find",
+            "scriptId": "25",
+            "url": "https://joingainswave.com/wp-content/cache/min/1/3f3de03cb5cb98cd08baecf62f0ad37b.js",
+            "lineNumber": 8,
+            "columnNumber": 3685
+          },
+          {
+            "functionName": "find",
+            "scriptId": "12",
+            "url": "https://joingainswave.com/wp-includes/js/jquery/jquery.js",
+            "lineNumber": 1,
+            "columnNumber": 24029
+          },
+          {
+            "functionName": "a.fn.find",
+            "scriptId": "25",
+            "url": "https://joingainswave.com/wp-content/cache/min/1/3f3de03cb5cb98cd08baecf62f0ad37b.js",
+            "lineNumber": 8,
+            "columnNumber": 8930
+          },
+          {
+            "functionName": "n.fn.init",
+            "scriptId": "12",
+            "url": "https://joingainswave.com/wp-includes/js/jquery/jquery.js",
+            "lineNumber": 1,
+            "columnNumber": 24595
+          },
+          {
+            "functionName": "a.fn.init",
+            "scriptId": "25",
+            "url": "https://joingainswave.com/wp-content/cache/min/1/3f3de03cb5cb98cd08baecf62f0ad37b.js",
+            "lineNumber": 8,
+            "columnNumber": 3136
+          },
+          {
+            "functionName": "n",
+            "scriptId": "12",
+            "url": "https://joingainswave.com/wp-includes/js/jquery/jquery.js",
+            "lineNumber": 1,
+            "columnNumber": 405
+          },
+          {
+            "functionName": "vcGridStyleAll.addItems",
+            "scriptId": "25",
+            "url": "https://joingainswave.com/wp-content/cache/min/1/3f3de03cb5cb98cd08baecf62f0ad37b.js",
+            "lineNumber": 193,
+            "columnNumber": 24756
+          },
+          {
+            "functionName": "i",
+            "scriptId": "12",
+            "url": "https://joingainswave.com/wp-includes/js/jquery/jquery.js",
+            "lineNumber": 1,
+            "columnNumber": 27361
+          },
+          {
+            "functionName": "fireWith",
+            "scriptId": "12",
+            "url": "https://joingainswave.com/wp-includes/js/jquery/jquery.js",
+            "lineNumber": 1,
+            "columnNumber": 28120
+          },
+          {
+            "functionName": "x",
+            "scriptId": "12",
+            "url": "https://joingainswave.com/wp-includes/js/jquery/jquery.js",
+            "lineNumber": 3,
+            "columnNumber": 22574
+          },
+          {
+            "functionName": "c",
+            "scriptId": "12",
+            "url": "https://joingainswave.com/wp-includes/js/jquery/jquery.js",
+            "lineNumber": 3,
+            "columnNumber": 26775
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "Error",
+        "description": "Error: Syntax error, unrecognized expression: {\"status\":\"Nothing found\"}\n    at Function.ea.error (https://joingainswave.com/wp-includes/js/jquery/jquery.js:2:12681)\n    at ea.tokenize (https://joingainswave.com/wp-includes/js/jquery/jquery.js:2:18717)\n    at ea.select (https://joingainswave.com/wp-includes/js/jquery/jquery.js:2:21525)\n    at Function.ea (https://joingainswave.com/wp-includes/js/jquery/jquery.js:2:7333)\n    at Function.a.find (https://joingainswave.com/wp-content/cache/min/1/3f3de03cb5cb98cd08baecf62f0ad37b.js:9:3686)\n    at n.fn.init.find (https://joingainswave.com/wp-includes/js/jquery/jquery.js:2:24030)\n    at n.fn.init.a.fn.find (https://joingainswave.com/wp-content/cache/min/1/3f3de03cb5cb98cd08baecf62f0ad37b.js:9:8931)\n    at a.fn.init.n.fn.init (https://joingainswave.com/wp-includes/js/jquery/jquery.js:2:24596)\n    at new a.fn.init (https://joingainswave.com/wp-content/cache/min/1/3f3de03cb5cb98cd08baecf62f0ad37b.js:9:3137)\n    at n (https://joingainswave.com/wp-includes/js/jquery/jquery.js:2:406)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "Error: Syntax error, unrecognized expression: {\"status\":\"Nothing found\"}\n    at Function.ea.error (https://joingainswave.com/wp-includes/js/jquery/jquery.js:2:12681)\n    at ea.tokenize (https://joingainswave.com/wp-includes/js/jquery/jquery.js:2:18717)\n    at ea.select (https://joingainswave.com/wp-includes/js/jquery/jquery.js:2:21525)\n    at Function.ea (https://joingainswave.com/wp-includes/js/jquery/jquery.js:2:7333)\n    at Function.a.find (https://joingainswave.com/wp-content/cache/min/1/3f3de03cb5cb98cd08baecf62f0ad37b.js:9:3686)\n    at n.fn.init.find (https://joingainswave.com/wp-includes/js/jquery/jquery.js:2:24030)\n    at n.fn.init.a.fn.find (https://joingainswave.com/wp-content/cache/min/1/3f3de03cb5cb98cd08baecf62f0ad37b.js:9:8931)\n    at a.fn.init.n.fn.init (https://joingainswave.com/wp-includes/js/jquery/jquery.js:2:24596)\n    at new a.fn.init (https://joingainswave.com/wp-content/cache/min/1/3f3de03cb5cb98cd08baecf62f0ad37b.js:9:3137)\n    at n (https://joingainswave.com/wp-includes/js/jquery/jquery.js:2:406)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "Error: Syntax error, unrecognized expression: {\"st…nswave.com/wp-includes/js/jquery/jquery.js:2:406)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Syntax error, unrecognized expression: {\"status\":\"Nothing found\"}"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

@@ -1,0 +1,49 @@
+[
+  {
+    "timestamp": 1583419489047.984,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 31,
+      "columnNumber": 3,
+      "url": "http://www.freightercruises.com/q_a_freighter_cruise_guide.php",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "23",
+            "url": "http://www.freightercruises.com/q_a_freighter_cruise_guide.php",
+            "lineNumber": 31,
+            "columnNumber": 3
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: UFO is not defined\n    at http://www.freightercruises.com/q_a_freighter_cruise_guide.php:32:4",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: UFO is not defined\n    at http://www.freightercruises.com/q_a_freighter_cruise_guide.php:32:4",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: UFO is not defined\n    at http://w…ercruises.com/q_a_freighter_cruise_guide.php:32:4"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "UFO is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

@@ -1,0 +1,151 @@
+[
+  {
+    "timestamp": 1583006097980.945,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 1486,
+      "columnNumber": 55,
+      "scriptId": "57",
+      "url": "http://abcnewsradioonline.com/music-news/2017/1/12/no-arm-wrestling-required-justin-moore-and-lee-brice-kick-of.html",
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "SyntaxError",
+        "description": "SyntaxError: Invalid or unexpected token",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "SyntaxError: Invalid or unexpected token",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "SyntaxError: Invalid or unexpected token"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Invalid or unexpected token"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583006098060.24,
+    "exceptionDetails": {
+      "exceptionId": 2,
+      "text": "Uncaught",
+      "lineNumber": 39,
+      "columnNumber": 7858,
+      "url": "https://abcnewsradio.disqus.com/embed.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "k",
+            "scriptId": "69",
+            "url": "https://abcnewsradio.disqus.com/embed.js",
+            "lineNumber": 39,
+            "columnNumber": 7858
+          },
+          {
+            "functionName": "l",
+            "scriptId": "69",
+            "url": "https://abcnewsradio.disqus.com/embed.js",
+            "lineNumber": 39,
+            "columnNumber": 7929
+          },
+          {
+            "functionName": "i.toJSON",
+            "scriptId": "69",
+            "url": "https://abcnewsradio.disqus.com/embed.js",
+            "lineNumber": 39,
+            "columnNumber": 12293
+          },
+          {
+            "functionName": "c.loadEmbed",
+            "scriptId": "69",
+            "url": "https://abcnewsradio.disqus.com/embed.js",
+            "lineNumber": 41,
+            "columnNumber": 885
+          },
+          {
+            "functionName": "",
+            "scriptId": "69",
+            "url": "https://abcnewsradio.disqus.com/embed.js",
+            "lineNumber": 41,
+            "columnNumber": 2843
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'appendChild' of null\n    at k (https://abcnewsradio.disqus.com/embed.js:40:7859)\n    at Object.l [as isSerif] (https://abcnewsradio.disqus.com/embed.js:40:7930)\n    at h.i.toJSON (https://abcnewsradio.disqus.com/embed.js:40:12294)\n    at Object.c.loadEmbed [as _loadEmbed] (https://abcnewsradio.disqus.com/embed.js:42:886)\n    at https://abcnewsradio.disqus.com/embed.js:42:2844",
+        "objectId": "{\"injectedScriptId\":3,\"id\":2}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'appendChild' of null\n    at k (https://abcnewsradio.disqus.com/embed.js:40:7859)\n    at Object.l [as isSerif] (https://abcnewsradio.disqus.com/embed.js:40:7930)\n    at h.i.toJSON (https://abcnewsradio.disqus.com/embed.js:40:12294)\n    at Object.c.loadEmbed [as _loadEmbed] (https://abcnewsradio.disqus.com/embed.js:42:886)\n    at https://abcnewsradio.disqus.com/embed.js:42:2844",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'appendChild' of n… https://abcnewsradio.disqus.com/embed.js:42:2844"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'appendChild' of null"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583006098060.739,
+    "exceptionDetails": {
+      "exceptionId": 3,
+      "text": "Uncaught",
+      "lineNumber": 1548,
+      "columnNumber": 40,
+      "scriptId": "70",
+      "url": "http://abcnewsradioonline.com/music-news/2017/1/12/no-arm-wrestling-required-justin-moore-and-lee-brice-kick-of.html",
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "SyntaxError",
+        "description": "SyntaxError: Invalid or unexpected token",
+        "objectId": "{\"injectedScriptId\":3,\"id\":3}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "SyntaxError: Invalid or unexpected token",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "SyntaxError: Invalid or unexpected token"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Invalid or unexpected token"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

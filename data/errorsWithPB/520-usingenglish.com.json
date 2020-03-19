@@ -1,0 +1,75 @@
+[
+  {
+    "timestamp": 1583749595230.357,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 296,
+      "columnNumber": 293,
+      "url": "https://connect.facebook.net/en_US/sdk.js?hash=27ba8b541e7c25c2d2a516884435c913&ua=modern_es6",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "assertValidVersion",
+            "scriptId": "43",
+            "url": "https://connect.facebook.net/en_US/sdk.js?hash=27ba8b541e7c25c2d2a516884435c913&ua=modern_es6",
+            "lineNumber": 296,
+            "columnNumber": 293
+          },
+          {
+            "functionName": "h",
+            "scriptId": "43",
+            "url": "https://connect.facebook.net/en_US/sdk.js?hash=27ba8b541e7c25c2d2a516884435c913&ua=modern_es6",
+            "lineNumber": 340,
+            "columnNumber": 942
+          },
+          {
+            "functionName": "",
+            "scriptId": "43",
+            "url": "https://connect.facebook.net/en_US/sdk.js?hash=27ba8b541e7c25c2d2a516884435c913&ua=modern_es6",
+            "lineNumber": 340,
+            "columnNumber": 2189
+          },
+          {
+            "functionName": "c",
+            "scriptId": "43",
+            "url": "https://connect.facebook.net/en_US/sdk.js?hash=27ba8b541e7c25c2d2a516884435c913&ua=modern_es6",
+            "lineNumber": 44,
+            "columnNumber": 1603
+          },
+          {
+            "functionName": "",
+            "scriptId": "43",
+            "url": "https://connect.facebook.net/en_US/sdk.js?hash=27ba8b541e7c25c2d2a516884435c913&ua=modern_es6",
+            "lineNumber": 340,
+            "columnNumber": 1921
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "className": "b",
+        "description": "b",
+        "objectId": "{\"injectedScriptId\":3,\"id\":2}",
+        "preview": {
+          "type": "object",
+          "description": "b",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "message",
+              "type": "string",
+              "value": "invalid version specified"
+            },
+            {
+              "name": "innerError",
+              "type": "undefined",
+              "value": "undefined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

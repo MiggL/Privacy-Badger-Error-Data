@@ -1,0 +1,47 @@
+[
+  {
+    "timestamp": 1583422425112.156,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 281,
+      "columnNumber": 824,
+      "url": "https://connect.facebook.net/en_US/sdk.js?hash=55221aa23e0893ffef69329203251794&ua=modern_es6",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "29",
+            "url": "https://connect.facebook.net/en_US/sdk.js?hash=55221aa23e0893ffef69329203251794&ua=modern_es6",
+            "lineNumber": 281,
+            "columnNumber": 824
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "className": "b",
+        "description": "b",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "description": "b",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "message",
+              "type": "string",
+              "value": "invalid version specified"
+            },
+            {
+              "name": "innerError",
+              "type": "undefined",
+              "value": "undefined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

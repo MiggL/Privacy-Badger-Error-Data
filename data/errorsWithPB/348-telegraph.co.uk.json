@@ -1,0 +1,126 @@
+[
+  {
+    "timestamp": 1583751403404.237,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 153,
+      "columnNumber": 60,
+      "url": "https://www.telegraph.co.uk/news/earth/environment/globalwarming/7078617/IPCC-deputy-says-scientists-are-only-human.html",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "document.onreadystatechange",
+            "scriptId": "33",
+            "url": "https://www.telegraph.co.uk/news/earth/environment/globalwarming/7078617/IPCC-deputy-says-scientists-are-only-human.html",
+            "lineNumber": 153,
+            "columnNumber": 60
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot set property 'src' of null at HTMLDocument.document.onreadystatechange (https://www.telegraph.co.uk/news/earth/environment/globalwarming/7078617/IPCC-deputy-says-scientists-are-only-human.html:154:61)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot set property 'src' of null at HTMLDocument.document.onreadystatechange (https://www.telegraph.co.uk/news/earth/environment/globalwarming/7078617/IPCC-deputy-says-scientists-are-only-human.html:154:61)",
+          "overflow": true,
+          "properties": [
+            {
+              "name": "reported",
+              "type": "boolean",
+              "value": "true"
+            },
+            {
+              "name": "timestamp",
+              "type": "number",
+              "value": "1583751403402"
+            },
+            {
+              "name": "lineNumber",
+              "type": "string",
+              "value": "154"
+            },
+            {
+              "name": "columnNumber",
+              "type": "string",
+              "value": "61"
+            },
+            {
+              "name": "functionName",
+              "type": "string",
+              "value": "HTMLDocument.document.onreadystatechange"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583751404410.021,
+    "exceptionDetails": {
+      "exceptionId": 2,
+      "text": "Uncaught",
+      "lineNumber": 153,
+      "columnNumber": 60,
+      "url": "https://www.telegraph.co.uk/news/earth/environment/globalwarming/7078617/IPCC-deputy-says-scientists-are-only-human.html",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "document.onreadystatechange",
+            "scriptId": "33",
+            "url": "https://www.telegraph.co.uk/news/earth/environment/globalwarming/7078617/IPCC-deputy-says-scientists-are-only-human.html",
+            "lineNumber": 153,
+            "columnNumber": 60
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot set property 'src' of null at HTMLDocument.document.onreadystatechange (https://www.telegraph.co.uk/news/earth/environment/globalwarming/7078617/IPCC-deputy-says-scientists-are-only-human.html:154:61)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":2}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot set property 'src' of null at HTMLDocument.document.onreadystatechange (https://www.telegraph.co.uk/news/earth/environment/globalwarming/7078617/IPCC-deputy-says-scientists-are-only-human.html:154:61)",
+          "overflow": true,
+          "properties": [
+            {
+              "name": "reported",
+              "type": "boolean",
+              "value": "true"
+            },
+            {
+              "name": "timestamp",
+              "type": "number",
+              "value": "1583751404409"
+            },
+            {
+              "name": "lineNumber",
+              "type": "string",
+              "value": "154"
+            },
+            {
+              "name": "columnNumber",
+              "type": "string",
+              "value": "61"
+            },
+            {
+              "name": "functionName",
+              "type": "string",
+              "value": "HTMLDocument.document.onreadystatechange"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

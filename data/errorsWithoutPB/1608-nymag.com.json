@@ -1,0 +1,279 @@
+[
+  {
+    "timestamp": 1582817361820.932,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 0,
+      "columnNumber": 0,
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "82",
+            "url": "",
+            "lineNumber": 0,
+            "columnNumber": 0
+          },
+          {
+            "functionName": "",
+            "scriptId": "21",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-NL7LR9Z",
+            "lineNumber": 2605,
+            "columnNumber": 413
+          },
+          {
+            "functionName": "c",
+            "scriptId": "21",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-NL7LR9Z",
+            "lineNumber": 2607,
+            "columnNumber": 151
+          },
+          {
+            "functionName": "nd",
+            "scriptId": "21",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-NL7LR9Z",
+            "lineNumber": 2393,
+            "columnNumber": 395
+          },
+          {
+            "functionName": "e",
+            "scriptId": "21",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-NL7LR9Z",
+            "lineNumber": 2446,
+            "columnNumber": 144
+          },
+          {
+            "functionName": "",
+            "scriptId": "21",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-NL7LR9Z",
+            "lineNumber": 2354,
+            "columnNumber": 113
+          },
+          {
+            "functionName": "",
+            "scriptId": "21",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-NL7LR9Z",
+            "lineNumber": 2447,
+            "columnNumber": 228
+          },
+          {
+            "functionName": "",
+            "scriptId": "21",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-NL7LR9Z",
+            "lineNumber": 2446,
+            "columnNumber": 479
+          },
+          {
+            "functionName": "Uh",
+            "scriptId": "21",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-NL7LR9Z",
+            "lineNumber": 2447,
+            "columnNumber": 517
+          },
+          {
+            "functionName": "Wh",
+            "scriptId": "21",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-NL7LR9Z",
+            "lineNumber": 2449,
+            "columnNumber": 234
+          },
+          {
+            "functionName": "vm",
+            "scriptId": "21",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-NL7LR9Z",
+            "lineNumber": 2502,
+            "columnNumber": 188
+          },
+          {
+            "functionName": "um",
+            "scriptId": "21",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-NL7LR9Z",
+            "lineNumber": 2502,
+            "columnNumber": 0
+          },
+          {
+            "functionName": "wm",
+            "scriptId": "21",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-NL7LR9Z",
+            "lineNumber": 2504,
+            "columnNumber": 243
+          },
+          {
+            "functionName": "a.push",
+            "scriptId": "21",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-NL7LR9Z",
+            "lineNumber": 2506,
+            "columnNumber": 95
+          },
+          {
+            "functionName": "reportNow",
+            "scriptId": "62",
+            "url": "https://nymag.com/intelligencer/2017/04/why-south-koreans-arent-afraid-of-a-military-standoff.html",
+            "lineNumber": 2209,
+            "columnNumber": 6866
+          },
+          {
+            "functionName": "initialReport",
+            "scriptId": "62",
+            "url": "https://nymag.com/intelligencer/2017/04/why-south-koreans-arent-afraid-of-a-military-standoff.html",
+            "lineNumber": 2209,
+            "columnNumber": 8970
+          },
+          {
+            "functionName": "getPublicStateOnceReady",
+            "scriptId": "62",
+            "url": "https://nymag.com/intelligencer/2017/04/why-south-koreans-arent-afraid-of-a-military-standoff.html",
+            "lineNumber": 2256,
+            "columnNumber": 5466
+          },
+          {
+            "functionName": "initGtm",
+            "scriptId": "62",
+            "url": "https://nymag.com/intelligencer/2017/04/why-south-koreans-arent-afraid-of-a-military-standoff.html",
+            "lineNumber": 2209,
+            "columnNumber": 9200
+          },
+          {
+            "functionName": "",
+            "scriptId": "62",
+            "url": "https://nymag.com/intelligencer/2017/04/why-south-koreans-arent-afraid-of-a-military-standoff.html",
+            "lineNumber": 2918,
+            "columnNumber": 156
+          },
+          {
+            "functionName": "e",
+            "scriptId": "62",
+            "url": "https://nymag.com/intelligencer/2017/04/why-south-koreans-arent-afraid-of-a-military-standoff.html",
+            "lineNumber": 2376,
+            "columnNumber": 396
+          },
+          {
+            "functionName": "i",
+            "scriptId": "62",
+            "url": "https://nymag.com/intelligencer/2017/04/why-south-koreans-arent-afraid-of-a-military-standoff.html",
+            "lineNumber": 2376,
+            "columnNumber": 1308
+          },
+          {
+            "functionName": "get",
+            "scriptId": "62",
+            "url": "https://nymag.com/intelligencer/2017/04/why-south-koreans-arent-afraid-of-a-military-standoff.html",
+            "lineNumber": 2376,
+            "columnNumber": 1623
+          },
+          {
+            "functionName": "",
+            "scriptId": "62",
+            "url": "https://nymag.com/intelligencer/2017/04/why-south-koreans-arent-afraid-of-a-military-standoff.html",
+            "lineNumber": 2924,
+            "columnNumber": 664
+          },
+          {
+            "functionName": "",
+            "scriptId": "62",
+            "url": "https://nymag.com/intelligencer/2017/04/why-south-koreans-arent-afraid-of-a-military-standoff.html",
+            "lineNumber": 2594,
+            "columnNumber": 250
+          },
+          {
+            "functionName": "forEach",
+            "scriptId": "62",
+            "url": "https://nymag.com/intelligencer/2017/04/why-south-koreans-arent-afraid-of-a-military-standoff.html",
+            "lineNumber": 2248,
+            "columnNumber": 212
+          },
+          {
+            "functionName": "",
+            "scriptId": "62",
+            "url": "https://nymag.com/intelligencer/2017/04/why-south-koreans-arent-afraid-of-a-military-standoff.html",
+            "lineNumber": 2924,
+            "columnNumber": 834
+          },
+          {
+            "functionName": "arrayEach",
+            "scriptId": "62",
+            "url": "https://nymag.com/intelligencer/2017/04/why-south-koreans-arent-afraid-of-a-military-standoff.html",
+            "lineNumber": 2508,
+            "columnNumber": 128
+          },
+          {
+            "functionName": "forEach",
+            "scriptId": "62",
+            "url": "https://nymag.com/intelligencer/2017/04/why-south-koreans-arent-afraid-of-a-military-standoff.html",
+            "lineNumber": 2248,
+            "columnNumber": 212
+          },
+          {
+            "functionName": "",
+            "scriptId": "62",
+            "url": "https://nymag.com/intelligencer/2017/04/why-south-koreans-arent-afraid-of-a-military-standoff.html",
+            "lineNumber": 2924,
+            "columnNumber": 703
+          },
+          {
+            "functionName": "t",
+            "scriptId": "62",
+            "url": "https://nymag.com/intelligencer/2017/04/why-south-koreans-arent-afraid-of-a-military-standoff.html",
+            "lineNumber": 2376,
+            "columnNumber": 115
+          },
+          {
+            "functionName": "i",
+            "scriptId": "62",
+            "url": "https://nymag.com/intelligencer/2017/04/why-south-koreans-arent-afraid-of-a-military-standoff.html",
+            "lineNumber": 2376,
+            "columnNumber": 1308
+          },
+          {
+            "functionName": "get",
+            "scriptId": "62",
+            "url": "https://nymag.com/intelligencer/2017/04/why-south-koreans-arent-afraid-of-a-military-standoff.html",
+            "lineNumber": 2376,
+            "columnNumber": 1623
+          },
+          {
+            "functionName": "mountDollarSliceComponents",
+            "scriptId": "62",
+            "url": "https://nymag.com/intelligencer/2017/04/why-south-koreans-arent-afraid-of-a-military-standoff.html",
+            "lineNumber": 2924,
+            "columnNumber": 888
+          },
+          {
+            "functionName": "",
+            "scriptId": "62",
+            "url": "https://nymag.com/intelligencer/2017/04/why-south-koreans-arent-afraid-of-a-military-standoff.html",
+            "lineNumber": 2924,
+            "columnNumber": 1116
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: Sailthru is not defined\n    at <anonymous>:1:1\n    at https://www.googletagmanager.com/gtm.js?id=GTM-NL7LR9Z:2606:414\n    at c (https://www.googletagmanager.com/gtm.js?id=GTM-NL7LR9Z:2608:152)\n    at nd (https://www.googletagmanager.com/gtm.js?id=GTM-NL7LR9Z:2394:396)\n    at e (https://www.googletagmanager.com/gtm.js?id=GTM-NL7LR9Z:2447:145)\n    at https://www.googletagmanager.com/gtm.js?id=GTM-NL7LR9Z:2355:114\n    at Array.<anonymous> (https://www.googletagmanager.com/gtm.js?id=GTM-NL7LR9Z:2448:229)\n    at Object.Qb (https://www.googletagmanager.com/gtm.js?id=GTM-NL7LR9Z:2447:480)\n    at Uh (https://www.googletagmanager.com/gtm.js?id=GTM-NL7LR9Z:2448:518)\n    at Wh (https://www.googletagmanager.com/gtm.js?id=GTM-NL7LR9Z:2450:235)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: Sailthru is not defined\n    at <anonymous>:1:1\n    at https://www.googletagmanager.com/gtm.js?id=GTM-NL7LR9Z:2606:414\n    at c (https://www.googletagmanager.com/gtm.js?id=GTM-NL7LR9Z:2608:152)\n    at nd (https://www.googletagmanager.com/gtm.js?id=GTM-NL7LR9Z:2394:396)\n    at e (https://www.googletagmanager.com/gtm.js?id=GTM-NL7LR9Z:2447:145)\n    at https://www.googletagmanager.com/gtm.js?id=GTM-NL7LR9Z:2355:114\n    at Array.<anonymous> (https://www.googletagmanager.com/gtm.js?id=GTM-NL7LR9Z:2448:229)\n    at Object.Qb (https://www.googletagmanager.com/gtm.js?id=GTM-NL7LR9Z:2447:480)\n    at Uh (https://www.googletagmanager.com/gtm.js?id=GTM-NL7LR9Z:2448:518)\n    at Wh (https://www.googletagmanager.com/gtm.js?id=GTM-NL7LR9Z:2450:235)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: Sailthru is not defined\n    at <an…gletagmanager.com/gtm.js?id=GTM-NL7LR9Z:2450:235)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Sailthru is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

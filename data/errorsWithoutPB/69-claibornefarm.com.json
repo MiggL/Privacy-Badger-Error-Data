@@ -1,0 +1,49 @@
+[
+  {
+    "timestamp": 1583012730864.1082,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 985,
+      "columnNumber": 23,
+      "url": "https://claibornefarm.com/stallions/blame/",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "25",
+            "url": "https://claibornefarm.com/stallions/blame/",
+            "lineNumber": 985,
+            "columnNumber": 23
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: blame is not defined\n    at https://claibornefarm.com/stallions/blame/:986:24",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: blame is not defined\n    at https://claibornefarm.com/stallions/blame/:986:24",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: blame is not defined\n    at https://claibornefarm.com/stallions/blame/:986:24"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "blame is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

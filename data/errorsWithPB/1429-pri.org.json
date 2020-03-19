@@ -1,0 +1,237 @@
+[
+  {
+    "timestamp": 1583419159294.894,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 51,
+      "columnNumber": 57,
+      "url": "https://www.pri.org/stories/2014-07-29/russian-government-has-banned-lingerie-your-health",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "34",
+            "url": "https://www.pri.org/stories/2014-07-29/russian-government-has-banned-lingerie-your-health",
+            "lineNumber": 51,
+            "columnNumber": 57
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: googletag.defineSlot is not a function\n    at https://www.pri.org/stories/2014-07-29/russian-government-has-banned-lingerie-your-health:52:58",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: googletag.defineSlot is not a function\n    at https://www.pri.org/stories/2014-07-29/russian-government-has-banned-lingerie-your-health:52:58",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: googletag.defineSlot is not a function\n…-government-has-banned-lingerie-your-health:52:58"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "googletag.defineSlot is not a function"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583419159295.29,
+    "exceptionDetails": {
+      "exceptionId": 2,
+      "text": "Uncaught",
+      "lineNumber": 53,
+      "columnNumber": 56,
+      "url": "https://www.pri.org/stories/2014-07-29/russian-government-has-banned-lingerie-your-health",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "35",
+            "url": "https://www.pri.org/stories/2014-07-29/russian-government-has-banned-lingerie-your-health",
+            "lineNumber": 53,
+            "columnNumber": 56
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: googletag.defineSlot is not a function\n    at https://www.pri.org/stories/2014-07-29/russian-government-has-banned-lingerie-your-health:54:57",
+        "objectId": "{\"injectedScriptId\":3,\"id\":2}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: googletag.defineSlot is not a function\n    at https://www.pri.org/stories/2014-07-29/russian-government-has-banned-lingerie-your-health:54:57",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: googletag.defineSlot is not a function\n…-government-has-banned-lingerie-your-health:54:57"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "googletag.defineSlot is not a function"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583419159295.634,
+    "exceptionDetails": {
+      "exceptionId": 3,
+      "text": "Uncaught",
+      "lineNumber": 55,
+      "columnNumber": 59,
+      "url": "https://www.pri.org/stories/2014-07-29/russian-government-has-banned-lingerie-your-health",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "36",
+            "url": "https://www.pri.org/stories/2014-07-29/russian-government-has-banned-lingerie-your-health",
+            "lineNumber": 55,
+            "columnNumber": 59
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: googletag.defineSlot is not a function\n    at https://www.pri.org/stories/2014-07-29/russian-government-has-banned-lingerie-your-health:56:60",
+        "objectId": "{\"injectedScriptId\":3,\"id\":3}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: googletag.defineSlot is not a function\n    at https://www.pri.org/stories/2014-07-29/russian-government-has-banned-lingerie-your-health:56:60",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: googletag.defineSlot is not a function\n…-government-has-banned-lingerie-your-health:56:60"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "googletag.defineSlot is not a function"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583419159295.959,
+    "exceptionDetails": {
+      "exceptionId": 4,
+      "text": "Uncaught",
+      "lineNumber": 57,
+      "columnNumber": 59,
+      "url": "https://www.pri.org/stories/2014-07-29/russian-government-has-banned-lingerie-your-health",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "37",
+            "url": "https://www.pri.org/stories/2014-07-29/russian-government-has-banned-lingerie-your-health",
+            "lineNumber": 57,
+            "columnNumber": 59
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: googletag.defineSlot is not a function\n    at https://www.pri.org/stories/2014-07-29/russian-government-has-banned-lingerie-your-health:58:60",
+        "objectId": "{\"injectedScriptId\":3,\"id\":4}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: googletag.defineSlot is not a function\n    at https://www.pri.org/stories/2014-07-29/russian-government-has-banned-lingerie-your-health:58:60",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: googletag.defineSlot is not a function\n…-government-has-banned-lingerie-your-health:58:60"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "googletag.defineSlot is not a function"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583419159299.44,
+    "exceptionDetails": {
+      "exceptionId": 5,
+      "text": "Uncaught",
+      "lineNumber": 68,
+      "columnNumber": 10,
+      "url": "https://www.pri.org/stories/2014-07-29/russian-government-has-banned-lingerie-your-health",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "39",
+            "url": "https://www.pri.org/stories/2014-07-29/russian-government-has-banned-lingerie-your-health",
+            "lineNumber": 68,
+            "columnNumber": 10
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: googletag.enableServices is not a function\n    at https://www.pri.org/stories/2014-07-29/russian-government-has-banned-lingerie-your-health:69:11",
+        "objectId": "{\"injectedScriptId\":3,\"id\":5}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: googletag.enableServices is not a function\n    at https://www.pri.org/stories/2014-07-29/russian-government-has-banned-lingerie-your-health:69:11",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: googletag.enableServices is not a funct…-government-has-banned-lingerie-your-health:69:11"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "googletag.enableServices is not a function"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

@@ -1,0 +1,49 @@
+[
+  {
+    "timestamp": 1583010330698.8472,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 0,
+      "columnNumber": 8675,
+      "url": "http://www.ilo.org/wcmsp5/ilo/global/js/onload-ck.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "96",
+            "url": "http://www.ilo.org/wcmsp5/ilo/global/js/onload-ck.js",
+            "lineNumber": 0,
+            "columnNumber": 8675
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: $(...).imagesLoaded is not a function\n    at http://www.ilo.org/wcmsp5/ilo/global/js/onload-ck.js:1:8676",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: $(...).imagesLoaded is not a function\n    at http://www.ilo.org/wcmsp5/ilo/global/js/onload-ck.js:1:8676",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: $(...).imagesLoaded is not a function\n ….ilo.org/wcmsp5/ilo/global/js/onload-ck.js:1:8676"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "$(...).imagesLoaded is not a function"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

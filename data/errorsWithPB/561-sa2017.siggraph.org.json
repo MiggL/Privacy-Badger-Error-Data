@@ -1,0 +1,96 @@
+[
+  {
+    "timestamp": 1583749224411.6262,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 89,
+      "columnNumber": 22,
+      "url": "https://sa2017.siggraph.org/templates/t3_bs3_blank/js/script.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "29",
+            "url": "https://sa2017.siggraph.org/templates/t3_bs3_blank/js/script.js",
+            "lineNumber": 89,
+            "columnNumber": 22
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: dropdown is not defined\n    at https://sa2017.siggraph.org/templates/t3_bs3_blank/js/script.js:90:23",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: dropdown is not defined\n    at https://sa2017.siggraph.org/templates/t3_bs3_blank/js/script.js:90:23",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: dropdown is not defined\n    at htt…aph.org/templates/t3_bs3_blank/js/script.js:90:23"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "dropdown is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583749225128.797,
+    "exceptionDetails": {
+      "exceptionId": 2,
+      "text": "Uncaught",
+      "lineNumber": 0,
+      "columnNumber": 90808,
+      "url": "https://ws.sharethis.com/button/async-buttons.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "39",
+            "url": "https://ws.sharethis.com/button/async-buttons.js",
+            "lineNumber": 0,
+            "columnNumber": 90808
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: ShareThisEvent is not defined\n    at https://ws.sharethis.com/button/async-buttons.js:1:90809",
+        "objectId": "{\"injectedScriptId\":3,\"id\":2}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: ShareThisEvent is not defined\n    at https://ws.sharethis.com/button/async-buttons.js:1:90809",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: ShareThisEvent is not defined\n    …/ws.sharethis.com/button/async-buttons.js:1:90809"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "ShareThisEvent is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

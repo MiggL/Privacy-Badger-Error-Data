@@ -1,0 +1,56 @@
+[
+  {
+    "timestamp": 1583420403128.3,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 43,
+      "columnNumber": 51,
+      "url": "https://www.jiffylubesocal.com/wp-content/themes/jiffy/js/custom.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "38",
+            "url": "https://www.jiffylubesocal.com/wp-content/themes/jiffy/js/custom.js",
+            "lineNumber": 43,
+            "columnNumber": 51
+          },
+          {
+            "functionName": "",
+            "scriptId": "38",
+            "url": "https://www.jiffylubesocal.com/wp-content/themes/jiffy/js/custom.js",
+            "lineNumber": 86,
+            "columnNumber": 2
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'top' of undefined\n    at https://www.jiffylubesocal.com/wp-content/themes/jiffy/js/custom.js:44:52\n    at https://www.jiffylubesocal.com/wp-content/themes/jiffy/js/custom.js:87:3",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'top' of undefined\n    at https://www.jiffylubesocal.com/wp-content/themes/jiffy/js/custom.js:44:52\n    at https://www.jiffylubesocal.com/wp-content/themes/jiffy/js/custom.js:87:3",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'top' of undefined…cal.com/wp-content/themes/jiffy/js/custom.js:87:3"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'top' of undefined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

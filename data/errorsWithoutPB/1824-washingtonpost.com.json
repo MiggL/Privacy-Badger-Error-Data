@@ -1,0 +1,44 @@
+[
+  {
+    "timestamp": 1582815377955.386,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught (in promise)",
+      "lineNumber": 0,
+      "columnNumber": 0,
+      "scriptId": "1",
+      "url": "https://www.washingtonpost.com/gdpr-consent/?next_url=https%3a%2f%2fwww.washingtonpost.com%2fworld%2fdont-let-beijing-push-us-around-warns-frustrated-former-ambassador-to-china%2f2017%2f02%2f24%2ff1eb41a0-fa71-11e6-9b3e-ed886f4f4825_story.html",
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "DOMException",
+        "description": "DOMException: Failed to register a ServiceWorker: The script resource is behind a redirect, which is disallowed.",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "DOMException: Failed to register a ServiceWorker: The script resource is behind a redirect, which is disallowed.",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "code",
+              "type": "number",
+              "value": "18"
+            },
+            {
+              "name": "name",
+              "type": "string",
+              "value": "SecurityError"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Failed to register a ServiceWorker: The script resource is behind a redirect, which is disallowed."
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

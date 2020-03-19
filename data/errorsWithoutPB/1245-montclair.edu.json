@@ -1,0 +1,49 @@
+[
+  {
+    "timestamp": 1583001919298.26,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 107,
+      "columnNumber": 1,
+      "url": "https://www.montclair.edu/profilepages/view_profile.php?username=matthewp",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "14",
+            "url": "https://www.montclair.edu/profilepages/view_profile.php?username=matthewp",
+            "lineNumber": 107,
+            "columnNumber": 1
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: $ is not defined\n    at https://www.montclair.edu/profilepages/view_profile.php?username=matthewp:108:2",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: $ is not defined\n    at https://www.montclair.edu/profilepages/view_profile.php?username=matthewp:108:2",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: $ is not defined\n    at https://ww…ilepages/view_profile.php?username=matthewp:108:2"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "$ is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

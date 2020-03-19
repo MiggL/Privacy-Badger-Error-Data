@@ -1,0 +1,119 @@
+[
+  {
+    "timestamp": 1583005510838.068,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 340,
+      "columnNumber": 42,
+      "url": "http://www.taddart.org/wp-content/plugins/featured-content-gallery/scripts/jd.gallery.js.php",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "doSlideShow",
+            "scriptId": "20",
+            "url": "http://www.taddart.org/wp-content/plugins/featured-content-gallery/scripts/jd.gallery.js.php",
+            "lineNumber": 340,
+            "columnNumber": 42
+          },
+          {
+            "functionName": "initialize",
+            "scriptId": "20",
+            "url": "http://www.taddart.org/wp-content/plugins/featured-content-gallery/scripts/jd.gallery.js.php",
+            "lineNumber": 147,
+            "columnNumber": 7
+          },
+          {
+            "functionName": "klass",
+            "scriptId": "23",
+            "url": "",
+            "lineNumber": 0,
+            "columnNumber": 2713
+          },
+          {
+            "functionName": "startGallery",
+            "scriptId": "24",
+            "url": "http://www.taddart.org/?m=201010&paged=208&lang=en",
+            "lineNumber": 219,
+            "columnNumber": 28
+          },
+          {
+            "functionName": "returns",
+            "scriptId": "18",
+            "url": "",
+            "lineNumber": 0,
+            "columnNumber": 8602
+          },
+          {
+            "functionName": "eval",
+            "scriptId": "18",
+            "url": "",
+            "lineNumber": 0,
+            "columnNumber": 8837
+          },
+          {
+            "functionName": "eval",
+            "scriptId": "23",
+            "url": "",
+            "lineNumber": 0,
+            "columnNumber": 24683
+          },
+          {
+            "functionName": "fireEvent",
+            "scriptId": "23",
+            "url": "",
+            "lineNumber": 0,
+            "columnNumber": 24610
+          },
+          {
+            "functionName": "eval",
+            "scriptId": "23",
+            "url": "",
+            "lineNumber": 0,
+            "columnNumber": 31342
+          },
+          {
+            "functionName": "eval",
+            "scriptId": "23",
+            "url": "",
+            "lineNumber": 0,
+            "columnNumber": 31494
+          },
+          {
+            "functionName": "returns",
+            "scriptId": "18",
+            "url": "",
+            "lineNumber": 0,
+            "columnNumber": 8602
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'image' of undefined\n    at klass.doSlideShow (http://www.taddart.org/wp-content/plugins/featured-content-gallery/scripts/jd.gallery.js.php:341:43)\n    at klass.initialize (http://www.taddart.org/wp-content/plugins/featured-content-gallery/scripts/jd.gallery.js.php:148:8)\n    at new klass (eval at <anonymous> (http://www.taddart.org/wp-content/plugins/featured-content-gallery/scripts/mootools.v1.11.js:3:1), <anonymous>:1:2714)\n    at startGallery (http://www.taddart.org/?m=201010&paged=208&lang=en:220:29)\n    at returns (eval at <anonymous> (http://www.taddart.org/wp-content/plugins/featured-content-gallery/scripts/mootools.v1.11.js:3:1), <anonymous>:1:8603)\n    at eval (eval at <anonymous> (http://www.taddart.org/wp-content/plugins/featured-content-gallery/scripts/mootools.v1.11.js:3:1), <anonymous>:1:8838)\n    at eval (eval at <anonymous> (http://www.taddart.org/wp-content/plugins/featured-content-gallery/scripts/mootools.v1.11.js:3:1), <anonymous>:1:24684)\n    at Array.forEach (<anonymous>)\n    at fireEvent (eval at <anonymous> (http://www.taddart.org/wp-content/plugins/featured-content-gallery/scripts/mootools.v1.11.js:3:1), <anonymous>:1:24611)\n    at eval (eval at <anonymous> (http://www.taddart.org/wp-content/plugins/featured-content-gallery/scripts/mootools.v1.11.js:3:1), <anonymous>:1:31343)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'image' of undefined\n    at klass.doSlideShow (http://www.taddart.org/wp-content/plugins/featured-content-gallery/scripts/jd.gallery.js.php:341:43)\n    at klass.initialize (http://www.taddart.org/wp-content/plugins/featured-content-gallery/scripts/jd.gallery.js.php:148:8)\n    at new klass (eval at <anonymous> (http://www.taddart.org/wp-content/plugins/featured-content-gallery/scripts/mootools.v1.11.js:3:1), <anonymous>:1:2714)\n    at startGallery (http://www.taddart.org/?m=201010&paged=208&lang=en:220:29)\n    at returns (eval at <anonymous> (http://www.taddart.org/wp-content/plugins/featured-content-gallery/scripts/mootools.v1.11.js:3:1), <anonymous>:1:8603)\n    at eval (eval at <anonymous> (http://www.taddart.org/wp-content/plugins/featured-content-gallery/scripts/mootools.v1.11.js:3:1), <anonymous>:1:8838)\n    at eval (eval at <anonymous> (http://www.taddart.org/wp-content/plugins/featured-content-gallery/scripts/mootools.v1.11.js:3:1), <anonymous>:1:24684)\n    at Array.forEach (<anonymous>)\n    at fireEvent (eval at <anonymous> (http://www.taddart.org/wp-content/plugins/featured-content-gallery/scripts/mootools.v1.11.js:3:1), <anonymous>:1:24611)\n    at eval (eval at <anonymous> (http://www.taddart.org/wp-content/plugins/featured-content-gallery/scripts/mootools.v1.11.js:3:1), <anonymous>:1:31343)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'image' of undefin…ipts/mootools.v1.11.js:3:1), <anonymous>:1:31343)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'image' of undefined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

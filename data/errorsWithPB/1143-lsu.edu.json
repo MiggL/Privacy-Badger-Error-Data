@@ -1,0 +1,84 @@
+[
+  {
+    "timestamp": 1583421877879.614,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 113,
+      "columnNumber": 25,
+      "url": "https://www.lsu.edu/_resources/js/left_nav.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "getColor",
+            "scriptId": "25",
+            "url": "https://www.lsu.edu/_resources/js/left_nav.js",
+            "lineNumber": 113,
+            "columnNumber": 25
+          },
+          {
+            "functionName": "",
+            "scriptId": "25",
+            "url": "https://www.lsu.edu/_resources/js/left_nav.js",
+            "lineNumber": 129,
+            "columnNumber": 4
+          },
+          {
+            "functionName": "j",
+            "scriptId": "21",
+            "url": "https://code.jquery.com/jquery-latest.min.js",
+            "lineNumber": 1,
+            "columnNumber": 27243
+          },
+          {
+            "functionName": "fireWith",
+            "scriptId": "21",
+            "url": "https://code.jquery.com/jquery-latest.min.js",
+            "lineNumber": 1,
+            "columnNumber": 28056
+          },
+          {
+            "functionName": "ready",
+            "scriptId": "21",
+            "url": "https://code.jquery.com/jquery-latest.min.js",
+            "lineNumber": 1,
+            "columnNumber": 29890
+          },
+          {
+            "functionName": "J",
+            "scriptId": "21",
+            "url": "https://code.jquery.com/jquery-latest.min.js",
+            "lineNumber": 1,
+            "columnNumber": 30256
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'slice' of undefined\n    at getColor (https://www.lsu.edu/_resources/js/left_nav.js:114:26)\n    at HTMLDocument.<anonymous> (https://www.lsu.edu/_resources/js/left_nav.js:130:5)\n    at j (https://code.jquery.com/jquery-latest.min.js:2:27244)\n    at Object.fireWith [as resolveWith] (https://code.jquery.com/jquery-latest.min.js:2:28057)\n    at Function.ready (https://code.jquery.com/jquery-latest.min.js:2:29891)\n    at HTMLDocument.J (https://code.jquery.com/jquery-latest.min.js:2:30257)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'slice' of undefined\n    at getColor (https://www.lsu.edu/_resources/js/left_nav.js:114:26)\n    at HTMLDocument.<anonymous> (https://www.lsu.edu/_resources/js/left_nav.js:130:5)\n    at j (https://code.jquery.com/jquery-latest.min.js:2:27244)\n    at Object.fireWith [as resolveWith] (https://code.jquery.com/jquery-latest.min.js:2:28057)\n    at Function.ready (https://code.jquery.com/jquery-latest.min.js:2:29891)\n    at HTMLDocument.J (https://code.jquery.com/jquery-latest.min.js:2:30257)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'slice' of undefin…s://code.jquery.com/jquery-latest.min.js:2:30257)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'slice' of undefined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

@@ -1,0 +1,77 @@
+[
+  {
+    "timestamp": 1583750444926.743,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 207,
+      "columnNumber": 12169,
+      "url": "https://www.herbal-supplement-resource.com/wp-content/cache/autoptimize/js/autoptimize_2a0a3a907d84280f8982b74595760214.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "48",
+            "url": "https://www.herbal-supplement-resource.com/wp-content/cache/autoptimize/js/autoptimize_2a0a3a907d84280f8982b74595760214.js",
+            "lineNumber": 207,
+            "columnNumber": 12169
+          },
+          {
+            "functionName": "i",
+            "scriptId": "45",
+            "url": "https://www.herbal-supplement-resource.com/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp",
+            "lineNumber": 1,
+            "columnNumber": 27361
+          },
+          {
+            "functionName": "fireWith",
+            "scriptId": "45",
+            "url": "https://www.herbal-supplement-resource.com/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp",
+            "lineNumber": 1,
+            "columnNumber": 28120
+          },
+          {
+            "functionName": "ready",
+            "scriptId": "45",
+            "url": "https://www.herbal-supplement-resource.com/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp",
+            "lineNumber": 1,
+            "columnNumber": 29913
+          },
+          {
+            "functionName": "J",
+            "scriptId": "45",
+            "url": "https://www.herbal-supplement-resource.com/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp",
+            "lineNumber": 1,
+            "columnNumber": 30275
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: socialWarfare.initPlugin is not a function\n    at HTMLDocument.<anonymous> (https://www.herbal-supplement-resource.com/wp-content/cache/autoptimize/js/autoptimize_2a0a3a907d84280f8982b74595760214.js:208:12170)\n    at i (https://www.herbal-supplement-resource.com/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp:2:27362)\n    at Object.fireWith [as resolveWith] (https://www.herbal-supplement-resource.com/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp:2:28121)\n    at Function.ready (https://www.herbal-supplement-resource.com/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp:2:29914)\n    at HTMLDocument.J (https://www.herbal-supplement-resource.com/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp:2:30276)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":2}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: socialWarfare.initPlugin is not a function\n    at HTMLDocument.<anonymous> (https://www.herbal-supplement-resource.com/wp-content/cache/autoptimize/js/autoptimize_2a0a3a907d84280f8982b74595760214.js:208:12170)\n    at i (https://www.herbal-supplement-resource.com/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp:2:27362)\n    at Object.fireWith [as resolveWith] (https://www.herbal-supplement-resource.com/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp:2:28121)\n    at Function.ready (https://www.herbal-supplement-resource.com/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp:2:29914)\n    at HTMLDocument.J (https://www.herbal-supplement-resource.com/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp:2:30276)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: socialWarfare.initPlugin is not a funct…cludes/js/jquery/jquery.js?ver=1.12.4-wp:2:30276)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "socialWarfare.initPlugin is not a function"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

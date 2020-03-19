@@ -1,0 +1,49 @@
+[
+  {
+    "timestamp": 1583005749065.469,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 5,
+      "columnNumber": 18508,
+      "url": "http://www.icbl.org/scripts/plugins/jquery.flexslider-min.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "19",
+            "url": "http://www.icbl.org/scripts/plugins/jquery.flexslider-min.js",
+            "lineNumber": 5,
+            "columnNumber": 18508
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: (intermediate value)(...) is not a function\n    at http://www.icbl.org/scripts/plugins/jquery.flexslider-min.js:6:18509",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: (intermediate value)(...) is not a function\n    at http://www.icbl.org/scripts/plugins/jquery.flexslider-min.js:6:18509",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: (intermediate value)(...) is not a func…/scripts/plugins/jquery.flexslider-min.js:6:18509"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "(intermediate value)(...) is not a function"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

@@ -1,0 +1,1617 @@
+[
+  {
+    "timestamp": 1582896330330.659,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 494,
+      "columnNumber": 19689,
+      "scriptId": "32",
+      "url": "https://www.heraldscotland.com/news/14719812.unique-portrait-of-nicola-sturgeon-and-alex-salmond-to-go-on-sale-in-glasgow/",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "26",
+            "url": "https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr",
+            "lineNumber": 0,
+            "columnNumber": 281949
+          },
+          {
+            "functionName": "",
+            "scriptId": "26",
+            "url": "https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr",
+            "lineNumber": 0,
+            "columnNumber": 12438
+          },
+          {
+            "functionName": "",
+            "scriptId": "26",
+            "url": "https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr",
+            "lineNumber": 0,
+            "columnNumber": 12902
+          },
+          {
+            "functionName": "value",
+            "scriptId": "26",
+            "url": "https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr",
+            "lineNumber": 0,
+            "columnNumber": 12882
+          },
+          {
+            "functionName": "",
+            "scriptId": "26",
+            "url": "https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr",
+            "lineNumber": 0,
+            "columnNumber": 67396
+          },
+          {
+            "functionName": "h.onreadystatechange",
+            "scriptId": "26",
+            "url": "https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr",
+            "lineNumber": 0,
+            "columnNumber": 101831
+          },
+          {
+            "functionName": "nrWrapper",
+            "scriptId": "32",
+            "url": "https://www.heraldscotland.com/news/14719812.unique-portrait-of-nicola-sturgeon-and-alex-salmond-to-go-on-sale-in-glasgow/",
+            "lineNumber": 494,
+            "columnNumber": 19669
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "SyntaxError",
+        "description": "SyntaxError: Unexpected end of JSON input\n    at JSON.parse (<anonymous>)\n    at https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr:1:281950\n    at https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr:1:12439\n    at https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr:1:12903\n    at Array.forEach (<anonymous>)\n    at e.value (https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr:1:12883)\n    at https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr:1:67397\n    at XMLHttpRequest.h.onreadystatechange (https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr:1:101832)\n    at XMLHttpRequest.nrWrapper (https://www.heraldscotland.com/news/14719812.unique-portrait-of-nicola-sturgeon-and-alex-salmond-to-go-on-sale-in-glasgow/:495:19670)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":3}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "SyntaxError: Unexpected end of JSON input\n    at JSON.parse (<anonymous>)\n    at https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr:1:281950\n    at https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr:1:12439\n    at https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr:1:12903\n    at Array.forEach (<anonymous>)\n    at e.value (https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr:1:12883)\n    at https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr:1:67397\n    at XMLHttpRequest.h.onreadystatechange (https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr:1:101832)\n    at XMLHttpRequest.nrWrapper (https://www.heraldscotland.com/news/14719812.unique-portrait-of-nicola-sturgeon-and-alex-salmond-to-go-on-sale-in-glasgow/:495:19670)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "SyntaxError: Unexpected end of JSON input\n    at J…alex-salmond-to-go-on-sale-in-glasgow/:495:19670)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Unexpected end of JSON input"
+            },
+            {
+              "name": "nr@seenError",
+              "type": "boolean",
+              "value": "true"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1582896330671.248,
+    "exceptionDetails": {
+      "exceptionId": 2,
+      "text": "Uncaught",
+      "lineNumber": 494,
+      "columnNumber": 19689,
+      "scriptId": "32",
+      "url": "https://www.heraldscotland.com/news/14719812.unique-portrait-of-nicola-sturgeon-and-alex-salmond-to-go-on-sale-in-glasgow/",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "26",
+            "url": "https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr",
+            "lineNumber": 0,
+            "columnNumber": 281949
+          },
+          {
+            "functionName": "",
+            "scriptId": "26",
+            "url": "https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr",
+            "lineNumber": 0,
+            "columnNumber": 12438
+          },
+          {
+            "functionName": "",
+            "scriptId": "26",
+            "url": "https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr",
+            "lineNumber": 0,
+            "columnNumber": 12902
+          },
+          {
+            "functionName": "value",
+            "scriptId": "26",
+            "url": "https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr",
+            "lineNumber": 0,
+            "columnNumber": 12882
+          },
+          {
+            "functionName": "",
+            "scriptId": "26",
+            "url": "https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr",
+            "lineNumber": 0,
+            "columnNumber": 67396
+          },
+          {
+            "functionName": "h.onreadystatechange",
+            "scriptId": "26",
+            "url": "https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr",
+            "lineNumber": 0,
+            "columnNumber": 101831
+          },
+          {
+            "functionName": "nrWrapper",
+            "scriptId": "32",
+            "url": "https://www.heraldscotland.com/news/14719812.unique-portrait-of-nicola-sturgeon-and-alex-salmond-to-go-on-sale-in-glasgow/",
+            "lineNumber": 494,
+            "columnNumber": 19669
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "SyntaxError",
+        "description": "SyntaxError: Unexpected end of JSON input\n    at JSON.parse (<anonymous>)\n    at https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr:1:281950\n    at https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr:1:12439\n    at https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr:1:12903\n    at Array.forEach (<anonymous>)\n    at e.value (https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr:1:12883)\n    at https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr:1:67397\n    at XMLHttpRequest.h.onreadystatechange (https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr:1:101832)\n    at XMLHttpRequest.nrWrapper (https://www.heraldscotland.com/news/14719812.unique-portrait-of-nicola-sturgeon-and-alex-salmond-to-go-on-sale-in-glasgow/:495:19670)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":4}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "SyntaxError: Unexpected end of JSON input\n    at JSON.parse (<anonymous>)\n    at https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr:1:281950\n    at https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr:1:12439\n    at https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr:1:12903\n    at Array.forEach (<anonymous>)\n    at e.value (https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr:1:12883)\n    at https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr:1:67397\n    at XMLHttpRequest.h.onreadystatechange (https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr:1:101832)\n    at XMLHttpRequest.nrWrapper (https://www.heraldscotland.com/news/14719812.unique-portrait-of-nicola-sturgeon-and-alex-salmond-to-go-on-sale-in-glasgow/:495:19670)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "SyntaxError: Unexpected end of JSON input\n    at J…alex-salmond-to-go-on-sale-in-glasgow/:495:19670)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Unexpected end of JSON input"
+            },
+            {
+              "name": "nr@seenError",
+              "type": "boolean",
+              "value": "true"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1582896330764.61,
+    "exceptionDetails": {
+      "exceptionId": 3,
+      "text": "Uncaught",
+      "lineNumber": 494,
+      "columnNumber": 19689,
+      "scriptId": "32",
+      "url": "https://www.heraldscotland.com/news/14719812.unique-portrait-of-nicola-sturgeon-and-alex-salmond-to-go-on-sale-in-glasgow/",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "26",
+            "url": "https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr",
+            "lineNumber": 0,
+            "columnNumber": 281949
+          },
+          {
+            "functionName": "",
+            "scriptId": "26",
+            "url": "https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr",
+            "lineNumber": 0,
+            "columnNumber": 12438
+          },
+          {
+            "functionName": "",
+            "scriptId": "26",
+            "url": "https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr",
+            "lineNumber": 0,
+            "columnNumber": 12902
+          },
+          {
+            "functionName": "value",
+            "scriptId": "26",
+            "url": "https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr",
+            "lineNumber": 0,
+            "columnNumber": 12882
+          },
+          {
+            "functionName": "",
+            "scriptId": "26",
+            "url": "https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr",
+            "lineNumber": 0,
+            "columnNumber": 67396
+          },
+          {
+            "functionName": "h.onreadystatechange",
+            "scriptId": "26",
+            "url": "https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr",
+            "lineNumber": 0,
+            "columnNumber": 101831
+          },
+          {
+            "functionName": "nrWrapper",
+            "scriptId": "32",
+            "url": "https://www.heraldscotland.com/news/14719812.unique-portrait-of-nicola-sturgeon-and-alex-salmond-to-go-on-sale-in-glasgow/",
+            "lineNumber": 494,
+            "columnNumber": 19669
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "SyntaxError",
+        "description": "SyntaxError: Unexpected end of JSON input\n    at JSON.parse (<anonymous>)\n    at https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr:1:281950\n    at https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr:1:12439\n    at https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr:1:12903\n    at Array.forEach (<anonymous>)\n    at e.value (https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr:1:12883)\n    at https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr:1:67397\n    at XMLHttpRequest.h.onreadystatechange (https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr:1:101832)\n    at XMLHttpRequest.nrWrapper (https://www.heraldscotland.com/news/14719812.unique-portrait-of-nicola-sturgeon-and-alex-salmond-to-go-on-sale-in-glasgow/:495:19670)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":5}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "SyntaxError: Unexpected end of JSON input\n    at JSON.parse (<anonymous>)\n    at https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr:1:281950\n    at https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr:1:12439\n    at https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr:1:12903\n    at Array.forEach (<anonymous>)\n    at e.value (https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr:1:12883)\n    at https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr:1:67397\n    at XMLHttpRequest.h.onreadystatechange (https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr:1:101832)\n    at XMLHttpRequest.nrWrapper (https://www.heraldscotland.com/news/14719812.unique-portrait-of-nicola-sturgeon-and-alex-salmond-to-go-on-sale-in-glasgow/:495:19670)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "SyntaxError: Unexpected end of JSON input\n    at J…alex-salmond-to-go-on-sale-in-glasgow/:495:19670)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Unexpected end of JSON input"
+            },
+            {
+              "name": "nr@seenError",
+              "type": "boolean",
+              "value": "true"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1582896330812.997,
+    "exceptionDetails": {
+      "exceptionId": 4,
+      "text": "Uncaught",
+      "lineNumber": 494,
+      "columnNumber": 19689,
+      "scriptId": "32",
+      "url": "https://www.heraldscotland.com/news/14719812.unique-portrait-of-nicola-sturgeon-and-alex-salmond-to-go-on-sale-in-glasgow/",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "26",
+            "url": "https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr",
+            "lineNumber": 0,
+            "columnNumber": 281949
+          },
+          {
+            "functionName": "",
+            "scriptId": "26",
+            "url": "https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr",
+            "lineNumber": 0,
+            "columnNumber": 12438
+          },
+          {
+            "functionName": "",
+            "scriptId": "26",
+            "url": "https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr",
+            "lineNumber": 0,
+            "columnNumber": 12902
+          },
+          {
+            "functionName": "value",
+            "scriptId": "26",
+            "url": "https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr",
+            "lineNumber": 0,
+            "columnNumber": 12882
+          },
+          {
+            "functionName": "",
+            "scriptId": "26",
+            "url": "https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr",
+            "lineNumber": 0,
+            "columnNumber": 67396
+          },
+          {
+            "functionName": "h.onreadystatechange",
+            "scriptId": "26",
+            "url": "https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr",
+            "lineNumber": 0,
+            "columnNumber": 101831
+          },
+          {
+            "functionName": "nrWrapper",
+            "scriptId": "32",
+            "url": "https://www.heraldscotland.com/news/14719812.unique-portrait-of-nicola-sturgeon-and-alex-salmond-to-go-on-sale-in-glasgow/",
+            "lineNumber": 494,
+            "columnNumber": 19669
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "SyntaxError",
+        "description": "SyntaxError: Unexpected end of JSON input\n    at JSON.parse (<anonymous>)\n    at https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr:1:281950\n    at https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr:1:12439\n    at https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr:1:12903\n    at Array.forEach (<anonymous>)\n    at e.value (https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr:1:12883)\n    at https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr:1:67397\n    at XMLHttpRequest.h.onreadystatechange (https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr:1:101832)\n    at XMLHttpRequest.nrWrapper (https://www.heraldscotland.com/news/14719812.unique-portrait-of-nicola-sturgeon-and-alex-salmond-to-go-on-sale-in-glasgow/:495:19670)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":6}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "SyntaxError: Unexpected end of JSON input\n    at JSON.parse (<anonymous>)\n    at https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr:1:281950\n    at https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr:1:12439\n    at https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr:1:12903\n    at Array.forEach (<anonymous>)\n    at e.value (https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr:1:12883)\n    at https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr:1:67397\n    at XMLHttpRequest.h.onreadystatechange (https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr:1:101832)\n    at XMLHttpRequest.nrWrapper (https://www.heraldscotland.com/news/14719812.unique-portrait-of-nicola-sturgeon-and-alex-salmond-to-go-on-sale-in-glasgow/:495:19670)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "SyntaxError: Unexpected end of JSON input\n    at J…alex-salmond-to-go-on-sale-in-glasgow/:495:19670)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Unexpected end of JSON input"
+            },
+            {
+              "name": "nr@seenError",
+              "type": "boolean",
+              "value": "true"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1582896330923.1318,
+    "exceptionDetails": {
+      "exceptionId": 5,
+      "text": "Uncaught",
+      "lineNumber": 494,
+      "columnNumber": 19689,
+      "scriptId": "32",
+      "url": "https://www.heraldscotland.com/news/14719812.unique-portrait-of-nicola-sturgeon-and-alex-salmond-to-go-on-sale-in-glasgow/",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "26",
+            "url": "https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr",
+            "lineNumber": 0,
+            "columnNumber": 281949
+          },
+          {
+            "functionName": "",
+            "scriptId": "26",
+            "url": "https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr",
+            "lineNumber": 0,
+            "columnNumber": 12438
+          },
+          {
+            "functionName": "",
+            "scriptId": "26",
+            "url": "https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr",
+            "lineNumber": 0,
+            "columnNumber": 12902
+          },
+          {
+            "functionName": "value",
+            "scriptId": "26",
+            "url": "https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr",
+            "lineNumber": 0,
+            "columnNumber": 12882
+          },
+          {
+            "functionName": "",
+            "scriptId": "26",
+            "url": "https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr",
+            "lineNumber": 0,
+            "columnNumber": 67396
+          },
+          {
+            "functionName": "h.onreadystatechange",
+            "scriptId": "26",
+            "url": "https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr",
+            "lineNumber": 0,
+            "columnNumber": 101831
+          },
+          {
+            "functionName": "nrWrapper",
+            "scriptId": "32",
+            "url": "https://www.heraldscotland.com/news/14719812.unique-portrait-of-nicola-sturgeon-and-alex-salmond-to-go-on-sale-in-glasgow/",
+            "lineNumber": 494,
+            "columnNumber": 19669
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "SyntaxError",
+        "description": "SyntaxError: Unexpected end of JSON input\n    at JSON.parse (<anonymous>)\n    at https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr:1:281950\n    at https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr:1:12439\n    at https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr:1:12903\n    at Array.forEach (<anonymous>)\n    at e.value (https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr:1:12883)\n    at https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr:1:67397\n    at XMLHttpRequest.h.onreadystatechange (https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr:1:101832)\n    at XMLHttpRequest.nrWrapper (https://www.heraldscotland.com/news/14719812.unique-portrait-of-nicola-sturgeon-and-alex-salmond-to-go-on-sale-in-glasgow/:495:19670)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":7}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "SyntaxError: Unexpected end of JSON input\n    at JSON.parse (<anonymous>)\n    at https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr:1:281950\n    at https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr:1:12439\n    at https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr:1:12903\n    at Array.forEach (<anonymous>)\n    at e.value (https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr:1:12883)\n    at https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr:1:67397\n    at XMLHttpRequest.h.onreadystatechange (https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr:1:101832)\n    at XMLHttpRequest.nrWrapper (https://www.heraldscotland.com/news/14719812.unique-portrait-of-nicola-sturgeon-and-alex-salmond-to-go-on-sale-in-glasgow/:495:19670)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "SyntaxError: Unexpected end of JSON input\n    at J…alex-salmond-to-go-on-sale-in-glasgow/:495:19670)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Unexpected end of JSON input"
+            },
+            {
+              "name": "nr@seenError",
+              "type": "boolean",
+              "value": "true"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1582896331080.761,
+    "exceptionDetails": {
+      "exceptionId": 6,
+      "text": "Uncaught",
+      "lineNumber": 494,
+      "columnNumber": 19689,
+      "scriptId": "32",
+      "url": "https://www.heraldscotland.com/news/14719812.unique-portrait-of-nicola-sturgeon-and-alex-salmond-to-go-on-sale-in-glasgow/",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "26",
+            "url": "https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr",
+            "lineNumber": 0,
+            "columnNumber": 281949
+          },
+          {
+            "functionName": "",
+            "scriptId": "26",
+            "url": "https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr",
+            "lineNumber": 0,
+            "columnNumber": 12438
+          },
+          {
+            "functionName": "",
+            "scriptId": "26",
+            "url": "https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr",
+            "lineNumber": 0,
+            "columnNumber": 12902
+          },
+          {
+            "functionName": "value",
+            "scriptId": "26",
+            "url": "https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr",
+            "lineNumber": 0,
+            "columnNumber": 12882
+          },
+          {
+            "functionName": "",
+            "scriptId": "26",
+            "url": "https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr",
+            "lineNumber": 0,
+            "columnNumber": 67396
+          },
+          {
+            "functionName": "h.onreadystatechange",
+            "scriptId": "26",
+            "url": "https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr",
+            "lineNumber": 0,
+            "columnNumber": 101831
+          },
+          {
+            "functionName": "nrWrapper",
+            "scriptId": "32",
+            "url": "https://www.heraldscotland.com/news/14719812.unique-portrait-of-nicola-sturgeon-and-alex-salmond-to-go-on-sale-in-glasgow/",
+            "lineNumber": 494,
+            "columnNumber": 19669
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "SyntaxError",
+        "description": "SyntaxError: Unexpected end of JSON input\n    at JSON.parse (<anonymous>)\n    at https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr:1:281950\n    at https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr:1:12439\n    at https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr:1:12903\n    at Array.forEach (<anonymous>)\n    at e.value (https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr:1:12883)\n    at https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr:1:67397\n    at XMLHttpRequest.h.onreadystatechange (https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr:1:101832)\n    at XMLHttpRequest.nrWrapper (https://www.heraldscotland.com/news/14719812.unique-portrait-of-nicola-sturgeon-and-alex-salmond-to-go-on-sale-in-glasgow/:495:19670)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":8}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "SyntaxError: Unexpected end of JSON input\n    at JSON.parse (<anonymous>)\n    at https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr:1:281950\n    at https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr:1:12439\n    at https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr:1:12903\n    at Array.forEach (<anonymous>)\n    at e.value (https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr:1:12883)\n    at https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr:1:67397\n    at XMLHttpRequest.h.onreadystatechange (https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr:1:101832)\n    at XMLHttpRequest.nrWrapper (https://www.heraldscotland.com/news/14719812.unique-portrait-of-nicola-sturgeon-and-alex-salmond-to-go-on-sale-in-glasgow/:495:19670)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "SyntaxError: Unexpected end of JSON input\n    at J…alex-salmond-to-go-on-sale-in-glasgow/:495:19670)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Unexpected end of JSON input"
+            },
+            {
+              "name": "nr@seenError",
+              "type": "boolean",
+              "value": "true"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1582896331233.196,
+    "exceptionDetails": {
+      "exceptionId": 7,
+      "text": "Uncaught",
+      "lineNumber": 494,
+      "columnNumber": 19689,
+      "scriptId": "32",
+      "url": "https://www.heraldscotland.com/news/14719812.unique-portrait-of-nicola-sturgeon-and-alex-salmond-to-go-on-sale-in-glasgow/",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "26",
+            "url": "https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr",
+            "lineNumber": 0,
+            "columnNumber": 281949
+          },
+          {
+            "functionName": "",
+            "scriptId": "26",
+            "url": "https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr",
+            "lineNumber": 0,
+            "columnNumber": 12438
+          },
+          {
+            "functionName": "",
+            "scriptId": "26",
+            "url": "https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr",
+            "lineNumber": 0,
+            "columnNumber": 12902
+          },
+          {
+            "functionName": "value",
+            "scriptId": "26",
+            "url": "https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr",
+            "lineNumber": 0,
+            "columnNumber": 12882
+          },
+          {
+            "functionName": "",
+            "scriptId": "26",
+            "url": "https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr",
+            "lineNumber": 0,
+            "columnNumber": 67396
+          },
+          {
+            "functionName": "h.onreadystatechange",
+            "scriptId": "26",
+            "url": "https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr",
+            "lineNumber": 0,
+            "columnNumber": 101831
+          },
+          {
+            "functionName": "nrWrapper",
+            "scriptId": "32",
+            "url": "https://www.heraldscotland.com/news/14719812.unique-portrait-of-nicola-sturgeon-and-alex-salmond-to-go-on-sale-in-glasgow/",
+            "lineNumber": 494,
+            "columnNumber": 19669
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "SyntaxError",
+        "description": "SyntaxError: Unexpected end of JSON input\n    at JSON.parse (<anonymous>)\n    at https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr:1:281950\n    at https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr:1:12439\n    at https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr:1:12903\n    at Array.forEach (<anonymous>)\n    at e.value (https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr:1:12883)\n    at https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr:1:67397\n    at XMLHttpRequest.h.onreadystatechange (https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr:1:101832)\n    at XMLHttpRequest.nrWrapper (https://www.heraldscotland.com/news/14719812.unique-portrait-of-nicola-sturgeon-and-alex-salmond-to-go-on-sale-in-glasgow/:495:19670)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":9}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "SyntaxError: Unexpected end of JSON input\n    at JSON.parse (<anonymous>)\n    at https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr:1:281950\n    at https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr:1:12439\n    at https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr:1:12903\n    at Array.forEach (<anonymous>)\n    at e.value (https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr:1:12883)\n    at https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr:1:67397\n    at XMLHttpRequest.h.onreadystatechange (https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr:1:101832)\n    at XMLHttpRequest.nrWrapper (https://www.heraldscotland.com/news/14719812.unique-portrait-of-nicola-sturgeon-and-alex-salmond-to-go-on-sale-in-glasgow/:495:19670)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "SyntaxError: Unexpected end of JSON input\n    at J…alex-salmond-to-go-on-sale-in-glasgow/:495:19670)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Unexpected end of JSON input"
+            },
+            {
+              "name": "nr@seenError",
+              "type": "boolean",
+              "value": "true"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1582896331484.982,
+    "exceptionDetails": {
+      "exceptionId": 8,
+      "text": "Uncaught",
+      "lineNumber": 494,
+      "columnNumber": 19689,
+      "scriptId": "32",
+      "url": "https://www.heraldscotland.com/news/14719812.unique-portrait-of-nicola-sturgeon-and-alex-salmond-to-go-on-sale-in-glasgow/",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "26",
+            "url": "https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr",
+            "lineNumber": 0,
+            "columnNumber": 281949
+          },
+          {
+            "functionName": "",
+            "scriptId": "26",
+            "url": "https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr",
+            "lineNumber": 0,
+            "columnNumber": 12438
+          },
+          {
+            "functionName": "",
+            "scriptId": "26",
+            "url": "https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr",
+            "lineNumber": 0,
+            "columnNumber": 12902
+          },
+          {
+            "functionName": "value",
+            "scriptId": "26",
+            "url": "https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr",
+            "lineNumber": 0,
+            "columnNumber": 12882
+          },
+          {
+            "functionName": "",
+            "scriptId": "26",
+            "url": "https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr",
+            "lineNumber": 0,
+            "columnNumber": 67396
+          },
+          {
+            "functionName": "h.onreadystatechange",
+            "scriptId": "26",
+            "url": "https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr",
+            "lineNumber": 0,
+            "columnNumber": 101831
+          },
+          {
+            "functionName": "nrWrapper",
+            "scriptId": "32",
+            "url": "https://www.heraldscotland.com/news/14719812.unique-portrait-of-nicola-sturgeon-and-alex-salmond-to-go-on-sale-in-glasgow/",
+            "lineNumber": 494,
+            "columnNumber": 19669
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "SyntaxError",
+        "description": "SyntaxError: Unexpected end of JSON input\n    at JSON.parse (<anonymous>)\n    at https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr:1:281950\n    at https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr:1:12439\n    at https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr:1:12903\n    at Array.forEach (<anonymous>)\n    at e.value (https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr:1:12883)\n    at https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr:1:67397\n    at XMLHttpRequest.h.onreadystatechange (https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr:1:101832)\n    at XMLHttpRequest.nrWrapper (https://www.heraldscotland.com/news/14719812.unique-portrait-of-nicola-sturgeon-and-alex-salmond-to-go-on-sale-in-glasgow/:495:19670)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":10}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "SyntaxError: Unexpected end of JSON input\n    at JSON.parse (<anonymous>)\n    at https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr:1:281950\n    at https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr:1:12439\n    at https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr:1:12903\n    at Array.forEach (<anonymous>)\n    at e.value (https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr:1:12883)\n    at https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr:1:67397\n    at XMLHttpRequest.h.onreadystatechange (https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr:1:101832)\n    at XMLHttpRequest.nrWrapper (https://www.heraldscotland.com/news/14719812.unique-portrait-of-nicola-sturgeon-and-alex-salmond-to-go-on-sale-in-glasgow/:495:19670)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "SyntaxError: Unexpected end of JSON input\n    at J…alex-salmond-to-go-on-sale-in-glasgow/:495:19670)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Unexpected end of JSON input"
+            },
+            {
+              "name": "nr@seenError",
+              "type": "boolean",
+              "value": "true"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1582896331773.804,
+    "exceptionDetails": {
+      "exceptionId": 9,
+      "text": "Uncaught",
+      "lineNumber": 494,
+      "columnNumber": 19689,
+      "scriptId": "32",
+      "url": "https://www.heraldscotland.com/news/14719812.unique-portrait-of-nicola-sturgeon-and-alex-salmond-to-go-on-sale-in-glasgow/",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "26",
+            "url": "https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr",
+            "lineNumber": 0,
+            "columnNumber": 281949
+          },
+          {
+            "functionName": "",
+            "scriptId": "26",
+            "url": "https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr",
+            "lineNumber": 0,
+            "columnNumber": 12438
+          },
+          {
+            "functionName": "",
+            "scriptId": "26",
+            "url": "https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr",
+            "lineNumber": 0,
+            "columnNumber": 12902
+          },
+          {
+            "functionName": "value",
+            "scriptId": "26",
+            "url": "https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr",
+            "lineNumber": 0,
+            "columnNumber": 12882
+          },
+          {
+            "functionName": "",
+            "scriptId": "26",
+            "url": "https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr",
+            "lineNumber": 0,
+            "columnNumber": 67396
+          },
+          {
+            "functionName": "h.onreadystatechange",
+            "scriptId": "26",
+            "url": "https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr",
+            "lineNumber": 0,
+            "columnNumber": 101831
+          },
+          {
+            "functionName": "nrWrapper",
+            "scriptId": "32",
+            "url": "https://www.heraldscotland.com/news/14719812.unique-portrait-of-nicola-sturgeon-and-alex-salmond-to-go-on-sale-in-glasgow/",
+            "lineNumber": 494,
+            "columnNumber": 19669
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "SyntaxError",
+        "description": "SyntaxError: Unexpected end of JSON input\n    at JSON.parse (<anonymous>)\n    at https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr:1:281950\n    at https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr:1:12439\n    at https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr:1:12903\n    at Array.forEach (<anonymous>)\n    at e.value (https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr:1:12883)\n    at https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr:1:67397\n    at XMLHttpRequest.h.onreadystatechange (https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr:1:101832)\n    at XMLHttpRequest.nrWrapper (https://www.heraldscotland.com/news/14719812.unique-portrait-of-nicola-sturgeon-and-alex-salmond-to-go-on-sale-in-glasgow/:495:19670)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":11}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "SyntaxError: Unexpected end of JSON input\n    at JSON.parse (<anonymous>)\n    at https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr:1:281950\n    at https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr:1:12439\n    at https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr:1:12903\n    at Array.forEach (<anonymous>)\n    at e.value (https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr:1:12883)\n    at https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr:1:67397\n    at XMLHttpRequest.h.onreadystatechange (https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr:1:101832)\n    at XMLHttpRequest.nrWrapper (https://www.heraldscotland.com/news/14719812.unique-portrait-of-nicola-sturgeon-and-alex-salmond-to-go-on-sale-in-glasgow/:495:19670)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "SyntaxError: Unexpected end of JSON input\n    at J…alex-salmond-to-go-on-sale-in-glasgow/:495:19670)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Unexpected end of JSON input"
+            },
+            {
+              "name": "nr@seenError",
+              "type": "boolean",
+              "value": "true"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1582896331981.562,
+    "exceptionDetails": {
+      "exceptionId": 10,
+      "text": "Uncaught",
+      "lineNumber": 494,
+      "columnNumber": 19689,
+      "scriptId": "32",
+      "url": "https://www.heraldscotland.com/news/14719812.unique-portrait-of-nicola-sturgeon-and-alex-salmond-to-go-on-sale-in-glasgow/",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "26",
+            "url": "https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr",
+            "lineNumber": 0,
+            "columnNumber": 281949
+          },
+          {
+            "functionName": "",
+            "scriptId": "26",
+            "url": "https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr",
+            "lineNumber": 0,
+            "columnNumber": 12438
+          },
+          {
+            "functionName": "",
+            "scriptId": "26",
+            "url": "https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr",
+            "lineNumber": 0,
+            "columnNumber": 12902
+          },
+          {
+            "functionName": "value",
+            "scriptId": "26",
+            "url": "https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr",
+            "lineNumber": 0,
+            "columnNumber": 12882
+          },
+          {
+            "functionName": "",
+            "scriptId": "26",
+            "url": "https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr",
+            "lineNumber": 0,
+            "columnNumber": 67396
+          },
+          {
+            "functionName": "h.onreadystatechange",
+            "scriptId": "26",
+            "url": "https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr",
+            "lineNumber": 0,
+            "columnNumber": 101831
+          },
+          {
+            "functionName": "nrWrapper",
+            "scriptId": "32",
+            "url": "https://www.heraldscotland.com/news/14719812.unique-portrait-of-nicola-sturgeon-and-alex-salmond-to-go-on-sale-in-glasgow/",
+            "lineNumber": 494,
+            "columnNumber": 19669
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "SyntaxError",
+        "description": "SyntaxError: Unexpected end of JSON input\n    at JSON.parse (<anonymous>)\n    at https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr:1:281950\n    at https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr:1:12439\n    at https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr:1:12903\n    at Array.forEach (<anonymous>)\n    at e.value (https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr:1:12883)\n    at https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr:1:67397\n    at XMLHttpRequest.h.onreadystatechange (https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr:1:101832)\n    at XMLHttpRequest.nrWrapper (https://www.heraldscotland.com/news/14719812.unique-portrait-of-nicola-sturgeon-and-alex-salmond-to-go-on-sale-in-glasgow/:495:19670)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":12}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "SyntaxError: Unexpected end of JSON input\n    at JSON.parse (<anonymous>)\n    at https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr:1:281950\n    at https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr:1:12439\n    at https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr:1:12903\n    at Array.forEach (<anonymous>)\n    at e.value (https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr:1:12883)\n    at https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr:1:67397\n    at XMLHttpRequest.h.onreadystatechange (https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr:1:101832)\n    at XMLHttpRequest.nrWrapper (https://www.heraldscotland.com/news/14719812.unique-portrait-of-nicola-sturgeon-and-alex-salmond-to-go-on-sale-in-glasgow/:495:19670)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "SyntaxError: Unexpected end of JSON input\n    at J…alex-salmond-to-go-on-sale-in-glasgow/:495:19670)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Unexpected end of JSON input"
+            },
+            {
+              "name": "nr@seenError",
+              "type": "boolean",
+              "value": "true"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1582896332234.069,
+    "exceptionDetails": {
+      "exceptionId": 11,
+      "text": "Uncaught",
+      "lineNumber": 494,
+      "columnNumber": 19689,
+      "scriptId": "32",
+      "url": "https://www.heraldscotland.com/news/14719812.unique-portrait-of-nicola-sturgeon-and-alex-salmond-to-go-on-sale-in-glasgow/",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "26",
+            "url": "https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr",
+            "lineNumber": 0,
+            "columnNumber": 281949
+          },
+          {
+            "functionName": "",
+            "scriptId": "26",
+            "url": "https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr",
+            "lineNumber": 0,
+            "columnNumber": 12438
+          },
+          {
+            "functionName": "",
+            "scriptId": "26",
+            "url": "https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr",
+            "lineNumber": 0,
+            "columnNumber": 12902
+          },
+          {
+            "functionName": "value",
+            "scriptId": "26",
+            "url": "https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr",
+            "lineNumber": 0,
+            "columnNumber": 12882
+          },
+          {
+            "functionName": "",
+            "scriptId": "26",
+            "url": "https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr",
+            "lineNumber": 0,
+            "columnNumber": 67396
+          },
+          {
+            "functionName": "h.onreadystatechange",
+            "scriptId": "26",
+            "url": "https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr",
+            "lineNumber": 0,
+            "columnNumber": 101831
+          },
+          {
+            "functionName": "nrWrapper",
+            "scriptId": "32",
+            "url": "https://www.heraldscotland.com/news/14719812.unique-portrait-of-nicola-sturgeon-and-alex-salmond-to-go-on-sale-in-glasgow/",
+            "lineNumber": 494,
+            "columnNumber": 19669
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "SyntaxError",
+        "description": "SyntaxError: Unexpected end of JSON input\n    at JSON.parse (<anonymous>)\n    at https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr:1:281950\n    at https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr:1:12439\n    at https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr:1:12903\n    at Array.forEach (<anonymous>)\n    at e.value (https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr:1:12883)\n    at https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr:1:67397\n    at XMLHttpRequest.h.onreadystatechange (https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr:1:101832)\n    at XMLHttpRequest.nrWrapper (https://www.heraldscotland.com/news/14719812.unique-portrait-of-nicola-sturgeon-and-alex-salmond-to-go-on-sale-in-glasgow/:495:19670)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":13}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "SyntaxError: Unexpected end of JSON input\n    at JSON.parse (<anonymous>)\n    at https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr:1:281950\n    at https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr:1:12439\n    at https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr:1:12903\n    at Array.forEach (<anonymous>)\n    at e.value (https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr:1:12883)\n    at https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr:1:67397\n    at XMLHttpRequest.h.onreadystatechange (https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr:1:101832)\n    at XMLHttpRequest.nrWrapper (https://www.heraldscotland.com/news/14719812.unique-portrait-of-nicola-sturgeon-and-alex-salmond-to-go-on-sale-in-glasgow/:495:19670)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "SyntaxError: Unexpected end of JSON input\n    at J…alex-salmond-to-go-on-sale-in-glasgow/:495:19670)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Unexpected end of JSON input"
+            },
+            {
+              "name": "nr@seenError",
+              "type": "boolean",
+              "value": "true"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1582896332481.997,
+    "exceptionDetails": {
+      "exceptionId": 12,
+      "text": "Uncaught",
+      "lineNumber": 494,
+      "columnNumber": 19689,
+      "scriptId": "32",
+      "url": "https://www.heraldscotland.com/news/14719812.unique-portrait-of-nicola-sturgeon-and-alex-salmond-to-go-on-sale-in-glasgow/",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "26",
+            "url": "https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr",
+            "lineNumber": 0,
+            "columnNumber": 281949
+          },
+          {
+            "functionName": "",
+            "scriptId": "26",
+            "url": "https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr",
+            "lineNumber": 0,
+            "columnNumber": 12438
+          },
+          {
+            "functionName": "",
+            "scriptId": "26",
+            "url": "https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr",
+            "lineNumber": 0,
+            "columnNumber": 12902
+          },
+          {
+            "functionName": "value",
+            "scriptId": "26",
+            "url": "https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr",
+            "lineNumber": 0,
+            "columnNumber": 12882
+          },
+          {
+            "functionName": "",
+            "scriptId": "26",
+            "url": "https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr",
+            "lineNumber": 0,
+            "columnNumber": 67396
+          },
+          {
+            "functionName": "h.onreadystatechange",
+            "scriptId": "26",
+            "url": "https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr",
+            "lineNumber": 0,
+            "columnNumber": 101831
+          },
+          {
+            "functionName": "nrWrapper",
+            "scriptId": "32",
+            "url": "https://www.heraldscotland.com/news/14719812.unique-portrait-of-nicola-sturgeon-and-alex-salmond-to-go-on-sale-in-glasgow/",
+            "lineNumber": 494,
+            "columnNumber": 19669
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "SyntaxError",
+        "description": "SyntaxError: Unexpected end of JSON input\n    at JSON.parse (<anonymous>)\n    at https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr:1:281950\n    at https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr:1:12439\n    at https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr:1:12903\n    at Array.forEach (<anonymous>)\n    at e.value (https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr:1:12883)\n    at https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr:1:67397\n    at XMLHttpRequest.h.onreadystatechange (https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr:1:101832)\n    at XMLHttpRequest.nrWrapper (https://www.heraldscotland.com/news/14719812.unique-portrait-of-nicola-sturgeon-and-alex-salmond-to-go-on-sale-in-glasgow/:495:19670)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":14}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "SyntaxError: Unexpected end of JSON input\n    at JSON.parse (<anonymous>)\n    at https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr:1:281950\n    at https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr:1:12439\n    at https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr:1:12903\n    at Array.forEach (<anonymous>)\n    at e.value (https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr:1:12883)\n    at https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr:1:67397\n    at XMLHttpRequest.h.onreadystatechange (https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr:1:101832)\n    at XMLHttpRequest.nrWrapper (https://www.heraldscotland.com/news/14719812.unique-portrait-of-nicola-sturgeon-and-alex-salmond-to-go-on-sale-in-glasgow/:495:19670)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "SyntaxError: Unexpected end of JSON input\n    at J…alex-salmond-to-go-on-sale-in-glasgow/:495:19670)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Unexpected end of JSON input"
+            },
+            {
+              "name": "nr@seenError",
+              "type": "boolean",
+              "value": "true"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1582896332732.1628,
+    "exceptionDetails": {
+      "exceptionId": 13,
+      "text": "Uncaught",
+      "lineNumber": 494,
+      "columnNumber": 19689,
+      "scriptId": "32",
+      "url": "https://www.heraldscotland.com/news/14719812.unique-portrait-of-nicola-sturgeon-and-alex-salmond-to-go-on-sale-in-glasgow/",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "26",
+            "url": "https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr",
+            "lineNumber": 0,
+            "columnNumber": 281949
+          },
+          {
+            "functionName": "",
+            "scriptId": "26",
+            "url": "https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr",
+            "lineNumber": 0,
+            "columnNumber": 12438
+          },
+          {
+            "functionName": "",
+            "scriptId": "26",
+            "url": "https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr",
+            "lineNumber": 0,
+            "columnNumber": 12902
+          },
+          {
+            "functionName": "value",
+            "scriptId": "26",
+            "url": "https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr",
+            "lineNumber": 0,
+            "columnNumber": 12882
+          },
+          {
+            "functionName": "",
+            "scriptId": "26",
+            "url": "https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr",
+            "lineNumber": 0,
+            "columnNumber": 67396
+          },
+          {
+            "functionName": "h.onreadystatechange",
+            "scriptId": "26",
+            "url": "https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr",
+            "lineNumber": 0,
+            "columnNumber": 101831
+          },
+          {
+            "functionName": "nrWrapper",
+            "scriptId": "32",
+            "url": "https://www.heraldscotland.com/news/14719812.unique-portrait-of-nicola-sturgeon-and-alex-salmond-to-go-on-sale-in-glasgow/",
+            "lineNumber": 494,
+            "columnNumber": 19669
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "SyntaxError",
+        "description": "SyntaxError: Unexpected end of JSON input\n    at JSON.parse (<anonymous>)\n    at https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr:1:281950\n    at https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr:1:12439\n    at https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr:1:12903\n    at Array.forEach (<anonymous>)\n    at e.value (https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr:1:12883)\n    at https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr:1:67397\n    at XMLHttpRequest.h.onreadystatechange (https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr:1:101832)\n    at XMLHttpRequest.nrWrapper (https://www.heraldscotland.com/news/14719812.unique-portrait-of-nicola-sturgeon-and-alex-salmond-to-go-on-sale-in-glasgow/:495:19670)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":15}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "SyntaxError: Unexpected end of JSON input\n    at JSON.parse (<anonymous>)\n    at https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr:1:281950\n    at https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr:1:12439\n    at https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr:1:12903\n    at Array.forEach (<anonymous>)\n    at e.value (https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr:1:12883)\n    at https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr:1:67397\n    at XMLHttpRequest.h.onreadystatechange (https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr:1:101832)\n    at XMLHttpRequest.nrWrapper (https://www.heraldscotland.com/news/14719812.unique-portrait-of-nicola-sturgeon-and-alex-salmond-to-go-on-sale-in-glasgow/:495:19670)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "SyntaxError: Unexpected end of JSON input\n    at J…alex-salmond-to-go-on-sale-in-glasgow/:495:19670)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Unexpected end of JSON input"
+            },
+            {
+              "name": "nr@seenError",
+              "type": "boolean",
+              "value": "true"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1582896332985.3972,
+    "exceptionDetails": {
+      "exceptionId": 14,
+      "text": "Uncaught",
+      "lineNumber": 494,
+      "columnNumber": 19689,
+      "scriptId": "32",
+      "url": "https://www.heraldscotland.com/news/14719812.unique-portrait-of-nicola-sturgeon-and-alex-salmond-to-go-on-sale-in-glasgow/",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "26",
+            "url": "https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr",
+            "lineNumber": 0,
+            "columnNumber": 281949
+          },
+          {
+            "functionName": "",
+            "scriptId": "26",
+            "url": "https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr",
+            "lineNumber": 0,
+            "columnNumber": 12438
+          },
+          {
+            "functionName": "",
+            "scriptId": "26",
+            "url": "https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr",
+            "lineNumber": 0,
+            "columnNumber": 12902
+          },
+          {
+            "functionName": "value",
+            "scriptId": "26",
+            "url": "https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr",
+            "lineNumber": 0,
+            "columnNumber": 12882
+          },
+          {
+            "functionName": "",
+            "scriptId": "26",
+            "url": "https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr",
+            "lineNumber": 0,
+            "columnNumber": 67396
+          },
+          {
+            "functionName": "h.onreadystatechange",
+            "scriptId": "26",
+            "url": "https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr",
+            "lineNumber": 0,
+            "columnNumber": 101831
+          },
+          {
+            "functionName": "nrWrapper",
+            "scriptId": "32",
+            "url": "https://www.heraldscotland.com/news/14719812.unique-portrait-of-nicola-sturgeon-and-alex-salmond-to-go-on-sale-in-glasgow/",
+            "lineNumber": 494,
+            "columnNumber": 19669
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "SyntaxError",
+        "description": "SyntaxError: Unexpected end of JSON input\n    at JSON.parse (<anonymous>)\n    at https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr:1:281950\n    at https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr:1:12439\n    at https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr:1:12903\n    at Array.forEach (<anonymous>)\n    at e.value (https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr:1:12883)\n    at https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr:1:67397\n    at XMLHttpRequest.h.onreadystatechange (https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr:1:101832)\n    at XMLHttpRequest.nrWrapper (https://www.heraldscotland.com/news/14719812.unique-portrait-of-nicola-sturgeon-and-alex-salmond-to-go-on-sale-in-glasgow/:495:19670)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":16}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "SyntaxError: Unexpected end of JSON input\n    at JSON.parse (<anonymous>)\n    at https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr:1:281950\n    at https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr:1:12439\n    at https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr:1:12903\n    at Array.forEach (<anonymous>)\n    at e.value (https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr:1:12883)\n    at https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr:1:67397\n    at XMLHttpRequest.h.onreadystatechange (https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr:1:101832)\n    at XMLHttpRequest.nrWrapper (https://www.heraldscotland.com/news/14719812.unique-portrait-of-nicola-sturgeon-and-alex-salmond-to-go-on-sale-in-glasgow/:495:19670)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "SyntaxError: Unexpected end of JSON input\n    at J…alex-salmond-to-go-on-sale-in-glasgow/:495:19670)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Unexpected end of JSON input"
+            },
+            {
+              "name": "nr@seenError",
+              "type": "boolean",
+              "value": "true"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1582896333233.4932,
+    "exceptionDetails": {
+      "exceptionId": 15,
+      "text": "Uncaught",
+      "lineNumber": 494,
+      "columnNumber": 19689,
+      "scriptId": "32",
+      "url": "https://www.heraldscotland.com/news/14719812.unique-portrait-of-nicola-sturgeon-and-alex-salmond-to-go-on-sale-in-glasgow/",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "26",
+            "url": "https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr",
+            "lineNumber": 0,
+            "columnNumber": 281949
+          },
+          {
+            "functionName": "",
+            "scriptId": "26",
+            "url": "https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr",
+            "lineNumber": 0,
+            "columnNumber": 12438
+          },
+          {
+            "functionName": "",
+            "scriptId": "26",
+            "url": "https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr",
+            "lineNumber": 0,
+            "columnNumber": 12902
+          },
+          {
+            "functionName": "value",
+            "scriptId": "26",
+            "url": "https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr",
+            "lineNumber": 0,
+            "columnNumber": 12882
+          },
+          {
+            "functionName": "",
+            "scriptId": "26",
+            "url": "https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr",
+            "lineNumber": 0,
+            "columnNumber": 67396
+          },
+          {
+            "functionName": "h.onreadystatechange",
+            "scriptId": "26",
+            "url": "https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr",
+            "lineNumber": 0,
+            "columnNumber": 101831
+          },
+          {
+            "functionName": "nrWrapper",
+            "scriptId": "32",
+            "url": "https://www.heraldscotland.com/news/14719812.unique-portrait-of-nicola-sturgeon-and-alex-salmond-to-go-on-sale-in-glasgow/",
+            "lineNumber": 494,
+            "columnNumber": 19669
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "SyntaxError",
+        "description": "SyntaxError: Unexpected end of JSON input\n    at JSON.parse (<anonymous>)\n    at https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr:1:281950\n    at https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr:1:12439\n    at https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr:1:12903\n    at Array.forEach (<anonymous>)\n    at e.value (https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr:1:12883)\n    at https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr:1:67397\n    at XMLHttpRequest.h.onreadystatechange (https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr:1:101832)\n    at XMLHttpRequest.nrWrapper (https://www.heraldscotland.com/news/14719812.unique-portrait-of-nicola-sturgeon-and-alex-salmond-to-go-on-sale-in-glasgow/:495:19670)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":17}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "SyntaxError: Unexpected end of JSON input\n    at JSON.parse (<anonymous>)\n    at https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr:1:281950\n    at https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr:1:12439\n    at https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr:1:12903\n    at Array.forEach (<anonymous>)\n    at e.value (https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr:1:12883)\n    at https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr:1:67397\n    at XMLHttpRequest.h.onreadystatechange (https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr:1:101832)\n    at XMLHttpRequest.nrWrapper (https://www.heraldscotland.com/news/14719812.unique-portrait-of-nicola-sturgeon-and-alex-salmond-to-go-on-sale-in-glasgow/:495:19670)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "SyntaxError: Unexpected end of JSON input\n    at J…alex-salmond-to-go-on-sale-in-glasgow/:495:19670)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Unexpected end of JSON input"
+            },
+            {
+              "name": "nr@seenError",
+              "type": "boolean",
+              "value": "true"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1582896333486.7808,
+    "exceptionDetails": {
+      "exceptionId": 16,
+      "text": "Uncaught",
+      "lineNumber": 494,
+      "columnNumber": 19689,
+      "scriptId": "32",
+      "url": "https://www.heraldscotland.com/news/14719812.unique-portrait-of-nicola-sturgeon-and-alex-salmond-to-go-on-sale-in-glasgow/",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "26",
+            "url": "https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr",
+            "lineNumber": 0,
+            "columnNumber": 281949
+          },
+          {
+            "functionName": "",
+            "scriptId": "26",
+            "url": "https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr",
+            "lineNumber": 0,
+            "columnNumber": 12438
+          },
+          {
+            "functionName": "",
+            "scriptId": "26",
+            "url": "https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr",
+            "lineNumber": 0,
+            "columnNumber": 12902
+          },
+          {
+            "functionName": "value",
+            "scriptId": "26",
+            "url": "https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr",
+            "lineNumber": 0,
+            "columnNumber": 12882
+          },
+          {
+            "functionName": "",
+            "scriptId": "26",
+            "url": "https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr",
+            "lineNumber": 0,
+            "columnNumber": 67396
+          },
+          {
+            "functionName": "h.onreadystatechange",
+            "scriptId": "26",
+            "url": "https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr",
+            "lineNumber": 0,
+            "columnNumber": 101831
+          },
+          {
+            "functionName": "nrWrapper",
+            "scriptId": "32",
+            "url": "https://www.heraldscotland.com/news/14719812.unique-portrait-of-nicola-sturgeon-and-alex-salmond-to-go-on-sale-in-glasgow/",
+            "lineNumber": 494,
+            "columnNumber": 19669
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "SyntaxError",
+        "description": "SyntaxError: Unexpected end of JSON input\n    at JSON.parse (<anonymous>)\n    at https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr:1:281950\n    at https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr:1:12439\n    at https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr:1:12903\n    at Array.forEach (<anonymous>)\n    at e.value (https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr:1:12883)\n    at https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr:1:67397\n    at XMLHttpRequest.h.onreadystatechange (https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr:1:101832)\n    at XMLHttpRequest.nrWrapper (https://www.heraldscotland.com/news/14719812.unique-portrait-of-nicola-sturgeon-and-alex-salmond-to-go-on-sale-in-glasgow/:495:19670)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":18}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "SyntaxError: Unexpected end of JSON input\n    at JSON.parse (<anonymous>)\n    at https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr:1:281950\n    at https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr:1:12439\n    at https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr:1:12903\n    at Array.forEach (<anonymous>)\n    at e.value (https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr:1:12883)\n    at https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr:1:67397\n    at XMLHttpRequest.h.onreadystatechange (https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr:1:101832)\n    at XMLHttpRequest.nrWrapper (https://www.heraldscotland.com/news/14719812.unique-portrait-of-nicola-sturgeon-and-alex-salmond-to-go-on-sale-in-glasgow/:495:19670)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "SyntaxError: Unexpected end of JSON input\n    at J…alex-salmond-to-go-on-sale-in-glasgow/:495:19670)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Unexpected end of JSON input"
+            },
+            {
+              "name": "nr@seenError",
+              "type": "boolean",
+              "value": "true"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1582896333731.441,
+    "exceptionDetails": {
+      "exceptionId": 17,
+      "text": "Uncaught",
+      "lineNumber": 494,
+      "columnNumber": 19689,
+      "scriptId": "32",
+      "url": "https://www.heraldscotland.com/news/14719812.unique-portrait-of-nicola-sturgeon-and-alex-salmond-to-go-on-sale-in-glasgow/",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "26",
+            "url": "https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr",
+            "lineNumber": 0,
+            "columnNumber": 281949
+          },
+          {
+            "functionName": "",
+            "scriptId": "26",
+            "url": "https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr",
+            "lineNumber": 0,
+            "columnNumber": 12438
+          },
+          {
+            "functionName": "",
+            "scriptId": "26",
+            "url": "https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr",
+            "lineNumber": 0,
+            "columnNumber": 12902
+          },
+          {
+            "functionName": "value",
+            "scriptId": "26",
+            "url": "https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr",
+            "lineNumber": 0,
+            "columnNumber": 12882
+          },
+          {
+            "functionName": "",
+            "scriptId": "26",
+            "url": "https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr",
+            "lineNumber": 0,
+            "columnNumber": 67396
+          },
+          {
+            "functionName": "h.onreadystatechange",
+            "scriptId": "26",
+            "url": "https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr",
+            "lineNumber": 0,
+            "columnNumber": 101831
+          },
+          {
+            "functionName": "nrWrapper",
+            "scriptId": "32",
+            "url": "https://www.heraldscotland.com/news/14719812.unique-portrait-of-nicola-sturgeon-and-alex-salmond-to-go-on-sale-in-glasgow/",
+            "lineNumber": 494,
+            "columnNumber": 19669
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "SyntaxError",
+        "description": "SyntaxError: Unexpected end of JSON input\n    at JSON.parse (<anonymous>)\n    at https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr:1:281950\n    at https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr:1:12439\n    at https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr:1:12903\n    at Array.forEach (<anonymous>)\n    at e.value (https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr:1:12883)\n    at https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr:1:67397\n    at XMLHttpRequest.h.onreadystatechange (https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr:1:101832)\n    at XMLHttpRequest.nrWrapper (https://www.heraldscotland.com/news/14719812.unique-portrait-of-nicola-sturgeon-and-alex-salmond-to-go-on-sale-in-glasgow/:495:19670)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":19}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "SyntaxError: Unexpected end of JSON input\n    at JSON.parse (<anonymous>)\n    at https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr:1:281950\n    at https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr:1:12439\n    at https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr:1:12903\n    at Array.forEach (<anonymous>)\n    at e.value (https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr:1:12883)\n    at https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr:1:67397\n    at XMLHttpRequest.h.onreadystatechange (https://www.heraldscotland.com/resources/files/53137/?r=MrbwQTcr:1:101832)\n    at XMLHttpRequest.nrWrapper (https://www.heraldscotland.com/news/14719812.unique-portrait-of-nicola-sturgeon-and-alex-salmond-to-go-on-sale-in-glasgow/:495:19670)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "SyntaxError: Unexpected end of JSON input\n    at J…alex-salmond-to-go-on-sale-in-glasgow/:495:19670)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Unexpected end of JSON input"
+            },
+            {
+              "name": "nr@seenError",
+              "type": "boolean",
+              "value": "true"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

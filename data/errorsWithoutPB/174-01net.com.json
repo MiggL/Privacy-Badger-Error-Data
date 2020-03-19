@@ -1,0 +1,473 @@
+[
+  {
+    "timestamp": 1583011798415.417,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 1355,
+      "columnNumber": 4,
+      "url": "https://www.01net.com/telecharger/windows/Bureautique/gestion_k7_dvd_cd_vin/fiches/100490.html",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "71",
+            "url": "https://www.01net.com/telecharger/windows/Bureautique/gestion_k7_dvd_cd_vin/fiches/100490.html",
+            "lineNumber": 1355,
+            "columnNumber": 4
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: pubactive is not defined\n    at https://www.01net.com/telecharger/windows/Bureautique/gestion_k7_dvd_cd_vin/fiches/100490.html:1356:5",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: pubactive is not defined\n    at https://www.01net.com/telecharger/windows/Bureautique/gestion_k7_dvd_cd_vin/fiches/100490.html:1356:5",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: pubactive is not defined\n    at ht…e/gestion_k7_dvd_cd_vin/fiches/100490.html:1356:5"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "pubactive is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583011798648.467,
+    "exceptionDetails": {
+      "exceptionId": 2,
+      "text": "Uncaught",
+      "lineNumber": 1,
+      "columnNumber": 31688,
+      "scriptId": "26",
+      "url": "https://code.jquery.com/jquery-3.2.1.min.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "suggest.insert_box",
+            "scriptId": "29",
+            "url": "https://www.01net.com/build/scripts.min.js",
+            "lineNumber": 1,
+            "columnNumber": 14239
+          },
+          {
+            "functionName": "suggest",
+            "scriptId": "29",
+            "url": "https://www.01net.com/build/scripts.min.js",
+            "lineNumber": 1,
+            "columnNumber": 5188
+          },
+          {
+            "functionName": "",
+            "scriptId": "29",
+            "url": "https://www.01net.com/build/scripts.min.js",
+            "lineNumber": 1,
+            "columnNumber": 13643
+          },
+          {
+            "functionName": "j",
+            "scriptId": "26",
+            "url": "https://code.jquery.com/jquery-3.2.1.min.js",
+            "lineNumber": 1,
+            "columnNumber": 29998
+          },
+          {
+            "functionName": "k",
+            "scriptId": "26",
+            "url": "https://code.jquery.com/jquery-3.2.1.min.js",
+            "lineNumber": 1,
+            "columnNumber": 30312
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: $(...).injectAfter is not a function\n    at suggest.insert_box (https://www.01net.com/build/scripts.min.js:2:14240)\n    at new suggest (https://www.01net.com/build/scripts.min.js:2:5189)\n    at HTMLDocument.<anonymous> (https://www.01net.com/build/scripts.min.js:2:13644)\n    at j (https://code.jquery.com/jquery-3.2.1.min.js:2:29999)\n    at k (https://code.jquery.com/jquery-3.2.1.min.js:2:30313)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":2}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: $(...).injectAfter is not a function\n    at suggest.insert_box (https://www.01net.com/build/scripts.min.js:2:14240)\n    at new suggest (https://www.01net.com/build/scripts.min.js:2:5189)\n    at HTMLDocument.<anonymous> (https://www.01net.com/build/scripts.min.js:2:13644)\n    at j (https://code.jquery.com/jquery-3.2.1.min.js:2:29999)\n    at k (https://code.jquery.com/jquery-3.2.1.min.js:2:30313)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: $(...).injectAfter is not a function\n  …ps://code.jquery.com/jquery-3.2.1.min.js:2:30313)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "$(...).injectAfter is not a function"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583011798648.706,
+    "exceptionDetails": {
+      "exceptionId": 3,
+      "text": "Uncaught",
+      "lineNumber": 1,
+      "columnNumber": 31688,
+      "scriptId": "26",
+      "url": "https://code.jquery.com/jquery-3.2.1.min.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "bulle",
+            "scriptId": "54",
+            "url": "https://www.01net.com/telecharger/windows/Bureautique/gestion_k7_dvd_cd_vin/fiches/100490.html",
+            "lineNumber": 631,
+            "columnNumber": 79
+          },
+          {
+            "functionName": "",
+            "scriptId": "54",
+            "url": "https://www.01net.com/telecharger/windows/Bureautique/gestion_k7_dvd_cd_vin/fiches/100490.html",
+            "lineNumber": 631,
+            "columnNumber": 382
+          },
+          {
+            "functionName": "j",
+            "scriptId": "26",
+            "url": "https://code.jquery.com/jquery-3.2.1.min.js",
+            "lineNumber": 1,
+            "columnNumber": 29998
+          },
+          {
+            "functionName": "k",
+            "scriptId": "26",
+            "url": "https://code.jquery.com/jquery-3.2.1.min.js",
+            "lineNumber": 1,
+            "columnNumber": 30312
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'left' of undefined\n    at bulle (https://www.01net.com/telecharger/windows/Bureautique/gestion_k7_dvd_cd_vin/fiches/100490.html:632:80)\n    at HTMLDocument.<anonymous> (https://www.01net.com/telecharger/windows/Bureautique/gestion_k7_dvd_cd_vin/fiches/100490.html:632:383)\n    at j (https://code.jquery.com/jquery-3.2.1.min.js:2:29999)\n    at k (https://code.jquery.com/jquery-3.2.1.min.js:2:30313)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":3}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'left' of undefined\n    at bulle (https://www.01net.com/telecharger/windows/Bureautique/gestion_k7_dvd_cd_vin/fiches/100490.html:632:80)\n    at HTMLDocument.<anonymous> (https://www.01net.com/telecharger/windows/Bureautique/gestion_k7_dvd_cd_vin/fiches/100490.html:632:383)\n    at j (https://code.jquery.com/jquery-3.2.1.min.js:2:29999)\n    at k (https://code.jquery.com/jquery-3.2.1.min.js:2:30313)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'left' of undefine…ps://code.jquery.com/jquery-3.2.1.min.js:2:30313)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'left' of undefined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583011801220.218,
+    "exceptionDetails": {
+      "exceptionId": 4,
+      "text": "Uncaught",
+      "lineNumber": 189,
+      "columnNumber": 16,
+      "url": "https://www.01net.com/telecharger/windows/Bureautique/gestion_k7_dvd_cd_vin/fiches/100490.html",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "window.onload",
+            "scriptId": "36",
+            "url": "https://www.01net.com/telecharger/windows/Bureautique/gestion_k7_dvd_cd_vin/fiches/100490.html",
+            "lineNumber": 189,
+            "columnNumber": 16
+          },
+          {
+            "functionName": "window.onload.window.onload",
+            "scriptId": "57",
+            "url": "https://s7.addthis.com/js/250/addthis_widget.js",
+            "lineNumber": 1,
+            "columnNumber": 202419
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'set' of null\n    at window.onload (https://www.01net.com/telecharger/windows/Bureautique/gestion_k7_dvd_cd_vin/fiches/100490.html:190:17)\n    at window.onload.window.onload (https://s7.addthis.com/js/250/addthis_widget.js:2:202420)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":5}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'set' of null\n    at window.onload (https://www.01net.com/telecharger/windows/Bureautique/gestion_k7_dvd_cd_vin/fiches/100490.html:190:17)\n    at window.onload.window.onload (https://s7.addthis.com/js/250/addthis_widget.js:2:202420)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'set' of null\n    …s7.addthis.com/js/250/addthis_widget.js:2:202420)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'set' of null"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583011803383.738,
+    "exceptionDetails": {
+      "exceptionId": 5,
+      "text": "Uncaught",
+      "lineNumber": 1,
+      "columnNumber": 52,
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "491",
+            "url": "",
+            "lineNumber": 1,
+            "columnNumber": 52
+          },
+          {
+            "functionName": "e.addCreative",
+            "scriptId": "134",
+            "url": "https://ced-ns.sascdn.com/diff/templates/ts/dist/banner/sas-banner-1.2.js",
+            "lineNumber": 0,
+            "columnNumber": 14905
+          },
+          {
+            "functionName": "e.init",
+            "scriptId": "134",
+            "url": "https://ced-ns.sascdn.com/diff/templates/ts/dist/banner/sas-banner-1.2.js",
+            "lineNumber": 0,
+            "columnNumber": 11240
+          },
+          {
+            "functionName": "onLoad",
+            "scriptId": "489",
+            "url": "https://securite.01net.com/h/nshow?siteid=319456&pgid=1140075&fmtid=379&tag=sas_379&tmstp=5502788837&visit=S&uii=253994173254587420&acd=1583011803280&ckid=1509534444060496553&async=1&pubid=20&systgt=%24qc%3D1308374388%3B%24ql%3DMedium%3B%24qpc%3D102%2B65%3B%24qt%3D144_2146_465t%3B%24dma%3D0%3B%24b%3D16630%3B%24o%3D99999%3B%24sw%3D800%3B%24sh%3D600%3B%24wpc%3D20&tgt=%24dt%3D1t&pgDomain=https%3A%2F%2Fwww.01net.com%2Ftelecharger%2Fwindows%2FBureautique%2Fgestion_k7_dvd_cd_vin%2Ffiches%2F100490.html&noadcbk=sas.noad&gdpr=1&gdpr_consent=BOvjG5gOvjG5gBaABBENC_-AAAAuh7_______9______9uz_Ov_v_f__33e8__9v_l_7_-___u_-33d4u_1vf99yfm1-7etr3tp_87ues2_Xur__79__3z3_9pxP78k89r7337Ew_v-_v-b7BCON_Y1EyA&insid=8766258%2C&capp=1%2C&mcrdbt=0%2C",
+            "lineNumber": 62,
+            "columnNumber": 26
+          },
+          {
+            "functionName": "l",
+            "scriptId": "489",
+            "url": "https://securite.01net.com/h/nshow?siteid=319456&pgid=1140075&fmtid=379&tag=sas_379&tmstp=5502788837&visit=S&uii=253994173254587420&acd=1583011803280&ckid=1509534444060496553&async=1&pubid=20&systgt=%24qc%3D1308374388%3B%24ql%3DMedium%3B%24qpc%3D102%2B65%3B%24qt%3D144_2146_465t%3B%24dma%3D0%3B%24b%3D16630%3B%24o%3D99999%3B%24sw%3D800%3B%24sh%3D600%3B%24wpc%3D20&tgt=%24dt%3D1t&pgDomain=https%3A%2F%2Fwww.01net.com%2Ftelecharger%2Fwindows%2FBureautique%2Fgestion_k7_dvd_cd_vin%2Ffiches%2F100490.html&noadcbk=sas.noad&gdpr=1&gdpr_consent=BOvjG5gOvjG5gBaABBENC_-AAAAuh7_______9______9uz_Ov_v_f__33e8__9v_l_7_-___u_-33d4u_1vf99yfm1-7etr3tp_87ues2_Xur__79__3z3_9pxP78k89r7337Ew_v-_v-b7BCON_Y1EyA&insid=8766258%2C&capp=1%2C&mcrdbt=0%2C",
+            "lineNumber": 9,
+            "columnNumber": 1476
+          },
+          {
+            "functionName": "notify",
+            "scriptId": "489",
+            "url": "https://securite.01net.com/h/nshow?siteid=319456&pgid=1140075&fmtid=379&tag=sas_379&tmstp=5502788837&visit=S&uii=253994173254587420&acd=1583011803280&ckid=1509534444060496553&async=1&pubid=20&systgt=%24qc%3D1308374388%3B%24ql%3DMedium%3B%24qpc%3D102%2B65%3B%24qt%3D144_2146_465t%3B%24dma%3D0%3B%24b%3D16630%3B%24o%3D99999%3B%24sw%3D800%3B%24sh%3D600%3B%24wpc%3D20&tgt=%24dt%3D1t&pgDomain=https%3A%2F%2Fwww.01net.com%2Ftelecharger%2Fwindows%2FBureautique%2Fgestion_k7_dvd_cd_vin%2Ffiches%2F100490.html&noadcbk=sas.noad&gdpr=1&gdpr_consent=BOvjG5gOvjG5gBaABBENC_-AAAAuh7_______9______9uz_Ov_v_f__33e8__9v_l_7_-___u_-33d4u_1vf99yfm1-7etr3tp_87ues2_Xur__79__3z3_9pxP78k89r7337Ew_v-_v-b7BCON_Y1EyA&insid=8766258%2C&capp=1%2C&mcrdbt=0%2C",
+            "lineNumber": 9,
+            "columnNumber": 1632
+          },
+          {
+            "functionName": "sas.utils.loadScript",
+            "scriptId": "489",
+            "url": "https://securite.01net.com/h/nshow?siteid=319456&pgid=1140075&fmtid=379&tag=sas_379&tmstp=5502788837&visit=S&uii=253994173254587420&acd=1583011803280&ckid=1509534444060496553&async=1&pubid=20&systgt=%24qc%3D1308374388%3B%24ql%3DMedium%3B%24qpc%3D102%2B65%3B%24qt%3D144_2146_465t%3B%24dma%3D0%3B%24b%3D16630%3B%24o%3D99999%3B%24sw%3D800%3B%24sh%3D600%3B%24wpc%3D20&tgt=%24dt%3D1t&pgDomain=https%3A%2F%2Fwww.01net.com%2Ftelecharger%2Fwindows%2FBureautique%2Fgestion_k7_dvd_cd_vin%2Ffiches%2F100490.html&noadcbk=sas.noad&gdpr=1&gdpr_consent=BOvjG5gOvjG5gBaABBENC_-AAAAuh7_______9______9uz_Ov_v_f__33e8__9v_l_7_-___u_-33d4u_1vf99yfm1-7etr3tp_87ues2_Xur__79__3z3_9pxP78k89r7337Ew_v-_v-b7BCON_Y1EyA&insid=8766258%2C&capp=1%2C&mcrdbt=0%2C",
+            "lineNumber": 9,
+            "columnNumber": 3447
+          },
+          {
+            "functionName": "sas.utils.loadScriptCdn",
+            "scriptId": "489",
+            "url": "https://securite.01net.com/h/nshow?siteid=319456&pgid=1140075&fmtid=379&tag=sas_379&tmstp=5502788837&visit=S&uii=253994173254587420&acd=1583011803280&ckid=1509534444060496553&async=1&pubid=20&systgt=%24qc%3D1308374388%3B%24ql%3DMedium%3B%24qpc%3D102%2B65%3B%24qt%3D144_2146_465t%3B%24dma%3D0%3B%24b%3D16630%3B%24o%3D99999%3B%24sw%3D800%3B%24sh%3D600%3B%24wpc%3D20&tgt=%24dt%3D1t&pgDomain=https%3A%2F%2Fwww.01net.com%2Ftelecharger%2Fwindows%2FBureautique%2Fgestion_k7_dvd_cd_vin%2Ffiches%2F100490.html&noadcbk=sas.noad&gdpr=1&gdpr_consent=BOvjG5gOvjG5gBaABBENC_-AAAAuh7_______9______9uz_Ov_v_f__33e8__9v_l_7_-___u_-33d4u_1vf99yfm1-7etr3tp_87ues2_Xur__79__3z3_9pxP78k89r7337Ew_v-_v-b7BCON_Y1EyA&insid=8766258%2C&capp=1%2C&mcrdbt=0%2C",
+            "lineNumber": 9,
+            "columnNumber": 2232
+          },
+          {
+            "functionName": "",
+            "scriptId": "489",
+            "url": "https://securite.01net.com/h/nshow?siteid=319456&pgid=1140075&fmtid=379&tag=sas_379&tmstp=5502788837&visit=S&uii=253994173254587420&acd=1583011803280&ckid=1509534444060496553&async=1&pubid=20&systgt=%24qc%3D1308374388%3B%24ql%3DMedium%3B%24qpc%3D102%2B65%3B%24qt%3D144_2146_465t%3B%24dma%3D0%3B%24b%3D16630%3B%24o%3D99999%3B%24sw%3D800%3B%24sh%3D600%3B%24wpc%3D20&tgt=%24dt%3D1t&pgDomain=https%3A%2F%2Fwww.01net.com%2Ftelecharger%2Fwindows%2FBureautique%2Fgestion_k7_dvd_cd_vin%2Ffiches%2F100490.html&noadcbk=sas.noad&gdpr=1&gdpr_consent=BOvjG5gOvjG5gBaABBENC_-AAAAuh7_______9______9uz_Ov_v_f__33e8__9v_l_7_-___u_-33d4u_1vf99yfm1-7etr3tp_87ues2_Xur__79__3z3_9pxP78k89r7337Ew_v-_v-b7BCON_Y1EyA&insid=8766258%2C&capp=1%2C&mcrdbt=0%2C",
+            "lineNumber": 59,
+            "columnNumber": 14
+          },
+          {
+            "functionName": "",
+            "scriptId": "489",
+            "url": "https://securite.01net.com/h/nshow?siteid=319456&pgid=1140075&fmtid=379&tag=sas_379&tmstp=5502788837&visit=S&uii=253994173254587420&acd=1583011803280&ckid=1509534444060496553&async=1&pubid=20&systgt=%24qc%3D1308374388%3B%24ql%3DMedium%3B%24qpc%3D102%2B65%3B%24qt%3D144_2146_465t%3B%24dma%3D0%3B%24b%3D16630%3B%24o%3D99999%3B%24sw%3D800%3B%24sh%3D600%3B%24wpc%3D20&tgt=%24dt%3D1t&pgDomain=https%3A%2F%2Fwww.01net.com%2Ftelecharger%2Fwindows%2FBureautique%2Fgestion_k7_dvd_cd_vin%2Ffiches%2F100490.html&noadcbk=sas.noad&gdpr=1&gdpr_consent=BOvjG5gOvjG5gBaABBENC_-AAAAuh7_______9______9uz_Ov_v_f__33e8__9v_l_7_-___u_-33d4u_1vf99yfm1-7etr3tp_87ues2_Xur__79__3z3_9pxP78k89r7337Ew_v-_v-b7BCON_Y1EyA&insid=8766258%2C&capp=1%2C&mcrdbt=0%2C",
+            "lineNumber": 65,
+            "columnNumber": 2
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'setAttribute' of null\n    at <anonymous>:2:53\n    at e.addCreative (https://ced-ns.sascdn.com/diff/templates/ts/dist/banner/sas-banner-1.2.js:1:14906)\n    at e.init (https://ced-ns.sascdn.com/diff/templates/ts/dist/banner/sas-banner-1.2.js:1:11241)\n    at onLoad (https://securite.01net.com/h/nshow?siteid=319456&pgid=1140075&fmtid=379&tag=sas_379&tmstp=5502788837&visit=S&uii=253994173254587420&acd=1583011803280&ckid=1509534444060496553&async=1&pubid=20&systgt=%24qc%3D1308374388%3B%24ql%3DMedium%3B%24qpc%3D102%2B65%3B%24qt%3D144_2146_465t%3B%24dma%3D0%3B%24b%3D16630%3B%24o%3D99999%3B%24sw%3D800%3B%24sh%3D600%3B%24wpc%3D20&tgt=%24dt%3D1t&pgDomain=https%3A%2F%2Fwww.01net.com%2Ftelecharger%2Fwindows%2FBureautique%2Fgestion_k7_dvd_cd_vin%2Ffiches%2F100490.html&noadcbk=sas.noad&gdpr=1&gdpr_consent=BOvjG5gOvjG5gBaABBENC_-AAAAuh7_______9______9uz_Ov_v_f__33e8__9v_l_7_-___u_-33d4u_1vf99yfm1-7etr3tp_87ues2_Xur__79__3z3_9pxP78k89r7337Ew_v-_v-b7BCON_Y1EyA&insid=8766258%2C&capp=1%2C&mcrdbt=0%2C:63:27)\n    at l (https://securite.01net.com/h/nshow?siteid=319456&pgid=1140075&fmtid=379&tag=sas_379&tmstp=5502788837&visit=S&uii=253994173254587420&acd=1583011803280&ckid=1509534444060496553&async=1&pubid=20&systgt=%24qc%3D1308374388%3B%24ql%3DMedium%3B%24qpc%3D102%2B65%3B%24qt%3D144_2146_465t%3B%24dma%3D0%3B%24b%3D16630%3B%24o%3D99999%3B%24sw%3D800%3B%24sh%3D600%3B%24wpc%3D20&tgt=%24dt%3D1t&pgDomain=https%3A%2F%2Fwww.01net.com%2Ftelecharger%2Fwindows%2FBureautique%2Fgestion_k7_dvd_cd_vin%2Ffiches%2F100490.html&noadcbk=sas.noad&gdpr=1&gdpr_consent=BOvjG5gOvjG5gBaABBENC_-AAAAuh7_______9______9uz_Ov_v_f__33e8__9v_l_7_-___u_-33d4u_1vf99yfm1-7etr3tp_87ues2_Xur__79__3z3_9pxP78k89r7337Ew_v-_v-b7BCON_Y1EyA&insid=8766258%2C&capp=1%2C&mcrdbt=0%2C:10:1477)\n    at sas.utils.Latch.notify (https://securite.01net.com/h/nshow?siteid=319456&pgid=1140075&fmtid=379&tag=sas_379&tmstp=5502788837&visit=S&uii=253994173254587420&acd=1583011803280&ckid=1509534444060496553&async=1&pubid=20&systgt=%24qc%3D1308374388%3B%24ql%3DMedium%3B%24qpc%3D102%2B65%3B%24qt%3D144_2146_465t%3B%24dma%3D0%3B%24b%3D16630%3B%24o%3D99999%3B%24sw%3D800%3B%24sh%3D600%3B%24wpc%3D20&tgt=%24dt%3D1t&pgDomain=https%3A%2F%2Fwww.01net.com%2Ftelecharger%2Fwindows%2FBureautique%2Fgestion_k7_dvd_cd_vin%2Ffiches%2F100490.html&noadcbk=sas.noad&gdpr=1&gdpr_consent=BOvjG5gOvjG5gBaABBENC_-AAAAuh7_______9______9uz_Ov_v_f__33e8__9v_l_7_-___u_-33d4u_1vf99yfm1-7etr3tp_87ues2_Xur__79__3z3_9pxP78k89r7337Ew_v-_v-b7BCON_Y1EyA&insid=8766258%2C&capp=1%2C&mcrdbt=0%2C:10:1633)\n    at Object.sas.utils.loadScript (https://securite.01net.com/h/nshow?siteid=319456&pgid=1140075&fmtid=379&tag=sas_379&tmstp=5502788837&visit=S&uii=253994173254587420&acd=1583011803280&ckid=1509534444060496553&async=1&pubid=20&systgt=%24qc%3D1308374388%3B%24ql%3DMedium%3B%24qpc%3D102%2B65%3B%24qt%3D144_2146_465t%3B%24dma%3D0%3B%24b%3D16630%3B%24o%3D99999%3B%24sw%3D800%3B%24sh%3D600%3B%24wpc%3D20&tgt=%24dt%3D1t&pgDomain=https%3A%2F%2Fwww.01net.com%2Ftelecharger%2Fwindows%2FBureautique%2Fgestion_k7_dvd_cd_vin%2Ffiches%2F100490.html&noadcbk=sas.noad&gdpr=1&gdpr_consent=BOvjG5gOvjG5gBaABBENC_-AAAAuh7_______9______9uz_Ov_v_f__33e8__9v_l_7_-___u_-33d4u_1vf99yfm1-7etr3tp_87ues2_Xur__79__3z3_9pxP78k89r7337Ew_v-_v-b7BCON_Y1EyA&insid=8766258%2C&capp=1%2C&mcrdbt=0%2C:10:3448)\n    at Object.sas.utils.loadScriptCdn (https://securite.01net.com/h/nshow?siteid=319456&pgid=1140075&fmtid=379&tag=sas_379&tmstp=5502788837&visit=S&uii=253994173254587420&acd=1583011803280&ckid=1509534444060496553&async=1&pubid=20&systgt=%24qc%3D1308374388%3B%24ql%3DMedium%3B%24qpc%3D102%2B65%3B%24qt%3D144_2146_465t%3B%24dma%3D0%3B%24b%3D16630%3B%24o%3D99999%3B%24sw%3D800%3B%24sh%3D600%3B%24wpc%3D20&tgt=%24dt%3D1t&pgDomain=https%3A%2F%2Fwww.01net.com%2Ftelecharger%2Fwindows%2FBureautique%2Fgestion_k7_dvd_cd_vin%2Ffiches%2F100490.html&noadcbk=sas.noad&gdpr=1&gdpr_consent=BOvjG5gOvjG5gBaABBENC_-AAAAuh7_______9______9uz_Ov_v_f__33e8__9v_l_7_-___u_-33d4u_1vf99yfm1-7etr3tp_87ues2_Xur__79__3z3_9pxP78k89r7337Ew_v-_v-b7BCON_Y1EyA&insid=8766258%2C&capp=1%2C&mcrdbt=0%2C:10:2233)\n    at https://securite.01net.com/h/nshow?siteid=319456&pgid=1140075&fmtid=379&tag=sas_379&tmstp=5502788837&visit=S&uii=253994173254587420&acd=1583011803280&ckid=1509534444060496553&async=1&pubid=20&systgt=%24qc%3D1308374388%3B%24ql%3DMedium%3B%24qpc%3D102%2B65%3B%24qt%3D144_2146_465t%3B%24dma%3D0%3B%24b%3D16630%3B%24o%3D99999%3B%24sw%3D800%3B%24sh%3D600%3B%24wpc%3D20&tgt=%24dt%3D1t&pgDomain=https%3A%2F%2Fwww.01net.com%2Ftelecharger%2Fwindows%2FBureautique%2Fgestion_k7_dvd_cd_vin%2Ffiches%2F100490.html&noadcbk=sas.noad&gdpr=1&gdpr_consent=BOvjG5gOvjG5gBaABBENC_-AAAAuh7_______9______9uz_Ov_v_f__33e8__9v_l_7_-___u_-33d4u_1vf99yfm1-7etr3tp_87ues2_Xur__79__3z3_9pxP78k89r7337Ew_v-_v-b7BCON_Y1EyA&insid=8766258%2C&capp=1%2C&mcrdbt=0%2C:60:15\n    at https://securite.01net.com/h/nshow?siteid=319456&pgid=1140075&fmtid=379&tag=sas_379&tmstp=5502788837&visit=S&uii=253994173254587420&acd=1583011803280&ckid=1509534444060496553&async=1&pubid=20&systgt=%24qc%3D1308374388%3B%24ql%3DMedium%3B%24qpc%3D102%2B65%3B%24qt%3D144_2146_465t%3B%24dma%3D0%3B%24b%3D16630%3B%24o%3D99999%3B%24sw%3D800%3B%24sh%3D600%3B%24wpc%3D20&tgt=%24dt%3D1t&pgDomain=https%3A%2F%2Fwww.01net.com%2Ftelecharger%2Fwindows%2FBureautique%2Fgestion_k7_dvd_cd_vin%2Ffiches%2F100490.html&noadcbk=sas.noad&gdpr=1&gdpr_consent=BOvjG5gOvjG5gBaABBENC_-AAAAuh7_______9______9uz_Ov_v_f__33e8__9v_l_7_-___u_-33d4u_1vf99yfm1-7etr3tp_87ues2_Xur__79__3z3_9pxP78k89r7337Ew_v-_v-b7BCON_Y1EyA&insid=8766258%2C&capp=1%2C&mcrdbt=0%2C:66:3",
+        "objectId": "{\"injectedScriptId\":110,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'setAttribute' of null\n    at <anonymous>:2:53\n    at e.addCreative (https://ced-ns.sascdn.com/diff/templates/ts/dist/banner/sas-banner-1.2.js:1:14906)\n    at e.init (https://ced-ns.sascdn.com/diff/templates/ts/dist/banner/sas-banner-1.2.js:1:11241)\n    at onLoad (https://securite.01net.com/h/nshow?siteid=319456&pgid=1140075&fmtid=379&tag=sas_379&tmstp=5502788837&visit=S&uii=253994173254587420&acd=1583011803280&ckid=1509534444060496553&async=1&pubid=20&systgt=%24qc%3D1308374388%3B%24ql%3DMedium%3B%24qpc%3D102%2B65%3B%24qt%3D144_2146_465t%3B%24dma%3D0%3B%24b%3D16630%3B%24o%3D99999%3B%24sw%3D800%3B%24sh%3D600%3B%24wpc%3D20&tgt=%24dt%3D1t&pgDomain=https%3A%2F%2Fwww.01net.com%2Ftelecharger%2Fwindows%2FBureautique%2Fgestion_k7_dvd_cd_vin%2Ffiches%2F100490.html&noadcbk=sas.noad&gdpr=1&gdpr_consent=BOvjG5gOvjG5gBaABBENC_-AAAAuh7_______9______9uz_Ov_v_f__33e8__9v_l_7_-___u_-33d4u_1vf99yfm1-7etr3tp_87ues2_Xur__79__3z3_9pxP78k89r7337Ew_v-_v-b7BCON_Y1EyA&insid=8766258%2C&capp=1%2C&mcrdbt=0%2C:63:27)\n    at l (https://securite.01net.com/h/nshow?siteid=319456&pgid=1140075&fmtid=379&tag=sas_379&tmstp=5502788837&visit=S&uii=253994173254587420&acd=1583011803280&ckid=1509534444060496553&async=1&pubid=20&systgt=%24qc%3D1308374388%3B%24ql%3DMedium%3B%24qpc%3D102%2B65%3B%24qt%3D144_2146_465t%3B%24dma%3D0%3B%24b%3D16630%3B%24o%3D99999%3B%24sw%3D800%3B%24sh%3D600%3B%24wpc%3D20&tgt=%24dt%3D1t&pgDomain=https%3A%2F%2Fwww.01net.com%2Ftelecharger%2Fwindows%2FBureautique%2Fgestion_k7_dvd_cd_vin%2Ffiches%2F100490.html&noadcbk=sas.noad&gdpr=1&gdpr_consent=BOvjG5gOvjG5gBaABBENC_-AAAAuh7_______9______9uz_Ov_v_f__33e8__9v_l_7_-___u_-33d4u_1vf99yfm1-7etr3tp_87ues2_Xur__79__3z3_9pxP78k89r7337Ew_v-_v-b7BCON_Y1EyA&insid=8766258%2C&capp=1%2C&mcrdbt=0%2C:10:1477)\n    at sas.utils.Latch.notify (https://securite.01net.com/h/nshow?siteid=319456&pgid=1140075&fmtid=379&tag=sas_379&tmstp=5502788837&visit=S&uii=253994173254587420&acd=1583011803280&ckid=1509534444060496553&async=1&pubid=20&systgt=%24qc%3D1308374388%3B%24ql%3DMedium%3B%24qpc%3D102%2B65%3B%24qt%3D144_2146_465t%3B%24dma%3D0%3B%24b%3D16630%3B%24o%3D99999%3B%24sw%3D800%3B%24sh%3D600%3B%24wpc%3D20&tgt=%24dt%3D1t&pgDomain=https%3A%2F%2Fwww.01net.com%2Ftelecharger%2Fwindows%2FBureautique%2Fgestion_k7_dvd_cd_vin%2Ffiches%2F100490.html&noadcbk=sas.noad&gdpr=1&gdpr_consent=BOvjG5gOvjG5gBaABBENC_-AAAAuh7_______9______9uz_Ov_v_f__33e8__9v_l_7_-___u_-33d4u_1vf99yfm1-7etr3tp_87ues2_Xur__79__3z3_9pxP78k89r7337Ew_v-_v-b7BCON_Y1EyA&insid=8766258%2C&capp=1%2C&mcrdbt=0%2C:10:1633)\n    at Object.sas.utils.loadScript (https://securite.01net.com/h/nshow?siteid=319456&pgid=1140075&fmtid=379&tag=sas_379&tmstp=5502788837&visit=S&uii=253994173254587420&acd=1583011803280&ckid=1509534444060496553&async=1&pubid=20&systgt=%24qc%3D1308374388%3B%24ql%3DMedium%3B%24qpc%3D102%2B65%3B%24qt%3D144_2146_465t%3B%24dma%3D0%3B%24b%3D16630%3B%24o%3D99999%3B%24sw%3D800%3B%24sh%3D600%3B%24wpc%3D20&tgt=%24dt%3D1t&pgDomain=https%3A%2F%2Fwww.01net.com%2Ftelecharger%2Fwindows%2FBureautique%2Fgestion_k7_dvd_cd_vin%2Ffiches%2F100490.html&noadcbk=sas.noad&gdpr=1&gdpr_consent=BOvjG5gOvjG5gBaABBENC_-AAAAuh7_______9______9uz_Ov_v_f__33e8__9v_l_7_-___u_-33d4u_1vf99yfm1-7etr3tp_87ues2_Xur__79__3z3_9pxP78k89r7337Ew_v-_v-b7BCON_Y1EyA&insid=8766258%2C&capp=1%2C&mcrdbt=0%2C:10:3448)\n    at Object.sas.utils.loadScriptCdn (https://securite.01net.com/h/nshow?siteid=319456&pgid=1140075&fmtid=379&tag=sas_379&tmstp=5502788837&visit=S&uii=253994173254587420&acd=1583011803280&ckid=1509534444060496553&async=1&pubid=20&systgt=%24qc%3D1308374388%3B%24ql%3DMedium%3B%24qpc%3D102%2B65%3B%24qt%3D144_2146_465t%3B%24dma%3D0%3B%24b%3D16630%3B%24o%3D99999%3B%24sw%3D800%3B%24sh%3D600%3B%24wpc%3D20&tgt=%24dt%3D1t&pgDomain=https%3A%2F%2Fwww.01net.com%2Ftelecharger%2Fwindows%2FBureautique%2Fgestion_k7_dvd_cd_vin%2Ffiches%2F100490.html&noadcbk=sas.noad&gdpr=1&gdpr_consent=BOvjG5gOvjG5gBaABBENC_-AAAAuh7_______9______9uz_Ov_v_f__33e8__9v_l_7_-___u_-33d4u_1vf99yfm1-7etr3tp_87ues2_Xur__79__3z3_9pxP78k89r7337Ew_v-_v-b7BCON_Y1EyA&insid=8766258%2C&capp=1%2C&mcrdbt=0%2C:10:2233)\n    at https://securite.01net.com/h/nshow?siteid=319456&pgid=1140075&fmtid=379&tag=sas_379&tmstp=5502788837&visit=S&uii=253994173254587420&acd=1583011803280&ckid=1509534444060496553&async=1&pubid=20&systgt=%24qc%3D1308374388%3B%24ql%3DMedium%3B%24qpc%3D102%2B65%3B%24qt%3D144_2146_465t%3B%24dma%3D0%3B%24b%3D16630%3B%24o%3D99999%3B%24sw%3D800%3B%24sh%3D600%3B%24wpc%3D20&tgt=%24dt%3D1t&pgDomain=https%3A%2F%2Fwww.01net.com%2Ftelecharger%2Fwindows%2FBureautique%2Fgestion_k7_dvd_cd_vin%2Ffiches%2F100490.html&noadcbk=sas.noad&gdpr=1&gdpr_consent=BOvjG5gOvjG5gBaABBENC_-AAAAuh7_______9______9uz_Ov_v_f__33e8__9v_l_7_-___u_-33d4u_1vf99yfm1-7etr3tp_87ues2_Xur__79__3z3_9pxP78k89r7337Ew_v-_v-b7BCON_Y1EyA&insid=8766258%2C&capp=1%2C&mcrdbt=0%2C:60:15\n    at https://securite.01net.com/h/nshow?siteid=319456&pgid=1140075&fmtid=379&tag=sas_379&tmstp=5502788837&visit=S&uii=253994173254587420&acd=1583011803280&ckid=1509534444060496553&async=1&pubid=20&systgt=%24qc%3D1308374388%3B%24ql%3DMedium%3B%24qpc%3D102%2B65%3B%24qt%3D144_2146_465t%3B%24dma%3D0%3B%24b%3D16630%3B%24o%3D99999%3B%24sw%3D800%3B%24sh%3D600%3B%24wpc%3D20&tgt=%24dt%3D1t&pgDomain=https%3A%2F%2Fwww.01net.com%2Ftelecharger%2Fwindows%2FBureautique%2Fgestion_k7_dvd_cd_vin%2Ffiches%2F100490.html&noadcbk=sas.noad&gdpr=1&gdpr_consent=BOvjG5gOvjG5gBaABBENC_-AAAAuh7_______9______9uz_Ov_v_f__33e8__9v_l_7_-___u_-33d4u_1vf99yfm1-7etr3tp_87ues2_Xur__79__3z3_9pxP78k89r7337Ew_v-_v-b7BCON_Y1EyA&insid=8766258%2C&capp=1%2C&mcrdbt=0%2C:66:3",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'setAttribute' of …Y1EyA&insid=8766258%2C&capp=1%2C&mcrdbt=0%2C:66:3"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'setAttribute' of null"
+            }
+          ]
+        }
+      },
+      "executionContextId": 110
+    }
+  },
+  {
+    "timestamp": 1583011803783.883,
+    "exceptionDetails": {
+      "exceptionId": 6,
+      "text": "Uncaught (in promise)",
+      "lineNumber": 0,
+      "columnNumber": 8583,
+      "url": "https://a.teads.tv/media/format/v3/teads-format.min.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "t.match",
+            "scriptId": "494",
+            "url": "https://a.teads.tv/media/format/v3/teads-format.min.js",
+            "lineNumber": 0,
+            "columnNumber": 8583
+          },
+          {
+            "functionName": "",
+            "scriptId": "494",
+            "url": "https://a.teads.tv/media/format/v3/teads-format.min.js",
+            "lineNumber": 1,
+            "columnNumber": 110296
+          },
+          {
+            "functionName": "t.retrievePayloadFromPublisherCookie",
+            "scriptId": "494",
+            "url": "https://a.teads.tv/media/format/v3/teads-format.min.js",
+            "lineNumber": 1,
+            "columnNumber": 110195
+          },
+          {
+            "functionName": "",
+            "scriptId": "494",
+            "url": "https://a.teads.tv/media/format/v3/teads-format.min.js",
+            "lineNumber": 1,
+            "columnNumber": 107246
+          },
+          {
+            "functionName": "t.requestConsentString",
+            "scriptId": "494",
+            "url": "https://a.teads.tv/media/format/v3/teads-format.min.js",
+            "lineNumber": 1,
+            "columnNumber": 108071
+          },
+          {
+            "functionName": "t",
+            "scriptId": "494",
+            "url": "https://a.teads.tv/media/format/v3/teads-format.min.js",
+            "lineNumber": 1,
+            "columnNumber": 274884
+          },
+          {
+            "functionName": "t.callRAS",
+            "scriptId": "494",
+            "url": "https://a.teads.tv/media/format/v3/teads-format.min.js",
+            "lineNumber": 8,
+            "columnNumber": 42504
+          },
+          {
+            "functionName": "",
+            "scriptId": "494",
+            "url": "https://a.teads.tv/media/format/v3/teads-format.min.js",
+            "lineNumber": 8,
+            "columnNumber": 70555
+          },
+          {
+            "functionName": "E",
+            "scriptId": "494",
+            "url": "https://a.teads.tv/media/format/v3/teads-format.min.js",
+            "lineNumber": 0,
+            "columnNumber": 36260
+          },
+          {
+            "functionName": "t.onReadyState",
+            "scriptId": "494",
+            "url": "https://a.teads.tv/media/format/v3/teads-format.min.js",
+            "lineNumber": 8,
+            "columnNumber": 76892
+          },
+          {
+            "functionName": "t.load",
+            "scriptId": "494",
+            "url": "https://a.teads.tv/media/format/v3/teads-format.min.js",
+            "lineNumber": 8,
+            "columnNumber": 69719
+          },
+          {
+            "functionName": "t.placement",
+            "scriptId": "494",
+            "url": "https://a.teads.tv/media/format/v3/teads-format.min.js",
+            "lineNumber": 8,
+            "columnNumber": 69314
+          },
+          {
+            "functionName": "placement",
+            "scriptId": "494",
+            "url": "https://a.teads.tv/media/format/v3/teads-format.min.js",
+            "lineNumber": 8,
+            "columnNumber": 68495
+          },
+          {
+            "functionName": "ttag",
+            "scriptId": "493",
+            "url": "https://a.teads.tv/page/90666/tag",
+            "lineNumber": 110,
+            "columnNumber": 24
+          }
+        ]
+      },
+      "exception": {
+        "type": "undefined"
+      },
+      "executionContextId": 3
+    }
+  }
+]

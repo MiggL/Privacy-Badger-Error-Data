@@ -1,0 +1,84 @@
+[
+  {
+    "timestamp": 1582890984419.076,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 4,
+      "columnNumber": 96,
+      "url": "https://www.robertgatwardjewellers.co.uk/static/version1582207886/frontend/SaltAgency/robertgatward/en_GB/Algolia_AlgoliaSearch/autocomplete.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "199",
+            "url": "https://www.robertgatwardjewellers.co.uk/static/version1582207886/frontend/SaltAgency/robertgatward/en_GB/Algolia_AlgoliaSearch/autocomplete.js",
+            "lineNumber": 4,
+            "columnNumber": 96
+          },
+          {
+            "functionName": "each",
+            "scriptId": "241",
+            "url": "https://www.robertgatwardjewellers.co.uk/static/version1582207886/frontend/SaltAgency/robertgatward/en_GB/Algolia_AlgoliaSearch/internals/algoliaBundle.min.js",
+            "lineNumber": 1,
+            "columnNumber": 15336
+          },
+          {
+            "functionName": "",
+            "scriptId": "199",
+            "url": "https://www.robertgatwardjewellers.co.uk/static/version1582207886/frontend/SaltAgency/robertgatward/en_GB/Algolia_AlgoliaSearch/autocomplete.js",
+            "lineNumber": 4,
+            "columnNumber": 21
+          },
+          {
+            "functionName": "u",
+            "scriptId": "241",
+            "url": "https://www.robertgatwardjewellers.co.uk/static/version1582207886/frontend/SaltAgency/robertgatward/en_GB/Algolia_AlgoliaSearch/internals/algoliaBundle.min.js",
+            "lineNumber": 3,
+            "columnNumber": 7065
+          },
+          {
+            "functionName": "fireWith",
+            "scriptId": "241",
+            "url": "https://www.robertgatwardjewellers.co.uk/static/version1582207886/frontend/SaltAgency/robertgatward/en_GB/Algolia_AlgoliaSearch/internals/algoliaBundle.min.js",
+            "lineNumber": 3,
+            "columnNumber": 7833
+          },
+          {
+            "functionName": "ready",
+            "scriptId": "241",
+            "url": "https://www.robertgatwardjewellers.co.uk/static/version1582207886/frontend/SaltAgency/robertgatward/en_GB/Algolia_AlgoliaSearch/internals/algoliaBundle.min.js",
+            "lineNumber": 3,
+            "columnNumber": 9652
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: getAutocompleteSource is not defined\n    at Object.<anonymous> (https://www.robertgatwardjewellers.co.uk/static/version1582207886/frontend/SaltAgency/robertgatward/en_GB/Algolia_AlgoliaSearch/autocomplete.js:5:97)\n    at Function.each (https://www.robertgatwardjewellers.co.uk/static/version1582207886/frontend/SaltAgency/robertgatward/en_GB/Algolia_AlgoliaSearch/internals/algoliaBundle.min.js:2:15337)\n    at HTMLDocument.<anonymous> (https://www.robertgatwardjewellers.co.uk/static/version1582207886/frontend/SaltAgency/robertgatward/en_GB/Algolia_AlgoliaSearch/autocomplete.js:5:22)\n    at u (https://www.robertgatwardjewellers.co.uk/static/version1582207886/frontend/SaltAgency/robertgatward/en_GB/Algolia_AlgoliaSearch/internals/algoliaBundle.min.js:4:7066)\n    at Object.fireWith [as resolveWith] (https://www.robertgatwardjewellers.co.uk/static/version1582207886/frontend/SaltAgency/robertgatward/en_GB/Algolia_AlgoliaSearch/internals/algoliaBundle.min.js:4:7834)\n    at ready (https://www.robertgatwardjewellers.co.uk/static/version1582207886/frontend/SaltAgency/robertgatward/en_GB/Algolia_AlgoliaSearch/internals/algoliaBundle.min.js:4:9653)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":3}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: getAutocompleteSource is not defined\n    at Object.<anonymous> (https://www.robertgatwardjewellers.co.uk/static/version1582207886/frontend/SaltAgency/robertgatward/en_GB/Algolia_AlgoliaSearch/autocomplete.js:5:97)\n    at Function.each (https://www.robertgatwardjewellers.co.uk/static/version1582207886/frontend/SaltAgency/robertgatward/en_GB/Algolia_AlgoliaSearch/internals/algoliaBundle.min.js:2:15337)\n    at HTMLDocument.<anonymous> (https://www.robertgatwardjewellers.co.uk/static/version1582207886/frontend/SaltAgency/robertgatward/en_GB/Algolia_AlgoliaSearch/autocomplete.js:5:22)\n    at u (https://www.robertgatwardjewellers.co.uk/static/version1582207886/frontend/SaltAgency/robertgatward/en_GB/Algolia_AlgoliaSearch/internals/algoliaBundle.min.js:4:7066)\n    at Object.fireWith [as resolveWith] (https://www.robertgatwardjewellers.co.uk/static/version1582207886/frontend/SaltAgency/robertgatward/en_GB/Algolia_AlgoliaSearch/internals/algoliaBundle.min.js:4:7834)\n    at ready (https://www.robertgatwardjewellers.co.uk/static/version1582207886/frontend/SaltAgency/robertgatward/en_GB/Algolia_AlgoliaSearch/internals/algoliaBundle.min.js:4:9653)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: getAutocompleteSource is not defin…oliaSearch/internals/algoliaBundle.min.js:4:9653)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "getAutocompleteSource is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

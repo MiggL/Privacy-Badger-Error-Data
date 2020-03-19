@@ -1,0 +1,272 @@
+[
+  {
+    "timestamp": 1583425068448.8489,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 167,
+      "columnNumber": 40,
+      "url": "https://assets.auanet.org/SITES/AUAnet/common/plugins/mmenu/dist/js/hamburgers.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "make",
+            "scriptId": "36",
+            "url": "https://assets.auanet.org/SITES/AUAnet/common/plugins/mmenu/dist/js/hamburgers.js",
+            "lineNumber": 167,
+            "columnNumber": 40
+          },
+          {
+            "functionName": "",
+            "scriptId": "36",
+            "url": "https://assets.auanet.org/SITES/AUAnet/common/plugins/mmenu/dist/js/hamburgers.js",
+            "lineNumber": 230,
+            "columnNumber": 13
+          },
+          {
+            "functionName": "",
+            "scriptId": "36",
+            "url": "https://assets.auanet.org/SITES/AUAnet/common/plugins/mmenu/dist/js/hamburgers.js",
+            "lineNumber": 232,
+            "columnNumber": 1
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'addEventListener' of null\n    at Object.make (https://assets.auanet.org/SITES/AUAnet/common/plugins/mmenu/dist/js/hamburgers.js:168:41)\n    at https://assets.auanet.org/SITES/AUAnet/common/plugins/mmenu/dist/js/hamburgers.js:231:14\n    at https://assets.auanet.org/SITES/AUAnet/common/plugins/mmenu/dist/js/hamburgers.js:233:2",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'addEventListener' of null\n    at Object.make (https://assets.auanet.org/SITES/AUAnet/common/plugins/mmenu/dist/js/hamburgers.js:168:41)\n    at https://assets.auanet.org/SITES/AUAnet/common/plugins/mmenu/dist/js/hamburgers.js:231:14\n    at https://assets.auanet.org/SITES/AUAnet/common/plugins/mmenu/dist/js/hamburgers.js:233:2",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'addEventListener'…/common/plugins/mmenu/dist/js/hamburgers.js:233:2"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'addEventListener' of null"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583425068906.3398,
+    "exceptionDetails": {
+      "exceptionId": 2,
+      "text": "Uncaught",
+      "lineNumber": 204,
+      "columnNumber": 36,
+      "url": "https://assets.auanet.org/SITES/AUAnet/common/plugins/mmenu/dist/js/hamburgers.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "animate",
+            "scriptId": "36",
+            "url": "https://assets.auanet.org/SITES/AUAnet/common/plugins/mmenu/dist/js/hamburgers.js",
+            "lineNumber": 204,
+            "columnNumber": 36
+          },
+          {
+            "functionName": "loop",
+            "scriptId": "36",
+            "url": "https://assets.auanet.org/SITES/AUAnet/common/plugins/mmenu/dist/js/hamburgers.js",
+            "lineNumber": 72,
+            "columnNumber": 11
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'getAttribute' of null\n    at animate (https://assets.auanet.org/SITES/AUAnet/common/plugins/mmenu/dist/js/hamburgers.js:205:37)\n    at loop (https://assets.auanet.org/SITES/AUAnet/common/plugins/mmenu/dist/js/hamburgers.js:73:12)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":2}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'getAttribute' of null\n    at animate (https://assets.auanet.org/SITES/AUAnet/common/plugins/mmenu/dist/js/hamburgers.js:205:37)\n    at loop (https://assets.auanet.org/SITES/AUAnet/common/plugins/mmenu/dist/js/hamburgers.js:73:12)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'getAttribute' of …common/plugins/mmenu/dist/js/hamburgers.js:73:12)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'getAttribute' of null"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583425069262.9011,
+    "exceptionDetails": {
+      "exceptionId": 3,
+      "text": "Uncaught",
+      "lineNumber": 3379,
+      "columnNumber": 50,
+      "url": "https://www.auanet.org/education/auauniversity/education-products-and-resources/blus-handbook-of-laparoscopic-and-robotic-fundamentals",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "61",
+            "url": "https://www.auanet.org/education/auauniversity/education-products-and-resources/blus-handbook-of-laparoscopic-and-robotic-fundamentals",
+            "lineNumber": 3379,
+            "columnNumber": 50
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'top' of undefined\n    at https://www.auanet.org/education/auauniversity/education-products-and-resources/blus-handbook-of-laparoscopic-and-robotic-fundamentals:3380:51",
+        "objectId": "{\"injectedScriptId\":3,\"id\":4}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'top' of undefined\n    at https://www.auanet.org/education/auauniversity/education-products-and-resources/blus-handbook-of-laparoscopic-and-robotic-fundamentals:3380:51",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'top' of undefined…-of-laparoscopic-and-robotic-fundamentals:3380:51"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'top' of undefined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583425069397.4832,
+    "exceptionDetails": {
+      "exceptionId": 4,
+      "text": "Uncaught",
+      "lineNumber": 0,
+      "columnNumber": 30201,
+      "url": "https://urological.realmagnet.land/script/23457?_i",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "k",
+            "scriptId": "42",
+            "url": "https://urological.realmagnet.land/script/23457?_i",
+            "lineNumber": 0,
+            "columnNumber": 30201
+          },
+          {
+            "functionName": "",
+            "scriptId": "42",
+            "url": "https://urological.realmagnet.land/script/23457?_i",
+            "lineNumber": 0,
+            "columnNumber": 36098
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'appendChild' of undefined\n    at new k (https://urological.realmagnet.land/script/23457?_i:1:30202)\n    at https://urological.realmagnet.land/script/23457?_i:1:36099",
+        "objectId": "{\"injectedScriptId\":3,\"id\":5}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'appendChild' of undefined\n    at new k (https://urological.realmagnet.land/script/23457?_i:1:30202)\n    at https://urological.realmagnet.land/script/23457?_i:1:36099",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'appendChild' of u…rological.realmagnet.land/script/23457?_i:1:36099"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'appendChild' of undefined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583425069398.8088,
+    "exceptionDetails": {
+      "exceptionId": 5,
+      "text": "Uncaught",
+      "lineNumber": 688,
+      "columnNumber": 9,
+      "url": "https://urological.realmagnet.land/script/25343?_i",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "IframeController",
+            "scriptId": "33",
+            "url": "https://urological.realmagnet.land/script/25343?_i",
+            "lineNumber": 688,
+            "columnNumber": 9
+          },
+          {
+            "functionName": "",
+            "scriptId": "33",
+            "url": "https://urological.realmagnet.land/script/25343?_i",
+            "lineNumber": 992,
+            "columnNumber": 12
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'appendChild' of undefined\n    at new IframeController (https://urological.realmagnet.land/script/25343?_i:689:10)\n    at https://urological.realmagnet.land/script/25343?_i:993:13",
+        "objectId": "{\"injectedScriptId\":3,\"id\":6}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'appendChild' of undefined\n    at new IframeController (https://urological.realmagnet.land/script/25343?_i:689:10)\n    at https://urological.realmagnet.land/script/25343?_i:993:13",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'appendChild' of u…urological.realmagnet.land/script/25343?_i:993:13"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'appendChild' of undefined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

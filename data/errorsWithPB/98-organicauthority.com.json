@@ -1,0 +1,372 @@
+[
+  {
+    "timestamp": 1583758426188.656,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught (in promise)",
+      "lineNumber": 0,
+      "columnNumber": 0,
+      "scriptId": "1",
+      "url": "https://www.organicauthority.com/live-grow/midwife-a-ceo-karen-farrell-langevin-on-homebirthing-and-becoming-an-eco-mom",
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Failed to fetch",
+        "objectId": "{\"injectedScriptId\":3,\"id\":5}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Failed to fetch",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Failed to fetch"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Failed to fetch"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583758426188.824,
+    "exceptionDetails": {
+      "exceptionId": 2,
+      "text": "Uncaught (in promise)",
+      "lineNumber": 0,
+      "columnNumber": 0,
+      "scriptId": "1",
+      "url": "https://www.organicauthority.com/live-grow/midwife-a-ceo-karen-farrell-langevin-on-homebirthing-and-becoming-an-eco-mom",
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Failed to fetch",
+        "objectId": "{\"injectedScriptId\":3,\"id\":6}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Failed to fetch",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Failed to fetch"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Failed to fetch"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583758426278.158,
+    "exceptionDetails": {
+      "exceptionId": 3,
+      "text": "Uncaught (in promise)",
+      "lineNumber": 0,
+      "columnNumber": 0,
+      "scriptId": "1",
+      "url": "https://www.organicauthority.com/live-grow/midwife-a-ceo-karen-farrell-langevin-on-homebirthing-and-becoming-an-eco-mom",
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Failed to fetch",
+        "objectId": "{\"injectedScriptId\":3,\"id\":8}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Failed to fetch",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Failed to fetch"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Failed to fetch"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583758426278.347,
+    "exceptionDetails": {
+      "exceptionId": 4,
+      "text": "Uncaught (in promise)",
+      "lineNumber": 0,
+      "columnNumber": 0,
+      "scriptId": "1",
+      "url": "https://www.organicauthority.com/live-grow/midwife-a-ceo-karen-farrell-langevin-on-homebirthing-and-becoming-an-eco-mom",
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Failed to fetch",
+        "objectId": "{\"injectedScriptId\":3,\"id\":9}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Failed to fetch",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Failed to fetch"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Failed to fetch"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583758426278.48,
+    "exceptionDetails": {
+      "exceptionId": 5,
+      "text": "Uncaught (in promise)",
+      "lineNumber": 0,
+      "columnNumber": 0,
+      "scriptId": "1",
+      "url": "https://www.organicauthority.com/live-grow/midwife-a-ceo-karen-farrell-langevin-on-homebirthing-and-becoming-an-eco-mom",
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Failed to fetch",
+        "objectId": "{\"injectedScriptId\":3,\"id\":10}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Failed to fetch",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Failed to fetch"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Failed to fetch"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583758426490.607,
+    "exceptionDetails": {
+      "exceptionId": 6,
+      "text": "Uncaught (in promise)",
+      "lineNumber": 0,
+      "columnNumber": 0,
+      "scriptId": "1",
+      "url": "https://www.organicauthority.com/live-grow/midwife-a-ceo-karen-farrell-langevin-on-homebirthing-and-becoming-an-eco-mom",
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Failed to fetch",
+        "objectId": "{\"injectedScriptId\":3,\"id\":12}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Failed to fetch",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Failed to fetch"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Failed to fetch"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583758426490.756,
+    "exceptionDetails": {
+      "exceptionId": 7,
+      "text": "Uncaught (in promise)",
+      "lineNumber": 0,
+      "columnNumber": 0,
+      "scriptId": "1",
+      "url": "https://www.organicauthority.com/live-grow/midwife-a-ceo-karen-farrell-langevin-on-homebirthing-and-becoming-an-eco-mom",
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Failed to fetch",
+        "objectId": "{\"injectedScriptId\":3,\"id\":13}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Failed to fetch",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Failed to fetch"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Failed to fetch"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583758426490.867,
+    "exceptionDetails": {
+      "exceptionId": 8,
+      "text": "Uncaught (in promise)",
+      "lineNumber": 0,
+      "columnNumber": 0,
+      "scriptId": "1",
+      "url": "https://www.organicauthority.com/live-grow/midwife-a-ceo-karen-farrell-langevin-on-homebirthing-and-becoming-an-eco-mom",
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Failed to fetch",
+        "objectId": "{\"injectedScriptId\":3,\"id\":14}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Failed to fetch",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Failed to fetch"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Failed to fetch"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583758426490.958,
+    "exceptionDetails": {
+      "exceptionId": 9,
+      "text": "Uncaught (in promise)",
+      "lineNumber": 0,
+      "columnNumber": 0,
+      "scriptId": "1",
+      "url": "https://www.organicauthority.com/live-grow/midwife-a-ceo-karen-farrell-langevin-on-homebirthing-and-becoming-an-eco-mom",
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Failed to fetch",
+        "objectId": "{\"injectedScriptId\":3,\"id\":15}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Failed to fetch",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Failed to fetch"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Failed to fetch"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583758426491.036,
+    "exceptionDetails": {
+      "exceptionId": 10,
+      "text": "Uncaught (in promise)",
+      "lineNumber": 0,
+      "columnNumber": 0,
+      "scriptId": "1",
+      "url": "https://www.organicauthority.com/live-grow/midwife-a-ceo-karen-farrell-langevin-on-homebirthing-and-becoming-an-eco-mom",
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Failed to fetch",
+        "objectId": "{\"injectedScriptId\":3,\"id\":16}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Failed to fetch",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Failed to fetch"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Failed to fetch"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

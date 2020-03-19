@@ -1,0 +1,56 @@
+[
+  {
+    "timestamp": 1583002224470.126,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 1,
+      "columnNumber": 302750,
+      "url": "https://s7.addthis.com/js/300/addthis_widget.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "f",
+            "scriptId": "22",
+            "url": "https://s7.addthis.com/js/300/addthis_widget.js",
+            "lineNumber": 1,
+            "columnNumber": 302750
+          },
+          {
+            "functionName": "",
+            "scriptId": "22",
+            "url": "https://s7.addthis.com/js/300/addthis_widget.js",
+            "lineNumber": 1,
+            "columnNumber": 302607
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'call' of undefined\n    at i.f [as dispatchEvent] (https://s7.addthis.com/js/300/addthis_widget.js:2:302751)\n    at https://s7.addthis.com/js/300/addthis_widget.js:2:302608",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'call' of undefined\n    at i.f [as dispatchEvent] (https://s7.addthis.com/js/300/addthis_widget.js:2:302751)\n    at https://s7.addthis.com/js/300/addthis_widget.js:2:302608",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'call' of undefine…/s7.addthis.com/js/300/addthis_widget.js:2:302608"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'call' of undefined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

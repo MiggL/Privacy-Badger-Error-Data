@@ -1,0 +1,125 @@
+[
+  {
+    "timestamp": 1583003336489.561,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 212,
+      "columnNumber": 27,
+      "url": "https://www.telegraph.co.uk/business/2017/02/09/greek-crisis-descends-blame-game/",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "24",
+            "url": "https://www.telegraph.co.uk/business/2017/02/09/greek-crisis-descends-blame-game/",
+            "lineNumber": 212,
+            "columnNumber": 27
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'update' of undefined\n    at https://www.telegraph.co.uk/business/2017/02/09/greek-crisis-descends-blame-game/:213:28",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'update' of undefined\n    at https://www.telegraph.co.uk/business/2017/02/09/greek-crisis-descends-blame-game/:213:28",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'update' of undefi…17/02/09/greek-crisis-descends-blame-game/:213:28"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'update' of undefined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583003337528.2532,
+    "exceptionDetails": {
+      "exceptionId": 2,
+      "text": "Uncaught (in promise)",
+      "lineNumber": 0,
+      "columnNumber": 61678,
+      "url": "https://www.gstatic.com/firebasejs/5.0.4/firebase-firestore.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "t",
+            "scriptId": "302",
+            "url": "https://www.gstatic.com/firebasejs/5.0.4/firebase-firestore.js",
+            "lineNumber": 0,
+            "columnNumber": 61678
+          },
+          {
+            "functionName": "t.doc",
+            "scriptId": "302",
+            "url": "https://www.gstatic.com/firebasejs/5.0.4/firebase-firestore.js",
+            "lineNumber": 0,
+            "columnNumber": 319899
+          },
+          {
+            "functionName": "",
+            "scriptId": "278",
+            "url": "https://www.telegraph.co.uk/etc/designs/telegraph/core/clientlibs/core.min.5-52--0.js",
+            "lineNumber": 492,
+            "columnNumber": 75
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "Error",
+        "description": "FirebaseError: Document path must be a non-empty string\n    at new t (https://www.gstatic.com/firebasejs/5.0.4/firebase-firestore.js:1:61679)\n    at t.doc (https://www.gstatic.com/firebasejs/5.0.4/firebase-firestore.js:1:319900)\n    at https://www.telegraph.co.uk/etc/designs/telegraph/core/clientlibs/core.min.5-52--0.js:493:76",
+        "objectId": "{\"injectedScriptId\":3,\"id\":3}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "FirebaseError: Document path must be a non-empty string\n    at new t (https://www.gstatic.com/firebasejs/5.0.4/firebase-firestore.js:1:61679)\n    at t.doc (https://www.gstatic.com/firebasejs/5.0.4/firebase-firestore.js:1:319900)\n    at https://www.telegraph.co.uk/etc/designs/telegraph/core/clientlibs/core.min.5-52--0.js:493:76",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "code",
+              "type": "string",
+              "value": "invalid-argument"
+            },
+            {
+              "name": "name",
+              "type": "string",
+              "value": "FirebaseError"
+            },
+            {
+              "name": "toString",
+              "type": "function",
+              "value": ""
+            },
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "FirebaseError: Document path must be a non-empty s…egraph/core/clientlibs/core.min.5-52--0.js:493:76"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Document path must be a non-empty string"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

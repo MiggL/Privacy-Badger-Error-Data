@@ -1,0 +1,126 @@
+[
+  {
+    "timestamp": 1583424947579.649,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 283,
+      "columnNumber": 15,
+      "url": "https://bluecava.com/js/bluecava.js?v=1.6",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "24",
+            "url": "https://bluecava.com/js/bluecava.js?v=1.6",
+            "lineNumber": 283,
+            "columnNumber": 15
+          },
+          {
+            "functionName": "",
+            "scriptId": "24",
+            "url": "https://bluecava.com/js/bluecava.js?v=1.6",
+            "lineNumber": 227,
+            "columnNumber": 24
+          },
+          {
+            "functionName": "",
+            "scriptId": "24",
+            "url": "https://bluecava.com/js/bluecava.js?v=1.6",
+            "lineNumber": 157,
+            "columnNumber": 22
+          },
+          {
+            "functionName": "post",
+            "scriptId": "24",
+            "url": "https://bluecava.com/js/bluecava.js?v=1.6",
+            "lineNumber": 39,
+            "columnNumber": 8
+          },
+          {
+            "functionName": "identify",
+            "scriptId": "24",
+            "url": "https://bluecava.com/js/bluecava.js?v=1.6",
+            "lineNumber": 155,
+            "columnNumber": 4
+          },
+          {
+            "functionName": "actionGetId",
+            "scriptId": "24",
+            "url": "https://bluecava.com/js/bluecava.js?v=1.6",
+            "lineNumber": 226,
+            "columnNumber": 4
+          },
+          {
+            "functionName": "",
+            "scriptId": "24",
+            "url": "https://bluecava.com/js/bluecava.js?v=1.6",
+            "lineNumber": 238,
+            "columnNumber": 30
+          },
+          {
+            "functionName": "",
+            "scriptId": "23",
+            "url": "https://sync.graph.bluecava.com/js/bc.js",
+            "lineNumber": 43,
+            "columnNumber": 67
+          },
+          {
+            "functionName": "",
+            "scriptId": "23",
+            "url": "https://sync.graph.bluecava.com/js/bc.js",
+            "lineNumber": 42,
+            "columnNumber": 104
+          },
+          {
+            "functionName": "h",
+            "scriptId": "23",
+            "url": "https://sync.graph.bluecava.com/js/bc.js",
+            "lineNumber": 62,
+            "columnNumber": 293
+          },
+          {
+            "functionName": "",
+            "scriptId": "23",
+            "url": "https://sync.graph.bluecava.com/js/bc.js",
+            "lineNumber": 33,
+            "columnNumber": 246
+          },
+          {
+            "functionName": "b",
+            "scriptId": "23",
+            "url": "https://sync.graph.bluecava.com/js/bc.js",
+            "lineNumber": 22,
+            "columnNumber": 276
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'id' of null\n    at https://bluecava.com/js/bluecava.js?v=1.6:284:16\n    at https://bluecava.com/js/bluecava.js?v=1.6:228:25\n    at https://bluecava.com/js/bluecava.js?v=1.6:158:23\n    at post (https://bluecava.com/js/bluecava.js?v=1.6:40:9)\n    at identify (https://bluecava.com/js/bluecava.js?v=1.6:156:5)\n    at actionGetId (https://bluecava.com/js/bluecava.js?v=1.6:227:5)\n    at https://bluecava.com/js/bluecava.js?v=1.6:239:31\n    at https://sync.graph.bluecava.com/js/bc.js:44:68\n    at https://sync.graph.bluecava.com/js/bc.js:43:105\n    at h (https://sync.graph.bluecava.com/js/bc.js:63:294)\n    at Array.<anonymous> (https://sync.graph.bluecava.com/js/bc.js:34:247)\n    at HTMLDocument.b (https://sync.graph.bluecava.com/js/bc.js:23:277)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'id' of null\n    at https://bluecava.com/js/bluecava.js?v=1.6:284:16\n    at https://bluecava.com/js/bluecava.js?v=1.6:228:25\n    at https://bluecava.com/js/bluecava.js?v=1.6:158:23\n    at post (https://bluecava.com/js/bluecava.js?v=1.6:40:9)\n    at identify (https://bluecava.com/js/bluecava.js?v=1.6:156:5)\n    at actionGetId (https://bluecava.com/js/bluecava.js?v=1.6:227:5)\n    at https://bluecava.com/js/bluecava.js?v=1.6:239:31\n    at https://sync.graph.bluecava.com/js/bc.js:44:68\n    at https://sync.graph.bluecava.com/js/bc.js:43:105\n    at h (https://sync.graph.bluecava.com/js/bc.js:63:294)\n    at Array.<anonymous> (https://sync.graph.bluecava.com/js/bc.js:34:247)\n    at HTMLDocument.b (https://sync.graph.bluecava.com/js/bc.js:23:277)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'id' of null\n    a…(https://sync.graph.bluecava.com/js/bc.js:23:277)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'id' of null"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

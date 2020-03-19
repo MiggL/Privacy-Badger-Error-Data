@@ -1,0 +1,50 @@
+[
+  {
+    "timestamp": 1582894472816.1162,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught (in promise)",
+      "lineNumber": 0,
+      "columnNumber": 0,
+      "scriptId": "1",
+      "url": "https://www.mirror.co.uk/news/weird-news/horrified-woman-finds-huge-slug-6548415",
+      "exception": {
+        "type": "string",
+        "value": "[INFO] Timed out promise for events: prebid.display.ready in 2000ms."
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1582894472863.061,
+    "exceptionDetails": {
+      "exceptionId": 2,
+      "text": "Uncaught (in promise)",
+      "lineNumber": 0,
+      "columnNumber": 0,
+      "scriptId": "1",
+      "url": "https://www.mirror.co.uk/news/weird-news/horrified-woman-finds-huge-slug-6548415",
+      "exception": {
+        "type": "string",
+        "value": "[INFO] Timed out promise for events: amazon.bid.delivery in 2050ms."
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1582894473711.042,
+    "exceptionDetails": {
+      "exceptionId": 3,
+      "text": "Uncaught (in promise)",
+      "lineNumber": 0,
+      "columnNumber": 0,
+      "scriptId": "1",
+      "url": "https://www.mirror.co.uk/news/weird-news/horrified-woman-finds-huge-slug-6548415",
+      "exception": {
+        "type": "string",
+        "value": "[INFO] Timed out promise for events: grapeshot.loaded,ias.complete in 3000ms."
+      },
+      "executionContextId": 3
+    }
+  }
+]

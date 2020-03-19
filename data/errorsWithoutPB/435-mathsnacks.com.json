@@ -1,0 +1,77 @@
+[
+  {
+    "timestamp": 1583009408273.9612,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 310,
+      "columnNumber": 41,
+      "url": "https://mathsnacks.com/game-over-gopher.html",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "19",
+            "url": "https://mathsnacks.com/game-over-gopher.html",
+            "lineNumber": 310,
+            "columnNumber": 41
+          },
+          {
+            "functionName": "j",
+            "scriptId": "14",
+            "url": "https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js",
+            "lineNumber": 1,
+            "columnNumber": 27308
+          },
+          {
+            "functionName": "fireWith",
+            "scriptId": "14",
+            "url": "https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js",
+            "lineNumber": 1,
+            "columnNumber": 28121
+          },
+          {
+            "functionName": "ready",
+            "scriptId": "14",
+            "url": "https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js",
+            "lineNumber": 1,
+            "columnNumber": 29955
+          },
+          {
+            "functionName": "J",
+            "scriptId": "14",
+            "url": "https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js",
+            "lineNumber": 1,
+            "columnNumber": 30321
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'top' of undefined\n    at HTMLDocument.<anonymous> (https://mathsnacks.com/game-over-gopher.html:311:42)\n    at j (https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js:2:27309)\n    at Object.fireWith [as resolveWith] (https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js:2:28122)\n    at Function.ready (https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js:2:29956)\n    at HTMLDocument.J (https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js:2:30322)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'top' of undefined\n    at HTMLDocument.<anonymous> (https://mathsnacks.com/game-over-gopher.html:311:42)\n    at j (https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js:2:27309)\n    at Object.fireWith [as resolveWith] (https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js:2:28122)\n    at Function.ready (https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js:2:29956)\n    at HTMLDocument.J (https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js:2:30322)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'top' of undefined…om/ajax/libs/jquery/1.11.3/jquery.min.js:2:30322)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'top' of undefined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

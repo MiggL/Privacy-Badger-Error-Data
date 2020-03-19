@@ -1,0 +1,50 @@
+[
+  {
+    "timestamp": 1583004772841.6619,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 0,
+      "columnNumber": 1564,
+      "scriptId": "19",
+      "url": "https://hoiabaciuforest.com/",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "17",
+            "url": "https://hoiabaciuforest.com/wp-content/uploads/spacker-cache/beb948051801a26b46e3986fdbbe9b59-deanedwards.js",
+            "lineNumber": 59,
+            "columnNumber": 328
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "SyntaxError",
+        "description": "SyntaxError: Unexpected token 'var'\n    at https://hoiabaciuforest.com/wp-content/uploads/spacker-cache/beb948051801a26b46e3986fdbbe9b59-deanedwards.js:60:329",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "SyntaxError: Unexpected token 'var'\n    at https://hoiabaciuforest.com/wp-content/uploads/spacker-cache/beb948051801a26b46e3986fdbbe9b59-deanedwards.js:60:329",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "SyntaxError: Unexpected token 'var'\n    at https:/…8051801a26b46e3986fdbbe9b59-deanedwards.js:60:329"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Unexpected token 'var'"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

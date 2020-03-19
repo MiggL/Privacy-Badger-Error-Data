@@ -1,0 +1,50 @@
+[
+  {
+    "timestamp": 1583750193134.174,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 0,
+      "columnNumber": 0,
+      "scriptId": "43",
+      "url": "https://www.contrepoints.org/2017/02/21/281633-role-de-chance-succes",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "i.onreadystatechange",
+            "scriptId": "41",
+            "url": "https://ced.sascdn.com/tag/2391/smart.js",
+            "lineNumber": 0,
+            "columnNumber": 9840
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "SyntaxError",
+        "description": "SyntaxError: Unexpected end of JSON input\n    at JSON.parse (<anonymous>)\n    at XMLHttpRequest.i.onreadystatechange (https://ced.sascdn.com/tag/2391/smart.js:1:9841)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "SyntaxError: Unexpected end of JSON input\n    at JSON.parse (<anonymous>)\n    at XMLHttpRequest.i.onreadystatechange (https://ced.sascdn.com/tag/2391/smart.js:1:9841)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "SyntaxError: Unexpected end of JSON input\n    at J…(https://ced.sascdn.com/tag/2391/smart.js:1:9841)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Unexpected end of JSON input"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": 1583012682456.9941,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 0,
+      "columnNumber": 16024,
+      "scriptId": "29",
+      "url": "https://www.stack.com/min/?f=/assets/third-party/initializr/js/vendor/modernizr-2.8.3-respond-1.4.2.min.js&t=js",
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "SyntaxError",
+        "description": "SyntaxError: Invalid regular expression: missing /",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "SyntaxError: Invalid regular expression: missing /",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "SyntaxError: Invalid regular expression: missing /"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Invalid regular expression: missing /"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

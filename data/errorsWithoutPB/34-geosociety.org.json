@@ -1,0 +1,180 @@
+[
+  {
+    "timestamp": 1583013066451.4338,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 2,
+      "columnNumber": 0,
+      "scriptId": "12",
+      "url": "https://www.geosociety.org/SpryAssets/SpryTooltip.js",
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "SyntaxError",
+        "description": "SyntaxError: Unexpected token '<'",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "SyntaxError: Unexpected token '<'",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "SyntaxError: Unexpected token '<'"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Unexpected token '<'"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583013066693.644,
+    "exceptionDetails": {
+      "exceptionId": 2,
+      "text": "Uncaught",
+      "lineNumber": 330,
+      "columnNumber": 31,
+      "url": "https://www.geosociety.org//gsatoday/archive/23/8/article/i1052-5173-23-8-27.htm",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "21",
+            "url": "https://www.geosociety.org//gsatoday/archive/23/8/article/i1052-5173-23-8-27.htm",
+            "lineNumber": 330,
+            "columnNumber": 31
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: google is not defined\n    at https://www.geosociety.org//gsatoday/archive/23/8/article/i1052-5173-23-8-27.htm:331:32",
+        "objectId": "{\"injectedScriptId\":3,\"id\":2}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: google is not defined\n    at https://www.geosociety.org//gsatoday/archive/23/8/article/i1052-5173-23-8-27.htm:331:32",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: google is not defined\n    at https…rchive/23/8/article/i1052-5173-23-8-27.htm:331:32"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "google is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583013066700.474,
+    "exceptionDetails": {
+      "exceptionId": 3,
+      "text": "Uncaught",
+      "lineNumber": 351,
+      "columnNumber": 0,
+      "url": "https://www.geosociety.org//gsatoday/archive/23/8/article/i1052-5173-23-8-27.htm",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "23",
+            "url": "https://www.geosociety.org//gsatoday/archive/23/8/article/i1052-5173-23-8-27.htm",
+            "lineNumber": 351,
+            "columnNumber": 0
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: jemail is not defined\n    at https://www.geosociety.org//gsatoday/archive/23/8/article/i1052-5173-23-8-27.htm:352:1",
+        "objectId": "{\"injectedScriptId\":3,\"id\":3}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: jemail is not defined\n    at https://www.geosociety.org//gsatoday/archive/23/8/article/i1052-5173-23-8-27.htm:352:1",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: jemail is not defined\n    at https…archive/23/8/article/i1052-5173-23-8-27.htm:352:1"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "jemail is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583013066700.9001,
+    "exceptionDetails": {
+      "exceptionId": 4,
+      "text": "Uncaught",
+      "lineNumber": 363,
+      "columnNumber": 0,
+      "url": "https://www.geosociety.org//gsatoday/archive/23/8/article/i1052-5173-23-8-27.htm",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "24",
+            "url": "https://www.geosociety.org//gsatoday/archive/23/8/article/i1052-5173-23-8-27.htm",
+            "lineNumber": 363,
+            "columnNumber": 0
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: jemail is not defined\n    at https://www.geosociety.org//gsatoday/archive/23/8/article/i1052-5173-23-8-27.htm:364:1",
+        "objectId": "{\"injectedScriptId\":3,\"id\":4}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: jemail is not defined\n    at https://www.geosociety.org//gsatoday/archive/23/8/article/i1052-5173-23-8-27.htm:364:1",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: jemail is not defined\n    at https…archive/23/8/article/i1052-5173-23-8-27.htm:364:1"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "jemail is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

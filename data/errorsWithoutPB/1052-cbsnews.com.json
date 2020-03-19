@@ -1,0 +1,61 @@
+[
+  {
+    "timestamp": 1583003754956.699,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught (in promise)",
+      "lineNumber": 4,
+      "columnNumber": 20632,
+      "url": "https://www.cbsnews.com/fly/bundles/cbsnewscore/js-build/main.js?v=1.e3bfeb47e5994dc0d95c1f13367c833ad99e357c",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "i",
+            "scriptId": "19",
+            "url": "https://www.cbsnews.com/fly/bundles/cbsnewscore/js-build/main.js?v=1.e3bfeb47e5994dc0d95c1f13367c833ad99e357c",
+            "lineNumber": 4,
+            "columnNumber": 20632
+          },
+          {
+            "functionName": "",
+            "scriptId": "19",
+            "url": "https://www.cbsnews.com/fly/bundles/cbsnewscore/js-build/main.js?v=1.e3bfeb47e5994dc0d95c1f13367c833ad99e357c",
+            "lineNumber": 4,
+            "columnNumber": 22394
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "DOMException",
+        "description": "DOMException: The element has no supported sources.",
+        "objectId": "{\"injectedScriptId\":3,\"id\":21}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "DOMException: The element has no supported sources.",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "code",
+              "type": "number",
+              "value": "9"
+            },
+            {
+              "name": "name",
+              "type": "string",
+              "value": "NotSupportedError"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "The element has no supported sources."
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

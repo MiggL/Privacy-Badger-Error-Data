@@ -1,0 +1,54 @@
+[
+  {
+    "timestamp": 1583749999001.925,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught (in promise)",
+      "lineNumber": 0,
+      "columnNumber": 0,
+      "scriptId": "1",
+      "url": "https://www.pinterest.com/pin/552183604286792817/",
+      "exception": {
+        "type": "object",
+        "className": "Event",
+        "description": "Event",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "description": "Event",
+          "overflow": true,
+          "properties": [
+            {
+              "name": "isTrusted",
+              "type": "boolean",
+              "value": "true"
+            },
+            {
+              "name": "type",
+              "type": "string",
+              "value": "error"
+            },
+            {
+              "name": "target",
+              "type": "object",
+              "value": "script",
+              "subtype": "node"
+            },
+            {
+              "name": "currentTarget",
+              "type": "object",
+              "value": "null",
+              "subtype": "null"
+            },
+            {
+              "name": "eventPhase",
+              "type": "number",
+              "value": "0"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

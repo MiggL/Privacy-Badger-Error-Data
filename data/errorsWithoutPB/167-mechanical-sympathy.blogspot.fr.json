@@ -1,0 +1,49 @@
+[
+  {
+    "timestamp": 1583011860226.36,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 414,
+      "columnNumber": 4,
+      "url": "https://mechanical-sympathy.blogspot.com/2012/05/apply-back-pressure-when-overloaded.html",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "12",
+            "url": "https://mechanical-sympathy.blogspot.com/2012/05/apply-back-pressure-when-overloaded.html",
+            "lineNumber": 414,
+            "columnNumber": 4
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: SyntaxHighlighter is not defined\n    at https://mechanical-sympathy.blogspot.com/2012/05/apply-back-pressure-when-overloaded.html:415:5",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: SyntaxHighlighter is not defined\n    at https://mechanical-sympathy.blogspot.com/2012/05/apply-back-pressure-when-overloaded.html:415:5",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: SyntaxHighlighter is not defined\n …05/apply-back-pressure-when-overloaded.html:415:5"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "SyntaxHighlighter is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

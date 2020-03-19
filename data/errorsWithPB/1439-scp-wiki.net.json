@@ -1,0 +1,164 @@
+[
+  {
+    "timestamp": 1583419063650.5461,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught (in promise)",
+      "lineNumber": 0,
+      "columnNumber": 33876,
+      "url": "https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=150801",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "n",
+            "scriptId": "41",
+            "url": "https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=150801",
+            "lineNumber": 0,
+            "columnNumber": 33876
+          },
+          {
+            "functionName": "p",
+            "scriptId": "41",
+            "url": "https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=150801",
+            "lineNumber": 0,
+            "columnNumber": 45867
+          },
+          {
+            "functionName": "",
+            "scriptId": "41",
+            "url": "https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=150801",
+            "lineNumber": 0,
+            "columnNumber": 166801
+          },
+          {
+            "functionName": "",
+            "scriptId": "41",
+            "url": "https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=150801",
+            "lineNumber": 0,
+            "columnNumber": 882
+          },
+          {
+            "functionName": "n",
+            "scriptId": "41",
+            "url": "https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=150801",
+            "lineNumber": 0,
+            "columnNumber": 659
+          },
+          {
+            "functionName": "getAppConfig",
+            "scriptId": "41",
+            "url": "https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=150801",
+            "lineNumber": 0,
+            "columnNumber": 166715
+          },
+          {
+            "functionName": "",
+            "scriptId": "41",
+            "url": "https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=150801",
+            "lineNumber": 0,
+            "columnNumber": 176533
+          },
+          {
+            "functionName": "",
+            "scriptId": "41",
+            "url": "https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=150801",
+            "lineNumber": 0,
+            "columnNumber": 882
+          },
+          {
+            "functionName": "n",
+            "scriptId": "41",
+            "url": "https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=150801",
+            "lineNumber": 0,
+            "columnNumber": 659
+          },
+          {
+            "functionName": "getAppConfig",
+            "scriptId": "41",
+            "url": "https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=150801",
+            "lineNumber": 0,
+            "columnNumber": 176484
+          },
+          {
+            "functionName": "",
+            "scriptId": "41",
+            "url": "https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=150801",
+            "lineNumber": 0,
+            "columnNumber": 194967
+          },
+          {
+            "functionName": "",
+            "scriptId": "41",
+            "url": "https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=150801",
+            "lineNumber": 0,
+            "columnNumber": 882
+          },
+          {
+            "functionName": "n",
+            "scriptId": "41",
+            "url": "https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=150801",
+            "lineNumber": 0,
+            "columnNumber": 659
+          },
+          {
+            "functionName": "initializeConfig",
+            "scriptId": "41",
+            "url": "https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=150801",
+            "lineNumber": 0,
+            "columnNumber": 194912
+          },
+          {
+            "functionName": "",
+            "scriptId": "41",
+            "url": "https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=150801",
+            "lineNumber": 0,
+            "columnNumber": 195283
+          },
+          {
+            "functionName": "r",
+            "scriptId": "41",
+            "url": "https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=150801",
+            "lineNumber": 0,
+            "columnNumber": 715
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "p",
+        "description": "p: OneSignal: This app ID does not match any existing app. Double check your app ID.\n    at Function.<anonymous> (https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=150801:1:166802)\n    at Generator.next (<anonymous>)\n    at https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=150801:1:883\n    at new Promise (<anonymous>)\n    at Object.n (https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=150801:1:660)\n    at Function.getAppConfig (https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=150801:1:166716)\n    at rt.<anonymous> (https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=150801:1:176534)\n    at Generator.next (<anonymous>)\n    at https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=150801:1:883\n    at new Promise (<anonymous>)\n    at Object.n (https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=150801:1:660)\n    at rt.getAppConfig (https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=150801:1:176485)\n    at Function.<anonymous> (https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=150801:1:194968)\n    at Generator.next (<anonymous>)\n    at https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=150801:1:883\n    at new Promise (<anonymous>)\n    at Object.n (https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=150801:1:660)\n    at Function.initializeConfig (https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=150801:1:194913)\n    at Function.<anonymous> (https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=150801:1:195284)\n    at Generator.next (<anonymous>)\n    at r (https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=150801:1:716)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "p: OneSignal: This app ID does not match any existing app. Double check your app ID.\n    at Function.<anonymous> (https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=150801:1:166802)\n    at Generator.next (<anonymous>)\n    at https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=150801:1:883\n    at new Promise (<anonymous>)\n    at Object.n (https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=150801:1:660)\n    at Function.getAppConfig (https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=150801:1:166716)\n    at rt.<anonymous> (https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=150801:1:176534)\n    at Generator.next (<anonymous>)\n    at https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=150801:1:883\n    at new Promise (<anonymous>)\n    at Object.n (https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=150801:1:660)\n    at rt.getAppConfig (https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=150801:1:176485)\n    at Function.<anonymous> (https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=150801:1:194968)\n    at Generator.next (<anonymous>)\n    at https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=150801:1:883\n    at new Promise (<anonymous>)\n    at Object.n (https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=150801:1:660)\n    at Function.initializeConfig (https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=150801:1:194913)\n    at Function.<anonymous> (https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=150801:1:195284)\n    at Generator.next (<anonymous>)\n    at r (https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=150801:1:716)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "reason",
+              "type": "string",
+              "value": "InvalidAppId"
+            },
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "p: OneSignal: This app ID does not match any exist…l.com/sdks/OneSignalPageSDKES6.js?v=150801:1:716)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "OneSignal: This app ID does not match any existing app. Double check your app ID."
+            },
+            {
+              "name": "name",
+              "type": "string",
+              "value": "p"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

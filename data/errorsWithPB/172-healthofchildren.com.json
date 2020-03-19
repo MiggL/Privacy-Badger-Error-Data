@@ -1,0 +1,63 @@
+[
+  {
+    "timestamp": 1583757793929.729,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 949,
+      "columnNumber": 46,
+      "url": "http://www.healthofchildren.com/R/Ringworm.html",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "move_ad_to_middle",
+            "scriptId": "33",
+            "url": "http://www.healthofchildren.com/R/Ringworm.html",
+            "lineNumber": 949,
+            "columnNumber": 46
+          },
+          {
+            "functionName": "move_leftad",
+            "scriptId": "33",
+            "url": "http://www.healthofchildren.com/R/Ringworm.html",
+            "lineNumber": 1069,
+            "columnNumber": 4
+          },
+          {
+            "functionName": "",
+            "scriptId": "33",
+            "url": "http://www.healthofchildren.com/R/Ringworm.html",
+            "lineNumber": 1073,
+            "columnNumber": 1
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'getBoundingClientRect' of undefined\n    at move_ad_to_middle (http://www.healthofchildren.com/R/Ringworm.html:950:47)\n    at move_leftad (http://www.healthofchildren.com/R/Ringworm.html:1070:5)\n    at http://www.healthofchildren.com/R/Ringworm.html:1074:2",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'getBoundingClientRect' of undefined\n    at move_ad_to_middle (http://www.healthofchildren.com/R/Ringworm.html:950:47)\n    at move_leftad (http://www.healthofchildren.com/R/Ringworm.html:1070:5)\n    at http://www.healthofchildren.com/R/Ringworm.html:1074:2",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'getBoundingClient…//www.healthofchildren.com/R/Ringworm.html:1074:2"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'getBoundingClientRect' of undefined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "timestamp": 1582814790402.4849,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught (in promise)",
+      "lineNumber": 0,
+      "columnNumber": 0,
+      "scriptId": "1",
+      "url": "https://operations.tufts.edu/mailservices/",
+      "exception": {
+        "type": "object",
+        "className": "ld",
+        "description": "ld",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "description": "ld",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "message",
+              "type": "string",
+              "value": "initMap is not a function"
+            },
+            {
+              "name": "name",
+              "type": "string",
+              "value": "InvalidValueError"
+            },
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "Error\n    at new ld (https://maps.googleapis.com/m…xeyRDxq2yEGDPQ4qDE3bBK_c&callback=initMap:148:124"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

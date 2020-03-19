@@ -1,0 +1,49 @@
+[
+  {
+    "timestamp": 1583422922178.198,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 187,
+      "columnNumber": 0,
+      "url": "https://www.koval-distillery.com/newsite/classes-tours/whiskey-workshops",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "32",
+            "url": "https://www.koval-distillery.com/newsite/classes-tours/whiskey-workshops",
+            "lineNumber": 187,
+            "columnNumber": 0
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: $ is not a function\n    at https://www.koval-distillery.com/newsite/classes-tours/whiskey-workshops:188:1",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: $ is not a function\n    at https://www.koval-distillery.com/newsite/classes-tours/whiskey-workshops:188:1",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: $ is not a function\n    at https://www.…com/newsite/classes-tours/whiskey-workshops:188:1"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "$ is not a function"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

@@ -1,0 +1,63 @@
+[
+  {
+    "timestamp": 1582814318983.322,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 1358,
+      "columnNumber": 28099,
+      "url": "http://players.brightcove.net/1242911076001/H13sORaQ_default/index.html?videoId=ref:title_196259&viewguid=feab4730-773e-4eb3-a7e6-37b99ac6fe1d",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "12",
+            "url": "http://players.brightcove.net/1242911076001/H13sORaQ_default/index.html?videoId=ref:title_196259&viewguid=feab4730-773e-4eb3-a7e6-37b99ac6fe1d",
+            "lineNumber": 1358,
+            "columnNumber": 28099
+          },
+          {
+            "functionName": "bc",
+            "scriptId": "12",
+            "url": "http://players.brightcove.net/1242911076001/H13sORaQ_default/index.html?videoId=ref:title_196259&viewguid=feab4730-773e-4eb3-a7e6-37b99ac6fe1d",
+            "lineNumber": 1358,
+            "columnNumber": 28823
+          },
+          {
+            "functionName": "",
+            "scriptId": "12",
+            "url": "http://players.brightcove.net/1242911076001/H13sORaQ_default/index.html?videoId=ref:title_196259&viewguid=feab4730-773e-4eb3-a7e6-37b99ac6fe1d",
+            "lineNumber": 1359,
+            "columnNumber": 9455
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: player.ima3 is not a function\n    at http://players.brightcove.net/1242911076001/H13sORaQ_default/index.html?videoId=ref:title_196259&viewguid=feab4730-773e-4eb3-a7e6-37b99ac6fe1d:1359:28100\n    at bc (http://players.brightcove.net/1242911076001/H13sORaQ_default/index.html?videoId=ref:title_196259&viewguid=feab4730-773e-4eb3-a7e6-37b99ac6fe1d:1359:28824)\n    at http://players.brightcove.net/1242911076001/H13sORaQ_default/index.html?videoId=ref:title_196259&viewguid=feab4730-773e-4eb3-a7e6-37b99ac6fe1d:1360:9456",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: player.ima3 is not a function\n    at http://players.brightcove.net/1242911076001/H13sORaQ_default/index.html?videoId=ref:title_196259&viewguid=feab4730-773e-4eb3-a7e6-37b99ac6fe1d:1359:28100\n    at bc (http://players.brightcove.net/1242911076001/H13sORaQ_default/index.html?videoId=ref:title_196259&viewguid=feab4730-773e-4eb3-a7e6-37b99ac6fe1d:1359:28824)\n    at http://players.brightcove.net/1242911076001/H13sORaQ_default/index.html?videoId=ref:title_196259&viewguid=feab4730-773e-4eb3-a7e6-37b99ac6fe1d:1360:9456",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: player.ima3 is not a function\n    at ht…id=feab4730-773e-4eb3-a7e6-37b99ac6fe1d:1360:9456"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "player.ima3 is not a function"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

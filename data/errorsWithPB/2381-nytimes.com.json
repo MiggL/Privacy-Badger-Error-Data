@@ -1,0 +1,96 @@
+[
+  {
+    "timestamp": 1582893112056.4849,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 49,
+      "columnNumber": 6,
+      "url": "https://www.nytimes.com/interactive/2017/02/07/science/earth/antarctic-crack.html",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "23",
+            "url": "https://www.nytimes.com/interactive/2017/02/07/science/earth/antarctic-crack.html",
+            "lineNumber": 49,
+            "columnNumber": 6
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: NYTD is not defined\n    at https://www.nytimes.com/interactive/2017/02/07/science/earth/antarctic-crack.html:50:7",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: NYTD is not defined\n    at https://www.nytimes.com/interactive/2017/02/07/science/earth/antarctic-crack.html:50:7",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: NYTD is not defined\n    at https:/…017/02/07/science/earth/antarctic-crack.html:50:7"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "NYTD is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1582893113220.083,
+    "exceptionDetails": {
+      "exceptionId": 2,
+      "text": "Uncaught",
+      "lineNumber": 49,
+      "columnNumber": 6,
+      "url": "https://www.nytimes.com/interactive/2017/02/07/science/earth/antarctic-crack.html?mtrref=undefined&gwh=42A6E60F4E3D4D401DACBA202B070859&gwt=pay&assetType=REGIWALL",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "72",
+            "url": "https://www.nytimes.com/interactive/2017/02/07/science/earth/antarctic-crack.html?mtrref=undefined&gwh=42A6E60F4E3D4D401DACBA202B070859&gwt=pay&assetType=REGIWALL",
+            "lineNumber": 49,
+            "columnNumber": 6
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: NYTD is not defined\n    at https://www.nytimes.com/interactive/2017/02/07/science/earth/antarctic-crack.html?mtrref=undefined&gwh=42A6E60F4E3D4D401DACBA202B070859&gwt=pay&assetType=REGIWALL:50:7",
+        "objectId": "{\"injectedScriptId\":6,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: NYTD is not defined\n    at https://www.nytimes.com/interactive/2017/02/07/science/earth/antarctic-crack.html?mtrref=undefined&gwh=42A6E60F4E3D4D401DACBA202B070859&gwt=pay&assetType=REGIWALL:50:7",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: NYTD is not defined\n    at https:/…01DACBA202B070859&gwt=pay&assetType=REGIWALL:50:7"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "NYTD is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 6
+    }
+  }
+]

@@ -1,0 +1,49 @@
+[
+  {
+    "timestamp": 1583011703156.665,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 647,
+      "columnNumber": 62,
+      "url": "https://www.safefood.eu/Food-Safety/Cross-Contamination.aspx",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "21",
+            "url": "https://www.safefood.eu/Food-Safety/Cross-Contamination.aspx",
+            "lineNumber": 647,
+            "columnNumber": 62
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'getElementsByTagName' of undefined\n    at https://www.safefood.eu/Food-Safety/Cross-Contamination.aspx:648:63",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'getElementsByTagName' of undefined\n    at https://www.safefood.eu/Food-Safety/Cross-Contamination.aspx:648:63",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'getElementsByTagN…od.eu/Food-Safety/Cross-Contamination.aspx:648:63"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'getElementsByTagName' of undefined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

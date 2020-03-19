@@ -1,0 +1,49 @@
+[
+  {
+    "timestamp": 1583008822754.7458,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 117,
+      "columnNumber": 19,
+      "url": "https://future-publishing.msgfocus.com/k/Future-Publishing/cyclinenews_simple_signup",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "main",
+            "scriptId": "120",
+            "url": "https://future-publishing.msgfocus.com/k/Future-Publishing/cyclinenews_simple_signup",
+            "lineNumber": 117,
+            "columnNumber": 19
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot set property 'value' of null\n    at main (https://future-publishing.msgfocus.com/k/Future-Publishing/cyclinenews_simple_signup:118:20)",
+        "objectId": "{\"injectedScriptId\":13,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot set property 'value' of null\n    at main (https://future-publishing.msgfocus.com/k/Future-Publishing/cyclinenews_simple_signup:118:20)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot set property 'value' of null\n   …ture-Publishing/cyclinenews_simple_signup:118:20)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot set property 'value' of null"
+            }
+          ]
+        }
+      },
+      "executionContextId": 13
+    }
+  }
+]

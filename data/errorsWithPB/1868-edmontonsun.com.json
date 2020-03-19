@@ -1,0 +1,235 @@
+[
+  {
+    "timestamp": 1582897644579.8472,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 0,
+      "columnNumber": 204864,
+      "url": "https://d395dw5zk780j2.cloudfront.net/v4.2/fem.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "e.showBanner",
+            "scriptId": "30",
+            "url": "https://d395dw5zk780j2.cloudfront.net/v4.2/fem.js",
+            "lineNumber": 0,
+            "columnNumber": 204864
+          },
+          {
+            "functionName": "",
+            "scriptId": "30",
+            "url": "https://d395dw5zk780j2.cloudfront.net/v4.2/fem.js",
+            "lineNumber": 0,
+            "columnNumber": 204287
+          },
+          {
+            "functionName": "e.mParticleCallback",
+            "scriptId": "30",
+            "url": "https://d395dw5zk780j2.cloudfront.net/v4.2/fem.js",
+            "lineNumber": 0,
+            "columnNumber": 199316
+          },
+          {
+            "functionName": "invokeCallback",
+            "scriptId": "92",
+            "url": "https://jssdkcdns.mparticle.com/js/v2/cd4afed6a2719d439af431746c942e3c/mparticle.js",
+            "lineNumber": 29,
+            "columnNumber": 17949
+          },
+          {
+            "functionName": "parseIdentityResponse",
+            "scriptId": "92",
+            "url": "https://jssdkcdns.mparticle.com/js/v2/cd4afed6a2719d439af431746c942e3c/mparticle.js",
+            "lineNumber": 29,
+            "columnNumber": 98537
+          },
+          {
+            "functionName": "c",
+            "scriptId": "92",
+            "url": "https://jssdkcdns.mparticle.com/js/v2/cd4afed6a2719d439af431746c942e3c/mparticle.js",
+            "lineNumber": 29,
+            "columnNumber": 14399
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'removeAttribute' of null\n    at e.showBanner (https://d395dw5zk780j2.cloudfront.net/v4.2/fem.js:1:204865)\n    at https://d395dw5zk780j2.cloudfront.net/v4.2/fem.js:1:204288\n    at e.mParticleCallback (https://d395dw5zk780j2.cloudfront.net/v4.2/fem.js:1:199317)\n    at lu.invokeCallback (https://jssdkcdns.mparticle.com/js/v2/cd4afed6a2719d439af431746c942e3c/mparticle.js:30:17950)\n    at parseIdentityResponse (https://jssdkcdns.mparticle.com/js/v2/cd4afed6a2719d439af431746c942e3c/mparticle.js:30:98538)\n    at XMLHttpRequest.c (https://jssdkcdns.mparticle.com/js/v2/cd4afed6a2719d439af431746c942e3c/mparticle.js:30:14400)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":7}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'removeAttribute' of null\n    at e.showBanner (https://d395dw5zk780j2.cloudfront.net/v4.2/fem.js:1:204865)\n    at https://d395dw5zk780j2.cloudfront.net/v4.2/fem.js:1:204288\n    at e.mParticleCallback (https://d395dw5zk780j2.cloudfront.net/v4.2/fem.js:1:199317)\n    at lu.invokeCallback (https://jssdkcdns.mparticle.com/js/v2/cd4afed6a2719d439af431746c942e3c/mparticle.js:30:17950)\n    at parseIdentityResponse (https://jssdkcdns.mparticle.com/js/v2/cd4afed6a2719d439af431746c942e3c/mparticle.js:30:98538)\n    at XMLHttpRequest.c (https://jssdkcdns.mparticle.com/js/v2/cd4afed6a2719d439af431746c942e3c/mparticle.js:30:14400)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'removeAttribute' …d6a2719d439af431746c942e3c/mparticle.js:30:14400)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'removeAttribute' of null"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1582897646294.993,
+    "exceptionDetails": {
+      "exceptionId": 2,
+      "text": "Uncaught",
+      "lineNumber": 4242,
+      "columnNumber": 39,
+      "url": "https://d1xrtnyoeeet33.cloudfront.net/assets/js/build/app.bundle.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "onPlayerStateChange",
+            "scriptId": "86",
+            "url": "https://d1xrtnyoeeet33.cloudfront.net/assets/js/build/app.bundle.js",
+            "lineNumber": 4242,
+            "columnNumber": 39
+          },
+          {
+            "functionName": "k.G",
+            "scriptId": "88",
+            "url": "https://s.ytimg.com/yts/jsbin/www-widgetapi-vfl2dBoXz/www-widgetapi.js",
+            "lineNumber": 88,
+            "columnNumber": 266
+          },
+          {
+            "functionName": "k.s",
+            "scriptId": "88",
+            "url": "https://s.ytimg.com/yts/jsbin/www-widgetapi-vfl2dBoXz/www-widgetapi.js",
+            "lineNumber": 137,
+            "columnNumber": 66
+          },
+          {
+            "functionName": "k.H",
+            "scriptId": "88",
+            "url": "https://s.ytimg.com/yts/jsbin/www-widgetapi-vfl2dBoXz/www-widgetapi.js",
+            "lineNumber": 151,
+            "columnNumber": 279
+          },
+          {
+            "functionName": "Pb.g",
+            "scriptId": "88",
+            "url": "https://s.ytimg.com/yts/jsbin/www-widgetapi-vfl2dBoXz/www-widgetapi.js",
+            "lineNumber": 120,
+            "columnNumber": 270
+          },
+          {
+            "functionName": "Gb.g",
+            "scriptId": "88",
+            "url": "https://s.ytimg.com/yts/jsbin/www-widgetapi-vfl2dBoXz/www-widgetapi.js",
+            "lineNumber": 107,
+            "columnNumber": 27
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'logEvent' of undefined\n    at onPlayerStateChange (https://d1xrtnyoeeet33.cloudfront.net/assets/js/build/app.bundle.js:4243:40)\n    at P.k.G (https://s.ytimg.com/yts/jsbin/www-widgetapi-vfl2dBoXz/www-widgetapi.js:89:267)\n    at Y.k.s (https://s.ytimg.com/yts/jsbin/www-widgetapi-vfl2dBoXz/www-widgetapi.js:138:67)\n    at Y.k.H (https://s.ytimg.com/yts/jsbin/www-widgetapi-vfl2dBoXz/www-widgetapi.js:152:280)\n    at Pb.g (https://s.ytimg.com/yts/jsbin/www-widgetapi-vfl2dBoXz/www-widgetapi.js:121:271)\n    at Gb.g (https://s.ytimg.com/yts/jsbin/www-widgetapi-vfl2dBoXz/www-widgetapi.js:108:28)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":10}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'logEvent' of undefined\n    at onPlayerStateChange (https://d1xrtnyoeeet33.cloudfront.net/assets/js/build/app.bundle.js:4243:40)\n    at P.k.G (https://s.ytimg.com/yts/jsbin/www-widgetapi-vfl2dBoXz/www-widgetapi.js:89:267)\n    at Y.k.s (https://s.ytimg.com/yts/jsbin/www-widgetapi-vfl2dBoXz/www-widgetapi.js:138:67)\n    at Y.k.H (https://s.ytimg.com/yts/jsbin/www-widgetapi-vfl2dBoXz/www-widgetapi.js:152:280)\n    at Pb.g (https://s.ytimg.com/yts/jsbin/www-widgetapi-vfl2dBoXz/www-widgetapi.js:121:271)\n    at Gb.g (https://s.ytimg.com/yts/jsbin/www-widgetapi-vfl2dBoXz/www-widgetapi.js:108:28)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'logEvent' of unde…/www-widgetapi-vfl2dBoXz/www-widgetapi.js:108:28)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'logEvent' of undefined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1582897649158.49,
+    "exceptionDetails": {
+      "exceptionId": 3,
+      "text": "Uncaught (in promise)",
+      "lineNumber": 39,
+      "columnNumber": 234943,
+      "url": "https://cdn.viafoura.net/vf-v2.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "t.exports",
+            "scriptId": "123",
+            "url": "https://cdn.viafoura.net/vf-v2.js",
+            "lineNumber": 39,
+            "columnNumber": 234943
+          },
+          {
+            "functionName": "l.onerror",
+            "scriptId": "123",
+            "url": "https://cdn.viafoura.net/vf-v2.js",
+            "lineNumber": 39,
+            "columnNumber": 233993
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "Error",
+        "description": "Error: Network Error\n    at t.exports (https://cdn.viafoura.net/vf-v2.js:40:234944)\n    at XMLHttpRequest.l.onerror (https://cdn.viafoura.net/vf-v2.js:40:233994)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":11}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "Error: Network Error\n    at t.exports (https://cdn.viafoura.net/vf-v2.js:40:234944)\n    at XMLHttpRequest.l.onerror (https://cdn.viafoura.net/vf-v2.js:40:233994)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "config",
+              "type": "object",
+              "value": "Object"
+            },
+            {
+              "name": "request",
+              "type": "object",
+              "value": "XMLHttpRequest"
+            },
+            {
+              "name": "response",
+              "type": "undefined",
+              "value": "undefined"
+            },
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "Error: Network Error\n    at t.exports (https://cdn…ror (https://cdn.viafoura.net/vf-v2.js:40:233994)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Network Error"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

@@ -1,0 +1,189 @@
+[
+  {
+    "timestamp": 1583002271023.915,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 1,
+      "columnNumber": 7478,
+      "url": "https://www.nytimes.com/vi-assets/static-assets/nyt5/20190823-143533-mbipe/js/framework.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "makeError",
+            "scriptId": "202",
+            "url": "https://www.nytimes.com/vi-assets/static-assets/nyt5/20190823-143533-mbipe/js/framework.js",
+            "lineNumber": 1,
+            "columnNumber": 7478
+          },
+          {
+            "functionName": "onScriptError",
+            "scriptId": "202",
+            "url": "https://www.nytimes.com/vi-assets/static-assets/nyt5/20190823-143533-mbipe/js/framework.js",
+            "lineNumber": 1,
+            "columnNumber": 24719
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "Error",
+        "description": "Error: Script error\nhttp://requirejs.org/docs/errors.html#scripterror\n    at makeError (https://www.nytimes.com/vi-assets/static-assets/nyt5/20190823-143533-mbipe/js/framework.js:2:7479)\n    at HTMLScriptElement.onScriptError (https://www.nytimes.com/vi-assets/static-assets/nyt5/20190823-143533-mbipe/js/framework.js:2:24720)",
+        "objectId": "{\"injectedScriptId\":18,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "Error: Script error\nhttp://requirejs.org/docs/errors.html#scripterror\n    at makeError (https://www.nytimes.com/vi-assets/static-assets/nyt5/20190823-143533-mbipe/js/framework.js:2:7479)\n    at HTMLScriptElement.onScriptError (https://www.nytimes.com/vi-assets/static-assets/nyt5/20190823-143533-mbipe/js/framework.js:2:24720)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "requireType",
+              "type": "string",
+              "value": "scripterror"
+            },
+            {
+              "name": "requireModules",
+              "type": "object",
+              "value": "Array(1)",
+              "subtype": "array"
+            },
+            {
+              "name": "originalError",
+              "type": "object",
+              "value": "Event"
+            },
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "Error: Script error\nhttp://requirejs.org/docs/erro…t5/20190823-143533-mbipe/js/framework.js:2:24720)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Script error\nhttp://requirejs.org/docs/errors.html#scripterror"
+            }
+          ]
+        }
+      },
+      "executionContextId": 18
+    }
+  },
+  {
+    "timestamp": 1583002271050.626,
+    "exceptionDetails": {
+      "exceptionId": 2,
+      "text": "Uncaught",
+      "lineNumber": 294,
+      "columnNumber": 31,
+      "scriptId": "230",
+      "url": "https://tpc.googlesyndication.com/safeframe/1-0-37/html/container.html",
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "SyntaxError",
+        "description": "SyntaxError: Unexpected token ','",
+        "objectId": "{\"injectedScriptId\":21,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "SyntaxError: Unexpected token ','",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "SyntaxError: Unexpected token ','"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Unexpected token ','"
+            }
+          ]
+        }
+      },
+      "executionContextId": 21
+    }
+  },
+  {
+    "timestamp": 1583002271919.927,
+    "exceptionDetails": {
+      "exceptionId": 3,
+      "text": "Uncaught (in promise)",
+      "lineNumber": 323,
+      "columnNumber": 80,
+      "url": "https://www.gstatic.com/dfp/native/web_video.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "h.play",
+            "scriptId": "221",
+            "url": "https://www.gstatic.com/dfp/native/web_video.js",
+            "lineNumber": 323,
+            "columnNumber": 80
+          },
+          {
+            "functionName": "Lp.Og",
+            "scriptId": "221",
+            "url": "https://www.gstatic.com/dfp/native/web_video.js",
+            "lineNumber": 357,
+            "columnNumber": 153
+          },
+          {
+            "functionName": "T",
+            "scriptId": "203",
+            "url": "https://tpc.googlesyndication.com/safeframe/1-0-37/js/ext.js",
+            "lineNumber": 0,
+            "columnNumber": 16530
+          },
+          {
+            "functionName": "R.K",
+            "scriptId": "203",
+            "url": "https://tpc.googlesyndication.com/safeframe/1-0-37/js/ext.js",
+            "lineNumber": 0,
+            "columnNumber": 16437
+          },
+          {
+            "functionName": "x.G",
+            "scriptId": "203",
+            "url": "https://tpc.googlesyndication.com/safeframe/1-0-37/js/ext.js",
+            "lineNumber": 0,
+            "columnNumber": 6792
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "DOMException",
+        "description": "DOMException: The element has no supported sources.",
+        "objectId": "{\"injectedScriptId\":21,\"id\":2}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "DOMException: The element has no supported sources.",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "code",
+              "type": "number",
+              "value": "9"
+            },
+            {
+              "name": "name",
+              "type": "string",
+              "value": "NotSupportedError"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "The element has no supported sources."
+            }
+          ]
+        }
+      },
+      "executionContextId": 21
+    }
+  }
+]

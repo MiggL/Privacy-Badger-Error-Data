@@ -1,0 +1,49 @@
+[
+  {
+    "timestamp": 1583001428483.1592,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 10,
+      "columnNumber": 12,
+      "url": "http://curia.europa.eu/juris/document/document_print.jsf;jsessionid=9ea7d0f130de5b820e6db907480da225e933b4bdc492.e34KaxiLc3eQc40LaxqMbN4ObxyPe0?doclang=EN&text=&pageIndex=0&part=1&mode=DOC&docid=165052&occ=first&dir=&cid=144126",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "13",
+            "url": "http://curia.europa.eu/juris/document/document_print.jsf;jsessionid=9ea7d0f130de5b820e6db907480da225e933b4bdc492.e34KaxiLc3eQc40LaxqMbN4ObxyPe0?doclang=EN&text=&pageIndex=0&part=1&mode=DOC&docid=165052&occ=first&dir=&cid=144126",
+            "lineNumber": 10,
+            "columnNumber": 12
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: A4J is not defined\n    at http://curia.europa.eu/juris/document/document_print.jsf;jsessionid=9ea7d0f130de5b820e6db907480da225e933b4bdc492.e34KaxiLc3eQc40LaxqMbN4ObxyPe0?doclang=EN&text=&pageIndex=0&part=1&mode=DOC&docid=165052&occ=first&dir=&cid=144126:11:13",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: A4J is not defined\n    at http://curia.europa.eu/juris/document/document_print.jsf;jsessionid=9ea7d0f130de5b820e6db907480da225e933b4bdc492.e34KaxiLc3eQc40LaxqMbN4ObxyPe0?doclang=EN&text=&pageIndex=0&part=1&mode=DOC&docid=165052&occ=first&dir=&cid=144126:11:13",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: A4J is not defined\n    at http://c…=DOC&docid=165052&occ=first&dir=&cid=144126:11:13"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "A4J is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

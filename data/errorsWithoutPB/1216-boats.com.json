@@ -1,0 +1,96 @@
+[
+  {
+    "timestamp": 1583002170143.537,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 1817,
+      "columnNumber": 8,
+      "url": "https://www.boats.com/reviews/boats/drambuie-wins-suncoast-offshore-grand-prix-459/",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "51",
+            "url": "https://www.boats.com/reviews/boats/drambuie-wins-suncoast-offshore-grand-prix-459/",
+            "lineNumber": 1817,
+            "columnNumber": 8
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: gtag is not defined\n    at https://www.boats.com/reviews/boats/drambuie-wins-suncoast-offshore-grand-prix-459/:1818:9",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: gtag is not defined\n    at https://www.boats.com/reviews/boats/drambuie-wins-suncoast-offshore-grand-prix-459/:1818:9",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: gtag is not defined\n    at https:/…uie-wins-suncoast-offshore-grand-prix-459/:1818:9"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "gtag is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583002170146.7432,
+    "exceptionDetails": {
+      "exceptionId": 2,
+      "text": "Uncaught",
+      "lineNumber": 1818,
+      "columnNumber": 31,
+      "url": "https://www.boats.com/reviews/boats/drambuie-wins-suncoast-offshore-grand-prix-459/",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "58",
+            "url": "https://www.boats.com/reviews/boats/drambuie-wins-suncoast-offshore-grand-prix-459/",
+            "lineNumber": 1818,
+            "columnNumber": 31
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: _satellite is not defined\n    at https://www.boats.com/reviews/boats/drambuie-wins-suncoast-offshore-grand-prix-459/:1819:32",
+        "objectId": "{\"injectedScriptId\":3,\"id\":2}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: _satellite is not defined\n    at https://www.boats.com/reviews/boats/drambuie-wins-suncoast-offshore-grand-prix-459/:1819:32",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: _satellite is not defined\n    at h…ie-wins-suncoast-offshore-grand-prix-459/:1819:32"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "_satellite is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

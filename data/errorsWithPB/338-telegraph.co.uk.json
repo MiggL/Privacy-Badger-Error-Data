@@ -1,0 +1,158 @@
+[
+  {
+    "timestamp": 1583751493019.591,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 2223,
+      "columnNumber": 15,
+      "url": "https://www.telegraph.co.uk/news/uknews/1565340/Princess-Diana-Crash-tunnel-opened-to-public.html",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "159",
+            "url": "https://www.telegraph.co.uk/news/uknews/1565340/Princess-Diana-Crash-tunnel-opened-to-public.html",
+            "lineNumber": 2223,
+            "columnNumber": 15
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: nol_t is not defined\n    at https://www.telegraph.co.uk/news/uknews/1565340/Princess-Diana-Crash-tunnel-opened-to-public.html:2224:16",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: nol_t is not defined\n    at https://www.telegraph.co.uk/news/uknews/1565340/Princess-Diana-Crash-tunnel-opened-to-public.html:2224:16",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: nol_t is not defined\n    at https:…-Diana-Crash-tunnel-opened-to-public.html:2224:16"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "nol_t is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583751493039.0068,
+    "exceptionDetails": {
+      "exceptionId": 2,
+      "text": "Uncaught",
+      "lineNumber": 147,
+      "columnNumber": 60,
+      "url": "https://www.telegraph.co.uk/news/uknews/1565340/Princess-Diana-Crash-tunnel-opened-to-public.html",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "document.onreadystatechange",
+            "scriptId": "29",
+            "url": "https://www.telegraph.co.uk/news/uknews/1565340/Princess-Diana-Crash-tunnel-opened-to-public.html",
+            "lineNumber": 147,
+            "columnNumber": 60
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot set property 'src' of null\n    at HTMLDocument.document.onreadystatechange (https://www.telegraph.co.uk/news/uknews/1565340/Princess-Diana-Crash-tunnel-opened-to-public.html:148:61)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":2}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot set property 'src' of null\n    at HTMLDocument.document.onreadystatechange (https://www.telegraph.co.uk/news/uknews/1565340/Princess-Diana-Crash-tunnel-opened-to-public.html:148:61)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot set property 'src' of null\n    a…-Diana-Crash-tunnel-opened-to-public.html:148:61)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot set property 'src' of null"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583751494076.7332,
+    "exceptionDetails": {
+      "exceptionId": 3,
+      "text": "Uncaught",
+      "lineNumber": 147,
+      "columnNumber": 60,
+      "url": "https://www.telegraph.co.uk/news/uknews/1565340/Princess-Diana-Crash-tunnel-opened-to-public.html",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "document.onreadystatechange",
+            "scriptId": "29",
+            "url": "https://www.telegraph.co.uk/news/uknews/1565340/Princess-Diana-Crash-tunnel-opened-to-public.html",
+            "lineNumber": 147,
+            "columnNumber": 60
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot set property 'src' of null at HTMLDocument.document.onreadystatechange (https://www.telegraph.co.uk/news/uknews/1565340/Princess-Diana-Crash-tunnel-opened-to-public.html:148:61)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":3}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot set property 'src' of null at HTMLDocument.document.onreadystatechange (https://www.telegraph.co.uk/news/uknews/1565340/Princess-Diana-Crash-tunnel-opened-to-public.html:148:61)",
+          "overflow": true,
+          "properties": [
+            {
+              "name": "reported",
+              "type": "boolean",
+              "value": "true"
+            },
+            {
+              "name": "timestamp",
+              "type": "number",
+              "value": "1583751494075"
+            },
+            {
+              "name": "lineNumber",
+              "type": "string",
+              "value": "148"
+            },
+            {
+              "name": "columnNumber",
+              "type": "string",
+              "value": "61"
+            },
+            {
+              "name": "functionName",
+              "type": "string",
+              "value": "HTMLDocument.document.onreadystatechange"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

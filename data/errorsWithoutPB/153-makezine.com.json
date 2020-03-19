@@ -1,0 +1,77 @@
+[
+  {
+    "timestamp": 1583011992932.325,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 146,
+      "columnNumber": 145,
+      "url": "https://1abxf1rh6g01lhm2riyrt55k-wpengine.netdna-ssl.com/wp-content/plugins/easy-social-share-buttons3/assets/js/easy-social-share-buttons.js?ver=6.2.9",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "116",
+            "url": "https://1abxf1rh6g01lhm2riyrt55k-wpengine.netdna-ssl.com/wp-content/plugins/easy-social-share-buttons3/assets/js/easy-social-share-buttons.js?ver=6.2.9",
+            "lineNumber": 146,
+            "columnNumber": 145
+          },
+          {
+            "functionName": "i",
+            "scriptId": "17",
+            "url": "https://1abxf1rh6g01lhm2riyrt55k-wpengine.netdna-ssl.com/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp",
+            "lineNumber": 1,
+            "columnNumber": 27361
+          },
+          {
+            "functionName": "fireWith",
+            "scriptId": "17",
+            "url": "https://1abxf1rh6g01lhm2riyrt55k-wpengine.netdna-ssl.com/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp",
+            "lineNumber": 1,
+            "columnNumber": 28120
+          },
+          {
+            "functionName": "x",
+            "scriptId": "17",
+            "url": "https://1abxf1rh6g01lhm2riyrt55k-wpengine.netdna-ssl.com/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp",
+            "lineNumber": 3,
+            "columnNumber": 22574
+          },
+          {
+            "functionName": "c",
+            "scriptId": "17",
+            "url": "https://1abxf1rh6g01lhm2riyrt55k-wpengine.netdna-ssl.com/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp",
+            "lineNumber": 3,
+            "columnNumber": 26775
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'share_count' of undefined\n    at Object.<anonymous> (https://1abxf1rh6g01lhm2riyrt55k-wpengine.netdna-ssl.com/wp-content/plugins/easy-social-share-buttons3/assets/js/easy-social-share-buttons.js?ver=6.2.9:147:146)\n    at i (https://1abxf1rh6g01lhm2riyrt55k-wpengine.netdna-ssl.com/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp:2:27362)\n    at Object.fireWith [as resolveWith] (https://1abxf1rh6g01lhm2riyrt55k-wpengine.netdna-ssl.com/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp:2:28121)\n    at x (https://1abxf1rh6g01lhm2riyrt55k-wpengine.netdna-ssl.com/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp:4:22575)\n    at XMLHttpRequest.c (https://1abxf1rh6g01lhm2riyrt55k-wpengine.netdna-ssl.com/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp:4:26776)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'share_count' of undefined\n    at Object.<anonymous> (https://1abxf1rh6g01lhm2riyrt55k-wpengine.netdna-ssl.com/wp-content/plugins/easy-social-share-buttons3/assets/js/easy-social-share-buttons.js?ver=6.2.9:147:146)\n    at i (https://1abxf1rh6g01lhm2riyrt55k-wpengine.netdna-ssl.com/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp:2:27362)\n    at Object.fireWith [as resolveWith] (https://1abxf1rh6g01lhm2riyrt55k-wpengine.netdna-ssl.com/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp:2:28121)\n    at x (https://1abxf1rh6g01lhm2riyrt55k-wpengine.netdna-ssl.com/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp:4:22575)\n    at XMLHttpRequest.c (https://1abxf1rh6g01lhm2riyrt55k-wpengine.netdna-ssl.com/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp:4:26776)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'share_count' of u…cludes/js/jquery/jquery.js?ver=1.12.4-wp:4:26776)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'share_count' of undefined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

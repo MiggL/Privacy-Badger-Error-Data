@@ -1,0 +1,64 @@
+[
+  {
+    "timestamp": 1582893237364.855,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught (in promise)",
+      "lineNumber": 173,
+      "columnNumber": 510,
+      "url": "https://mrb.upapi.net/code?w=5632833957658624&upapi=true",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "51",
+            "url": "https://mrb.upapi.net/code?w=5632833957658624&upapi=true",
+            "lineNumber": 173,
+            "columnNumber": 510
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "className": "Event",
+        "description": "Event",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "description": "Event",
+          "overflow": true,
+          "properties": [
+            {
+              "name": "isTrusted",
+              "type": "boolean",
+              "value": "true"
+            },
+            {
+              "name": "type",
+              "type": "string",
+              "value": "error"
+            },
+            {
+              "name": "target",
+              "type": "object",
+              "value": "script",
+              "subtype": "node"
+            },
+            {
+              "name": "currentTarget",
+              "type": "object",
+              "value": "null",
+              "subtype": "null"
+            },
+            {
+              "name": "eventPhase",
+              "type": "number",
+              "value": "0"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

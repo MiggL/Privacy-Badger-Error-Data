@@ -1,0 +1,219 @@
+[
+  {
+    "timestamp": 1583001712662.211,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 213,
+      "columnNumber": 27,
+      "url": "https://www.telegraph.co.uk/science/2017/02/06/hedgehogs-vanish-british-gardens/",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "24",
+            "url": "https://www.telegraph.co.uk/science/2017/02/06/hedgehogs-vanish-british-gardens/",
+            "lineNumber": 213,
+            "columnNumber": 27
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'update' of undefined\n    at https://www.telegraph.co.uk/science/2017/02/06/hedgehogs-vanish-british-gardens/:214:28",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'update' of undefined\n    at https://www.telegraph.co.uk/science/2017/02/06/hedgehogs-vanish-british-gardens/:214:28",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'update' of undefi…17/02/06/hedgehogs-vanish-british-gardens/:214:28"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'update' of undefined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583001714159.88,
+    "exceptionDetails": {
+      "exceptionId": 2,
+      "text": "Uncaught (in promise)",
+      "lineNumber": 0,
+      "columnNumber": 61678,
+      "url": "https://www.gstatic.com/firebasejs/5.0.4/firebase-firestore.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "t",
+            "scriptId": "190",
+            "url": "https://www.gstatic.com/firebasejs/5.0.4/firebase-firestore.js",
+            "lineNumber": 0,
+            "columnNumber": 61678
+          },
+          {
+            "functionName": "t.doc",
+            "scriptId": "190",
+            "url": "https://www.gstatic.com/firebasejs/5.0.4/firebase-firestore.js",
+            "lineNumber": 0,
+            "columnNumber": 319899
+          },
+          {
+            "functionName": "",
+            "scriptId": "126",
+            "url": "https://www.telegraph.co.uk/etc/designs/telegraph/core/clientlibs/core.min.5-52--0.js",
+            "lineNumber": 492,
+            "columnNumber": 75
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "Error",
+        "description": "FirebaseError: Document path must be a non-empty string\n    at new t (https://www.gstatic.com/firebasejs/5.0.4/firebase-firestore.js:1:61679)\n    at t.doc (https://www.gstatic.com/firebasejs/5.0.4/firebase-firestore.js:1:319900)\n    at https://www.telegraph.co.uk/etc/designs/telegraph/core/clientlibs/core.min.5-52--0.js:493:76",
+        "objectId": "{\"injectedScriptId\":3,\"id\":3}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "FirebaseError: Document path must be a non-empty string\n    at new t (https://www.gstatic.com/firebasejs/5.0.4/firebase-firestore.js:1:61679)\n    at t.doc (https://www.gstatic.com/firebasejs/5.0.4/firebase-firestore.js:1:319900)\n    at https://www.telegraph.co.uk/etc/designs/telegraph/core/clientlibs/core.min.5-52--0.js:493:76",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "code",
+              "type": "string",
+              "value": "invalid-argument"
+            },
+            {
+              "name": "name",
+              "type": "string",
+              "value": "FirebaseError"
+            },
+            {
+              "name": "toString",
+              "type": "function",
+              "value": ""
+            },
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "FirebaseError: Document path must be a non-empty s…egraph/core/clientlibs/core.min.5-52--0.js:493:76"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Document path must be a non-empty string"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583001714223.819,
+    "exceptionDetails": {
+      "exceptionId": 3,
+      "text": "Uncaught",
+      "lineNumber": 0,
+      "columnNumber": 22633,
+      "url": "https://cf.eip.telegraph.co.uk/particle-embed/js/particle.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "52",
+            "url": "https://cf.eip.telegraph.co.uk/particle-embed/js/particle.js",
+            "lineNumber": 0,
+            "columnNumber": 22633
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'postMessage' of undefined\n    at https://cf.eip.telegraph.co.uk/particle-embed/js/particle.js:1:22634",
+        "objectId": "{\"injectedScriptId\":3,\"id\":4}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'postMessage' of undefined\n    at https://cf.eip.telegraph.co.uk/particle-embed/js/particle.js:1:22634",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'postMessage' of u…graph.co.uk/particle-embed/js/particle.js:1:22634"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'postMessage' of undefined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583001714224.216,
+    "exceptionDetails": {
+      "exceptionId": 4,
+      "text": "Uncaught",
+      "lineNumber": 0,
+      "columnNumber": 22633,
+      "url": "https://cf.eip.telegraph.co.uk/particle-embed/js/particle.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "52",
+            "url": "https://cf.eip.telegraph.co.uk/particle-embed/js/particle.js",
+            "lineNumber": 0,
+            "columnNumber": 22633
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'postMessage' of undefined\n    at https://cf.eip.telegraph.co.uk/particle-embed/js/particle.js:1:22634",
+        "objectId": "{\"injectedScriptId\":3,\"id\":5}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'postMessage' of undefined\n    at https://cf.eip.telegraph.co.uk/particle-embed/js/particle.js:1:22634",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'postMessage' of u…graph.co.uk/particle-embed/js/particle.js:1:22634"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'postMessage' of undefined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

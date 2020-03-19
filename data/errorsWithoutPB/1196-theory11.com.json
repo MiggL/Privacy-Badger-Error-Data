@@ -1,0 +1,316 @@
+[
+  {
+    "timestamp": 1583002369568.888,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 0,
+      "columnNumber": 0,
+      "scriptId": "71",
+      "url": "https://www.theory11.com/magic-events-party-entertainment",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "globalEval",
+            "scriptId": "14",
+            "url": "https://static.theory11.com/t11v3/scripts/scripts.min.1581991748752.js",
+            "lineNumber": 0,
+            "columnNumber": 11777
+          },
+          {
+            "functionName": "text script",
+            "scriptId": "14",
+            "url": "https://static.theory11.com/t11v3/scripts/scripts.min.1581991748752.js",
+            "lineNumber": 2,
+            "columnNumber": 15327
+          },
+          {
+            "functionName": "W",
+            "scriptId": "14",
+            "url": "https://static.theory11.com/t11v3/scripts/scripts.min.1581991748752.js",
+            "lineNumber": 0,
+            "columnNumber": 9089
+          },
+          {
+            "functionName": "n",
+            "scriptId": "14",
+            "url": "https://static.theory11.com/t11v3/scripts/scripts.min.1581991748752.js",
+            "lineNumber": 2,
+            "columnNumber": 8777
+          },
+          {
+            "functionName": "",
+            "scriptId": "14",
+            "url": "https://static.theory11.com/t11v3/scripts/scripts.min.1581991748752.js",
+            "lineNumber": 2,
+            "columnNumber": 14838
+          },
+          {
+            "functionName": "send",
+            "scriptId": "14",
+            "url": "https://static.theory11.com/t11v3/scripts/scripts.min.1581991748752.js",
+            "lineNumber": 2,
+            "columnNumber": 15026
+          },
+          {
+            "functionName": "ajax",
+            "scriptId": "14",
+            "url": "https://static.theory11.com/t11v3/scripts/scripts.min.1581991748752.js",
+            "lineNumber": 2,
+            "columnNumber": 11683
+          },
+          {
+            "functionName": "Z._evalUrl",
+            "scriptId": "14",
+            "url": "https://static.theory11.com/t11v3/scripts/scripts.min.1581991748752.js",
+            "lineNumber": 2,
+            "columnNumber": 12069
+          },
+          {
+            "functionName": "domManip",
+            "scriptId": "14",
+            "url": "https://static.theory11.com/t11v3/scripts/scripts.min.1581991748752.js",
+            "lineNumber": 1,
+            "columnNumber": 24211
+          },
+          {
+            "functionName": "append",
+            "scriptId": "14",
+            "url": "https://static.theory11.com/t11v3/scripts/scripts.min.1581991748752.js",
+            "lineNumber": 1,
+            "columnNumber": 21922
+          },
+          {
+            "functionName": "",
+            "scriptId": "14",
+            "url": "https://static.theory11.com/t11v3/scripts/scripts.min.1581991748752.js",
+            "lineNumber": 1,
+            "columnNumber": 23276
+          },
+          {
+            "functionName": "Z.access",
+            "scriptId": "14",
+            "url": "https://static.theory11.com/t11v3/scripts/scripts.min.1581991748752.js",
+            "lineNumber": 1,
+            "columnNumber": 6644
+          },
+          {
+            "functionName": "html",
+            "scriptId": "14",
+            "url": "https://static.theory11.com/t11v3/scripts/scripts.min.1581991748752.js",
+            "lineNumber": 1,
+            "columnNumber": 22947
+          },
+          {
+            "functionName": "",
+            "scriptId": "14",
+            "url": "https://static.theory11.com/t11v3/scripts/scripts.min.1581991748752.js",
+            "lineNumber": 19,
+            "columnNumber": 23638
+          },
+          {
+            "functionName": "",
+            "scriptId": "14",
+            "url": "https://static.theory11.com/t11v3/scripts/scripts.min.1581991748752.js",
+            "lineNumber": 3,
+            "columnNumber": 5665
+          },
+          {
+            "functionName": "be",
+            "scriptId": "14",
+            "url": "https://static.theory11.com/t11v3/scripts/scripts.min.1581991748752.js",
+            "lineNumber": 4,
+            "columnNumber": 11080
+          },
+          {
+            "functionName": "p",
+            "scriptId": "14",
+            "url": "https://static.theory11.com/t11v3/scripts/scripts.min.1581991748752.js",
+            "lineNumber": 4,
+            "columnNumber": 3487
+          },
+          {
+            "functionName": "a",
+            "scriptId": "14",
+            "url": "https://static.theory11.com/t11v3/scripts/scripts.min.1581991748752.js",
+            "lineNumber": 3,
+            "columnNumber": 31123
+          },
+          {
+            "functionName": "",
+            "scriptId": "14",
+            "url": "https://static.theory11.com/t11v3/scripts/scripts.min.1581991748752.js",
+            "lineNumber": 3,
+            "columnNumber": 30654
+          },
+          {
+            "functionName": "",
+            "scriptId": "14",
+            "url": "https://static.theory11.com/t11v3/scripts/scripts.min.1581991748752.js",
+            "lineNumber": 4,
+            "columnNumber": 1421
+          },
+          {
+            "functionName": "c",
+            "scriptId": "14",
+            "url": "https://static.theory11.com/t11v3/scripts/scripts.min.1581991748752.js",
+            "lineNumber": 19,
+            "columnNumber": 23131
+          },
+          {
+            "functionName": "",
+            "scriptId": "14",
+            "url": "https://static.theory11.com/t11v3/scripts/scripts.min.1581991748752.js",
+            "lineNumber": 19,
+            "columnNumber": 23400
+          },
+          {
+            "functionName": "$broadcast",
+            "scriptId": "14",
+            "url": "https://static.theory11.com/t11v3/scripts/scripts.min.1581991748752.js",
+            "lineNumber": 5,
+            "columnNumber": 14913
+          },
+          {
+            "functionName": "",
+            "scriptId": "14",
+            "url": "https://static.theory11.com/t11v3/scripts/scripts.min.1581991748752.js",
+            "lineNumber": 19,
+            "columnNumber": 18768
+          },
+          {
+            "functionName": "s",
+            "scriptId": "14",
+            "url": "https://static.theory11.com/t11v3/scripts/scripts.min.1581991748752.js",
+            "lineNumber": 5,
+            "columnNumber": 5856
+          },
+          {
+            "functionName": "",
+            "scriptId": "14",
+            "url": "https://static.theory11.com/t11v3/scripts/scripts.min.1581991748752.js",
+            "lineNumber": 5,
+            "columnNumber": 6028
+          },
+          {
+            "functionName": "$eval",
+            "scriptId": "14",
+            "url": "https://static.theory11.com/t11v3/scripts/scripts.min.1581991748752.js",
+            "lineNumber": 5,
+            "columnNumber": 13527
+          },
+          {
+            "functionName": "$digest",
+            "scriptId": "14",
+            "url": "https://static.theory11.com/t11v3/scripts/scripts.min.1581991748752.js",
+            "lineNumber": 5,
+            "columnNumber": 12000
+          },
+          {
+            "functionName": "$apply",
+            "scriptId": "14",
+            "url": "https://static.theory11.com/t11v3/scripts/scripts.min.1581991748752.js",
+            "lineNumber": 5,
+            "columnNumber": 13810
+          },
+          {
+            "functionName": "",
+            "scriptId": "14",
+            "url": "https://static.theory11.com/t11v3/scripts/scripts.min.1581991748752.js",
+            "lineNumber": 3,
+            "columnNumber": 8632
+          },
+          {
+            "functionName": "a",
+            "scriptId": "14",
+            "url": "https://static.theory11.com/t11v3/scripts/scripts.min.1581991748752.js",
+            "lineNumber": 3,
+            "columnNumber": 21258
+          },
+          {
+            "functionName": "a",
+            "scriptId": "14",
+            "url": "https://static.theory11.com/t11v3/scripts/scripts.min.1581991748752.js",
+            "lineNumber": 3,
+            "columnNumber": 8553
+          },
+          {
+            "functionName": "oe",
+            "scriptId": "14",
+            "url": "https://static.theory11.com/t11v3/scripts/scripts.min.1581991748752.js",
+            "lineNumber": 3,
+            "columnNumber": 8837
+          },
+          {
+            "functionName": "ie",
+            "scriptId": "14",
+            "url": "https://static.theory11.com/t11v3/scripts/scripts.min.1581991748752.js",
+            "lineNumber": 3,
+            "columnNumber": 8076
+          },
+          {
+            "functionName": "",
+            "scriptId": "14",
+            "url": "https://static.theory11.com/t11v3/scripts/scripts.min.1581991748752.js",
+            "lineNumber": 8,
+            "columnNumber": 11437
+          },
+          {
+            "functionName": "c",
+            "scriptId": "14",
+            "url": "https://static.theory11.com/t11v3/scripts/scripts.min.1581991748752.js",
+            "lineNumber": 1,
+            "columnNumber": 3531
+          },
+          {
+            "functionName": "fireWith",
+            "scriptId": "14",
+            "url": "https://static.theory11.com/t11v3/scripts/scripts.min.1581991748752.js",
+            "lineNumber": 1,
+            "columnNumber": 4343
+          },
+          {
+            "functionName": "ready",
+            "scriptId": "14",
+            "url": "https://static.theory11.com/t11v3/scripts/scripts.min.1581991748752.js",
+            "lineNumber": 1,
+            "columnNumber": 6139
+          },
+          {
+            "functionName": "s",
+            "scriptId": "14",
+            "url": "https://static.theory11.com/t11v3/scripts/scripts.min.1581991748752.js",
+            "lineNumber": 0,
+            "columnNumber": 961
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "SyntaxError",
+        "description": "SyntaxError: Unexpected token '<'\n    at eval (<anonymous>)\n    at Function.globalEval (https://static.theory11.com/t11v3/scripts/scripts.min.1581991748752.js:1:11778)\n    at text script (https://static.theory11.com/t11v3/scripts/scripts.min.1581991748752.js:3:15328)\n    at W (https://static.theory11.com/t11v3/scripts/scripts.min.1581991748752.js:1:9090)\n    at n (https://static.theory11.com/t11v3/scripts/scripts.min.1581991748752.js:3:8778)\n    at XMLHttpRequest.<anonymous> (https://static.theory11.com/t11v3/scripts/scripts.min.1581991748752.js:3:14839)\n    at Object.send (https://static.theory11.com/t11v3/scripts/scripts.min.1581991748752.js:3:15027)\n    at Function.ajax (https://static.theory11.com/t11v3/scripts/scripts.min.1581991748752.js:3:11684)\n    at Function.Z._evalUrl (https://static.theory11.com/t11v3/scripts/scripts.min.1581991748752.js:3:12070)\n    at Z.fn.init.domManip (https://static.theory11.com/t11v3/scripts/scripts.min.1581991748752.js:2:24212)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":3}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "SyntaxError: Unexpected token '<'\n    at eval (<anonymous>)\n    at Function.globalEval (https://static.theory11.com/t11v3/scripts/scripts.min.1581991748752.js:1:11778)\n    at text script (https://static.theory11.com/t11v3/scripts/scripts.min.1581991748752.js:3:15328)\n    at W (https://static.theory11.com/t11v3/scripts/scripts.min.1581991748752.js:1:9090)\n    at n (https://static.theory11.com/t11v3/scripts/scripts.min.1581991748752.js:3:8778)\n    at XMLHttpRequest.<anonymous> (https://static.theory11.com/t11v3/scripts/scripts.min.1581991748752.js:3:14839)\n    at Object.send (https://static.theory11.com/t11v3/scripts/scripts.min.1581991748752.js:3:15027)\n    at Function.ajax (https://static.theory11.com/t11v3/scripts/scripts.min.1581991748752.js:3:11684)\n    at Function.Z._evalUrl (https://static.theory11.com/t11v3/scripts/scripts.min.1581991748752.js:3:12070)\n    at Z.fn.init.domManip (https://static.theory11.com/t11v3/scripts/scripts.min.1581991748752.js:2:24212)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "SyntaxError: Unexpected token '<'\n    at eval (<an…1v3/scripts/scripts.min.1581991748752.js:2:24212)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Unexpected token '<'"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

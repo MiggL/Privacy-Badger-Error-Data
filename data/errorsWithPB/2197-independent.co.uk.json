@@ -1,0 +1,44 @@
+[
+  {
+    "timestamp": 1582894751393.385,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught (in promise)",
+      "lineNumber": 0,
+      "columnNumber": 0,
+      "scriptId": "1",
+      "url": "https://www.independent.co.uk/arts-entertainment/films/news/arrival-trailer-amy-adams-makes-first-contact-in-denis-villeneuves-new-sci-fi-a7194151.html",
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "DOMException",
+        "description": "DOMException: play() failed because the user didn't interact with the document first. https://goo.gl/xX8pDD",
+        "objectId": "{\"injectedScriptId\":3,\"id\":18}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "DOMException: play() failed because the user didn't interact with the document first. https://goo.gl/xX8pDD",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "code",
+              "type": "number",
+              "value": "0"
+            },
+            {
+              "name": "name",
+              "type": "string",
+              "value": "NotAllowedError"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "play() failed because the user didn't interact with the document first. https://goo.gl/xX8pDD"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

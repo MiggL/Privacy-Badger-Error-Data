@@ -1,0 +1,107 @@
+[
+  {
+    "timestamp": 1582819113568.409,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 7099,
+      "columnNumber": 8,
+      "scriptId": "27",
+      "url": "http://evangelicaltextualcriticism.blogspot.com/2014/04/jesus-had-ugly-sister-in-law.html",
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "SyntaxError",
+        "description": "SyntaxError: Invalid left-hand side in assignment",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "SyntaxError: Invalid left-hand side in assignment",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "SyntaxError: Invalid left-hand side in assignment"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Invalid left-hand side in assignment"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1582819114041.573,
+    "exceptionDetails": {
+      "exceptionId": 2,
+      "text": "Uncaught",
+      "lineNumber": 100,
+      "columnNumber": 561,
+      "url": "https://www.blogger.com/static/v1/widgets/3236635003-widgets.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "bi",
+            "scriptId": "37",
+            "url": "https://www.blogger.com/static/v1/widgets/3236635003-widgets.js",
+            "lineNumber": 100,
+            "columnNumber": 561
+          },
+          {
+            "functionName": "jn.G",
+            "scriptId": "37",
+            "url": "https://www.blogger.com/static/v1/widgets/3236635003-widgets.js",
+            "lineNumber": 274,
+            "columnNumber": 221
+          },
+          {
+            "functionName": "Pf",
+            "scriptId": "37",
+            "url": "https://www.blogger.com/static/v1/widgets/3236635003-widgets.js",
+            "lineNumber": 65,
+            "columnNumber": 197
+          },
+          {
+            "functionName": "O",
+            "scriptId": "37",
+            "url": "https://www.blogger.com/static/v1/widgets/3236635003-widgets.js",
+            "lineNumber": 64,
+            "columnNumber": 335
+          },
+          {
+            "functionName": "eh",
+            "scriptId": "37",
+            "url": "https://www.blogger.com/static/v1/widgets/3236635003-widgets.js",
+            "lineNumber": 81,
+            "columnNumber": 314
+          },
+          {
+            "functionName": "u.Pc",
+            "scriptId": "37",
+            "url": "https://www.blogger.com/static/v1/widgets/3236635003-widgets.js",
+            "lineNumber": 81,
+            "columnNumber": 86
+          },
+          {
+            "functionName": "u.Jb",
+            "scriptId": "37",
+            "url": "https://www.blogger.com/static/v1/widgets/3236635003-widgets.js",
+            "lineNumber": 81,
+            "columnNumber": 63
+          }
+        ]
+      },
+      "exception": {
+        "type": "string",
+        "value": "did not find element for id sparklinespan"
+      },
+      "executionContextId": 3
+    }
+  }
+]

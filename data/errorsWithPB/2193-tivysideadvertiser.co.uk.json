@@ -1,0 +1,1590 @@
+[
+  {
+    "timestamp": 1582894782259.0762,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 708,
+      "columnNumber": 31,
+      "url": "https://www.tivysideadvertiser.co.uk/news/7220742.ketch-to-leave-cardigan/",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "45",
+            "url": "https://www.tivysideadvertiser.co.uk/news/7220742.ketch-to-leave-cardigan/",
+            "lineNumber": 708,
+            "columnNumber": 31
+          },
+          {
+            "functionName": "each",
+            "scriptId": "23",
+            "url": "https://cdnjs.cloudflare.com/ajax/libs/jquery/1.11.1/jquery.min.js",
+            "lineNumber": 1,
+            "columnNumber": 2972
+          },
+          {
+            "functionName": "fetchHeaderBids",
+            "scriptId": "45",
+            "url": "https://www.tivysideadvertiser.co.uk/news/7220742.ketch-to-leave-cardigan/",
+            "lineNumber": 686,
+            "columnNumber": 6
+          },
+          {
+            "functionName": "",
+            "scriptId": "45",
+            "url": "https://www.tivysideadvertiser.co.uk/news/7220742.ketch-to-leave-cardigan/",
+            "lineNumber": 967,
+            "columnNumber": 4
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: rpx_params is not defined\n    at Object.<anonymous> (https://www.tivysideadvertiser.co.uk/news/7220742.ketch-to-leave-cardigan/:709:32)\n    at Function.each (https://cdnjs.cloudflare.com/ajax/libs/jquery/1.11.1/jquery.min.js:2:2973)\n    at fetchHeaderBids (https://www.tivysideadvertiser.co.uk/news/7220742.ketch-to-leave-cardigan/:687:7)\n    at https://www.tivysideadvertiser.co.uk/news/7220742.ketch-to-leave-cardigan/:968:5",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: rpx_params is not defined\n    at Object.<anonymous> (https://www.tivysideadvertiser.co.uk/news/7220742.ketch-to-leave-cardigan/:709:32)\n    at Function.each (https://cdnjs.cloudflare.com/ajax/libs/jquery/1.11.1/jquery.min.js:2:2973)\n    at fetchHeaderBids (https://www.tivysideadvertiser.co.uk/news/7220742.ketch-to-leave-cardigan/:687:7)\n    at https://www.tivysideadvertiser.co.uk/news/7220742.ketch-to-leave-cardigan/:968:5",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: rpx_params is not defined\n    at O…co.uk/news/7220742.ketch-to-leave-cardigan/:968:5"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "rpx_params is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1582894782526.72,
+    "exceptionDetails": {
+      "exceptionId": 2,
+      "text": "Uncaught",
+      "lineNumber": 348,
+      "columnNumber": 19689,
+      "scriptId": "32",
+      "url": "https://www.tivysideadvertiser.co.uk/news/7220742.ketch-to-leave-cardigan/",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "26",
+            "url": "https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr",
+            "lineNumber": 0,
+            "columnNumber": 281949
+          },
+          {
+            "functionName": "",
+            "scriptId": "26",
+            "url": "https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr",
+            "lineNumber": 0,
+            "columnNumber": 12438
+          },
+          {
+            "functionName": "",
+            "scriptId": "26",
+            "url": "https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr",
+            "lineNumber": 0,
+            "columnNumber": 12902
+          },
+          {
+            "functionName": "value",
+            "scriptId": "26",
+            "url": "https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr",
+            "lineNumber": 0,
+            "columnNumber": 12882
+          },
+          {
+            "functionName": "",
+            "scriptId": "26",
+            "url": "https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr",
+            "lineNumber": 0,
+            "columnNumber": 67396
+          },
+          {
+            "functionName": "h.onreadystatechange",
+            "scriptId": "26",
+            "url": "https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr",
+            "lineNumber": 0,
+            "columnNumber": 101831
+          },
+          {
+            "functionName": "nrWrapper",
+            "scriptId": "32",
+            "url": "https://www.tivysideadvertiser.co.uk/news/7220742.ketch-to-leave-cardigan/",
+            "lineNumber": 348,
+            "columnNumber": 19669
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "SyntaxError",
+        "description": "SyntaxError: Unexpected end of JSON input\n    at JSON.parse (<anonymous>)\n    at https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr:1:281950\n    at https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr:1:12439\n    at https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr:1:12903\n    at Array.forEach (<anonymous>)\n    at e.value (https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr:1:12883)\n    at https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr:1:67397\n    at XMLHttpRequest.h.onreadystatechange (https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr:1:101832)\n    at XMLHttpRequest.nrWrapper (https://www.tivysideadvertiser.co.uk/news/7220742.ketch-to-leave-cardigan/:349:19670)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":3}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "SyntaxError: Unexpected end of JSON input\n    at JSON.parse (<anonymous>)\n    at https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr:1:281950\n    at https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr:1:12439\n    at https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr:1:12903\n    at Array.forEach (<anonymous>)\n    at e.value (https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr:1:12883)\n    at https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr:1:67397\n    at XMLHttpRequest.h.onreadystatechange (https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr:1:101832)\n    at XMLHttpRequest.nrWrapper (https://www.tivysideadvertiser.co.uk/news/7220742.ketch-to-leave-cardigan/:349:19670)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "SyntaxError: Unexpected end of JSON input\n    at J…/news/7220742.ketch-to-leave-cardigan/:349:19670)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Unexpected end of JSON input"
+            },
+            {
+              "name": "nr@seenError",
+              "type": "boolean",
+              "value": "true"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1582894782839.3582,
+    "exceptionDetails": {
+      "exceptionId": 3,
+      "text": "Uncaught",
+      "lineNumber": 348,
+      "columnNumber": 19689,
+      "scriptId": "32",
+      "url": "https://www.tivysideadvertiser.co.uk/news/7220742.ketch-to-leave-cardigan/",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "26",
+            "url": "https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr",
+            "lineNumber": 0,
+            "columnNumber": 281949
+          },
+          {
+            "functionName": "",
+            "scriptId": "26",
+            "url": "https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr",
+            "lineNumber": 0,
+            "columnNumber": 12438
+          },
+          {
+            "functionName": "",
+            "scriptId": "26",
+            "url": "https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr",
+            "lineNumber": 0,
+            "columnNumber": 12902
+          },
+          {
+            "functionName": "value",
+            "scriptId": "26",
+            "url": "https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr",
+            "lineNumber": 0,
+            "columnNumber": 12882
+          },
+          {
+            "functionName": "",
+            "scriptId": "26",
+            "url": "https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr",
+            "lineNumber": 0,
+            "columnNumber": 67396
+          },
+          {
+            "functionName": "h.onreadystatechange",
+            "scriptId": "26",
+            "url": "https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr",
+            "lineNumber": 0,
+            "columnNumber": 101831
+          },
+          {
+            "functionName": "nrWrapper",
+            "scriptId": "32",
+            "url": "https://www.tivysideadvertiser.co.uk/news/7220742.ketch-to-leave-cardigan/",
+            "lineNumber": 348,
+            "columnNumber": 19669
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "SyntaxError",
+        "description": "SyntaxError: Unexpected end of JSON input\n    at JSON.parse (<anonymous>)\n    at https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr:1:281950\n    at https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr:1:12439\n    at https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr:1:12903\n    at Array.forEach (<anonymous>)\n    at e.value (https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr:1:12883)\n    at https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr:1:67397\n    at XMLHttpRequest.h.onreadystatechange (https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr:1:101832)\n    at XMLHttpRequest.nrWrapper (https://www.tivysideadvertiser.co.uk/news/7220742.ketch-to-leave-cardigan/:349:19670)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":4}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "SyntaxError: Unexpected end of JSON input\n    at JSON.parse (<anonymous>)\n    at https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr:1:281950\n    at https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr:1:12439\n    at https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr:1:12903\n    at Array.forEach (<anonymous>)\n    at e.value (https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr:1:12883)\n    at https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr:1:67397\n    at XMLHttpRequest.h.onreadystatechange (https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr:1:101832)\n    at XMLHttpRequest.nrWrapper (https://www.tivysideadvertiser.co.uk/news/7220742.ketch-to-leave-cardigan/:349:19670)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "SyntaxError: Unexpected end of JSON input\n    at J…/news/7220742.ketch-to-leave-cardigan/:349:19670)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Unexpected end of JSON input"
+            },
+            {
+              "name": "nr@seenError",
+              "type": "boolean",
+              "value": "true"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1582894782896.404,
+    "exceptionDetails": {
+      "exceptionId": 4,
+      "text": "Uncaught",
+      "lineNumber": 348,
+      "columnNumber": 19689,
+      "scriptId": "32",
+      "url": "https://www.tivysideadvertiser.co.uk/news/7220742.ketch-to-leave-cardigan/",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "26",
+            "url": "https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr",
+            "lineNumber": 0,
+            "columnNumber": 281949
+          },
+          {
+            "functionName": "",
+            "scriptId": "26",
+            "url": "https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr",
+            "lineNumber": 0,
+            "columnNumber": 12438
+          },
+          {
+            "functionName": "",
+            "scriptId": "26",
+            "url": "https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr",
+            "lineNumber": 0,
+            "columnNumber": 12902
+          },
+          {
+            "functionName": "value",
+            "scriptId": "26",
+            "url": "https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr",
+            "lineNumber": 0,
+            "columnNumber": 12882
+          },
+          {
+            "functionName": "",
+            "scriptId": "26",
+            "url": "https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr",
+            "lineNumber": 0,
+            "columnNumber": 67396
+          },
+          {
+            "functionName": "h.onreadystatechange",
+            "scriptId": "26",
+            "url": "https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr",
+            "lineNumber": 0,
+            "columnNumber": 101831
+          },
+          {
+            "functionName": "nrWrapper",
+            "scriptId": "32",
+            "url": "https://www.tivysideadvertiser.co.uk/news/7220742.ketch-to-leave-cardigan/",
+            "lineNumber": 348,
+            "columnNumber": 19669
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "SyntaxError",
+        "description": "SyntaxError: Unexpected end of JSON input\n    at JSON.parse (<anonymous>)\n    at https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr:1:281950\n    at https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr:1:12439\n    at https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr:1:12903\n    at Array.forEach (<anonymous>)\n    at e.value (https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr:1:12883)\n    at https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr:1:67397\n    at XMLHttpRequest.h.onreadystatechange (https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr:1:101832)\n    at XMLHttpRequest.nrWrapper (https://www.tivysideadvertiser.co.uk/news/7220742.ketch-to-leave-cardigan/:349:19670)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":5}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "SyntaxError: Unexpected end of JSON input\n    at JSON.parse (<anonymous>)\n    at https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr:1:281950\n    at https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr:1:12439\n    at https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr:1:12903\n    at Array.forEach (<anonymous>)\n    at e.value (https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr:1:12883)\n    at https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr:1:67397\n    at XMLHttpRequest.h.onreadystatechange (https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr:1:101832)\n    at XMLHttpRequest.nrWrapper (https://www.tivysideadvertiser.co.uk/news/7220742.ketch-to-leave-cardigan/:349:19670)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "SyntaxError: Unexpected end of JSON input\n    at J…/news/7220742.ketch-to-leave-cardigan/:349:19670)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Unexpected end of JSON input"
+            },
+            {
+              "name": "nr@seenError",
+              "type": "boolean",
+              "value": "true"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1582894783020.8281,
+    "exceptionDetails": {
+      "exceptionId": 5,
+      "text": "Uncaught",
+      "lineNumber": 348,
+      "columnNumber": 19689,
+      "scriptId": "32",
+      "url": "https://www.tivysideadvertiser.co.uk/news/7220742.ketch-to-leave-cardigan/",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "26",
+            "url": "https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr",
+            "lineNumber": 0,
+            "columnNumber": 281949
+          },
+          {
+            "functionName": "",
+            "scriptId": "26",
+            "url": "https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr",
+            "lineNumber": 0,
+            "columnNumber": 12438
+          },
+          {
+            "functionName": "",
+            "scriptId": "26",
+            "url": "https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr",
+            "lineNumber": 0,
+            "columnNumber": 12902
+          },
+          {
+            "functionName": "value",
+            "scriptId": "26",
+            "url": "https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr",
+            "lineNumber": 0,
+            "columnNumber": 12882
+          },
+          {
+            "functionName": "",
+            "scriptId": "26",
+            "url": "https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr",
+            "lineNumber": 0,
+            "columnNumber": 67396
+          },
+          {
+            "functionName": "h.onreadystatechange",
+            "scriptId": "26",
+            "url": "https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr",
+            "lineNumber": 0,
+            "columnNumber": 101831
+          },
+          {
+            "functionName": "nrWrapper",
+            "scriptId": "32",
+            "url": "https://www.tivysideadvertiser.co.uk/news/7220742.ketch-to-leave-cardigan/",
+            "lineNumber": 348,
+            "columnNumber": 19669
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "SyntaxError",
+        "description": "SyntaxError: Unexpected end of JSON input\n    at JSON.parse (<anonymous>)\n    at https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr:1:281950\n    at https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr:1:12439\n    at https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr:1:12903\n    at Array.forEach (<anonymous>)\n    at e.value (https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr:1:12883)\n    at https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr:1:67397\n    at XMLHttpRequest.h.onreadystatechange (https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr:1:101832)\n    at XMLHttpRequest.nrWrapper (https://www.tivysideadvertiser.co.uk/news/7220742.ketch-to-leave-cardigan/:349:19670)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":6}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "SyntaxError: Unexpected end of JSON input\n    at JSON.parse (<anonymous>)\n    at https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr:1:281950\n    at https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr:1:12439\n    at https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr:1:12903\n    at Array.forEach (<anonymous>)\n    at e.value (https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr:1:12883)\n    at https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr:1:67397\n    at XMLHttpRequest.h.onreadystatechange (https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr:1:101832)\n    at XMLHttpRequest.nrWrapper (https://www.tivysideadvertiser.co.uk/news/7220742.ketch-to-leave-cardigan/:349:19670)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "SyntaxError: Unexpected end of JSON input\n    at J…/news/7220742.ketch-to-leave-cardigan/:349:19670)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Unexpected end of JSON input"
+            },
+            {
+              "name": "nr@seenError",
+              "type": "boolean",
+              "value": "true"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1582894783114.934,
+    "exceptionDetails": {
+      "exceptionId": 6,
+      "text": "Uncaught",
+      "lineNumber": 348,
+      "columnNumber": 19689,
+      "scriptId": "32",
+      "url": "https://www.tivysideadvertiser.co.uk/news/7220742.ketch-to-leave-cardigan/",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "26",
+            "url": "https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr",
+            "lineNumber": 0,
+            "columnNumber": 281949
+          },
+          {
+            "functionName": "",
+            "scriptId": "26",
+            "url": "https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr",
+            "lineNumber": 0,
+            "columnNumber": 12438
+          },
+          {
+            "functionName": "",
+            "scriptId": "26",
+            "url": "https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr",
+            "lineNumber": 0,
+            "columnNumber": 12902
+          },
+          {
+            "functionName": "value",
+            "scriptId": "26",
+            "url": "https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr",
+            "lineNumber": 0,
+            "columnNumber": 12882
+          },
+          {
+            "functionName": "",
+            "scriptId": "26",
+            "url": "https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr",
+            "lineNumber": 0,
+            "columnNumber": 67396
+          },
+          {
+            "functionName": "h.onreadystatechange",
+            "scriptId": "26",
+            "url": "https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr",
+            "lineNumber": 0,
+            "columnNumber": 101831
+          },
+          {
+            "functionName": "nrWrapper",
+            "scriptId": "32",
+            "url": "https://www.tivysideadvertiser.co.uk/news/7220742.ketch-to-leave-cardigan/",
+            "lineNumber": 348,
+            "columnNumber": 19669
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "SyntaxError",
+        "description": "SyntaxError: Unexpected end of JSON input\n    at JSON.parse (<anonymous>)\n    at https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr:1:281950\n    at https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr:1:12439\n    at https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr:1:12903\n    at Array.forEach (<anonymous>)\n    at e.value (https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr:1:12883)\n    at https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr:1:67397\n    at XMLHttpRequest.h.onreadystatechange (https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr:1:101832)\n    at XMLHttpRequest.nrWrapper (https://www.tivysideadvertiser.co.uk/news/7220742.ketch-to-leave-cardigan/:349:19670)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":7}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "SyntaxError: Unexpected end of JSON input\n    at JSON.parse (<anonymous>)\n    at https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr:1:281950\n    at https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr:1:12439\n    at https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr:1:12903\n    at Array.forEach (<anonymous>)\n    at e.value (https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr:1:12883)\n    at https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr:1:67397\n    at XMLHttpRequest.h.onreadystatechange (https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr:1:101832)\n    at XMLHttpRequest.nrWrapper (https://www.tivysideadvertiser.co.uk/news/7220742.ketch-to-leave-cardigan/:349:19670)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "SyntaxError: Unexpected end of JSON input\n    at J…/news/7220742.ketch-to-leave-cardigan/:349:19670)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Unexpected end of JSON input"
+            },
+            {
+              "name": "nr@seenError",
+              "type": "boolean",
+              "value": "true"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1582894783353.77,
+    "exceptionDetails": {
+      "exceptionId": 7,
+      "text": "Uncaught",
+      "lineNumber": 348,
+      "columnNumber": 19689,
+      "scriptId": "32",
+      "url": "https://www.tivysideadvertiser.co.uk/news/7220742.ketch-to-leave-cardigan/",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "26",
+            "url": "https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr",
+            "lineNumber": 0,
+            "columnNumber": 281949
+          },
+          {
+            "functionName": "",
+            "scriptId": "26",
+            "url": "https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr",
+            "lineNumber": 0,
+            "columnNumber": 12438
+          },
+          {
+            "functionName": "",
+            "scriptId": "26",
+            "url": "https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr",
+            "lineNumber": 0,
+            "columnNumber": 12902
+          },
+          {
+            "functionName": "value",
+            "scriptId": "26",
+            "url": "https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr",
+            "lineNumber": 0,
+            "columnNumber": 12882
+          },
+          {
+            "functionName": "",
+            "scriptId": "26",
+            "url": "https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr",
+            "lineNumber": 0,
+            "columnNumber": 67396
+          },
+          {
+            "functionName": "h.onreadystatechange",
+            "scriptId": "26",
+            "url": "https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr",
+            "lineNumber": 0,
+            "columnNumber": 101831
+          },
+          {
+            "functionName": "nrWrapper",
+            "scriptId": "32",
+            "url": "https://www.tivysideadvertiser.co.uk/news/7220742.ketch-to-leave-cardigan/",
+            "lineNumber": 348,
+            "columnNumber": 19669
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "SyntaxError",
+        "description": "SyntaxError: Unexpected end of JSON input\n    at JSON.parse (<anonymous>)\n    at https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr:1:281950\n    at https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr:1:12439\n    at https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr:1:12903\n    at Array.forEach (<anonymous>)\n    at e.value (https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr:1:12883)\n    at https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr:1:67397\n    at XMLHttpRequest.h.onreadystatechange (https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr:1:101832)\n    at XMLHttpRequest.nrWrapper (https://www.tivysideadvertiser.co.uk/news/7220742.ketch-to-leave-cardigan/:349:19670)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":8}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "SyntaxError: Unexpected end of JSON input\n    at JSON.parse (<anonymous>)\n    at https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr:1:281950\n    at https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr:1:12439\n    at https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr:1:12903\n    at Array.forEach (<anonymous>)\n    at e.value (https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr:1:12883)\n    at https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr:1:67397\n    at XMLHttpRequest.h.onreadystatechange (https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr:1:101832)\n    at XMLHttpRequest.nrWrapper (https://www.tivysideadvertiser.co.uk/news/7220742.ketch-to-leave-cardigan/:349:19670)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "SyntaxError: Unexpected end of JSON input\n    at J…/news/7220742.ketch-to-leave-cardigan/:349:19670)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Unexpected end of JSON input"
+            },
+            {
+              "name": "nr@seenError",
+              "type": "boolean",
+              "value": "true"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1582894783600.021,
+    "exceptionDetails": {
+      "exceptionId": 8,
+      "text": "Uncaught",
+      "lineNumber": 348,
+      "columnNumber": 19689,
+      "scriptId": "32",
+      "url": "https://www.tivysideadvertiser.co.uk/news/7220742.ketch-to-leave-cardigan/",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "26",
+            "url": "https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr",
+            "lineNumber": 0,
+            "columnNumber": 281949
+          },
+          {
+            "functionName": "",
+            "scriptId": "26",
+            "url": "https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr",
+            "lineNumber": 0,
+            "columnNumber": 12438
+          },
+          {
+            "functionName": "",
+            "scriptId": "26",
+            "url": "https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr",
+            "lineNumber": 0,
+            "columnNumber": 12902
+          },
+          {
+            "functionName": "value",
+            "scriptId": "26",
+            "url": "https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr",
+            "lineNumber": 0,
+            "columnNumber": 12882
+          },
+          {
+            "functionName": "",
+            "scriptId": "26",
+            "url": "https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr",
+            "lineNumber": 0,
+            "columnNumber": 67396
+          },
+          {
+            "functionName": "h.onreadystatechange",
+            "scriptId": "26",
+            "url": "https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr",
+            "lineNumber": 0,
+            "columnNumber": 101831
+          },
+          {
+            "functionName": "nrWrapper",
+            "scriptId": "32",
+            "url": "https://www.tivysideadvertiser.co.uk/news/7220742.ketch-to-leave-cardigan/",
+            "lineNumber": 348,
+            "columnNumber": 19669
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "SyntaxError",
+        "description": "SyntaxError: Unexpected end of JSON input\n    at JSON.parse (<anonymous>)\n    at https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr:1:281950\n    at https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr:1:12439\n    at https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr:1:12903\n    at Array.forEach (<anonymous>)\n    at e.value (https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr:1:12883)\n    at https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr:1:67397\n    at XMLHttpRequest.h.onreadystatechange (https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr:1:101832)\n    at XMLHttpRequest.nrWrapper (https://www.tivysideadvertiser.co.uk/news/7220742.ketch-to-leave-cardigan/:349:19670)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":9}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "SyntaxError: Unexpected end of JSON input\n    at JSON.parse (<anonymous>)\n    at https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr:1:281950\n    at https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr:1:12439\n    at https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr:1:12903\n    at Array.forEach (<anonymous>)\n    at e.value (https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr:1:12883)\n    at https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr:1:67397\n    at XMLHttpRequest.h.onreadystatechange (https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr:1:101832)\n    at XMLHttpRequest.nrWrapper (https://www.tivysideadvertiser.co.uk/news/7220742.ketch-to-leave-cardigan/:349:19670)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "SyntaxError: Unexpected end of JSON input\n    at J…/news/7220742.ketch-to-leave-cardigan/:349:19670)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Unexpected end of JSON input"
+            },
+            {
+              "name": "nr@seenError",
+              "type": "boolean",
+              "value": "true"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1582894783852.8909,
+    "exceptionDetails": {
+      "exceptionId": 9,
+      "text": "Uncaught",
+      "lineNumber": 348,
+      "columnNumber": 19689,
+      "scriptId": "32",
+      "url": "https://www.tivysideadvertiser.co.uk/news/7220742.ketch-to-leave-cardigan/",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "26",
+            "url": "https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr",
+            "lineNumber": 0,
+            "columnNumber": 281949
+          },
+          {
+            "functionName": "",
+            "scriptId": "26",
+            "url": "https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr",
+            "lineNumber": 0,
+            "columnNumber": 12438
+          },
+          {
+            "functionName": "",
+            "scriptId": "26",
+            "url": "https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr",
+            "lineNumber": 0,
+            "columnNumber": 12902
+          },
+          {
+            "functionName": "value",
+            "scriptId": "26",
+            "url": "https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr",
+            "lineNumber": 0,
+            "columnNumber": 12882
+          },
+          {
+            "functionName": "",
+            "scriptId": "26",
+            "url": "https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr",
+            "lineNumber": 0,
+            "columnNumber": 67396
+          },
+          {
+            "functionName": "h.onreadystatechange",
+            "scriptId": "26",
+            "url": "https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr",
+            "lineNumber": 0,
+            "columnNumber": 101831
+          },
+          {
+            "functionName": "nrWrapper",
+            "scriptId": "32",
+            "url": "https://www.tivysideadvertiser.co.uk/news/7220742.ketch-to-leave-cardigan/",
+            "lineNumber": 348,
+            "columnNumber": 19669
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "SyntaxError",
+        "description": "SyntaxError: Unexpected end of JSON input\n    at JSON.parse (<anonymous>)\n    at https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr:1:281950\n    at https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr:1:12439\n    at https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr:1:12903\n    at Array.forEach (<anonymous>)\n    at e.value (https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr:1:12883)\n    at https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr:1:67397\n    at XMLHttpRequest.h.onreadystatechange (https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr:1:101832)\n    at XMLHttpRequest.nrWrapper (https://www.tivysideadvertiser.co.uk/news/7220742.ketch-to-leave-cardigan/:349:19670)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":10}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "SyntaxError: Unexpected end of JSON input\n    at JSON.parse (<anonymous>)\n    at https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr:1:281950\n    at https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr:1:12439\n    at https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr:1:12903\n    at Array.forEach (<anonymous>)\n    at e.value (https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr:1:12883)\n    at https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr:1:67397\n    at XMLHttpRequest.h.onreadystatechange (https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr:1:101832)\n    at XMLHttpRequest.nrWrapper (https://www.tivysideadvertiser.co.uk/news/7220742.ketch-to-leave-cardigan/:349:19670)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "SyntaxError: Unexpected end of JSON input\n    at J…/news/7220742.ketch-to-leave-cardigan/:349:19670)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Unexpected end of JSON input"
+            },
+            {
+              "name": "nr@seenError",
+              "type": "boolean",
+              "value": "true"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1582894784103.437,
+    "exceptionDetails": {
+      "exceptionId": 10,
+      "text": "Uncaught",
+      "lineNumber": 348,
+      "columnNumber": 19689,
+      "scriptId": "32",
+      "url": "https://www.tivysideadvertiser.co.uk/news/7220742.ketch-to-leave-cardigan/",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "26",
+            "url": "https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr",
+            "lineNumber": 0,
+            "columnNumber": 281949
+          },
+          {
+            "functionName": "",
+            "scriptId": "26",
+            "url": "https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr",
+            "lineNumber": 0,
+            "columnNumber": 12438
+          },
+          {
+            "functionName": "",
+            "scriptId": "26",
+            "url": "https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr",
+            "lineNumber": 0,
+            "columnNumber": 12902
+          },
+          {
+            "functionName": "value",
+            "scriptId": "26",
+            "url": "https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr",
+            "lineNumber": 0,
+            "columnNumber": 12882
+          },
+          {
+            "functionName": "",
+            "scriptId": "26",
+            "url": "https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr",
+            "lineNumber": 0,
+            "columnNumber": 67396
+          },
+          {
+            "functionName": "h.onreadystatechange",
+            "scriptId": "26",
+            "url": "https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr",
+            "lineNumber": 0,
+            "columnNumber": 101831
+          },
+          {
+            "functionName": "nrWrapper",
+            "scriptId": "32",
+            "url": "https://www.tivysideadvertiser.co.uk/news/7220742.ketch-to-leave-cardigan/",
+            "lineNumber": 348,
+            "columnNumber": 19669
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "SyntaxError",
+        "description": "SyntaxError: Unexpected end of JSON input\n    at JSON.parse (<anonymous>)\n    at https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr:1:281950\n    at https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr:1:12439\n    at https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr:1:12903\n    at Array.forEach (<anonymous>)\n    at e.value (https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr:1:12883)\n    at https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr:1:67397\n    at XMLHttpRequest.h.onreadystatechange (https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr:1:101832)\n    at XMLHttpRequest.nrWrapper (https://www.tivysideadvertiser.co.uk/news/7220742.ketch-to-leave-cardigan/:349:19670)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":11}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "SyntaxError: Unexpected end of JSON input\n    at JSON.parse (<anonymous>)\n    at https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr:1:281950\n    at https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr:1:12439\n    at https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr:1:12903\n    at Array.forEach (<anonymous>)\n    at e.value (https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr:1:12883)\n    at https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr:1:67397\n    at XMLHttpRequest.h.onreadystatechange (https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr:1:101832)\n    at XMLHttpRequest.nrWrapper (https://www.tivysideadvertiser.co.uk/news/7220742.ketch-to-leave-cardigan/:349:19670)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "SyntaxError: Unexpected end of JSON input\n    at J…/news/7220742.ketch-to-leave-cardigan/:349:19670)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Unexpected end of JSON input"
+            },
+            {
+              "name": "nr@seenError",
+              "type": "boolean",
+              "value": "true"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1582894784352.947,
+    "exceptionDetails": {
+      "exceptionId": 11,
+      "text": "Uncaught",
+      "lineNumber": 348,
+      "columnNumber": 19689,
+      "scriptId": "32",
+      "url": "https://www.tivysideadvertiser.co.uk/news/7220742.ketch-to-leave-cardigan/",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "26",
+            "url": "https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr",
+            "lineNumber": 0,
+            "columnNumber": 281949
+          },
+          {
+            "functionName": "",
+            "scriptId": "26",
+            "url": "https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr",
+            "lineNumber": 0,
+            "columnNumber": 12438
+          },
+          {
+            "functionName": "",
+            "scriptId": "26",
+            "url": "https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr",
+            "lineNumber": 0,
+            "columnNumber": 12902
+          },
+          {
+            "functionName": "value",
+            "scriptId": "26",
+            "url": "https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr",
+            "lineNumber": 0,
+            "columnNumber": 12882
+          },
+          {
+            "functionName": "",
+            "scriptId": "26",
+            "url": "https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr",
+            "lineNumber": 0,
+            "columnNumber": 67396
+          },
+          {
+            "functionName": "h.onreadystatechange",
+            "scriptId": "26",
+            "url": "https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr",
+            "lineNumber": 0,
+            "columnNumber": 101831
+          },
+          {
+            "functionName": "nrWrapper",
+            "scriptId": "32",
+            "url": "https://www.tivysideadvertiser.co.uk/news/7220742.ketch-to-leave-cardigan/",
+            "lineNumber": 348,
+            "columnNumber": 19669
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "SyntaxError",
+        "description": "SyntaxError: Unexpected end of JSON input\n    at JSON.parse (<anonymous>)\n    at https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr:1:281950\n    at https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr:1:12439\n    at https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr:1:12903\n    at Array.forEach (<anonymous>)\n    at e.value (https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr:1:12883)\n    at https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr:1:67397\n    at XMLHttpRequest.h.onreadystatechange (https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr:1:101832)\n    at XMLHttpRequest.nrWrapper (https://www.tivysideadvertiser.co.uk/news/7220742.ketch-to-leave-cardigan/:349:19670)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":12}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "SyntaxError: Unexpected end of JSON input\n    at JSON.parse (<anonymous>)\n    at https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr:1:281950\n    at https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr:1:12439\n    at https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr:1:12903\n    at Array.forEach (<anonymous>)\n    at e.value (https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr:1:12883)\n    at https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr:1:67397\n    at XMLHttpRequest.h.onreadystatechange (https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr:1:101832)\n    at XMLHttpRequest.nrWrapper (https://www.tivysideadvertiser.co.uk/news/7220742.ketch-to-leave-cardigan/:349:19670)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "SyntaxError: Unexpected end of JSON input\n    at J…/news/7220742.ketch-to-leave-cardigan/:349:19670)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Unexpected end of JSON input"
+            },
+            {
+              "name": "nr@seenError",
+              "type": "boolean",
+              "value": "true"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1582894784603.792,
+    "exceptionDetails": {
+      "exceptionId": 12,
+      "text": "Uncaught",
+      "lineNumber": 348,
+      "columnNumber": 19689,
+      "scriptId": "32",
+      "url": "https://www.tivysideadvertiser.co.uk/news/7220742.ketch-to-leave-cardigan/",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "26",
+            "url": "https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr",
+            "lineNumber": 0,
+            "columnNumber": 281949
+          },
+          {
+            "functionName": "",
+            "scriptId": "26",
+            "url": "https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr",
+            "lineNumber": 0,
+            "columnNumber": 12438
+          },
+          {
+            "functionName": "",
+            "scriptId": "26",
+            "url": "https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr",
+            "lineNumber": 0,
+            "columnNumber": 12902
+          },
+          {
+            "functionName": "value",
+            "scriptId": "26",
+            "url": "https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr",
+            "lineNumber": 0,
+            "columnNumber": 12882
+          },
+          {
+            "functionName": "",
+            "scriptId": "26",
+            "url": "https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr",
+            "lineNumber": 0,
+            "columnNumber": 67396
+          },
+          {
+            "functionName": "h.onreadystatechange",
+            "scriptId": "26",
+            "url": "https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr",
+            "lineNumber": 0,
+            "columnNumber": 101831
+          },
+          {
+            "functionName": "nrWrapper",
+            "scriptId": "32",
+            "url": "https://www.tivysideadvertiser.co.uk/news/7220742.ketch-to-leave-cardigan/",
+            "lineNumber": 348,
+            "columnNumber": 19669
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "SyntaxError",
+        "description": "SyntaxError: Unexpected end of JSON input\n    at JSON.parse (<anonymous>)\n    at https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr:1:281950\n    at https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr:1:12439\n    at https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr:1:12903\n    at Array.forEach (<anonymous>)\n    at e.value (https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr:1:12883)\n    at https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr:1:67397\n    at XMLHttpRequest.h.onreadystatechange (https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr:1:101832)\n    at XMLHttpRequest.nrWrapper (https://www.tivysideadvertiser.co.uk/news/7220742.ketch-to-leave-cardigan/:349:19670)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":13}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "SyntaxError: Unexpected end of JSON input\n    at JSON.parse (<anonymous>)\n    at https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr:1:281950\n    at https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr:1:12439\n    at https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr:1:12903\n    at Array.forEach (<anonymous>)\n    at e.value (https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr:1:12883)\n    at https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr:1:67397\n    at XMLHttpRequest.h.onreadystatechange (https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr:1:101832)\n    at XMLHttpRequest.nrWrapper (https://www.tivysideadvertiser.co.uk/news/7220742.ketch-to-leave-cardigan/:349:19670)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "SyntaxError: Unexpected end of JSON input\n    at J…/news/7220742.ketch-to-leave-cardigan/:349:19670)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Unexpected end of JSON input"
+            },
+            {
+              "name": "nr@seenError",
+              "type": "boolean",
+              "value": "true"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1582894784853.116,
+    "exceptionDetails": {
+      "exceptionId": 13,
+      "text": "Uncaught",
+      "lineNumber": 348,
+      "columnNumber": 19689,
+      "scriptId": "32",
+      "url": "https://www.tivysideadvertiser.co.uk/news/7220742.ketch-to-leave-cardigan/",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "26",
+            "url": "https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr",
+            "lineNumber": 0,
+            "columnNumber": 281949
+          },
+          {
+            "functionName": "",
+            "scriptId": "26",
+            "url": "https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr",
+            "lineNumber": 0,
+            "columnNumber": 12438
+          },
+          {
+            "functionName": "",
+            "scriptId": "26",
+            "url": "https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr",
+            "lineNumber": 0,
+            "columnNumber": 12902
+          },
+          {
+            "functionName": "value",
+            "scriptId": "26",
+            "url": "https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr",
+            "lineNumber": 0,
+            "columnNumber": 12882
+          },
+          {
+            "functionName": "",
+            "scriptId": "26",
+            "url": "https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr",
+            "lineNumber": 0,
+            "columnNumber": 67396
+          },
+          {
+            "functionName": "h.onreadystatechange",
+            "scriptId": "26",
+            "url": "https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr",
+            "lineNumber": 0,
+            "columnNumber": 101831
+          },
+          {
+            "functionName": "nrWrapper",
+            "scriptId": "32",
+            "url": "https://www.tivysideadvertiser.co.uk/news/7220742.ketch-to-leave-cardigan/",
+            "lineNumber": 348,
+            "columnNumber": 19669
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "SyntaxError",
+        "description": "SyntaxError: Unexpected end of JSON input\n    at JSON.parse (<anonymous>)\n    at https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr:1:281950\n    at https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr:1:12439\n    at https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr:1:12903\n    at Array.forEach (<anonymous>)\n    at e.value (https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr:1:12883)\n    at https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr:1:67397\n    at XMLHttpRequest.h.onreadystatechange (https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr:1:101832)\n    at XMLHttpRequest.nrWrapper (https://www.tivysideadvertiser.co.uk/news/7220742.ketch-to-leave-cardigan/:349:19670)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":14}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "SyntaxError: Unexpected end of JSON input\n    at JSON.parse (<anonymous>)\n    at https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr:1:281950\n    at https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr:1:12439\n    at https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr:1:12903\n    at Array.forEach (<anonymous>)\n    at e.value (https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr:1:12883)\n    at https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr:1:67397\n    at XMLHttpRequest.h.onreadystatechange (https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr:1:101832)\n    at XMLHttpRequest.nrWrapper (https://www.tivysideadvertiser.co.uk/news/7220742.ketch-to-leave-cardigan/:349:19670)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "SyntaxError: Unexpected end of JSON input\n    at J…/news/7220742.ketch-to-leave-cardigan/:349:19670)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Unexpected end of JSON input"
+            },
+            {
+              "name": "nr@seenError",
+              "type": "boolean",
+              "value": "true"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1582894785105.374,
+    "exceptionDetails": {
+      "exceptionId": 14,
+      "text": "Uncaught",
+      "lineNumber": 348,
+      "columnNumber": 19689,
+      "scriptId": "32",
+      "url": "https://www.tivysideadvertiser.co.uk/news/7220742.ketch-to-leave-cardigan/",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "26",
+            "url": "https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr",
+            "lineNumber": 0,
+            "columnNumber": 281949
+          },
+          {
+            "functionName": "",
+            "scriptId": "26",
+            "url": "https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr",
+            "lineNumber": 0,
+            "columnNumber": 12438
+          },
+          {
+            "functionName": "",
+            "scriptId": "26",
+            "url": "https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr",
+            "lineNumber": 0,
+            "columnNumber": 12902
+          },
+          {
+            "functionName": "value",
+            "scriptId": "26",
+            "url": "https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr",
+            "lineNumber": 0,
+            "columnNumber": 12882
+          },
+          {
+            "functionName": "",
+            "scriptId": "26",
+            "url": "https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr",
+            "lineNumber": 0,
+            "columnNumber": 67396
+          },
+          {
+            "functionName": "h.onreadystatechange",
+            "scriptId": "26",
+            "url": "https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr",
+            "lineNumber": 0,
+            "columnNumber": 101831
+          },
+          {
+            "functionName": "nrWrapper",
+            "scriptId": "32",
+            "url": "https://www.tivysideadvertiser.co.uk/news/7220742.ketch-to-leave-cardigan/",
+            "lineNumber": 348,
+            "columnNumber": 19669
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "SyntaxError",
+        "description": "SyntaxError: Unexpected end of JSON input\n    at JSON.parse (<anonymous>)\n    at https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr:1:281950\n    at https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr:1:12439\n    at https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr:1:12903\n    at Array.forEach (<anonymous>)\n    at e.value (https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr:1:12883)\n    at https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr:1:67397\n    at XMLHttpRequest.h.onreadystatechange (https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr:1:101832)\n    at XMLHttpRequest.nrWrapper (https://www.tivysideadvertiser.co.uk/news/7220742.ketch-to-leave-cardigan/:349:19670)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":15}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "SyntaxError: Unexpected end of JSON input\n    at JSON.parse (<anonymous>)\n    at https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr:1:281950\n    at https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr:1:12439\n    at https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr:1:12903\n    at Array.forEach (<anonymous>)\n    at e.value (https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr:1:12883)\n    at https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr:1:67397\n    at XMLHttpRequest.h.onreadystatechange (https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr:1:101832)\n    at XMLHttpRequest.nrWrapper (https://www.tivysideadvertiser.co.uk/news/7220742.ketch-to-leave-cardigan/:349:19670)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "SyntaxError: Unexpected end of JSON input\n    at J…/news/7220742.ketch-to-leave-cardigan/:349:19670)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Unexpected end of JSON input"
+            },
+            {
+              "name": "nr@seenError",
+              "type": "boolean",
+              "value": "true"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1582894785354.255,
+    "exceptionDetails": {
+      "exceptionId": 15,
+      "text": "Uncaught",
+      "lineNumber": 348,
+      "columnNumber": 19689,
+      "scriptId": "32",
+      "url": "https://www.tivysideadvertiser.co.uk/news/7220742.ketch-to-leave-cardigan/",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "26",
+            "url": "https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr",
+            "lineNumber": 0,
+            "columnNumber": 281949
+          },
+          {
+            "functionName": "",
+            "scriptId": "26",
+            "url": "https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr",
+            "lineNumber": 0,
+            "columnNumber": 12438
+          },
+          {
+            "functionName": "",
+            "scriptId": "26",
+            "url": "https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr",
+            "lineNumber": 0,
+            "columnNumber": 12902
+          },
+          {
+            "functionName": "value",
+            "scriptId": "26",
+            "url": "https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr",
+            "lineNumber": 0,
+            "columnNumber": 12882
+          },
+          {
+            "functionName": "",
+            "scriptId": "26",
+            "url": "https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr",
+            "lineNumber": 0,
+            "columnNumber": 67396
+          },
+          {
+            "functionName": "h.onreadystatechange",
+            "scriptId": "26",
+            "url": "https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr",
+            "lineNumber": 0,
+            "columnNumber": 101831
+          },
+          {
+            "functionName": "nrWrapper",
+            "scriptId": "32",
+            "url": "https://www.tivysideadvertiser.co.uk/news/7220742.ketch-to-leave-cardigan/",
+            "lineNumber": 348,
+            "columnNumber": 19669
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "SyntaxError",
+        "description": "SyntaxError: Unexpected end of JSON input\n    at JSON.parse (<anonymous>)\n    at https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr:1:281950\n    at https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr:1:12439\n    at https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr:1:12903\n    at Array.forEach (<anonymous>)\n    at e.value (https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr:1:12883)\n    at https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr:1:67397\n    at XMLHttpRequest.h.onreadystatechange (https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr:1:101832)\n    at XMLHttpRequest.nrWrapper (https://www.tivysideadvertiser.co.uk/news/7220742.ketch-to-leave-cardigan/:349:19670)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":16}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "SyntaxError: Unexpected end of JSON input\n    at JSON.parse (<anonymous>)\n    at https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr:1:281950\n    at https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr:1:12439\n    at https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr:1:12903\n    at Array.forEach (<anonymous>)\n    at e.value (https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr:1:12883)\n    at https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr:1:67397\n    at XMLHttpRequest.h.onreadystatechange (https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr:1:101832)\n    at XMLHttpRequest.nrWrapper (https://www.tivysideadvertiser.co.uk/news/7220742.ketch-to-leave-cardigan/:349:19670)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "SyntaxError: Unexpected end of JSON input\n    at J…/news/7220742.ketch-to-leave-cardigan/:349:19670)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Unexpected end of JSON input"
+            },
+            {
+              "name": "nr@seenError",
+              "type": "boolean",
+              "value": "true"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1582894785600.913,
+    "exceptionDetails": {
+      "exceptionId": 16,
+      "text": "Uncaught",
+      "lineNumber": 348,
+      "columnNumber": 19689,
+      "scriptId": "32",
+      "url": "https://www.tivysideadvertiser.co.uk/news/7220742.ketch-to-leave-cardigan/",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "26",
+            "url": "https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr",
+            "lineNumber": 0,
+            "columnNumber": 281949
+          },
+          {
+            "functionName": "",
+            "scriptId": "26",
+            "url": "https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr",
+            "lineNumber": 0,
+            "columnNumber": 12438
+          },
+          {
+            "functionName": "",
+            "scriptId": "26",
+            "url": "https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr",
+            "lineNumber": 0,
+            "columnNumber": 12902
+          },
+          {
+            "functionName": "value",
+            "scriptId": "26",
+            "url": "https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr",
+            "lineNumber": 0,
+            "columnNumber": 12882
+          },
+          {
+            "functionName": "",
+            "scriptId": "26",
+            "url": "https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr",
+            "lineNumber": 0,
+            "columnNumber": 67396
+          },
+          {
+            "functionName": "h.onreadystatechange",
+            "scriptId": "26",
+            "url": "https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr",
+            "lineNumber": 0,
+            "columnNumber": 101831
+          },
+          {
+            "functionName": "nrWrapper",
+            "scriptId": "32",
+            "url": "https://www.tivysideadvertiser.co.uk/news/7220742.ketch-to-leave-cardigan/",
+            "lineNumber": 348,
+            "columnNumber": 19669
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "SyntaxError",
+        "description": "SyntaxError: Unexpected end of JSON input\n    at JSON.parse (<anonymous>)\n    at https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr:1:281950\n    at https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr:1:12439\n    at https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr:1:12903\n    at Array.forEach (<anonymous>)\n    at e.value (https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr:1:12883)\n    at https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr:1:67397\n    at XMLHttpRequest.h.onreadystatechange (https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr:1:101832)\n    at XMLHttpRequest.nrWrapper (https://www.tivysideadvertiser.co.uk/news/7220742.ketch-to-leave-cardigan/:349:19670)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":17}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "SyntaxError: Unexpected end of JSON input\n    at JSON.parse (<anonymous>)\n    at https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr:1:281950\n    at https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr:1:12439\n    at https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr:1:12903\n    at Array.forEach (<anonymous>)\n    at e.value (https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr:1:12883)\n    at https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr:1:67397\n    at XMLHttpRequest.h.onreadystatechange (https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr:1:101832)\n    at XMLHttpRequest.nrWrapper (https://www.tivysideadvertiser.co.uk/news/7220742.ketch-to-leave-cardigan/:349:19670)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "SyntaxError: Unexpected end of JSON input\n    at J…/news/7220742.ketch-to-leave-cardigan/:349:19670)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Unexpected end of JSON input"
+            },
+            {
+              "name": "nr@seenError",
+              "type": "boolean",
+              "value": "true"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1582894785852.612,
+    "exceptionDetails": {
+      "exceptionId": 17,
+      "text": "Uncaught",
+      "lineNumber": 348,
+      "columnNumber": 19689,
+      "scriptId": "32",
+      "url": "https://www.tivysideadvertiser.co.uk/news/7220742.ketch-to-leave-cardigan/",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "26",
+            "url": "https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr",
+            "lineNumber": 0,
+            "columnNumber": 281949
+          },
+          {
+            "functionName": "",
+            "scriptId": "26",
+            "url": "https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr",
+            "lineNumber": 0,
+            "columnNumber": 12438
+          },
+          {
+            "functionName": "",
+            "scriptId": "26",
+            "url": "https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr",
+            "lineNumber": 0,
+            "columnNumber": 12902
+          },
+          {
+            "functionName": "value",
+            "scriptId": "26",
+            "url": "https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr",
+            "lineNumber": 0,
+            "columnNumber": 12882
+          },
+          {
+            "functionName": "",
+            "scriptId": "26",
+            "url": "https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr",
+            "lineNumber": 0,
+            "columnNumber": 67396
+          },
+          {
+            "functionName": "h.onreadystatechange",
+            "scriptId": "26",
+            "url": "https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr",
+            "lineNumber": 0,
+            "columnNumber": 101831
+          },
+          {
+            "functionName": "nrWrapper",
+            "scriptId": "32",
+            "url": "https://www.tivysideadvertiser.co.uk/news/7220742.ketch-to-leave-cardigan/",
+            "lineNumber": 348,
+            "columnNumber": 19669
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "SyntaxError",
+        "description": "SyntaxError: Unexpected end of JSON input\n    at JSON.parse (<anonymous>)\n    at https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr:1:281950\n    at https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr:1:12439\n    at https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr:1:12903\n    at Array.forEach (<anonymous>)\n    at e.value (https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr:1:12883)\n    at https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr:1:67397\n    at XMLHttpRequest.h.onreadystatechange (https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr:1:101832)\n    at XMLHttpRequest.nrWrapper (https://www.tivysideadvertiser.co.uk/news/7220742.ketch-to-leave-cardigan/:349:19670)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":18}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "SyntaxError: Unexpected end of JSON input\n    at JSON.parse (<anonymous>)\n    at https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr:1:281950\n    at https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr:1:12439\n    at https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr:1:12903\n    at Array.forEach (<anonymous>)\n    at e.value (https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr:1:12883)\n    at https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr:1:67397\n    at XMLHttpRequest.h.onreadystatechange (https://www.tivysideadvertiser.co.uk/resources/files/53137/?r=MrbwQTcr:1:101832)\n    at XMLHttpRequest.nrWrapper (https://www.tivysideadvertiser.co.uk/news/7220742.ketch-to-leave-cardigan/:349:19670)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "SyntaxError: Unexpected end of JSON input\n    at J…/news/7220742.ketch-to-leave-cardigan/:349:19670)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Unexpected end of JSON input"
+            },
+            {
+              "name": "nr@seenError",
+              "type": "boolean",
+              "value": "true"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

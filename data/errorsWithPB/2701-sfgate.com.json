@@ -1,0 +1,96 @@
+[
+  {
+    "timestamp": 1582890186797.125,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 525,
+      "columnNumber": 0,
+      "url": "https://www.sfgate.com/music/article/Summer-of-Love-bands-then-and-now-11090888.php",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "49",
+            "url": "https://www.sfgate.com/music/article/Summer-of-Love-bands-then-and-now-11090888.php",
+            "lineNumber": 525,
+            "columnNumber": 0
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: ga is not defined\n    at https://www.sfgate.com/music/article/Summer-of-Love-bands-then-and-now-11090888.php:526:1",
+        "objectId": "{\"injectedScriptId\":3,\"id\":5}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: ga is not defined\n    at https://www.sfgate.com/music/article/Summer-of-Love-bands-then-and-now-11090888.php:526:1",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: ga is not defined\n    at https://w…mer-of-Love-bands-then-and-now-11090888.php:526:1"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "ga is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1582890187316.2551,
+    "exceptionDetails": {
+      "exceptionId": 2,
+      "text": "Uncaught",
+      "lineNumber": 401,
+      "columnNumber": 82,
+      "url": "https://www.sfgate.com/music/article/Summer-of-Love-bands-then-and-now-11090888.php",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "43",
+            "url": "https://www.sfgate.com/music/article/Summer-of-Love-bands-then-and-now-11090888.php",
+            "lineNumber": 401,
+            "columnNumber": 82
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'style' of undefined\n    at https://www.sfgate.com/music/article/Summer-of-Love-bands-then-and-now-11090888.php:402:83",
+        "objectId": "{\"injectedScriptId\":3,\"id\":6}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'style' of undefined\n    at https://www.sfgate.com/music/article/Summer-of-Love-bands-then-and-now-11090888.php:402:83",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'style' of undefin…er-of-Love-bands-then-and-now-11090888.php:402:83"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'style' of undefined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

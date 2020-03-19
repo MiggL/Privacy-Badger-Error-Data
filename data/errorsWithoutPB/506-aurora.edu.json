@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": 1583008769248.022,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 69,
+      "columnNumber": 6,
+      "scriptId": "17",
+      "url": "https://aurora.edu/classes/12ma/phl.htm",
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "SyntaxError",
+        "description": "SyntaxError: Unexpected end of input",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "SyntaxError: Unexpected end of input",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "SyntaxError: Unexpected end of input"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Unexpected end of input"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

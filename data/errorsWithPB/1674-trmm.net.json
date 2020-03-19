@@ -1,0 +1,174 @@
+[
+  {
+    "timestamp": 1583416920461.917,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 3,
+      "columnNumber": 29,
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "eval",
+            "scriptId": "29",
+            "url": "",
+            "lineNumber": 3,
+            "columnNumber": 29
+          },
+          {
+            "functionName": "execute",
+            "scriptId": "23",
+            "url": "https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML",
+            "lineNumber": 18,
+            "columnNumber": 3241
+          },
+          {
+            "functionName": "cb",
+            "scriptId": "23",
+            "url": "https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML",
+            "lineNumber": 18,
+            "columnNumber": 2818
+          },
+          {
+            "functionName": "Process",
+            "scriptId": "23",
+            "url": "https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML",
+            "lineNumber": 18,
+            "columnNumber": 8672
+          },
+          {
+            "functionName": "call",
+            "scriptId": "23",
+            "url": "https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML",
+            "lineNumber": 18,
+            "columnNumber": 8929
+          },
+          {
+            "functionName": "WAITEXECUTE",
+            "scriptId": "23",
+            "url": "https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML",
+            "lineNumber": 18,
+            "columnNumber": 6157
+          },
+          {
+            "functionName": "cb",
+            "scriptId": "23",
+            "url": "https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML",
+            "lineNumber": 18,
+            "columnNumber": 2818
+          },
+          {
+            "functionName": "Process",
+            "scriptId": "23",
+            "url": "https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML",
+            "lineNumber": 18,
+            "columnNumber": 8672
+          },
+          {
+            "functionName": "call",
+            "scriptId": "23",
+            "url": "https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML",
+            "lineNumber": 18,
+            "columnNumber": 8929
+          },
+          {
+            "functionName": "WAITEXECUTE",
+            "scriptId": "23",
+            "url": "https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML",
+            "lineNumber": 18,
+            "columnNumber": 6157
+          },
+          {
+            "functionName": "cb",
+            "scriptId": "23",
+            "url": "https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML",
+            "lineNumber": 18,
+            "columnNumber": 2818
+          },
+          {
+            "functionName": "Process",
+            "scriptId": "23",
+            "url": "https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML",
+            "lineNumber": 18,
+            "columnNumber": 8672
+          },
+          {
+            "functionName": "call",
+            "scriptId": "23",
+            "url": "https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML",
+            "lineNumber": 18,
+            "columnNumber": 8929
+          },
+          {
+            "functionName": "WAITEXECUTE",
+            "scriptId": "23",
+            "url": "https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML",
+            "lineNumber": 18,
+            "columnNumber": 6157
+          },
+          {
+            "functionName": "cb",
+            "scriptId": "23",
+            "url": "https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML",
+            "lineNumber": 18,
+            "columnNumber": 2818
+          },
+          {
+            "functionName": "Process",
+            "scriptId": "23",
+            "url": "https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML",
+            "lineNumber": 18,
+            "columnNumber": 8672
+          },
+          {
+            "functionName": "call",
+            "scriptId": "23",
+            "url": "https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML",
+            "lineNumber": 18,
+            "columnNumber": 8929
+          },
+          {
+            "functionName": "WAITEXECUTE",
+            "scriptId": "23",
+            "url": "https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML",
+            "lineNumber": 18,
+            "columnNumber": 6157
+          },
+          {
+            "functionName": "cb",
+            "scriptId": "23",
+            "url": "https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML",
+            "lineNumber": 18,
+            "columnNumber": 2818
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: $ is not defined\n    at eval (eval at EVAL (https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML:19:3529), <anonymous>:4:30)\n    at Function.execute (https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML:19:3242)\n    at cb (https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML:19:2819)\n    at Object.Process (https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML:19:8673)\n    at Object.call (https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML:19:8930)\n    at Function.WAITEXECUTE (https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML:19:6158)\n    at cb (https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML:19:2819)\n    at Object.Process (https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML:19:8673)\n    at Object.call (https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML:19:8930)\n    at Function.WAITEXECUTE (https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML:19:6158)\n    at cb (https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML:19:2819)\n    at Object.Process (https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML:19:8673)\n    at Object.call (https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML:19:8930)\n    at Function.WAITEXECUTE (https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML:19:6158)\n    at cb (https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML:19:2819)\n    at Object.Process (https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML:19:8673)\n    at Object.call (https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML:19:8930)\n    at Function.WAITEXECUTE (https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML:19:6158)\n    at cb (https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML:19:2819)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: $ is not defined\n    at eval (eval at EVAL (https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML:19:3529), <anonymous>:4:30)\n    at Function.execute (https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML:19:3242)\n    at cb (https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML:19:2819)\n    at Object.Process (https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML:19:8673)\n    at Object.call (https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML:19:8930)\n    at Function.WAITEXECUTE (https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML:19:6158)\n    at cb (https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML:19:2819)\n    at Object.Process (https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML:19:8673)\n    at Object.call (https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML:19:8930)\n    at Function.WAITEXECUTE (https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML:19:6158)\n    at cb (https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML:19:2819)\n    at Object.Process (https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML:19:8673)\n    at Object.call (https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML:19:8930)\n    at Function.WAITEXECUTE (https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML:19:6158)\n    at cb (https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML:19:2819)\n    at Object.Process (https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML:19:8673)\n    at Object.call (https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML:19:8930)\n    at Function.WAITEXECUTE (https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML:19:6158)\n    at cb (https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML:19:2819)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: $ is not defined\n    at eval (eval…/MathJax.js?config=TeX-AMS-MML_HTMLorMML:19:2819)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "$ is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

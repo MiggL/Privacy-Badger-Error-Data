@@ -1,0 +1,56 @@
+[
+  {
+    "timestamp": 1582895903289.153,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 1427,
+      "columnNumber": 0,
+      "url": "https://www.allmusic.com/album/trumpet-madness-mw0000658814",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "initialLoadAds",
+            "scriptId": "59",
+            "url": "https://www.allmusic.com/album/trumpet-madness-mw0000658814",
+            "lineNumber": 1427,
+            "columnNumber": 0
+          },
+          {
+            "functionName": "",
+            "scriptId": "59",
+            "url": "https://www.allmusic.com/album/trumpet-madness-mw0000658814",
+            "lineNumber": 1458,
+            "columnNumber": 17
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: CMNUNT is not defined\n    at initialLoadAds (https://www.allmusic.com/album/trumpet-madness-mw0000658814:1428:1)\n    at HTMLDocument.<anonymous> (https://www.allmusic.com/album/trumpet-madness-mw0000658814:1459:18)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: CMNUNT is not defined\n    at initialLoadAds (https://www.allmusic.com/album/trumpet-madness-mw0000658814:1428:1)\n    at HTMLDocument.<anonymous> (https://www.allmusic.com/album/trumpet-madness-mw0000658814:1459:18)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: CMNUNT is not defined\n    at initi…c.com/album/trumpet-madness-mw0000658814:1459:18)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "CMNUNT is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

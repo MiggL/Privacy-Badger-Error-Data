@@ -1,0 +1,152 @@
+[
+  {
+    "timestamp": 1582815258686.462,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 0,
+      "columnNumber": 436,
+      "url": "https://bloodymarymetal.com/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=3.5.7",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "41",
+            "url": "https://bloodymarymetal.com/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=3.5.7",
+            "lineNumber": 0,
+            "columnNumber": 436
+          },
+          {
+            "functionName": "i",
+            "scriptId": "15",
+            "url": "https://bloodymarymetal.com/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp",
+            "lineNumber": 1,
+            "columnNumber": 27361
+          },
+          {
+            "functionName": "fireWith",
+            "scriptId": "15",
+            "url": "https://bloodymarymetal.com/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp",
+            "lineNumber": 1,
+            "columnNumber": 28120
+          },
+          {
+            "functionName": "ready",
+            "scriptId": "15",
+            "url": "https://bloodymarymetal.com/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp",
+            "lineNumber": 1,
+            "columnNumber": 29913
+          },
+          {
+            "functionName": "J",
+            "scriptId": "15",
+            "url": "https://bloodymarymetal.com/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp",
+            "lineNumber": 1,
+            "columnNumber": 30275
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: Cookies is not defined\n    at HTMLDocument.<anonymous> (https://bloodymarymetal.com/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=3.5.7:1:437)\n    at i (https://bloodymarymetal.com/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp:2:27362)\n    at Object.fireWith [as resolveWith] (https://bloodymarymetal.com/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp:2:28121)\n    at Function.ready (https://bloodymarymetal.com/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp:2:29914)\n    at HTMLDocument.J (https://bloodymarymetal.com/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp:2:30276)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: Cookies is not defined\n    at HTMLDocument.<anonymous> (https://bloodymarymetal.com/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=3.5.7:1:437)\n    at i (https://bloodymarymetal.com/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp:2:27362)\n    at Object.fireWith [as resolveWith] (https://bloodymarymetal.com/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp:2:28121)\n    at Function.ready (https://bloodymarymetal.com/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp:2:29914)\n    at HTMLDocument.J (https://bloodymarymetal.com/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp:2:30276)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: Cookies is not defined\n    at HTML…cludes/js/jquery/jquery.js?ver=1.12.4-wp:2:30276)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cookies is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1582815258724.021,
+    "exceptionDetails": {
+      "exceptionId": 2,
+      "text": "Uncaught",
+      "lineNumber": 1,
+      "columnNumber": 4135,
+      "url": "https://bloodymarymetal.com/wp-content/themes/bmm/js/general.min.js?ver=20151215",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "61",
+            "url": "https://bloodymarymetal.com/wp-content/themes/bmm/js/general.min.js?ver=20151215",
+            "lineNumber": 1,
+            "columnNumber": 4135
+          },
+          {
+            "functionName": "i",
+            "scriptId": "51",
+            "url": "https://bloodymarymetal.com/wp-content/themes/bmm/js/minify.js?ver=20151215",
+            "lineNumber": 1,
+            "columnNumber": 27448
+          },
+          {
+            "functionName": "fireWith",
+            "scriptId": "51",
+            "url": "https://bloodymarymetal.com/wp-content/themes/bmm/js/minify.js?ver=20151215",
+            "lineNumber": 1,
+            "columnNumber": 28212
+          },
+          {
+            "functionName": "ready",
+            "scriptId": "51",
+            "url": "https://bloodymarymetal.com/wp-content/themes/bmm/js/minify.js?ver=20151215",
+            "lineNumber": 1,
+            "columnNumber": 30005
+          },
+          {
+            "functionName": "K",
+            "scriptId": "51",
+            "url": "https://bloodymarymetal.com/wp-content/themes/bmm/js/minify.js?ver=20151215",
+            "lineNumber": 1,
+            "columnNumber": 30367
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: $(...).matchHeight is not a function\n    at HTMLDocument.<anonymous> (https://bloodymarymetal.com/wp-content/themes/bmm/js/general.min.js?ver=20151215:2:4136)\n    at i (https://bloodymarymetal.com/wp-content/themes/bmm/js/minify.js?ver=20151215:2:27449)\n    at Object.fireWith [as resolveWith] (https://bloodymarymetal.com/wp-content/themes/bmm/js/minify.js?ver=20151215:2:28213)\n    at Function.ready (https://bloodymarymetal.com/wp-content/themes/bmm/js/minify.js?ver=20151215:2:30006)\n    at HTMLDocument.K (https://bloodymarymetal.com/wp-content/themes/bmm/js/minify.js?ver=20151215:2:30368)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":2}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: $(...).matchHeight is not a function\n    at HTMLDocument.<anonymous> (https://bloodymarymetal.com/wp-content/themes/bmm/js/general.min.js?ver=20151215:2:4136)\n    at i (https://bloodymarymetal.com/wp-content/themes/bmm/js/minify.js?ver=20151215:2:27449)\n    at Object.fireWith [as resolveWith] (https://bloodymarymetal.com/wp-content/themes/bmm/js/minify.js?ver=20151215:2:28213)\n    at Function.ready (https://bloodymarymetal.com/wp-content/themes/bmm/js/minify.js?ver=20151215:2:30006)\n    at HTMLDocument.K (https://bloodymarymetal.com/wp-content/themes/bmm/js/minify.js?ver=20151215:2:30368)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: $(...).matchHeight is not a function\n  …ent/themes/bmm/js/minify.js?ver=20151215:2:30368)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "$(...).matchHeight is not a function"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

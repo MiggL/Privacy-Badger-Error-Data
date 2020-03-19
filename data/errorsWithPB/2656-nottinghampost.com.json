@@ -1,0 +1,149 @@
+[
+  {
+    "timestamp": 1582890605274.6438,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 0,
+      "columnNumber": 212561,
+      "url": "https://quantcast.mgr.consensu.org/v28/cmp.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "t",
+            "scriptId": "112",
+            "url": "https://quantcast.mgr.consensu.org/v28/cmp.js",
+            "lineNumber": 0,
+            "columnNumber": 212561
+          },
+          {
+            "functionName": "",
+            "scriptId": "73",
+            "url": "",
+            "lineNumber": 2,
+            "columnNumber": 215
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'apply' of undefined\n    at t (https://quantcast.mgr.consensu.org/v28/cmp.js:1:212562)\n    at <anonymous>:3:216",
+        "objectId": "{\"injectedScriptId\":3,\"id\":6}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'apply' of undefined\n    at t (https://quantcast.mgr.consensu.org/v28/cmp.js:1:212562)\n    at <anonymous>:3:216",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'apply' of undefin…org/v28/cmp.js:1:212562)\n    at <anonymous>:3:216"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'apply' of undefined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1582890605368.417,
+    "exceptionDetails": {
+      "exceptionId": 2,
+      "text": "Uncaught",
+      "lineNumber": 0,
+      "columnNumber": 62871,
+      "url": "https://quantcast.mgr.consensu.org/v28/cmp.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "vendorListResponseHandler",
+            "scriptId": "112",
+            "url": "https://quantcast.mgr.consensu.org/v28/cmp.js",
+            "lineNumber": 0,
+            "columnNumber": 62871
+          },
+          {
+            "functionName": "",
+            "scriptId": "112",
+            "url": "https://quantcast.mgr.consensu.org/v28/cmp.js",
+            "lineNumber": 0,
+            "columnNumber": 65315
+          },
+          {
+            "functionName": "t.onreadystatechange",
+            "scriptId": "112",
+            "url": "https://quantcast.mgr.consensu.org/v28/cmp.js",
+            "lineNumber": 0,
+            "columnNumber": 1426
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: o is not a function\n    at Object.vendorListResponseHandler (https://quantcast.mgr.consensu.org/v28/cmp.js:1:62872)\n    at https://quantcast.mgr.consensu.org/v28/cmp.js:1:65316\n    at XMLHttpRequest.t.onreadystatechange (https://quantcast.mgr.consensu.org/v28/cmp.js:1:1427)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":7}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: o is not a function\n    at Object.vendorListResponseHandler (https://quantcast.mgr.consensu.org/v28/cmp.js:1:62872)\n    at https://quantcast.mgr.consensu.org/v28/cmp.js:1:65316\n    at XMLHttpRequest.t.onreadystatechange (https://quantcast.mgr.consensu.org/v28/cmp.js:1:1427)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: o is not a function\n    at Object.vendo…s://quantcast.mgr.consensu.org/v28/cmp.js:1:1427)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "o is not a function"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1582890606976.387,
+    "exceptionDetails": {
+      "exceptionId": 3,
+      "text": "Uncaught (in promise)",
+      "lineNumber": 0,
+      "columnNumber": 0,
+      "scriptId": "1",
+      "url": "https://www.nottinghampost.com/news/local-news/29-nottingham-phrases-you-might-136782",
+      "exception": {
+        "type": "string",
+        "value": "[INFO] Timed out promise for events: prebid.display.ready in 2000ms."
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1582890607833.231,
+    "exceptionDetails": {
+      "exceptionId": 4,
+      "text": "Uncaught (in promise)",
+      "lineNumber": 0,
+      "columnNumber": 0,
+      "scriptId": "1",
+      "url": "https://www.nottinghampost.com/news/local-news/29-nottingham-phrases-you-might-136782",
+      "exception": {
+        "type": "string",
+        "value": "[INFO] Timed out promise for events: grapeshot.loaded,ias.complete in 3000ms."
+      },
+      "executionContextId": 3
+    }
+  }
+]

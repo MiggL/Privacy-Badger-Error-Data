@@ -1,0 +1,84 @@
+[
+  {
+    "timestamp": 1583422387342.977,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 0,
+      "columnNumber": 5795,
+      "url": "https://www.accountingweb.co.uk/sites/default/files/js/js_jAmzPp3NmVPk3ns6U8sHYxaVYa3P-dyerg-pDlrEpeA.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "t.init",
+            "scriptId": "42",
+            "url": "https://www.accountingweb.co.uk/sites/default/files/js/js_jAmzPp3NmVPk3ns6U8sHYxaVYa3P-dyerg-pDlrEpeA.js",
+            "lineNumber": 0,
+            "columnNumber": 5795
+          },
+          {
+            "functionName": "",
+            "scriptId": "42",
+            "url": "https://www.accountingweb.co.uk/sites/default/files/js/js_jAmzPp3NmVPk3ns6U8sHYxaVYa3P-dyerg-pDlrEpeA.js",
+            "lineNumber": 0,
+            "columnNumber": 7506
+          },
+          {
+            "functionName": "l",
+            "scriptId": "28",
+            "url": "https://www.accountingweb.co.uk/sites/default/files/js/js_IkkJQZbx4tkLwxoKktPNfaa4gLn4H2Zkhl7_M8FBSsI.js",
+            "lineNumber": 2,
+            "columnNumber": 16995
+          },
+          {
+            "functionName": "fireWith",
+            "scriptId": "28",
+            "url": "https://www.accountingweb.co.uk/sites/default/files/js/js_IkkJQZbx4tkLwxoKktPNfaa4gLn4H2Zkhl7_M8FBSsI.js",
+            "lineNumber": 2,
+            "columnNumber": 17782
+          },
+          {
+            "functionName": "ready",
+            "scriptId": "28",
+            "url": "https://www.accountingweb.co.uk/sites/default/files/js/js_IkkJQZbx4tkLwxoKktPNfaa4gLn4H2Zkhl7_M8FBSsI.js",
+            "lineNumber": 2,
+            "columnNumber": 12503
+          },
+          {
+            "functionName": "A",
+            "scriptId": "28",
+            "url": "https://www.accountingweb.co.uk/sites/default/files/js/js_IkkJQZbx4tkLwxoKktPNfaa4gLn4H2Zkhl7_M8FBSsI.js",
+            "lineNumber": 2,
+            "columnNumber": 9908
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: addthis is not defined\n    at t.init (https://www.accountingweb.co.uk/sites/default/files/js/js_jAmzPp3NmVPk3ns6U8sHYxaVYa3P-dyerg-pDlrEpeA.js:1:5796)\n    at HTMLDocument.<anonymous> (https://www.accountingweb.co.uk/sites/default/files/js/js_jAmzPp3NmVPk3ns6U8sHYxaVYa3P-dyerg-pDlrEpeA.js:1:7507)\n    at l (https://www.accountingweb.co.uk/sites/default/files/js/js_IkkJQZbx4tkLwxoKktPNfaa4gLn4H2Zkhl7_M8FBSsI.js:3:16996)\n    at Object.fireWith [as resolveWith] (https://www.accountingweb.co.uk/sites/default/files/js/js_IkkJQZbx4tkLwxoKktPNfaa4gLn4H2Zkhl7_M8FBSsI.js:3:17783)\n    at Function.ready (https://www.accountingweb.co.uk/sites/default/files/js/js_IkkJQZbx4tkLwxoKktPNfaa4gLn4H2Zkhl7_M8FBSsI.js:3:12504)\n    at HTMLDocument.A (https://www.accountingweb.co.uk/sites/default/files/js/js_IkkJQZbx4tkLwxoKktPNfaa4gLn4H2Zkhl7_M8FBSsI.js:3:9909)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: addthis is not defined\n    at t.init (https://www.accountingweb.co.uk/sites/default/files/js/js_jAmzPp3NmVPk3ns6U8sHYxaVYa3P-dyerg-pDlrEpeA.js:1:5796)\n    at HTMLDocument.<anonymous> (https://www.accountingweb.co.uk/sites/default/files/js/js_jAmzPp3NmVPk3ns6U8sHYxaVYa3P-dyerg-pDlrEpeA.js:1:7507)\n    at l (https://www.accountingweb.co.uk/sites/default/files/js/js_IkkJQZbx4tkLwxoKktPNfaa4gLn4H2Zkhl7_M8FBSsI.js:3:16996)\n    at Object.fireWith [as resolveWith] (https://www.accountingweb.co.uk/sites/default/files/js/js_IkkJQZbx4tkLwxoKktPNfaa4gLn4H2Zkhl7_M8FBSsI.js:3:17783)\n    at Function.ready (https://www.accountingweb.co.uk/sites/default/files/js/js_IkkJQZbx4tkLwxoKktPNfaa4gLn4H2Zkhl7_M8FBSsI.js:3:12504)\n    at HTMLDocument.A (https://www.accountingweb.co.uk/sites/default/files/js/js_IkkJQZbx4tkLwxoKktPNfaa4gLn4H2Zkhl7_M8FBSsI.js:3:9909)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: addthis is not defined\n    at t.in…Zbx4tkLwxoKktPNfaa4gLn4H2Zkhl7_M8FBSsI.js:3:9909)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "addthis is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

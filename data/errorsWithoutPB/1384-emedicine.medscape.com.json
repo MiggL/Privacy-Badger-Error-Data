@@ -1,0 +1,91 @@
+[
+  {
+    "timestamp": 1583000604295.2449,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 0,
+      "columnNumber": 18040,
+      "url": "https://img.medscapestatic.com/medscape-core/common/js/global/medscape-script/all-scripts-no-defer.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "each",
+            "scriptId": "15",
+            "url": "https://img.medscapestatic.com/medscape-core/common/js/global/medscape-script/all-scripts-no-defer.js",
+            "lineNumber": 0,
+            "columnNumber": 18040
+          },
+          {
+            "functionName": "_processAudsIntoAds2PageTargets",
+            "scriptId": "28",
+            "url": "https://img.medscapestatic.com/medscape-core/ads/js/dfp/profads2.js",
+            "lineNumber": 2,
+            "columnNumber": 17566
+          },
+          {
+            "functionName": "",
+            "scriptId": "28",
+            "url": "https://img.medscapestatic.com/medscape-core/ads/js/dfp/profads2.js",
+            "lineNumber": 2,
+            "columnNumber": 16706
+          },
+          {
+            "functionName": "c",
+            "scriptId": "15",
+            "url": "https://img.medscapestatic.com/medscape-core/common/js/global/medscape-script/all-scripts-no-defer.js",
+            "lineNumber": 1,
+            "columnNumber": 9863
+          },
+          {
+            "functionName": "fireWith",
+            "scriptId": "15",
+            "url": "https://img.medscapestatic.com/medscape-core/common/js/global/medscape-script/all-scripts-no-defer.js",
+            "lineNumber": 1,
+            "columnNumber": 10675
+          },
+          {
+            "functionName": "n",
+            "scriptId": "15",
+            "url": "https://img.medscapestatic.com/medscape-core/common/js/global/medscape-script/all-scripts-no-defer.js",
+            "lineNumber": 2,
+            "columnNumber": 24616
+          },
+          {
+            "functionName": "t.onload.t.onreadystatechange",
+            "scriptId": "15",
+            "url": "https://img.medscapestatic.com/medscape-core/common/js/global/medscape-script/all-scripts-no-defer.js",
+            "lineNumber": 2,
+            "columnNumber": 31734
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'length' of undefined\n    at Function.each (https://img.medscapestatic.com/medscape-core/common/js/global/medscape-script/all-scripts-no-defer.js:1:18041)\n    at Object._processAudsIntoAds2PageTargets (https://img.medscapestatic.com/medscape-core/ads/js/dfp/profads2.js:3:17567)\n    at Object.success (https://img.medscapestatic.com/medscape-core/ads/js/dfp/profads2.js:3:16707)\n    at c (https://img.medscapestatic.com/medscape-core/common/js/global/medscape-script/all-scripts-no-defer.js:2:9864)\n    at Object.fireWith [as resolveWith] (https://img.medscapestatic.com/medscape-core/common/js/global/medscape-script/all-scripts-no-defer.js:2:10676)\n    at n (https://img.medscapestatic.com/medscape-core/common/js/global/medscape-script/all-scripts-no-defer.js:3:24617)\n    at HTMLScriptElement.t.onload.t.onreadystatechange (https://img.medscapestatic.com/medscape-core/common/js/global/medscape-script/all-scripts-no-defer.js:3:31735)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":2}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'length' of undefined\n    at Function.each (https://img.medscapestatic.com/medscape-core/common/js/global/medscape-script/all-scripts-no-defer.js:1:18041)\n    at Object._processAudsIntoAds2PageTargets (https://img.medscapestatic.com/medscape-core/ads/js/dfp/profads2.js:3:17567)\n    at Object.success (https://img.medscapestatic.com/medscape-core/ads/js/dfp/profads2.js:3:16707)\n    at c (https://img.medscapestatic.com/medscape-core/common/js/global/medscape-script/all-scripts-no-defer.js:2:9864)\n    at Object.fireWith [as resolveWith] (https://img.medscapestatic.com/medscape-core/common/js/global/medscape-script/all-scripts-no-defer.js:2:10676)\n    at n (https://img.medscapestatic.com/medscape-core/common/js/global/medscape-script/all-scripts-no-defer.js:3:24617)\n    at HTMLScriptElement.t.onload.t.onreadystatechange (https://img.medscapestatic.com/medscape-core/common/js/global/medscape-script/all-scripts-no-defer.js:3:31735)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'length' of undefi…/medscape-script/all-scripts-no-defer.js:3:31735)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'length' of undefined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

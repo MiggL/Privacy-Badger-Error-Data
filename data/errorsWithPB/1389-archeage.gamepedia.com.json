@@ -1,0 +1,138 @@
+[
+  {
+    "timestamp": 1583419529394.0588,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 0,
+      "columnNumber": 660,
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "37",
+            "url": "",
+            "lineNumber": 0,
+            "columnNumber": 660
+          },
+          {
+            "functionName": "domEval",
+            "scriptId": "23",
+            "url": "https://archeage.gamepedia.com/load.php?lang=en&modules=startup&only=scripts&skin=hydra",
+            "lineNumber": 11,
+            "columnNumber": 108
+          },
+          {
+            "functionName": "runScript",
+            "scriptId": "23",
+            "url": "https://archeage.gamepedia.com/load.php?lang=en&modules=startup&only=scripts&skin=hydra",
+            "lineNumber": 13,
+            "columnNumber": 129
+          },
+          {
+            "functionName": "execute",
+            "scriptId": "23",
+            "url": "https://archeage.gamepedia.com/load.php?lang=en&modules=startup&only=scripts&skin=hydra",
+            "lineNumber": 14,
+            "columnNumber": 351
+          },
+          {
+            "functionName": "doPropagation",
+            "scriptId": "23",
+            "url": "https://archeage.gamepedia.com/load.php?lang=en&modules=startup&only=scripts&skin=hydra",
+            "lineNumber": 6,
+            "columnNumber": 823
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: $(...).mounsemove is not a function\n    at <anonymous>:1:661\n    at domEval (https://archeage.gamepedia.com/load.php?lang=en&modules=startup&only=scripts&skin=hydra:12:109)\n    at runScript (https://archeage.gamepedia.com/load.php?lang=en&modules=startup&only=scripts&skin=hydra:14:130)\n    at execute (https://archeage.gamepedia.com/load.php?lang=en&modules=startup&only=scripts&skin=hydra:15:352)\n    at doPropagation (https://archeage.gamepedia.com/load.php?lang=en&modules=startup&only=scripts&skin=hydra:7:824)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: $(...).mounsemove is not a function\n    at <anonymous>:1:661\n    at domEval (https://archeage.gamepedia.com/load.php?lang=en&modules=startup&only=scripts&skin=hydra:12:109)\n    at runScript (https://archeage.gamepedia.com/load.php?lang=en&modules=startup&only=scripts&skin=hydra:14:130)\n    at execute (https://archeage.gamepedia.com/load.php?lang=en&modules=startup&only=scripts&skin=hydra:15:352)\n    at doPropagation (https://archeage.gamepedia.com/load.php?lang=en&modules=startup&only=scripts&skin=hydra:7:824)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: $(...).mounsemove is not a function\n   …en&modules=startup&only=scripts&skin=hydra:7:824)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "$(...).mounsemove is not a function"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583419529790.169,
+    "exceptionDetails": {
+      "exceptionId": 2,
+      "text": "Uncaught (in promise)",
+      "lineNumber": 29,
+      "columnNumber": 69814,
+      "url": "https://origin-images.wikia.com/fandom-ae-assets/platforms/v57.0.1/gamepedia/main.bundle.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "s",
+            "scriptId": "30",
+            "url": "https://origin-images.wikia.com/fandom-ae-assets/platforms/v57.0.1/gamepedia/main.bundle.js",
+            "lineNumber": 29,
+            "columnNumber": 69814
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "className": "Event",
+        "description": "Event",
+        "objectId": "{\"injectedScriptId\":3,\"id\":2}",
+        "preview": {
+          "type": "object",
+          "description": "Event",
+          "overflow": true,
+          "properties": [
+            {
+              "name": "isTrusted",
+              "type": "boolean",
+              "value": "true"
+            },
+            {
+              "name": "type",
+              "type": "string",
+              "value": "error"
+            },
+            {
+              "name": "target",
+              "type": "object",
+              "value": "script",
+              "subtype": "node"
+            },
+            {
+              "name": "currentTarget",
+              "type": "object",
+              "value": "null",
+              "subtype": "null"
+            },
+            {
+              "name": "eventPhase",
+              "type": "number",
+              "value": "0"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

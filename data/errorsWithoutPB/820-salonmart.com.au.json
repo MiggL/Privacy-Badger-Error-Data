@@ -1,0 +1,49 @@
+[
+  {
+    "timestamp": 1583005885773.8591,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 439,
+      "columnNumber": 23,
+      "url": "http://salonmart.com.au/index.php/catalog/product/view/id/1177/category/72/",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "60",
+            "url": "http://salonmart.com.au/index.php/catalog/product/view/id/1177/category/72/",
+            "lineNumber": 439,
+            "columnNumber": 23
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Product.OptionsPrice is not a constructor\n    at http://salonmart.com.au/index.php/catalog/product/view/id/1177/category/72/:440:24",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Product.OptionsPrice is not a constructor\n    at http://salonmart.com.au/index.php/catalog/product/view/id/1177/category/72/:440:24",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Product.OptionsPrice is not a construct…/catalog/product/view/id/1177/category/72/:440:24"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Product.OptionsPrice is not a constructor"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

@@ -1,0 +1,49 @@
+[
+  {
+    "timestamp": 1583005128196.1921,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 736,
+      "columnNumber": 23,
+      "url": "http://www.hotdocs.ca/i/jots/the-co-production-dilemma-producers-tips-and-tricks",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "42",
+            "url": "http://www.hotdocs.ca/i/jots/the-co-production-dilemma-producers-tips-and-tricks",
+            "lineNumber": 736,
+            "columnNumber": 23
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'addEventListener' of null\n    at http://www.hotdocs.ca/i/jots/the-co-production-dilemma-producers-tips-and-tricks:737:24",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'addEventListener' of null\n    at http://www.hotdocs.ca/i/jots/the-co-production-dilemma-producers-tips-and-tricks:737:24",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'addEventListener'…oduction-dilemma-producers-tips-and-tricks:737:24"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'addEventListener' of null"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

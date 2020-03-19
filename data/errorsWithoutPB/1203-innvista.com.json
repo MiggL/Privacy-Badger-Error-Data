@@ -1,0 +1,139 @@
+[
+  {
+    "timestamp": 1583002289974.165,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 558,
+      "columnNumber": 179,
+      "url": "http://innvista.com/health/foods/vegetables/chicory-and-endive/",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "39",
+            "url": "http://innvista.com/health/foods/vegetables/chicory-and-endive/",
+            "lineNumber": 558,
+            "columnNumber": 179
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'initialize' of undefined\n    at http://innvista.com/health/foods/vegetables/chicory-and-endive/:559:180",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'initialize' of undefined\n    at http://innvista.com/health/foods/vegetables/chicory-and-endive/:559:180",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'initialize' of un…alth/foods/vegetables/chicory-and-endive/:559:180"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'initialize' of undefined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583002290646.559,
+    "exceptionDetails": {
+      "exceptionId": 2,
+      "text": "Uncaught",
+      "lineNumber": 1,
+      "columnNumber": 31117,
+      "scriptId": "14",
+      "url": "http://innvista.com/wp-content/plugins/jquery-updater/js/jquery-3.4.1.min.js?ver=3.4.1",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "69",
+            "url": "http://innvista.com/wp-content/themes/modernize/javascript/superfish.js?ver=1.0",
+            "lineNumber": 63,
+            "columnNumber": 41
+          },
+          {
+            "functionName": "each",
+            "scriptId": "14",
+            "url": "http://innvista.com/wp-content/plugins/jquery-updater/js/jquery-3.4.1.min.js?ver=3.4.1",
+            "lineNumber": 1,
+            "columnNumber": 2776
+          },
+          {
+            "functionName": "each",
+            "scriptId": "14",
+            "url": "http://innvista.com/wp-content/plugins/jquery-updater/js/jquery-3.4.1.min.js?ver=3.4.1",
+            "lineNumber": 1,
+            "columnNumber": 1418
+          },
+          {
+            "functionName": "$.fn.superfish",
+            "scriptId": "69",
+            "url": "http://innvista.com/wp-content/themes/modernize/javascript/superfish.js?ver=1.0",
+            "lineNumber": 61,
+            "columnNumber": 5
+          },
+          {
+            "functionName": "",
+            "scriptId": "72",
+            "url": "http://innvista.com/wp-content/themes/modernize/javascript/gdl-scripts.js?ver=1.0",
+            "lineNumber": 7,
+            "columnNumber": 4
+          },
+          {
+            "functionName": "e",
+            "scriptId": "14",
+            "url": "http://innvista.com/wp-content/plugins/jquery-updater/js/jquery-3.4.1.min.js?ver=3.4.1",
+            "lineNumber": 1,
+            "columnNumber": 29452
+          },
+          {
+            "functionName": "t",
+            "scriptId": "14",
+            "url": "http://innvista.com/wp-content/plugins/jquery-updater/js/jquery-3.4.1.min.js?ver=3.4.1",
+            "lineNumber": 1,
+            "columnNumber": 29754
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'msie' of undefined\n    at HTMLUListElement.<anonymous> (http://innvista.com/wp-content/themes/modernize/javascript/superfish.js?ver=1.0:64:42)\n    at Function.each (http://innvista.com/wp-content/plugins/jquery-updater/js/jquery-3.4.1.min.js?ver=3.4.1:2:2777)\n    at a.fn.init.each (http://innvista.com/wp-content/plugins/jquery-updater/js/jquery-3.4.1.min.js?ver=3.4.1:2:1419)\n    at a.fn.init.$.fn.superfish (http://innvista.com/wp-content/themes/modernize/javascript/superfish.js?ver=1.0:62:6)\n    at HTMLDocument.<anonymous> (http://innvista.com/wp-content/themes/modernize/javascript/gdl-scripts.js?ver=1.0:8:5)\n    at e (http://innvista.com/wp-content/plugins/jquery-updater/js/jquery-3.4.1.min.js?ver=3.4.1:2:29453)\n    at t (http://innvista.com/wp-content/plugins/jquery-updater/js/jquery-3.4.1.min.js?ver=3.4.1:2:29755)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":2}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'msie' of undefined\n    at HTMLUListElement.<anonymous> (http://innvista.com/wp-content/themes/modernize/javascript/superfish.js?ver=1.0:64:42)\n    at Function.each (http://innvista.com/wp-content/plugins/jquery-updater/js/jquery-3.4.1.min.js?ver=3.4.1:2:2777)\n    at a.fn.init.each (http://innvista.com/wp-content/plugins/jquery-updater/js/jquery-3.4.1.min.js?ver=3.4.1:2:1419)\n    at a.fn.init.$.fn.superfish (http://innvista.com/wp-content/themes/modernize/javascript/superfish.js?ver=1.0:62:6)\n    at HTMLDocument.<anonymous> (http://innvista.com/wp-content/themes/modernize/javascript/gdl-scripts.js?ver=1.0:8:5)\n    at e (http://innvista.com/wp-content/plugins/jquery-updater/js/jquery-3.4.1.min.js?ver=3.4.1:2:29453)\n    at t (http://innvista.com/wp-content/plugins/jquery-updater/js/jquery-3.4.1.min.js?ver=3.4.1:2:29755)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'msie' of undefine…updater/js/jquery-3.4.1.min.js?ver=3.4.1:2:29755)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'msie' of undefined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

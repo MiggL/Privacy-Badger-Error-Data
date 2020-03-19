@@ -1,0 +1,185 @@
+[
+  {
+    "timestamp": 1583010764002.268,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 215,
+      "columnNumber": 49,
+      "url": "https://foreignpolicy.com/2010/09/28/why-is-pakistan-stalling-on-disarmament/",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "27",
+            "url": "https://foreignpolicy.com/2010/09/28/why-is-pakistan-stalling-on-disarmament/",
+            "lineNumber": 215,
+            "columnNumber": 49
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: googletag.pubads is not a function\n    at https://foreignpolicy.com/2010/09/28/why-is-pakistan-stalling-on-disarmament/:216:50",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: googletag.pubads is not a function\n    at https://foreignpolicy.com/2010/09/28/why-is-pakistan-stalling-on-disarmament/:216:50",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: googletag.pubads is not a function\n    …8/why-is-pakistan-stalling-on-disarmament/:216:50"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "googletag.pubads is not a function"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583010764002.7659,
+    "exceptionDetails": {
+      "exceptionId": 2,
+      "text": "Uncaught",
+      "lineNumber": 215,
+      "columnNumber": 168,
+      "url": "https://foreignpolicy.com/2010/09/28/why-is-pakistan-stalling-on-disarmament/",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "28",
+            "url": "https://foreignpolicy.com/2010/09/28/why-is-pakistan-stalling-on-disarmament/",
+            "lineNumber": 215,
+            "columnNumber": 168
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: googletag.pubads is not a function\n    at https://foreignpolicy.com/2010/09/28/why-is-pakistan-stalling-on-disarmament/:216:169",
+        "objectId": "{\"injectedScriptId\":3,\"id\":2}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: googletag.pubads is not a function\n    at https://foreignpolicy.com/2010/09/28/why-is-pakistan-stalling-on-disarmament/:216:169",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: googletag.pubads is not a function\n    …/why-is-pakistan-stalling-on-disarmament/:216:169"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "googletag.pubads is not a function"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583010764003.118,
+    "exceptionDetails": {
+      "exceptionId": 3,
+      "text": "Uncaught",
+      "lineNumber": 215,
+      "columnNumber": 259,
+      "url": "https://foreignpolicy.com/2010/09/28/why-is-pakistan-stalling-on-disarmament/",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "29",
+            "url": "https://foreignpolicy.com/2010/09/28/why-is-pakistan-stalling-on-disarmament/",
+            "lineNumber": 215,
+            "columnNumber": 259
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: googletag.pubads is not a function\n    at https://foreignpolicy.com/2010/09/28/why-is-pakistan-stalling-on-disarmament/:216:260",
+        "objectId": "{\"injectedScriptId\":3,\"id\":3}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: googletag.pubads is not a function\n    at https://foreignpolicy.com/2010/09/28/why-is-pakistan-stalling-on-disarmament/:216:260",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: googletag.pubads is not a function\n    …/why-is-pakistan-stalling-on-disarmament/:216:260"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "googletag.pubads is not a function"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583010765321.079,
+    "exceptionDetails": {
+      "exceptionId": 4,
+      "text": "Uncaught (in promise)",
+      "lineNumber": 0,
+      "columnNumber": 0,
+      "scriptId": "1",
+      "url": "https://c5x8i7c7.ssl.hwcdn.net/vplayer-parallel/20180830_1458/videojs/show.html?controls=1&loop=30&autoplay=0&tracker=fc264bf2-73f9-4138-8a21-db09244706b5&height=362&width=643&vurl=%2F%2Fc5x8i7c7.ssl.hwcdn.net%2Fvideos%2Fdgv%2F20200229051529_5e59efec0888b%2Fdgv_foreignpolicy_20200229051529_new.mp4&poster=%2F%2Fc5x8i7c7.ssl.hwcdn.net%2Fvideos%2Fdgv%2F20200229051529_5e59efec0888b%2Fdgv_foreignpolicy_20200229051529_new.jpg",
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "DOMException",
+        "description": "DOMException: Failed to load because no supported source was found.",
+        "objectId": "{\"injectedScriptId\":13,\"id\":2}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "DOMException: Failed to load because no supported source was found.",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "code",
+              "type": "number",
+              "value": "9"
+            },
+            {
+              "name": "name",
+              "type": "string",
+              "value": "NotSupportedError"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Failed to load because no supported source was found."
+            }
+          ]
+        }
+      },
+      "executionContextId": 13
+    }
+  }
+]

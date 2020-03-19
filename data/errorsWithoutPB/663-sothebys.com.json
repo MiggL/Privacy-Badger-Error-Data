@@ -1,0 +1,134 @@
+[
+  {
+    "timestamp": 1583007321648.707,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 1393,
+      "columnNumber": 53,
+      "scriptId": "40",
+      "url": "http://www.sothebys.com/fr/auctions/ecatalogue/lot.2289.html/2012/important-watches-hk0389",
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "SyntaxError",
+        "description": "SyntaxError: Unexpected identifier",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "SyntaxError: Unexpected identifier",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "SyntaxError: Unexpected identifier"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Unexpected identifier"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583007322411.335,
+    "exceptionDetails": {
+      "exceptionId": 2,
+      "text": "Uncaught",
+      "lineNumber": 0,
+      "columnNumber": 289,
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "eval",
+            "scriptId": "88",
+            "url": "",
+            "lineNumber": 0,
+            "columnNumber": 289
+          },
+          {
+            "functionName": "s_doPlugins",
+            "scriptId": "66",
+            "url": "http://assets.adobedtm.com/4f08e2c6d924c4696a42d0da28e38ac6c1c4389b/s-code-contents-554866f0e8b765c120c442575f40c4b1508092b8.js",
+            "lineNumber": 85,
+            "columnNumber": 30
+          },
+          {
+            "functionName": "AppMeasurement.a.t.a.track",
+            "scriptId": "66",
+            "url": "http://assets.adobedtm.com/4f08e2c6d924c4696a42d0da28e38ac6c1c4389b/s-code-contents-554866f0e8b765c120c442575f40c4b1508092b8.js",
+            "lineNumber": 700,
+            "columnNumber": 471
+          },
+          {
+            "functionName": "sendBeacon",
+            "scriptId": "12",
+            "url": "http://assets.adobedtm.com/4f08e2c6d924c4696a42d0da28e38ac6c1c4389b/satelliteLib-3c8fdebd3d9b7bb3ed1245e5be4f274d6612129b.js",
+            "lineNumber": 10,
+            "columnNumber": 25855
+          },
+          {
+            "functionName": "onSCodeLoaded",
+            "scriptId": "12",
+            "url": "http://assets.adobedtm.com/4f08e2c6d924c4696a42d0da28e38ac6c1c4389b/satelliteLib-3c8fdebd3d9b7bb3ed1245e5be4f274d6612129b.js",
+            "lineNumber": 10,
+            "columnNumber": 24915
+          },
+          {
+            "functionName": "",
+            "scriptId": "12",
+            "url": "http://assets.adobedtm.com/4f08e2c6d924c4696a42d0da28e38ac6c1c4389b/satelliteLib-3c8fdebd3d9b7bb3ed1245e5be4f274d6612129b.js",
+            "lineNumber": 9,
+            "columnNumber": 4822
+          },
+          {
+            "functionName": "i",
+            "scriptId": "12",
+            "url": "http://assets.adobedtm.com/4f08e2c6d924c4696a42d0da28e38ac6c1c4389b/satelliteLib-3c8fdebd3d9b7bb3ed1245e5be4f274d6612129b.js",
+            "lineNumber": 9,
+            "columnNumber": 5706
+          },
+          {
+            "functionName": "e.onload",
+            "scriptId": "12",
+            "url": "http://assets.adobedtm.com/4f08e2c6d924c4696a42d0da28e38ac6c1c4389b/satelliteLib-3c8fdebd3d9b7bb3ed1245e5be4f274d6612129b.js",
+            "lineNumber": 9,
+            "columnNumber": 5745
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'split' of undefined\n    at AppMeasurement.eval [as getTimeParting] (eval at <anonymous> (http://assets.adobedtm.com/4f08e2c6d924c4696a42d0da28e38ac6c1c4389b/s-code-contents-554866f0e8b765c120c442575f40c4b1508092b8.js:467:22), <anonymous>:1:290)\n    at AppMeasurement.s_doPlugins [as doPlugins] (http://assets.adobedtm.com/4f08e2c6d924c4696a42d0da28e38ac6c1c4389b/s-code-contents-554866f0e8b765c120c442575f40c4b1508092b8.js:86:31)\n    at AppMeasurement.a.t.a.track (http://assets.adobedtm.com/4f08e2c6d924c4696a42d0da28e38ac6c1c4389b/s-code-contents-554866f0e8b765c120c442575f40c4b1508092b8.js:701:472)\n    at y.sendBeacon (http://assets.adobedtm.com/4f08e2c6d924c4696a42d0da28e38ac6c1c4389b/satelliteLib-3c8fdebd3d9b7bb3ed1245e5be4f274d6612129b.js:11:25856)\n    at y.onSCodeLoaded (http://assets.adobedtm.com/4f08e2c6d924c4696a42d0da28e38ac6c1c4389b/satelliteLib-3c8fdebd3d9b7bb3ed1245e5be4f274d6612129b.js:11:24916)\n    at http://assets.adobedtm.com/4f08e2c6d924c4696a42d0da28e38ac6c1c4389b/satelliteLib-3c8fdebd3d9b7bb3ed1245e5be4f274d6612129b.js:10:4823\n    at i (http://assets.adobedtm.com/4f08e2c6d924c4696a42d0da28e38ac6c1c4389b/satelliteLib-3c8fdebd3d9b7bb3ed1245e5be4f274d6612129b.js:10:5707)\n    at HTMLScriptElement.e.onload (http://assets.adobedtm.com/4f08e2c6d924c4696a42d0da28e38ac6c1c4389b/satelliteLib-3c8fdebd3d9b7bb3ed1245e5be4f274d6612129b.js:10:5746)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":2}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'split' of undefined\n    at AppMeasurement.eval [as getTimeParting] (eval at <anonymous> (http://assets.adobedtm.com/4f08e2c6d924c4696a42d0da28e38ac6c1c4389b/s-code-contents-554866f0e8b765c120c442575f40c4b1508092b8.js:467:22), <anonymous>:1:290)\n    at AppMeasurement.s_doPlugins [as doPlugins] (http://assets.adobedtm.com/4f08e2c6d924c4696a42d0da28e38ac6c1c4389b/s-code-contents-554866f0e8b765c120c442575f40c4b1508092b8.js:86:31)\n    at AppMeasurement.a.t.a.track (http://assets.adobedtm.com/4f08e2c6d924c4696a42d0da28e38ac6c1c4389b/s-code-contents-554866f0e8b765c120c442575f40c4b1508092b8.js:701:472)\n    at y.sendBeacon (http://assets.adobedtm.com/4f08e2c6d924c4696a42d0da28e38ac6c1c4389b/satelliteLib-3c8fdebd3d9b7bb3ed1245e5be4f274d6612129b.js:11:25856)\n    at y.onSCodeLoaded (http://assets.adobedtm.com/4f08e2c6d924c4696a42d0da28e38ac6c1c4389b/satelliteLib-3c8fdebd3d9b7bb3ed1245e5be4f274d6612129b.js:11:24916)\n    at http://assets.adobedtm.com/4f08e2c6d924c4696a42d0da28e38ac6c1c4389b/satelliteLib-3c8fdebd3d9b7bb3ed1245e5be4f274d6612129b.js:10:4823\n    at i (http://assets.adobedtm.com/4f08e2c6d924c4696a42d0da28e38ac6c1c4389b/satelliteLib-3c8fdebd3d9b7bb3ed1245e5be4f274d6612129b.js:10:5707)\n    at HTMLScriptElement.e.onload (http://assets.adobedtm.com/4f08e2c6d924c4696a42d0da28e38ac6c1c4389b/satelliteLib-3c8fdebd3d9b7bb3ed1245e5be4f274d6612129b.js:10:5746)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'split' of undefin…fdebd3d9b7bb3ed1245e5be4f274d6612129b.js:10:5746)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'split' of undefined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

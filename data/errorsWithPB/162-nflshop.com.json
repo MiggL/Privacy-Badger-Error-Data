@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": 1583757881356.136,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught (in promise)",
+      "lineNumber": 0,
+      "columnNumber": 0,
+      "scriptId": "1",
+      "url": "https://www.nflshop.com/new-orleans-saints/sleepwear-and-underwear/t-14150320+d-0104116822+z-97-3361880250",
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Failed to fetch",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Failed to fetch",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Failed to fetch"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Failed to fetch"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

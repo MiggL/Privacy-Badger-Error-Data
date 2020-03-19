@@ -1,0 +1,86 @@
+[
+  {
+    "timestamp": 1583420519660.933,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 0,
+      "columnNumber": 0,
+      "scriptId": "111",
+      "url": "https://mashable.com/2017/04/26/driver-tries-to-cut-line/?europe=true",
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "SyntaxError",
+        "description": "SyntaxError: Unexpected token ','",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "SyntaxError: Unexpected token ','",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "SyntaxError: Unexpected token ','"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Unexpected token ','"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583420522517.8198,
+    "exceptionDetails": {
+      "exceptionId": 2,
+      "text": "Uncaught (in promise)",
+      "lineNumber": 35,
+      "columnNumber": 21482,
+      "url": "https://a.amz.mshcdn.com/assets/app-ec3bbc1ce94297d6f26135c94abbe456c6343a1a23742c15eaa830a6a52903bf.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "23",
+            "url": "https://a.amz.mshcdn.com/assets/app-ec3bbc1ce94297d6f26135c94abbe456c6343a1a23742c15eaa830a6a52903bf.js",
+            "lineNumber": 35,
+            "columnNumber": 21482
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'appendChild' of null\n    at https://a.amz.mshcdn.com/assets/app-ec3bbc1ce94297d6f26135c94abbe456c6343a1a23742c15eaa830a6a52903bf.js:36:21483",
+        "objectId": "{\"injectedScriptId\":3,\"id\":2}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'appendChild' of null\n    at https://a.amz.mshcdn.com/assets/app-ec3bbc1ce94297d6f26135c94abbe456c6343a1a23742c15eaa830a6a52903bf.js:36:21483",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'appendChild' of n…be456c6343a1a23742c15eaa830a6a52903bf.js:36:21483"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'appendChild' of null"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

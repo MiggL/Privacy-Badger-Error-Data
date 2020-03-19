@@ -1,0 +1,48 @@
+[
+  {
+    "timestamp": 1582814646434.3418,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught (in promise)",
+      "lineNumber": 0,
+      "columnNumber": 332,
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "94",
+            "url": "",
+            "lineNumber": 0,
+            "columnNumber": 332
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: eStatWhap is not defined\n    at <anonymous>:1:333",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: eStatWhap is not defined\n    at <anonymous>:1:333",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: eStatWhap is not defined\n    at <anonymous>:1:333"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "eStatWhap is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

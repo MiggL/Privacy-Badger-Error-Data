@@ -1,0 +1,86 @@
+[
+  {
+    "timestamp": 1583422166672.579,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 30,
+      "columnNumber": 2,
+      "scriptId": "47",
+      "url": "https://www.chicagoreader.com/",
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "SyntaxError",
+        "description": "SyntaxError: Unexpected token '<'",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "SyntaxError: Unexpected token '<'",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "SyntaxError: Unexpected token '<'"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Unexpected token '<'"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583422168149.1448,
+    "exceptionDetails": {
+      "exceptionId": 2,
+      "text": "Uncaught",
+      "lineNumber": 4537,
+      "columnNumber": 12,
+      "url": "https://www.chicagoreader.com/chicago/black-humor/Content?oid=922580",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "94",
+            "url": "https://www.chicagoreader.com/chicago/black-humor/Content?oid=922580",
+            "lineNumber": 4537,
+            "columnNumber": 12
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: ttd_dom_ready is not defined\n    at https://www.chicagoreader.com/chicago/black-humor/Content?oid=922580:4538:13",
+        "objectId": "{\"injectedScriptId\":3,\"id\":2}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: ttd_dom_ready is not defined\n    at https://www.chicagoreader.com/chicago/black-humor/Content?oid=922580:4538:13",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: ttd_dom_ready is not defined\n    a…om/chicago/black-humor/Content?oid=922580:4538:13"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "ttd_dom_ready is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

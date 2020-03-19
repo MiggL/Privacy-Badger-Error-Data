@@ -1,0 +1,173 @@
+[
+  {
+    "timestamp": 1582819271294.907,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 538,
+      "columnNumber": 31,
+      "url": "https://www.celticjewelry.com/spiral-eclipse-pendant.html",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "62",
+            "url": "https://www.celticjewelry.com/spiral-eclipse-pendant.html",
+            "lineNumber": 538,
+            "columnNumber": 31
+          },
+          {
+            "functionName": "j",
+            "scriptId": "34",
+            "url": "https://www.celticjewelry.com/skin/frontend/mgstheme/default/js/jquery.min.js",
+            "lineNumber": 1,
+            "columnNumber": 27135
+          },
+          {
+            "functionName": "fireWith",
+            "scriptId": "34",
+            "url": "https://www.celticjewelry.com/skin/frontend/mgstheme/default/js/jquery.min.js",
+            "lineNumber": 1,
+            "columnNumber": 27948
+          },
+          {
+            "functionName": "ready",
+            "scriptId": "34",
+            "url": "https://www.celticjewelry.com/skin/frontend/mgstheme/default/js/jquery.min.js",
+            "lineNumber": 1,
+            "columnNumber": 29782
+          },
+          {
+            "functionName": "K",
+            "scriptId": "34",
+            "url": "https://www.celticjewelry.com/skin/frontend/mgstheme/default/js/jquery.min.js",
+            "lineNumber": 1,
+            "columnNumber": 30127
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: jQuery(...).show(...).revolution is not a function\n    at HTMLDocument.<anonymous> (https://www.celticjewelry.com/spiral-eclipse-pendant.html:539:32)\n    at j (https://www.celticjewelry.com/skin/frontend/mgstheme/default/js/jquery.min.js:2:27136)\n    at Object.fireWith [as resolveWith] (https://www.celticjewelry.com/skin/frontend/mgstheme/default/js/jquery.min.js:2:27949)\n    at Function.ready (https://www.celticjewelry.com/skin/frontend/mgstheme/default/js/jquery.min.js:2:29783)\n    at HTMLDocument.K (https://www.celticjewelry.com/skin/frontend/mgstheme/default/js/jquery.min.js:2:30128)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: jQuery(...).show(...).revolution is not a function\n    at HTMLDocument.<anonymous> (https://www.celticjewelry.com/spiral-eclipse-pendant.html:539:32)\n    at j (https://www.celticjewelry.com/skin/frontend/mgstheme/default/js/jquery.min.js:2:27136)\n    at Object.fireWith [as resolveWith] (https://www.celticjewelry.com/skin/frontend/mgstheme/default/js/jquery.min.js:2:27949)\n    at Function.ready (https://www.celticjewelry.com/skin/frontend/mgstheme/default/js/jquery.min.js:2:29783)\n    at HTMLDocument.K (https://www.celticjewelry.com/skin/frontend/mgstheme/default/js/jquery.min.js:2:30128)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: jQuery(...).show(...).revolution is not…ontend/mgstheme/default/js/jquery.min.js:2:30128)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "jQuery(...).show(...).revolution is not a function"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1582819271316.191,
+    "exceptionDetails": {
+      "exceptionId": 2,
+      "text": "Uncaught",
+      "lineNumber": 516,
+      "columnNumber": 26,
+      "url": "https://www.gstatic.com/recaptcha/releases/61bII03-TtCmSUR7dw9MJF9q/recaptcha__en.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "ds",
+            "scriptId": "88",
+            "url": "https://www.gstatic.com/recaptcha/releases/61bII03-TtCmSUR7dw9MJF9q/recaptcha__en.js",
+            "lineNumber": 516,
+            "columnNumber": 26
+          },
+          {
+            "functionName": "onloadCallback",
+            "scriptId": "77",
+            "url": "https://www.celticjewelry.com/spiral-eclipse-pendant.html",
+            "lineNumber": 1589,
+            "columnNumber": 23
+          },
+          {
+            "functionName": "Gx",
+            "scriptId": "88",
+            "url": "https://www.gstatic.com/recaptcha/releases/61bII03-TtCmSUR7dw9MJF9q/recaptcha__en.js",
+            "lineNumber": 509,
+            "columnNumber": 294
+          },
+          {
+            "functionName": "",
+            "scriptId": "88",
+            "url": "https://www.gstatic.com/recaptcha/releases/61bII03-TtCmSUR7dw9MJF9q/recaptcha__en.js",
+            "lineNumber": 505,
+            "columnNumber": 248
+          },
+          {
+            "functionName": "rA",
+            "scriptId": "88",
+            "url": "https://www.gstatic.com/recaptcha/releases/61bII03-TtCmSUR7dw9MJF9q/recaptcha__en.js",
+            "lineNumber": 300,
+            "columnNumber": 78
+          },
+          {
+            "functionName": "Xo",
+            "scriptId": "88",
+            "url": "https://www.gstatic.com/recaptcha/releases/61bII03-TtCmSUR7dw9MJF9q/recaptcha__en.js",
+            "lineNumber": 505,
+            "columnNumber": 227
+          },
+          {
+            "functionName": "",
+            "scriptId": "88",
+            "url": "https://www.gstatic.com/recaptcha/releases/61bII03-TtCmSUR7dw9MJF9q/recaptcha__en.js",
+            "lineNumber": 520,
+            "columnNumber": 212
+          },
+          {
+            "functionName": "",
+            "scriptId": "88",
+            "url": "https://www.gstatic.com/recaptcha/releases/61bII03-TtCmSUR7dw9MJF9q/recaptcha__en.js",
+            "lineNumber": 540,
+            "columnNumber": 3
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "Error",
+        "description": "Error: reCAPTCHA has already been rendered in this element\n    at Object.ds [as render] (https://www.gstatic.com/recaptcha/releases/61bII03-TtCmSUR7dw9MJF9q/recaptcha__en.js:517:27)\n    at onloadCallback (https://www.celticjewelry.com/spiral-eclipse-pendant.html:1590:24)\n    at Gx (https://www.gstatic.com/recaptcha/releases/61bII03-TtCmSUR7dw9MJF9q/recaptcha__en.js:510:295)\n    at https://www.gstatic.com/recaptcha/releases/61bII03-TtCmSUR7dw9MJF9q/recaptcha__en.js:506:249\n    at rA (https://www.gstatic.com/recaptcha/releases/61bII03-TtCmSUR7dw9MJF9q/recaptcha__en.js:301:79)\n    at Xo (https://www.gstatic.com/recaptcha/releases/61bII03-TtCmSUR7dw9MJF9q/recaptcha__en.js:506:228)\n    at https://www.gstatic.com/recaptcha/releases/61bII03-TtCmSUR7dw9MJF9q/recaptcha__en.js:521:213\n    at https://www.gstatic.com/recaptcha/releases/61bII03-TtCmSUR7dw9MJF9q/recaptcha__en.js:541:4",
+        "objectId": "{\"injectedScriptId\":3,\"id\":2}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "Error: reCAPTCHA has already been rendered in this element\n    at Object.ds [as render] (https://www.gstatic.com/recaptcha/releases/61bII03-TtCmSUR7dw9MJF9q/recaptcha__en.js:517:27)\n    at onloadCallback (https://www.celticjewelry.com/spiral-eclipse-pendant.html:1590:24)\n    at Gx (https://www.gstatic.com/recaptcha/releases/61bII03-TtCmSUR7dw9MJF9q/recaptcha__en.js:510:295)\n    at https://www.gstatic.com/recaptcha/releases/61bII03-TtCmSUR7dw9MJF9q/recaptcha__en.js:506:249\n    at rA (https://www.gstatic.com/recaptcha/releases/61bII03-TtCmSUR7dw9MJF9q/recaptcha__en.js:301:79)\n    at Xo (https://www.gstatic.com/recaptcha/releases/61bII03-TtCmSUR7dw9MJF9q/recaptcha__en.js:506:228)\n    at https://www.gstatic.com/recaptcha/releases/61bII03-TtCmSUR7dw9MJF9q/recaptcha__en.js:521:213\n    at https://www.gstatic.com/recaptcha/releases/61bII03-TtCmSUR7dw9MJF9q/recaptcha__en.js:541:4",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "Error: reCAPTCHA has already been rendered in this…s/61bII03-TtCmSUR7dw9MJF9q/recaptcha__en.js:541:4"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "reCAPTCHA has already been rendered in this element"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

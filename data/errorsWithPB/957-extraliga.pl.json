@@ -1,0 +1,86 @@
+[
+  {
+    "timestamp": 1583423597831.849,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 2,
+      "columnNumber": 3087,
+      "scriptId": "23",
+      "url": "http://www.extraliga.pl/fckeditor/log.php?id=hermes-kelly-bag-ostrich-2016-12-04-2.html",
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "SyntaxError",
+        "description": "SyntaxError: Unexpected end of input",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "SyntaxError: Unexpected end of input",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "SyntaxError: Unexpected end of input"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Unexpected end of input"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583423597989.699,
+    "exceptionDetails": {
+      "exceptionId": 2,
+      "text": "Uncaught",
+      "lineNumber": 2,
+      "columnNumber": 4794,
+      "url": "http://www.extraliga.pl/fckeditor/log.php?id=hermes-kelly-bag-ostrich-2016-12-04-2.html",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "WHCheckCookies",
+            "scriptId": "24",
+            "url": "http://www.extraliga.pl/fckeditor/log.php?id=hermes-kelly-bag-ostrich-2016-12-04-2.html",
+            "lineNumber": 2,
+            "columnNumber": 4794
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: $ is not defined\n    at WHCheckCookies (http://www.extraliga.pl/fckeditor/log.php?id=hermes-kelly-bag-ostrich-2016-12-04-2.html:3:4795)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":2}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: $ is not defined\n    at WHCheckCookies (http://www.extraliga.pl/fckeditor/log.php?id=hermes-kelly-bag-ostrich-2016-12-04-2.html:3:4795)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: $ is not defined\n    at WHCheckCoo…ermes-kelly-bag-ostrich-2016-12-04-2.html:3:4795)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "$ is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

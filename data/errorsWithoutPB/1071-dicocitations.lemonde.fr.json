@@ -1,0 +1,381 @@
+[
+  {
+    "timestamp": 1583003569369.193,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 48,
+      "columnNumber": 397,
+      "url": "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "l.da",
+            "scriptId": "17",
+            "url": "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js",
+            "lineNumber": 48,
+            "columnNumber": 397
+          },
+          {
+            "functionName": "wf",
+            "scriptId": "17",
+            "url": "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js",
+            "lineNumber": 56,
+            "columnNumber": 408
+          },
+          {
+            "functionName": "Ck",
+            "scriptId": "17",
+            "url": "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js",
+            "lineNumber": 183,
+            "columnNumber": 24
+          },
+          {
+            "functionName": "",
+            "scriptId": "50",
+            "url": "https://dicocitations.lemonde.fr/citation.php?mot=armoire",
+            "lineNumber": 298,
+            "columnNumber": 1758
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "className": "N",
+        "description": "N",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "description": "N",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "message",
+              "type": "string",
+              "value": "adsbygoogle.push() error: Only one 'enable_page_level_ads' allowed per page."
+            },
+            {
+              "name": "name",
+              "type": "string",
+              "value": "TagError"
+            },
+            {
+              "name": "pbr",
+              "type": "boolean",
+              "value": "true"
+            },
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TagError: adsbygoogle.push() error: Only one 'enab…esyndication.com/pagead/js/adsbygoogle.js:57:409)"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583003569401.14,
+    "exceptionDetails": {
+      "exceptionId": 2,
+      "text": "Uncaught",
+      "lineNumber": 48,
+      "columnNumber": 397,
+      "url": "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "l.da",
+            "scriptId": "17",
+            "url": "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js",
+            "lineNumber": 48,
+            "columnNumber": 397
+          },
+          {
+            "functionName": "wf",
+            "scriptId": "17",
+            "url": "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js",
+            "lineNumber": 56,
+            "columnNumber": 408
+          },
+          {
+            "functionName": "Ck",
+            "scriptId": "17",
+            "url": "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js",
+            "lineNumber": 183,
+            "columnNumber": 24
+          },
+          {
+            "functionName": "",
+            "scriptId": "66",
+            "url": "https://dicocitations.lemonde.fr/citation.php?mot=armoire",
+            "lineNumber": 422,
+            "columnNumber": 358
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "className": "N",
+        "description": "N",
+        "objectId": "{\"injectedScriptId\":3,\"id\":2}",
+        "preview": {
+          "type": "object",
+          "description": "N",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "message",
+              "type": "string",
+              "value": "adsbygoogle.push() error: Only one 'enable_page_level_ads' allowed per page."
+            },
+            {
+              "name": "name",
+              "type": "string",
+              "value": "TagError"
+            },
+            {
+              "name": "pbr",
+              "type": "boolean",
+              "value": "true"
+            },
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TagError: adsbygoogle.push() error: Only one 'enab…esyndication.com/pagead/js/adsbygoogle.js:57:409)"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583003569450.648,
+    "exceptionDetails": {
+      "exceptionId": 3,
+      "text": "Uncaught",
+      "lineNumber": 48,
+      "columnNumber": 397,
+      "url": "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "l.da",
+            "scriptId": "17",
+            "url": "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js",
+            "lineNumber": 48,
+            "columnNumber": 397
+          },
+          {
+            "functionName": "wf",
+            "scriptId": "17",
+            "url": "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js",
+            "lineNumber": 56,
+            "columnNumber": 408
+          },
+          {
+            "functionName": "Ck",
+            "scriptId": "17",
+            "url": "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js",
+            "lineNumber": 183,
+            "columnNumber": 24
+          },
+          {
+            "functionName": "",
+            "scriptId": "76",
+            "url": "https://dicocitations.lemonde.fr/citation.php?mot=armoire",
+            "lineNumber": 885,
+            "columnNumber": 129
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "className": "N",
+        "description": "N",
+        "objectId": "{\"injectedScriptId\":3,\"id\":3}",
+        "preview": {
+          "type": "object",
+          "description": "N",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "message",
+              "type": "string",
+              "value": "adsbygoogle.push() error: All ins elements in the … with class=adsbygoogle already have ads in them."
+            },
+            {
+              "name": "name",
+              "type": "string",
+              "value": "TagError"
+            },
+            {
+              "name": "pbr",
+              "type": "boolean",
+              "value": "true"
+            },
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TagError: adsbygoogle.push() error: All ins elemen…tions.lemonde.fr/citation.php?mot=armoire:886:130"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583003569451.509,
+    "exceptionDetails": {
+      "exceptionId": 4,
+      "text": "Uncaught",
+      "lineNumber": 48,
+      "columnNumber": 397,
+      "url": "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "l.da",
+            "scriptId": "17",
+            "url": "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js",
+            "lineNumber": 48,
+            "columnNumber": 397
+          },
+          {
+            "functionName": "wf",
+            "scriptId": "17",
+            "url": "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js",
+            "lineNumber": 56,
+            "columnNumber": 408
+          },
+          {
+            "functionName": "Ck",
+            "scriptId": "17",
+            "url": "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js",
+            "lineNumber": 183,
+            "columnNumber": 24
+          },
+          {
+            "functionName": "",
+            "scriptId": "77",
+            "url": "https://dicocitations.lemonde.fr/citation.php?mot=armoire",
+            "lineNumber": 885,
+            "columnNumber": 200
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "className": "N",
+        "description": "N",
+        "objectId": "{\"injectedScriptId\":3,\"id\":4}",
+        "preview": {
+          "type": "object",
+          "description": "N",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "message",
+              "type": "string",
+              "value": "adsbygoogle.push() error: Only one 'enable_page_level_ads' allowed per page."
+            },
+            {
+              "name": "name",
+              "type": "string",
+              "value": "TagError"
+            },
+            {
+              "name": "pbr",
+              "type": "boolean",
+              "value": "true"
+            },
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TagError: adsbygoogle.push() error: Only one 'enab…esyndication.com/pagead/js/adsbygoogle.js:57:409)"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583003569486.958,
+    "exceptionDetails": {
+      "exceptionId": 5,
+      "text": "Uncaught",
+      "lineNumber": 0,
+      "columnNumber": 3957,
+      "url": "https://www.dicocitations.com/javascript.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "13",
+            "url": "https://www.dicocitations.com/javascript.js",
+            "lineNumber": 0,
+            "columnNumber": 3957
+          },
+          {
+            "functionName": "i",
+            "scriptId": "12",
+            "url": "https://code.jquery.com/jquery-1.12.4.min.js",
+            "lineNumber": 1,
+            "columnNumber": 27448
+          },
+          {
+            "functionName": "fireWith",
+            "scriptId": "12",
+            "url": "https://code.jquery.com/jquery-1.12.4.min.js",
+            "lineNumber": 1,
+            "columnNumber": 28212
+          },
+          {
+            "functionName": "ready",
+            "scriptId": "12",
+            "url": "https://code.jquery.com/jquery-1.12.4.min.js",
+            "lineNumber": 1,
+            "columnNumber": 30005
+          },
+          {
+            "functionName": "K",
+            "scriptId": "12",
+            "url": "https://code.jquery.com/jquery-1.12.4.min.js",
+            "lineNumber": 1,
+            "columnNumber": 30367
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: e(...).smoothMenu is not a function\n    at HTMLDocument.<anonymous> (https://www.dicocitations.com/javascript.js:1:3958)\n    at i (https://code.jquery.com/jquery-1.12.4.min.js:2:27449)\n    at Object.fireWith [as resolveWith] (https://code.jquery.com/jquery-1.12.4.min.js:2:28213)\n    at Function.ready (https://code.jquery.com/jquery-1.12.4.min.js:2:30006)\n    at HTMLDocument.K (https://code.jquery.com/jquery-1.12.4.min.js:2:30368)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":5}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: e(...).smoothMenu is not a function\n    at HTMLDocument.<anonymous> (https://www.dicocitations.com/javascript.js:1:3958)\n    at i (https://code.jquery.com/jquery-1.12.4.min.js:2:27449)\n    at Object.fireWith [as resolveWith] (https://code.jquery.com/jquery-1.12.4.min.js:2:28213)\n    at Function.ready (https://code.jquery.com/jquery-1.12.4.min.js:2:30006)\n    at HTMLDocument.K (https://code.jquery.com/jquery-1.12.4.min.js:2:30368)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: e(...).smoothMenu is not a function\n   …s://code.jquery.com/jquery-1.12.4.min.js:2:30368)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "e(...).smoothMenu is not a function"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

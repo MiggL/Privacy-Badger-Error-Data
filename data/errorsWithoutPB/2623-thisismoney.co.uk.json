@@ -1,0 +1,49 @@
+[
+  {
+    "timestamp": 1582898948092.336,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught (in promise)",
+      "lineNumber": 7,
+      "columnNumber": 352722,
+      "url": "https://scripts.dailymail.co.uk/static/mol-fe/static/mol-fe-sync-bundle/4.1.0/desktop.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "22",
+            "url": "https://scripts.dailymail.co.uk/static/mol-fe/static/mol-fe-sync-bundle/4.1.0/desktop.js",
+            "lineNumber": 7,
+            "columnNumber": 352722
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'querySelectorAll' of null\n    at https://scripts.dailymail.co.uk/static/mol-fe/static/mol-fe-sync-bundle/4.1.0/desktop.js:8:352723",
+        "objectId": "{\"injectedScriptId\":3,\"id\":2}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'querySelectorAll' of null\n    at https://scripts.dailymail.co.uk/static/mol-fe/static/mol-fe-sync-bundle/4.1.0/desktop.js:8:352723",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'querySelectorAll'…atic/mol-fe-sync-bundle/4.1.0/desktop.js:8:352723"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'querySelectorAll' of null"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

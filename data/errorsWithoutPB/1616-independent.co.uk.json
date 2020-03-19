@@ -1,0 +1,614 @@
+[
+  {
+    "timestamp": 1582817294016.081,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 0,
+      "columnNumber": 0,
+      "scriptId": "105",
+      "url": "https://loadus.exelator.com/load/?p=759&g=20&j=d",
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "SyntaxError",
+        "description": "SyntaxError: Unexpected token '<'",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "SyntaxError: Unexpected token '<'",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "SyntaxError: Unexpected token '<'"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Unexpected token '<'"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1582817294904.551,
+    "exceptionDetails": {
+      "exceptionId": 2,
+      "text": "Uncaught (in promise)",
+      "lineNumber": 23,
+      "columnNumber": 305,
+      "url": "https://www.independent.co.uk/amp/v0.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "f.assert",
+            "scriptId": "20",
+            "url": "https://www.independent.co.uk/amp/v0.js",
+            "lineNumber": 23,
+            "columnNumber": 305
+          },
+          {
+            "functionName": "db",
+            "scriptId": "20",
+            "url": "https://www.independent.co.uk/amp/v0.js",
+            "lineNumber": 26,
+            "columnNumber": 54
+          },
+          {
+            "functionName": "f.assertElement",
+            "scriptId": "20",
+            "url": "https://www.independent.co.uk/amp/v0.js",
+            "lineNumber": 24,
+            "columnNumber": 30
+          },
+          {
+            "functionName": "",
+            "scriptId": "19",
+            "url": "https://www.independent.co.uk/amp/v0/amp-analytics-0.1.js",
+            "lineNumber": 136,
+            "columnNumber": 38
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "Error",
+        "description": "Error: Element \"[id^='reply-']\" not found: null​​​\n    at Ya.f.assert (https://www.independent.co.uk/amp/v0.js:24:306)\n    at db (https://www.independent.co.uk/amp/v0.js:27:55)\n    at Ya.f.assertElement (https://www.independent.co.uk/amp/v0.js:25:31)\n    at https://www.independent.co.uk/amp/v0/amp-analytics-0.1.js:137:39",
+        "objectId": "{\"injectedScriptId\":3,\"id\":2}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "Error: Element \"[id^='reply-']\" not found: null​​​\n    at Ya.f.assert (https://www.independent.co.uk/amp/v0.js:24:306)\n    at db (https://www.independent.co.uk/amp/v0.js:27:55)\n    at Ya.f.assertElement (https://www.independent.co.uk/amp/v0.js:25:31)\n    at https://www.independent.co.uk/amp/v0/amp-analytics-0.1.js:137:39",
+          "overflow": true,
+          "properties": [
+            {
+              "name": "fromAssert",
+              "type": "boolean",
+              "value": "true"
+            },
+            {
+              "name": "associatedElement",
+              "type": "undefined",
+              "value": "undefined"
+            },
+            {
+              "name": "messageArray",
+              "type": "object",
+              "value": "Array(2)",
+              "subtype": "array"
+            },
+            {
+              "name": "reported",
+              "type": "boolean",
+              "value": "true"
+            },
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "Error: Element \"[id^='reply-']\" not found: null​​​…ependent.co.uk/amp/v0/amp-analytics-0.1.js:137:39"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1582817294904.762,
+    "exceptionDetails": {
+      "exceptionId": 3,
+      "text": "Uncaught (in promise)",
+      "lineNumber": 23,
+      "columnNumber": 305,
+      "url": "https://www.independent.co.uk/amp/v0.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "f.assert",
+            "scriptId": "20",
+            "url": "https://www.independent.co.uk/amp/v0.js",
+            "lineNumber": 23,
+            "columnNumber": 305
+          },
+          {
+            "functionName": "db",
+            "scriptId": "20",
+            "url": "https://www.independent.co.uk/amp/v0.js",
+            "lineNumber": 26,
+            "columnNumber": 54
+          },
+          {
+            "functionName": "f.assertElement",
+            "scriptId": "20",
+            "url": "https://www.independent.co.uk/amp/v0.js",
+            "lineNumber": 24,
+            "columnNumber": 30
+          },
+          {
+            "functionName": "",
+            "scriptId": "19",
+            "url": "https://www.independent.co.uk/amp/v0/amp-analytics-0.1.js",
+            "lineNumber": 136,
+            "columnNumber": 38
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "Error",
+        "description": "Error: Element \"[id^='subscription-reply-']\" not found: null​​​\n    at Ya.f.assert (https://www.independent.co.uk/amp/v0.js:24:306)\n    at db (https://www.independent.co.uk/amp/v0.js:27:55)\n    at Ya.f.assertElement (https://www.independent.co.uk/amp/v0.js:25:31)\n    at https://www.independent.co.uk/amp/v0/amp-analytics-0.1.js:137:39",
+        "objectId": "{\"injectedScriptId\":3,\"id\":3}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "Error: Element \"[id^='subscription-reply-']\" not found: null​​​\n    at Ya.f.assert (https://www.independent.co.uk/amp/v0.js:24:306)\n    at db (https://www.independent.co.uk/amp/v0.js:27:55)\n    at Ya.f.assertElement (https://www.independent.co.uk/amp/v0.js:25:31)\n    at https://www.independent.co.uk/amp/v0/amp-analytics-0.1.js:137:39",
+          "overflow": true,
+          "properties": [
+            {
+              "name": "fromAssert",
+              "type": "boolean",
+              "value": "true"
+            },
+            {
+              "name": "associatedElement",
+              "type": "undefined",
+              "value": "undefined"
+            },
+            {
+              "name": "messageArray",
+              "type": "object",
+              "value": "Array(2)",
+              "subtype": "array"
+            },
+            {
+              "name": "reported",
+              "type": "boolean",
+              "value": "true"
+            },
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "Error: Element \"[id^='subscription-reply-']\" not f…ependent.co.uk/amp/v0/amp-analytics-0.1.js:137:39"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1582817295177.58,
+    "exceptionDetails": {
+      "exceptionId": 4,
+      "text": "Uncaught",
+      "lineNumber": 0,
+      "columnNumber": 276550,
+      "url": "https://cdn.tinypass.com/api/tinypass.min.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "i.success",
+            "scriptId": "126",
+            "url": "https://cdn.tinypass.com/api/tinypass.min.js",
+            "lineNumber": 0,
+            "columnNumber": 276550
+          },
+          {
+            "functionName": "a",
+            "scriptId": "126",
+            "url": "https://cdn.tinypass.com/api/tinypass.min.js",
+            "lineNumber": 0,
+            "columnNumber": 70788
+          },
+          {
+            "functionName": "fireWith",
+            "scriptId": "126",
+            "url": "https://cdn.tinypass.com/api/tinypass.min.js",
+            "lineNumber": 0,
+            "columnNumber": 71558
+          },
+          {
+            "functionName": "T",
+            "scriptId": "126",
+            "url": "https://cdn.tinypass.com/api/tinypass.min.js",
+            "lineNumber": 0,
+            "columnNumber": 115065
+          },
+          {
+            "functionName": "n",
+            "scriptId": "126",
+            "url": "https://cdn.tinypass.com/api/tinypass.min.js",
+            "lineNumber": 0,
+            "columnNumber": 121315
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'registerTrackUnload' of null\n    at Object.i.success (https://cdn.tinypass.com/api/tinypass.min.js:1:276551)\n    at a (https://cdn.tinypass.com/api/tinypass.min.js:1:70789)\n    at Object.fireWith [as resolveWith] (https://cdn.tinypass.com/api/tinypass.min.js:1:71559)\n    at T (https://cdn.tinypass.com/api/tinypass.min.js:1:115066)\n    at XMLHttpRequest.n (https://cdn.tinypass.com/api/tinypass.min.js:1:121316)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":18}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'registerTrackUnload' of null\n    at Object.i.success (https://cdn.tinypass.com/api/tinypass.min.js:1:276551)\n    at a (https://cdn.tinypass.com/api/tinypass.min.js:1:70789)\n    at Object.fireWith [as resolveWith] (https://cdn.tinypass.com/api/tinypass.min.js:1:71559)\n    at T (https://cdn.tinypass.com/api/tinypass.min.js:1:115066)\n    at XMLHttpRequest.n (https://cdn.tinypass.com/api/tinypass.min.js:1:121316)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'registerTrackUnlo…://cdn.tinypass.com/api/tinypass.min.js:1:121316)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'registerTrackUnload' of null"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1582817296898.3408,
+    "exceptionDetails": {
+      "exceptionId": 5,
+      "text": "Uncaught",
+      "lineNumber": 1,
+      "columnNumber": 26121,
+      "url": "https://vidstat.taboola.com/vpaid/units/27_3_6/infra/cmTagCUSTOM.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "A.contains",
+            "scriptId": "538",
+            "url": "https://vidstat.taboola.com/vpaid/units/27_3_6/infra/cmTagCUSTOM.js",
+            "lineNumber": 1,
+            "columnNumber": 26121
+          },
+          {
+            "functionName": "",
+            "scriptId": "538",
+            "url": "https://vidstat.taboola.com/vpaid/units/27_3_6/infra/cmTagCUSTOM.js",
+            "lineNumber": 2,
+            "columnNumber": 3300
+          },
+          {
+            "functionName": "",
+            "scriptId": "538",
+            "url": "https://vidstat.taboola.com/vpaid/units/27_3_6/infra/cmTagCUSTOM.js",
+            "lineNumber": 1,
+            "columnNumber": 27698
+          },
+          {
+            "functionName": "each",
+            "scriptId": "538",
+            "url": "https://vidstat.taboola.com/vpaid/units/27_3_6/infra/cmTagCUSTOM.js",
+            "lineNumber": 1,
+            "columnNumber": 27665
+          },
+          {
+            "functionName": "A.fn.<computed>",
+            "scriptId": "538",
+            "url": "https://vidstat.taboola.com/vpaid/units/27_3_6/infra/cmTagCUSTOM.js",
+            "lineNumber": 2,
+            "columnNumber": 3203
+          },
+          {
+            "functionName": "render",
+            "scriptId": "538",
+            "url": "https://vidstat.taboola.com/vpaid/units/27_3_6/infra/cmTagCUSTOM.js",
+            "lineNumber": 14,
+            "columnNumber": 25727
+          },
+          {
+            "functionName": "initialize",
+            "scriptId": "538",
+            "url": "https://vidstat.taboola.com/vpaid/units/27_3_6/infra/cmTagCUSTOM.js",
+            "lineNumber": 14,
+            "columnNumber": 24320
+          },
+          {
+            "functionName": "t.View",
+            "scriptId": "538",
+            "url": "https://vidstat.taboola.com/vpaid/units/27_3_6/infra/cmTagCUSTOM.js",
+            "lineNumber": 2,
+            "columnNumber": 26888
+          },
+          {
+            "functionName": "N.n",
+            "scriptId": "538",
+            "url": "https://vidstat.taboola.com/vpaid/units/27_3_6/infra/cmTagCUSTOM.js",
+            "lineNumber": 3,
+            "columnNumber": 1766
+          },
+          {
+            "functionName": "O",
+            "scriptId": "538",
+            "url": "https://vidstat.taboola.com/vpaid/units/27_3_6/infra/cmTagCUSTOM.js",
+            "lineNumber": 0,
+            "columnNumber": 1515
+          },
+          {
+            "functionName": "x",
+            "scriptId": "538",
+            "url": "https://vidstat.taboola.com/vpaid/units/27_3_6/infra/cmTagCUSTOM.js",
+            "lineNumber": 0,
+            "columnNumber": 1478
+          },
+          {
+            "functionName": "I",
+            "scriptId": "538",
+            "url": "https://vidstat.taboola.com/vpaid/units/27_3_6/infra/cmTagCUSTOM.js",
+            "lineNumber": 0,
+            "columnNumber": 1136
+          },
+          {
+            "functionName": "n",
+            "scriptId": "538",
+            "url": "https://vidstat.taboola.com/vpaid/units/27_3_6/infra/cmTagCUSTOM.js",
+            "lineNumber": 0,
+            "columnNumber": 843
+          },
+          {
+            "functionName": "H",
+            "scriptId": "538",
+            "url": "https://vidstat.taboola.com/vpaid/units/27_3_6/infra/cmTagCUSTOM.js",
+            "lineNumber": 0,
+            "columnNumber": 3984
+          },
+          {
+            "functionName": "l.onload",
+            "scriptId": "538",
+            "url": "https://vidstat.taboola.com/vpaid/units/27_3_6/infra/cmTagCUSTOM.js",
+            "lineNumber": 0,
+            "columnNumber": 5948
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Failed to execute 'contains' on 'Node': parameter 1 is not of type 'Node'.\n    at Function.A.contains (https://vidstat.taboola.com/vpaid/units/27_3_6/infra/cmTagCUSTOM.js:2:26122)\n    at Object.<anonymous> (https://vidstat.taboola.com/vpaid/units/27_3_6/infra/cmTagCUSTOM.js:3:3301)\n    at https://vidstat.taboola.com/vpaid/units/27_3_6/infra/cmTagCUSTOM.js:2:27699\n    at Array.every (<anonymous>)\n    at Array.each (https://vidstat.taboola.com/vpaid/units/27_3_6/infra/cmTagCUSTOM.js:2:27666)\n    at Array.A.fn.<computed> [as append] (https://vidstat.taboola.com/vpaid/units/27_3_6/infra/cmTagCUSTOM.js:3:3204)\n    at N.n.render (https://vidstat.taboola.com/vpaid/units/27_3_6/infra/cmTagCUSTOM.js:15:25728)\n    at N.n.initialize (https://vidstat.taboola.com/vpaid/units/27_3_6/infra/cmTagCUSTOM.js:15:24321)\n    at N.n.t.View (https://vidstat.taboola.com/vpaid/units/27_3_6/infra/cmTagCUSTOM.js:3:26889)\n    at new N.n (https://vidstat.taboola.com/vpaid/units/27_3_6/infra/cmTagCUSTOM.js:4:1767)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":20}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Failed to execute 'contains' on 'Node': parameter 1 is not of type 'Node'.\n    at Function.A.contains (https://vidstat.taboola.com/vpaid/units/27_3_6/infra/cmTagCUSTOM.js:2:26122)\n    at Object.<anonymous> (https://vidstat.taboola.com/vpaid/units/27_3_6/infra/cmTagCUSTOM.js:3:3301)\n    at https://vidstat.taboola.com/vpaid/units/27_3_6/infra/cmTagCUSTOM.js:2:27699\n    at Array.every (<anonymous>)\n    at Array.each (https://vidstat.taboola.com/vpaid/units/27_3_6/infra/cmTagCUSTOM.js:2:27666)\n    at Array.A.fn.<computed> [as append] (https://vidstat.taboola.com/vpaid/units/27_3_6/infra/cmTagCUSTOM.js:3:3204)\n    at N.n.render (https://vidstat.taboola.com/vpaid/units/27_3_6/infra/cmTagCUSTOM.js:15:25728)\n    at N.n.initialize (https://vidstat.taboola.com/vpaid/units/27_3_6/infra/cmTagCUSTOM.js:15:24321)\n    at N.n.t.View (https://vidstat.taboola.com/vpaid/units/27_3_6/infra/cmTagCUSTOM.js:3:26889)\n    at new N.n (https://vidstat.taboola.com/vpaid/units/27_3_6/infra/cmTagCUSTOM.js:4:1767)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Failed to execute 'contains' on 'Node':…m/vpaid/units/27_3_6/infra/cmTagCUSTOM.js:4:1767)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Failed to execute 'contains' on 'Node': parameter 1 is not of type 'Node'."
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1582817296936.165,
+    "exceptionDetails": {
+      "exceptionId": 6,
+      "text": "Uncaught",
+      "lineNumber": 1,
+      "columnNumber": 26121,
+      "url": "https://vidstat.taboola.com/vpaid/units/27_3_6/infra/cmTagCUSTOM.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "A.contains",
+            "scriptId": "538",
+            "url": "https://vidstat.taboola.com/vpaid/units/27_3_6/infra/cmTagCUSTOM.js",
+            "lineNumber": 1,
+            "columnNumber": 26121
+          },
+          {
+            "functionName": "",
+            "scriptId": "538",
+            "url": "https://vidstat.taboola.com/vpaid/units/27_3_6/infra/cmTagCUSTOM.js",
+            "lineNumber": 2,
+            "columnNumber": 3300
+          },
+          {
+            "functionName": "",
+            "scriptId": "538",
+            "url": "https://vidstat.taboola.com/vpaid/units/27_3_6/infra/cmTagCUSTOM.js",
+            "lineNumber": 1,
+            "columnNumber": 27698
+          },
+          {
+            "functionName": "each",
+            "scriptId": "538",
+            "url": "https://vidstat.taboola.com/vpaid/units/27_3_6/infra/cmTagCUSTOM.js",
+            "lineNumber": 1,
+            "columnNumber": 27665
+          },
+          {
+            "functionName": "A.fn.<computed>",
+            "scriptId": "538",
+            "url": "https://vidstat.taboola.com/vpaid/units/27_3_6/infra/cmTagCUSTOM.js",
+            "lineNumber": 2,
+            "columnNumber": 3203
+          },
+          {
+            "functionName": "render",
+            "scriptId": "538",
+            "url": "https://vidstat.taboola.com/vpaid/units/27_3_6/infra/cmTagCUSTOM.js",
+            "lineNumber": 14,
+            "columnNumber": 25727
+          },
+          {
+            "functionName": "initialize",
+            "scriptId": "538",
+            "url": "https://vidstat.taboola.com/vpaid/units/27_3_6/infra/cmTagCUSTOM.js",
+            "lineNumber": 14,
+            "columnNumber": 24320
+          },
+          {
+            "functionName": "t.View",
+            "scriptId": "538",
+            "url": "https://vidstat.taboola.com/vpaid/units/27_3_6/infra/cmTagCUSTOM.js",
+            "lineNumber": 2,
+            "columnNumber": 26888
+          },
+          {
+            "functionName": "N.n",
+            "scriptId": "538",
+            "url": "https://vidstat.taboola.com/vpaid/units/27_3_6/infra/cmTagCUSTOM.js",
+            "lineNumber": 3,
+            "columnNumber": 1766
+          },
+          {
+            "functionName": "O",
+            "scriptId": "538",
+            "url": "https://vidstat.taboola.com/vpaid/units/27_3_6/infra/cmTagCUSTOM.js",
+            "lineNumber": 0,
+            "columnNumber": 1515
+          },
+          {
+            "functionName": "x",
+            "scriptId": "538",
+            "url": "https://vidstat.taboola.com/vpaid/units/27_3_6/infra/cmTagCUSTOM.js",
+            "lineNumber": 0,
+            "columnNumber": 1478
+          },
+          {
+            "functionName": "I",
+            "scriptId": "538",
+            "url": "https://vidstat.taboola.com/vpaid/units/27_3_6/infra/cmTagCUSTOM.js",
+            "lineNumber": 0,
+            "columnNumber": 1136
+          },
+          {
+            "functionName": "n",
+            "scriptId": "538",
+            "url": "https://vidstat.taboola.com/vpaid/units/27_3_6/infra/cmTagCUSTOM.js",
+            "lineNumber": 0,
+            "columnNumber": 843
+          },
+          {
+            "functionName": "H",
+            "scriptId": "538",
+            "url": "https://vidstat.taboola.com/vpaid/units/27_3_6/infra/cmTagCUSTOM.js",
+            "lineNumber": 0,
+            "columnNumber": 3984
+          },
+          {
+            "functionName": "l.onload",
+            "scriptId": "538",
+            "url": "https://vidstat.taboola.com/vpaid/units/27_3_6/infra/cmTagCUSTOM.js",
+            "lineNumber": 0,
+            "columnNumber": 5948
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Failed to execute 'contains' on 'Node': parameter 1 is not of type 'Node'.\n    at Function.A.contains (https://vidstat.taboola.com/vpaid/units/27_3_6/infra/cmTagCUSTOM.js:2:26122)\n    at Object.<anonymous> (https://vidstat.taboola.com/vpaid/units/27_3_6/infra/cmTagCUSTOM.js:3:3301)\n    at https://vidstat.taboola.com/vpaid/units/27_3_6/infra/cmTagCUSTOM.js:2:27699\n    at Array.every (<anonymous>)\n    at Array.each (https://vidstat.taboola.com/vpaid/units/27_3_6/infra/cmTagCUSTOM.js:2:27666)\n    at Array.A.fn.<computed> [as append] (https://vidstat.taboola.com/vpaid/units/27_3_6/infra/cmTagCUSTOM.js:3:3204)\n    at N.n.render (https://vidstat.taboola.com/vpaid/units/27_3_6/infra/cmTagCUSTOM.js:15:25728)\n    at N.n.initialize (https://vidstat.taboola.com/vpaid/units/27_3_6/infra/cmTagCUSTOM.js:15:24321)\n    at N.n.t.View (https://vidstat.taboola.com/vpaid/units/27_3_6/infra/cmTagCUSTOM.js:3:26889)\n    at new N.n (https://vidstat.taboola.com/vpaid/units/27_3_6/infra/cmTagCUSTOM.js:4:1767)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":21}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Failed to execute 'contains' on 'Node': parameter 1 is not of type 'Node'.\n    at Function.A.contains (https://vidstat.taboola.com/vpaid/units/27_3_6/infra/cmTagCUSTOM.js:2:26122)\n    at Object.<anonymous> (https://vidstat.taboola.com/vpaid/units/27_3_6/infra/cmTagCUSTOM.js:3:3301)\n    at https://vidstat.taboola.com/vpaid/units/27_3_6/infra/cmTagCUSTOM.js:2:27699\n    at Array.every (<anonymous>)\n    at Array.each (https://vidstat.taboola.com/vpaid/units/27_3_6/infra/cmTagCUSTOM.js:2:27666)\n    at Array.A.fn.<computed> [as append] (https://vidstat.taboola.com/vpaid/units/27_3_6/infra/cmTagCUSTOM.js:3:3204)\n    at N.n.render (https://vidstat.taboola.com/vpaid/units/27_3_6/infra/cmTagCUSTOM.js:15:25728)\n    at N.n.initialize (https://vidstat.taboola.com/vpaid/units/27_3_6/infra/cmTagCUSTOM.js:15:24321)\n    at N.n.t.View (https://vidstat.taboola.com/vpaid/units/27_3_6/infra/cmTagCUSTOM.js:3:26889)\n    at new N.n (https://vidstat.taboola.com/vpaid/units/27_3_6/infra/cmTagCUSTOM.js:4:1767)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Failed to execute 'contains' on 'Node':…m/vpaid/units/27_3_6/infra/cmTagCUSTOM.js:4:1767)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Failed to execute 'contains' on 'Node': parameter 1 is not of type 'Node'."
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1582817297261.679,
+    "exceptionDetails": {
+      "exceptionId": 7,
+      "text": "Uncaught (in promise)",
+      "lineNumber": 0,
+      "columnNumber": 0,
+      "scriptId": "1",
+      "url": "https://www.independent.co.uk/travel/news-and-advice/christmas-strikes-ba-swissport-british-airways-latest-my-flight-affected-travel-questions-a7484691.html",
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "DOMException",
+        "description": "DOMException: play() failed because the user didn't interact with the document first. https://goo.gl/xX8pDD",
+        "objectId": "{\"injectedScriptId\":3,\"id\":24}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "DOMException: play() failed because the user didn't interact with the document first. https://goo.gl/xX8pDD",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "code",
+              "type": "number",
+              "value": "0"
+            },
+            {
+              "name": "name",
+              "type": "string",
+              "value": "NotAllowedError"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "play() failed because the user didn't interact with the document first. https://goo.gl/xX8pDD"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

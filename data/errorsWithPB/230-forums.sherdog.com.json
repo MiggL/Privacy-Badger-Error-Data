@@ -1,0 +1,63 @@
+[
+  {
+    "timestamp": 1583757249004.2751,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 768,
+      "columnNumber": 18,
+      "url": "https://tags.evolvemediallc.com/websites/evolve_tags/15047",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "67",
+            "url": "https://tags.evolvemediallc.com/websites/evolve_tags/15047",
+            "lineNumber": 768,
+            "columnNumber": 18
+          },
+          {
+            "functionName": "checkDOMStatus",
+            "scriptId": "67",
+            "url": "https://tags.evolvemediallc.com/websites/evolve_tags/15047",
+            "lineNumber": 741,
+            "columnNumber": 25
+          },
+          {
+            "functionName": "",
+            "scriptId": "67",
+            "url": "https://tags.evolvemediallc.com/websites/evolve_tags/15047",
+            "lineNumber": 744,
+            "columnNumber": 20
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: googletag.pubads is not a function\n    at https://tags.evolvemediallc.com/websites/evolve_tags/15047:769:19\n    at checkDOMStatus (https://tags.evolvemediallc.com/websites/evolve_tags/15047:742:26)\n    at https://tags.evolvemediallc.com/websites/evolve_tags/15047:745:21",
+        "objectId": "{\"injectedScriptId\":3,\"id\":3}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: googletag.pubads is not a function\n    at https://tags.evolvemediallc.com/websites/evolve_tags/15047:769:19\n    at checkDOMStatus (https://tags.evolvemediallc.com/websites/evolve_tags/15047:742:26)\n    at https://tags.evolvemediallc.com/websites/evolve_tags/15047:745:21",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: googletag.pubads is not a function\n    …lvemediallc.com/websites/evolve_tags/15047:745:21"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "googletag.pubads is not a function"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

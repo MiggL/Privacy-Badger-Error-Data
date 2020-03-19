@@ -1,0 +1,77 @@
+[
+  {
+    "timestamp": 1583002574292.745,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 31201,
+      "columnNumber": 2,
+      "url": "http://www.tinykittens.com/assets/application.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "14",
+            "url": "http://www.tinykittens.com/assets/application.js",
+            "lineNumber": 31201,
+            "columnNumber": 2
+          },
+          {
+            "functionName": "fire",
+            "scriptId": "14",
+            "url": "http://www.tinykittens.com/assets/application.js",
+            "lineNumber": 3232,
+            "columnNumber": 30
+          },
+          {
+            "functionName": "fireWith",
+            "scriptId": "14",
+            "url": "http://www.tinykittens.com/assets/application.js",
+            "lineNumber": 3362,
+            "columnNumber": 6
+          },
+          {
+            "functionName": "ready",
+            "scriptId": "14",
+            "url": "http://www.tinykittens.com/assets/application.js",
+            "lineNumber": 3582,
+            "columnNumber": 12
+          },
+          {
+            "functionName": "completed",
+            "scriptId": "14",
+            "url": "http://www.tinykittens.com/assets/application.js",
+            "lineNumber": 3617,
+            "columnNumber": 9
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: L is not defined\n    at HTMLDocument.<anonymous> (http://www.tinykittens.com/assets/application.js:31202:3)\n    at fire (http://www.tinykittens.com/assets/application.js:3233:31)\n    at Object.fireWith [as resolveWith] (http://www.tinykittens.com/assets/application.js:3363:7)\n    at Function.ready (http://www.tinykittens.com/assets/application.js:3583:13)\n    at HTMLDocument.completed (http://www.tinykittens.com/assets/application.js:3618:10)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: L is not defined\n    at HTMLDocument.<anonymous> (http://www.tinykittens.com/assets/application.js:31202:3)\n    at fire (http://www.tinykittens.com/assets/application.js:3233:31)\n    at Object.fireWith [as resolveWith] (http://www.tinykittens.com/assets/application.js:3363:7)\n    at Function.ready (http://www.tinykittens.com/assets/application.js:3583:13)\n    at HTMLDocument.completed (http://www.tinykittens.com/assets/application.js:3618:10)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: L is not defined\n    at HTMLDocume…ww.tinykittens.com/assets/application.js:3618:10)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "L is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

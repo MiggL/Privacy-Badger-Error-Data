@@ -1,0 +1,64 @@
+[
+  {
+    "timestamp": 1583423158623.1501,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 5,
+      "columnNumber": 6431,
+      "scriptId": "21",
+      "url": "https://mediadc.brightspotcdn.com/resource/00000161-3464-db21-a1e3-b56701190000/styleguide/All.min.c470fb2fae9bb60f66e67597ef5f30b1.gz.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "89",
+            "url": "https://www.washingtonexaminer.com/scripts/mid-article.js?v=0.001",
+            "lineNumber": 1,
+            "columnNumber": 28
+          },
+          {
+            "functionName": "d",
+            "scriptId": "21",
+            "url": "https://mediadc.brightspotcdn.com/resource/00000161-3464-db21-a1e3-b56701190000/styleguide/All.min.c470fb2fae9bb60f66e67597ef5f30b1.gz.js",
+            "lineNumber": 5,
+            "columnNumber": 4714
+          },
+          {
+            "functionName": "f",
+            "scriptId": "21",
+            "url": "https://mediadc.brightspotcdn.com/resource/00000161-3464-db21-a1e3-b56701190000/styleguide/All.min.c470fb2fae9bb60f66e67597ef5f30b1.gz.js",
+            "lineNumber": 5,
+            "columnNumber": 5029
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'type' of undefined\n    at HTMLDocument.<anonymous> (https://www.washingtonexaminer.com/scripts/mid-article.js?v=0.001:2:29)\n    at d (https://mediadc.brightspotcdn.com/resource/00000161-3464-db21-a1e3-b56701190000/styleguide/All.min.c470fb2fae9bb60f66e67597ef5f30b1.gz.js:6:4715)\n    at f (https://mediadc.brightspotcdn.com/resource/00000161-3464-db21-a1e3-b56701190000/styleguide/All.min.c470fb2fae9bb60f66e67597ef5f30b1.gz.js:6:5030)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":21}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'type' of undefined\n    at HTMLDocument.<anonymous> (https://www.washingtonexaminer.com/scripts/mid-article.js?v=0.001:2:29)\n    at d (https://mediadc.brightspotcdn.com/resource/00000161-3464-db21-a1e3-b56701190000/styleguide/All.min.c470fb2fae9bb60f66e67597ef5f30b1.gz.js:6:4715)\n    at f (https://mediadc.brightspotcdn.com/resource/00000161-3464-db21-a1e3-b56701190000/styleguide/All.min.c470fb2fae9bb60f66e67597ef5f30b1.gz.js:6:5030)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'type' of undefine…in.c470fb2fae9bb60f66e67597ef5f30b1.gz.js:6:5030)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'type' of undefined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

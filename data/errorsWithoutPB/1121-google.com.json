@@ -1,0 +1,49 @@
+[
+  {
+    "timestamp": 1583003102799.8408,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 181,
+      "columnNumber": 6,
+      "url": "https://www.google.com/recaptcha/api2/anchor?k=6LceyBAUAAAAAOJN9UuZ79AFIoxAJp4ZN0-uKequ&co=aHR0cDovL3d3dy5jdWkuY29tOjgw&hl=en&v=r20170404141150&size=normal&cb=s1d5jgh5qgx",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "13",
+            "url": "https://www.google.com/recaptcha/api2/anchor?k=6LceyBAUAAAAAOJN9UuZ79AFIoxAJp4ZN0-uKequ&co=aHR0cDovL3d3dy5jdWkuY29tOjgw&hl=en&v=r20170404141150&size=normal&cb=s1d5jgh5qgx",
+            "lineNumber": 181,
+            "columnNumber": 6
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: recaptcha is not defined\n    at https://www.google.com/recaptcha/api2/anchor?k=6LceyBAUAAAAAOJN9UuZ79AFIoxAJp4ZN0-uKequ&co=aHR0cDovL3d3dy5jdWkuY29tOjgw&hl=en&v=r20170404141150&size=normal&cb=s1d5jgh5qgx:182:7",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: recaptcha is not defined\n    at https://www.google.com/recaptcha/api2/anchor?k=6LceyBAUAAAAAOJN9UuZ79AFIoxAJp4ZN0-uKequ&co=aHR0cDovL3d3dy5jdWkuY29tOjgw&hl=en&v=r20170404141150&size=normal&cb=s1d5jgh5qgx:182:7",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: recaptcha is not defined\n    at ht…=r20170404141150&size=normal&cb=s1d5jgh5qgx:182:7"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "recaptcha is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

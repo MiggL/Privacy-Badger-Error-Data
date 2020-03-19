@@ -1,0 +1,18 @@
+[
+  {
+    "timestamp": 1583418285942.441,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught (in promise)",
+      "lineNumber": 0,
+      "columnNumber": 0,
+      "scriptId": "1",
+      "url": "https://www.nj.com/politics/2017/02/that_guy_you_never_heard_of_has_a_16_point_lead_ov.html",
+      "exception": {
+        "type": "string",
+        "value": "Failed to load script"
+      },
+      "executionContextId": 3
+    }
+  }
+]

@@ -1,0 +1,64 @@
+[
+  {
+    "timestamp": 1582893219916.3152,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught (in promise)",
+      "lineNumber": 29,
+      "columnNumber": 69814,
+      "url": "https://origin-images.wikia.com/fandom-ae-assets/platforms/v57.0.1/gamepedia/main.bundle.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "s",
+            "scriptId": "30",
+            "url": "https://origin-images.wikia.com/fandom-ae-assets/platforms/v57.0.1/gamepedia/main.bundle.js",
+            "lineNumber": 29,
+            "columnNumber": 69814
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "className": "Event",
+        "description": "Event",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "description": "Event",
+          "overflow": true,
+          "properties": [
+            {
+              "name": "isTrusted",
+              "type": "boolean",
+              "value": "true"
+            },
+            {
+              "name": "type",
+              "type": "string",
+              "value": "error"
+            },
+            {
+              "name": "target",
+              "type": "object",
+              "value": "script",
+              "subtype": "node"
+            },
+            {
+              "name": "currentTarget",
+              "type": "object",
+              "value": "null",
+              "subtype": "null"
+            },
+            {
+              "name": "eventPhase",
+              "type": "number",
+              "value": "0"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

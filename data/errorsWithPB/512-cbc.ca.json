@@ -1,0 +1,71 @@
+[
+  {
+    "timestamp": 1583749682973.919,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught (in promise)",
+      "lineNumber": 39,
+      "columnNumber": 234408,
+      "url": "https://cdn.viafoura.net/vf-v2.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "t.exports",
+            "scriptId": "39",
+            "url": "https://cdn.viafoura.net/vf-v2.js",
+            "lineNumber": 39,
+            "columnNumber": 234408
+          },
+          {
+            "functionName": "l.onerror",
+            "scriptId": "39",
+            "url": "https://cdn.viafoura.net/vf-v2.js",
+            "lineNumber": 39,
+            "columnNumber": 233458
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "Error",
+        "description": "Error: Network Error\n    at t.exports (https://cdn.viafoura.net/vf-v2.js:40:234409)\n    at XMLHttpRequest.l.onerror (https://cdn.viafoura.net/vf-v2.js:40:233459)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "Error: Network Error\n    at t.exports (https://cdn.viafoura.net/vf-v2.js:40:234409)\n    at XMLHttpRequest.l.onerror (https://cdn.viafoura.net/vf-v2.js:40:233459)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "config",
+              "type": "object",
+              "value": "Object"
+            },
+            {
+              "name": "request",
+              "type": "object",
+              "value": "XMLHttpRequest"
+            },
+            {
+              "name": "response",
+              "type": "undefined",
+              "value": "undefined"
+            },
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "Error: Network Error\n    at t.exports (https://cdn…ror (https://cdn.viafoura.net/vf-v2.js:40:233459)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Network Error"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

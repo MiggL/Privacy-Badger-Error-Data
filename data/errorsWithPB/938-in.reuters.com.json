@@ -1,0 +1,109 @@
+[
+  {
+    "timestamp": 1583423786341.125,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 945,
+      "columnNumber": 283,
+      "url": "https://www.googletagmanager.com/gtm.js?id=GTM-W9SLGS",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "error",
+            "scriptId": "26",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-W9SLGS",
+            "lineNumber": 945,
+            "columnNumber": 283
+          },
+          {
+            "functionName": "v.qb.onerror",
+            "scriptId": "26",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-W9SLGS",
+            "lineNumber": 953,
+            "columnNumber": 496
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "className": "Object",
+        "description": "Object",
+        "objectId": "{\"injectedScriptId\":3,\"id\":2}",
+        "preview": {
+          "type": "object",
+          "description": "Object",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "Eh",
+              "type": "string",
+              "value": "ResizeObserver loop limit exceeded - https://in.re…/article/sport-doping-nado-russia-idINKBN14U2GQ:0"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583423786765.491,
+    "exceptionDetails": {
+      "exceptionId": 2,
+      "text": "Uncaught",
+      "lineNumber": 1,
+      "columnNumber": 81,
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "76",
+            "url": "",
+            "lineNumber": 1,
+            "columnNumber": 81
+          },
+          {
+            "functionName": "l.run",
+            "scriptId": "50",
+            "url": "https://cdn.segment.com/analytics.js/v1/IEWBqQ8VWHijTQxb7lEBGFGS9uIJzigZ/analytics.min.js",
+            "lineNumber": 10,
+            "columnNumber": 21886
+          },
+          {
+            "functionName": "u",
+            "scriptId": "50",
+            "url": "https://cdn.segment.com/analytics.js/v1/IEWBqQ8VWHijTQxb7lEBGFGS9uIJzigZ/analytics.min.js",
+            "lineNumber": 10,
+            "columnNumber": 21390
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'get' of undefined\n    at <anonymous>:2:82\n    at l.run (https://cdn.segment.com/analytics.js/v1/IEWBqQ8VWHijTQxb7lEBGFGS9uIJzigZ/analytics.min.js:11:21887)\n    at u (https://cdn.segment.com/analytics.js/v1/IEWBqQ8VWHijTQxb7lEBGFGS9uIJzigZ/analytics.min.js:11:21391)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":3}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'get' of undefined\n    at <anonymous>:2:82\n    at l.run (https://cdn.segment.com/analytics.js/v1/IEWBqQ8VWHijTQxb7lEBGFGS9uIJzigZ/analytics.min.js:11:21887)\n    at u (https://cdn.segment.com/analytics.js/v1/IEWBqQ8VWHijTQxb7lEBGFGS9uIJzigZ/analytics.min.js:11:21391)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'get' of undefined…ijTQxb7lEBGFGS9uIJzigZ/analytics.min.js:11:21391)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'get' of undefined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

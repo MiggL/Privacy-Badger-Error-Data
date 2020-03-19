@@ -1,0 +1,331 @@
+[
+  {
+    "timestamp": 1583420500664.542,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 61,
+      "columnNumber": 0,
+      "url": "https://www.strategies.fr/blogs-opinions/idees-tribunes/1062642W/clap-de-fin-pour-snapchat-.html",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "24",
+            "url": "https://www.strategies.fr/blogs-opinions/idees-tribunes/1062642W/clap-de-fin-pour-snapchat-.html",
+            "lineNumber": 61,
+            "columnNumber": 0
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: sas is not defined\n    at https://www.strategies.fr/blogs-opinions/idees-tribunes/1062642W/clap-de-fin-pour-snapchat-.html:62:1",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: sas is not defined\n    at https://www.strategies.fr/blogs-opinions/idees-tribunes/1062642W/clap-de-fin-pour-snapchat-.html:62:1",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: sas is not defined\n    at https://…nes/1062642W/clap-de-fin-pour-snapchat-.html:62:1"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "sas is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583420500665.587,
+    "exceptionDetails": {
+      "exceptionId": 2,
+      "text": "Uncaught",
+      "lineNumber": 73,
+      "columnNumber": 0,
+      "url": "https://www.strategies.fr/blogs-opinions/idees-tribunes/1062642W/clap-de-fin-pour-snapchat-.html",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "27",
+            "url": "https://www.strategies.fr/blogs-opinions/idees-tribunes/1062642W/clap-de-fin-pour-snapchat-.html",
+            "lineNumber": 73,
+            "columnNumber": 0
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: stLight is not defined\n    at https://www.strategies.fr/blogs-opinions/idees-tribunes/1062642W/clap-de-fin-pour-snapchat-.html:74:1",
+        "objectId": "{\"injectedScriptId\":3,\"id\":2}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: stLight is not defined\n    at https://www.strategies.fr/blogs-opinions/idees-tribunes/1062642W/clap-de-fin-pour-snapchat-.html:74:1",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: stLight is not defined\n    at http…nes/1062642W/clap-de-fin-pour-snapchat-.html:74:1"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "stLight is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583420501144.7908,
+    "exceptionDetails": {
+      "exceptionId": 3,
+      "text": "Uncaught",
+      "lineNumber": 88,
+      "columnNumber": 33,
+      "url": "https://www.strategies.fr/blogs-opinions/idees-tribunes/1062642W/clap-de-fin-pour-snapchat-.html",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "31",
+            "url": "https://www.strategies.fr/blogs-opinions/idees-tribunes/1062642W/clap-de-fin-pour-snapchat-.html",
+            "lineNumber": 88,
+            "columnNumber": 33
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: sas is not defined\n    at https://www.strategies.fr/blogs-opinions/idees-tribunes/1062642W/clap-de-fin-pour-snapchat-.html:89:34",
+        "objectId": "{\"injectedScriptId\":3,\"id\":3}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: sas is not defined\n    at https://www.strategies.fr/blogs-opinions/idees-tribunes/1062642W/clap-de-fin-pour-snapchat-.html:89:34",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: sas is not defined\n    at https://…es/1062642W/clap-de-fin-pour-snapchat-.html:89:34"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "sas is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583420501145.263,
+    "exceptionDetails": {
+      "exceptionId": 4,
+      "text": "Uncaught",
+      "lineNumber": 100,
+      "columnNumber": 33,
+      "url": "https://www.strategies.fr/blogs-opinions/idees-tribunes/1062642W/clap-de-fin-pour-snapchat-.html",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "33",
+            "url": "https://www.strategies.fr/blogs-opinions/idees-tribunes/1062642W/clap-de-fin-pour-snapchat-.html",
+            "lineNumber": 100,
+            "columnNumber": 33
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: sas is not defined\n    at https://www.strategies.fr/blogs-opinions/idees-tribunes/1062642W/clap-de-fin-pour-snapchat-.html:101:34",
+        "objectId": "{\"injectedScriptId\":3,\"id\":4}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: sas is not defined\n    at https://www.strategies.fr/blogs-opinions/idees-tribunes/1062642W/clap-de-fin-pour-snapchat-.html:101:34",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: sas is not defined\n    at https://…s/1062642W/clap-de-fin-pour-snapchat-.html:101:34"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "sas is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583420501179.382,
+    "exceptionDetails": {
+      "exceptionId": 5,
+      "text": "Uncaught",
+      "lineNumber": 187,
+      "columnNumber": 37,
+      "url": "https://www.strategies.fr/blogs-opinions/idees-tribunes/1062642W/clap-de-fin-pour-snapchat-.html",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "34",
+            "url": "https://www.strategies.fr/blogs-opinions/idees-tribunes/1062642W/clap-de-fin-pour-snapchat-.html",
+            "lineNumber": 187,
+            "columnNumber": 37
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: sas is not defined\n    at https://www.strategies.fr/blogs-opinions/idees-tribunes/1062642W/clap-de-fin-pour-snapchat-.html:188:38",
+        "objectId": "{\"injectedScriptId\":3,\"id\":5}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: sas is not defined\n    at https://www.strategies.fr/blogs-opinions/idees-tribunes/1062642W/clap-de-fin-pour-snapchat-.html:188:38",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: sas is not defined\n    at https://…s/1062642W/clap-de-fin-pour-snapchat-.html:188:38"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "sas is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583420501179.698,
+    "exceptionDetails": {
+      "exceptionId": 6,
+      "text": "Uncaught",
+      "lineNumber": 195,
+      "columnNumber": 37,
+      "url": "https://www.strategies.fr/blogs-opinions/idees-tribunes/1062642W/clap-de-fin-pour-snapchat-.html",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "35",
+            "url": "https://www.strategies.fr/blogs-opinions/idees-tribunes/1062642W/clap-de-fin-pour-snapchat-.html",
+            "lineNumber": 195,
+            "columnNumber": 37
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: sas is not defined\n    at https://www.strategies.fr/blogs-opinions/idees-tribunes/1062642W/clap-de-fin-pour-snapchat-.html:196:38",
+        "objectId": "{\"injectedScriptId\":3,\"id\":6}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: sas is not defined\n    at https://www.strategies.fr/blogs-opinions/idees-tribunes/1062642W/clap-de-fin-pour-snapchat-.html:196:38",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: sas is not defined\n    at https://…s/1062642W/clap-de-fin-pour-snapchat-.html:196:38"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "sas is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583420501226.115,
+    "exceptionDetails": {
+      "exceptionId": 7,
+      "text": "Uncaught",
+      "lineNumber": 406,
+      "columnNumber": 37,
+      "url": "https://www.strategies.fr/blogs-opinions/idees-tribunes/1062642W/clap-de-fin-pour-snapchat-.html",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "37",
+            "url": "https://www.strategies.fr/blogs-opinions/idees-tribunes/1062642W/clap-de-fin-pour-snapchat-.html",
+            "lineNumber": 406,
+            "columnNumber": 37
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: sas is not defined\n    at https://www.strategies.fr/blogs-opinions/idees-tribunes/1062642W/clap-de-fin-pour-snapchat-.html:407:38",
+        "objectId": "{\"injectedScriptId\":3,\"id\":7}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: sas is not defined\n    at https://www.strategies.fr/blogs-opinions/idees-tribunes/1062642W/clap-de-fin-pour-snapchat-.html:407:38",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: sas is not defined\n    at https://…s/1062642W/clap-de-fin-pour-snapchat-.html:407:38"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "sas is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

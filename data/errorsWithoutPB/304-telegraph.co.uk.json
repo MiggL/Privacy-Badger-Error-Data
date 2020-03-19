@@ -1,0 +1,126 @@
+[
+  {
+    "timestamp": 1583010627287.901,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 147,
+      "columnNumber": 60,
+      "url": "https://www.telegraph.co.uk/news/worldnews/europe/germany/1337279/Gherkin-checkers-keep-to-straight-and-narrow.html",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "document.onreadystatechange",
+            "scriptId": "18",
+            "url": "https://www.telegraph.co.uk/news/worldnews/europe/germany/1337279/Gherkin-checkers-keep-to-straight-and-narrow.html",
+            "lineNumber": 147,
+            "columnNumber": 60
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot set property 'src' of null at HTMLDocument.document.onreadystatechange (https://www.telegraph.co.uk/news/worldnews/europe/germany/1337279/Gherkin-checkers-keep-to-straight-and-narrow.html:148:61)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot set property 'src' of null at HTMLDocument.document.onreadystatechange (https://www.telegraph.co.uk/news/worldnews/europe/germany/1337279/Gherkin-checkers-keep-to-straight-and-narrow.html:148:61)",
+          "overflow": true,
+          "properties": [
+            {
+              "name": "reported",
+              "type": "boolean",
+              "value": "true"
+            },
+            {
+              "name": "timestamp",
+              "type": "number",
+              "value": "1583010627286"
+            },
+            {
+              "name": "lineNumber",
+              "type": "string",
+              "value": "148"
+            },
+            {
+              "name": "columnNumber",
+              "type": "string",
+              "value": "61"
+            },
+            {
+              "name": "functionName",
+              "type": "string",
+              "value": "HTMLDocument.document.onreadystatechange"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583010628821.604,
+    "exceptionDetails": {
+      "exceptionId": 2,
+      "text": "Uncaught",
+      "lineNumber": 147,
+      "columnNumber": 60,
+      "url": "https://www.telegraph.co.uk/news/worldnews/europe/germany/1337279/Gherkin-checkers-keep-to-straight-and-narrow.html",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "document.onreadystatechange",
+            "scriptId": "18",
+            "url": "https://www.telegraph.co.uk/news/worldnews/europe/germany/1337279/Gherkin-checkers-keep-to-straight-and-narrow.html",
+            "lineNumber": 147,
+            "columnNumber": 60
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot set property 'src' of null at HTMLDocument.document.onreadystatechange (https://www.telegraph.co.uk/news/worldnews/europe/germany/1337279/Gherkin-checkers-keep-to-straight-and-narrow.html:148:61)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":2}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot set property 'src' of null at HTMLDocument.document.onreadystatechange (https://www.telegraph.co.uk/news/worldnews/europe/germany/1337279/Gherkin-checkers-keep-to-straight-and-narrow.html:148:61)",
+          "overflow": true,
+          "properties": [
+            {
+              "name": "reported",
+              "type": "boolean",
+              "value": "true"
+            },
+            {
+              "name": "timestamp",
+              "type": "number",
+              "value": "1583010628820"
+            },
+            {
+              "name": "lineNumber",
+              "type": "string",
+              "value": "148"
+            },
+            {
+              "name": "columnNumber",
+              "type": "string",
+              "value": "61"
+            },
+            {
+              "name": "functionName",
+              "type": "string",
+              "value": "HTMLDocument.document.onreadystatechange"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

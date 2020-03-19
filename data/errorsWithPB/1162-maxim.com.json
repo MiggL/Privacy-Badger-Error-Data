@@ -1,0 +1,662 @@
+[
+  {
+    "timestamp": 1583421688517.605,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught (in promise)",
+      "lineNumber": 0,
+      "columnNumber": 0,
+      "scriptId": "1",
+      "url": "https://www.maxim.com/sports/bull-fighter-gored-through-throat-2017-4",
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Failed to fetch",
+        "objectId": "{\"injectedScriptId\":3,\"id\":5}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Failed to fetch",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Failed to fetch"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Failed to fetch"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583421688517.813,
+    "exceptionDetails": {
+      "exceptionId": 2,
+      "text": "Uncaught (in promise)",
+      "lineNumber": 0,
+      "columnNumber": 0,
+      "scriptId": "1",
+      "url": "https://www.maxim.com/sports/bull-fighter-gored-through-throat-2017-4",
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Failed to fetch",
+        "objectId": "{\"injectedScriptId\":3,\"id\":6}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Failed to fetch",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Failed to fetch"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Failed to fetch"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583421688608.479,
+    "exceptionDetails": {
+      "exceptionId": 3,
+      "text": "Uncaught (in promise)",
+      "lineNumber": 0,
+      "columnNumber": 0,
+      "scriptId": "1",
+      "url": "https://www.maxim.com/sports/bull-fighter-gored-through-throat-2017-4",
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Failed to fetch",
+        "objectId": "{\"injectedScriptId\":3,\"id\":8}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Failed to fetch",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Failed to fetch"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Failed to fetch"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583421688608.619,
+    "exceptionDetails": {
+      "exceptionId": 4,
+      "text": "Uncaught (in promise)",
+      "lineNumber": 0,
+      "columnNumber": 0,
+      "scriptId": "1",
+      "url": "https://www.maxim.com/sports/bull-fighter-gored-through-throat-2017-4",
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Failed to fetch",
+        "objectId": "{\"injectedScriptId\":3,\"id\":9}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Failed to fetch",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Failed to fetch"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Failed to fetch"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583421688608.711,
+    "exceptionDetails": {
+      "exceptionId": 5,
+      "text": "Uncaught (in promise)",
+      "lineNumber": 0,
+      "columnNumber": 0,
+      "scriptId": "1",
+      "url": "https://www.maxim.com/sports/bull-fighter-gored-through-throat-2017-4",
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Failed to fetch",
+        "objectId": "{\"injectedScriptId\":3,\"id\":10}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Failed to fetch",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Failed to fetch"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Failed to fetch"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583421688795.1091,
+    "exceptionDetails": {
+      "exceptionId": 6,
+      "text": "Uncaught (in promise)",
+      "lineNumber": 0,
+      "columnNumber": 0,
+      "scriptId": "1",
+      "url": "https://www.maxim.com/sports/bull-fighter-gored-through-throat-2017-4",
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Failed to fetch",
+        "objectId": "{\"injectedScriptId\":3,\"id\":12}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Failed to fetch",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Failed to fetch"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Failed to fetch"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583421688795.2722,
+    "exceptionDetails": {
+      "exceptionId": 7,
+      "text": "Uncaught (in promise)",
+      "lineNumber": 0,
+      "columnNumber": 0,
+      "scriptId": "1",
+      "url": "https://www.maxim.com/sports/bull-fighter-gored-through-throat-2017-4",
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Failed to fetch",
+        "objectId": "{\"injectedScriptId\":3,\"id\":13}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Failed to fetch",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Failed to fetch"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Failed to fetch"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583421688795.389,
+    "exceptionDetails": {
+      "exceptionId": 8,
+      "text": "Uncaught (in promise)",
+      "lineNumber": 0,
+      "columnNumber": 0,
+      "scriptId": "1",
+      "url": "https://www.maxim.com/sports/bull-fighter-gored-through-throat-2017-4",
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Failed to fetch",
+        "objectId": "{\"injectedScriptId\":3,\"id\":14}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Failed to fetch",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Failed to fetch"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Failed to fetch"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583421688795.5,
+    "exceptionDetails": {
+      "exceptionId": 9,
+      "text": "Uncaught (in promise)",
+      "lineNumber": 0,
+      "columnNumber": 0,
+      "scriptId": "1",
+      "url": "https://www.maxim.com/sports/bull-fighter-gored-through-throat-2017-4",
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Failed to fetch",
+        "objectId": "{\"injectedScriptId\":3,\"id\":15}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Failed to fetch",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Failed to fetch"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Failed to fetch"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583421688795.6172,
+    "exceptionDetails": {
+      "exceptionId": 10,
+      "text": "Uncaught (in promise)",
+      "lineNumber": 0,
+      "columnNumber": 0,
+      "scriptId": "1",
+      "url": "https://www.maxim.com/sports/bull-fighter-gored-through-throat-2017-4",
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Failed to fetch",
+        "objectId": "{\"injectedScriptId\":3,\"id\":16}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Failed to fetch",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Failed to fetch"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Failed to fetch"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583421688815.6929,
+    "exceptionDetails": {
+      "exceptionId": 11,
+      "text": "Uncaught (in promise)",
+      "lineNumber": 0,
+      "columnNumber": 0,
+      "scriptId": "1",
+      "url": "https://www.maxim.com/sports/bull-fighter-gored-through-throat-2017-4",
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Failed to fetch",
+        "objectId": "{\"injectedScriptId\":3,\"id\":18}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Failed to fetch",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Failed to fetch"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Failed to fetch"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583421688815.851,
+    "exceptionDetails": {
+      "exceptionId": 12,
+      "text": "Uncaught (in promise)",
+      "lineNumber": 0,
+      "columnNumber": 0,
+      "scriptId": "1",
+      "url": "https://www.maxim.com/sports/bull-fighter-gored-through-throat-2017-4",
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Failed to fetch",
+        "objectId": "{\"injectedScriptId\":3,\"id\":19}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Failed to fetch",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Failed to fetch"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Failed to fetch"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583421688815.943,
+    "exceptionDetails": {
+      "exceptionId": 13,
+      "text": "Uncaught (in promise)",
+      "lineNumber": 0,
+      "columnNumber": 0,
+      "scriptId": "1",
+      "url": "https://www.maxim.com/sports/bull-fighter-gored-through-throat-2017-4",
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Failed to fetch",
+        "objectId": "{\"injectedScriptId\":3,\"id\":20}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Failed to fetch",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Failed to fetch"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Failed to fetch"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583421688824.481,
+    "exceptionDetails": {
+      "exceptionId": 14,
+      "text": "Uncaught (in promise)",
+      "lineNumber": 0,
+      "columnNumber": 0,
+      "scriptId": "1",
+      "url": "https://www.maxim.com/sports/bull-fighter-gored-through-throat-2017-4",
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Failed to fetch",
+        "objectId": "{\"injectedScriptId\":3,\"id\":21}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Failed to fetch",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Failed to fetch"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Failed to fetch"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583421688824.729,
+    "exceptionDetails": {
+      "exceptionId": 15,
+      "text": "Uncaught (in promise)",
+      "lineNumber": 0,
+      "columnNumber": 0,
+      "scriptId": "1",
+      "url": "https://www.maxim.com/sports/bull-fighter-gored-through-throat-2017-4",
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Failed to fetch",
+        "objectId": "{\"injectedScriptId\":3,\"id\":22}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Failed to fetch",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Failed to fetch"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Failed to fetch"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583421688825.264,
+    "exceptionDetails": {
+      "exceptionId": 16,
+      "text": "Uncaught (in promise)",
+      "lineNumber": 0,
+      "columnNumber": 0,
+      "scriptId": "1",
+      "url": "https://www.maxim.com/sports/bull-fighter-gored-through-throat-2017-4",
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Failed to fetch",
+        "objectId": "{\"injectedScriptId\":3,\"id\":23}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Failed to fetch",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Failed to fetch"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Failed to fetch"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583421688825.402,
+    "exceptionDetails": {
+      "exceptionId": 17,
+      "text": "Uncaught (in promise)",
+      "lineNumber": 0,
+      "columnNumber": 4821,
+      "url": "https://www.maxim.com/runtime/gamma.js?v=2020-03-05-033306-6ed8b61-015060",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "63",
+            "url": "https://www.maxim.com/runtime/gamma.js?v=2020-03-05-033306-6ed8b61-015060",
+            "lineNumber": 0,
+            "columnNumber": 4821
+          },
+          {
+            "functionName": "",
+            "scriptId": "63",
+            "url": "https://www.maxim.com/runtime/gamma.js?v=2020-03-05-033306-6ed8b61-015060",
+            "lineNumber": 0,
+            "columnNumber": 4645
+          },
+          {
+            "functionName": "b",
+            "scriptId": "63",
+            "url": "https://www.maxim.com/runtime/gamma.js?v=2020-03-05-033306-6ed8b61-015060",
+            "lineNumber": 0,
+            "columnNumber": 4898
+          },
+          {
+            "functionName": "",
+            "scriptId": "63",
+            "url": "https://www.maxim.com/runtime/gamma.js?v=2020-03-05-033306-6ed8b61-015060",
+            "lineNumber": 0,
+            "columnNumber": 3953
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "Error",
+        "description": "Error: missing container element for ad ad-1a28f24f86ea4cf492bb7f6361a1a96a\n    at https://www.maxim.com/runtime/gamma.js?v=2020-03-05-033306-6ed8b61-015060:1:4822\n    at Array.map (<anonymous>)\n    at https://www.maxim.com/runtime/gamma.js?v=2020-03-05-033306-6ed8b61-015060:1:4646\n    at b (https://www.maxim.com/runtime/gamma.js?v=2020-03-05-033306-6ed8b61-015060:1:4899)\n    at https://www.maxim.com/runtime/gamma.js?v=2020-03-05-033306-6ed8b61-015060:1:3954",
+        "objectId": "{\"injectedScriptId\":3,\"id\":24}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "Error: missing container element for ad ad-1a28f24f86ea4cf492bb7f6361a1a96a\n    at https://www.maxim.com/runtime/gamma.js?v=2020-03-05-033306-6ed8b61-015060:1:4822\n    at Array.map (<anonymous>)\n    at https://www.maxim.com/runtime/gamma.js?v=2020-03-05-033306-6ed8b61-015060:1:4646\n    at b (https://www.maxim.com/runtime/gamma.js?v=2020-03-05-033306-6ed8b61-015060:1:4899)\n    at https://www.maxim.com/runtime/gamma.js?v=2020-03-05-033306-6ed8b61-015060:1:3954",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "Error: missing container element for ad ad-1a28f24…amma.js?v=2020-03-05-033306-6ed8b61-015060:1:3954"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "missing container element for ad ad-1a28f24f86ea4cf492bb7f6361a1a96a"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

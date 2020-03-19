@@ -1,0 +1,124 @@
+[
+  {
+    "timestamp": 1583421820103.7231,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 1982,
+      "columnNumber": 20,
+      "url": "http://www.radiogrenouille.com/wp-content/themes/radiogrenouille-new/fancybox/jquery.fancybox.js?v=2.1.4",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "23",
+            "url": "http://www.radiogrenouille.com/wp-content/themes/radiogrenouille-new/fancybox/jquery.fancybox.js?v=2.1.4",
+            "lineNumber": 1982,
+            "columnNumber": 20
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: jQuery is not defined\n    at http://www.radiogrenouille.com/wp-content/themes/radiogrenouille-new/fancybox/jquery.fancybox.js?v=2.1.4:1983:21",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: jQuery is not defined\n    at http://www.radiogrenouille.com/wp-content/themes/radiogrenouille-new/fancybox/jquery.fancybox.js?v=2.1.4:1983:21",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: jQuery is not defined\n    at http:…e-new/fancybox/jquery.fancybox.js?v=2.1.4:1983:21"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "jQuery is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583421820799.926,
+    "exceptionDetails": {
+      "exceptionId": 2,
+      "text": "Uncaught",
+      "lineNumber": 26,
+      "columnNumber": 16,
+      "url": "http://www.radiogrenouille.com/wp-content/themes/radiogrenouille-new/js/radiogrenouille.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "94",
+            "url": "http://www.radiogrenouille.com/wp-content/themes/radiogrenouille-new/js/radiogrenouille.js",
+            "lineNumber": 26,
+            "columnNumber": 16
+          },
+          {
+            "functionName": "j",
+            "scriptId": "21",
+            "url": "http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js",
+            "lineNumber": 1,
+            "columnNumber": 27243
+          },
+          {
+            "functionName": "fireWith",
+            "scriptId": "21",
+            "url": "http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js",
+            "lineNumber": 1,
+            "columnNumber": 28056
+          },
+          {
+            "functionName": "ready",
+            "scriptId": "21",
+            "url": "http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js",
+            "lineNumber": 1,
+            "columnNumber": 29890
+          },
+          {
+            "functionName": "J",
+            "scriptId": "21",
+            "url": "http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js",
+            "lineNumber": 1,
+            "columnNumber": 30256
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: $(...).popupwindow is not a function\n    at HTMLDocument.<anonymous> (http://www.radiogrenouille.com/wp-content/themes/radiogrenouille-new/js/radiogrenouille.js:27:17)\n    at j (http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js:2:27244)\n    at Object.fireWith [as resolveWith] (http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js:2:28057)\n    at Function.ready (http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js:2:29891)\n    at HTMLDocument.J (http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js:2:30257)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":2}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: $(...).popupwindow is not a function\n    at HTMLDocument.<anonymous> (http://www.radiogrenouille.com/wp-content/themes/radiogrenouille-new/js/radiogrenouille.js:27:17)\n    at j (http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js:2:27244)\n    at Object.fireWith [as resolveWith] (http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js:2:28057)\n    at Function.ready (http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js:2:29891)\n    at HTMLDocument.J (http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js:2:30257)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: $(...).popupwindow is not a function\n  …pis.com/ajax/libs/jquery/1/jquery.min.js:2:30257)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "$(...).popupwindow is not a function"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

@@ -1,0 +1,64 @@
+[
+  {
+    "timestamp": 1583010314943.0151,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 147,
+      "columnNumber": 60,
+      "url": "https://www.telegraph.co.uk/news/uknews/1565340/Princess-Diana-Crash-tunnel-opened-to-public.html",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "document.onreadystatechange",
+            "scriptId": "19",
+            "url": "https://www.telegraph.co.uk/news/uknews/1565340/Princess-Diana-Crash-tunnel-opened-to-public.html",
+            "lineNumber": 147,
+            "columnNumber": 60
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot set property 'src' of null at HTMLDocument.document.onreadystatechange (https://www.telegraph.co.uk/news/uknews/1565340/Princess-Diana-Crash-tunnel-opened-to-public.html:148:61)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot set property 'src' of null at HTMLDocument.document.onreadystatechange (https://www.telegraph.co.uk/news/uknews/1565340/Princess-Diana-Crash-tunnel-opened-to-public.html:148:61)",
+          "overflow": true,
+          "properties": [
+            {
+              "name": "reported",
+              "type": "boolean",
+              "value": "true"
+            },
+            {
+              "name": "timestamp",
+              "type": "number",
+              "value": "1583010314942"
+            },
+            {
+              "name": "lineNumber",
+              "type": "string",
+              "value": "148"
+            },
+            {
+              "name": "columnNumber",
+              "type": "string",
+              "value": "61"
+            },
+            {
+              "name": "functionName",
+              "type": "string",
+              "value": "HTMLDocument.document.onreadystatechange"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

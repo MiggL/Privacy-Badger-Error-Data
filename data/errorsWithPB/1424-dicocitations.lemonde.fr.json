@@ -1,0 +1,147 @@
+[
+  {
+    "timestamp": 1583419204130.6008,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 0,
+      "columnNumber": 3957,
+      "url": "https://www.dicocitations.com/javascript.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "39",
+            "url": "https://www.dicocitations.com/javascript.js",
+            "lineNumber": 0,
+            "columnNumber": 3957
+          },
+          {
+            "functionName": "i",
+            "scriptId": "21",
+            "url": "https://code.jquery.com/jquery-1.12.4.min.js",
+            "lineNumber": 1,
+            "columnNumber": 27448
+          },
+          {
+            "functionName": "fireWith",
+            "scriptId": "21",
+            "url": "https://code.jquery.com/jquery-1.12.4.min.js",
+            "lineNumber": 1,
+            "columnNumber": 28212
+          },
+          {
+            "functionName": "ready",
+            "scriptId": "21",
+            "url": "https://code.jquery.com/jquery-1.12.4.min.js",
+            "lineNumber": 1,
+            "columnNumber": 30005
+          },
+          {
+            "functionName": "K",
+            "scriptId": "21",
+            "url": "https://code.jquery.com/jquery-1.12.4.min.js",
+            "lineNumber": 1,
+            "columnNumber": 30367
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: e(...).smoothMenu is not a function\n    at HTMLDocument.<anonymous> (https://www.dicocitations.com/javascript.js:1:3958)\n    at i (https://code.jquery.com/jquery-1.12.4.min.js:2:27449)\n    at Object.fireWith [as resolveWith] (https://code.jquery.com/jquery-1.12.4.min.js:2:28213)\n    at Function.ready (https://code.jquery.com/jquery-1.12.4.min.js:2:30006)\n    at HTMLDocument.K (https://code.jquery.com/jquery-1.12.4.min.js:2:30368)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: e(...).smoothMenu is not a function\n    at HTMLDocument.<anonymous> (https://www.dicocitations.com/javascript.js:1:3958)\n    at i (https://code.jquery.com/jquery-1.12.4.min.js:2:27449)\n    at Object.fireWith [as resolveWith] (https://code.jquery.com/jquery-1.12.4.min.js:2:28213)\n    at Function.ready (https://code.jquery.com/jquery-1.12.4.min.js:2:30006)\n    at HTMLDocument.K (https://code.jquery.com/jquery-1.12.4.min.js:2:30368)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: e(...).smoothMenu is not a function\n   …s://code.jquery.com/jquery-1.12.4.min.js:2:30368)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "e(...).smoothMenu is not a function"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583419204279.016,
+    "exceptionDetails": {
+      "exceptionId": 2,
+      "text": "Uncaught",
+      "lineNumber": 164,
+      "columnNumber": 16,
+      "url": "https://s1.lemde.fr/media/js/lib/requirejs/require.446367255627.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "makeError",
+            "scriptId": "41",
+            "url": "https://s1.lemde.fr/media/js/lib/requirejs/require.446367255627.js",
+            "lineNumber": 164,
+            "columnNumber": 16
+          },
+          {
+            "functionName": "onScriptError",
+            "scriptId": "41",
+            "url": "https://s1.lemde.fr/media/js/lib/requirejs/require.446367255627.js",
+            "lineNumber": 1731,
+            "columnNumber": 35
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "Error",
+        "description": "Error: Script error for \"https://tag.audience.acpm.fr/js/on-1.0.min.js\", needed by: lmd/module/tag/one_next\nhttp://requirejs.org/docs/errors.html#scripterror\n    at makeError (https://s1.lemde.fr/media/js/lib/requirejs/require.446367255627.js:165:17)\n    at HTMLScriptElement.onScriptError (https://s1.lemde.fr/media/js/lib/requirejs/require.446367255627.js:1732:36)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":2}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "Error: Script error for \"https://tag.audience.acpm.fr/js/on-1.0.min.js\", needed by: lmd/module/tag/one_next\nhttp://requirejs.org/docs/errors.html#scripterror\n    at makeError (https://s1.lemde.fr/media/js/lib/requirejs/require.446367255627.js:165:17)\n    at HTMLScriptElement.onScriptError (https://s1.lemde.fr/media/js/lib/requirejs/require.446367255627.js:1732:36)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "requireType",
+              "type": "string",
+              "value": "scripterror"
+            },
+            {
+              "name": "requireModules",
+              "type": "object",
+              "value": "Array(1)",
+              "subtype": "array"
+            },
+            {
+              "name": "originalError",
+              "type": "object",
+              "value": "Event"
+            },
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "Error: Script error for \"https://tag.audience.acpm…js/lib/requirejs/require.446367255627.js:1732:36)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Script error for \"https://tag.audience.acpm.fr/js/…http://requirejs.org/docs/errors.html#scripterror"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

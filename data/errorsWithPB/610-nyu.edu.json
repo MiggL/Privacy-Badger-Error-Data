@@ -1,0 +1,96 @@
+[
+  {
+    "timestamp": 1583748765324.584,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 10,
+      "columnNumber": 15,
+      "url": "https://www.nyu.edu/gsas/dept/fineart/js/dropcap.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "29",
+            "url": "https://www.nyu.edu/gsas/dept/fineart/js/dropcap.js",
+            "lineNumber": 10,
+            "columnNumber": 15
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'layout' of undefined\n    at https://www.nyu.edu/gsas/dept/fineart/js/dropcap.js:11:16",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'layout' of undefined\n    at https://www.nyu.edu/gsas/dept/fineart/js/dropcap.js:11:16",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'layout' of undefi…www.nyu.edu/gsas/dept/fineart/js/dropcap.js:11:16"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'layout' of undefined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583748765325.0488,
+    "exceptionDetails": {
+      "exceptionId": 2,
+      "text": "Uncaught",
+      "lineNumber": 310,
+      "columnNumber": 15,
+      "url": "https://www.nyu.edu/gsas/dept/fineart/people/faculty/hay.htm",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "30",
+            "url": "https://www.nyu.edu/gsas/dept/fineart/people/faculty/hay.htm",
+            "lineNumber": 310,
+            "columnNumber": 15
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'layout' of undefined\n    at https://www.nyu.edu/gsas/dept/fineart/people/faculty/hay.htm:311:16",
+        "objectId": "{\"injectedScriptId\":3,\"id\":2}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'layout' of undefined\n    at https://www.nyu.edu/gsas/dept/fineart/people/faculty/hay.htm:311:16",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'layout' of undefi…u/gsas/dept/fineart/people/faculty/hay.htm:311:16"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'layout' of undefined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

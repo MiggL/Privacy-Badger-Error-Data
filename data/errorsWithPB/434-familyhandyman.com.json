@@ -1,0 +1,131 @@
+[
+  {
+    "timestamp": 1583750417423.247,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 52,
+      "columnNumber": 382,
+      "url": "https://www.familyhandyman.com/wp-content/cache/autoptimize/js/autoptimize_85363fe06ace561591264068e63e908a.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "comscore_track",
+            "scriptId": "35",
+            "url": "https://www.familyhandyman.com/wp-content/cache/autoptimize/js/autoptimize_85363fe06ace561591264068e63e908a.js",
+            "lineNumber": 52,
+            "columnNumber": 382
+          },
+          {
+            "functionName": "",
+            "scriptId": "35",
+            "url": "https://www.familyhandyman.com/wp-content/cache/autoptimize/js/autoptimize_85363fe06ace561591264068e63e908a.js",
+            "lineNumber": 79,
+            "columnNumber": 2208
+          },
+          {
+            "functionName": "i",
+            "scriptId": "35",
+            "url": "https://www.familyhandyman.com/wp-content/cache/autoptimize/js/autoptimize_85363fe06ace561591264068e63e908a.js",
+            "lineNumber": 4,
+            "columnNumber": 729
+          },
+          {
+            "functionName": "doAction",
+            "scriptId": "35",
+            "url": "https://www.familyhandyman.com/wp-content/cache/autoptimize/js/autoptimize_85363fe06ace561591264068e63e908a.js",
+            "lineNumber": 4,
+            "columnNumber": 1260
+          },
+          {
+            "functionName": "",
+            "scriptId": "35",
+            "url": "https://www.familyhandyman.com/wp-content/cache/autoptimize/js/autoptimize_85363fe06ace561591264068e63e908a.js",
+            "lineNumber": 79,
+            "columnNumber": 1267
+          },
+          {
+            "functionName": "IntersectionObserver.root",
+            "scriptId": "35",
+            "url": "https://www.familyhandyman.com/wp-content/cache/autoptimize/js/autoptimize_85363fe06ace561591264068e63e908a.js",
+            "lineNumber": 79,
+            "columnNumber": 1197
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: COMSCORE is not defined\n    at comscore_track (https://www.familyhandyman.com/wp-content/cache/autoptimize/js/autoptimize_85363fe06ace561591264068e63e908a.js:53:383)\n    at https://www.familyhandyman.com/wp-content/cache/autoptimize/js/autoptimize_85363fe06ace561591264068e63e908a.js:80:2209\n    at i (https://www.familyhandyman.com/wp-content/cache/autoptimize/js/autoptimize_85363fe06ace561591264068e63e908a.js:5:730)\n    at Object.doAction (https://www.familyhandyman.com/wp-content/cache/autoptimize/js/autoptimize_85363fe06ace561591264068e63e908a.js:5:1261)\n    at https://www.familyhandyman.com/wp-content/cache/autoptimize/js/autoptimize_85363fe06ace561591264068e63e908a.js:80:1268\n    at Array.forEach (<anonymous>)\n    at IntersectionObserver.root (https://www.familyhandyman.com/wp-content/cache/autoptimize/js/autoptimize_85363fe06ace561591264068e63e908a.js:80:1198)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":4}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: COMSCORE is not defined\n    at comscore_track (https://www.familyhandyman.com/wp-content/cache/autoptimize/js/autoptimize_85363fe06ace561591264068e63e908a.js:53:383)\n    at https://www.familyhandyman.com/wp-content/cache/autoptimize/js/autoptimize_85363fe06ace561591264068e63e908a.js:80:2209\n    at i (https://www.familyhandyman.com/wp-content/cache/autoptimize/js/autoptimize_85363fe06ace561591264068e63e908a.js:5:730)\n    at Object.doAction (https://www.familyhandyman.com/wp-content/cache/autoptimize/js/autoptimize_85363fe06ace561591264068e63e908a.js:5:1261)\n    at https://www.familyhandyman.com/wp-content/cache/autoptimize/js/autoptimize_85363fe06ace561591264068e63e908a.js:80:1268\n    at Array.forEach (<anonymous>)\n    at IntersectionObserver.root (https://www.familyhandyman.com/wp-content/cache/autoptimize/js/autoptimize_85363fe06ace561591264068e63e908a.js:80:1198)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: COMSCORE is not defined\n    at com…mize_85363fe06ace561591264068e63e908a.js:80:1198)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "COMSCORE is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583750417652.366,
+    "exceptionDetails": {
+      "exceptionId": 2,
+      "text": "Uncaught",
+      "lineNumber": 318,
+      "columnNumber": 2,
+      "url": "https://www.familyhandyman.com/smart-homeowner/diy-home-improvement/pvc-hacks/?_cmp=DiyTipsHints&_ebid=DiyTipsHints6/20/2017&_mid=153878&ehid=e386b505e3d5639d642862e979de54c541f55cea&pmcode=IVBJJU103",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "50",
+            "url": "https://www.familyhandyman.com/smart-homeowner/diy-home-improvement/pvc-hacks/?_cmp=DiyTipsHints&_ebid=DiyTipsHints6/20/2017&_mid=153878&ehid=e386b505e3d5639d642862e979de54c541f55cea&pmcode=IVBJJU103",
+            "lineNumber": 318,
+            "columnNumber": 2
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: gs_channels is not defined\n    at https://www.familyhandyman.com/smart-homeowner/diy-home-improvement/pvc-hacks/?_cmp=DiyTipsHints&_ebid=DiyTipsHints6/20/2017&_mid=153878&ehid=e386b505e3d5639d642862e979de54c541f55cea&pmcode=IVBJJU103:319:3",
+        "objectId": "{\"injectedScriptId\":3,\"id\":8}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: gs_channels is not defined\n    at https://www.familyhandyman.com/smart-homeowner/diy-home-improvement/pvc-hacks/?_cmp=DiyTipsHints&_ebid=DiyTipsHints6/20/2017&_mid=153878&ehid=e386b505e3d5639d642862e979de54c541f55cea&pmcode=IVBJJU103:319:3",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: gs_channels is not defined\n    at …9d642862e979de54c541f55cea&pmcode=IVBJJU103:319:3"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "gs_channels is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

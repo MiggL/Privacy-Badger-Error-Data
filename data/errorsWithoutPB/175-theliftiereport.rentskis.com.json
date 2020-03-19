@@ -1,0 +1,49 @@
+[
+  {
+    "timestamp": 1583011789271.6218,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 143,
+      "columnNumber": 6,
+      "url": "http://theliftiereport.rentskis.com/tlr/working-on-the-night-moves-what-to-do-come-nightfall-at-these-8-resorts/",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "21",
+            "url": "http://theliftiereport.rentskis.com/tlr/working-on-the-night-moves-what-to-do-come-nightfall-at-these-8-resorts/",
+            "lineNumber": 143,
+            "columnNumber": 6
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: insta.setAttribute is not a function\n    at http://theliftiereport.rentskis.com/tlr/working-on-the-night-moves-what-to-do-come-nightfall-at-these-8-resorts/:144:7",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: insta.setAttribute is not a function\n    at http://theliftiereport.rentskis.com/tlr/working-on-the-night-moves-what-to-do-come-nightfall-at-these-8-resorts/:144:7",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: insta.setAttribute is not a function\n  …at-to-do-come-nightfall-at-these-8-resorts/:144:7"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "insta.setAttribute is not a function"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

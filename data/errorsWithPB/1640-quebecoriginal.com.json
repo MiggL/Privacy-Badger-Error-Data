@@ -1,0 +1,49 @@
+[
+  {
+    "timestamp": 1583417248641.9338,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 723,
+      "columnNumber": 0,
+      "url": "https://www.quebecoriginal.com/fr-fr/fiche/hebergement/centres-de-vacances/villa-de-brome-14367895",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "86",
+            "url": "https://www.quebecoriginal.com/fr-fr/fiche/hebergement/centres-de-vacances/villa-de-brome-14367895",
+            "lineNumber": 723,
+            "columnNumber": 0
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: stLight is not defined\n    at https://www.quebecoriginal.com/fr-fr/fiche/hebergement/centres-de-vacances/villa-de-brome-14367895:724:1",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: stLight is not defined\n    at https://www.quebecoriginal.com/fr-fr/fiche/hebergement/centres-de-vacances/villa-de-brome-14367895:724:1",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: stLight is not defined\n    at http…centres-de-vacances/villa-de-brome-14367895:724:1"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "stLight is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

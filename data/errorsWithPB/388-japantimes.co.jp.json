@@ -1,0 +1,206 @@
+[
+  {
+    "timestamp": 1583750847880.197,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 9,
+      "columnNumber": 27,
+      "url": "https://www.japantimes.co.jp/wp-content/plugins/jt_paywall_affilliates/jtpwa_analytics.php?1583745135",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "39",
+            "url": "https://www.japantimes.co.jp/wp-content/plugins/jt_paywall_affilliates/jtpwa_analytics.php?1583745135",
+            "lineNumber": 9,
+            "columnNumber": 27
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: unknown is not defined\n    at https://www.japantimes.co.jp/wp-content/plugins/jt_paywall_affilliates/jtpwa_analytics.php?1583745135:10:28",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: unknown is not defined\n    at https://www.japantimes.co.jp/wp-content/plugins/jt_paywall_affilliates/jtpwa_analytics.php?1583745135:10:28",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: unknown is not defined\n    at http…_affilliates/jtpwa_analytics.php?1583745135:10:28"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "unknown is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583750848396.3052,
+    "exceptionDetails": {
+      "exceptionId": 2,
+      "text": "Uncaught",
+      "lineNumber": 448,
+      "columnNumber": 3,
+      "url": "https://www.japantimes.co.jp/wp-content/themes/jt_theme/library/js/custom.js?ver=1.0",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "93",
+            "url": "https://www.japantimes.co.jp/wp-content/themes/jt_theme/library/js/custom.js?ver=1.0",
+            "lineNumber": 448,
+            "columnNumber": 3
+          },
+          {
+            "functionName": "",
+            "scriptId": "93",
+            "url": "https://www.japantimes.co.jp/wp-content/themes/jt_theme/library/js/custom.js?ver=1.0",
+            "lineNumber": 451,
+            "columnNumber": 2
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: VS.hideUrlBar is not a function\n    at https://www.japantimes.co.jp/wp-content/themes/jt_theme/library/js/custom.js?ver=1.0:449:4\n    at https://www.japantimes.co.jp/wp-content/themes/jt_theme/library/js/custom.js?ver=1.0:452:3",
+        "objectId": "{\"injectedScriptId\":3,\"id\":2}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: VS.hideUrlBar is not a function\n    at https://www.japantimes.co.jp/wp-content/themes/jt_theme/library/js/custom.js?ver=1.0:449:4\n    at https://www.japantimes.co.jp/wp-content/themes/jt_theme/library/js/custom.js?ver=1.0:452:3",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: VS.hideUrlBar is not a function\n    at …hemes/jt_theme/library/js/custom.js?ver=1.0:452:3"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "VS.hideUrlBar is not a function"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583750848695.755,
+    "exceptionDetails": {
+      "exceptionId": 3,
+      "text": "Uncaught",
+      "lineNumber": 56,
+      "columnNumber": 24,
+      "url": "https://www.japantimes.co.jp/wp-content/plugins/jto_paywall/js/jto_paywall.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "41",
+            "url": "https://www.japantimes.co.jp/wp-content/plugins/jto_paywall/js/jto_paywall.js",
+            "lineNumber": 56,
+            "columnNumber": 24
+          },
+          {
+            "functionName": "",
+            "scriptId": "32",
+            "url": "https://www.japantimes.co.jp/wp-includes/js/jquery/jquery.js",
+            "lineNumber": 1,
+            "columnNumber": 28675
+          },
+          {
+            "functionName": "i",
+            "scriptId": "32",
+            "url": "https://www.japantimes.co.jp/wp-includes/js/jquery/jquery.js",
+            "lineNumber": 1,
+            "columnNumber": 27361
+          },
+          {
+            "functionName": "fireWith",
+            "scriptId": "32",
+            "url": "https://www.japantimes.co.jp/wp-includes/js/jquery/jquery.js",
+            "lineNumber": 1,
+            "columnNumber": 28120
+          },
+          {
+            "functionName": "e.<computed>",
+            "scriptId": "32",
+            "url": "https://www.japantimes.co.jp/wp-includes/js/jquery/jquery.js",
+            "lineNumber": 1,
+            "columnNumber": 29099
+          },
+          {
+            "functionName": "i",
+            "scriptId": "32",
+            "url": "https://www.japantimes.co.jp/wp-includes/js/jquery/jquery.js",
+            "lineNumber": 1,
+            "columnNumber": 27361
+          },
+          {
+            "functionName": "fireWith",
+            "scriptId": "32",
+            "url": "https://www.japantimes.co.jp/wp-includes/js/jquery/jquery.js",
+            "lineNumber": 1,
+            "columnNumber": 28120
+          },
+          {
+            "functionName": "x",
+            "scriptId": "32",
+            "url": "https://www.japantimes.co.jp/wp-includes/js/jquery/jquery.js",
+            "lineNumber": 3,
+            "columnNumber": 22574
+          },
+          {
+            "functionName": "c",
+            "scriptId": "32",
+            "url": "https://www.japantimes.co.jp/wp-includes/js/jquery/jquery.js",
+            "lineNumber": 3,
+            "columnNumber": 26775
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'toString' of undefined\n    at Object.<anonymous> (https://www.japantimes.co.jp/wp-content/plugins/jto_paywall/js/jto_paywall.js:57:25)\n    at Object.<anonymous> (https://www.japantimes.co.jp/wp-includes/js/jquery/jquery.js:2:28676)\n    at i (https://www.japantimes.co.jp/wp-includes/js/jquery/jquery.js:2:27362)\n    at Object.fireWith [as resolveWith] (https://www.japantimes.co.jp/wp-includes/js/jquery/jquery.js:2:28121)\n    at Object.e.<computed> [as success] (https://www.japantimes.co.jp/wp-includes/js/jquery/jquery.js:2:29100)\n    at i (https://www.japantimes.co.jp/wp-includes/js/jquery/jquery.js:2:27362)\n    at Object.fireWith [as resolveWith] (https://www.japantimes.co.jp/wp-includes/js/jquery/jquery.js:2:28121)\n    at x (https://www.japantimes.co.jp/wp-includes/js/jquery/jquery.js:4:22575)\n    at XMLHttpRequest.c (https://www.japantimes.co.jp/wp-includes/js/jquery/jquery.js:4:26776)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":3}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'toString' of undefined\n    at Object.<anonymous> (https://www.japantimes.co.jp/wp-content/plugins/jto_paywall/js/jto_paywall.js:57:25)\n    at Object.<anonymous> (https://www.japantimes.co.jp/wp-includes/js/jquery/jquery.js:2:28676)\n    at i (https://www.japantimes.co.jp/wp-includes/js/jquery/jquery.js:2:27362)\n    at Object.fireWith [as resolveWith] (https://www.japantimes.co.jp/wp-includes/js/jquery/jquery.js:2:28121)\n    at Object.e.<computed> [as success] (https://www.japantimes.co.jp/wp-includes/js/jquery/jquery.js:2:29100)\n    at i (https://www.japantimes.co.jp/wp-includes/js/jquery/jquery.js:2:27362)\n    at Object.fireWith [as resolveWith] (https://www.japantimes.co.jp/wp-includes/js/jquery/jquery.js:2:28121)\n    at x (https://www.japantimes.co.jp/wp-includes/js/jquery/jquery.js:4:22575)\n    at XMLHttpRequest.c (https://www.japantimes.co.jp/wp-includes/js/jquery/jquery.js:4:26776)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'toString' of unde…es.co.jp/wp-includes/js/jquery/jquery.js:4:26776)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'toString' of undefined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

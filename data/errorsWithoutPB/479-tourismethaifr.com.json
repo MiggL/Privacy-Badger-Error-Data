@@ -1,0 +1,138 @@
+[
+  {
+    "timestamp": 1583009013485.541,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 35,
+      "columnNumber": 120,
+      "url": "http://www.tourismethaifr.com/_lib/jquery.tools.min.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "17",
+            "url": "http://www.tourismethaifr.com/_lib/jquery.tools.min.js",
+            "lineNumber": 35,
+            "columnNumber": 120
+          },
+          {
+            "functionName": "",
+            "scriptId": "17",
+            "url": "http://www.tourismethaifr.com/_lib/jquery.tools.min.js",
+            "lineNumber": 36,
+            "columnNumber": 252
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'msie' of undefined\n    at http://www.tourismethaifr.com/_lib/jquery.tools.min.js:36:121\n    at http://www.tourismethaifr.com/_lib/jquery.tools.min.js:37:253",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'msie' of undefined\n    at http://www.tourismethaifr.com/_lib/jquery.tools.min.js:36:121\n    at http://www.tourismethaifr.com/_lib/jquery.tools.min.js:37:253",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'msie' of undefine…ourismethaifr.com/_lib/jquery.tools.min.js:37:253"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'msie' of undefined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583009013725.524,
+    "exceptionDetails": {
+      "exceptionId": 2,
+      "text": "Uncaught",
+      "lineNumber": 45,
+      "columnNumber": 20,
+      "url": "http://www.tourismethaifr.com/_lib/jquery.pngFix.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "jQuery.fn.pngFix",
+            "scriptId": "20",
+            "url": "http://www.tourismethaifr.com/_lib/jquery.pngFix.js",
+            "lineNumber": 45,
+            "columnNumber": 20
+          },
+          {
+            "functionName": "",
+            "scriptId": "21",
+            "url": "http://www.tourismethaifr.com/decouvrir-les-regions/decouvrir_les_regions.tpl?region=4",
+            "lineNumber": 108,
+            "columnNumber": 13
+          },
+          {
+            "functionName": "j",
+            "scriptId": "12",
+            "url": "https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js",
+            "lineNumber": 1,
+            "columnNumber": 26924
+          },
+          {
+            "functionName": "fireWith",
+            "scriptId": "12",
+            "url": "https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js",
+            "lineNumber": 1,
+            "columnNumber": 27737
+          },
+          {
+            "functionName": "ready",
+            "scriptId": "12",
+            "url": "https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js",
+            "lineNumber": 1,
+            "columnNumber": 29531
+          },
+          {
+            "functionName": "I",
+            "scriptId": "12",
+            "url": "https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js",
+            "lineNumber": 1,
+            "columnNumber": 29722
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'msie' of undefined\n    at n.fn.init.jQuery.fn.pngFix (http://www.tourismethaifr.com/_lib/jquery.pngFix.js:46:21)\n    at HTMLDocument.<anonymous> (http://www.tourismethaifr.com/decouvrir-les-regions/decouvrir_les_regions.tpl?region=4:109:14)\n    at j (https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js:2:26925)\n    at Object.fireWith [as resolveWith] (https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js:2:27738)\n    at Function.ready (https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js:2:29532)\n    at HTMLDocument.I (https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js:2:29723)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":2}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'msie' of undefined\n    at n.fn.init.jQuery.fn.pngFix (http://www.tourismethaifr.com/_lib/jquery.pngFix.js:46:21)\n    at HTMLDocument.<anonymous> (http://www.tourismethaifr.com/decouvrir-les-regions/decouvrir_les_regions.tpl?region=4:109:14)\n    at j (https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js:2:26925)\n    at Object.fireWith [as resolveWith] (https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js:2:27738)\n    at Function.ready (https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js:2:29532)\n    at HTMLDocument.I (https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js:2:29723)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'msie' of undefine…com/ajax/libs/jquery/2.1.4/jquery.min.js:2:29723)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'msie' of undefined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

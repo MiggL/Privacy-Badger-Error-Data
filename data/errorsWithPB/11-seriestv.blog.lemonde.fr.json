@@ -1,0 +1,176 @@
+[
+  {
+    "timestamp": 1583759236346.459,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught (in promise)",
+      "lineNumber": 0,
+      "columnNumber": 0,
+      "scriptId": "1",
+      "url": "https://www.lemonde.fr/blog/seriestv/2009/01/25/oz-la-prison-pour-le-pire/",
+      "exception": {
+        "type": "object",
+        "className": "Event",
+        "description": "Event",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "description": "Event",
+          "overflow": true,
+          "properties": [
+            {
+              "name": "isTrusted",
+              "type": "boolean",
+              "value": "true"
+            },
+            {
+              "name": "type",
+              "type": "string",
+              "value": "error"
+            },
+            {
+              "name": "target",
+              "type": "object",
+              "value": "script",
+              "subtype": "node"
+            },
+            {
+              "name": "currentTarget",
+              "type": "object",
+              "value": "null",
+              "subtype": "null"
+            },
+            {
+              "name": "eventPhase",
+              "type": "number",
+              "value": "0"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583759236346.7979,
+    "exceptionDetails": {
+      "exceptionId": 2,
+      "text": "Uncaught (in promise)",
+      "lineNumber": 0,
+      "columnNumber": 0,
+      "scriptId": "1",
+      "url": "https://www.lemonde.fr/blog/seriestv/2009/01/25/oz-la-prison-pour-le-pire/",
+      "exception": {
+        "type": "object",
+        "className": "Event",
+        "description": "Event",
+        "objectId": "{\"injectedScriptId\":3,\"id\":2}",
+        "preview": {
+          "type": "object",
+          "description": "Event",
+          "overflow": true,
+          "properties": [
+            {
+              "name": "isTrusted",
+              "type": "boolean",
+              "value": "true"
+            },
+            {
+              "name": "type",
+              "type": "string",
+              "value": "error"
+            },
+            {
+              "name": "target",
+              "type": "object",
+              "value": "script",
+              "subtype": "node"
+            },
+            {
+              "name": "currentTarget",
+              "type": "object",
+              "value": "null",
+              "subtype": "null"
+            },
+            {
+              "name": "eventPhase",
+              "type": "number",
+              "value": "0"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583759236976.868,
+    "exceptionDetails": {
+      "exceptionId": 3,
+      "text": "Uncaught",
+      "lineNumber": 164,
+      "columnNumber": 16,
+      "url": "https://s1.lemde.fr/media/js/lib/requirejs/require.446367255627.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "makeError",
+            "scriptId": "52",
+            "url": "https://s1.lemde.fr/media/js/lib/requirejs/require.446367255627.js",
+            "lineNumber": 164,
+            "columnNumber": 16
+          },
+          {
+            "functionName": "onScriptError",
+            "scriptId": "52",
+            "url": "https://s1.lemde.fr/media/js/lib/requirejs/require.446367255627.js",
+            "lineNumber": 1731,
+            "columnNumber": 35
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "Error",
+        "description": "Error: Script error for \"https://tag.audience.acpm.fr/js/on-1.0.min.js\", needed by: lmd/module/tag/one_next\nhttp://requirejs.org/docs/errors.html#scripterror\n    at makeError (https://s1.lemde.fr/media/js/lib/requirejs/require.446367255627.js:165:17)\n    at HTMLScriptElement.onScriptError (https://s1.lemde.fr/media/js/lib/requirejs/require.446367255627.js:1732:36)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":3}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "Error: Script error for \"https://tag.audience.acpm.fr/js/on-1.0.min.js\", needed by: lmd/module/tag/one_next\nhttp://requirejs.org/docs/errors.html#scripterror\n    at makeError (https://s1.lemde.fr/media/js/lib/requirejs/require.446367255627.js:165:17)\n    at HTMLScriptElement.onScriptError (https://s1.lemde.fr/media/js/lib/requirejs/require.446367255627.js:1732:36)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "requireType",
+              "type": "string",
+              "value": "scripterror"
+            },
+            {
+              "name": "requireModules",
+              "type": "object",
+              "value": "Array(1)",
+              "subtype": "array"
+            },
+            {
+              "name": "originalError",
+              "type": "object",
+              "value": "Event"
+            },
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "Error: Script error for \"https://tag.audience.acpm…js/lib/requirejs/require.446367255627.js:1732:36)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Script error for \"https://tag.audience.acpm.fr/js/…http://requirejs.org/docs/errors.html#scripterror"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

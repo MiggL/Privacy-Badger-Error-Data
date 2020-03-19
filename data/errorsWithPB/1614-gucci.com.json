@@ -1,0 +1,176 @@
+[
+  {
+    "timestamp": 1583417472217.9429,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught (in promise)",
+      "lineNumber": 4,
+      "columnNumber": 17503,
+      "url": "https://www.gucci.com/_ui/responsive/common/js/core.js?v=20200304075502",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "140",
+            "url": "https://www.gucci.com/_ui/responsive/common/js/core.js?v=20200304075502",
+            "lineNumber": 4,
+            "columnNumber": 17503
+          },
+          {
+            "functionName": "each",
+            "scriptId": "112",
+            "url": "https://www.gucci.com/_ui/responsive/common/js/main.js?v=20200304075502",
+            "lineNumber": 2,
+            "columnNumber": 14847
+          },
+          {
+            "functionName": "each",
+            "scriptId": "112",
+            "url": "https://www.gucci.com/_ui/responsive/common/js/main.js?v=20200304075502",
+            "lineNumber": 2,
+            "columnNumber": 12814
+          },
+          {
+            "functionName": "",
+            "scriptId": "140",
+            "url": "https://www.gucci.com/_ui/responsive/common/js/core.js?v=20200304075502",
+            "lineNumber": 4,
+            "columnNumber": 17337
+          },
+          {
+            "functionName": "dispatch",
+            "scriptId": "112",
+            "url": "https://www.gucci.com/_ui/responsive/common/js/main.js?v=20200304075502",
+            "lineNumber": 3,
+            "columnNumber": 16865
+          },
+          {
+            "functionName": "g.handle",
+            "scriptId": "112",
+            "url": "https://www.gucci.com/_ui/responsive/common/js/main.js?v=20200304075502",
+            "lineNumber": 3,
+            "columnNumber": 14940
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "DOMException",
+        "description": "DOMException: The element has no supported sources.",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "DOMException: The element has no supported sources.",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "code",
+              "type": "number",
+              "value": "9"
+            },
+            {
+              "name": "name",
+              "type": "string",
+              "value": "NotSupportedError"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "The element has no supported sources."
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583417472218.18,
+    "exceptionDetails": {
+      "exceptionId": 2,
+      "text": "Uncaught (in promise)",
+      "lineNumber": 4,
+      "columnNumber": 17503,
+      "url": "https://www.gucci.com/_ui/responsive/common/js/core.js?v=20200304075502",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "140",
+            "url": "https://www.gucci.com/_ui/responsive/common/js/core.js?v=20200304075502",
+            "lineNumber": 4,
+            "columnNumber": 17503
+          },
+          {
+            "functionName": "each",
+            "scriptId": "112",
+            "url": "https://www.gucci.com/_ui/responsive/common/js/main.js?v=20200304075502",
+            "lineNumber": 2,
+            "columnNumber": 14847
+          },
+          {
+            "functionName": "each",
+            "scriptId": "112",
+            "url": "https://www.gucci.com/_ui/responsive/common/js/main.js?v=20200304075502",
+            "lineNumber": 2,
+            "columnNumber": 12814
+          },
+          {
+            "functionName": "",
+            "scriptId": "140",
+            "url": "https://www.gucci.com/_ui/responsive/common/js/core.js?v=20200304075502",
+            "lineNumber": 4,
+            "columnNumber": 17337
+          },
+          {
+            "functionName": "dispatch",
+            "scriptId": "112",
+            "url": "https://www.gucci.com/_ui/responsive/common/js/main.js?v=20200304075502",
+            "lineNumber": 3,
+            "columnNumber": 16865
+          },
+          {
+            "functionName": "g.handle",
+            "scriptId": "112",
+            "url": "https://www.gucci.com/_ui/responsive/common/js/main.js?v=20200304075502",
+            "lineNumber": 3,
+            "columnNumber": 14940
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "DOMException",
+        "description": "DOMException: The element has no supported sources.",
+        "objectId": "{\"injectedScriptId\":3,\"id\":2}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "DOMException: The element has no supported sources.",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "code",
+              "type": "number",
+              "value": "9"
+            },
+            {
+              "name": "name",
+              "type": "string",
+              "value": "NotSupportedError"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "The element has no supported sources."
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

@@ -1,0 +1,84 @@
+[
+  {
+    "timestamp": 1583748708463.575,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 4,
+      "columnNumber": 144516,
+      "url": "https://www.findlawimages.com/etc/designs/flcommon/flfe/javascript/flpublic.redesign.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "r",
+            "scriptId": "22",
+            "url": "https://www.findlawimages.com/etc/designs/flcommon/flfe/javascript/flpublic.redesign.js",
+            "lineNumber": 4,
+            "columnNumber": 144516
+          },
+          {
+            "functionName": "o",
+            "scriptId": "22",
+            "url": "https://www.findlawimages.com/etc/designs/flcommon/flfe/javascript/flpublic.redesign.js",
+            "lineNumber": 4,
+            "columnNumber": 145525
+          },
+          {
+            "functionName": "e",
+            "scriptId": "22",
+            "url": "https://www.findlawimages.com/etc/designs/flcommon/flfe/javascript/flpublic.redesign.js",
+            "lineNumber": 4,
+            "columnNumber": 151414
+          },
+          {
+            "functionName": "",
+            "scriptId": "22",
+            "url": "https://www.findlawimages.com/etc/designs/flcommon/flfe/javascript/flpublic.redesign.js",
+            "lineNumber": 4,
+            "columnNumber": 153571
+          },
+          {
+            "functionName": "a",
+            "scriptId": "22",
+            "url": "https://www.findlawimages.com/etc/designs/flcommon/flfe/javascript/flpublic.redesign.js",
+            "lineNumber": 4,
+            "columnNumber": 7786
+          },
+          {
+            "functionName": "",
+            "scriptId": "22",
+            "url": "https://www.findlawimages.com/etc/designs/flcommon/flfe/javascript/flpublic.redesign.js",
+            "lineNumber": 4,
+            "columnNumber": 11477
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: window.googletag.sizeMapping is not a function\n    at r (https://www.findlawimages.com/etc/designs/flcommon/flfe/javascript/flpublic.redesign.js:5:144517)\n    at o (https://www.findlawimages.com/etc/designs/flcommon/flfe/javascript/flpublic.redesign.js:5:145526)\n    at e (https://www.findlawimages.com/etc/designs/flcommon/flfe/javascript/flpublic.redesign.js:5:151415)\n    at Array.<anonymous> (https://www.findlawimages.com/etc/designs/flcommon/flfe/javascript/flpublic.redesign.js:5:153572)\n    at a (https://www.findlawimages.com/etc/designs/flcommon/flfe/javascript/flpublic.redesign.js:5:7787)\n    at HTMLScriptElement.<anonymous> (https://www.findlawimages.com/etc/designs/flcommon/flfe/javascript/flpublic.redesign.js:5:11478)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: window.googletag.sizeMapping is not a function\n    at r (https://www.findlawimages.com/etc/designs/flcommon/flfe/javascript/flpublic.redesign.js:5:144517)\n    at o (https://www.findlawimages.com/etc/designs/flcommon/flfe/javascript/flpublic.redesign.js:5:145526)\n    at e (https://www.findlawimages.com/etc/designs/flcommon/flfe/javascript/flpublic.redesign.js:5:151415)\n    at Array.<anonymous> (https://www.findlawimages.com/etc/designs/flcommon/flfe/javascript/flpublic.redesign.js:5:153572)\n    at a (https://www.findlawimages.com/etc/designs/flcommon/flfe/javascript/flpublic.redesign.js:5:7787)\n    at HTMLScriptElement.<anonymous> (https://www.findlawimages.com/etc/designs/flcommon/flfe/javascript/flpublic.redesign.js:5:11478)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: window.googletag.sizeMapping is not a f…mon/flfe/javascript/flpublic.redesign.js:5:11478)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "window.googletag.sizeMapping is not a function"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

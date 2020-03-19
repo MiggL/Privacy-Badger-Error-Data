@@ -1,0 +1,96 @@
+[
+  {
+    "timestamp": 1583758933344.265,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 93,
+      "columnNumber": 31,
+      "url": "https://www.trane.com/commercial/north-america/us/en/services/industrial-refrigeration/industrial-refrigeration-literature.html",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "32",
+            "url": "https://www.trane.com/commercial/north-america/us/en/services/industrial-refrigeration/industrial-refrigeration-literature.html",
+            "lineNumber": 93,
+            "columnNumber": 31
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: stLight is not defined\n    at https://www.trane.com/commercial/north-america/us/en/services/industrial-refrigeration/industrial-refrigeration-literature.html:94:32",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: stLight is not defined\n    at https://www.trane.com/commercial/north-america/us/en/services/industrial-refrigeration/industrial-refrigeration-literature.html:94:32",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: stLight is not defined\n    at http…on/industrial-refrigeration-literature.html:94:32"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "stLight is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583758933577.7979,
+    "exceptionDetails": {
+      "exceptionId": 2,
+      "text": "Uncaught",
+      "lineNumber": 3877,
+      "columnNumber": 0,
+      "url": "https://www.trane.com/etc/designs/trane/commercial/clientlib.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "24",
+            "url": "https://www.trane.com/etc/designs/trane/commercial/clientlib.js",
+            "lineNumber": 3877,
+            "columnNumber": 0
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: CQ is not defined\n    at https://www.trane.com/etc/designs/trane/commercial/clientlib.js:3878:1",
+        "objectId": "{\"injectedScriptId\":3,\"id\":2}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: CQ is not defined\n    at https://www.trane.com/etc/designs/trane/commercial/clientlib.js:3878:1",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: CQ is not defined\n    at https://w…/etc/designs/trane/commercial/clientlib.js:3878:1"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "CQ is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

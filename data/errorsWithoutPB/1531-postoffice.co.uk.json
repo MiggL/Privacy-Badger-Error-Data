@@ -1,0 +1,84 @@
+[
+  {
+    "timestamp": 1582818051545.512,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 0,
+      "columnNumber": 1079,
+      "url": "https://www.postoffice.co.uk/.resources/pol-module-rebrand/js/main-min.js?v=1.1.816",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "idpTool.init",
+            "scriptId": "46",
+            "url": "https://www.postoffice.co.uk/.resources/pol-module-rebrand/js/main-min.js?v=1.1.816",
+            "lineNumber": 0,
+            "columnNumber": 1079
+          },
+          {
+            "functionName": "",
+            "scriptId": "46",
+            "url": "https://www.postoffice.co.uk/.resources/pol-module-rebrand/js/main-min.js?v=1.1.816",
+            "lineNumber": 0,
+            "columnNumber": 275
+          },
+          {
+            "functionName": "fire",
+            "scriptId": "44",
+            "url": "https://www.postoffice.co.uk/.resources/pol-module-rebrand/js/mortgage/jquery.js?v=1.1.816",
+            "lineNumber": 3186,
+            "columnNumber": 30
+          },
+          {
+            "functionName": "fireWith",
+            "scriptId": "44",
+            "url": "https://www.postoffice.co.uk/.resources/pol-module-rebrand/js/mortgage/jquery.js?v=1.1.816",
+            "lineNumber": 3316,
+            "columnNumber": 6
+          },
+          {
+            "functionName": "ready",
+            "scriptId": "44",
+            "url": "https://www.postoffice.co.uk/.resources/pol-module-rebrand/js/mortgage/jquery.js?v=1.1.816",
+            "lineNumber": 3535,
+            "columnNumber": 12
+          },
+          {
+            "functionName": "completed",
+            "scriptId": "44",
+            "url": "https://www.postoffice.co.uk/.resources/pol-module-rebrand/js/mortgage/jquery.js?v=1.1.816",
+            "lineNumber": 3551,
+            "columnNumber": 8
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: countryList is not defined\n    at Object.idpTool.init (https://www.postoffice.co.uk/.resources/pol-module-rebrand/js/main-min.js?v=1.1.816:1:1080)\n    at HTMLDocument.<anonymous> (https://www.postoffice.co.uk/.resources/pol-module-rebrand/js/main-min.js?v=1.1.816:1:276)\n    at fire (https://www.postoffice.co.uk/.resources/pol-module-rebrand/js/mortgage/jquery.js?v=1.1.816:3187:31)\n    at Object.fireWith [as resolveWith] (https://www.postoffice.co.uk/.resources/pol-module-rebrand/js/mortgage/jquery.js?v=1.1.816:3317:7)\n    at Function.ready (https://www.postoffice.co.uk/.resources/pol-module-rebrand/js/mortgage/jquery.js?v=1.1.816:3536:13)\n    at HTMLDocument.completed (https://www.postoffice.co.uk/.resources/pol-module-rebrand/js/mortgage/jquery.js?v=1.1.816:3552:9)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: countryList is not defined\n    at Object.idpTool.init (https://www.postoffice.co.uk/.resources/pol-module-rebrand/js/main-min.js?v=1.1.816:1:1080)\n    at HTMLDocument.<anonymous> (https://www.postoffice.co.uk/.resources/pol-module-rebrand/js/main-min.js?v=1.1.816:1:276)\n    at fire (https://www.postoffice.co.uk/.resources/pol-module-rebrand/js/mortgage/jquery.js?v=1.1.816:3187:31)\n    at Object.fireWith [as resolveWith] (https://www.postoffice.co.uk/.resources/pol-module-rebrand/js/mortgage/jquery.js?v=1.1.816:3317:7)\n    at Function.ready (https://www.postoffice.co.uk/.resources/pol-module-rebrand/js/mortgage/jquery.js?v=1.1.816:3536:13)\n    at HTMLDocument.completed (https://www.postoffice.co.uk/.resources/pol-module-rebrand/js/mortgage/jquery.js?v=1.1.816:3552:9)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: countryList is not defined\n    at …e-rebrand/js/mortgage/jquery.js?v=1.1.816:3552:9)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "countryList is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

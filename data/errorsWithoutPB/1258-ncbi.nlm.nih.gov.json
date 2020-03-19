@@ -1,0 +1,98 @@
+[
+  {
+    "timestamp": 1583001801938.7852,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 1392,
+      "columnNumber": 12,
+      "url": "https://static.pubmed.gov/portal/portal3rc.fcgi/4160049/js/3879255/4121861/3818874/4168176/3821238/4117325/4087685/4072593/4076480/3921943/4065628.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "34",
+            "url": "https://static.pubmed.gov/portal/portal3rc.fcgi/4160049/js/3879255/4121861/3818874/4168176/3821238/4117325/4087685/4072593/4076480/3921943/4065628.js",
+            "lineNumber": 1392,
+            "columnNumber": 12
+          },
+          {
+            "functionName": "each",
+            "scriptId": "13",
+            "url": "https://www.ncbi.nlm.nih.gov/core/jig/1.14.8/js/jig.min.js",
+            "lineNumber": 1,
+            "columnNumber": 14483
+          },
+          {
+            "functionName": "each",
+            "scriptId": "13",
+            "url": "https://www.ncbi.nlm.nih.gov/core/jig/1.14.8/js/jig.min.js",
+            "lineNumber": 1,
+            "columnNumber": 11932
+          },
+          {
+            "functionName": "",
+            "scriptId": "13",
+            "url": "https://www.ncbi.nlm.nih.gov/core/jig/1.14.8/js/jig.min.js",
+            "lineNumber": 4,
+            "columnNumber": 21514
+          },
+          {
+            "functionName": "fire",
+            "scriptId": "13",
+            "url": "https://www.ncbi.nlm.nih.gov/core/jig/1.14.8/js/jig.min.js",
+            "lineNumber": 2,
+            "columnNumber": 19528
+          },
+          {
+            "functionName": "fireWith",
+            "scriptId": "13",
+            "url": "https://www.ncbi.nlm.nih.gov/core/jig/1.14.8/js/jig.min.js",
+            "lineNumber": 2,
+            "columnNumber": 20717
+          },
+          {
+            "functionName": "done",
+            "scriptId": "13",
+            "url": "https://www.ncbi.nlm.nih.gov/core/jig/1.14.8/js/jig.min.js",
+            "lineNumber": 4,
+            "columnNumber": 10032
+          },
+          {
+            "functionName": "",
+            "scriptId": "13",
+            "url": "https://www.ncbi.nlm.nih.gov/core/jig/1.14.8/js/jig.min.js",
+            "lineNumber": 4,
+            "columnNumber": 17978
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: CitedRefBlocks is not defined\n    at HTMLDivElement.<anonymous> (https://static.pubmed.gov/portal/portal3rc.fcgi/4160049/js/3879255/4121861/3818874/4168176/3821238/4117325/4087685/4072593/4076480/3921943/4065628.js:1393:13)\n    at Function.each (https://www.ncbi.nlm.nih.gov/core/jig/1.14.8/js/jig.min.js:2:14484)\n    at jQuery.fn.init.each (https://www.ncbi.nlm.nih.gov/core/jig/1.14.8/js/jig.min.js:2:11933)\n    at Object.<anonymous> (https://www.ncbi.nlm.nih.gov/core/jig/1.14.8/js/jig.min.js:5:21515)\n    at fire (https://www.ncbi.nlm.nih.gov/core/jig/1.14.8/js/jig.min.js:3:19529)\n    at Object.fireWith (https://www.ncbi.nlm.nih.gov/core/jig/1.14.8/js/jig.min.js:3:20718)\n    at done (https://www.ncbi.nlm.nih.gov/core/jig/1.14.8/js/jig.min.js:5:10033)\n    at XMLHttpRequest.<anonymous> (https://www.ncbi.nlm.nih.gov/core/jig/1.14.8/js/jig.min.js:5:17979)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: CitedRefBlocks is not defined\n    at HTMLDivElement.<anonymous> (https://static.pubmed.gov/portal/portal3rc.fcgi/4160049/js/3879255/4121861/3818874/4168176/3821238/4117325/4087685/4072593/4076480/3921943/4065628.js:1393:13)\n    at Function.each (https://www.ncbi.nlm.nih.gov/core/jig/1.14.8/js/jig.min.js:2:14484)\n    at jQuery.fn.init.each (https://www.ncbi.nlm.nih.gov/core/jig/1.14.8/js/jig.min.js:2:11933)\n    at Object.<anonymous> (https://www.ncbi.nlm.nih.gov/core/jig/1.14.8/js/jig.min.js:5:21515)\n    at fire (https://www.ncbi.nlm.nih.gov/core/jig/1.14.8/js/jig.min.js:3:19529)\n    at Object.fireWith (https://www.ncbi.nlm.nih.gov/core/jig/1.14.8/js/jig.min.js:3:20718)\n    at done (https://www.ncbi.nlm.nih.gov/core/jig/1.14.8/js/jig.min.js:5:10033)\n    at XMLHttpRequest.<anonymous> (https://www.ncbi.nlm.nih.gov/core/jig/1.14.8/js/jig.min.js:5:17979)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: CitedRefBlocks is not defined\n    …lm.nih.gov/core/jig/1.14.8/js/jig.min.js:5:17979)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "CitedRefBlocks is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

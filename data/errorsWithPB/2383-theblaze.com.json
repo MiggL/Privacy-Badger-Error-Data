@@ -1,0 +1,96 @@
+[
+  {
+    "timestamp": 1582893096462.002,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 3491,
+      "columnNumber": 0,
+      "url": "https://www.theblaze.com/news/2017/03/05/nancy-pelosi-refuses-to-condemn-dem-congressman-who-made-crude-sexual-joke-about-kellyanne-conway",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "65",
+            "url": "https://www.theblaze.com/news/2017/03/05/nancy-pelosi-refuses-to-condemn-dem-congressman-who-made-crude-sexual-joke-about-kellyanne-conway",
+            "lineNumber": 3491,
+            "columnNumber": 0
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: cmTag is not defined\n    at https://www.theblaze.com/news/2017/03/05/nancy-pelosi-refuses-to-condemn-dem-congressman-who-made-crude-sexual-joke-about-kellyanne-conway:3492:1",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: cmTag is not defined\n    at https://www.theblaze.com/news/2017/03/05/nancy-pelosi-refuses-to-condemn-dem-congressman-who-made-crude-sexual-joke-about-kellyanne-conway:3492:1",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: cmTag is not defined\n    at https:…e-crude-sexual-joke-about-kellyanne-conway:3492:1"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "cmTag is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1582893096462.506,
+    "exceptionDetails": {
+      "exceptionId": 2,
+      "text": "Uncaught",
+      "lineNumber": 3725,
+      "columnNumber": 6,
+      "url": "https://www.theblaze.com/news/2017/03/05/nancy-pelosi-refuses-to-condemn-dem-congressman-who-made-crude-sexual-joke-about-kellyanne-conway",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "66",
+            "url": "https://www.theblaze.com/news/2017/03/05/nancy-pelosi-refuses-to-condemn-dem-congressman-who-made-crude-sexual-joke-about-kellyanne-conway",
+            "lineNumber": 3725,
+            "columnNumber": 6
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: cmTag is not defined\n    at https://www.theblaze.com/news/2017/03/05/nancy-pelosi-refuses-to-condemn-dem-congressman-who-made-crude-sexual-joke-about-kellyanne-conway:3726:7",
+        "objectId": "{\"injectedScriptId\":3,\"id\":2}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: cmTag is not defined\n    at https://www.theblaze.com/news/2017/03/05/nancy-pelosi-refuses-to-condemn-dem-congressman-who-made-crude-sexual-joke-about-kellyanne-conway:3726:7",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: cmTag is not defined\n    at https:…e-crude-sexual-joke-about-kellyanne-conway:3726:7"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "cmTag is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

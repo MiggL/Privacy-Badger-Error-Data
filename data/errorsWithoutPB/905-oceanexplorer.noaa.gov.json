@@ -1,0 +1,63 @@
+[
+  {
+    "timestamp": 1583005094487.267,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 31,
+      "columnNumber": 81,
+      "url": "https://oceanexplorer.noaa.gov/js/federated-analytics.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "_updateConfig",
+            "scriptId": "13",
+            "url": "https://oceanexplorer.noaa.gov/js/federated-analytics.js",
+            "lineNumber": 31,
+            "columnNumber": 81
+          },
+          {
+            "functionName": "_onEveryPage",
+            "scriptId": "13",
+            "url": "https://oceanexplorer.noaa.gov/js/federated-analytics.js",
+            "lineNumber": 13,
+            "columnNumber": 974
+          },
+          {
+            "functionName": "",
+            "scriptId": "13",
+            "url": "https://oceanexplorer.noaa.gov/js/federated-analytics.js",
+            "lineNumber": 14,
+            "columnNumber": 0
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'getAttribute' of null\n    at _updateConfig (https://oceanexplorer.noaa.gov/js/federated-analytics.js:32:82)\n    at _onEveryPage (https://oceanexplorer.noaa.gov/js/federated-analytics.js:14:975)\n    at https://oceanexplorer.noaa.gov/js/federated-analytics.js:15:1",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'getAttribute' of null\n    at _updateConfig (https://oceanexplorer.noaa.gov/js/federated-analytics.js:32:82)\n    at _onEveryPage (https://oceanexplorer.noaa.gov/js/federated-analytics.js:14:975)\n    at https://oceanexplorer.noaa.gov/js/federated-analytics.js:15:1",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'getAttribute' of …nexplorer.noaa.gov/js/federated-analytics.js:15:1"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'getAttribute' of null"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

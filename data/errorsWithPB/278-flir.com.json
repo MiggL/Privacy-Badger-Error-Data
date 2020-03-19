@@ -1,0 +1,96 @@
+[
+  {
+    "timestamp": 1583756820494.073,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 1888,
+      "columnNumber": 21,
+      "url": "https://www.flir.com/products/gf320/",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "38",
+            "url": "https://www.flir.com/products/gf320/",
+            "lineNumber": 1888,
+            "columnNumber": 21
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: $ is not defined\n    at https://www.flir.com/products/gf320/:1889:22",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: $ is not defined\n    at https://www.flir.com/products/gf320/:1889:22",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: $ is not defined\n    at https://www.flir.com/products/gf320/:1889:22"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "$ is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583756820702.744,
+    "exceptionDetails": {
+      "exceptionId": 2,
+      "text": "Uncaught",
+      "lineNumber": 2101,
+      "columnNumber": 0,
+      "url": "https://www.flir.com/products/gf320/",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "67",
+            "url": "https://www.flir.com/products/gf320/",
+            "lineNumber": 2101,
+            "columnNumber": 0
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: _etmc is not defined\n    at https://www.flir.com/products/gf320/:2102:1",
+        "objectId": "{\"injectedScriptId\":3,\"id\":2}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: _etmc is not defined\n    at https://www.flir.com/products/gf320/:2102:1",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: _etmc is not defined\n    at https://www.flir.com/products/gf320/:2102:1"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "_etmc is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

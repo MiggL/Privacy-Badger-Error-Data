@@ -1,0 +1,49 @@
+[
+  {
+    "timestamp": 1583423510976.582,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 403,
+      "columnNumber": 31,
+      "url": "http://www.bangitout.com/tag/yarmulke/",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "50",
+            "url": "http://www.bangitout.com/tag/yarmulke/",
+            "lineNumber": 403,
+            "columnNumber": 31
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: stLight is not defined\n    at http://www.bangitout.com/tag/yarmulke/:404:32",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: stLight is not defined\n    at http://www.bangitout.com/tag/yarmulke/:404:32",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: stLight is not defined\n    at http://www.bangitout.com/tag/yarmulke/:404:32"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "stLight is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

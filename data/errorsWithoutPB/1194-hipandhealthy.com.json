@@ -1,0 +1,56 @@
+[
+  {
+    "timestamp": 1583002390668.5432,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 4,
+      "columnNumber": 26,
+      "url": "http://hipandhealthy.com/wp-content/themes/hipandhealthy/js/load-more.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "29",
+            "url": "http://hipandhealthy.com/wp-content/themes/hipandhealthy/js/load-more.js",
+            "lineNumber": 4,
+            "columnNumber": 26
+          },
+          {
+            "functionName": "",
+            "scriptId": "29",
+            "url": "http://hipandhealthy.com/wp-content/themes/hipandhealthy/js/load-more.js",
+            "lineNumber": 90,
+            "columnNumber": 4
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: wpkraken is not defined\n    at http://hipandhealthy.com/wp-content/themes/hipandhealthy/js/load-more.js:5:27\n    at http://hipandhealthy.com/wp-content/themes/hipandhealthy/js/load-more.js:91:5",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: wpkraken is not defined\n    at http://hipandhealthy.com/wp-content/themes/hipandhealthy/js/load-more.js:5:27\n    at http://hipandhealthy.com/wp-content/themes/hipandhealthy/js/load-more.js:91:5",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: wpkraken is not defined\n    at htt…content/themes/hipandhealthy/js/load-more.js:91:5"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "wpkraken is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

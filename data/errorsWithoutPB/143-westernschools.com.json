@@ -1,0 +1,75 @@
+[
+  {
+    "timestamp": 1583012081455.351,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 0,
+      "columnNumber": 33,
+      "url": "https://script.crazyegg.com/pages/scripts/0051/8339.js?439725",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "48",
+            "url": "https://script.crazyegg.com/pages/scripts/0051/8339.js?439725",
+            "lineNumber": 0,
+            "columnNumber": 33
+          }
+        ]
+      },
+      "exception": {
+        "type": "string",
+        "value": "CE: multiple userscripts installed"
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583012081455.42,
+    "exceptionDetails": {
+      "exceptionId": 2,
+      "text": "Uncaught",
+      "lineNumber": 560,
+      "columnNumber": 283,
+      "url": "https://www.googletagmanager.com/gtm.js?id=GTM-MCHRZZG",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "error",
+            "scriptId": "35",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-MCHRZZG",
+            "lineNumber": 560,
+            "columnNumber": 283
+          },
+          {
+            "functionName": "v.qb.onerror",
+            "scriptId": "35",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-MCHRZZG",
+            "lineNumber": 568,
+            "columnNumber": 496
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "className": "Object",
+        "description": "Object",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "description": "Object",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "Eh",
+              "type": "string",
+              "value": "Script error. - :0"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

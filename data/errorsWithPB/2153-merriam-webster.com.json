@@ -1,0 +1,143 @@
+[
+  {
+    "timestamp": 1582895142616.366,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 0,
+      "columnNumber": 3975,
+      "url": "https://www.merriam-webster.com/dictionary/studmaster",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "84",
+            "url": "https://www.merriam-webster.com/dictionary/studmaster",
+            "lineNumber": 0,
+            "columnNumber": 3975
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: osdlfm is not defined\n    at https://www.merriam-webster.com/dictionary/studmaster:1:3976",
+        "objectId": "{\"injectedScriptId\":8,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: osdlfm is not defined\n    at https://www.merriam-webster.com/dictionary/studmaster:1:3976",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: osdlfm is not defined\n    at https….merriam-webster.com/dictionary/studmaster:1:3976"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "osdlfm is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 8
+    }
+  },
+  {
+    "timestamp": 1582895142622.959,
+    "exceptionDetails": {
+      "exceptionId": 2,
+      "text": "Uncaught",
+      "lineNumber": 19,
+      "columnNumber": 4,
+      "url": "https://www.merriam-webster.com/dictionary/studmaster",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "87",
+            "url": "https://www.merriam-webster.com/dictionary/studmaster",
+            "lineNumber": 19,
+            "columnNumber": 4
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: blocker is not defined\n    at https://www.merriam-webster.com/dictionary/studmaster:20:5",
+        "objectId": "{\"injectedScriptId\":11,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: blocker is not defined\n    at https://www.merriam-webster.com/dictionary/studmaster:20:5",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: blocker is not defined\n    at http…ww.merriam-webster.com/dictionary/studmaster:20:5"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "blocker is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 11
+    }
+  },
+  {
+    "timestamp": 1582895142624.247,
+    "exceptionDetails": {
+      "exceptionId": 3,
+      "text": "Uncaught",
+      "lineNumber": 0,
+      "columnNumber": 2469,
+      "url": "https://www.merriam-webster.com/dictionary/studmaster",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "89",
+            "url": "https://www.merriam-webster.com/dictionary/studmaster",
+            "lineNumber": 0,
+            "columnNumber": 2469
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: osdlfm is not defined\n    at https://www.merriam-webster.com/dictionary/studmaster:1:2470",
+        "objectId": "{\"injectedScriptId\":9,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: osdlfm is not defined\n    at https://www.merriam-webster.com/dictionary/studmaster:1:2470",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: osdlfm is not defined\n    at https….merriam-webster.com/dictionary/studmaster:1:2470"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "osdlfm is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 9
+    }
+  }
+]

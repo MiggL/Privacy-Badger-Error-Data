@@ -1,0 +1,143 @@
+[
+  {
+    "timestamp": 1583424308006.288,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 9,
+      "columnNumber": 20,
+      "url": "http://www.talitachildtherapy.co.za/child-psychology/plugins/system/mooimageck/mooimageck/mooOpacite_CK.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "34",
+            "url": "http://www.talitachildtherapy.co.za/child-psychology/plugins/system/mooimageck/mooimageck/mooOpacite_CK.js",
+            "lineNumber": 9,
+            "columnNumber": 20
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: Class is not defined\n    at http://www.talitachildtherapy.co.za/child-psychology/plugins/system/mooimageck/mooimageck/mooOpacite_CK.js:10:21",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: Class is not defined\n    at http://www.talitachildtherapy.co.za/child-psychology/plugins/system/mooimageck/mooimageck/mooOpacite_CK.js:10:21",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: Class is not defined\n    at http:/…stem/mooimageck/mooimageck/mooOpacite_CK.js:10:21"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Class is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583424308006.8728,
+    "exceptionDetails": {
+      "exceptionId": 2,
+      "text": "Uncaught",
+      "lineNumber": 55,
+      "columnNumber": 7,
+      "url": "http://www.talitachildtherapy.co.za/child-psychology/child-psyhology-blog/latest.html",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "35",
+            "url": "http://www.talitachildtherapy.co.za/child-psychology/child-psyhology-blog/latest.html",
+            "lineNumber": 55,
+            "columnNumber": 7
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: window.addEvent is not a function\n    at http://www.talitachildtherapy.co.za/child-psychology/child-psyhology-blog/latest.html:56:8",
+        "objectId": "{\"injectedScriptId\":3,\"id\":2}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: window.addEvent is not a function\n    at http://www.talitachildtherapy.co.za/child-psychology/child-psyhology-blog/latest.html:56:8",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: window.addEvent is not a function\n    a…-psychology/child-psyhology-blog/latest.html:56:8"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "window.addEvent is not a function"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583424308018.1838,
+    "exceptionDetails": {
+      "exceptionId": 3,
+      "text": "Uncaught",
+      "lineNumber": 5,
+      "columnNumber": 8,
+      "url": "http://www.talitachildtherapy.co.za/child-psychology/plugins/system/mooimageck/mooimageck/reflection.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "39",
+            "url": "http://www.talitachildtherapy.co.za/child-psychology/plugins/system/mooimageck/mooimageck/reflection.js",
+            "lineNumber": 5,
+            "columnNumber": 8
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Element.implement is not a function\n    at http://www.talitachildtherapy.co.za/child-psychology/plugins/system/mooimageck/mooimageck/reflection.js:6:9",
+        "objectId": "{\"injectedScriptId\":3,\"id\":3}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Element.implement is not a function\n    at http://www.talitachildtherapy.co.za/child-psychology/plugins/system/mooimageck/mooimageck/reflection.js:6:9",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Element.implement is not a function\n   …ns/system/mooimageck/mooimageck/reflection.js:6:9"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Element.implement is not a function"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

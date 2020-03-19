@@ -1,0 +1,64 @@
+[
+  {
+    "timestamp": 1583011327971.323,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 151,
+      "columnNumber": 60,
+      "url": "https://www.telegraph.co.uk/finance/financialcrisis/7632538/Germany-refuses-to-help-Greece-unless-it-agrees-to-tougher-terms.html",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "document.onreadystatechange",
+            "scriptId": "19",
+            "url": "https://www.telegraph.co.uk/finance/financialcrisis/7632538/Germany-refuses-to-help-Greece-unless-it-agrees-to-tougher-terms.html",
+            "lineNumber": 151,
+            "columnNumber": 60
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot set property 'src' of null at HTMLDocument.document.onreadystatechange (https://www.telegraph.co.uk/finance/financialcrisis/7632538/Germany-refuses-to-help-Greece-unless-it-agrees-to-tougher-terms.html:152:61)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot set property 'src' of null at HTMLDocument.document.onreadystatechange (https://www.telegraph.co.uk/finance/financialcrisis/7632538/Germany-refuses-to-help-Greece-unless-it-agrees-to-tougher-terms.html:152:61)",
+          "overflow": true,
+          "properties": [
+            {
+              "name": "reported",
+              "type": "boolean",
+              "value": "true"
+            },
+            {
+              "name": "timestamp",
+              "type": "number",
+              "value": "1583011327970"
+            },
+            {
+              "name": "lineNumber",
+              "type": "string",
+              "value": "152"
+            },
+            {
+              "name": "columnNumber",
+              "type": "string",
+              "value": "61"
+            },
+            {
+              "name": "functionName",
+              "type": "string",
+              "value": "HTMLDocument.document.onreadystatechange"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

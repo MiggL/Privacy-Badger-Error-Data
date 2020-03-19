@@ -1,0 +1,49 @@
+[
+  {
+    "timestamp": 1583006933304.566,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 67,
+      "columnNumber": 70,
+      "url": "https://oaklandcemetery.com/greenhouse-project/",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "25",
+            "url": "https://oaklandcemetery.com/greenhouse-project/",
+            "lineNumber": 67,
+            "columnNumber": 70
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: lazySizes is not defined\n    at https://oaklandcemetery.com/greenhouse-project/:68:71",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: lazySizes is not defined\n    at https://oaklandcemetery.com/greenhouse-project/:68:71",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: lazySizes is not defined\n    at ht…s://oaklandcemetery.com/greenhouse-project/:68:71"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "lazySizes is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

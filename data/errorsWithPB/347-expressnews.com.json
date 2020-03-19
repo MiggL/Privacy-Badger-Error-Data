@@ -1,0 +1,96 @@
+[
+  {
+    "timestamp": 1583751415143.1428,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 13,
+      "columnNumber": 275,
+      "url": "https://nexus.ensighten.com/hearst/news/code/2ca7074cde97d91799ae06343fdd7934.js?conditionId0=305121",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "46",
+            "url": "https://nexus.ensighten.com/hearst/news/code/2ca7074cde97d91799ae06343fdd7934.js?conditionId0=305121",
+            "lineNumber": 13,
+            "columnNumber": 275
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'id' of undefined\n    at https://nexus.ensighten.com/hearst/news/code/2ca7074cde97d91799ae06343fdd7934.js?conditionId0=305121:14:276",
+        "objectId": "{\"injectedScriptId\":3,\"id\":5}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'id' of undefined\n    at https://nexus.ensighten.com/hearst/news/code/2ca7074cde97d91799ae06343fdd7934.js?conditionId0=305121:14:276",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'id' of undefined\n…91799ae06343fdd7934.js?conditionId0=305121:14:276"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'id' of undefined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583751415158.2761,
+    "exceptionDetails": {
+      "exceptionId": 2,
+      "text": "Uncaught",
+      "lineNumber": 20,
+      "columnNumber": 284,
+      "url": "https://nexus.ensighten.com/hearst/news/code/2ca7074cde97d91799ae06343fdd7934.js?conditionId0=305121",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "46",
+            "url": "https://nexus.ensighten.com/hearst/news/code/2ca7074cde97d91799ae06343fdd7934.js?conditionId0=305121",
+            "lineNumber": 20,
+            "columnNumber": 284
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'id' of undefined\n    at https://nexus.ensighten.com/hearst/news/code/2ca7074cde97d91799ae06343fdd7934.js?conditionId0=305121:21:285",
+        "objectId": "{\"injectedScriptId\":3,\"id\":6}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'id' of undefined\n    at https://nexus.ensighten.com/hearst/news/code/2ca7074cde97d91799ae06343fdd7934.js?conditionId0=305121:21:285",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'id' of undefined\n…91799ae06343fdd7934.js?conditionId0=305121:21:285"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'id' of undefined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

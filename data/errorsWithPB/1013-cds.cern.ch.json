@@ -1,0 +1,77 @@
+[
+  {
+    "timestamp": 1583423099593.8289,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 12,
+      "columnNumber": 21,
+      "url": "http://cds.cern.ch/js/pdf-previewer-append-to-table.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "25",
+            "url": "http://cds.cern.ch/js/pdf-previewer-append-to-table.js",
+            "lineNumber": 12,
+            "columnNumber": 21
+          },
+          {
+            "functionName": "n",
+            "scriptId": "21",
+            "url": "http://cds.cern.ch/js/jquery.min.js",
+            "lineNumber": 1,
+            "columnNumber": 14783
+          },
+          {
+            "functionName": "fireWith",
+            "scriptId": "21",
+            "url": "http://cds.cern.ch/js/jquery.min.js",
+            "lineNumber": 1,
+            "columnNumber": 15552
+          },
+          {
+            "functionName": "ready",
+            "scriptId": "21",
+            "url": "http://cds.cern.ch/js/jquery.min.js",
+            "lineNumber": 1,
+            "columnNumber": 9772
+          },
+          {
+            "functionName": "B",
+            "scriptId": "21",
+            "url": "http://cds.cern.ch/js/jquery.min.js",
+            "lineNumber": 1,
+            "columnNumber": 14347
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'indexOf' of undefined\n    at HTMLDocument.<anonymous> (http://cds.cern.ch/js/pdf-previewer-append-to-table.js:13:22)\n    at n (http://cds.cern.ch/js/jquery.min.js:2:14784)\n    at Object.fireWith (http://cds.cern.ch/js/jquery.min.js:2:15553)\n    at Function.ready (http://cds.cern.ch/js/jquery.min.js:2:9773)\n    at HTMLDocument.B (http://cds.cern.ch/js/jquery.min.js:2:14348)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'indexOf' of undefined\n    at HTMLDocument.<anonymous> (http://cds.cern.ch/js/pdf-previewer-append-to-table.js:13:22)\n    at n (http://cds.cern.ch/js/jquery.min.js:2:14784)\n    at Object.fireWith (http://cds.cern.ch/js/jquery.min.js:2:15553)\n    at Function.ready (http://cds.cern.ch/js/jquery.min.js:2:9773)\n    at HTMLDocument.B (http://cds.cern.ch/js/jquery.min.js:2:14348)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'indexOf' of undef…t.B (http://cds.cern.ch/js/jquery.min.js:2:14348)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'indexOf' of undefined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

@@ -1,0 +1,216 @@
+[
+  {
+    "timestamp": 1582816269832.97,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught (in promise)",
+      "lineNumber": 16,
+      "columnNumber": 6356,
+      "url": "https://assets.bizjournals.com/dist/js/vendor.min.js?v=1582667442",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "t.exports",
+            "scriptId": "94",
+            "url": "https://assets.bizjournals.com/dist/js/vendor.min.js?v=1582667442",
+            "lineNumber": 16,
+            "columnNumber": 6356
+          },
+          {
+            "functionName": "t.exports",
+            "scriptId": "94",
+            "url": "https://assets.bizjournals.com/dist/js/vendor.min.js?v=1582667442",
+            "lineNumber": 16,
+            "columnNumber": 6203
+          },
+          {
+            "functionName": "p.onreadystatechange",
+            "scriptId": "94",
+            "url": "https://assets.bizjournals.com/dist/js/vendor.min.js?v=1582667442",
+            "lineNumber": 16,
+            "columnNumber": 5099
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "Error",
+        "description": "Error: Request failed with status code 403\n    at t.exports (https://assets.bizjournals.com/dist/js/vendor.min.js?v=1582667442:17:6357)\n    at t.exports (https://assets.bizjournals.com/dist/js/vendor.min.js?v=1582667442:17:6204)\n    at XMLHttpRequest.p.onreadystatechange (https://assets.bizjournals.com/dist/js/vendor.min.js?v=1582667442:17:5100)",
+        "objectId": "{\"injectedScriptId\":5,\"id\":2}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "Error: Request failed with status code 403\n    at t.exports (https://assets.bizjournals.com/dist/js/vendor.min.js?v=1582667442:17:6357)\n    at t.exports (https://assets.bizjournals.com/dist/js/vendor.min.js?v=1582667442:17:6204)\n    at XMLHttpRequest.p.onreadystatechange (https://assets.bizjournals.com/dist/js/vendor.min.js?v=1582667442:17:5100)",
+          "overflow": true,
+          "properties": [
+            {
+              "name": "config",
+              "type": "object",
+              "value": "Object"
+            },
+            {
+              "name": "request",
+              "type": "object",
+              "value": "XMLHttpRequest"
+            },
+            {
+              "name": "response",
+              "type": "object",
+              "value": "Object"
+            },
+            {
+              "name": "isAxiosError",
+              "type": "boolean",
+              "value": "true"
+            },
+            {
+              "name": "toJSON",
+              "type": "function",
+              "value": ""
+            }
+          ]
+        }
+      },
+      "executionContextId": 5
+    }
+  },
+  {
+    "timestamp": 1582816269833.1858,
+    "exceptionDetails": {
+      "exceptionId": 2,
+      "text": "Uncaught (in promise)",
+      "lineNumber": 16,
+      "columnNumber": 6356,
+      "url": "https://assets.bizjournals.com/dist/js/vendor.min.js?v=1582667442",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "t.exports",
+            "scriptId": "94",
+            "url": "https://assets.bizjournals.com/dist/js/vendor.min.js?v=1582667442",
+            "lineNumber": 16,
+            "columnNumber": 6356
+          },
+          {
+            "functionName": "p.onerror",
+            "scriptId": "94",
+            "url": "https://assets.bizjournals.com/dist/js/vendor.min.js?v=1582667442",
+            "lineNumber": 16,
+            "columnNumber": 5217
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "Error",
+        "description": "Error: Network Error\n    at t.exports (https://assets.bizjournals.com/dist/js/vendor.min.js?v=1582667442:17:6357)\n    at XMLHttpRequest.p.onerror (https://assets.bizjournals.com/dist/js/vendor.min.js?v=1582667442:17:5218)",
+        "objectId": "{\"injectedScriptId\":5,\"id\":3}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "Error: Network Error\n    at t.exports (https://assets.bizjournals.com/dist/js/vendor.min.js?v=1582667442:17:6357)\n    at XMLHttpRequest.p.onerror (https://assets.bizjournals.com/dist/js/vendor.min.js?v=1582667442:17:5218)",
+          "overflow": true,
+          "properties": [
+            {
+              "name": "config",
+              "type": "object",
+              "value": "Object"
+            },
+            {
+              "name": "request",
+              "type": "object",
+              "value": "XMLHttpRequest"
+            },
+            {
+              "name": "response",
+              "type": "undefined",
+              "value": "undefined"
+            },
+            {
+              "name": "isAxiosError",
+              "type": "boolean",
+              "value": "true"
+            },
+            {
+              "name": "toJSON",
+              "type": "function",
+              "value": ""
+            }
+          ]
+        }
+      },
+      "executionContextId": 5
+    }
+  },
+  {
+    "timestamp": 1582816269833.3281,
+    "exceptionDetails": {
+      "exceptionId": 3,
+      "text": "Uncaught (in promise)",
+      "lineNumber": 16,
+      "columnNumber": 6356,
+      "url": "https://assets.bizjournals.com/dist/js/vendor.min.js?v=1582667442",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "t.exports",
+            "scriptId": "94",
+            "url": "https://assets.bizjournals.com/dist/js/vendor.min.js?v=1582667442",
+            "lineNumber": 16,
+            "columnNumber": 6356
+          },
+          {
+            "functionName": "p.onerror",
+            "scriptId": "94",
+            "url": "https://assets.bizjournals.com/dist/js/vendor.min.js?v=1582667442",
+            "lineNumber": 16,
+            "columnNumber": 5217
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "Error",
+        "description": "Error: Network Error\n    at t.exports (https://assets.bizjournals.com/dist/js/vendor.min.js?v=1582667442:17:6357)\n    at XMLHttpRequest.p.onerror (https://assets.bizjournals.com/dist/js/vendor.min.js?v=1582667442:17:5218)",
+        "objectId": "{\"injectedScriptId\":5,\"id\":4}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "Error: Network Error\n    at t.exports (https://assets.bizjournals.com/dist/js/vendor.min.js?v=1582667442:17:6357)\n    at XMLHttpRequest.p.onerror (https://assets.bizjournals.com/dist/js/vendor.min.js?v=1582667442:17:5218)",
+          "overflow": true,
+          "properties": [
+            {
+              "name": "config",
+              "type": "object",
+              "value": "Object"
+            },
+            {
+              "name": "request",
+              "type": "object",
+              "value": "XMLHttpRequest"
+            },
+            {
+              "name": "response",
+              "type": "undefined",
+              "value": "undefined"
+            },
+            {
+              "name": "isAxiosError",
+              "type": "boolean",
+              "value": "true"
+            },
+            {
+              "name": "toJSON",
+              "type": "function",
+              "value": ""
+            }
+          ]
+        }
+      },
+      "executionContextId": 5
+    }
+  }
+]

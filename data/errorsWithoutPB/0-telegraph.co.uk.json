@@ -1,0 +1,126 @@
+[
+  {
+    "timestamp": 1583013388622.725,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 148,
+      "columnNumber": 60,
+      "url": "https://www.telegraph.co.uk/finance/personalfinance/expat-money/11226294/Peer-to-peer-exchange-firms-cut-out-the-banks-and-brokers.html",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "document.onreadystatechange",
+            "scriptId": "18",
+            "url": "https://www.telegraph.co.uk/finance/personalfinance/expat-money/11226294/Peer-to-peer-exchange-firms-cut-out-the-banks-and-brokers.html",
+            "lineNumber": 148,
+            "columnNumber": 60
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot set property 'src' of null at HTMLDocument.document.onreadystatechange (https://www.telegraph.co.uk/finance/personalfinance/expat-money/11226294/Peer-to-peer-exchange-firms-cut-out-the-banks-and-brokers.html:149:61)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot set property 'src' of null at HTMLDocument.document.onreadystatechange (https://www.telegraph.co.uk/finance/personalfinance/expat-money/11226294/Peer-to-peer-exchange-firms-cut-out-the-banks-and-brokers.html:149:61)",
+          "overflow": true,
+          "properties": [
+            {
+              "name": "reported",
+              "type": "boolean",
+              "value": "true"
+            },
+            {
+              "name": "timestamp",
+              "type": "number",
+              "value": "1583013388621"
+            },
+            {
+              "name": "lineNumber",
+              "type": "string",
+              "value": "149"
+            },
+            {
+              "name": "columnNumber",
+              "type": "string",
+              "value": "61"
+            },
+            {
+              "name": "functionName",
+              "type": "string",
+              "value": "HTMLDocument.document.onreadystatechange"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583013391910.23,
+    "exceptionDetails": {
+      "exceptionId": 2,
+      "text": "Uncaught",
+      "lineNumber": 148,
+      "columnNumber": 60,
+      "url": "https://www.telegraph.co.uk/finance/personalfinance/expat-money/11226294/Peer-to-peer-exchange-firms-cut-out-the-banks-and-brokers.html",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "document.onreadystatechange",
+            "scriptId": "18",
+            "url": "https://www.telegraph.co.uk/finance/personalfinance/expat-money/11226294/Peer-to-peer-exchange-firms-cut-out-the-banks-and-brokers.html",
+            "lineNumber": 148,
+            "columnNumber": 60
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot set property 'src' of null at HTMLDocument.document.onreadystatechange (https://www.telegraph.co.uk/finance/personalfinance/expat-money/11226294/Peer-to-peer-exchange-firms-cut-out-the-banks-and-brokers.html:149:61)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":2}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot set property 'src' of null at HTMLDocument.document.onreadystatechange (https://www.telegraph.co.uk/finance/personalfinance/expat-money/11226294/Peer-to-peer-exchange-firms-cut-out-the-banks-and-brokers.html:149:61)",
+          "overflow": true,
+          "properties": [
+            {
+              "name": "reported",
+              "type": "boolean",
+              "value": "true"
+            },
+            {
+              "name": "timestamp",
+              "type": "number",
+              "value": "1583013391909"
+            },
+            {
+              "name": "lineNumber",
+              "type": "string",
+              "value": "149"
+            },
+            {
+              "name": "columnNumber",
+              "type": "string",
+              "value": "61"
+            },
+            {
+              "name": "functionName",
+              "type": "string",
+              "value": "HTMLDocument.document.onreadystatechange"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

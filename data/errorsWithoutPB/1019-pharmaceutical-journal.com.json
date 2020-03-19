@@ -1,0 +1,93 @@
+[
+  {
+    "timestamp": 1583004058299.4448,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 244,
+      "columnNumber": 84,
+      "scriptId": "20",
+      "url": "https://www.pharmaceutical-journal.com/careers/career-feature/from-pharmacy-technician-to-pharmacist/20202493.article?firstPass=false",
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "SyntaxError",
+        "description": "SyntaxError: Unexpected token ','",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "SyntaxError: Unexpected token ','",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "SyntaxError: Unexpected token ','"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Unexpected token ','"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583004059110.579,
+    "exceptionDetails": {
+      "exceptionId": 2,
+      "text": "Uncaught",
+      "lineNumber": 227,
+      "columnNumber": 26,
+      "url": "https://receiver.star.saas.semcs.net/star.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "132",
+            "url": "https://receiver.star.saas.semcs.net/star.js",
+            "lineNumber": 227,
+            "columnNumber": 26
+          },
+          {
+            "functionName": "",
+            "scriptId": "132",
+            "url": "https://receiver.star.saas.semcs.net/star.js",
+            "lineNumber": 230,
+            "columnNumber": 2
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'length' of undefined\n    at https://receiver.star.saas.semcs.net/star.js:228:27\n    at https://receiver.star.saas.semcs.net/star.js:231:3",
+        "objectId": "{\"injectedScriptId\":3,\"id\":2}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'length' of undefined\n    at https://receiver.star.saas.semcs.net/star.js:228:27\n    at https://receiver.star.saas.semcs.net/star.js:231:3",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'length' of undefi…ttps://receiver.star.saas.semcs.net/star.js:231:3"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'length' of undefined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

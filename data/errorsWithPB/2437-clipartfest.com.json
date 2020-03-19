@@ -1,0 +1,90 @@
+[
+  {
+    "timestamp": 1582892601158.978,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 6,
+      "columnNumber": 8,
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "initAddThis",
+            "scriptId": "34",
+            "url": "",
+            "lineNumber": 6,
+            "columnNumber": 8
+          },
+          {
+            "functionName": "",
+            "scriptId": "34",
+            "url": "",
+            "lineNumber": 9,
+            "columnNumber": 4
+          },
+          {
+            "functionName": "t.activateScript",
+            "scriptId": "23",
+            "url": "https://ajax.cloudflare.com/cdn-cgi/scripts/7089c43e/cloudflare-static/rocket-loader.min.js",
+            "lineNumber": 0,
+            "columnNumber": 11832
+          },
+          {
+            "functionName": "",
+            "scriptId": "23",
+            "url": "https://ajax.cloudflare.com/cdn-cgi/scripts/7089c43e/cloudflare-static/rocket-loader.min.js",
+            "lineNumber": 0,
+            "columnNumber": 11029
+          },
+          {
+            "functionName": "t.run",
+            "scriptId": "23",
+            "url": "https://ajax.cloudflare.com/cdn-cgi/scripts/7089c43e/cloudflare-static/rocket-loader.min.js",
+            "lineNumber": 0,
+            "columnNumber": 11236
+          },
+          {
+            "functionName": "",
+            "scriptId": "23",
+            "url": "https://ajax.cloudflare.com/cdn-cgi/scripts/7089c43e/cloudflare-static/rocket-loader.min.js",
+            "lineNumber": 0,
+            "columnNumber": 11133
+          },
+          {
+            "functionName": "",
+            "scriptId": "23",
+            "url": "https://ajax.cloudflare.com/cdn-cgi/scripts/7089c43e/cloudflare-static/rocket-loader.min.js",
+            "lineNumber": 0,
+            "columnNumber": 669
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: addthis is not defined\n    at initAddThis (<anonymous>:7:9)\n    at <anonymous>:10:5\n    at t.activateScript (https://ajax.cloudflare.com/cdn-cgi/scripts/7089c43e/cloudflare-static/rocket-loader.min.js:1:11833)\n    at https://ajax.cloudflare.com/cdn-cgi/scripts/7089c43e/cloudflare-static/rocket-loader.min.js:1:11030\n    at t.run (https://ajax.cloudflare.com/cdn-cgi/scripts/7089c43e/cloudflare-static/rocket-loader.min.js:1:11237)\n    at https://ajax.cloudflare.com/cdn-cgi/scripts/7089c43e/cloudflare-static/rocket-loader.min.js:1:11134\n    at HTMLScriptElement.<anonymous> (https://ajax.cloudflare.com/cdn-cgi/scripts/7089c43e/cloudflare-static/rocket-loader.min.js:1:670)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: addthis is not defined\n    at initAddThis (<anonymous>:7:9)\n    at <anonymous>:10:5\n    at t.activateScript (https://ajax.cloudflare.com/cdn-cgi/scripts/7089c43e/cloudflare-static/rocket-loader.min.js:1:11833)\n    at https://ajax.cloudflare.com/cdn-cgi/scripts/7089c43e/cloudflare-static/rocket-loader.min.js:1:11030\n    at t.run (https://ajax.cloudflare.com/cdn-cgi/scripts/7089c43e/cloudflare-static/rocket-loader.min.js:1:11237)\n    at https://ajax.cloudflare.com/cdn-cgi/scripts/7089c43e/cloudflare-static/rocket-loader.min.js:1:11134\n    at HTMLScriptElement.<anonymous> (https://ajax.cloudflare.com/cdn-cgi/scripts/7089c43e/cloudflare-static/rocket-loader.min.js:1:670)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: addthis is not defined\n    at init…43e/cloudflare-static/rocket-loader.min.js:1:670)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "addthis is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

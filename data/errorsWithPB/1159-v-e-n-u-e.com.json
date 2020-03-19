@@ -1,0 +1,70 @@
+[
+  {
+    "timestamp": 1583421722994.7742,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 93,
+      "columnNumber": 24,
+      "url": "http://collectiveperception.com/external/venue.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "InitializeMap",
+            "scriptId": "32",
+            "url": "http://collectiveperception.com/external/venue.js",
+            "lineNumber": 93,
+            "columnNumber": 24
+          },
+          {
+            "functionName": "",
+            "scriptId": "32",
+            "url": "http://collectiveperception.com/external/venue.js",
+            "lineNumber": 25,
+            "columnNumber": 4
+          },
+          {
+            "functionName": "ready",
+            "scriptId": "23",
+            "url": "http://v-e-n-u-e.com/_js/cargo.jquery.package.js?26.11.18.1",
+            "lineNumber": 61,
+            "columnNumber": 288
+          },
+          {
+            "functionName": "L",
+            "scriptId": "23",
+            "url": "http://v-e-n-u-e.com/_js/cargo.jquery.package.js?26.11.18.1",
+            "lineNumber": 68,
+            "columnNumber": 150
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: MarkerClusterer is not defined\n    at InitializeMap (http://collectiveperception.com/external/venue.js:94:25)\n    at HTMLDocument.<anonymous> (http://collectiveperception.com/external/venue.js:26:5)\n    at Function.ready (http://v-e-n-u-e.com/_js/cargo.jquery.package.js?26.11.18.1:62:289)\n    at HTMLDocument.L (http://v-e-n-u-e.com/_js/cargo.jquery.package.js?26.11.18.1:69:151)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: MarkerClusterer is not defined\n    at InitializeMap (http://collectiveperception.com/external/venue.js:94:25)\n    at HTMLDocument.<anonymous> (http://collectiveperception.com/external/venue.js:26:5)\n    at Function.ready (http://v-e-n-u-e.com/_js/cargo.jquery.package.js?26.11.18.1:62:289)\n    at HTMLDocument.L (http://v-e-n-u-e.com/_js/cargo.jquery.package.js?26.11.18.1:69:151)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: MarkerClusterer is not defined\n   …om/_js/cargo.jquery.package.js?26.11.18.1:69:151)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "MarkerClusterer is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

@@ -1,0 +1,49 @@
+[
+  {
+    "timestamp": 1582894841505.791,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 1579,
+      "columnNumber": 27,
+      "url": "https://www.telegraph.co.uk/travel/ski/telegraph-ski-and-snowboard-magazine/",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "33",
+            "url": "https://www.telegraph.co.uk/travel/ski/telegraph-ski-and-snowboard-magazine/",
+            "lineNumber": 1579,
+            "columnNumber": 27
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'update' of undefined\n    at https://www.telegraph.co.uk/travel/ski/telegraph-ski-and-snowboard-magazine/:1580:28",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'update' of undefined\n    at https://www.telegraph.co.uk/travel/ski/telegraph-ski-and-snowboard-magazine/:1580:28",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'update' of undefi…ski/telegraph-ski-and-snowboard-magazine/:1580:28"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'update' of undefined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

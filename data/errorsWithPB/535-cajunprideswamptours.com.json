@@ -1,0 +1,77 @@
+[
+  {
+    "timestamp": 1583749457958.488,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 70,
+      "columnNumber": 37,
+      "url": "https://www.cajunprideswamptours.com/templates/client/js/init.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "43",
+            "url": "https://www.cajunprideswamptours.com/templates/client/js/init.js",
+            "lineNumber": 70,
+            "columnNumber": 37
+          },
+          {
+            "functionName": "f",
+            "scriptId": "22",
+            "url": "https://cdn.jsdelivr.net/headjs/1.0.3/head.min.js",
+            "lineNumber": 5,
+            "columnNumber": 459
+          },
+          {
+            "functionName": "",
+            "scriptId": "22",
+            "url": "https://cdn.jsdelivr.net/headjs/1.0.3/head.min.js",
+            "lineNumber": 5,
+            "columnNumber": 1668
+          },
+          {
+            "functionName": "",
+            "scriptId": "22",
+            "url": "https://cdn.jsdelivr.net/headjs/1.0.3/head.min.js",
+            "lineNumber": 5,
+            "columnNumber": 1871
+          },
+          {
+            "functionName": "o",
+            "scriptId": "22",
+            "url": "https://cdn.jsdelivr.net/headjs/1.0.3/head.min.js",
+            "lineNumber": 5,
+            "columnNumber": 2354
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'length' of undefined\n    at https://www.cajunprideswamptours.com/templates/client/js/init.js:71:38\n    at f (https://cdn.jsdelivr.net/headjs/1.0.3/head.min.js:6:460)\n    at https://cdn.jsdelivr.net/headjs/1.0.3/head.min.js:6:1669\n    at https://cdn.jsdelivr.net/headjs/1.0.3/head.min.js:6:1872\n    at HTMLScriptElement.o (https://cdn.jsdelivr.net/headjs/1.0.3/head.min.js:6:2355)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'length' of undefined\n    at https://www.cajunprideswamptours.com/templates/client/js/init.js:71:38\n    at f (https://cdn.jsdelivr.net/headjs/1.0.3/head.min.js:6:460)\n    at https://cdn.jsdelivr.net/headjs/1.0.3/head.min.js:6:1669\n    at https://cdn.jsdelivr.net/headjs/1.0.3/head.min.js:6:1872\n    at HTMLScriptElement.o (https://cdn.jsdelivr.net/headjs/1.0.3/head.min.js:6:2355)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'length' of undefi…cdn.jsdelivr.net/headjs/1.0.3/head.min.js:6:2355)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'length' of undefined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

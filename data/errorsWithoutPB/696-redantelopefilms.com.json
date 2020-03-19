@@ -1,0 +1,49 @@
+[
+  {
+    "timestamp": 1583007023882.0542,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 2,
+      "columnNumber": 0,
+      "url": "http://redantelopefilms.com/wp-content/themes/divi-modified/custom_modified.js?ver=1",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "17",
+            "url": "http://redantelopefilms.com/wp-content/themes/divi-modified/custom_modified.js?ver=1",
+            "lineNumber": 2,
+            "columnNumber": 0
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: $ is not a function\n    at http://redantelopefilms.com/wp-content/themes/divi-modified/custom_modified.js?ver=1:3:1",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: $ is not a function\n    at http://redantelopefilms.com/wp-content/themes/divi-modified/custom_modified.js?ver=1:3:1",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: $ is not a function\n    at http://redan…themes/divi-modified/custom_modified.js?ver=1:3:1"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "$ is not a function"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

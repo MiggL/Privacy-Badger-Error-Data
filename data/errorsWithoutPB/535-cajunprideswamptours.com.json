@@ -1,0 +1,413 @@
+[
+  {
+    "timestamp": 1583008498564.542,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 0,
+      "columnNumber": 2019,
+      "url": "https://www.cajunprideswamptours.com/templates/client/js/init.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "37",
+            "url": "https://www.cajunprideswamptours.com/templates/client/js/init.js",
+            "lineNumber": 0,
+            "columnNumber": 2019
+          },
+          {
+            "functionName": "f",
+            "scriptId": "13",
+            "url": "https://cdn.jsdelivr.net/headjs/1.0.3/head.min.js",
+            "lineNumber": 5,
+            "columnNumber": 459
+          },
+          {
+            "functionName": "",
+            "scriptId": "13",
+            "url": "https://cdn.jsdelivr.net/headjs/1.0.3/head.min.js",
+            "lineNumber": 5,
+            "columnNumber": 1668
+          },
+          {
+            "functionName": "",
+            "scriptId": "13",
+            "url": "https://cdn.jsdelivr.net/headjs/1.0.3/head.min.js",
+            "lineNumber": 5,
+            "columnNumber": 1871
+          },
+          {
+            "functionName": "o",
+            "scriptId": "13",
+            "url": "https://cdn.jsdelivr.net/headjs/1.0.3/head.min.js",
+            "lineNumber": 5,
+            "columnNumber": 2354
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'length' of undefined\n    at https://www.cajunprideswamptours.com/templates/client/js/init.js:1:2020\n    at f (https://cdn.jsdelivr.net/headjs/1.0.3/head.min.js:6:460)\n    at https://cdn.jsdelivr.net/headjs/1.0.3/head.min.js:6:1669\n    at https://cdn.jsdelivr.net/headjs/1.0.3/head.min.js:6:1872\n    at HTMLScriptElement.o (https://cdn.jsdelivr.net/headjs/1.0.3/head.min.js:6:2355)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'length' of undefined\n    at https://www.cajunprideswamptours.com/templates/client/js/init.js:1:2020\n    at f (https://cdn.jsdelivr.net/headjs/1.0.3/head.min.js:6:460)\n    at https://cdn.jsdelivr.net/headjs/1.0.3/head.min.js:6:1669\n    at https://cdn.jsdelivr.net/headjs/1.0.3/head.min.js:6:1872\n    at HTMLScriptElement.o (https://cdn.jsdelivr.net/headjs/1.0.3/head.min.js:6:2355)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'length' of undefi…cdn.jsdelivr.net/headjs/1.0.3/head.min.js:6:2355)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'length' of undefined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583008500196.8901,
+    "exceptionDetails": {
+      "exceptionId": 2,
+      "text": "Uncaught (in promise)",
+      "lineNumber": 47,
+      "columnNumber": 1580,
+      "url": "https://www.facebook.com/rsrc.php/v3/yU/r/rGQu7wg4aCs.js?_nc_x=Ij3Wp8lg5Kz",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "77",
+            "url": "https://www.facebook.com/rsrc.php/v3/yU/r/rGQu7wg4aCs.js?_nc_x=Ij3Wp8lg5Kz",
+            "lineNumber": 47,
+            "columnNumber": 1580
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "DOMException",
+        "description": "DOMException: Failed to execute 'addSourceBuffer' on 'MediaSource': The type provided ('video/mp4; codecs=\"avc1.4d401f\"') is unsupported.\n    at https://www.facebook.com/rsrc.php/v3/yU/r/rGQu7wg4aCs.js?_nc_x=Ij3Wp8lg5Kz:48:1581",
+        "objectId": "{\"injectedScriptId\":7,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "DOMException: Failed to execute 'addSourceBuffer' on 'MediaSource': The type provided ('video/mp4; codecs=\"avc1.4d401f\"') is unsupported.\n    at https://www.facebook.com/rsrc.php/v3/yU/r/rGQu7wg4aCs.js?_nc_x=Ij3Wp8lg5Kz:48:1581",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "accessor"
+            },
+            {
+              "name": "code",
+              "type": "number",
+              "value": "9"
+            },
+            {
+              "name": "name",
+              "type": "string",
+              "value": "NotSupportedError"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Failed to execute 'addSourceBuffer' on 'MediaSourc…video/mp4; codecs=\"avc1.4d401f\"') is unsupported."
+            }
+          ]
+        }
+      },
+      "executionContextId": 7
+    }
+  },
+  {
+    "timestamp": 1583008500197.129,
+    "exceptionDetails": {
+      "exceptionId": 3,
+      "text": "Uncaught (in promise)",
+      "lineNumber": 47,
+      "columnNumber": 1580,
+      "url": "https://www.facebook.com/rsrc.php/v3/yU/r/rGQu7wg4aCs.js?_nc_x=Ij3Wp8lg5Kz",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "77",
+            "url": "https://www.facebook.com/rsrc.php/v3/yU/r/rGQu7wg4aCs.js?_nc_x=Ij3Wp8lg5Kz",
+            "lineNumber": 47,
+            "columnNumber": 1580
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "DOMException",
+        "description": "DOMException: Failed to execute 'addSourceBuffer' on 'MediaSource': The type provided ('video/mp4; codecs=\"avc1.4d401f\"') is unsupported.\n    at https://www.facebook.com/rsrc.php/v3/yU/r/rGQu7wg4aCs.js?_nc_x=Ij3Wp8lg5Kz:48:1581",
+        "objectId": "{\"injectedScriptId\":7,\"id\":2}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "DOMException: Failed to execute 'addSourceBuffer' on 'MediaSource': The type provided ('video/mp4; codecs=\"avc1.4d401f\"') is unsupported.\n    at https://www.facebook.com/rsrc.php/v3/yU/r/rGQu7wg4aCs.js?_nc_x=Ij3Wp8lg5Kz:48:1581",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "accessor"
+            },
+            {
+              "name": "code",
+              "type": "number",
+              "value": "9"
+            },
+            {
+              "name": "name",
+              "type": "string",
+              "value": "NotSupportedError"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Failed to execute 'addSourceBuffer' on 'MediaSourc…video/mp4; codecs=\"avc1.4d401f\"') is unsupported."
+            }
+          ]
+        }
+      },
+      "executionContextId": 7
+    }
+  },
+  {
+    "timestamp": 1583008500197.277,
+    "exceptionDetails": {
+      "exceptionId": 4,
+      "text": "Uncaught (in promise)",
+      "lineNumber": 47,
+      "columnNumber": 1580,
+      "url": "https://www.facebook.com/rsrc.php/v3/yU/r/rGQu7wg4aCs.js?_nc_x=Ij3Wp8lg5Kz",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "77",
+            "url": "https://www.facebook.com/rsrc.php/v3/yU/r/rGQu7wg4aCs.js?_nc_x=Ij3Wp8lg5Kz",
+            "lineNumber": 47,
+            "columnNumber": 1580
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "DOMException",
+        "description": "DOMException: Failed to execute 'addSourceBuffer' on 'MediaSource': The type provided ('audio/mp4; codecs=\"mp4a.40.5\"') is unsupported.\n    at https://www.facebook.com/rsrc.php/v3/yU/r/rGQu7wg4aCs.js?_nc_x=Ij3Wp8lg5Kz:48:1581",
+        "objectId": "{\"injectedScriptId\":7,\"id\":3}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "DOMException: Failed to execute 'addSourceBuffer' on 'MediaSource': The type provided ('audio/mp4; codecs=\"mp4a.40.5\"') is unsupported.\n    at https://www.facebook.com/rsrc.php/v3/yU/r/rGQu7wg4aCs.js?_nc_x=Ij3Wp8lg5Kz:48:1581",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "accessor"
+            },
+            {
+              "name": "code",
+              "type": "number",
+              "value": "9"
+            },
+            {
+              "name": "name",
+              "type": "string",
+              "value": "NotSupportedError"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Failed to execute 'addSourceBuffer' on 'MediaSourc…('audio/mp4; codecs=\"mp4a.40.5\"') is unsupported."
+            }
+          ]
+        }
+      },
+      "executionContextId": 7
+    }
+  },
+  {
+    "timestamp": 1583008500197.4448,
+    "exceptionDetails": {
+      "exceptionId": 5,
+      "text": "Uncaught (in promise)",
+      "lineNumber": 47,
+      "columnNumber": 1580,
+      "url": "https://www.facebook.com/rsrc.php/v3/yU/r/rGQu7wg4aCs.js?_nc_x=Ij3Wp8lg5Kz",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "77",
+            "url": "https://www.facebook.com/rsrc.php/v3/yU/r/rGQu7wg4aCs.js?_nc_x=Ij3Wp8lg5Kz",
+            "lineNumber": 47,
+            "columnNumber": 1580
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "DOMException",
+        "description": "DOMException: Failed to execute 'addSourceBuffer' on 'MediaSource': The type provided ('video/mp4; codecs=\"avc1.4d401f\"') is unsupported.\n    at https://www.facebook.com/rsrc.php/v3/yU/r/rGQu7wg4aCs.js?_nc_x=Ij3Wp8lg5Kz:48:1581",
+        "objectId": "{\"injectedScriptId\":7,\"id\":4}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "DOMException: Failed to execute 'addSourceBuffer' on 'MediaSource': The type provided ('video/mp4; codecs=\"avc1.4d401f\"') is unsupported.\n    at https://www.facebook.com/rsrc.php/v3/yU/r/rGQu7wg4aCs.js?_nc_x=Ij3Wp8lg5Kz:48:1581",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "accessor"
+            },
+            {
+              "name": "code",
+              "type": "number",
+              "value": "9"
+            },
+            {
+              "name": "name",
+              "type": "string",
+              "value": "NotSupportedError"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Failed to execute 'addSourceBuffer' on 'MediaSourc…video/mp4; codecs=\"avc1.4d401f\"') is unsupported."
+            }
+          ]
+        }
+      },
+      "executionContextId": 7
+    }
+  },
+  {
+    "timestamp": 1583008500197.595,
+    "exceptionDetails": {
+      "exceptionId": 6,
+      "text": "Uncaught (in promise)",
+      "lineNumber": 47,
+      "columnNumber": 1580,
+      "url": "https://www.facebook.com/rsrc.php/v3/yU/r/rGQu7wg4aCs.js?_nc_x=Ij3Wp8lg5Kz",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "77",
+            "url": "https://www.facebook.com/rsrc.php/v3/yU/r/rGQu7wg4aCs.js?_nc_x=Ij3Wp8lg5Kz",
+            "lineNumber": 47,
+            "columnNumber": 1580
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "DOMException",
+        "description": "DOMException: Failed to execute 'addSourceBuffer' on 'MediaSource': The type provided ('video/mp4; codecs=\"avc1.4d401f\"') is unsupported.\n    at https://www.facebook.com/rsrc.php/v3/yU/r/rGQu7wg4aCs.js?_nc_x=Ij3Wp8lg5Kz:48:1581",
+        "objectId": "{\"injectedScriptId\":7,\"id\":5}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "DOMException: Failed to execute 'addSourceBuffer' on 'MediaSource': The type provided ('video/mp4; codecs=\"avc1.4d401f\"') is unsupported.\n    at https://www.facebook.com/rsrc.php/v3/yU/r/rGQu7wg4aCs.js?_nc_x=Ij3Wp8lg5Kz:48:1581",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "accessor"
+            },
+            {
+              "name": "code",
+              "type": "number",
+              "value": "9"
+            },
+            {
+              "name": "name",
+              "type": "string",
+              "value": "NotSupportedError"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Failed to execute 'addSourceBuffer' on 'MediaSourc…video/mp4; codecs=\"avc1.4d401f\"') is unsupported."
+            }
+          ]
+        }
+      },
+      "executionContextId": 7
+    }
+  },
+  {
+    "timestamp": 1583008500197.729,
+    "exceptionDetails": {
+      "exceptionId": 7,
+      "text": "Uncaught (in promise)",
+      "lineNumber": 47,
+      "columnNumber": 1580,
+      "url": "https://www.facebook.com/rsrc.php/v3/yU/r/rGQu7wg4aCs.js?_nc_x=Ij3Wp8lg5Kz",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "77",
+            "url": "https://www.facebook.com/rsrc.php/v3/yU/r/rGQu7wg4aCs.js?_nc_x=Ij3Wp8lg5Kz",
+            "lineNumber": 47,
+            "columnNumber": 1580
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "DOMException",
+        "description": "DOMException: Failed to execute 'addSourceBuffer' on 'MediaSource': The type provided ('audio/mp4; codecs=\"mp4a.40.5\"') is unsupported.\n    at https://www.facebook.com/rsrc.php/v3/yU/r/rGQu7wg4aCs.js?_nc_x=Ij3Wp8lg5Kz:48:1581",
+        "objectId": "{\"injectedScriptId\":7,\"id\":6}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "DOMException: Failed to execute 'addSourceBuffer' on 'MediaSource': The type provided ('audio/mp4; codecs=\"mp4a.40.5\"') is unsupported.\n    at https://www.facebook.com/rsrc.php/v3/yU/r/rGQu7wg4aCs.js?_nc_x=Ij3Wp8lg5Kz:48:1581",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "accessor"
+            },
+            {
+              "name": "code",
+              "type": "number",
+              "value": "9"
+            },
+            {
+              "name": "name",
+              "type": "string",
+              "value": "NotSupportedError"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Failed to execute 'addSourceBuffer' on 'MediaSourc…('audio/mp4; codecs=\"mp4a.40.5\"') is unsupported."
+            }
+          ]
+        }
+      },
+      "executionContextId": 7
+    }
+  }
+]

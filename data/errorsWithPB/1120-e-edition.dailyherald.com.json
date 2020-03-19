@@ -1,0 +1,103 @@
+[
+  {
+    "timestamp": 1583422112530.513,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 446,
+      "columnNumber": 8,
+      "url": "http://e-edition.dailyherald.com/popovers/article_popover.aspx?guid=f938f9fc-97ad-4ee0-a42d-92a9e776b00d",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "21",
+            "url": "http://e-edition.dailyherald.com/popovers/article_popover.aspx?guid=f938f9fc-97ad-4ee0-a42d-92a9e776b00d",
+            "lineNumber": 446,
+            "columnNumber": 8
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: stLight is not defined\n    at http://e-edition.dailyherald.com/popovers/article_popover.aspx?guid=f938f9fc-97ad-4ee0-a42d-92a9e776b00d:447:9",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: stLight is not defined\n    at http://e-edition.dailyherald.com/popovers/article_popover.aspx?guid=f938f9fc-97ad-4ee0-a42d-92a9e776b00d:447:9",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: stLight is not defined\n    at http…x?guid=f938f9fc-97ad-4ee0-a42d-92a9e776b00d:447:9"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "stLight is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583422112752.616,
+    "exceptionDetails": {
+      "exceptionId": 2,
+      "text": "Uncaught",
+      "lineNumber": 556,
+      "columnNumber": 124,
+      "url": "http://e-edition.dailyherald.com/popovers/article_popover.aspx?guid=f938f9fc-97ad-4ee0-a42d-92a9e776b00d",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "changePage",
+            "scriptId": "28",
+            "url": "http://e-edition.dailyherald.com/popovers/article_popover.aspx?guid=f938f9fc-97ad-4ee0-a42d-92a9e776b00d",
+            "lineNumber": 556,
+            "columnNumber": 124
+          },
+          {
+            "functionName": "",
+            "scriptId": "28",
+            "url": "http://e-edition.dailyherald.com/popovers/article_popover.aspx?guid=f938f9fc-97ad-4ee0-a42d-92a9e776b00d",
+            "lineNumber": 556,
+            "columnNumber": 141
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: parent.changePage is not a function\n    at changePage (http://e-edition.dailyherald.com/popovers/article_popover.aspx?guid=f938f9fc-97ad-4ee0-a42d-92a9e776b00d:557:125)\n    at http://e-edition.dailyherald.com/popovers/article_popover.aspx?guid=f938f9fc-97ad-4ee0-a42d-92a9e776b00d:557:142",
+        "objectId": "{\"injectedScriptId\":3,\"id\":2}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: parent.changePage is not a function\n    at changePage (http://e-edition.dailyherald.com/popovers/article_popover.aspx?guid=f938f9fc-97ad-4ee0-a42d-92a9e776b00d:557:125)\n    at http://e-edition.dailyherald.com/popovers/article_popover.aspx?guid=f938f9fc-97ad-4ee0-a42d-92a9e776b00d:557:142",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: parent.changePage is not a function\n   …guid=f938f9fc-97ad-4ee0-a42d-92a9e776b00d:557:142"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "parent.changePage is not a function"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

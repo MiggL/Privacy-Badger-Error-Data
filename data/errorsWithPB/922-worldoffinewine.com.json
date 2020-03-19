@@ -1,0 +1,293 @@
+[
+  {
+    "timestamp": 1583423933821.326,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 645,
+      "columnNumber": 10,
+      "url": "http://www.worldoffinewine.com/",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "37",
+            "url": "http://www.worldoffinewine.com/",
+            "lineNumber": 645,
+            "columnNumber": 10
+          },
+          {
+            "functionName": "fire",
+            "scriptId": "21",
+            "url": "http://www.worldoffinewine.com/content/jquery/jquery.js",
+            "lineNumber": 2912,
+            "columnNumber": 33
+          },
+          {
+            "functionName": "fireWith",
+            "scriptId": "21",
+            "url": "http://www.worldoffinewine.com/content/jquery/jquery.js",
+            "lineNumber": 3024,
+            "columnNumber": 12
+          },
+          {
+            "functionName": "ready",
+            "scriptId": "21",
+            "url": "http://www.worldoffinewine.com/content/jquery/jquery.js",
+            "lineNumber": 397,
+            "columnNumber": 14
+          },
+          {
+            "functionName": "completed",
+            "scriptId": "21",
+            "url": "http://www.worldoffinewine.com/content/jquery/jquery.js",
+            "lineNumber": 92,
+            "columnNumber": 11
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: $ is not a function\n    at HTMLDocument.<anonymous> (http://www.worldoffinewine.com/:646:11)\n    at fire (http://www.worldoffinewine.com/content/jquery/jquery.js:2913:34)\n    at Object.fireWith [as resolveWith] (http://www.worldoffinewine.com/content/jquery/jquery.js:3025:13)\n    at Function.ready (http://www.worldoffinewine.com/content/jquery/jquery.js:398:15)\n    at HTMLDocument.completed (http://www.worldoffinewine.com/content/jquery/jquery.js:93:12)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: $ is not a function\n    at HTMLDocument.<anonymous> (http://www.worldoffinewine.com/:646:11)\n    at fire (http://www.worldoffinewine.com/content/jquery/jquery.js:2913:34)\n    at Object.fireWith [as resolveWith] (http://www.worldoffinewine.com/content/jquery/jquery.js:3025:13)\n    at Function.ready (http://www.worldoffinewine.com/content/jquery/jquery.js:398:15)\n    at HTMLDocument.completed (http://www.worldoffinewine.com/content/jquery/jquery.js:93:12)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: $ is not a function\n    at HTMLDocument…rldoffinewine.com/content/jquery/jquery.js:93:12)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "$ is not a function"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583423933823.247,
+    "exceptionDetails": {
+      "exceptionId": 2,
+      "text": "Uncaught",
+      "lineNumber": 7,
+      "columnNumber": 8473,
+      "url": "http://www.worldoffinewine.com/content/jquery/foundation.min.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "u",
+            "scriptId": "29",
+            "url": "http://www.worldoffinewine.com/content/jquery/foundation.min.js",
+            "lineNumber": 7,
+            "columnNumber": 8473
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'fx' of undefined\n    at u (http://www.worldoffinewine.com/content/jquery/foundation.min.js:8:8474)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":2}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'fx' of undefined\n    at u (http://www.worldoffinewine.com/content/jquery/foundation.min.js:8:8474)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'fx' of undefined\n…wine.com/content/jquery/foundation.min.js:8:8474)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'fx' of undefined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583423933861.4832,
+    "exceptionDetails": {
+      "exceptionId": 3,
+      "text": "Uncaught",
+      "lineNumber": 7,
+      "columnNumber": 8473,
+      "url": "http://www.worldoffinewine.com/content/jquery/foundation.min.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "u",
+            "scriptId": "29",
+            "url": "http://www.worldoffinewine.com/content/jquery/foundation.min.js",
+            "lineNumber": 7,
+            "columnNumber": 8473
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'fx' of undefined\n    at u (http://www.worldoffinewine.com/content/jquery/foundation.min.js:8:8474)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":3}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'fx' of undefined\n    at u (http://www.worldoffinewine.com/content/jquery/foundation.min.js:8:8474)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'fx' of undefined\n…wine.com/content/jquery/foundation.min.js:8:8474)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'fx' of undefined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583423933876.51,
+    "exceptionDetails": {
+      "exceptionId": 4,
+      "text": "Uncaught",
+      "lineNumber": 7,
+      "columnNumber": 8473,
+      "url": "http://www.worldoffinewine.com/content/jquery/foundation.min.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "u",
+            "scriptId": "29",
+            "url": "http://www.worldoffinewine.com/content/jquery/foundation.min.js",
+            "lineNumber": 7,
+            "columnNumber": 8473
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'fx' of undefined\n    at u (http://www.worldoffinewine.com/content/jquery/foundation.min.js:8:8474)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":4}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'fx' of undefined\n    at u (http://www.worldoffinewine.com/content/jquery/foundation.min.js:8:8474)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'fx' of undefined\n…wine.com/content/jquery/foundation.min.js:8:8474)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'fx' of undefined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583423934464.0278,
+    "exceptionDetails": {
+      "exceptionId": 5,
+      "text": "Uncaught",
+      "lineNumber": 134,
+      "columnNumber": 57,
+      "url": "http://www.worldoffinewine.com/content/jquery/wine-owners-widget-script.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "markupLoaded",
+            "scriptId": "39",
+            "url": "http://www.worldoffinewine.com/content/jquery/wine-owners-widget-script.js",
+            "lineNumber": 134,
+            "columnNumber": 57
+          },
+          {
+            "functionName": "c",
+            "scriptId": "44",
+            "url": "http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js",
+            "lineNumber": 3,
+            "columnNumber": 26035
+          },
+          {
+            "functionName": "fireWith",
+            "scriptId": "44",
+            "url": "http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js",
+            "lineNumber": 3,
+            "columnNumber": 26839
+          },
+          {
+            "functionName": "k",
+            "scriptId": "44",
+            "url": "http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js",
+            "lineNumber": 5,
+            "columnNumber": 14257
+          },
+          {
+            "functionName": "n.onload.n.onreadystatechange",
+            "scriptId": "44",
+            "url": "http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js",
+            "lineNumber": 5,
+            "columnNumber": 16466
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'innerHTML' of undefined\n    at Object.markupLoaded [as success] (http://www.worldoffinewine.com/content/jquery/wine-owners-widget-script.js:135:58)\n    at c (http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js:4:26036)\n    at Object.fireWith [as resolveWith] (http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js:4:26840)\n    at k (http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js:6:14258)\n    at HTMLScriptElement.n.onload.n.onreadystatechange (http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js:6:16467)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":5}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'innerHTML' of undefined\n    at Object.markupLoaded [as success] (http://www.worldoffinewine.com/content/jquery/wine-owners-widget-script.js:135:58)\n    at c (http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js:4:26036)\n    at Object.fireWith [as resolveWith] (http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js:4:26840)\n    at k (http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js:6:14258)\n    at HTMLScriptElement.n.onload.n.onreadystatechange (http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js:6:16467)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'innerHTML' of und…om/ajax/libs/jquery/1.10.2/jquery.min.js:6:16467)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'innerHTML' of undefined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

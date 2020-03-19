@@ -1,0 +1,56 @@
+[
+  {
+    "timestamp": 1583008936742.643,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 0,
+      "columnNumber": 111,
+      "url": "https://atelier.fandom.com/load.php?cb=1582888023147&debug=false&lang=en&modules=site&only=scripts&reviewed=1511367109&skin=oasis&*",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "loadFunc",
+            "scriptId": "47",
+            "url": "https://atelier.fandom.com/load.php?cb=1582888023147&debug=false&lang=en&modules=site&only=scripts&reviewed=1511367109&skin=oasis&*",
+            "lineNumber": 0,
+            "columnNumber": 111
+          },
+          {
+            "functionName": "window.runOnloadHook",
+            "scriptId": "33",
+            "url": "https://slot1-images.wikia.nocookie.net/__load/-/debug%3Dfalse%26lang%3Den%26skin%3Doasis%26version%3D1582888023147-20200228T110000Z/amd.shared%7Cext.wikia.facebookTags%7Cjquery.byteLength,checkboxShiftClick,client,cookie,makeCollapsible,messageBox,mw-jump,mwExtension,timeago%7Cmediawiki.Title,Uri,cldr,jqueryMsg,language,user,util%7Cmediawiki.language.init%7Cmediawiki.legacy.ajax,wikibits%7Cmediawiki.libs.pluralruleparser%7Cmediawiki.page.ready,startup%7Cunderscore%7Cwikia.fbLocale,history,importScript,loader,mw,nirvana,throbber,thumbnailer,tracker",
+            "lineNumber": 73,
+            "columnNumber": 528
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: rewriteSearchFormLink is not defined\n    at Array.loadFunc (https://atelier.fandom.com/load.php?cb=1582888023147&debug=false&lang=en&modules=site&only=scripts&reviewed=1511367109&skin=oasis&*:1:112)\n    at window.runOnloadHook (https://slot1-images.wikia.nocookie.net/__load/-/debug%3Dfalse%26lang%3Den%26skin%3Doasis%26version%3D1582888023147-20200228T110000Z/amd.shared%7Cext.wikia.facebookTags%7Cjquery.byteLength,checkboxShiftClick,client,cookie,makeCollapsible,messageBox,mw-jump,mwExtension,timeago%7Cmediawiki.Title,Uri,cldr,jqueryMsg,language,user,util%7Cmediawiki.language.init%7Cmediawiki.legacy.ajax,wikibits%7Cmediawiki.libs.pluralruleparser%7Cmediawiki.page.ready,startup%7Cunderscore%7Cwikia.fbLocale,history,importScript,loader,mw,nirvana,throbber,thumbnailer,tracker:74:529)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: rewriteSearchFormLink is not defined\n    at Array.loadFunc (https://atelier.fandom.com/load.php?cb=1582888023147&debug=false&lang=en&modules=site&only=scripts&reviewed=1511367109&skin=oasis&*:1:112)\n    at window.runOnloadHook (https://slot1-images.wikia.nocookie.net/__load/-/debug%3Dfalse%26lang%3Den%26skin%3Doasis%26version%3D1582888023147-20200228T110000Z/amd.shared%7Cext.wikia.facebookTags%7Cjquery.byteLength,checkboxShiftClick,client,cookie,makeCollapsible,messageBox,mw-jump,mwExtension,timeago%7Cmediawiki.Title,Uri,cldr,jqueryMsg,language,user,util%7Cmediawiki.language.init%7Cmediawiki.legacy.ajax,wikibits%7Cmediawiki.libs.pluralruleparser%7Cmediawiki.page.ready,startup%7Cunderscore%7Cwikia.fbLocale,history,importScript,loader,mw,nirvana,throbber,thumbnailer,tracker:74:529)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: rewriteSearchFormLink is not defin…r,mw,nirvana,throbber,thumbnailer,tracker:74:529)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "rewriteSearchFormLink is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

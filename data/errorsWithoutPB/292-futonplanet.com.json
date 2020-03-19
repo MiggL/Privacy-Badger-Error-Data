@@ -1,0 +1,49 @@
+[
+  {
+    "timestamp": 1583010757157.496,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 5,
+      "columnNumber": 51,
+      "url": "https://futonplanet.com/content/skins/FutonPlanetDDM/javascript/csshorizontalmenu.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "createcssmenu2",
+            "scriptId": "41",
+            "url": "https://futonplanet.com/content/skins/FutonPlanetDDM/javascript/csshorizontalmenu.js",
+            "lineNumber": 5,
+            "columnNumber": 51
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'getElementsByTagName' of null\n    at createcssmenu2 (https://futonplanet.com/content/skins/FutonPlanetDDM/javascript/csshorizontalmenu.js:6:52)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'getElementsByTagName' of null\n    at createcssmenu2 (https://futonplanet.com/content/skins/FutonPlanetDDM/javascript/csshorizontalmenu.js:6:52)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'getElementsByTagN…onPlanetDDM/javascript/csshorizontalmenu.js:6:52)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'getElementsByTagName' of null"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

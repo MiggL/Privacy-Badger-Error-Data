@@ -1,0 +1,148 @@
+[
+  {
+    "timestamp": 1583009347458.812,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 216,
+      "columnNumber": 27,
+      "url": "https://www.telegraph.co.uk/news/2017/02/10/cambridge-university-student-relative-nicola-sturgeon-filmed/",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "24",
+            "url": "https://www.telegraph.co.uk/news/2017/02/10/cambridge-university-student-relative-nicola-sturgeon-filmed/",
+            "lineNumber": 216,
+            "columnNumber": 27
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'update' of undefined\n    at https://www.telegraph.co.uk/news/2017/02/10/cambridge-university-student-relative-nicola-sturgeon-filmed/:217:28",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'update' of undefined\n    at https://www.telegraph.co.uk/news/2017/02/10/cambridge-university-student-relative-nicola-sturgeon-filmed/:217:28",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'update' of undefi…y-student-relative-nicola-sturgeon-filmed/:217:28"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'update' of undefined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583009348872.0342,
+    "exceptionDetails": {
+      "exceptionId": 2,
+      "text": "Uncaught",
+      "lineNumber": 0,
+      "columnNumber": 323872,
+      "url": "https://www.gstatic.com/firebasejs/5.0.4/firebase-firestore.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "362",
+            "url": "https://www.gstatic.com/firebasejs/5.0.4/firebase-firestore.js",
+            "lineNumber": 0,
+            "columnNumber": 323872
+          },
+          {
+            "functionName": "",
+            "scriptId": "362",
+            "url": "https://www.gstatic.com/firebasejs/5.0.4/firebase-firestore.js",
+            "lineNumber": 0,
+            "columnNumber": 323989
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "Error",
+        "description": "Error: Cannot instantiate firebase-firestore - be sure to load firebase-app.js first.\n    at https://www.gstatic.com/firebasejs/5.0.4/firebase-firestore.js:1:323873\n    at https://www.gstatic.com/firebasejs/5.0.4/firebase-firestore.js:1:323990",
+        "objectId": "{\"injectedScriptId\":3,\"id\":4}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "Error: Cannot instantiate firebase-firestore - be sure to load firebase-app.js first.\n    at https://www.gstatic.com/firebasejs/5.0.4/firebase-firestore.js:1:323873\n    at https://www.gstatic.com/firebasejs/5.0.4/firebase-firestore.js:1:323990",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "Error: Cannot instantiate firebase-firestore - be …m/firebasejs/5.0.4/firebase-firestore.js:1:323990"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot instantiate firebase-firestore - be sure to load firebase-app.js first."
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583009348894.717,
+    "exceptionDetails": {
+      "exceptionId": 3,
+      "text": "Uncaught (in promise)",
+      "lineNumber": 0,
+      "columnNumber": 32615,
+      "scriptId": "358",
+      "url": "https://www.gstatic.com/firebasejs/5.0.4/firebase-app.js",
+      "exception": {
+        "type": "object",
+        "className": "Object",
+        "description": "Object",
+        "objectId": "{\"injectedScriptId\":3,\"id\":5}",
+        "preview": {
+          "type": "object",
+          "description": "Object",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "code",
+              "type": "string",
+              "value": "app/duplicate-app"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Firebase: Firebase App named '[DEFAULT]' already exists (app/duplicate-app)."
+            },
+            {
+              "name": "name",
+              "type": "string",
+              "value": "[DEFAULT]"
+            },
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "[DEFAULT]: Firebase: Firebase App named '[DEFAULT]…egraph/core/clientlibs/core.min.5-52--0.js:398:70"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

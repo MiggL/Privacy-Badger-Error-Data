@@ -1,0 +1,85 @@
+[
+  {
+    "timestamp": 1583421478343.7341,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 15,
+      "columnNumber": 13142,
+      "scriptId": "22",
+      "url": "http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "checkType",
+            "scriptId": "27",
+            "url": "http://cdn.apple-mapkit.com/mk/5.x.x/mapkit.js",
+            "lineNumber": 2,
+            "columnNumber": 184607
+          },
+          {
+            "functionName": "c",
+            "scriptId": "27",
+            "url": "http://cdn.apple-mapkit.com/mk/5.x.x/mapkit.js",
+            "lineNumber": 2,
+            "columnNumber": 14325
+          },
+          {
+            "functionName": "",
+            "scriptId": "29",
+            "url": "http://cinematreasures.org/theaters/54017",
+            "lineNumber": 242,
+            "columnNumber": 14
+          },
+          {
+            "functionName": "resolveWith",
+            "scriptId": "22",
+            "url": "http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js",
+            "lineNumber": 15,
+            "columnNumber": 13122
+          },
+          {
+            "functionName": "ready",
+            "scriptId": "22",
+            "url": "http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js",
+            "lineNumber": 15,
+            "columnNumber": 9258
+          },
+          {
+            "functionName": "A",
+            "scriptId": "22",
+            "url": "http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js",
+            "lineNumber": 15,
+            "columnNumber": 15074
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: [MapKit] `latitude` is not a number.\n    at Object.checkType (http://cdn.apple-mapkit.com/mk/5.x.x/mapkit.js:3:184608)\n    at new c (http://cdn.apple-mapkit.com/mk/5.x.x/mapkit.js:3:14326)\n    at HTMLDocument.<anonymous> (http://cinematreasures.org/theaters/54017:243:15)\n    at Object.resolveWith (http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js:16:13123)\n    at Function.ready (http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js:16:9259)\n    at HTMLDocument.A (http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js:16:15075)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: [MapKit] `latitude` is not a number.\n    at Object.checkType (http://cdn.apple-mapkit.com/mk/5.x.x/mapkit.js:3:184608)\n    at new c (http://cdn.apple-mapkit.com/mk/5.x.x/mapkit.js:3:14326)\n    at HTMLDocument.<anonymous> (http://cinematreasures.org/theaters/54017:243:15)\n    at Object.resolveWith (http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js:16:13123)\n    at Function.ready (http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js:16:9259)\n    at HTMLDocument.A (http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js:16:15075)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: [MapKit] `latitude` is not a number.\n  …om/ajax/libs/jquery/1.5.1/jquery.min.js:16:15075)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "[MapKit] `latitude` is not a number."
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

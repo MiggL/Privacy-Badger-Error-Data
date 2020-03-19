@@ -1,0 +1,262 @@
+[
+  {
+    "timestamp": 1583010354885.459,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 680,
+      "columnNumber": 10,
+      "url": "https://it.toolbox.com/question/clear-timer-in-hawk-040803",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "28",
+            "url": "https://it.toolbox.com/question/clear-timer-in-hawk-040803",
+            "lineNumber": 680,
+            "columnNumber": 10
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'addEventListener' of null\n    at https://it.toolbox.com/question/clear-timer-in-hawk-040803:681:11",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'addEventListener' of null\n    at https://it.toolbox.com/question/clear-timer-in-hawk-040803:681:11",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'addEventListener'…ox.com/question/clear-timer-in-hawk-040803:681:11"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'addEventListener' of null"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583010356022.6272,
+    "exceptionDetails": {
+      "exceptionId": 2,
+      "text": "Uncaught",
+      "lineNumber": 51,
+      "columnNumber": 42,
+      "url": "https://cdn.ziffstatic.com/jst/zdsticky.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "init",
+            "scriptId": "30",
+            "url": "https://cdn.ziffstatic.com/jst/zdsticky.js",
+            "lineNumber": 51,
+            "columnNumber": 42
+          },
+          {
+            "functionName": "",
+            "scriptId": "30",
+            "url": "https://cdn.ziffstatic.com/jst/zdsticky.js",
+            "lineNumber": 192,
+            "columnNumber": 15
+          },
+          {
+            "functionName": "i",
+            "scriptId": "16",
+            "url": "https://it.toolbox.com/question/clear-timer-in-hawk-040803",
+            "lineNumber": 159,
+            "columnNumber": 27136
+          },
+          {
+            "functionName": "fireWith",
+            "scriptId": "16",
+            "url": "https://it.toolbox.com/question/clear-timer-in-hawk-040803",
+            "lineNumber": 159,
+            "columnNumber": 27899
+          },
+          {
+            "functionName": "ready",
+            "scriptId": "16",
+            "url": "https://it.toolbox.com/question/clear-timer-in-hawk-040803",
+            "lineNumber": 159,
+            "columnNumber": 29692
+          },
+          {
+            "functionName": "J",
+            "scriptId": "16",
+            "url": "https://it.toolbox.com/question/clear-timer-in-hawk-040803",
+            "lineNumber": 159,
+            "columnNumber": 29877
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'top' of undefined\n    at Object.init (https://cdn.ziffstatic.com/jst/zdsticky.js:52:43)\n    at HTMLDocument.<anonymous> (https://cdn.ziffstatic.com/jst/zdsticky.js:193:16)\n    at i (https://it.toolbox.com/question/clear-timer-in-hawk-040803:160:27137)\n    at Object.fireWith [as resolveWith] (https://it.toolbox.com/question/clear-timer-in-hawk-040803:160:27900)\n    at Function.ready (https://it.toolbox.com/question/clear-timer-in-hawk-040803:160:29693)\n    at HTMLDocument.J (https://it.toolbox.com/question/clear-timer-in-hawk-040803:160:29878)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":2}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'top' of undefined\n    at Object.init (https://cdn.ziffstatic.com/jst/zdsticky.js:52:43)\n    at HTMLDocument.<anonymous> (https://cdn.ziffstatic.com/jst/zdsticky.js:193:16)\n    at i (https://it.toolbox.com/question/clear-timer-in-hawk-040803:160:27137)\n    at Object.fireWith [as resolveWith] (https://it.toolbox.com/question/clear-timer-in-hawk-040803:160:27900)\n    at Function.ready (https://it.toolbox.com/question/clear-timer-in-hawk-040803:160:29693)\n    at HTMLDocument.J (https://it.toolbox.com/question/clear-timer-in-hawk-040803:160:29878)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'top' of undefined…om/question/clear-timer-in-hawk-040803:160:29878)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'top' of undefined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583010356046.228,
+    "exceptionDetails": {
+      "exceptionId": 3,
+      "text": "Uncaught",
+      "lineNumber": 1,
+      "columnNumber": 41179,
+      "url": "https://toolbox.brightspotcdn.com/resource/main.concat.fcf0c75317fca11635762525071cd6e9.gz.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "value",
+            "scriptId": "18",
+            "url": "https://toolbox.brightspotcdn.com/resource/main.concat.fcf0c75317fca11635762525071cd6e9.gz.js",
+            "lineNumber": 1,
+            "columnNumber": 41179
+          },
+          {
+            "functionName": "a",
+            "scriptId": "18",
+            "url": "https://toolbox.brightspotcdn.com/resource/main.concat.fcf0c75317fca11635762525071cd6e9.gz.js",
+            "lineNumber": 1,
+            "columnNumber": 40916
+          },
+          {
+            "functionName": "_each",
+            "scriptId": "18",
+            "url": "https://toolbox.brightspotcdn.com/resource/main.concat.fcf0c75317fca11635762525071cd6e9.gz.js",
+            "lineNumber": 1,
+            "columnNumber": 42739
+          },
+          {
+            "functionName": "insert",
+            "scriptId": "18",
+            "url": "https://toolbox.brightspotcdn.com/resource/main.concat.fcf0c75317fca11635762525071cd6e9.gz.js",
+            "lineNumber": 1,
+            "columnNumber": 675314
+          },
+          {
+            "functionName": "",
+            "scriptId": "18",
+            "url": "https://toolbox.brightspotcdn.com/resource/main.concat.fcf0c75317fca11635762525071cd6e9.gz.js",
+            "lineNumber": 1,
+            "columnNumber": 673319
+          },
+          {
+            "functionName": "each",
+            "scriptId": "18",
+            "url": "https://toolbox.brightspotcdn.com/resource/main.concat.fcf0c75317fca11635762525071cd6e9.gz.js",
+            "lineNumber": 1,
+            "columnNumber": 600564
+          },
+          {
+            "functionName": "each",
+            "scriptId": "18",
+            "url": "https://toolbox.brightspotcdn.com/resource/main.concat.fcf0c75317fca11635762525071cd6e9.gz.js",
+            "lineNumber": 1,
+            "columnNumber": 598551
+          },
+          {
+            "functionName": "a",
+            "scriptId": "18",
+            "url": "https://toolbox.brightspotcdn.com/resource/main.concat.fcf0c75317fca11635762525071cd6e9.gz.js",
+            "lineNumber": 1,
+            "columnNumber": 673303
+          },
+          {
+            "functionName": "",
+            "scriptId": "18",
+            "url": "https://toolbox.brightspotcdn.com/resource/main.concat.fcf0c75317fca11635762525071cd6e9.gz.js",
+            "lineNumber": 1,
+            "columnNumber": 673569
+          },
+          {
+            "functionName": "k",
+            "scriptId": "18",
+            "url": "https://toolbox.brightspotcdn.com/resource/main.concat.fcf0c75317fca11635762525071cd6e9.gz.js",
+            "lineNumber": 1,
+            "columnNumber": 623870
+          },
+          {
+            "functionName": "fireWith",
+            "scriptId": "18",
+            "url": "https://toolbox.brightspotcdn.com/resource/main.concat.fcf0c75317fca11635762525071cd6e9.gz.js",
+            "lineNumber": 1,
+            "columnNumber": 624677
+          },
+          {
+            "functionName": "ready",
+            "scriptId": "18",
+            "url": "https://toolbox.brightspotcdn.com/resource/main.concat.fcf0c75317fca11635762525071cd6e9.gz.js",
+            "lineNumber": 1,
+            "columnNumber": 626473
+          },
+          {
+            "functionName": "g",
+            "scriptId": "18",
+            "url": "https://toolbox.brightspotcdn.com/resource/main.concat.fcf0c75317fca11635762525071cd6e9.gz.js",
+            "lineNumber": 1,
+            "columnNumber": 589445
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: this.$trigger.qtip is not a function\n    at a.value (https://toolbox.brightspotcdn.com/resource/main.concat.fcf0c75317fca11635762525071cd6e9.gz.js:2:41180)\n    at new a (https://toolbox.brightspotcdn.com/resource/main.concat.fcf0c75317fca11635762525071cd6e9.gz.js:2:40917)\n    at Object._each (https://toolbox.brightspotcdn.com/resource/main.concat.fcf0c75317fca11635762525071cd6e9.gz.js:2:42740)\n    at insert (https://toolbox.brightspotcdn.com/resource/main.concat.fcf0c75317fca11635762525071cd6e9.gz.js:2:675315)\n    at HTMLDivElement.<anonymous> (https://toolbox.brightspotcdn.com/resource/main.concat.fcf0c75317fca11635762525071cd6e9.gz.js:2:673320)\n    at Function.each (https://toolbox.brightspotcdn.com/resource/main.concat.fcf0c75317fca11635762525071cd6e9.gz.js:2:600565)\n    at _.fn.init.each (https://toolbox.brightspotcdn.com/resource/main.concat.fcf0c75317fca11635762525071cd6e9.gz.js:2:598552)\n    at a (https://toolbox.brightspotcdn.com/resource/main.concat.fcf0c75317fca11635762525071cd6e9.gz.js:2:673304)\n    at HTMLDocument.<anonymous> (https://toolbox.brightspotcdn.com/resource/main.concat.fcf0c75317fca11635762525071cd6e9.gz.js:2:673570)\n    at k (https://toolbox.brightspotcdn.com/resource/main.concat.fcf0c75317fca11635762525071cd6e9.gz.js:2:623871)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":3}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: this.$trigger.qtip is not a function\n    at a.value (https://toolbox.brightspotcdn.com/resource/main.concat.fcf0c75317fca11635762525071cd6e9.gz.js:2:41180)\n    at new a (https://toolbox.brightspotcdn.com/resource/main.concat.fcf0c75317fca11635762525071cd6e9.gz.js:2:40917)\n    at Object._each (https://toolbox.brightspotcdn.com/resource/main.concat.fcf0c75317fca11635762525071cd6e9.gz.js:2:42740)\n    at insert (https://toolbox.brightspotcdn.com/resource/main.concat.fcf0c75317fca11635762525071cd6e9.gz.js:2:675315)\n    at HTMLDivElement.<anonymous> (https://toolbox.brightspotcdn.com/resource/main.concat.fcf0c75317fca11635762525071cd6e9.gz.js:2:673320)\n    at Function.each (https://toolbox.brightspotcdn.com/resource/main.concat.fcf0c75317fca11635762525071cd6e9.gz.js:2:600565)\n    at _.fn.init.each (https://toolbox.brightspotcdn.com/resource/main.concat.fcf0c75317fca11635762525071cd6e9.gz.js:2:598552)\n    at a (https://toolbox.brightspotcdn.com/resource/main.concat.fcf0c75317fca11635762525071cd6e9.gz.js:2:673304)\n    at HTMLDocument.<anonymous> (https://toolbox.brightspotcdn.com/resource/main.concat.fcf0c75317fca11635762525071cd6e9.gz.js:2:673570)\n    at k (https://toolbox.brightspotcdn.com/resource/main.concat.fcf0c75317fca11635762525071cd6e9.gz.js:2:623871)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: this.$trigger.qtip is not a function\n  ….fcf0c75317fca11635762525071cd6e9.gz.js:2:623871)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "this.$trigger.qtip is not a function"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

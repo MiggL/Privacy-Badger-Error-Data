@@ -1,0 +1,18 @@
+[
+  {
+    "timestamp": 1582896495857.441,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught (in promise)",
+      "lineNumber": 0,
+      "columnNumber": 0,
+      "scriptId": "1",
+      "url": "https://www.kindearth.net/39-of-the-best-hemp-recipes-ever-and-why-hemp-is-a-super-healthy-food/",
+      "exception": {
+        "type": "string",
+        "value": "Error while loading gpt"
+      },
+      "executionContextId": 3
+    }
+  }
+]

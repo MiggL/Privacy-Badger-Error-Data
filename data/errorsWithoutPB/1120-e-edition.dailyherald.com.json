@@ -1,0 +1,56 @@
+[
+  {
+    "timestamp": 1583003111432.869,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 556,
+      "columnNumber": 124,
+      "url": "http://e-edition.dailyherald.com/popovers/article_popover.aspx?guid=f938f9fc-97ad-4ee0-a42d-92a9e776b00d",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "changePage",
+            "scriptId": "20",
+            "url": "http://e-edition.dailyherald.com/popovers/article_popover.aspx?guid=f938f9fc-97ad-4ee0-a42d-92a9e776b00d",
+            "lineNumber": 556,
+            "columnNumber": 124
+          },
+          {
+            "functionName": "",
+            "scriptId": "20",
+            "url": "http://e-edition.dailyherald.com/popovers/article_popover.aspx?guid=f938f9fc-97ad-4ee0-a42d-92a9e776b00d",
+            "lineNumber": 556,
+            "columnNumber": 141
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: parent.changePage is not a function\n    at changePage (http://e-edition.dailyherald.com/popovers/article_popover.aspx?guid=f938f9fc-97ad-4ee0-a42d-92a9e776b00d:557:125)\n    at http://e-edition.dailyherald.com/popovers/article_popover.aspx?guid=f938f9fc-97ad-4ee0-a42d-92a9e776b00d:557:142",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: parent.changePage is not a function\n    at changePage (http://e-edition.dailyherald.com/popovers/article_popover.aspx?guid=f938f9fc-97ad-4ee0-a42d-92a9e776b00d:557:125)\n    at http://e-edition.dailyherald.com/popovers/article_popover.aspx?guid=f938f9fc-97ad-4ee0-a42d-92a9e776b00d:557:142",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: parent.changePage is not a function\n   …guid=f938f9fc-97ad-4ee0-a42d-92a9e776b00d:557:142"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "parent.changePage is not a function"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

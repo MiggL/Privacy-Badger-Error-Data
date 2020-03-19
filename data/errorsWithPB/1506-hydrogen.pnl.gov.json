@@ -1,0 +1,78 @@
+[
+  {
+    "timestamp": 1583418451188.666,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 12,
+      "columnNumber": 6,
+      "scriptId": "26",
+      "url": "https://h2tools.org/core/misc/drupal.js?v=8.8.2",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "attach",
+            "scriptId": "58",
+            "url": "https://h2tools.org/themes/popsicle/js/popsicleform.js?q6ooja",
+            "lineNumber": 7,
+            "columnNumber": 42
+          },
+          {
+            "functionName": "",
+            "scriptId": "26",
+            "url": "https://h2tools.org/core/misc/drupal.js?v=8.8.2",
+            "lineNumber": 24,
+            "columnNumber": 23
+          },
+          {
+            "functionName": "Drupal.attachBehaviors",
+            "scriptId": "26",
+            "url": "https://h2tools.org/core/misc/drupal.js?v=8.8.2",
+            "lineNumber": 21,
+            "columnNumber": 33
+          },
+          {
+            "functionName": "",
+            "scriptId": "27",
+            "url": "https://h2tools.org/core/misc/drupal.init.js?v=8.8.2",
+            "lineNumber": 27,
+            "columnNumber": 11
+          },
+          {
+            "functionName": "listener",
+            "scriptId": "27",
+            "url": "https://h2tools.org/core/misc/drupal.init.js?v=8.8.2",
+            "lineNumber": 19,
+            "columnNumber": 8
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'form' of undefined\n    at Object.attach (https://h2tools.org/themes/popsicle/js/popsicleform.js?q6ooja:8:43)\n    at https://h2tools.org/core/misc/drupal.js?v=8.8.2:25:24\n    at Array.forEach (<anonymous>)\n    at Object.Drupal.attachBehaviors (https://h2tools.org/core/misc/drupal.js?v=8.8.2:22:34)\n    at https://h2tools.org/core/misc/drupal.init.js?v=8.8.2:28:12\n    at HTMLDocument.listener (https://h2tools.org/core/misc/drupal.init.js?v=8.8.2:20:9)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'form' of undefined\n    at Object.attach (https://h2tools.org/themes/popsicle/js/popsicleform.js?q6ooja:8:43)\n    at https://h2tools.org/core/misc/drupal.js?v=8.8.2:25:24\n    at Array.forEach (<anonymous>)\n    at Object.Drupal.attachBehaviors (https://h2tools.org/core/misc/drupal.js?v=8.8.2:22:34)\n    at https://h2tools.org/core/misc/drupal.init.js?v=8.8.2:28:12\n    at HTMLDocument.listener (https://h2tools.org/core/misc/drupal.init.js?v=8.8.2:20:9)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'form' of undefine…2tools.org/core/misc/drupal.init.js?v=8.8.2:20:9)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'form' of undefined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "timestamp": 1582892121714.924,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught (in promise)",
+      "lineNumber": 0,
+      "columnNumber": 0,
+      "scriptId": "1",
+      "url": "https://www.mlive.com/food/2011/01/grilled_turkey_cutlets_in_dash.html",
+      "exception": {
+        "type": "string",
+        "value": "Failed to load script"
+      },
+      "executionContextId": 3
+    }
+  }
+]

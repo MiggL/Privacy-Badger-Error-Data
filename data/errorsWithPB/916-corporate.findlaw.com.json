@@ -1,0 +1,63 @@
+[
+  {
+    "timestamp": 1583423995815.653,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 4,
+      "columnNumber": 128991,
+      "url": "https://www.findlawimages.com/etc/designs/flcommon/flfe/javascript/lp.redesign.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "r",
+            "scriptId": "28",
+            "url": "https://www.findlawimages.com/etc/designs/flcommon/flfe/javascript/lp.redesign.js",
+            "lineNumber": 4,
+            "columnNumber": 128991
+          },
+          {
+            "functionName": "o",
+            "scriptId": "28",
+            "url": "https://www.findlawimages.com/etc/designs/flcommon/flfe/javascript/lp.redesign.js",
+            "lineNumber": 4,
+            "columnNumber": 130000
+          },
+          {
+            "functionName": "e",
+            "scriptId": "28",
+            "url": "https://www.findlawimages.com/etc/designs/flcommon/flfe/javascript/lp.redesign.js",
+            "lineNumber": 4,
+            "columnNumber": 142100
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: window.googletag.sizeMapping is not a function\n    at r (https://www.findlawimages.com/etc/designs/flcommon/flfe/javascript/lp.redesign.js:5:128992)\n    at o (https://www.findlawimages.com/etc/designs/flcommon/flfe/javascript/lp.redesign.js:5:130001)\n    at HTMLDocument.e (https://www.findlawimages.com/etc/designs/flcommon/flfe/javascript/lp.redesign.js:5:142101)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: window.googletag.sizeMapping is not a function\n    at r (https://www.findlawimages.com/etc/designs/flcommon/flfe/javascript/lp.redesign.js:5:128992)\n    at o (https://www.findlawimages.com/etc/designs/flcommon/flfe/javascript/lp.redesign.js:5:130001)\n    at HTMLDocument.e (https://www.findlawimages.com/etc/designs/flcommon/flfe/javascript/lp.redesign.js:5:142101)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: window.googletag.sizeMapping is not a f…flcommon/flfe/javascript/lp.redesign.js:5:142101)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "window.googletag.sizeMapping is not a function"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

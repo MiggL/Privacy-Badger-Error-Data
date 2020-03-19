@@ -1,0 +1,76 @@
+[
+  {
+    "timestamp": 1583006398290.618,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 22,
+      "columnNumber": 37,
+      "scriptId": "60",
+      "url": "https://3644761.fls.doubleclick.net/activityi;dc_pre=CLGerLDG9-cCFVMX4Aodxo4JqQ;src=3644761;type=retar331;cat=newer344;ord=306970856718;gtm=2wg2j0;auiddc=238527333.1583006398;~oref=https%3A%2F%2Fwww.neweracap.com%2Fproducts%2Fsnapback?",
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "SyntaxError",
+        "description": "SyntaxError: Unexpected token ';'",
+        "objectId": "{\"injectedScriptId\":7,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "SyntaxError: Unexpected token ';'",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "SyntaxError: Unexpected token ';'"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Unexpected token ';'"
+            }
+          ]
+        }
+      },
+      "executionContextId": 7
+    }
+  },
+  {
+    "timestamp": 1583006398703.4521,
+    "exceptionDetails": {
+      "exceptionId": 2,
+      "text": "Uncaught",
+      "lineNumber": 22,
+      "columnNumber": 37,
+      "scriptId": "106",
+      "url": "https://3644761.fls.doubleclick.net/activityi;dc_pre=CMHdwLDG9-cCFcWgewodODcHsQ;src=3644761;type=retar331;cat=newer344;ord=6789945385337;gtm=2wg2j0;auiddc=238527333.1583006398;~oref=https%3A%2F%2Fwww.neweracap.com%2FAll-Headwear%2F9FIFTY%2Fc%2FAHE9FI?",
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "SyntaxError",
+        "description": "SyntaxError: Unexpected token ';'",
+        "objectId": "{\"injectedScriptId\":14,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "SyntaxError: Unexpected token ';'",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "SyntaxError: Unexpected token ';'"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Unexpected token ';'"
+            }
+          ]
+        }
+      },
+      "executionContextId": 14
+    }
+  }
+]

@@ -1,0 +1,49 @@
+[
+  {
+    "timestamp": 1583011011270.239,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 461,
+      "columnNumber": 20,
+      "url": "https://www.todaysdietitian.com/newarchives/050113p44.shtml",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "42",
+            "url": "https://www.todaysdietitian.com/newarchives/050113p44.shtml",
+            "lineNumber": 461,
+            "columnNumber": 20
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: Spry is not defined\n    at https://www.todaysdietitian.com/newarchives/050113p44.shtml:462:21",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: Spry is not defined\n    at https://www.todaysdietitian.com/newarchives/050113p44.shtml:462:21",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: Spry is not defined\n    at https:/…sdietitian.com/newarchives/050113p44.shtml:462:21"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Spry is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

@@ -1,0 +1,63 @@
+[
+  {
+    "timestamp": 1583749104387.034,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught (in promise)",
+      "lineNumber": 0,
+      "columnNumber": 671601,
+      "url": "https://www.dailymail.co.uk/static/mol-adverts/4.0.56/mol-adverts.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "a",
+            "scriptId": "25",
+            "url": "https://www.dailymail.co.uk/static/mol-adverts/4.0.56/mol-adverts.js",
+            "lineNumber": 0,
+            "columnNumber": 671601
+          },
+          {
+            "functionName": "o",
+            "scriptId": "25",
+            "url": "https://www.dailymail.co.uk/static/mol-adverts/4.0.56/mol-adverts.js",
+            "lineNumber": 0,
+            "columnNumber": 671816
+          },
+          {
+            "functionName": "s",
+            "scriptId": "25",
+            "url": "https://www.dailymail.co.uk/static/mol-adverts/4.0.56/mol-adverts.js",
+            "lineNumber": 0,
+            "columnNumber": 671988
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'contains' of undefined\n    at a (https://www.dailymail.co.uk/static/mol-adverts/4.0.56/mol-adverts.js:1:671602)\n    at o (https://www.dailymail.co.uk/static/mol-adverts/4.0.56/mol-adverts.js:1:671817)\n    at s (https://www.dailymail.co.uk/static/mol-adverts/4.0.56/mol-adverts.js:1:671989)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'contains' of undefined\n    at a (https://www.dailymail.co.uk/static/mol-adverts/4.0.56/mol-adverts.js:1:671602)\n    at o (https://www.dailymail.co.uk/static/mol-adverts/4.0.56/mol-adverts.js:1:671817)\n    at s (https://www.dailymail.co.uk/static/mol-adverts/4.0.56/mol-adverts.js:1:671989)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'contains' of unde…tatic/mol-adverts/4.0.56/mol-adverts.js:1:671989)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'contains' of undefined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

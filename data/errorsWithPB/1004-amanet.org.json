@@ -1,0 +1,276 @@
+[
+  {
+    "timestamp": 1583423187746.0698,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 0,
+      "columnNumber": 3,
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "52",
+            "url": "",
+            "lineNumber": 0,
+            "columnNumber": 3
+          },
+          {
+            "functionName": "",
+            "scriptId": "34",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-WV2FRF",
+            "lineNumber": 2570,
+            "columnNumber": 413
+          },
+          {
+            "functionName": "c",
+            "scriptId": "34",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-WV2FRF",
+            "lineNumber": 2572,
+            "columnNumber": 151
+          },
+          {
+            "functionName": "Cb",
+            "scriptId": "34",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-WV2FRF",
+            "lineNumber": 2387,
+            "columnNumber": 395
+          },
+          {
+            "functionName": "e",
+            "scriptId": "34",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-WV2FRF",
+            "lineNumber": 2438,
+            "columnNumber": 137
+          },
+          {
+            "functionName": "",
+            "scriptId": "34",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-WV2FRF",
+            "lineNumber": 2376,
+            "columnNumber": 113
+          },
+          {
+            "functionName": "",
+            "scriptId": "34",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-WV2FRF",
+            "lineNumber": 2439,
+            "columnNumber": 228
+          },
+          {
+            "functionName": "",
+            "scriptId": "34",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-WV2FRF",
+            "lineNumber": 2438,
+            "columnNumber": 472
+          },
+          {
+            "functionName": "nf",
+            "scriptId": "34",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-WV2FRF",
+            "lineNumber": 2439,
+            "columnNumber": 517
+          },
+          {
+            "functionName": "pf",
+            "scriptId": "34",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-WV2FRF",
+            "lineNumber": 2441,
+            "columnNumber": 226
+          },
+          {
+            "functionName": "hj",
+            "scriptId": "34",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-WV2FRF",
+            "lineNumber": 2484,
+            "columnNumber": 186
+          },
+          {
+            "functionName": "gj",
+            "scriptId": "34",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-WV2FRF",
+            "lineNumber": 2484,
+            "columnNumber": 0
+          },
+          {
+            "functionName": "ij",
+            "scriptId": "34",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-WV2FRF",
+            "lineNumber": 2486,
+            "columnNumber": 356
+          },
+          {
+            "functionName": "jj",
+            "scriptId": "34",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-WV2FRF",
+            "lineNumber": 2487,
+            "columnNumber": 29
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: productData is not defined\n    at <anonymous>:1:4\n    at https://www.googletagmanager.com/gtm.js?id=GTM-WV2FRF:2571:414\n    at c (https://www.googletagmanager.com/gtm.js?id=GTM-WV2FRF:2573:152)\n    at Cb (https://www.googletagmanager.com/gtm.js?id=GTM-WV2FRF:2388:396)\n    at e (https://www.googletagmanager.com/gtm.js?id=GTM-WV2FRF:2439:138)\n    at https://www.googletagmanager.com/gtm.js?id=GTM-WV2FRF:2377:114\n    at Array.<anonymous> (https://www.googletagmanager.com/gtm.js?id=GTM-WV2FRF:2440:229)\n    at Object.Zf (https://www.googletagmanager.com/gtm.js?id=GTM-WV2FRF:2439:473)\n    at nf (https://www.googletagmanager.com/gtm.js?id=GTM-WV2FRF:2440:518)\n    at pf (https://www.googletagmanager.com/gtm.js?id=GTM-WV2FRF:2442:227)\n    at hj (https://www.googletagmanager.com/gtm.js?id=GTM-WV2FRF:2485:187)\n    at gj (https://www.googletagmanager.com/gtm.js?id=GTM-WV2FRF:2485:1)\n    at ij (https://www.googletagmanager.com/gtm.js?id=GTM-WV2FRF:2487:357)\n    at jj (https://www.googletagmanager.com/gtm.js?id=GTM-WV2FRF:2488:30)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: productData is not defined\n    at <anonymous>:1:4\n    at https://www.googletagmanager.com/gtm.js?id=GTM-WV2FRF:2571:414\n    at c (https://www.googletagmanager.com/gtm.js?id=GTM-WV2FRF:2573:152)\n    at Cb (https://www.googletagmanager.com/gtm.js?id=GTM-WV2FRF:2388:396)\n    at e (https://www.googletagmanager.com/gtm.js?id=GTM-WV2FRF:2439:138)\n    at https://www.googletagmanager.com/gtm.js?id=GTM-WV2FRF:2377:114\n    at Array.<anonymous> (https://www.googletagmanager.com/gtm.js?id=GTM-WV2FRF:2440:229)\n    at Object.Zf (https://www.googletagmanager.com/gtm.js?id=GTM-WV2FRF:2439:473)\n    at nf (https://www.googletagmanager.com/gtm.js?id=GTM-WV2FRF:2440:518)\n    at pf (https://www.googletagmanager.com/gtm.js?id=GTM-WV2FRF:2442:227)\n    at hj (https://www.googletagmanager.com/gtm.js?id=GTM-WV2FRF:2485:187)\n    at gj (https://www.googletagmanager.com/gtm.js?id=GTM-WV2FRF:2485:1)\n    at ij (https://www.googletagmanager.com/gtm.js?id=GTM-WV2FRF:2487:357)\n    at jj (https://www.googletagmanager.com/gtm.js?id=GTM-WV2FRF:2488:30)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: productData is not defined\n    at …oogletagmanager.com/gtm.js?id=GTM-WV2FRF:2488:30)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "productData is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583423187747.256,
+    "exceptionDetails": {
+      "exceptionId": 2,
+      "text": "Uncaught",
+      "lineNumber": 0,
+      "columnNumber": 3,
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "53",
+            "url": "",
+            "lineNumber": 0,
+            "columnNumber": 3
+          },
+          {
+            "functionName": "",
+            "scriptId": "34",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-WV2FRF",
+            "lineNumber": 2570,
+            "columnNumber": 413
+          },
+          {
+            "functionName": "c",
+            "scriptId": "34",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-WV2FRF",
+            "lineNumber": 2572,
+            "columnNumber": 151
+          },
+          {
+            "functionName": "Cb",
+            "scriptId": "34",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-WV2FRF",
+            "lineNumber": 2387,
+            "columnNumber": 395
+          },
+          {
+            "functionName": "e",
+            "scriptId": "34",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-WV2FRF",
+            "lineNumber": 2438,
+            "columnNumber": 137
+          },
+          {
+            "functionName": "",
+            "scriptId": "34",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-WV2FRF",
+            "lineNumber": 2376,
+            "columnNumber": 113
+          },
+          {
+            "functionName": "",
+            "scriptId": "34",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-WV2FRF",
+            "lineNumber": 2439,
+            "columnNumber": 228
+          },
+          {
+            "functionName": "",
+            "scriptId": "34",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-WV2FRF",
+            "lineNumber": 2438,
+            "columnNumber": 472
+          },
+          {
+            "functionName": "nf",
+            "scriptId": "34",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-WV2FRF",
+            "lineNumber": 2439,
+            "columnNumber": 517
+          },
+          {
+            "functionName": "pf",
+            "scriptId": "34",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-WV2FRF",
+            "lineNumber": 2441,
+            "columnNumber": 226
+          },
+          {
+            "functionName": "hj",
+            "scriptId": "34",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-WV2FRF",
+            "lineNumber": 2484,
+            "columnNumber": 186
+          },
+          {
+            "functionName": "gj",
+            "scriptId": "34",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-WV2FRF",
+            "lineNumber": 2484,
+            "columnNumber": 0
+          },
+          {
+            "functionName": "ij",
+            "scriptId": "34",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-WV2FRF",
+            "lineNumber": 2486,
+            "columnNumber": 356
+          },
+          {
+            "functionName": "jj",
+            "scriptId": "34",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-WV2FRF",
+            "lineNumber": 2487,
+            "columnNumber": 29
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: productData is not defined\n    at <anonymous>:1:4\n    at https://www.googletagmanager.com/gtm.js?id=GTM-WV2FRF:2571:414\n    at c (https://www.googletagmanager.com/gtm.js?id=GTM-WV2FRF:2573:152)\n    at Cb (https://www.googletagmanager.com/gtm.js?id=GTM-WV2FRF:2388:396)\n    at e (https://www.googletagmanager.com/gtm.js?id=GTM-WV2FRF:2439:138)\n    at https://www.googletagmanager.com/gtm.js?id=GTM-WV2FRF:2377:114\n    at Array.<anonymous> (https://www.googletagmanager.com/gtm.js?id=GTM-WV2FRF:2440:229)\n    at Object.Zf (https://www.googletagmanager.com/gtm.js?id=GTM-WV2FRF:2439:473)\n    at nf (https://www.googletagmanager.com/gtm.js?id=GTM-WV2FRF:2440:518)\n    at pf (https://www.googletagmanager.com/gtm.js?id=GTM-WV2FRF:2442:227)\n    at hj (https://www.googletagmanager.com/gtm.js?id=GTM-WV2FRF:2485:187)\n    at gj (https://www.googletagmanager.com/gtm.js?id=GTM-WV2FRF:2485:1)\n    at ij (https://www.googletagmanager.com/gtm.js?id=GTM-WV2FRF:2487:357)\n    at jj (https://www.googletagmanager.com/gtm.js?id=GTM-WV2FRF:2488:30)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":2}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: productData is not defined\n    at <anonymous>:1:4\n    at https://www.googletagmanager.com/gtm.js?id=GTM-WV2FRF:2571:414\n    at c (https://www.googletagmanager.com/gtm.js?id=GTM-WV2FRF:2573:152)\n    at Cb (https://www.googletagmanager.com/gtm.js?id=GTM-WV2FRF:2388:396)\n    at e (https://www.googletagmanager.com/gtm.js?id=GTM-WV2FRF:2439:138)\n    at https://www.googletagmanager.com/gtm.js?id=GTM-WV2FRF:2377:114\n    at Array.<anonymous> (https://www.googletagmanager.com/gtm.js?id=GTM-WV2FRF:2440:229)\n    at Object.Zf (https://www.googletagmanager.com/gtm.js?id=GTM-WV2FRF:2439:473)\n    at nf (https://www.googletagmanager.com/gtm.js?id=GTM-WV2FRF:2440:518)\n    at pf (https://www.googletagmanager.com/gtm.js?id=GTM-WV2FRF:2442:227)\n    at hj (https://www.googletagmanager.com/gtm.js?id=GTM-WV2FRF:2485:187)\n    at gj (https://www.googletagmanager.com/gtm.js?id=GTM-WV2FRF:2485:1)\n    at ij (https://www.googletagmanager.com/gtm.js?id=GTM-WV2FRF:2487:357)\n    at jj (https://www.googletagmanager.com/gtm.js?id=GTM-WV2FRF:2488:30)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: productData is not defined\n    at …oogletagmanager.com/gtm.js?id=GTM-WV2FRF:2488:30)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "productData is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

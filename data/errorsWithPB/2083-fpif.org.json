@@ -1,0 +1,96 @@
+[
+  {
+    "timestamp": 1582895765145.171,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 677,
+      "columnNumber": 35,
+      "url": "https://fpif.org/hillary-clintons-support-iraq-war-no-fluke/",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "60",
+            "url": "https://fpif.org/hillary-clintons-support-iraq-war-no-fluke/",
+            "lineNumber": 677,
+            "columnNumber": 35
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: stLight is not defined\n    at https://fpif.org/hillary-clintons-support-iraq-war-no-fluke/:678:36",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: stLight is not defined\n    at https://fpif.org/hillary-clintons-support-iraq-war-no-fluke/:678:36",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: stLight is not defined\n    at http…illary-clintons-support-iraq-war-no-fluke/:678:36"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "stLight is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1582895765145.6611,
+    "exceptionDetails": {
+      "exceptionId": 2,
+      "text": "Uncaught",
+      "lineNumber": 679,
+      "columnNumber": 229,
+      "url": "https://fpif.org/hillary-clintons-support-iraq-war-no-fluke/",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "61",
+            "url": "https://fpif.org/hillary-clintons-support-iraq-war-no-fluke/",
+            "lineNumber": 679,
+            "columnNumber": 229
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: sharethis is not defined\n    at https://fpif.org/hillary-clintons-support-iraq-war-no-fluke/:680:230",
+        "objectId": "{\"injectedScriptId\":3,\"id\":2}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: sharethis is not defined\n    at https://fpif.org/hillary-clintons-support-iraq-war-no-fluke/:680:230",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: sharethis is not defined\n    at ht…llary-clintons-support-iraq-war-no-fluke/:680:230"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "sharethis is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

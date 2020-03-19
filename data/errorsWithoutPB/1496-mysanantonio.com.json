@@ -1,0 +1,168 @@
+[
+  {
+    "timestamp": 1582818370892.962,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 2403,
+      "columnNumber": 4,
+      "url": "https://www.mysanantonio.com/news/houston-texas/houston/article/Pasadena-mayor-to-Hispanic-councilman-Speak-up-11031609.php",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "58",
+            "url": "https://www.mysanantonio.com/news/houston-texas/houston/article/Pasadena-mayor-to-Hispanic-councilman-Speak-up-11031609.php",
+            "lineNumber": 2403,
+            "columnNumber": 4
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: iFrameResize is not defined\n    at https://www.mysanantonio.com/news/houston-texas/houston/article/Pasadena-mayor-to-Hispanic-councilman-Speak-up-11031609.php:2404:5",
+        "objectId": "{\"injectedScriptId\":3,\"id\":5}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: iFrameResize is not defined\n    at https://www.mysanantonio.com/news/houston-texas/houston/article/Pasadena-mayor-to-Hispanic-councilman-Speak-up-11031609.php:2404:5",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: iFrameResize is not defined\n    at…-Hispanic-councilman-Speak-up-11031609.php:2404:5"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "iFrameResize is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1582818370948.543,
+    "exceptionDetails": {
+      "exceptionId": 2,
+      "text": "Uncaught",
+      "lineNumber": 350,
+      "columnNumber": 82,
+      "url": "https://www.mysanantonio.com/news/houston-texas/houston/article/Pasadena-mayor-to-Hispanic-councilman-Speak-up-11031609.php",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "26",
+            "url": "https://www.mysanantonio.com/news/houston-texas/houston/article/Pasadena-mayor-to-Hispanic-councilman-Speak-up-11031609.php",
+            "lineNumber": 350,
+            "columnNumber": 82
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'style' of undefined\n    at https://www.mysanantonio.com/news/houston-texas/houston/article/Pasadena-mayor-to-Hispanic-councilman-Speak-up-11031609.php:351:83",
+        "objectId": "{\"injectedScriptId\":3,\"id\":6}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'style' of undefined\n    at https://www.mysanantonio.com/news/houston-texas/houston/article/Pasadena-mayor-to-Hispanic-councilman-Speak-up-11031609.php:351:83",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'style' of undefin…-Hispanic-councilman-Speak-up-11031609.php:351:83"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'style' of undefined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1582818372642.282,
+    "exceptionDetails": {
+      "exceptionId": 3,
+      "text": "Uncaught",
+      "lineNumber": 5,
+      "columnNumber": 94124,
+      "url": "https://securepubads.g.doubleclick.net/gpt/pubads_impl_2020022001.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "42",
+            "url": "https://securepubads.g.doubleclick.net/gpt/pubads_impl_2020022001.js",
+            "lineNumber": 5,
+            "columnNumber": 94124
+          }
+        ]
+      },
+      "exception": {
+        "type": "undefined"
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1582818373465.281,
+    "exceptionDetails": {
+      "exceptionId": 4,
+      "text": "Uncaught",
+      "lineNumber": 3,
+      "columnNumber": 275,
+      "url": "https://nexus.ensighten.com/hearst/news/code/a4b78e44254f0b4b82ebff5889db2b46.js?conditionId0=304726",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "71",
+            "url": "https://nexus.ensighten.com/hearst/news/code/a4b78e44254f0b4b82ebff5889db2b46.js?conditionId0=304726",
+            "lineNumber": 3,
+            "columnNumber": 275
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'id' of undefined\n    at https://nexus.ensighten.com/hearst/news/code/a4b78e44254f0b4b82ebff5889db2b46.js?conditionId0=304726:4:276",
+        "objectId": "{\"injectedScriptId\":3,\"id\":7}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'id' of undefined\n    at https://nexus.ensighten.com/hearst/news/code/a4b78e44254f0b4b82ebff5889db2b46.js?conditionId0=304726:4:276",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'id' of undefined\n…0b4b82ebff5889db2b46.js?conditionId0=304726:4:276"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'id' of undefined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

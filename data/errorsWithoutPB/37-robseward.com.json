@@ -1,0 +1,49 @@
+[
+  {
+    "timestamp": 1583013042542.354,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 127,
+      "columnNumber": 2,
+      "url": "http://robseward.com/associations/paths/js/paths.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "init",
+            "scriptId": "12",
+            "url": "http://robseward.com/associations/paths/js/paths.js",
+            "lineNumber": 127,
+            "columnNumber": 2
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: myTest is not defined\n    at HTMLDocument.init (http://robseward.com/associations/paths/js/paths.js:128:3)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: myTest is not defined\n    at HTMLDocument.init (http://robseward.com/associations/paths/js/paths.js:128:3)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: myTest is not defined\n    at HTMLD…bseward.com/associations/paths/js/paths.js:128:3)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "myTest is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

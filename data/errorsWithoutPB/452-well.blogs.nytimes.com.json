@@ -1,0 +1,131 @@
+[
+  {
+    "timestamp": 1583009249041.054,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 1115,
+      "columnNumber": 12,
+      "url": "https://well.blogs.nytimes.com/2008/12/10/when-the-whole-world-mumbles/comment-page-3/?mtrref=slifty.github.io&gwh=B3E7334CCB23F8CB673285D7941E2CB3&gwt=pay",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "23",
+            "url": "https://well.blogs.nytimes.com/2008/12/10/when-the-whole-world-mumbles/comment-page-3/?mtrref=slifty.github.io&gwh=B3E7334CCB23F8CB673285D7941E2CB3&gwt=pay",
+            "lineNumber": 1115,
+            "columnNumber": 12
+          },
+          {
+            "functionName": "execCb",
+            "scriptId": "14",
+            "url": "https://int.nyt.com/assets/blogs/latest/js/foundation/lib/framework.js",
+            "lineNumber": 1,
+            "columnNumber": 7660
+          },
+          {
+            "functionName": "check",
+            "scriptId": "14",
+            "url": "https://int.nyt.com/assets/blogs/latest/js/foundation/lib/framework.js",
+            "lineNumber": 0,
+            "columnNumber": 31276
+          },
+          {
+            "functionName": "enable",
+            "scriptId": "14",
+            "url": "https://int.nyt.com/assets/blogs/latest/js/foundation/lib/framework.js",
+            "lineNumber": 1,
+            "columnNumber": 2616
+          },
+          {
+            "functionName": "init",
+            "scriptId": "14",
+            "url": "https://int.nyt.com/assets/blogs/latest/js/foundation/lib/framework.js",
+            "lineNumber": 0,
+            "columnNumber": 30276
+          },
+          {
+            "functionName": "",
+            "scriptId": "14",
+            "url": "https://int.nyt.com/assets/blogs/latest/js/foundation/lib/framework.js",
+            "lineNumber": 1,
+            "columnNumber": 4982
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: $ is not a function\n    at https://well.blogs.nytimes.com/2008/12/10/when-the-whole-world-mumbles/comment-page-3/?mtrref=slifty.github.io&gwh=B3E7334CCB23F8CB673285D7941E2CB3&gwt=pay:1116:13\n    at Object.execCb (https://int.nyt.com/assets/blogs/latest/js/foundation/lib/framework.js:2:7661)\n    at Module.check (https://int.nyt.com/assets/blogs/latest/js/foundation/lib/framework.js:1:31277)\n    at Module.enable (https://int.nyt.com/assets/blogs/latest/js/foundation/lib/framework.js:2:2617)\n    at Module.init (https://int.nyt.com/assets/blogs/latest/js/foundation/lib/framework.js:1:30277)\n    at https://int.nyt.com/assets/blogs/latest/js/foundation/lib/framework.js:2:4983",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: $ is not a function\n    at https://well.blogs.nytimes.com/2008/12/10/when-the-whole-world-mumbles/comment-page-3/?mtrref=slifty.github.io&gwh=B3E7334CCB23F8CB673285D7941E2CB3&gwt=pay:1116:13\n    at Object.execCb (https://int.nyt.com/assets/blogs/latest/js/foundation/lib/framework.js:2:7661)\n    at Module.check (https://int.nyt.com/assets/blogs/latest/js/foundation/lib/framework.js:1:31277)\n    at Module.enable (https://int.nyt.com/assets/blogs/latest/js/foundation/lib/framework.js:2:2617)\n    at Module.init (https://int.nyt.com/assets/blogs/latest/js/foundation/lib/framework.js:1:30277)\n    at https://int.nyt.com/assets/blogs/latest/js/foundation/lib/framework.js:2:4983",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: $ is not a function\n    at https://well…logs/latest/js/foundation/lib/framework.js:2:4983"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "$ is not a function"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583009249260.509,
+    "exceptionDetails": {
+      "exceptionId": 2,
+      "text": "Uncaught",
+      "lineNumber": 0,
+      "columnNumber": 0,
+      "url": "https://int.nyt.com/assets/shared/community/instances/community-user.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "33",
+            "url": "https://int.nyt.com/assets/shared/community/instances/community-user.js",
+            "lineNumber": 0,
+            "columnNumber": 0
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: assets is not defined\n    at https://int.nyt.com/assets/shared/community/instances/community-user.js:1:1",
+        "objectId": "{\"injectedScriptId\":3,\"id\":2}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: assets is not defined\n    at https://int.nyt.com/assets/shared/community/instances/community-user.js:1:1",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: assets is not defined\n    at https…/shared/community/instances/community-user.js:1:1"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "assets is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

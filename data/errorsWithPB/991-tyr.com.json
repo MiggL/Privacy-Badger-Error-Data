@@ -1,0 +1,153 @@
+[
+  {
+    "timestamp": 1583423308572.625,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 0,
+      "columnNumber": 107311,
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "_initDragOnScroll",
+            "scriptId": "44",
+            "url": "",
+            "lineNumber": 0,
+            "columnNumber": 107311
+          },
+          {
+            "functionName": "done2",
+            "scriptId": "44",
+            "url": "",
+            "lineNumber": 0,
+            "columnNumber": 82492
+          },
+          {
+            "functionName": "eval",
+            "scriptId": "44",
+            "url": "",
+            "lineNumber": 0,
+            "columnNumber": 154374
+          },
+          {
+            "functionName": "eval",
+            "scriptId": "39",
+            "url": "",
+            "lineNumber": 0,
+            "columnNumber": 5919
+          },
+          {
+            "functionName": "K",
+            "scriptId": "44",
+            "url": "",
+            "lineNumber": 0,
+            "columnNumber": 61255
+          },
+          {
+            "functionName": "eval",
+            "scriptId": "44",
+            "url": "",
+            "lineNumber": 0,
+            "columnNumber": 61880
+          },
+          {
+            "functionName": "eval",
+            "scriptId": "44",
+            "url": "",
+            "lineNumber": 0,
+            "columnNumber": 61862
+          },
+          {
+            "functionName": "jCallEvent",
+            "scriptId": "44",
+            "url": "",
+            "lineNumber": 0,
+            "columnNumber": 61792
+          },
+          {
+            "functionName": "eval",
+            "scriptId": "44",
+            "url": "",
+            "lineNumber": 0,
+            "columnNumber": 77797
+          },
+          {
+            "functionName": "eval",
+            "scriptId": "39",
+            "url": "",
+            "lineNumber": 0,
+            "columnNumber": 5919
+          },
+          {
+            "functionName": "addCloneContent",
+            "scriptId": "44",
+            "url": "",
+            "lineNumber": 0,
+            "columnNumber": 85288
+          },
+          {
+            "functionName": "eval",
+            "scriptId": "44",
+            "url": "",
+            "lineNumber": 0,
+            "columnNumber": 77472
+          },
+          {
+            "functionName": "eval",
+            "scriptId": "39",
+            "url": "",
+            "lineNumber": 0,
+            "columnNumber": 5919
+          },
+          {
+            "functionName": "eval",
+            "scriptId": "44",
+            "url": "",
+            "lineNumber": 0,
+            "columnNumber": 71003
+          },
+          {
+            "functionName": "eval",
+            "scriptId": "39",
+            "url": "",
+            "lineNumber": 0,
+            "columnNumber": 5919
+          },
+          {
+            "functionName": "eval",
+            "scriptId": "39",
+            "url": "",
+            "lineNumber": 0,
+            "columnNumber": 6245
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'jAddEvent' of null\n    at b._initDragOnScroll (eval at <anonymous> (https://www.tyr.com/shop/pub/static/version1580857221/frontend/WSM/Base/en_US/MagicToolbox_MagicZoomPlus/js/magicscroll.js:11:1), <anonymous>:1:107312)\n    at b.done2 (eval at <anonymous> (https://www.tyr.com/shop/pub/static/version1580857221/frontend/WSM/Base/en_US/MagicToolbox_MagicZoomPlus/js/magicscroll.js:11:1), <anonymous>:1:82493)\n    at B.eval (eval at <anonymous> (https://www.tyr.com/shop/pub/static/version1580857221/frontend/WSM/Base/en_US/MagicToolbox_MagicZoomPlus/js/magicscroll.js:11:1), <anonymous>:1:154375)\n    at b.eval (eval at <anonymous> (https://www.tyr.com/shop/pub/static/version1580857221/frontend/WSM/Base/en_US/MagicToolbox_MagicZoomPlus/js/magiczoomplus.js:11:1), <anonymous>:1:5920)\n    at K (eval at <anonymous> (https://www.tyr.com/shop/pub/static/version1580857221/frontend/WSM/Base/en_US/MagicToolbox_MagicZoomPlus/js/magicscroll.js:11:1), <anonymous>:1:61256)\n    at Object.eval (eval at <anonymous> (https://www.tyr.com/shop/pub/static/version1580857221/frontend/WSM/Base/en_US/MagicToolbox_MagicZoomPlus/js/magicscroll.js:11:1), <anonymous>:1:61881)\n    at Array.forEach (<anonymous>)\n    at Object.eval (eval at <anonymous> (https://www.tyr.com/shop/pub/static/version1580857221/frontend/WSM/Base/en_US/MagicToolbox_MagicZoomPlus/js/magicscroll.js:11:1), <anonymous>:1:61863)\n    at Array.forEach (<anonymous>)\n    at b.jCallEvent (eval at <anonymous> (https://www.tyr.com/shop/pub/static/version1580857221/frontend/WSM/Base/en_US/MagicToolbox_MagicZoomPlus/js/magicscroll.js:11:1), <anonymous>:1:61793)\n    at b.eval (eval at <anonymous> (https://www.tyr.com/shop/pub/static/version1580857221/frontend/WSM/Base/en_US/MagicToolbox_MagicZoomPlus/js/magicscroll.js:11:1), <anonymous>:1:77798)\n    at eval (eval at <anonymous> (https://www.tyr.com/shop/pub/static/version1580857221/frontend/WSM/Base/en_US/MagicToolbox_MagicZoomPlus/js/magiczoomplus.js:11:1), <anonymous>:1:5920)\n    at b.addCloneContent (eval at <anonymous> (https://www.tyr.com/shop/pub/static/version1580857221/frontend/WSM/Base/en_US/MagicToolbox_MagicZoomPlus/js/magicscroll.js:11:1), <anonymous>:1:85289)\n    at b.eval (eval at <anonymous> (https://www.tyr.com/shop/pub/static/version1580857221/frontend/WSM/Base/en_US/MagicToolbox_MagicZoomPlus/js/magicscroll.js:11:1), <anonymous>:1:77473)\n    at window.MagicScroll.F.QImageLoader.eval (eval at <anonymous> (https://www.tyr.com/shop/pub/static/version1580857221/frontend/WSM/Base/en_US/MagicToolbox_MagicZoomPlus/js/magiczoomplus.js:11:1), <anonymous>:1:5920)\n    at eval (eval at <anonymous> (https://www.tyr.com/shop/pub/static/version1580857221/frontend/WSM/Base/en_US/MagicToolbox_MagicZoomPlus/js/magicscroll.js:11:1), <anonymous>:1:71004)\n    at Function.eval (eval at <anonymous> (https://www.tyr.com/shop/pub/static/version1580857221/frontend/WSM/Base/en_US/MagicToolbox_MagicZoomPlus/js/magiczoomplus.js:11:1), <anonymous>:1:5920)\n    at eval (eval at <anonymous> (https://www.tyr.com/shop/pub/static/version1580857221/frontend/WSM/Base/en_US/MagicToolbox_MagicZoomPlus/js/magiczoomplus.js:11:1), <anonymous>:1:6246)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":2}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'jAddEvent' of null\n    at b._initDragOnScroll (eval at <anonymous> (https://www.tyr.com/shop/pub/static/version1580857221/frontend/WSM/Base/en_US/MagicToolbox_MagicZoomPlus/js/magicscroll.js:11:1), <anonymous>:1:107312)\n    at b.done2 (eval at <anonymous> (https://www.tyr.com/shop/pub/static/version1580857221/frontend/WSM/Base/en_US/MagicToolbox_MagicZoomPlus/js/magicscroll.js:11:1), <anonymous>:1:82493)\n    at B.eval (eval at <anonymous> (https://www.tyr.com/shop/pub/static/version1580857221/frontend/WSM/Base/en_US/MagicToolbox_MagicZoomPlus/js/magicscroll.js:11:1), <anonymous>:1:154375)\n    at b.eval (eval at <anonymous> (https://www.tyr.com/shop/pub/static/version1580857221/frontend/WSM/Base/en_US/MagicToolbox_MagicZoomPlus/js/magiczoomplus.js:11:1), <anonymous>:1:5920)\n    at K (eval at <anonymous> (https://www.tyr.com/shop/pub/static/version1580857221/frontend/WSM/Base/en_US/MagicToolbox_MagicZoomPlus/js/magicscroll.js:11:1), <anonymous>:1:61256)\n    at Object.eval (eval at <anonymous> (https://www.tyr.com/shop/pub/static/version1580857221/frontend/WSM/Base/en_US/MagicToolbox_MagicZoomPlus/js/magicscroll.js:11:1), <anonymous>:1:61881)\n    at Array.forEach (<anonymous>)\n    at Object.eval (eval at <anonymous> (https://www.tyr.com/shop/pub/static/version1580857221/frontend/WSM/Base/en_US/MagicToolbox_MagicZoomPlus/js/magicscroll.js:11:1), <anonymous>:1:61863)\n    at Array.forEach (<anonymous>)\n    at b.jCallEvent (eval at <anonymous> (https://www.tyr.com/shop/pub/static/version1580857221/frontend/WSM/Base/en_US/MagicToolbox_MagicZoomPlus/js/magicscroll.js:11:1), <anonymous>:1:61793)\n    at b.eval (eval at <anonymous> (https://www.tyr.com/shop/pub/static/version1580857221/frontend/WSM/Base/en_US/MagicToolbox_MagicZoomPlus/js/magicscroll.js:11:1), <anonymous>:1:77798)\n    at eval (eval at <anonymous> (https://www.tyr.com/shop/pub/static/version1580857221/frontend/WSM/Base/en_US/MagicToolbox_MagicZoomPlus/js/magiczoomplus.js:11:1), <anonymous>:1:5920)\n    at b.addCloneContent (eval at <anonymous> (https://www.tyr.com/shop/pub/static/version1580857221/frontend/WSM/Base/en_US/MagicToolbox_MagicZoomPlus/js/magicscroll.js:11:1), <anonymous>:1:85289)\n    at b.eval (eval at <anonymous> (https://www.tyr.com/shop/pub/static/version1580857221/frontend/WSM/Base/en_US/MagicToolbox_MagicZoomPlus/js/magicscroll.js:11:1), <anonymous>:1:77473)\n    at window.MagicScroll.F.QImageLoader.eval (eval at <anonymous> (https://www.tyr.com/shop/pub/static/version1580857221/frontend/WSM/Base/en_US/MagicToolbox_MagicZoomPlus/js/magiczoomplus.js:11:1), <anonymous>:1:5920)\n    at eval (eval at <anonymous> (https://www.tyr.com/shop/pub/static/version1580857221/frontend/WSM/Base/en_US/MagicToolbox_MagicZoomPlus/js/magicscroll.js:11:1), <anonymous>:1:71004)\n    at Function.eval (eval at <anonymous> (https://www.tyr.com/shop/pub/static/version1580857221/frontend/WSM/Base/en_US/MagicToolbox_MagicZoomPlus/js/magiczoomplus.js:11:1), <anonymous>:1:5920)\n    at eval (eval at <anonymous> (https://www.tyr.com/shop/pub/static/version1580857221/frontend/WSM/Base/en_US/MagicToolbox_MagicZoomPlus/js/magiczoomplus.js:11:1), <anonymous>:1:6246)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'jAddEvent' of nul…us/js/magiczoomplus.js:11:1), <anonymous>:1:6246)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'jAddEvent' of null"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

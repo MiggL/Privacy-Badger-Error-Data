@@ -1,0 +1,119 @@
+[
+  {
+    "timestamp": 1583001494331.192,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 293,
+      "columnNumber": 31,
+      "scriptId": "212",
+      "url": "https://tpc.googlesyndication.com/safeframe/1-0-37/html/container.html",
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "SyntaxError",
+        "description": "SyntaxError: Unexpected token ','",
+        "objectId": "{\"injectedScriptId\":24,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "SyntaxError: Unexpected token ','",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "SyntaxError: Unexpected token ','"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Unexpected token ','"
+            }
+          ]
+        }
+      },
+      "executionContextId": 24
+    }
+  },
+  {
+    "timestamp": 1583001494950.598,
+    "exceptionDetails": {
+      "exceptionId": 2,
+      "text": "Uncaught (in promise)",
+      "lineNumber": 323,
+      "columnNumber": 80,
+      "url": "https://www.gstatic.com/dfp/native/web_video.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "h.play",
+            "scriptId": "200",
+            "url": "https://www.gstatic.com/dfp/native/web_video.js",
+            "lineNumber": 323,
+            "columnNumber": 80
+          },
+          {
+            "functionName": "Lp.Og",
+            "scriptId": "200",
+            "url": "https://www.gstatic.com/dfp/native/web_video.js",
+            "lineNumber": 357,
+            "columnNumber": 153
+          },
+          {
+            "functionName": "T",
+            "scriptId": "197",
+            "url": "https://tpc.googlesyndication.com/safeframe/1-0-37/js/ext.js",
+            "lineNumber": 0,
+            "columnNumber": 16530
+          },
+          {
+            "functionName": "R.K",
+            "scriptId": "197",
+            "url": "https://tpc.googlesyndication.com/safeframe/1-0-37/js/ext.js",
+            "lineNumber": 0,
+            "columnNumber": 16437
+          },
+          {
+            "functionName": "x.G",
+            "scriptId": "197",
+            "url": "https://tpc.googlesyndication.com/safeframe/1-0-37/js/ext.js",
+            "lineNumber": 0,
+            "columnNumber": 6792
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "DOMException",
+        "description": "DOMException: The element has no supported sources.",
+        "objectId": "{\"injectedScriptId\":24,\"id\":2}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "DOMException: The element has no supported sources.",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "code",
+              "type": "number",
+              "value": "9"
+            },
+            {
+              "name": "name",
+              "type": "string",
+              "value": "NotSupportedError"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "The element has no supported sources."
+            }
+          ]
+        }
+      },
+      "executionContextId": 24
+    }
+  }
+]

@@ -1,0 +1,96 @@
+[
+  {
+    "timestamp": 1583010491954.001,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 16,
+      "columnNumber": 3,
+      "url": "https://www.math.ucdavis.edu/~romik/theme/GStwentytwelve/js/plugins.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "25",
+            "url": "https://www.math.ucdavis.edu/~romik/theme/GStwentytwelve/js/plugins.js",
+            "lineNumber": 16,
+            "columnNumber": 3
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: jQuery is not defined\n    at https://www.math.ucdavis.edu/~romik/theme/GStwentytwelve/js/plugins.js:17:4",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: jQuery is not defined\n    at https://www.math.ucdavis.edu/~romik/theme/GStwentytwelve/js/plugins.js:17:4",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: jQuery is not defined\n    at https…du/~romik/theme/GStwentytwelve/js/plugins.js:17:4"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "jQuery is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583010491955.539,
+    "exceptionDetails": {
+      "exceptionId": 2,
+      "text": "Uncaught",
+      "lineNumber": 0,
+      "columnNumber": 0,
+      "url": "https://www.math.ucdavis.edu/~romik/theme/GStwentytwelve/js/script.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "26",
+            "url": "https://www.math.ucdavis.edu/~romik/theme/GStwentytwelve/js/script.js",
+            "lineNumber": 0,
+            "columnNumber": 0
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: $ is not defined\n    at https://www.math.ucdavis.edu/~romik/theme/GStwentytwelve/js/script.js:1:1",
+        "objectId": "{\"injectedScriptId\":3,\"id\":2}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: $ is not defined\n    at https://www.math.ucdavis.edu/~romik/theme/GStwentytwelve/js/script.js:1:1",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: $ is not defined\n    at https://ww….edu/~romik/theme/GStwentytwelve/js/script.js:1:1"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "$ is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "timestamp": 1582816705928.843,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught (in promise)",
+      "lineNumber": 0,
+      "columnNumber": 0,
+      "scriptId": "1",
+      "url": "https://www.mlb.com/player/matt-shoemaker-533167",
+      "exception": {
+        "type": "object",
+        "className": "Object",
+        "description": "Object",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "description": "Object",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "status",
+              "type": "number",
+              "value": "400"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "BAD REQUEST"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

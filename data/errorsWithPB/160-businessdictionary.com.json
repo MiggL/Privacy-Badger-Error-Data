@@ -1,0 +1,91 @@
+[
+  {
+    "timestamp": 1583757898628.3928,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 1,
+      "columnNumber": 2727,
+      "url": "https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "each",
+            "scriptId": "23",
+            "url": "https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js",
+            "lineNumber": 1,
+            "columnNumber": 2727
+          },
+          {
+            "functionName": "create_pop_quiz",
+            "scriptId": "31",
+            "url": "http://www.businessdictionary.com/min/g=boxytermjs",
+            "lineNumber": 62,
+            "columnNumber": 176
+          },
+          {
+            "functionName": "success",
+            "scriptId": "31",
+            "url": "http://www.businessdictionary.com/min/g=boxytermjs",
+            "lineNumber": 69,
+            "columnNumber": 449
+          },
+          {
+            "functionName": "j",
+            "scriptId": "23",
+            "url": "https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js",
+            "lineNumber": 1,
+            "columnNumber": 26910
+          },
+          {
+            "functionName": "fireWith",
+            "scriptId": "23",
+            "url": "https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js",
+            "lineNumber": 1,
+            "columnNumber": 27723
+          },
+          {
+            "functionName": "x",
+            "scriptId": "23",
+            "url": "https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js",
+            "lineNumber": 3,
+            "columnNumber": 11064
+          },
+          {
+            "functionName": "",
+            "scriptId": "23",
+            "url": "https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js",
+            "lineNumber": 3,
+            "columnNumber": 14576
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'length' of undefined\n    at Function.each (https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js:2:2728)\n    at create_pop_quiz (http://www.businessdictionary.com/min/g=boxytermjs:63:177)\n    at Object.success (http://www.businessdictionary.com/min/g=boxytermjs:70:450)\n    at j (https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js:2:26911)\n    at Object.fireWith [as resolveWith] (https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js:2:27724)\n    at x (https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js:4:11065)\n    at XMLHttpRequest.<anonymous> (https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js:4:14577)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'length' of undefined\n    at Function.each (https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js:2:2728)\n    at create_pop_quiz (http://www.businessdictionary.com/min/g=boxytermjs:63:177)\n    at Object.success (http://www.businessdictionary.com/min/g=boxytermjs:70:450)\n    at j (https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js:2:26911)\n    at Object.fireWith [as resolveWith] (https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js:2:27724)\n    at x (https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js:4:11065)\n    at XMLHttpRequest.<anonymous> (https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js:4:14577)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'length' of undefi…com/ajax/libs/jquery/2.1.3/jquery.min.js:4:14577)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'length' of undefined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

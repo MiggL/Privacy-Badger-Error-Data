@@ -1,0 +1,49 @@
+[
+  {
+    "timestamp": 1583758053579.635,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 0,
+      "columnNumber": 39,
+      "url": "https://script.crazyegg.com/pages/scripts/0051/8339.js?439932",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "78",
+            "url": "https://script.crazyegg.com/pages/scripts/0051/8339.js?439932",
+            "lineNumber": 0,
+            "columnNumber": 39
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "Error",
+        "description": "Error: CE: multiple userscripts installed\n    at https://script.crazyegg.com/pages/scripts/0051/8339.js?439932:1:40",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "Error: CE: multiple userscripts installed\n    at https://script.crazyegg.com/pages/scripts/0051/8339.js?439932:1:40",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "Error: CE: multiple userscripts installed\n    at h…azyegg.com/pages/scripts/0051/8339.js?439932:1:40"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "CE: multiple userscripts installed"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

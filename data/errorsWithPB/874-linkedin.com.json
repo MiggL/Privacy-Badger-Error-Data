@@ -1,0 +1,49 @@
+[
+  {
+    "timestamp": 1583424375720.898,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught (in promise)",
+      "lineNumber": 0,
+      "columnNumber": 44692,
+      "url": "https://static-exp1.licdn.com/sc/h/5c17rnxk52k976ut1g5csi7zi",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "22",
+            "url": "https://static-exp1.licdn.com/sc/h/5c17rnxk52k976ut1g5csi7zi",
+            "lineNumber": 0,
+            "columnNumber": 44692
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'classList' of null\n    at e.a.<anonymous> (https://static-exp1.licdn.com/sc/h/5c17rnxk52k976ut1g5csi7zi:1:44693)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'classList' of null\n    at e.a.<anonymous> (https://static-exp1.licdn.com/sc/h/5c17rnxk52k976ut1g5csi7zi:1:44693)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'classList' of nul…licdn.com/sc/h/5c17rnxk52k976ut1g5csi7zi:1:44693)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'classList' of null"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

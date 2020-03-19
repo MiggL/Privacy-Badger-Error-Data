@@ -1,0 +1,201 @@
+[
+  {
+    "timestamp": 1583424405616.127,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 1,
+      "columnNumber": 12732,
+      "url": "https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "fa.error",
+            "scriptId": "22",
+            "url": "https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js",
+            "lineNumber": 1,
+            "columnNumber": 12732
+          },
+          {
+            "functionName": "fa.tokenize",
+            "scriptId": "22",
+            "url": "https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js",
+            "lineNumber": 1,
+            "columnNumber": 18787
+          },
+          {
+            "functionName": "fa.select",
+            "scriptId": "22",
+            "url": "https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js",
+            "lineNumber": 1,
+            "columnNumber": 21595
+          },
+          {
+            "functionName": "fa",
+            "scriptId": "22",
+            "url": "https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js",
+            "lineNumber": 1,
+            "columnNumber": 7319
+          },
+          {
+            "functionName": "find",
+            "scriptId": "22",
+            "url": "https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js",
+            "lineNumber": 1,
+            "columnNumber": 24110
+          },
+          {
+            "functionName": "n.fn.init",
+            "scriptId": "22",
+            "url": "https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js",
+            "lineNumber": 1,
+            "columnNumber": 24677
+          },
+          {
+            "functionName": "n",
+            "scriptId": "22",
+            "url": "https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js",
+            "lineNumber": 1,
+            "columnNumber": 405
+          },
+          {
+            "functionName": "",
+            "scriptId": "88",
+            "url": "http://idealfuture.com/wp-content/themes/zerif-lite/js/zerif.js?ver=20120206",
+            "lineNumber": 163,
+            "columnNumber": 4
+          },
+          {
+            "functionName": "i",
+            "scriptId": "22",
+            "url": "https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js",
+            "lineNumber": 1,
+            "columnNumber": 27450
+          },
+          {
+            "functionName": "fireWith",
+            "scriptId": "22",
+            "url": "https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js",
+            "lineNumber": 1,
+            "columnNumber": 28214
+          },
+          {
+            "functionName": "ready",
+            "scriptId": "22",
+            "url": "https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js",
+            "lineNumber": 1,
+            "columnNumber": 30007
+          },
+          {
+            "functionName": "K",
+            "scriptId": "22",
+            "url": "https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js",
+            "lineNumber": 1,
+            "columnNumber": 30369
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "Error",
+        "description": "Error: Syntax error, unrecognized expression: #site-navigation a[href*=#]:not([href=#]), header.header a[href*=#]:not([href=#])\n    at Function.fa.error (https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js:2:12733)\n    at fa.tokenize (https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js:2:18788)\n    at fa.select (https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js:2:21596)\n    at Function.fa [as find] (https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js:2:7320)\n    at n.fn.init.find (https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js:2:24111)\n    at new n.fn.init (https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js:2:24678)\n    at n (https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js:2:406)\n    at HTMLDocument.<anonymous> (http://idealfuture.com/wp-content/themes/zerif-lite/js/zerif.js?ver=20120206:164:5)\n    at i (https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js:2:27451)\n    at Object.fireWith [as resolveWith] (https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js:2:28215)\n    at Function.ready (https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js:2:30008)\n    at HTMLDocument.K (https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js:2:30370)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "Error: Syntax error, unrecognized expression: #site-navigation a[href*=#]:not([href=#]), header.header a[href*=#]:not([href=#])\n    at Function.fa.error (https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js:2:12733)\n    at fa.tokenize (https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js:2:18788)\n    at fa.select (https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js:2:21596)\n    at Function.fa [as find] (https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js:2:7320)\n    at n.fn.init.find (https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js:2:24111)\n    at new n.fn.init (https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js:2:24678)\n    at n (https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js:2:406)\n    at HTMLDocument.<anonymous> (http://idealfuture.com/wp-content/themes/zerif-lite/js/zerif.js?ver=20120206:164:5)\n    at i (https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js:2:27451)\n    at Object.fireWith [as resolveWith] (https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js:2:28215)\n    at Function.ready (https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js:2:30008)\n    at HTMLDocument.K (https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js:2:30370)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "Error: Syntax error, unrecognized expression: #sit…om/ajax/libs/jquery/1.12.0/jquery.min.js:2:30370)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Syntax error, unrecognized expression: #site-navig…[href=#]), header.header a[href*=#]:not([href=#])"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583424405842.192,
+    "exceptionDetails": {
+      "exceptionId": 2,
+      "text": "Uncaught",
+      "lineNumber": 1711,
+      "columnNumber": 28,
+      "url": "http://idealfuture.com/",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "69",
+            "url": "http://idealfuture.com/",
+            "lineNumber": 1711,
+            "columnNumber": 28
+          },
+          {
+            "functionName": "i",
+            "scriptId": "22",
+            "url": "https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js",
+            "lineNumber": 1,
+            "columnNumber": 27450
+          },
+          {
+            "functionName": "fireWith",
+            "scriptId": "22",
+            "url": "https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js",
+            "lineNumber": 1,
+            "columnNumber": 28214
+          },
+          {
+            "functionName": "y",
+            "scriptId": "22",
+            "url": "https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js",
+            "lineNumber": 3,
+            "columnNumber": 22591
+          },
+          {
+            "functionName": "c",
+            "scriptId": "22",
+            "url": "https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js",
+            "lineNumber": 3,
+            "columnNumber": 26749
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'id' of undefined\n    at Object.success (http://idealfuture.com/:1712:29)\n    at i (https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js:2:27451)\n    at Object.fireWith [as resolveWith] (https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js:2:28215)\n    at y (https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js:4:22592)\n    at XMLHttpRequest.c (https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js:4:26750)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":2}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'id' of undefined\n    at Object.success (http://idealfuture.com/:1712:29)\n    at i (https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js:2:27451)\n    at Object.fireWith [as resolveWith] (https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js:2:28215)\n    at y (https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js:4:22592)\n    at XMLHttpRequest.c (https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js:4:26750)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'id' of undefined\n…om/ajax/libs/jquery/1.12.0/jquery.min.js:4:26750)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'id' of undefined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

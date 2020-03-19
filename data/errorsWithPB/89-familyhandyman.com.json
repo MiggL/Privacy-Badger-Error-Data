@@ -1,0 +1,173 @@
+[
+  {
+    "timestamp": 1583758501959.543,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 85,
+      "columnNumber": 318,
+      "url": "https://www.familyhandyman.com/wp-content/cache/autoptimize/js/autoptimize_2548c9180f42d479373ed8dfa03f1cfd.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "35",
+            "url": "https://www.familyhandyman.com/wp-content/cache/autoptimize/js/autoptimize_2548c9180f42d479373ed8dfa03f1cfd.js",
+            "lineNumber": 85,
+            "columnNumber": 318
+          },
+          {
+            "functionName": "each",
+            "scriptId": "24",
+            "url": "https://www.familyhandyman.com/wp-includes/js/jquery/jquery.js",
+            "lineNumber": 0,
+            "columnNumber": 2989
+          },
+          {
+            "functionName": "each",
+            "scriptId": "24",
+            "url": "https://www.familyhandyman.com/wp-includes/js/jquery/jquery.js",
+            "lineNumber": 0,
+            "columnNumber": 932
+          },
+          {
+            "functionName": "LightBox.multipleItems",
+            "scriptId": "35",
+            "url": "https://www.familyhandyman.com/wp-content/cache/autoptimize/js/autoptimize_2548c9180f42d479373ed8dfa03f1cfd.js",
+            "lineNumber": 85,
+            "columnNumber": 175
+          },
+          {
+            "functionName": "",
+            "scriptId": "35",
+            "url": "https://www.familyhandyman.com/wp-content/cache/autoptimize/js/autoptimize_2548c9180f42d479373ed8dfa03f1cfd.js",
+            "lineNumber": 87,
+            "columnNumber": 120
+          },
+          {
+            "functionName": "each",
+            "scriptId": "24",
+            "url": "https://www.familyhandyman.com/wp-includes/js/jquery/jquery.js",
+            "lineNumber": 0,
+            "columnNumber": 2989
+          },
+          {
+            "functionName": "each",
+            "scriptId": "24",
+            "url": "https://www.familyhandyman.com/wp-includes/js/jquery/jquery.js",
+            "lineNumber": 0,
+            "columnNumber": 932
+          },
+          {
+            "functionName": "",
+            "scriptId": "35",
+            "url": "https://www.familyhandyman.com/wp-content/cache/autoptimize/js/autoptimize_2548c9180f42d479373ed8dfa03f1cfd.js",
+            "lineNumber": 87,
+            "columnNumber": 22
+          },
+          {
+            "functionName": "i",
+            "scriptId": "24",
+            "url": "https://www.familyhandyman.com/wp-includes/js/jquery/jquery.js",
+            "lineNumber": 0,
+            "columnNumber": 27448
+          },
+          {
+            "functionName": "fireWith",
+            "scriptId": "24",
+            "url": "https://www.familyhandyman.com/wp-includes/js/jquery/jquery.js",
+            "lineNumber": 0,
+            "columnNumber": 28207
+          },
+          {
+            "functionName": "ready",
+            "scriptId": "24",
+            "url": "https://www.familyhandyman.com/wp-includes/js/jquery/jquery.js",
+            "lineNumber": 0,
+            "columnNumber": 30000
+          },
+          {
+            "functionName": "J",
+            "scriptId": "24",
+            "url": "https://www.familyhandyman.com/wp-includes/js/jquery/jquery.js",
+            "lineNumber": 0,
+            "columnNumber": 30362
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'replace' of undefined\n    at HTMLDivElement.<anonymous> (https://www.familyhandyman.com/wp-content/cache/autoptimize/js/autoptimize_2548c9180f42d479373ed8dfa03f1cfd.js:86:319)\n    at Function.each (https://www.familyhandyman.com/wp-includes/js/jquery/jquery.js:1:2990)\n    at n.fn.init.each (https://www.familyhandyman.com/wp-includes/js/jquery/jquery.js:1:933)\n    at LightBox.multipleItems (https://www.familyhandyman.com/wp-content/cache/autoptimize/js/autoptimize_2548c9180f42d479373ed8dfa03f1cfd.js:86:176)\n    at HTMLDivElement.<anonymous> (https://www.familyhandyman.com/wp-content/cache/autoptimize/js/autoptimize_2548c9180f42d479373ed8dfa03f1cfd.js:88:121)\n    at Function.each (https://www.familyhandyman.com/wp-includes/js/jquery/jquery.js:1:2990)\n    at n.fn.init.each (https://www.familyhandyman.com/wp-includes/js/jquery/jquery.js:1:933)\n    at HTMLDocument.<anonymous> (https://www.familyhandyman.com/wp-content/cache/autoptimize/js/autoptimize_2548c9180f42d479373ed8dfa03f1cfd.js:88:23)\n    at i (https://www.familyhandyman.com/wp-includes/js/jquery/jquery.js:1:27449)\n    at Object.fireWith [as resolveWith] (https://www.familyhandyman.com/wp-includes/js/jquery/jquery.js:1:28208)\n    at Function.ready (https://www.familyhandyman.com/wp-includes/js/jquery/jquery.js:1:30001)\n    at HTMLDocument.J (https://www.familyhandyman.com/wp-includes/js/jquery/jquery.js:1:30363)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":2}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'replace' of undefined\n    at HTMLDivElement.<anonymous> (https://www.familyhandyman.com/wp-content/cache/autoptimize/js/autoptimize_2548c9180f42d479373ed8dfa03f1cfd.js:86:319)\n    at Function.each (https://www.familyhandyman.com/wp-includes/js/jquery/jquery.js:1:2990)\n    at n.fn.init.each (https://www.familyhandyman.com/wp-includes/js/jquery/jquery.js:1:933)\n    at LightBox.multipleItems (https://www.familyhandyman.com/wp-content/cache/autoptimize/js/autoptimize_2548c9180f42d479373ed8dfa03f1cfd.js:86:176)\n    at HTMLDivElement.<anonymous> (https://www.familyhandyman.com/wp-content/cache/autoptimize/js/autoptimize_2548c9180f42d479373ed8dfa03f1cfd.js:88:121)\n    at Function.each (https://www.familyhandyman.com/wp-includes/js/jquery/jquery.js:1:2990)\n    at n.fn.init.each (https://www.familyhandyman.com/wp-includes/js/jquery/jquery.js:1:933)\n    at HTMLDocument.<anonymous> (https://www.familyhandyman.com/wp-content/cache/autoptimize/js/autoptimize_2548c9180f42d479373ed8dfa03f1cfd.js:88:23)\n    at i (https://www.familyhandyman.com/wp-includes/js/jquery/jquery.js:1:27449)\n    at Object.fireWith [as resolveWith] (https://www.familyhandyman.com/wp-includes/js/jquery/jquery.js:1:28208)\n    at Function.ready (https://www.familyhandyman.com/wp-includes/js/jquery/jquery.js:1:30001)\n    at HTMLDocument.J (https://www.familyhandyman.com/wp-includes/js/jquery/jquery.js:1:30363)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'replace' of undef…yman.com/wp-includes/js/jquery/jquery.js:1:30363)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'replace' of undefined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583758502374.919,
+    "exceptionDetails": {
+      "exceptionId": 2,
+      "text": "Uncaught",
+      "lineNumber": 124,
+      "columnNumber": 2,
+      "url": "https://www.familyhandyman.com/appliance-repair/refrigerator-repair/how-to-avoid-refrigerator-repairs/",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "50",
+            "url": "https://www.familyhandyman.com/appliance-repair/refrigerator-repair/how-to-avoid-refrigerator-repairs/",
+            "lineNumber": 124,
+            "columnNumber": 2
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: gs_channels is not defined\n    at https://www.familyhandyman.com/appliance-repair/refrigerator-repair/how-to-avoid-refrigerator-repairs/:125:3",
+        "objectId": "{\"injectedScriptId\":3,\"id\":7}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: gs_channels is not defined\n    at https://www.familyhandyman.com/appliance-repair/refrigerator-repair/how-to-avoid-refrigerator-repairs/:125:3",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: gs_channels is not defined\n    at …r-repair/how-to-avoid-refrigerator-repairs/:125:3"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "gs_channels is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

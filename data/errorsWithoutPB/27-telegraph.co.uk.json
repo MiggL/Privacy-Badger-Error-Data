@@ -1,0 +1,296 @@
+[
+  {
+    "timestamp": 1583013130427.798,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 205,
+      "columnNumber": 27,
+      "url": "https://www.telegraph.co.uk/travel/destinations/caribbean/cuba/articles/cuba-tours-pulled-as-island-struggles-with-demand/",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "24",
+            "url": "https://www.telegraph.co.uk/travel/destinations/caribbean/cuba/articles/cuba-tours-pulled-as-island-struggles-with-demand/",
+            "lineNumber": 205,
+            "columnNumber": 27
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'update' of undefined\n    at https://www.telegraph.co.uk/travel/destinations/caribbean/cuba/articles/cuba-tours-pulled-as-island-struggles-with-demand/:206:28",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'update' of undefined\n    at https://www.telegraph.co.uk/travel/destinations/caribbean/cuba/articles/cuba-tours-pulled-as-island-struggles-with-demand/:206:28",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'update' of undefi…rs-pulled-as-island-struggles-with-demand/:206:28"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'update' of undefined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583013131589.9329,
+    "exceptionDetails": {
+      "exceptionId": 2,
+      "text": "Uncaught",
+      "lineNumber": 0,
+      "columnNumber": 323872,
+      "url": "https://www.gstatic.com/firebasejs/5.0.4/firebase-firestore.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "396",
+            "url": "https://www.gstatic.com/firebasejs/5.0.4/firebase-firestore.js",
+            "lineNumber": 0,
+            "columnNumber": 323872
+          },
+          {
+            "functionName": "",
+            "scriptId": "396",
+            "url": "https://www.gstatic.com/firebasejs/5.0.4/firebase-firestore.js",
+            "lineNumber": 0,
+            "columnNumber": 323989
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "Error",
+        "description": "Error: Cannot instantiate firebase-firestore - be sure to load firebase-app.js first.\n    at https://www.gstatic.com/firebasejs/5.0.4/firebase-firestore.js:1:323873\n    at https://www.gstatic.com/firebasejs/5.0.4/firebase-firestore.js:1:323990",
+        "objectId": "{\"injectedScriptId\":3,\"id\":4}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "Error: Cannot instantiate firebase-firestore - be sure to load firebase-app.js first.\n    at https://www.gstatic.com/firebasejs/5.0.4/firebase-firestore.js:1:323873\n    at https://www.gstatic.com/firebasejs/5.0.4/firebase-firestore.js:1:323990",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "Error: Cannot instantiate firebase-firestore - be …m/firebasejs/5.0.4/firebase-firestore.js:1:323990"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot instantiate firebase-firestore - be sure to load firebase-app.js first."
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583013131592.768,
+    "exceptionDetails": {
+      "exceptionId": 3,
+      "text": "Uncaught",
+      "lineNumber": 188,
+      "columnNumber": 56,
+      "scriptId": "401",
+      "url": "https://cf.eip.telegraph.co.uk/particle-CMS/particles/analytics.js",
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "SyntaxError",
+        "description": "SyntaxError: Unexpected token ';'",
+        "objectId": "{\"injectedScriptId\":8,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "SyntaxError: Unexpected token ';'",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "SyntaxError: Unexpected token ';'"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Unexpected token ';'"
+            }
+          ]
+        }
+      },
+      "executionContextId": 8
+    }
+  },
+  {
+    "timestamp": 1583013131652.397,
+    "exceptionDetails": {
+      "exceptionId": 4,
+      "text": "Uncaught (in promise)",
+      "lineNumber": 0,
+      "columnNumber": 32615,
+      "scriptId": "395",
+      "url": "https://www.gstatic.com/firebasejs/5.0.4/firebase-app.js",
+      "exception": {
+        "type": "object",
+        "className": "Object",
+        "description": "Object",
+        "objectId": "{\"injectedScriptId\":3,\"id\":5}",
+        "preview": {
+          "type": "object",
+          "description": "Object",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "code",
+              "type": "string",
+              "value": "app/duplicate-app"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Firebase: Firebase App named '[DEFAULT]' already exists (app/duplicate-app)."
+            },
+            {
+              "name": "name",
+              "type": "string",
+              "value": "[DEFAULT]"
+            },
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "[DEFAULT]: Firebase: Firebase App named '[DEFAULT]…egraph/core/clientlibs/core.min.5-52--0.js:398:70"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583013131663.636,
+    "exceptionDetails": {
+      "exceptionId": 5,
+      "text": "Uncaught",
+      "lineNumber": 188,
+      "columnNumber": 56,
+      "scriptId": "422",
+      "url": "https://cf.eip.telegraph.co.uk/particle-CMS/particles/analytics.js",
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "SyntaxError",
+        "description": "SyntaxError: Unexpected token ';'",
+        "objectId": "{\"injectedScriptId\":10,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "SyntaxError: Unexpected token ';'",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "SyntaxError: Unexpected token ';'"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Unexpected token ';'"
+            }
+          ]
+        }
+      },
+      "executionContextId": 10
+    }
+  },
+  {
+    "timestamp": 1583013131748.077,
+    "exceptionDetails": {
+      "exceptionId": 6,
+      "text": "Uncaught",
+      "lineNumber": 188,
+      "columnNumber": 56,
+      "scriptId": "435",
+      "url": "https://cf.eip.telegraph.co.uk/particle-CMS/particles/analytics.js",
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "SyntaxError",
+        "description": "SyntaxError: Unexpected token ';'",
+        "objectId": "{\"injectedScriptId\":12,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "SyntaxError: Unexpected token ';'",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "SyntaxError: Unexpected token ';'"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Unexpected token ';'"
+            }
+          ]
+        }
+      },
+      "executionContextId": 12
+    }
+  },
+  {
+    "timestamp": 1583013131886.9531,
+    "exceptionDetails": {
+      "exceptionId": 7,
+      "text": "Uncaught",
+      "lineNumber": 188,
+      "columnNumber": 56,
+      "scriptId": "464",
+      "url": "https://cf.eip.telegraph.co.uk/particle-CMS/particles/analytics.js",
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "SyntaxError",
+        "description": "SyntaxError: Unexpected token ';'",
+        "objectId": "{\"injectedScriptId\":14,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "SyntaxError: Unexpected token ';'",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "SyntaxError: Unexpected token ';'"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Unexpected token ';'"
+            }
+          ]
+        }
+      },
+      "executionContextId": 14
+    }
+  }
+]

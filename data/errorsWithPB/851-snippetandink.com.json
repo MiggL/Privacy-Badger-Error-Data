@@ -1,0 +1,63 @@
+[
+  {
+    "timestamp": 1583424585302.563,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 6,
+      "columnNumber": 2416,
+      "url": "https://snippetandink.com/wp-content/themes/wp-snippet-ink-theme/_static/js/vendor/bootstrap.min.js?ver=5.3.2",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "49",
+            "url": "https://snippetandink.com/wp-content/themes/wp-snippet-ink-theme/_static/js/vendor/bootstrap.min.js?ver=5.3.2",
+            "lineNumber": 6,
+            "columnNumber": 2416
+          },
+          {
+            "functionName": "",
+            "scriptId": "49",
+            "url": "https://snippetandink.com/wp-content/themes/wp-snippet-ink-theme/_static/js/vendor/bootstrap.min.js?ver=5.3.2",
+            "lineNumber": 6,
+            "columnNumber": 10495
+          },
+          {
+            "functionName": "",
+            "scriptId": "49",
+            "url": "https://snippetandink.com/wp-content/themes/wp-snippet-ink-theme/_static/js/vendor/bootstrap.min.js?ver=5.3.2",
+            "lineNumber": 6,
+            "columnNumber": 12638
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "Error",
+        "description": "Error: Bootstrap tooltips require Tether (http://github.hubspot.com/tether/)\n    at https://snippetandink.com/wp-content/themes/wp-snippet-ink-theme/_static/js/vendor/bootstrap.min.js?ver=5.3.2:7:2417\n    at https://snippetandink.com/wp-content/themes/wp-snippet-ink-theme/_static/js/vendor/bootstrap.min.js?ver=5.3.2:7:10496\n    at https://snippetandink.com/wp-content/themes/wp-snippet-ink-theme/_static/js/vendor/bootstrap.min.js?ver=5.3.2:7:12639",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "Error: Bootstrap tooltips require Tether (http://github.hubspot.com/tether/)\n    at https://snippetandink.com/wp-content/themes/wp-snippet-ink-theme/_static/js/vendor/bootstrap.min.js?ver=5.3.2:7:2417\n    at https://snippetandink.com/wp-content/themes/wp-snippet-ink-theme/_static/js/vendor/bootstrap.min.js?ver=5.3.2:7:10496\n    at https://snippetandink.com/wp-content/themes/wp-snippet-ink-theme/_static/js/vendor/bootstrap.min.js?ver=5.3.2:7:12639",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "Error: Bootstrap tooltips require Tether (http://g…atic/js/vendor/bootstrap.min.js?ver=5.3.2:7:12639"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Bootstrap tooltips require Tether (http://github.hubspot.com/tether/)"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

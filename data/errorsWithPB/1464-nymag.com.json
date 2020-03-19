@@ -1,0 +1,49 @@
+[
+  {
+    "timestamp": 1583418840035.5051,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 2856,
+      "columnNumber": 1196,
+      "url": "https://nymag.com/intelligencer/2017/02/future-mask-off-flute-meme-videos-take-over-twitter.html",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "79",
+            "url": "https://nymag.com/intelligencer/2017/02/future-mask-off-flute-meme-videos-take-over-twitter.html",
+            "lineNumber": 2856,
+            "columnNumber": 1196
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: i.googletag.pubads is not a function\n    at https://nymag.com/intelligencer/2017/02/future-mask-off-flute-meme-videos-take-over-twitter.html:2857:1197",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: i.googletag.pubads is not a function\n    at https://nymag.com/intelligencer/2017/02/future-mask-off-flute-meme-videos-take-over-twitter.html:2857:1197",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: i.googletag.pubads is not a function\n  …lute-meme-videos-take-over-twitter.html:2857:1197"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "i.googletag.pubads is not a function"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

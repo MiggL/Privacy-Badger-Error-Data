@@ -1,0 +1,190 @@
+[
+  {
+    "timestamp": 1583008534041.962,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 3287,
+      "columnNumber": 0,
+      "url": "https://www.rolexforums.com/showthread.php?t=3397",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "34",
+            "url": "https://www.rolexforums.com/showthread.php?t=3397",
+            "lineNumber": 3287,
+            "columnNumber": 0
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: a is not defined\n    at https://www.rolexforums.com/showthread.php?t=3397:3288:1",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: a is not defined\n    at https://www.rolexforums.com/showthread.php?t=3397:3288:1",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: a is not defined\n    at https://www.rolexforums.com/showthread.php?t=3397:3288:1"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "a is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583008534042.4521,
+    "exceptionDetails": {
+      "exceptionId": 2,
+      "text": "Uncaught",
+      "lineNumber": 3289,
+      "columnNumber": 9,
+      "url": "https://www.rolexforums.com/showthread.php?t=3397",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "35",
+            "url": "https://www.rolexforums.com/showthread.php?t=3397",
+            "lineNumber": 3289,
+            "columnNumber": 9
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: a is not defined\n    at https://www.rolexforums.com/showthread.php?t=3397:3290:10",
+        "objectId": "{\"injectedScriptId\":3,\"id\":2}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: a is not defined\n    at https://www.rolexforums.com/showthread.php?t=3397:3290:10",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: a is not defined\n    at https://www.rolexforums.com/showthread.php?t=3397:3290:10"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "a is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583008534042.8928,
+    "exceptionDetails": {
+      "exceptionId": 3,
+      "text": "Uncaught",
+      "lineNumber": 3293,
+      "columnNumber": 0,
+      "url": "https://www.rolexforums.com/showthread.php?t=3397",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "37",
+            "url": "https://www.rolexforums.com/showthread.php?t=3397",
+            "lineNumber": 3293,
+            "columnNumber": 0
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: d is not defined\n    at https://www.rolexforums.com/showthread.php?t=3397:3294:1",
+        "objectId": "{\"injectedScriptId\":3,\"id\":3}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: d is not defined\n    at https://www.rolexforums.com/showthread.php?t=3397:3294:1",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: d is not defined\n    at https://www.rolexforums.com/showthread.php?t=3397:3294:1"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "d is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583008534043.145,
+    "exceptionDetails": {
+      "exceptionId": 4,
+      "text": "Uncaught",
+      "lineNumber": 3300,
+      "columnNumber": 9,
+      "url": "https://www.rolexforums.com/showthread.php?t=3397",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "38",
+            "url": "https://www.rolexforums.com/showthread.php?t=3397",
+            "lineNumber": 3300,
+            "columnNumber": 9
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: d is not defined\n    at https://www.rolexforums.com/showthread.php?t=3397:3301:10",
+        "objectId": "{\"injectedScriptId\":3,\"id\":4}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: d is not defined\n    at https://www.rolexforums.com/showthread.php?t=3397:3301:10",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: d is not defined\n    at https://www.rolexforums.com/showthread.php?t=3397:3301:10"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "d is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

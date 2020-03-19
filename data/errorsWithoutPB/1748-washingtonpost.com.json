@@ -1,0 +1,44 @@
+[
+  {
+    "timestamp": 1582816054936.1812,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught (in promise)",
+      "lineNumber": 0,
+      "columnNumber": 0,
+      "scriptId": "1",
+      "url": "https://www.washingtonpost.com/gdpr-consent/?next_url=https%3a%2f%2fwww.washingtonpost.com%2fopinions%2fbill-oreilly-makes-a-mess-of-history%2f2015%2f11%2f10%2f03ef0d94-87d9-11e5-be8b-1ae2e4f50f76_story.html",
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "DOMException",
+        "description": "DOMException: Failed to register a ServiceWorker: The script resource is behind a redirect, which is disallowed.",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "DOMException: Failed to register a ServiceWorker: The script resource is behind a redirect, which is disallowed.",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "code",
+              "type": "number",
+              "value": "18"
+            },
+            {
+              "name": "name",
+              "type": "string",
+              "value": "SecurityError"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Failed to register a ServiceWorker: The script resource is behind a redirect, which is disallowed."
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

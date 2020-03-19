@@ -1,0 +1,424 @@
+[
+  {
+    "timestamp": 1582896582352.833,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 0,
+      "columnNumber": 289,
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "eval",
+            "scriptId": "92",
+            "url": "",
+            "lineNumber": 0,
+            "columnNumber": 289
+          },
+          {
+            "functionName": "a",
+            "scriptId": "49",
+            "url": "https://assets.adobedtm.com/6372cf21ef88ee60bc2977a4898dcb5c7945a212/satelliteLib-5e0259aff0b35c55ae1387e43a61e5902ea0cdb6.js",
+            "lineNumber": 3,
+            "columnNumber": 8318
+          },
+          {
+            "functionName": "AppMeasurement.a.t.a.track",
+            "scriptId": "64",
+            "url": "https://assets.adobedtm.com/6372cf21ef88ee60bc2977a4898dcb5c7945a212/s-code-contents-4db97ef176d632a0c5cd3a7d6c33be3c1957ff0c.js",
+            "lineNumber": 61,
+            "columnNumber": 471
+          },
+          {
+            "functionName": "sendBeacon",
+            "scriptId": "49",
+            "url": "https://assets.adobedtm.com/6372cf21ef88ee60bc2977a4898dcb5c7945a212/satelliteLib-5e0259aff0b35c55ae1387e43a61e5902ea0cdb6.js",
+            "lineNumber": 2,
+            "columnNumber": 23546
+          },
+          {
+            "functionName": "onSCodeLoaded",
+            "scriptId": "49",
+            "url": "https://assets.adobedtm.com/6372cf21ef88ee60bc2977a4898dcb5c7945a212/satelliteLib-5e0259aff0b35c55ae1387e43a61e5902ea0cdb6.js",
+            "lineNumber": 2,
+            "columnNumber": 22606
+          },
+          {
+            "functionName": "",
+            "scriptId": "49",
+            "url": "https://assets.adobedtm.com/6372cf21ef88ee60bc2977a4898dcb5c7945a212/satelliteLib-5e0259aff0b35c55ae1387e43a61e5902ea0cdb6.js",
+            "lineNumber": 1,
+            "columnNumber": 4823
+          },
+          {
+            "functionName": "i",
+            "scriptId": "49",
+            "url": "https://assets.adobedtm.com/6372cf21ef88ee60bc2977a4898dcb5c7945a212/satelliteLib-5e0259aff0b35c55ae1387e43a61e5902ea0cdb6.js",
+            "lineNumber": 1,
+            "columnNumber": 5707
+          },
+          {
+            "functionName": "t.onload",
+            "scriptId": "49",
+            "url": "https://assets.adobedtm.com/6372cf21ef88ee60bc2977a4898dcb5c7945a212/satelliteLib-5e0259aff0b35c55ae1387e43a61e5902ea0cdb6.js",
+            "lineNumber": 1,
+            "columnNumber": 5746
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'split' of undefined\n    at AppMeasurement.eval [as getTimeParting] (eval at customInit (https://assets.adobedtm.com/6372cf21ef88ee60bc2977a4898dcb5c7945a212/satelliteLib-5e0259aff0b35c55ae1387e43a61e5902ea0cdb6.js:4:20839), <anonymous>:1:290)\n    at AppMeasurement.a [as doPlugins] (https://assets.adobedtm.com/6372cf21ef88ee60bc2977a4898dcb5c7945a212/satelliteLib-5e0259aff0b35c55ae1387e43a61e5902ea0cdb6.js:4:8319)\n    at AppMeasurement.a.t.a.track (https://assets.adobedtm.com/6372cf21ef88ee60bc2977a4898dcb5c7945a212/s-code-contents-4db97ef176d632a0c5cd3a7d6c33be3c1957ff0c.js:62:472)\n    at k.sendBeacon (https://assets.adobedtm.com/6372cf21ef88ee60bc2977a4898dcb5c7945a212/satelliteLib-5e0259aff0b35c55ae1387e43a61e5902ea0cdb6.js:3:23547)\n    at k.onSCodeLoaded (https://assets.adobedtm.com/6372cf21ef88ee60bc2977a4898dcb5c7945a212/satelliteLib-5e0259aff0b35c55ae1387e43a61e5902ea0cdb6.js:3:22607)\n    at https://assets.adobedtm.com/6372cf21ef88ee60bc2977a4898dcb5c7945a212/satelliteLib-5e0259aff0b35c55ae1387e43a61e5902ea0cdb6.js:2:4824\n    at i (https://assets.adobedtm.com/6372cf21ef88ee60bc2977a4898dcb5c7945a212/satelliteLib-5e0259aff0b35c55ae1387e43a61e5902ea0cdb6.js:2:5708)\n    at HTMLScriptElement.t.onload (https://assets.adobedtm.com/6372cf21ef88ee60bc2977a4898dcb5c7945a212/satelliteLib-5e0259aff0b35c55ae1387e43a61e5902ea0cdb6.js:2:5747)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":4}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'split' of undefined\n    at AppMeasurement.eval [as getTimeParting] (eval at customInit (https://assets.adobedtm.com/6372cf21ef88ee60bc2977a4898dcb5c7945a212/satelliteLib-5e0259aff0b35c55ae1387e43a61e5902ea0cdb6.js:4:20839), <anonymous>:1:290)\n    at AppMeasurement.a [as doPlugins] (https://assets.adobedtm.com/6372cf21ef88ee60bc2977a4898dcb5c7945a212/satelliteLib-5e0259aff0b35c55ae1387e43a61e5902ea0cdb6.js:4:8319)\n    at AppMeasurement.a.t.a.track (https://assets.adobedtm.com/6372cf21ef88ee60bc2977a4898dcb5c7945a212/s-code-contents-4db97ef176d632a0c5cd3a7d6c33be3c1957ff0c.js:62:472)\n    at k.sendBeacon (https://assets.adobedtm.com/6372cf21ef88ee60bc2977a4898dcb5c7945a212/satelliteLib-5e0259aff0b35c55ae1387e43a61e5902ea0cdb6.js:3:23547)\n    at k.onSCodeLoaded (https://assets.adobedtm.com/6372cf21ef88ee60bc2977a4898dcb5c7945a212/satelliteLib-5e0259aff0b35c55ae1387e43a61e5902ea0cdb6.js:3:22607)\n    at https://assets.adobedtm.com/6372cf21ef88ee60bc2977a4898dcb5c7945a212/satelliteLib-5e0259aff0b35c55ae1387e43a61e5902ea0cdb6.js:2:4824\n    at i (https://assets.adobedtm.com/6372cf21ef88ee60bc2977a4898dcb5c7945a212/satelliteLib-5e0259aff0b35c55ae1387e43a61e5902ea0cdb6.js:2:5708)\n    at HTMLScriptElement.t.onload (https://assets.adobedtm.com/6372cf21ef88ee60bc2977a4898dcb5c7945a212/satelliteLib-5e0259aff0b35c55ae1387e43a61e5902ea0cdb6.js:2:5747)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'split' of undefin…0259aff0b35c55ae1387e43a61e5902ea0cdb6.js:2:5747)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'split' of undefined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1582896582353.2742,
+    "exceptionDetails": {
+      "exceptionId": 2,
+      "text": "Uncaught",
+      "lineNumber": 4110,
+      "columnNumber": 283,
+      "url": "https://www.googletagmanager.com/gtm.js?id=GTM-5HBJC2K",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "error",
+            "scriptId": "48",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-5HBJC2K",
+            "lineNumber": 4110,
+            "columnNumber": 283
+          },
+          {
+            "functionName": "v.qb.onerror",
+            "scriptId": "48",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-5HBJC2K",
+            "lineNumber": 4118,
+            "columnNumber": 496
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "className": "Object",
+        "description": "Object",
+        "objectId": "{\"injectedScriptId\":3,\"id\":5}",
+        "preview": {
+          "type": "object",
+          "description": "Object",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "Eh",
+              "type": "string",
+              "value": "Script error. - :0"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1582896583013.189,
+    "exceptionDetails": {
+      "exceptionId": 3,
+      "text": "Uncaught (in promise)",
+      "lineNumber": 10,
+      "columnNumber": 87013,
+      "url": "https://www.wired.com/js/0d6e5c9c8fdf74bd876b.app-shell.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "e.exports",
+            "scriptId": "47",
+            "url": "https://www.wired.com/js/0d6e5c9c8fdf74bd876b.app-shell.js",
+            "lineNumber": 10,
+            "columnNumber": 87013
+          },
+          {
+            "functionName": "d.onerror",
+            "scriptId": "47",
+            "url": "https://www.wired.com/js/0d6e5c9c8fdf74bd876b.app-shell.js",
+            "lineNumber": 10,
+            "columnNumber": 86068
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "Error",
+        "description": "Error: Network Error\n    at e.exports (https://www.wired.com/js/0d6e5c9c8fdf74bd876b.app-shell.js:11:87014)\n    at XMLHttpRequest.d.onerror (https://www.wired.com/js/0d6e5c9c8fdf74bd876b.app-shell.js:11:86069)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":7}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "Error: Network Error\n    at e.exports (https://www.wired.com/js/0d6e5c9c8fdf74bd876b.app-shell.js:11:87014)\n    at XMLHttpRequest.d.onerror (https://www.wired.com/js/0d6e5c9c8fdf74bd876b.app-shell.js:11:86069)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "config",
+              "type": "object",
+              "value": "Object"
+            },
+            {
+              "name": "request",
+              "type": "object",
+              "value": "XMLHttpRequest"
+            },
+            {
+              "name": "response",
+              "type": "undefined",
+              "value": "undefined"
+            },
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "Error: Network Error\n    at e.exports (https://www…om/js/0d6e5c9c8fdf74bd876b.app-shell.js:11:86069)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Network Error"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1582896586509.1108,
+    "exceptionDetails": {
+      "exceptionId": 4,
+      "text": "Uncaught",
+      "lineNumber": 11,
+      "columnNumber": 203427,
+      "url": "https://d2c8v52ll5s99u.cloudfront.net/player/main-8acd27185b78ea8d8dde.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "e.__tryOrUnsub",
+            "scriptId": "194",
+            "url": "https://d2c8v52ll5s99u.cloudfront.net/player/main-8acd27185b78ea8d8dde.js",
+            "lineNumber": 11,
+            "columnNumber": 203427
+          },
+          {
+            "functionName": "e.error",
+            "scriptId": "194",
+            "url": "https://d2c8v52ll5s99u.cloudfront.net/player/main-8acd27185b78ea8d8dde.js",
+            "lineNumber": 11,
+            "columnNumber": 202931
+          },
+          {
+            "functionName": "e._error",
+            "scriptId": "194",
+            "url": "https://d2c8v52ll5s99u.cloudfront.net/player/main-8acd27185b78ea8d8dde.js",
+            "lineNumber": 11,
+            "columnNumber": 201833
+          },
+          {
+            "functionName": "e.error",
+            "scriptId": "194",
+            "url": "https://d2c8v52ll5s99u.cloudfront.net/player/main-8acd27185b78ea8d8dde.js",
+            "lineNumber": 11,
+            "columnNumber": 201527
+          },
+          {
+            "functionName": "e.notifyError",
+            "scriptId": "194",
+            "url": "https://d2c8v52ll5s99u.cloudfront.net/player/main-8acd27185b78ea8d8dde.js",
+            "lineNumber": 11,
+            "columnNumber": 204408
+          },
+          {
+            "functionName": "e._error",
+            "scriptId": "194",
+            "url": "https://d2c8v52ll5s99u.cloudfront.net/player/main-8acd27185b78ea8d8dde.js",
+            "lineNumber": 11,
+            "columnNumber": 339563
+          },
+          {
+            "functionName": "e.error",
+            "scriptId": "194",
+            "url": "https://d2c8v52ll5s99u.cloudfront.net/player/main-8acd27185b78ea8d8dde.js",
+            "lineNumber": 11,
+            "columnNumber": 201527
+          },
+          {
+            "functionName": "e._error",
+            "scriptId": "194",
+            "url": "https://d2c8v52ll5s99u.cloudfront.net/player/main-8acd27185b78ea8d8dde.js",
+            "lineNumber": 11,
+            "columnNumber": 361009
+          },
+          {
+            "functionName": "e.error",
+            "scriptId": "194",
+            "url": "https://d2c8v52ll5s99u.cloudfront.net/player/main-8acd27185b78ea8d8dde.js",
+            "lineNumber": 11,
+            "columnNumber": 201527
+          },
+          {
+            "functionName": "e._error",
+            "scriptId": "194",
+            "url": "https://d2c8v52ll5s99u.cloudfront.net/player/main-8acd27185b78ea8d8dde.js",
+            "lineNumber": 11,
+            "columnNumber": 201833
+          },
+          {
+            "functionName": "e.error",
+            "scriptId": "194",
+            "url": "https://d2c8v52ll5s99u.cloudfront.net/player/main-8acd27185b78ea8d8dde.js",
+            "lineNumber": 11,
+            "columnNumber": 201527
+          },
+          {
+            "functionName": "e.error",
+            "scriptId": "194",
+            "url": "https://d2c8v52ll5s99u.cloudfront.net/player/main-8acd27185b78ea8d8dde.js",
+            "lineNumber": 11,
+            "columnNumber": 214518
+          },
+          {
+            "functionName": "e._error",
+            "scriptId": "194",
+            "url": "https://d2c8v52ll5s99u.cloudfront.net/player/main-8acd27185b78ea8d8dde.js",
+            "lineNumber": 11,
+            "columnNumber": 201833
+          },
+          {
+            "functionName": "e._error",
+            "scriptId": "194",
+            "url": "https://d2c8v52ll5s99u.cloudfront.net/player/main-8acd27185b78ea8d8dde.js",
+            "lineNumber": 11,
+            "columnNumber": 373343
+          },
+          {
+            "functionName": "e.error",
+            "scriptId": "194",
+            "url": "https://d2c8v52ll5s99u.cloudfront.net/player/main-8acd27185b78ea8d8dde.js",
+            "lineNumber": 11,
+            "columnNumber": 201527
+          },
+          {
+            "functionName": "e.notifyError",
+            "scriptId": "194",
+            "url": "https://d2c8v52ll5s99u.cloudfront.net/player/main-8acd27185b78ea8d8dde.js",
+            "lineNumber": 11,
+            "columnNumber": 204408
+          },
+          {
+            "functionName": "e._error",
+            "scriptId": "194",
+            "url": "https://d2c8v52ll5s99u.cloudfront.net/player/main-8acd27185b78ea8d8dde.js",
+            "lineNumber": 11,
+            "columnNumber": 339563
+          },
+          {
+            "functionName": "e.error",
+            "scriptId": "194",
+            "url": "https://d2c8v52ll5s99u.cloudfront.net/player/main-8acd27185b78ea8d8dde.js",
+            "lineNumber": 11,
+            "columnNumber": 201527
+          },
+          {
+            "functionName": "e.notifyError",
+            "scriptId": "194",
+            "url": "https://d2c8v52ll5s99u.cloudfront.net/player/main-8acd27185b78ea8d8dde.js",
+            "lineNumber": 11,
+            "columnNumber": 204408
+          },
+          {
+            "functionName": "e._error",
+            "scriptId": "194",
+            "url": "https://d2c8v52ll5s99u.cloudfront.net/player/main-8acd27185b78ea8d8dde.js",
+            "lineNumber": 11,
+            "columnNumber": 339563
+          },
+          {
+            "functionName": "e.error",
+            "scriptId": "194",
+            "url": "https://d2c8v52ll5s99u.cloudfront.net/player/main-8acd27185b78ea8d8dde.js",
+            "lineNumber": 11,
+            "columnNumber": 201527
+          },
+          {
+            "functionName": "e._error",
+            "scriptId": "194",
+            "url": "https://d2c8v52ll5s99u.cloudfront.net/player/main-8acd27185b78ea8d8dde.js",
+            "lineNumber": 11,
+            "columnNumber": 201833
+          },
+          {
+            "functionName": "e.error",
+            "scriptId": "194",
+            "url": "https://d2c8v52ll5s99u.cloudfront.net/player/main-8acd27185b78ea8d8dde.js",
+            "lineNumber": 11,
+            "columnNumber": 201527
+          },
+          {
+            "functionName": "n.onerror",
+            "scriptId": "194",
+            "url": "https://d2c8v52ll5s99u.cloudfront.net/player/main-8acd27185b78ea8d8dde.js",
+            "lineNumber": 11,
+            "columnNumber": 223813
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "className": "Object",
+        "description": "Object",
+        "objectId": "{\"injectedScriptId\":12,\"id\":2}",
+        "preview": {
+          "type": "object",
+          "description": "Object",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "message",
+              "type": "string",
+              "value": "ajax error. Trying to GET https://pubads.g.doublec…cmsid=1495&ppid=d88917a6c10340d498ccb651859196a5."
+            },
+            {
+              "name": "status",
+              "type": "number",
+              "value": "0"
+            },
+            {
+              "name": "success",
+              "type": "boolean",
+              "value": "false"
+            }
+          ]
+        }
+      },
+      "executionContextId": 12
+    }
+  }
+]

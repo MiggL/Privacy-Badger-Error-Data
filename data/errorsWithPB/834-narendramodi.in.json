@@ -1,0 +1,124 @@
+[
+  {
+    "timestamp": 1583424716064.666,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 8,
+      "columnNumber": 686,
+      "url": "https://www.narendramodi.in/tell-a-friend/jscript/tabs/jquery.hashchange.min.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "24",
+            "url": "https://www.narendramodi.in/tell-a-friend/jscript/tabs/jquery.hashchange.min.js",
+            "lineNumber": 8,
+            "columnNumber": 686
+          },
+          {
+            "functionName": "",
+            "scriptId": "24",
+            "url": "https://www.narendramodi.in/tell-a-friend/jscript/tabs/jquery.hashchange.min.js",
+            "lineNumber": 8,
+            "columnNumber": 1265
+          },
+          {
+            "functionName": "",
+            "scriptId": "24",
+            "url": "https://www.narendramodi.in/tell-a-friend/jscript/tabs/jquery.hashchange.min.js",
+            "lineNumber": 8,
+            "columnNumber": 1269
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'msie' of undefined\n    at https://www.narendramodi.in/tell-a-friend/jscript/tabs/jquery.hashchange.min.js:9:687\n    at https://www.narendramodi.in/tell-a-friend/jscript/tabs/jquery.hashchange.min.js:9:1266\n    at https://www.narendramodi.in/tell-a-friend/jscript/tabs/jquery.hashchange.min.js:9:1270",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'msie' of undefined\n    at https://www.narendramodi.in/tell-a-friend/jscript/tabs/jquery.hashchange.min.js:9:687\n    at https://www.narendramodi.in/tell-a-friend/jscript/tabs/jquery.hashchange.min.js:9:1266\n    at https://www.narendramodi.in/tell-a-friend/jscript/tabs/jquery.hashchange.min.js:9:1270",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'msie' of undefine…iend/jscript/tabs/jquery.hashchange.min.js:9:1270"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'msie' of undefined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583424717333.6748,
+    "exceptionDetails": {
+      "exceptionId": 2,
+      "text": "Uncaught",
+      "lineNumber": 8,
+      "columnNumber": 686,
+      "url": "https://www.narendramodi.in/tell-a-friend/jscript/tabs/jquery.hashchange.min.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "24",
+            "url": "https://www.narendramodi.in/tell-a-friend/jscript/tabs/jquery.hashchange.min.js",
+            "lineNumber": 8,
+            "columnNumber": 686
+          },
+          {
+            "functionName": "",
+            "scriptId": "24",
+            "url": "https://www.narendramodi.in/tell-a-friend/jscript/tabs/jquery.hashchange.min.js",
+            "lineNumber": 8,
+            "columnNumber": 1265
+          },
+          {
+            "functionName": "",
+            "scriptId": "24",
+            "url": "https://www.narendramodi.in/tell-a-friend/jscript/tabs/jquery.hashchange.min.js",
+            "lineNumber": 8,
+            "columnNumber": 1269
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'msie' of undefined\n    at https://www.narendramodi.in/tell-a-friend/jscript/tabs/jquery.hashchange.min.js:9:687\n    at https://www.narendramodi.in/tell-a-friend/jscript/tabs/jquery.hashchange.min.js:9:1266\n    at https://www.narendramodi.in/tell-a-friend/jscript/tabs/jquery.hashchange.min.js:9:1270",
+        "objectId": "{\"injectedScriptId\":8,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'msie' of undefined\n    at https://www.narendramodi.in/tell-a-friend/jscript/tabs/jquery.hashchange.min.js:9:687\n    at https://www.narendramodi.in/tell-a-friend/jscript/tabs/jquery.hashchange.min.js:9:1266\n    at https://www.narendramodi.in/tell-a-friend/jscript/tabs/jquery.hashchange.min.js:9:1270",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'msie' of undefine…iend/jscript/tabs/jquery.hashchange.min.js:9:1270"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'msie' of undefined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 8
+    }
+  }
+]

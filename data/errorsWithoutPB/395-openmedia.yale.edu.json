@@ -1,0 +1,93 @@
+[
+  {
+    "timestamp": 1583009780012.76,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 28,
+      "columnNumber": 20,
+      "url": "http://openmedia.yale.edu/projects/iphone/Parts/PushButton.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "CreatePushButton",
+            "scriptId": "14",
+            "url": "http://openmedia.yale.edu/projects/iphone/Parts/PushButton.js",
+            "lineNumber": 28,
+            "columnNumber": 20
+          },
+          {
+            "functionName": "dashcode.setupParts",
+            "scriptId": "12",
+            "url": "http://openmedia.yale.edu/projects/iphone/Parts/utilities.js",
+            "lineNumber": 23,
+            "columnNumber": 21
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'loaded' of null\n    at CreatePushButton (http://openmedia.yale.edu/projects/iphone/Parts/PushButton.js:29:21)\n    at dashcode.setupParts (http://openmedia.yale.edu/projects/iphone/Parts/utilities.js:24:22)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'loaded' of null\n    at CreatePushButton (http://openmedia.yale.edu/projects/iphone/Parts/PushButton.js:29:21)\n    at dashcode.setupParts (http://openmedia.yale.edu/projects/iphone/Parts/utilities.js:24:22)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'loaded' of null\n …ale.edu/projects/iphone/Parts/utilities.js:24:22)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'loaded' of null"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583009780013.4539,
+    "exceptionDetails": {
+      "exceptionId": 2,
+      "text": "Uncaught",
+      "lineNumber": 28,
+      "columnNumber": 43,
+      "scriptId": "22",
+      "url": "http://openmedia.yale.edu/projects/iphone/departments/engl/engl291/transcript15.html",
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "SyntaxError",
+        "description": "SyntaxError: Unexpected token '>'",
+        "objectId": "{\"injectedScriptId\":3,\"id\":2}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "SyntaxError: Unexpected token '>'",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "SyntaxError: Unexpected token '>'"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Unexpected token '>'"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

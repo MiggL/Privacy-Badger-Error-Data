@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": 1582889940748.095,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 0,
+      "columnNumber": 83688,
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "k.fn.load",
+            "scriptId": "30",
+            "url": "",
+            "lineNumber": 0,
+            "columnNumber": 83688
+          },
+          {
+            "functionName": "",
+            "scriptId": "75",
+            "url": "https://anything-from-japan.com/",
+            "lineNumber": 87,
+            "columnNumber": 457
+          },
+          {
+            "functionName": "",
+            "scriptId": "75",
+            "url": "https://anything-from-japan.com/",
+            "lineNumber": 87,
+            "columnNumber": 571
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: e.indexOf is not a function\n    at k.fn.init.k.fn.load (eval at <anonymous> (https://anything-from-japan.com/:1:1), <anonymous>:1:83689)\n    at https://anything-from-japan.com/:88:458\n    at https://anything-from-japan.com/:88:572",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: e.indexOf is not a function\n    at k.fn.init.k.fn.load (eval at <anonymous> (https://anything-from-japan.com/:1:1), <anonymous>:1:83689)\n    at https://anything-from-japan.com/:88:458\n    at https://anything-from-japan.com/:88:572",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: e.indexOf is not a function\n    at k.fn…58\n    at https://anything-from-japan.com/:88:572"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "e.indexOf is not a function"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

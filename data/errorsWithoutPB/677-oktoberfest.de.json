@@ -1,0 +1,146 @@
+[
+  {
+    "timestamp": 1583007191146.323,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 0,
+      "columnNumber": 0,
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "35",
+            "url": "",
+            "lineNumber": 0,
+            "columnNumber": 0
+          },
+          {
+            "functionName": "",
+            "scriptId": "17",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-NZMZ6WW",
+            "lineNumber": 448,
+            "columnNumber": 413
+          },
+          {
+            "functionName": "c",
+            "scriptId": "17",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-NZMZ6WW",
+            "lineNumber": 450,
+            "columnNumber": 151
+          },
+          {
+            "functionName": "Db",
+            "scriptId": "17",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-NZMZ6WW",
+            "lineNumber": 312,
+            "columnNumber": 395
+          },
+          {
+            "functionName": "e",
+            "scriptId": "17",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-NZMZ6WW",
+            "lineNumber": 341,
+            "columnNumber": 137
+          },
+          {
+            "functionName": "",
+            "scriptId": "17",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-NZMZ6WW",
+            "lineNumber": 302,
+            "columnNumber": 113
+          },
+          {
+            "functionName": "",
+            "scriptId": "17",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-NZMZ6WW",
+            "lineNumber": 342,
+            "columnNumber": 228
+          },
+          {
+            "functionName": "",
+            "scriptId": "17",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-NZMZ6WW",
+            "lineNumber": 341,
+            "columnNumber": 472
+          },
+          {
+            "functionName": "of",
+            "scriptId": "17",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-NZMZ6WW",
+            "lineNumber": 342,
+            "columnNumber": 517
+          },
+          {
+            "functionName": "qf",
+            "scriptId": "17",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-NZMZ6WW",
+            "lineNumber": 344,
+            "columnNumber": 226
+          },
+          {
+            "functionName": "ij",
+            "scriptId": "17",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-NZMZ6WW",
+            "lineNumber": 387,
+            "columnNumber": 186
+          },
+          {
+            "functionName": "hj",
+            "scriptId": "17",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-NZMZ6WW",
+            "lineNumber": 387,
+            "columnNumber": 0
+          },
+          {
+            "functionName": "jj",
+            "scriptId": "17",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-NZMZ6WW",
+            "lineNumber": 389,
+            "columnNumber": 356
+          },
+          {
+            "functionName": "a.push",
+            "scriptId": "17",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-NZMZ6WW",
+            "lineNumber": 392,
+            "columnNumber": 94
+          },
+          {
+            "functionName": "",
+            "scriptId": "17",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-NZMZ6WW",
+            "lineNumber": 391,
+            "columnNumber": 148
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: gtag is not defined\n    at <anonymous>:1:1\n    at https://www.googletagmanager.com/gtm.js?id=GTM-NZMZ6WW:449:414\n    at c (https://www.googletagmanager.com/gtm.js?id=GTM-NZMZ6WW:451:152)\n    at Db (https://www.googletagmanager.com/gtm.js?id=GTM-NZMZ6WW:313:396)\n    at e (https://www.googletagmanager.com/gtm.js?id=GTM-NZMZ6WW:342:138)\n    at https://www.googletagmanager.com/gtm.js?id=GTM-NZMZ6WW:303:114\n    at Array.<anonymous> (https://www.googletagmanager.com/gtm.js?id=GTM-NZMZ6WW:343:229)\n    at Object.Zf (https://www.googletagmanager.com/gtm.js?id=GTM-NZMZ6WW:342:473)\n    at of (https://www.googletagmanager.com/gtm.js?id=GTM-NZMZ6WW:343:518)\n    at qf (https://www.googletagmanager.com/gtm.js?id=GTM-NZMZ6WW:345:227)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: gtag is not defined\n    at <anonymous>:1:1\n    at https://www.googletagmanager.com/gtm.js?id=GTM-NZMZ6WW:449:414\n    at c (https://www.googletagmanager.com/gtm.js?id=GTM-NZMZ6WW:451:152)\n    at Db (https://www.googletagmanager.com/gtm.js?id=GTM-NZMZ6WW:313:396)\n    at e (https://www.googletagmanager.com/gtm.js?id=GTM-NZMZ6WW:342:138)\n    at https://www.googletagmanager.com/gtm.js?id=GTM-NZMZ6WW:303:114\n    at Array.<anonymous> (https://www.googletagmanager.com/gtm.js?id=GTM-NZMZ6WW:343:229)\n    at Object.Zf (https://www.googletagmanager.com/gtm.js?id=GTM-NZMZ6WW:342:473)\n    at of (https://www.googletagmanager.com/gtm.js?id=GTM-NZMZ6WW:343:518)\n    at qf (https://www.googletagmanager.com/gtm.js?id=GTM-NZMZ6WW:345:227)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: gtag is not defined\n    at <anonym…ogletagmanager.com/gtm.js?id=GTM-NZMZ6WW:345:227)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "gtag is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

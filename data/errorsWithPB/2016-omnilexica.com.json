@@ -1,0 +1,49 @@
+[
+  {
+    "timestamp": 1582896347465.8489,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 778,
+      "columnNumber": 31,
+      "url": "http://www.omnilexica.com/lists/domains.php?q=noun.artifact",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "onload",
+            "scriptId": "46",
+            "url": "http://www.omnilexica.com/lists/domains.php?q=noun.artifact",
+            "lineNumber": 778,
+            "columnNumber": 31
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: onLoad is not defined\n    at onload (http://www.omnilexica.com/lists/domains.php?q=noun.artifact:779:32)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: onLoad is not defined\n    at onload (http://www.omnilexica.com/lists/domains.php?q=noun.artifact:779:32)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: onLoad is not defined\n    at onloa…ica.com/lists/domains.php?q=noun.artifact:779:32)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "onLoad is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

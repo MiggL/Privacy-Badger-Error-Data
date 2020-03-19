@@ -1,0 +1,56 @@
+[
+  {
+    "timestamp": 1583758469068.8738,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 12,
+      "columnNumber": 25,
+      "url": "https://www.andiamogroup.eu/sites/default/files/js/js_uwrfBOJCFVq42muTMjrq2bD-RUh8NNq_fZRTb6dsNb4.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "27",
+            "url": "https://www.andiamogroup.eu/sites/default/files/js/js_uwrfBOJCFVq42muTMjrq2bD-RUh8NNq_fZRTb6dsNb4.js",
+            "lineNumber": 12,
+            "columnNumber": 25
+          },
+          {
+            "functionName": "",
+            "scriptId": "27",
+            "url": "https://www.andiamogroup.eu/sites/default/files/js/js_uwrfBOJCFVq42muTMjrq2bD-RUh8NNq_fZRTb6dsNb4.js",
+            "lineNumber": 134,
+            "columnNumber": 2
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'msie' of undefined\n    at https://www.andiamogroup.eu/sites/default/files/js/js_uwrfBOJCFVq42muTMjrq2bD-RUh8NNq_fZRTb6dsNb4.js:13:26\n    at https://www.andiamogroup.eu/sites/default/files/js/js_uwrfBOJCFVq42muTMjrq2bD-RUh8NNq_fZRTb6dsNb4.js:135:3",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'msie' of undefined\n    at https://www.andiamogroup.eu/sites/default/files/js/js_uwrfBOJCFVq42muTMjrq2bD-RUh8NNq_fZRTb6dsNb4.js:13:26\n    at https://www.andiamogroup.eu/sites/default/files/js/js_uwrfBOJCFVq42muTMjrq2bD-RUh8NNq_fZRTb6dsNb4.js:135:3",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'msie' of undefine…fBOJCFVq42muTMjrq2bD-RUh8NNq_fZRTb6dsNb4.js:135:3"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'msie' of undefined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "timestamp": 1583751751507.679,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 33,
+      "columnNumber": 356,
+      "url": "https://maps.gstatic.com/intl/fr_ALL/mapfiles/api-3/17/12/main.js?ver=4.8",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "23",
+            "url": "https://maps.gstatic.com/intl/fr_ALL/mapfiles/api-3/17/12/main.js?ver=4.8",
+            "lineNumber": 33,
+            "columnNumber": 356
+          },
+          {
+            "functionName": "",
+            "scriptId": "23",
+            "url": "https://maps.gstatic.com/intl/fr_ALL/mapfiles/api-3/17/12/main.js?ver=4.8",
+            "lineNumber": 54,
+            "columnNumber": 3
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'maps' of undefined\n    at https://maps.gstatic.com/intl/fr_ALL/mapfiles/api-3/17/12/main.js?ver=4.8:34:357\n    at https://maps.gstatic.com/intl/fr_ALL/mapfiles/api-3/17/12/main.js?ver=4.8:55:4",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'maps' of undefined\n    at https://maps.gstatic.com/intl/fr_ALL/mapfiles/api-3/17/12/main.js?ver=4.8:34:357\n    at https://maps.gstatic.com/intl/fr_ALL/mapfiles/api-3/17/12/main.js?ver=4.8:55:4",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'maps' of undefine…/fr_ALL/mapfiles/api-3/17/12/main.js?ver=4.8:55:4"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'maps' of undefined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

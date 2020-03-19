@@ -1,0 +1,63 @@
+[
+  {
+    "timestamp": 1582896263402.308,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 17,
+      "columnNumber": 40,
+      "url": "https://www.wordstream.com/modules/custom/marketo_forms/assets/js/marketo_forms.js?v=8.7.11",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "112",
+            "url": "https://www.wordstream.com/modules/custom/marketo_forms/assets/js/marketo_forms.js?v=8.7.11",
+            "lineNumber": 17,
+            "columnNumber": 40
+          },
+          {
+            "functionName": "",
+            "scriptId": "40",
+            "url": "https://app-sji.marketo.com/js/forms2/js/forms2.min.js",
+            "lineNumber": 2,
+            "columnNumber": 19857
+          },
+          {
+            "functionName": "p",
+            "scriptId": "40",
+            "url": "https://app-sji.marketo.com/js/forms2/js/forms2.min.js",
+            "lineNumber": 2,
+            "columnNumber": 21630
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'get' of undefined\n    at https://www.wordstream.com/modules/custom/marketo_forms/assets/js/marketo_forms.js?v=8.7.11:18:41\n    at https://app-sji.marketo.com/js/forms2/js/forms2.min.js:3:19858\n    at p (https://app-sji.marketo.com/js/forms2/js/forms2.min.js:3:21631)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'get' of undefined\n    at https://www.wordstream.com/modules/custom/marketo_forms/assets/js/marketo_forms.js?v=8.7.11:18:41\n    at https://app-sji.marketo.com/js/forms2/js/forms2.min.js:3:19858\n    at p (https://app-sji.marketo.com/js/forms2/js/forms2.min.js:3:21631)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'get' of undefined…i.marketo.com/js/forms2/js/forms2.min.js:3:21631)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'get' of undefined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

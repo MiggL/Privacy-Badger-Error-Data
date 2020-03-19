@@ -1,0 +1,172 @@
+[
+  {
+    "timestamp": 1583421021666.3289,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 2201,
+      "columnNumber": 15,
+      "url": "https://www.telegraph.co.uk/men/the-filter/11392756/Grammar-crusader-spends-years-removing-repeated-error-47000-times-on-Wikipedia.html",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "154",
+            "url": "https://www.telegraph.co.uk/men/the-filter/11392756/Grammar-crusader-spends-years-removing-repeated-error-47000-times-on-Wikipedia.html",
+            "lineNumber": 2201,
+            "columnNumber": 15
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: nol_t is not defined\n    at https://www.telegraph.co.uk/men/the-filter/11392756/Grammar-crusader-spends-years-removing-repeated-error-47000-times-on-Wikipedia.html:2202:16",
+        "objectId": "{\"injectedScriptId\":3,\"id\":2}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: nol_t is not defined\n    at https://www.telegraph.co.uk/men/the-filter/11392756/Grammar-crusader-spends-years-removing-repeated-error-47000-times-on-Wikipedia.html:2202:16",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: nol_t is not defined\n    at https:…eated-error-47000-times-on-Wikipedia.html:2202:16"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "nol_t is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583421021674.196,
+    "exceptionDetails": {
+      "exceptionId": 2,
+      "text": "Uncaught",
+      "lineNumber": 150,
+      "columnNumber": 60,
+      "url": "https://www.telegraph.co.uk/men/the-filter/11392756/Grammar-crusader-spends-years-removing-repeated-error-47000-times-on-Wikipedia.html",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "document.onreadystatechange",
+            "scriptId": "32",
+            "url": "https://www.telegraph.co.uk/men/the-filter/11392756/Grammar-crusader-spends-years-removing-repeated-error-47000-times-on-Wikipedia.html",
+            "lineNumber": 150,
+            "columnNumber": 60
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot set property 'src' of null\n    at HTMLDocument.document.onreadystatechange (https://www.telegraph.co.uk/men/the-filter/11392756/Grammar-crusader-spends-years-removing-repeated-error-47000-times-on-Wikipedia.html:151:61)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":3}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot set property 'src' of null\n    at HTMLDocument.document.onreadystatechange (https://www.telegraph.co.uk/men/the-filter/11392756/Grammar-crusader-spends-years-removing-repeated-error-47000-times-on-Wikipedia.html:151:61)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot set property 'src' of null\n    a…eated-error-47000-times-on-Wikipedia.html:151:61)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot set property 'src' of null"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583421022336.869,
+    "exceptionDetails": {
+      "exceptionId": 3,
+      "text": "Uncaught",
+      "lineNumber": 150,
+      "columnNumber": 60,
+      "url": "https://www.telegraph.co.uk/men/the-filter/11392756/Grammar-crusader-spends-years-removing-repeated-error-47000-times-on-Wikipedia.html",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "document.onreadystatechange",
+            "scriptId": "32",
+            "url": "https://www.telegraph.co.uk/men/the-filter/11392756/Grammar-crusader-spends-years-removing-repeated-error-47000-times-on-Wikipedia.html",
+            "lineNumber": 150,
+            "columnNumber": 60
+          },
+          {
+            "functionName": "",
+            "scriptId": "79",
+            "url": "https://platform.twitter.com/widgets.js",
+            "lineNumber": 7,
+            "columnNumber": 28279
+          },
+          {
+            "functionName": "",
+            "scriptId": "79",
+            "url": "https://platform.twitter.com/widgets.js",
+            "lineNumber": 7,
+            "columnNumber": 28301
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot set property 'src' of null at HTMLDocument.document.onreadystatechange (https://www.telegraph.co.uk/men/the-filter/11392756/Grammar-crusader-spends-years-removing-repeated-error-47000-times-on-Wikipedia.html:151:61) at https://platform.twitter.com/widgets.js:8:28280 at HTMLIFrameElement.<anonymous> (https://platform.twitter.com/widgets.js:8:28302)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":4}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot set property 'src' of null at HTMLDocument.document.onreadystatechange (https://www.telegraph.co.uk/men/the-filter/11392756/Grammar-crusader-spends-years-removing-repeated-error-47000-times-on-Wikipedia.html:151:61) at https://platform.twitter.com/widgets.js:8:28280 at HTMLIFrameElement.<anonymous> (https://platform.twitter.com/widgets.js:8:28302)",
+          "overflow": true,
+          "properties": [
+            {
+              "name": "reported",
+              "type": "boolean",
+              "value": "true"
+            },
+            {
+              "name": "timestamp",
+              "type": "number",
+              "value": "1583421022335"
+            },
+            {
+              "name": "lineNumber",
+              "type": "string",
+              "value": "151"
+            },
+            {
+              "name": "columnNumber",
+              "type": "string",
+              "value": "61"
+            },
+            {
+              "name": "functionName",
+              "type": "string",
+              "value": "HTMLDocument.document.onreadystatechange"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

@@ -1,0 +1,767 @@
+[
+  {
+    "timestamp": 1583005290799.0361,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught (in promise)",
+      "lineNumber": 0,
+      "columnNumber": 0,
+      "scriptId": "1",
+      "url": "https://dfw.cbslocal.com/2017/04/21/rangers-designate-pitcher-mike-hauschild-for-assignment/",
+      "exception": {
+        "type": "object",
+        "className": "Object",
+        "description": "Object",
+        "objectId": "{\"injectedScriptId\":9,\"id\":2}",
+        "preview": {
+          "type": "object",
+          "description": "Object",
+          "overflow": true,
+          "properties": [
+            {
+              "name": "type",
+              "type": "string",
+              "value": "error"
+            },
+            {
+              "name": "target",
+              "type": "object",
+              "value": "div#vjs_video_1.video-js.vjs-16-9.vjs-big-play-centered.vjs-paused.vjs-workinghover.vjs-v7.vjs-user…",
+              "subtype": "node"
+            },
+            {
+              "name": "relatedTarget",
+              "type": "undefined",
+              "value": "undefined"
+            },
+            {
+              "name": "preventDefault",
+              "type": "function",
+              "value": ""
+            },
+            {
+              "name": "defaultPrevented",
+              "type": "boolean",
+              "value": "false"
+            }
+          ]
+        }
+      },
+      "executionContextId": 9
+    }
+  },
+  {
+    "timestamp": 1583005291310.021,
+    "exceptionDetails": {
+      "exceptionId": 2,
+      "text": "Uncaught (in promise)",
+      "lineNumber": 0,
+      "columnNumber": 0,
+      "scriptId": "1",
+      "url": "https://dfw.cbslocal.com/2017/04/21/rangers-designate-pitcher-mike-hauschild-for-assignment/",
+      "exception": {
+        "type": "object",
+        "className": "Object",
+        "description": "Object",
+        "objectId": "{\"injectedScriptId\":9,\"id\":4}",
+        "preview": {
+          "type": "object",
+          "description": "Object",
+          "overflow": true,
+          "properties": [
+            {
+              "name": "type",
+              "type": "string",
+              "value": "error"
+            },
+            {
+              "name": "target",
+              "type": "object",
+              "value": "div#vjs_video_1.video-js.vjs-16-9.vjs-big-play-centered.vjs-paused.vjs-workinghover.vjs-v7.vjs-user…",
+              "subtype": "node"
+            },
+            {
+              "name": "relatedTarget",
+              "type": "undefined",
+              "value": "undefined"
+            },
+            {
+              "name": "preventDefault",
+              "type": "function",
+              "value": ""
+            },
+            {
+              "name": "defaultPrevented",
+              "type": "boolean",
+              "value": "false"
+            }
+          ]
+        }
+      },
+      "executionContextId": 9
+    }
+  },
+  {
+    "timestamp": 1583005291817.892,
+    "exceptionDetails": {
+      "exceptionId": 3,
+      "text": "Uncaught (in promise)",
+      "lineNumber": 0,
+      "columnNumber": 0,
+      "scriptId": "1",
+      "url": "https://dfw.cbslocal.com/2017/04/21/rangers-designate-pitcher-mike-hauschild-for-assignment/",
+      "exception": {
+        "type": "object",
+        "className": "Object",
+        "description": "Object",
+        "objectId": "{\"injectedScriptId\":9,\"id\":6}",
+        "preview": {
+          "type": "object",
+          "description": "Object",
+          "overflow": true,
+          "properties": [
+            {
+              "name": "type",
+              "type": "string",
+              "value": "error"
+            },
+            {
+              "name": "target",
+              "type": "object",
+              "value": "div#vjs_video_1.video-js.vjs-16-9.vjs-big-play-centered.vjs-paused.vjs-workinghover.vjs-v7.vjs-user…",
+              "subtype": "node"
+            },
+            {
+              "name": "relatedTarget",
+              "type": "undefined",
+              "value": "undefined"
+            },
+            {
+              "name": "preventDefault",
+              "type": "function",
+              "value": ""
+            },
+            {
+              "name": "defaultPrevented",
+              "type": "boolean",
+              "value": "false"
+            }
+          ]
+        }
+      },
+      "executionContextId": 9
+    }
+  },
+  {
+    "timestamp": 1583005292453.727,
+    "exceptionDetails": {
+      "exceptionId": 4,
+      "text": "Uncaught (in promise)",
+      "lineNumber": 0,
+      "columnNumber": 0,
+      "scriptId": "1",
+      "url": "https://dfw.cbslocal.com/2017/04/21/rangers-designate-pitcher-mike-hauschild-for-assignment/",
+      "exception": {
+        "type": "object",
+        "className": "Object",
+        "description": "Object",
+        "objectId": "{\"injectedScriptId\":9,\"id\":8}",
+        "preview": {
+          "type": "object",
+          "description": "Object",
+          "overflow": true,
+          "properties": [
+            {
+              "name": "type",
+              "type": "string",
+              "value": "error"
+            },
+            {
+              "name": "target",
+              "type": "object",
+              "value": "div#vjs_video_1.video-js.vjs-16-9.vjs-big-play-centered.vjs-paused.vjs-workinghover.vjs-v7.vjs-user…",
+              "subtype": "node"
+            },
+            {
+              "name": "relatedTarget",
+              "type": "undefined",
+              "value": "undefined"
+            },
+            {
+              "name": "preventDefault",
+              "type": "function",
+              "value": ""
+            },
+            {
+              "name": "defaultPrevented",
+              "type": "boolean",
+              "value": "false"
+            }
+          ]
+        }
+      },
+      "executionContextId": 9
+    }
+  },
+  {
+    "timestamp": 1583005292453.887,
+    "exceptionDetails": {
+      "exceptionId": 5,
+      "text": "Uncaught (in promise)",
+      "lineNumber": 0,
+      "columnNumber": 0,
+      "scriptId": "1",
+      "url": "https://dfw.cbslocal.com/2017/04/21/rangers-designate-pitcher-mike-hauschild-for-assignment/",
+      "exception": {
+        "type": "object",
+        "className": "Object",
+        "description": "Object",
+        "objectId": "{\"injectedScriptId\":9,\"id\":9}",
+        "preview": {
+          "type": "object",
+          "description": "Object",
+          "overflow": true,
+          "properties": [
+            {
+              "name": "type",
+              "type": "string",
+              "value": "error"
+            },
+            {
+              "name": "target",
+              "type": "object",
+              "value": "div#vjs_video_1.video-js.vjs-16-9.vjs-big-play-centered.vjs-paused.vjs-workinghover.vjs-v7.vjs-user…",
+              "subtype": "node"
+            },
+            {
+              "name": "relatedTarget",
+              "type": "undefined",
+              "value": "undefined"
+            },
+            {
+              "name": "preventDefault",
+              "type": "function",
+              "value": ""
+            },
+            {
+              "name": "defaultPrevented",
+              "type": "boolean",
+              "value": "false"
+            }
+          ]
+        }
+      },
+      "executionContextId": 9
+    }
+  },
+  {
+    "timestamp": 1583005293081.396,
+    "exceptionDetails": {
+      "exceptionId": 6,
+      "text": "Uncaught (in promise)",
+      "lineNumber": 0,
+      "columnNumber": 0,
+      "scriptId": "1",
+      "url": "https://dfw.cbslocal.com/2017/04/21/rangers-designate-pitcher-mike-hauschild-for-assignment/",
+      "exception": {
+        "type": "object",
+        "className": "Object",
+        "description": "Object",
+        "objectId": "{\"injectedScriptId\":9,\"id\":11}",
+        "preview": {
+          "type": "object",
+          "description": "Object",
+          "overflow": true,
+          "properties": [
+            {
+              "name": "type",
+              "type": "string",
+              "value": "error"
+            },
+            {
+              "name": "target",
+              "type": "object",
+              "value": "div#vjs_video_1.video-js.vjs-16-9.vjs-big-play-centered.vjs-paused.vjs-workinghover.vjs-v7.vjs-user…",
+              "subtype": "node"
+            },
+            {
+              "name": "relatedTarget",
+              "type": "undefined",
+              "value": "undefined"
+            },
+            {
+              "name": "preventDefault",
+              "type": "function",
+              "value": ""
+            },
+            {
+              "name": "defaultPrevented",
+              "type": "boolean",
+              "value": "false"
+            }
+          ]
+        }
+      },
+      "executionContextId": 9
+    }
+  },
+  {
+    "timestamp": 1583005293081.5352,
+    "exceptionDetails": {
+      "exceptionId": 7,
+      "text": "Uncaught (in promise)",
+      "lineNumber": 0,
+      "columnNumber": 0,
+      "scriptId": "1",
+      "url": "https://dfw.cbslocal.com/2017/04/21/rangers-designate-pitcher-mike-hauschild-for-assignment/",
+      "exception": {
+        "type": "object",
+        "className": "Object",
+        "description": "Object",
+        "objectId": "{\"injectedScriptId\":9,\"id\":12}",
+        "preview": {
+          "type": "object",
+          "description": "Object",
+          "overflow": true,
+          "properties": [
+            {
+              "name": "type",
+              "type": "string",
+              "value": "error"
+            },
+            {
+              "name": "target",
+              "type": "object",
+              "value": "div#vjs_video_1.video-js.vjs-16-9.vjs-big-play-centered.vjs-paused.vjs-workinghover.vjs-v7.vjs-user…",
+              "subtype": "node"
+            },
+            {
+              "name": "relatedTarget",
+              "type": "undefined",
+              "value": "undefined"
+            },
+            {
+              "name": "preventDefault",
+              "type": "function",
+              "value": ""
+            },
+            {
+              "name": "defaultPrevented",
+              "type": "boolean",
+              "value": "false"
+            }
+          ]
+        }
+      },
+      "executionContextId": 9
+    }
+  },
+  {
+    "timestamp": 1583005293677.3281,
+    "exceptionDetails": {
+      "exceptionId": 8,
+      "text": "Uncaught (in promise)",
+      "lineNumber": 0,
+      "columnNumber": 0,
+      "scriptId": "1",
+      "url": "https://dfw.cbslocal.com/2017/04/21/rangers-designate-pitcher-mike-hauschild-for-assignment/",
+      "exception": {
+        "type": "object",
+        "className": "Object",
+        "description": "Object",
+        "objectId": "{\"injectedScriptId\":9,\"id\":14}",
+        "preview": {
+          "type": "object",
+          "description": "Object",
+          "overflow": true,
+          "properties": [
+            {
+              "name": "type",
+              "type": "string",
+              "value": "error"
+            },
+            {
+              "name": "target",
+              "type": "object",
+              "value": "div#vjs_video_1.video-js.vjs-16-9.vjs-big-play-centered.vjs-paused.vjs-workinghover.vjs-v7.vjs-user…",
+              "subtype": "node"
+            },
+            {
+              "name": "relatedTarget",
+              "type": "undefined",
+              "value": "undefined"
+            },
+            {
+              "name": "preventDefault",
+              "type": "function",
+              "value": ""
+            },
+            {
+              "name": "defaultPrevented",
+              "type": "boolean",
+              "value": "false"
+            }
+          ]
+        }
+      },
+      "executionContextId": 9
+    }
+  },
+  {
+    "timestamp": 1583005293677.5042,
+    "exceptionDetails": {
+      "exceptionId": 9,
+      "text": "Uncaught (in promise)",
+      "lineNumber": 0,
+      "columnNumber": 0,
+      "scriptId": "1",
+      "url": "https://dfw.cbslocal.com/2017/04/21/rangers-designate-pitcher-mike-hauschild-for-assignment/",
+      "exception": {
+        "type": "object",
+        "className": "Object",
+        "description": "Object",
+        "objectId": "{\"injectedScriptId\":9,\"id\":15}",
+        "preview": {
+          "type": "object",
+          "description": "Object",
+          "overflow": true,
+          "properties": [
+            {
+              "name": "type",
+              "type": "string",
+              "value": "error"
+            },
+            {
+              "name": "target",
+              "type": "object",
+              "value": "div#vjs_video_1.video-js.vjs-16-9.vjs-big-play-centered.vjs-paused.vjs-workinghover.vjs-v7.vjs-user…",
+              "subtype": "node"
+            },
+            {
+              "name": "relatedTarget",
+              "type": "undefined",
+              "value": "undefined"
+            },
+            {
+              "name": "preventDefault",
+              "type": "function",
+              "value": ""
+            },
+            {
+              "name": "defaultPrevented",
+              "type": "boolean",
+              "value": "false"
+            }
+          ]
+        }
+      },
+      "executionContextId": 9
+    }
+  },
+  {
+    "timestamp": 1583005294298.421,
+    "exceptionDetails": {
+      "exceptionId": 10,
+      "text": "Uncaught (in promise)",
+      "lineNumber": 0,
+      "columnNumber": 0,
+      "scriptId": "1",
+      "url": "https://dfw.cbslocal.com/2017/04/21/rangers-designate-pitcher-mike-hauschild-for-assignment/",
+      "exception": {
+        "type": "object",
+        "className": "Object",
+        "description": "Object",
+        "objectId": "{\"injectedScriptId\":9,\"id\":17}",
+        "preview": {
+          "type": "object",
+          "description": "Object",
+          "overflow": true,
+          "properties": [
+            {
+              "name": "type",
+              "type": "string",
+              "value": "error"
+            },
+            {
+              "name": "target",
+              "type": "object",
+              "value": "div#vjs_video_1.video-js.vjs-16-9.vjs-big-play-centered.vjs-paused.vjs-workinghover.vjs-v7.vjs-user…",
+              "subtype": "node"
+            },
+            {
+              "name": "relatedTarget",
+              "type": "undefined",
+              "value": "undefined"
+            },
+            {
+              "name": "preventDefault",
+              "type": "function",
+              "value": ""
+            },
+            {
+              "name": "defaultPrevented",
+              "type": "boolean",
+              "value": "false"
+            }
+          ]
+        }
+      },
+      "executionContextId": 9
+    }
+  },
+  {
+    "timestamp": 1583005294298.6309,
+    "exceptionDetails": {
+      "exceptionId": 11,
+      "text": "Uncaught (in promise)",
+      "lineNumber": 0,
+      "columnNumber": 0,
+      "scriptId": "1",
+      "url": "https://dfw.cbslocal.com/2017/04/21/rangers-designate-pitcher-mike-hauschild-for-assignment/",
+      "exception": {
+        "type": "object",
+        "className": "Object",
+        "description": "Object",
+        "objectId": "{\"injectedScriptId\":9,\"id\":18}",
+        "preview": {
+          "type": "object",
+          "description": "Object",
+          "overflow": true,
+          "properties": [
+            {
+              "name": "type",
+              "type": "string",
+              "value": "error"
+            },
+            {
+              "name": "target",
+              "type": "object",
+              "value": "div#vjs_video_1.video-js.vjs-16-9.vjs-big-play-centered.vjs-paused.vjs-workinghover.vjs-v7.vjs-user…",
+              "subtype": "node"
+            },
+            {
+              "name": "relatedTarget",
+              "type": "undefined",
+              "value": "undefined"
+            },
+            {
+              "name": "preventDefault",
+              "type": "function",
+              "value": ""
+            },
+            {
+              "name": "defaultPrevented",
+              "type": "boolean",
+              "value": "false"
+            }
+          ]
+        }
+      },
+      "executionContextId": 9
+    }
+  },
+  {
+    "timestamp": 1583005294799.788,
+    "exceptionDetails": {
+      "exceptionId": 12,
+      "text": "Uncaught (in promise)",
+      "lineNumber": 0,
+      "columnNumber": 0,
+      "scriptId": "1",
+      "url": "https://dfw.cbslocal.com/2017/04/21/rangers-designate-pitcher-mike-hauschild-for-assignment/",
+      "exception": {
+        "type": "object",
+        "className": "Object",
+        "description": "Object",
+        "objectId": "{\"injectedScriptId\":9,\"id\":20}",
+        "preview": {
+          "type": "object",
+          "description": "Object",
+          "overflow": true,
+          "properties": [
+            {
+              "name": "type",
+              "type": "string",
+              "value": "error"
+            },
+            {
+              "name": "target",
+              "type": "object",
+              "value": "div#vjs_video_1.video-js.vjs-16-9.vjs-big-play-centered.vjs-paused.vjs-workinghover.vjs-v7.vjs-user…",
+              "subtype": "node"
+            },
+            {
+              "name": "relatedTarget",
+              "type": "undefined",
+              "value": "undefined"
+            },
+            {
+              "name": "preventDefault",
+              "type": "function",
+              "value": ""
+            },
+            {
+              "name": "defaultPrevented",
+              "type": "boolean",
+              "value": "false"
+            }
+          ]
+        }
+      },
+      "executionContextId": 9
+    }
+  },
+  {
+    "timestamp": 1583005294799.946,
+    "exceptionDetails": {
+      "exceptionId": 13,
+      "text": "Uncaught (in promise)",
+      "lineNumber": 0,
+      "columnNumber": 0,
+      "scriptId": "1",
+      "url": "https://dfw.cbslocal.com/2017/04/21/rangers-designate-pitcher-mike-hauschild-for-assignment/",
+      "exception": {
+        "type": "object",
+        "className": "Object",
+        "description": "Object",
+        "objectId": "{\"injectedScriptId\":9,\"id\":21}",
+        "preview": {
+          "type": "object",
+          "description": "Object",
+          "overflow": true,
+          "properties": [
+            {
+              "name": "type",
+              "type": "string",
+              "value": "error"
+            },
+            {
+              "name": "target",
+              "type": "object",
+              "value": "div#vjs_video_1.video-js.vjs-16-9.vjs-big-play-centered.vjs-paused.vjs-workinghover.vjs-v7.vjs-user…",
+              "subtype": "node"
+            },
+            {
+              "name": "relatedTarget",
+              "type": "undefined",
+              "value": "undefined"
+            },
+            {
+              "name": "preventDefault",
+              "type": "function",
+              "value": ""
+            },
+            {
+              "name": "defaultPrevented",
+              "type": "boolean",
+              "value": "false"
+            }
+          ]
+        }
+      },
+      "executionContextId": 9
+    }
+  },
+  {
+    "timestamp": 1583005295431.955,
+    "exceptionDetails": {
+      "exceptionId": 14,
+      "text": "Uncaught (in promise)",
+      "lineNumber": 0,
+      "columnNumber": 0,
+      "scriptId": "1",
+      "url": "https://dfw.cbslocal.com/2017/04/21/rangers-designate-pitcher-mike-hauschild-for-assignment/",
+      "exception": {
+        "type": "object",
+        "className": "Object",
+        "description": "Object",
+        "objectId": "{\"injectedScriptId\":9,\"id\":23}",
+        "preview": {
+          "type": "object",
+          "description": "Object",
+          "overflow": true,
+          "properties": [
+            {
+              "name": "type",
+              "type": "string",
+              "value": "error"
+            },
+            {
+              "name": "target",
+              "type": "object",
+              "value": "div#vjs_video_1.video-js.vjs-16-9.vjs-big-play-centered.vjs-paused.vjs-workinghover.vjs-v7.vjs-user…",
+              "subtype": "node"
+            },
+            {
+              "name": "relatedTarget",
+              "type": "undefined",
+              "value": "undefined"
+            },
+            {
+              "name": "preventDefault",
+              "type": "function",
+              "value": ""
+            },
+            {
+              "name": "defaultPrevented",
+              "type": "boolean",
+              "value": "false"
+            }
+          ]
+        }
+      },
+      "executionContextId": 9
+    }
+  },
+  {
+    "timestamp": 1583005295432.194,
+    "exceptionDetails": {
+      "exceptionId": 15,
+      "text": "Uncaught (in promise)",
+      "lineNumber": 0,
+      "columnNumber": 0,
+      "scriptId": "1",
+      "url": "https://dfw.cbslocal.com/2017/04/21/rangers-designate-pitcher-mike-hauschild-for-assignment/",
+      "exception": {
+        "type": "object",
+        "className": "Object",
+        "description": "Object",
+        "objectId": "{\"injectedScriptId\":9,\"id\":24}",
+        "preview": {
+          "type": "object",
+          "description": "Object",
+          "overflow": true,
+          "properties": [
+            {
+              "name": "type",
+              "type": "string",
+              "value": "error"
+            },
+            {
+              "name": "target",
+              "type": "object",
+              "value": "div#vjs_video_1.video-js.vjs-16-9.vjs-big-play-centered.vjs-paused.vjs-workinghover.vjs-v7.vjs-user…",
+              "subtype": "node"
+            },
+            {
+              "name": "relatedTarget",
+              "type": "undefined",
+              "value": "undefined"
+            },
+            {
+              "name": "preventDefault",
+              "type": "function",
+              "value": ""
+            },
+            {
+              "name": "defaultPrevented",
+              "type": "boolean",
+              "value": "false"
+            }
+          ]
+        }
+      },
+      "executionContextId": 9
+    }
+  }
+]

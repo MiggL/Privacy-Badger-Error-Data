@@ -1,0 +1,110 @@
+[
+  {
+    "timestamp": 1583009300743.095,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 583,
+      "columnNumber": 204,
+      "url": "https://embed.tawk.to/591d094c8028bb73270465e5/default",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "F.begin",
+            "scriptId": "17",
+            "url": "https://embed.tawk.to/591d094c8028bb73270465e5/default",
+            "lineNumber": 583,
+            "columnNumber": 204
+          },
+          {
+            "functionName": "",
+            "scriptId": "17",
+            "url": "https://embed.tawk.to/591d094c8028bb73270465e5/default",
+            "lineNumber": 734,
+            "columnNumber": 117
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'appendChild' of null\n    at k.F.begin (https://embed.tawk.to/591d094c8028bb73270465e5/default:584:205)\n    at https://embed.tawk.to/591d094c8028bb73270465e5/default:735:118",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'appendChild' of null\n    at k.F.begin (https://embed.tawk.to/591d094c8028bb73270465e5/default:584:205)\n    at https://embed.tawk.to/591d094c8028bb73270465e5/default:735:118",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'appendChild' of n….tawk.to/591d094c8028bb73270465e5/default:735:118"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'appendChild' of null"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583009300743.308,
+    "exceptionDetails": {
+      "exceptionId": 2,
+      "text": "Uncaught",
+      "lineNumber": 223,
+      "columnNumber": 335,
+      "url": "https://embed.tawk.to/591d094c8028bb73270465e5/default",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "Oa.handleError",
+            "scriptId": "17",
+            "url": "https://embed.tawk.to/591d094c8028bb73270465e5/default",
+            "lineNumber": 223,
+            "columnNumber": 335
+          },
+          {
+            "functionName": "g.onerror",
+            "scriptId": "17",
+            "url": "https://embed.tawk.to/591d094c8028bb73270465e5/default",
+            "lineNumber": 224,
+            "columnNumber": 113
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: this.getBrowserData is not a function\n    at Oa.handleError (https://embed.tawk.to/591d094c8028bb73270465e5/default:224:336)\n    at g.onerror (https://embed.tawk.to/591d094c8028bb73270465e5/default:225:114)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":2}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: this.getBrowserData is not a function\n    at Oa.handleError (https://embed.tawk.to/591d094c8028bb73270465e5/default:224:336)\n    at g.onerror (https://embed.tawk.to/591d094c8028bb73270465e5/default:225:114)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: this.getBrowserData is not a function\n …tawk.to/591d094c8028bb73270465e5/default:225:114)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "this.getBrowserData is not a function"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

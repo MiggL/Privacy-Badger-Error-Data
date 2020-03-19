@@ -1,0 +1,49 @@
+[
+  {
+    "timestamp": 1583758127452.5,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 539,
+      "columnNumber": 2,
+      "url": "https://www.mymajors.com/career/juice-mixer/skills/",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "30",
+            "url": "https://www.mymajors.com/career/juice-mixer/skills/",
+            "lineNumber": 539,
+            "columnNumber": 2
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: addthis is not defined\n    at https://www.mymajors.com/career/juice-mixer/skills/:540:3",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: addthis is not defined\n    at https://www.mymajors.com/career/juice-mixer/skills/:540:3",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: addthis is not defined\n    at http…www.mymajors.com/career/juice-mixer/skills/:540:3"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "addthis is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

@@ -1,0 +1,49 @@
+[
+  {
+    "timestamp": 1583004656180.5588,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 548,
+      "columnNumber": 4,
+      "url": "http://fontaineauxmalefices.chiens-de-france.com/chien-chinois-a-crete,de-la-fontaine-aux-malefices,pedigree-chien,una-bomber-de-la-fontaine-aux-malefices,11726_199386.html",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "32",
+            "url": "http://fontaineauxmalefices.chiens-de-france.com/chien-chinois-a-crete,de-la-fontaine-aux-malefices,pedigree-chien,una-bomber-de-la-fontaine-aux-malefices,11726_199386.html",
+            "lineNumber": 548,
+            "columnNumber": 4
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: cookieChoices is not defined\n    at HTMLDocument.<anonymous> (http://fontaineauxmalefices.chiens-de-france.com/chien-chinois-a-crete,de-la-fontaine-aux-malefices,pedigree-chien,una-bomber-de-la-fontaine-aux-malefices,11726_199386.html:549:5)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: cookieChoices is not defined\n    at HTMLDocument.<anonymous> (http://fontaineauxmalefices.chiens-de-france.com/chien-chinois-a-crete,de-la-fontaine-aux-malefices,pedigree-chien,una-bomber-de-la-fontaine-aux-malefices,11726_199386.html:549:5)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: cookieChoices is not defined\n    a…a-fontaine-aux-malefices,11726_199386.html:549:5)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "cookieChoices is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

@@ -1,0 +1,49 @@
+[
+  {
+    "timestamp": 1583005904695.7158,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 14,
+      "columnNumber": 121,
+      "url": "http://wikipedia.fr/Resultats.php?q=fdsf&projet=article",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "onload",
+            "scriptId": "14",
+            "url": "http://wikipedia.fr/Resultats.php?q=fdsf&projet=article",
+            "lineNumber": 14,
+            "columnNumber": 121
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'focus' of null\n    at onload (http://wikipedia.fr/Resultats.php?q=fdsf&projet=article:15:122)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'focus' of null\n    at onload (http://wikipedia.fr/Resultats.php?q=fdsf&projet=article:15:122)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'focus' of null\n  …ia.fr/Resultats.php?q=fdsf&projet=article:15:122)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'focus' of null"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

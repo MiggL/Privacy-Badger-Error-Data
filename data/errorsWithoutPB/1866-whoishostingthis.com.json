@@ -1,0 +1,48 @@
+[
+  {
+    "timestamp": 1582815015277.062,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 19,
+      "columnNumber": 10,
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "eval",
+            "scriptId": "14",
+            "url": "",
+            "lineNumber": 19,
+            "columnNumber": 10
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: btbCookieHelper is not defined\n    at eval (eval at <anonymous> (https://cdn-3.convertexperiments.com/js/10021806-10024242.js:9:4902), <anonymous>:20:11)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: btbCookieHelper is not defined\n    at eval (eval at <anonymous> (https://cdn-3.convertexperiments.com/js/10021806-10024242.js:9:4902), <anonymous>:20:11)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: btbCookieHelper is not defined\n   …/10021806-10024242.js:9:4902), <anonymous>:20:11)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "btbCookieHelper is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

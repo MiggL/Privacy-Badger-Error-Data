@@ -1,0 +1,49 @@
+[
+  {
+    "timestamp": 1582892455321.896,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught (in promise)",
+      "lineNumber": 1,
+      "columnNumber": 50707,
+      "url": "https://www.independent.ie/theme/_base/scripts/app.0dbba0a1ec3fd221f139.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "25",
+            "url": "https://www.independent.ie/theme/_base/scripts/app.0dbba0a1ec3fd221f139.js",
+            "lineNumber": 1,
+            "columnNumber": 50707
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "Error",
+        "description": "Error: Could not load script from https://securepubads.g.doubleclick.net/tag/js/gpt.js\n    at HTMLScriptElement.<anonymous> (https://www.independent.ie/theme/_base/scripts/app.0dbba0a1ec3fd221f139.js:2:50708)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "Error: Could not load script from https://securepubads.g.doubleclick.net/tag/js/gpt.js\n    at HTMLScriptElement.<anonymous> (https://www.independent.ie/theme/_base/scripts/app.0dbba0a1ec3fd221f139.js:2:50708)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "Error: Could not load script from https://securepu…base/scripts/app.0dbba0a1ec3fd221f139.js:2:50708)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Could not load script from https://securepubads.g.doubleclick.net/tag/js/gpt.js"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

@@ -1,0 +1,49 @@
+[
+  {
+    "timestamp": 1583419778900.1719,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 0,
+      "columnNumber": 0,
+      "url": "https://int.nyt.com/assets/shared/community/instances/community-user.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "40",
+            "url": "https://int.nyt.com/assets/shared/community/instances/community-user.js",
+            "lineNumber": 0,
+            "columnNumber": 0
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: assets is not defined\n    at https://int.nyt.com/assets/shared/community/instances/community-user.js:1:1",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: assets is not defined\n    at https://int.nyt.com/assets/shared/community/instances/community-user.js:1:1",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: assets is not defined\n    at https…/shared/community/instances/community-user.js:1:1"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "assets is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

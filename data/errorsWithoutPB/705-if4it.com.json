@@ -1,0 +1,49 @@
+[
+  {
+    "timestamp": 1583006943611.455,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 37,
+      "columnNumber": 36,
+      "url": "https://www.if4it.com/SYNTHESIZED/GLOSSARY/S/Server_Governance.html",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "15",
+            "url": "https://www.if4it.com/SYNTHESIZED/GLOSSARY/S/Server_Governance.html",
+            "lineNumber": 37,
+            "columnNumber": 36
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: stLight is not defined\n    at https://www.if4it.com/SYNTHESIZED/GLOSSARY/S/Server_Governance.html:38:37",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: stLight is not defined\n    at https://www.if4it.com/SYNTHESIZED/GLOSSARY/S/Server_Governance.html:38:37",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: stLight is not defined\n    at http…NTHESIZED/GLOSSARY/S/Server_Governance.html:38:37"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "stLight is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

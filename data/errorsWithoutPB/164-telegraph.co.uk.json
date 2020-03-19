@@ -1,0 +1,64 @@
+[
+  {
+    "timestamp": 1583011890950.2102,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 149,
+      "columnNumber": 60,
+      "url": "https://www.telegraph.co.uk/news/worldnews/asia/afghanistan/8473506/Second-most-wanted-insurgent-in-Afghanistan-killed-by-air-strike.html",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "document.onreadystatechange",
+            "scriptId": "18",
+            "url": "https://www.telegraph.co.uk/news/worldnews/asia/afghanistan/8473506/Second-most-wanted-insurgent-in-Afghanistan-killed-by-air-strike.html",
+            "lineNumber": 149,
+            "columnNumber": 60
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot set property 'src' of null at HTMLDocument.document.onreadystatechange (https://www.telegraph.co.uk/news/worldnews/asia/afghanistan/8473506/Second-most-wanted-insurgent-in-Afghanistan-killed-by-air-strike.html:150:61)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot set property 'src' of null at HTMLDocument.document.onreadystatechange (https://www.telegraph.co.uk/news/worldnews/asia/afghanistan/8473506/Second-most-wanted-insurgent-in-Afghanistan-killed-by-air-strike.html:150:61)",
+          "overflow": true,
+          "properties": [
+            {
+              "name": "reported",
+              "type": "boolean",
+              "value": "true"
+            },
+            {
+              "name": "timestamp",
+              "type": "number",
+              "value": "1583011890949"
+            },
+            {
+              "name": "lineNumber",
+              "type": "string",
+              "value": "150"
+            },
+            {
+              "name": "columnNumber",
+              "type": "string",
+              "value": "61"
+            },
+            {
+              "name": "functionName",
+              "type": "string",
+              "value": "HTMLDocument.document.onreadystatechange"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

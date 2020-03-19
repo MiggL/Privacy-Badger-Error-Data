@@ -1,0 +1,159 @@
+[
+  {
+    "timestamp": 1583009761998.801,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 356,
+      "columnNumber": 16,
+      "url": "http://code.jquery.com/jquery-latest.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "each",
+            "scriptId": "20",
+            "url": "http://code.jquery.com/jquery-latest.js",
+            "lineNumber": 356,
+            "columnNumber": 16
+          },
+          {
+            "functionName": "a.widget",
+            "scriptId": "31",
+            "url": "http://hearthsidegreatercincy.com/wp-includes/js/jquery/ui/widget.min.js?ver=1.11.4",
+            "lineNumber": 10,
+            "columnNumber": 1251
+          },
+          {
+            "functionName": "",
+            "scriptId": "32",
+            "url": "http://hearthsidegreatercincy.com/wp-includes/js/jquery/ui/tabs.min.js?ver=1.11.4",
+            "lineNumber": 10,
+            "columnNumber": 124
+          },
+          {
+            "functionName": "",
+            "scriptId": "32",
+            "url": "http://hearthsidegreatercincy.com/wp-includes/js/jquery/ui/tabs.min.js?ver=1.11.4",
+            "lineNumber": 10,
+            "columnNumber": 92
+          },
+          {
+            "functionName": "",
+            "scriptId": "32",
+            "url": "http://hearthsidegreatercincy.com/wp-includes/js/jquery/ui/tabs.min.js?ver=1.11.4",
+            "lineNumber": 10,
+            "columnNumber": 102
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'length' of undefined\n    at Function.each (http://code.jquery.com/jquery-latest.js:357:17)\n    at Function.a.widget (http://hearthsidegreatercincy.com/wp-includes/js/jquery/ui/widget.min.js?ver=1.11.4:11:1252)\n    at http://hearthsidegreatercincy.com/wp-includes/js/jquery/ui/tabs.min.js?ver=1.11.4:11:125\n    at http://hearthsidegreatercincy.com/wp-includes/js/jquery/ui/tabs.min.js?ver=1.11.4:11:93\n    at http://hearthsidegreatercincy.com/wp-includes/js/jquery/ui/tabs.min.js?ver=1.11.4:11:103",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'length' of undefined\n    at Function.each (http://code.jquery.com/jquery-latest.js:357:17)\n    at Function.a.widget (http://hearthsidegreatercincy.com/wp-includes/js/jquery/ui/widget.min.js?ver=1.11.4:11:1252)\n    at http://hearthsidegreatercincy.com/wp-includes/js/jquery/ui/tabs.min.js?ver=1.11.4:11:125\n    at http://hearthsidegreatercincy.com/wp-includes/js/jquery/ui/tabs.min.js?ver=1.11.4:11:93\n    at http://hearthsidegreatercincy.com/wp-includes/js/jquery/ui/tabs.min.js?ver=1.11.4:11:103",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'length' of undefi…cludes/js/jquery/ui/tabs.min.js?ver=1.11.4:11:103"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'length' of undefined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583009762119.062,
+    "exceptionDetails": {
+      "exceptionId": 2,
+      "text": "Uncaught",
+      "lineNumber": 46,
+      "columnNumber": 1178,
+      "url": "http://hearthsidegreatercincy.com/wp-content/themes/showcase/library/js/jquery.prettyPhoto.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "$.fn.prettyPhoto",
+            "scriptId": "22",
+            "url": "http://hearthsidegreatercincy.com/wp-content/themes/showcase/library/js/jquery.prettyPhoto.js",
+            "lineNumber": 46,
+            "columnNumber": 1178
+          },
+          {
+            "functionName": "",
+            "scriptId": "23",
+            "url": "http://hearthsidegreatercincy.com/wp-content/themes/showcase/library/js/all.js",
+            "lineNumber": 3,
+            "columnNumber": 33
+          },
+          {
+            "functionName": "fire",
+            "scriptId": "20",
+            "url": "http://code.jquery.com/jquery-latest.js",
+            "lineNumber": 3118,
+            "columnNumber": 29
+          },
+          {
+            "functionName": "fireWith",
+            "scriptId": "20",
+            "url": "http://code.jquery.com/jquery-latest.js",
+            "lineNumber": 3230,
+            "columnNumber": 6
+          },
+          {
+            "functionName": "ready",
+            "scriptId": "20",
+            "url": "http://code.jquery.com/jquery-latest.js",
+            "lineNumber": 3442,
+            "columnNumber": 12
+          },
+          {
+            "functionName": "completed",
+            "scriptId": "20",
+            "url": "http://code.jquery.com/jquery-latest.js",
+            "lineNumber": 3473,
+            "columnNumber": 9
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'msie' of undefined\n    at jQuery.fn.init.$.fn.prettyPhoto (http://hearthsidegreatercincy.com/wp-content/themes/showcase/library/js/jquery.prettyPhoto.js:47:1179)\n    at HTMLDocument.<anonymous> (http://hearthsidegreatercincy.com/wp-content/themes/showcase/library/js/all.js:4:34)\n    at fire (http://code.jquery.com/jquery-latest.js:3119:30)\n    at Object.fireWith [as resolveWith] (http://code.jquery.com/jquery-latest.js:3231:7)\n    at Function.ready (http://code.jquery.com/jquery-latest.js:3443:13)\n    at HTMLDocument.completed (http://code.jquery.com/jquery-latest.js:3474:10)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":2}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'msie' of undefined\n    at jQuery.fn.init.$.fn.prettyPhoto (http://hearthsidegreatercincy.com/wp-content/themes/showcase/library/js/jquery.prettyPhoto.js:47:1179)\n    at HTMLDocument.<anonymous> (http://hearthsidegreatercincy.com/wp-content/themes/showcase/library/js/all.js:4:34)\n    at fire (http://code.jquery.com/jquery-latest.js:3119:30)\n    at Object.fireWith [as resolveWith] (http://code.jquery.com/jquery-latest.js:3231:7)\n    at Function.ready (http://code.jquery.com/jquery-latest.js:3443:13)\n    at HTMLDocument.completed (http://code.jquery.com/jquery-latest.js:3474:10)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'msie' of undefine…(http://code.jquery.com/jquery-latest.js:3474:10)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'msie' of undefined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

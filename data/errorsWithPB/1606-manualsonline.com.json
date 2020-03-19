@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": 1583417532482.972,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 83,
+      "columnNumber": 49,
+      "scriptId": "28",
+      "url": "http://www.manualsonline.com/manuals/mfg/freeplay_energy/freeplay_energy_product_list.html",
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "SyntaxError",
+        "description": "SyntaxError: Unexpected token '.'",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "SyntaxError: Unexpected token '.'",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "SyntaxError: Unexpected token '.'"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Unexpected token '.'"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

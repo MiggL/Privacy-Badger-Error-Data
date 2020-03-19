@@ -1,0 +1,91 @@
+[
+  {
+    "timestamp": 1582922027568.751,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 286,
+      "columnNumber": 370,
+      "url": "https://www.kwon.fr/web/cache/1582879815_16f9779166fbb69764b16d64117cdea8.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "trackThumbnailControls",
+            "scriptId": "21",
+            "url": "https://www.kwon.fr/web/cache/1582879815_16f9779166fbb69764b16d64117cdea8.js",
+            "lineNumber": 286,
+            "columnNumber": 370
+          },
+          {
+            "functionName": "f",
+            "scriptId": "21",
+            "url": "https://www.kwon.fr/web/cache/1582879815_16f9779166fbb69764b16d64117cdea8.js",
+            "lineNumber": 4,
+            "columnNumber": 3697
+          },
+          {
+            "functionName": "d.complete",
+            "scriptId": "21",
+            "url": "https://www.kwon.fr/web/cache/1582879815_16f9779166fbb69764b16d64117cdea8.js",
+            "lineNumber": 4,
+            "columnNumber": 60022
+          },
+          {
+            "functionName": "i",
+            "scriptId": "21",
+            "url": "https://www.kwon.fr/web/cache/1582879815_16f9779166fbb69764b16d64117cdea8.js",
+            "lineNumber": 4,
+            "columnNumber": 27150
+          },
+          {
+            "functionName": "fireWith",
+            "scriptId": "21",
+            "url": "https://www.kwon.fr/web/cache/1582879815_16f9779166fbb69764b16d64117cdea8.js",
+            "lineNumber": 4,
+            "columnNumber": 27913
+          },
+          {
+            "functionName": "i",
+            "scriptId": "21",
+            "url": "https://www.kwon.fr/web/cache/1582879815_16f9779166fbb69764b16d64117cdea8.js",
+            "lineNumber": 4,
+            "columnNumber": 58304
+          },
+          {
+            "functionName": "n.fx.tick",
+            "scriptId": "21",
+            "url": "https://www.kwon.fr/web/cache/1582879815_16f9779166fbb69764b16d64117cdea8.js",
+            "lineNumber": 4,
+            "columnNumber": 61724
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'position' of null\n    at Plugin.trackThumbnailControls (https://www.kwon.fr/web/cache/1582879815_16f9779166fbb69764b16d64117cdea8.js:287:371)\n    at HTMLDivElement.f (https://www.kwon.fr/web/cache/1582879815_16f9779166fbb69764b16d64117cdea8.js:5:3698)\n    at HTMLDivElement.d.complete (https://www.kwon.fr/web/cache/1582879815_16f9779166fbb69764b16d64117cdea8.js:5:60023)\n    at i (https://www.kwon.fr/web/cache/1582879815_16f9779166fbb69764b16d64117cdea8.js:5:27151)\n    at Object.fireWith [as resolveWith] (https://www.kwon.fr/web/cache/1582879815_16f9779166fbb69764b16d64117cdea8.js:5:27914)\n    at i (https://www.kwon.fr/web/cache/1582879815_16f9779166fbb69764b16d64117cdea8.js:5:58305)\n    at n.fx.tick (https://www.kwon.fr/web/cache/1582879815_16f9779166fbb69764b16d64117cdea8.js:5:61725)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'position' of null\n    at Plugin.trackThumbnailControls (https://www.kwon.fr/web/cache/1582879815_16f9779166fbb69764b16d64117cdea8.js:287:371)\n    at HTMLDivElement.f (https://www.kwon.fr/web/cache/1582879815_16f9779166fbb69764b16d64117cdea8.js:5:3698)\n    at HTMLDivElement.d.complete (https://www.kwon.fr/web/cache/1582879815_16f9779166fbb69764b16d64117cdea8.js:5:60023)\n    at i (https://www.kwon.fr/web/cache/1582879815_16f9779166fbb69764b16d64117cdea8.js:5:27151)\n    at Object.fireWith [as resolveWith] (https://www.kwon.fr/web/cache/1582879815_16f9779166fbb69764b16d64117cdea8.js:5:27914)\n    at i (https://www.kwon.fr/web/cache/1582879815_16f9779166fbb69764b16d64117cdea8.js:5:58305)\n    at n.fx.tick (https://www.kwon.fr/web/cache/1582879815_16f9779166fbb69764b16d64117cdea8.js:5:61725)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'position' of null…9815_16f9779166fbb69764b16d64117cdea8.js:5:61725)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'position' of null"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

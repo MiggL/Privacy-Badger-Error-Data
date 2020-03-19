@@ -1,0 +1,91 @@
+[
+  {
+    "timestamp": 1583004096786.196,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 34,
+      "columnNumber": 88,
+      "url": "https://c.la2-c1-phx.salesforceliveagent.com/content/g/js/41.0/deployment.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "T.setState",
+            "scriptId": "17",
+            "url": "https://c.la2-c1-phx.salesforceliveagent.com/content/g/js/41.0/deployment.js",
+            "lineNumber": 34,
+            "columnNumber": 88
+          },
+          {
+            "functionName": "l.setOnlineState",
+            "scriptId": "17",
+            "url": "https://c.la2-c1-phx.salesforceliveagent.com/content/g/js/41.0/deployment.js",
+            "lineNumber": 30,
+            "columnNumber": 206
+          },
+          {
+            "functionName": "wa",
+            "scriptId": "17",
+            "url": "https://c.la2-c1-phx.salesforceliveagent.com/content/g/js/41.0/deployment.js",
+            "lineNumber": 10,
+            "columnNumber": 428
+          },
+          {
+            "functionName": "q.connection.messageHandler",
+            "scriptId": "17",
+            "url": "https://c.la2-c1-phx.salesforceliveagent.com/content/g/js/41.0/deployment.js",
+            "lineNumber": 78,
+            "columnNumber": 26
+          },
+          {
+            "functionName": "d.handlePing",
+            "scriptId": "17",
+            "url": "https://c.la2-c1-phx.salesforceliveagent.com/content/g/js/41.0/deployment.js",
+            "lineNumber": 74,
+            "columnNumber": 162
+          },
+          {
+            "functionName": "I.handlePing",
+            "scriptId": "17",
+            "url": "https://c.la2-c1-phx.salesforceliveagent.com/content/g/js/41.0/deployment.js",
+            "lineNumber": 64,
+            "columnNumber": 429
+          },
+          {
+            "functionName": "",
+            "scriptId": "43",
+            "url": "https://d.la2-c2-ph2.salesforceliveagent.com/chat/rest/Visitor/Settings.jsonp?sid=e232b384-d267-463d-9397-afe49ceda567&Settings.prefix=Visitor&Settings.buttonIds=[5730G000000Cd1l]&Settings.updateBreadcrumb=1&Settings.urlPrefix=undefined&callback=liveagent._.handlePing&deployment_id=5720G000000Ccny&org_id=00DA0000000JZ34&version=41",
+            "lineNumber": 0,
+            "columnNumber": 16
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'style' of undefined\n    at T.setState (https://c.la2-c1-phx.salesforceliveagent.com/content/g/js/41.0/deployment.js:35:89)\n    at la.l.setOnlineState (https://c.la2-c1-phx.salesforceliveagent.com/content/g/js/41.0/deployment.js:31:207)\n    at wa (https://c.la2-c1-phx.salesforceliveagent.com/content/g/js/41.0/deployment.js:11:429)\n    at q.connection.messageHandler (https://c.la2-c1-phx.salesforceliveagent.com/content/g/js/41.0/deployment.js:79:27)\n    at Object.d.handlePing (https://c.la2-c1-phx.salesforceliveagent.com/content/g/js/41.0/deployment.js:75:163)\n    at Object.I.handlePing (https://c.la2-c1-phx.salesforceliveagent.com/content/g/js/41.0/deployment.js:65:430)\n    at https://d.la2-c2-ph2.salesforceliveagent.com/chat/rest/Visitor/Settings.jsonp?sid=e232b384-d267-463d-9397-afe49ceda567&Settings.prefix=Visitor&Settings.buttonIds=[5730G000000Cd1l]&Settings.updateBreadcrumb=1&Settings.urlPrefix=undefined&callback=liveagent._.handlePing&deployment_id=5720G000000Ccny&org_id=00DA0000000JZ34&version=41:1:17",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'style' of undefined\n    at T.setState (https://c.la2-c1-phx.salesforceliveagent.com/content/g/js/41.0/deployment.js:35:89)\n    at la.l.setOnlineState (https://c.la2-c1-phx.salesforceliveagent.com/content/g/js/41.0/deployment.js:31:207)\n    at wa (https://c.la2-c1-phx.salesforceliveagent.com/content/g/js/41.0/deployment.js:11:429)\n    at q.connection.messageHandler (https://c.la2-c1-phx.salesforceliveagent.com/content/g/js/41.0/deployment.js:79:27)\n    at Object.d.handlePing (https://c.la2-c1-phx.salesforceliveagent.com/content/g/js/41.0/deployment.js:75:163)\n    at Object.I.handlePing (https://c.la2-c1-phx.salesforceliveagent.com/content/g/js/41.0/deployment.js:65:430)\n    at https://d.la2-c2-ph2.salesforceliveagent.com/chat/rest/Visitor/Settings.jsonp?sid=e232b384-d267-463d-9397-afe49ceda567&Settings.prefix=Visitor&Settings.buttonIds=[5730G000000Cd1l]&Settings.updateBreadcrumb=1&Settings.urlPrefix=undefined&callback=liveagent._.handlePing&deployment_id=5720G000000Ccny&org_id=00DA0000000JZ34&version=41:1:17",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'style' of undefin…000000Ccny&org_id=00DA0000000JZ34&version=41:1:17"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'style' of undefined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

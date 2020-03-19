@@ -1,0 +1,56 @@
+[
+  {
+    "timestamp": 1583750774015.19,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 0,
+      "columnNumber": 9500,
+      "url": "https://nav.files.bbci.co.uk/orbit/1b2e292884201dd13064a9204e177864/js/require.min.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "init",
+            "scriptId": "29",
+            "url": "https://nav.files.bbci.co.uk/orbit/1b2e292884201dd13064a9204e177864/js/require.min.js",
+            "lineNumber": 0,
+            "columnNumber": 9500
+          },
+          {
+            "functionName": "",
+            "scriptId": "29",
+            "url": "https://nav.files.bbci.co.uk/orbit/1b2e292884201dd13064a9204e177864/js/require.min.js",
+            "lineNumber": 0,
+            "columnNumber": 15090
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: e.slice is not a function\n    at e.init (https://nav.files.bbci.co.uk/orbit/1b2e292884201dd13064a9204e177864/js/require.min.js:1:9501)\n    at https://nav.files.bbci.co.uk/orbit/1b2e292884201dd13064a9204e177864/js/require.min.js:1:15091",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: e.slice is not a function\n    at e.init (https://nav.files.bbci.co.uk/orbit/1b2e292884201dd13064a9204e177864/js/require.min.js:1:9501)\n    at https://nav.files.bbci.co.uk/orbit/1b2e292884201dd13064a9204e177864/js/require.min.js:1:15091",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: e.slice is not a function\n    at e.init…4201dd13064a9204e177864/js/require.min.js:1:15091"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "e.slice is not a function"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

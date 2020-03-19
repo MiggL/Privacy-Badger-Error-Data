@@ -1,0 +1,49 @@
+[
+  {
+    "timestamp": 1583003847834.169,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 1803,
+      "columnNumber": 34,
+      "url": "https://abcnews.go.com/US/wireStory/girlfriends-air-killing-drives-anchorman-politics-47114567",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "42",
+            "url": "https://abcnews.go.com/US/wireStory/girlfriends-air-killing-drives-anchorman-politics-47114567",
+            "lineNumber": 1803,
+            "columnNumber": 34
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'location' of undefined\n    at https://abcnews.go.com/US/wireStory/girlfriends-air-killing-drives-anchorman-politics-47114567:1804:35",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'location' of undefined\n    at https://abcnews.go.com/US/wireStory/girlfriends-air-killing-drives-anchorman-politics-47114567:1804:35",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'location' of unde…illing-drives-anchorman-politics-47114567:1804:35"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'location' of undefined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

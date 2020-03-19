@@ -1,0 +1,56 @@
+[
+  {
+    "timestamp": 1583751690728.11,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught (in promise)",
+      "lineNumber": 15,
+      "columnNumber": 114941,
+      "url": "https://vanilla.futurecdn.net/livescience/165949/media/js/header/header.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "49",
+            "url": "https://vanilla.futurecdn.net/livescience/165949/media/js/header/header.js",
+            "lineNumber": 15,
+            "columnNumber": 114941
+          },
+          {
+            "functionName": "",
+            "scriptId": "49",
+            "url": "https://vanilla.futurecdn.net/livescience/165949/media/js/header/header.js",
+            "lineNumber": 41,
+            "columnNumber": 185311
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot create property 'supplement' on boolean 'false'\n    at Object.fromError (https://vanilla.futurecdn.net/livescience/165949/media/js/header/header.js:16:114942)\n    at https://vanilla.futurecdn.net/livescience/165949/media/js/header/header.js:42:185312",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot create property 'supplement' on boolean 'false'\n    at Object.fromError (https://vanilla.futurecdn.net/livescience/165949/media/js/header/header.js:16:114942)\n    at https://vanilla.futurecdn.net/livescience/165949/media/js/header/header.js:42:185312",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot create property 'supplement' on …cience/165949/media/js/header/header.js:42:185312"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot create property 'supplement' on boolean 'false'"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

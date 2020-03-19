@@ -1,0 +1,77 @@
+[
+  {
+    "timestamp": 1583006571335.198,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 131,
+      "columnNumber": 17,
+      "url": "https://www.yellowpages.ae/script/landingpage1.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "34",
+            "url": "https://www.yellowpages.ae/script/landingpage1.js",
+            "lineNumber": 131,
+            "columnNumber": 17
+          },
+          {
+            "functionName": "c",
+            "scriptId": "31",
+            "url": "https://www.yellowpages.ae/resources/js/jquery-1.9.1.min.js",
+            "lineNumber": 2,
+            "columnNumber": 7856
+          },
+          {
+            "functionName": "fireWith",
+            "scriptId": "31",
+            "url": "https://www.yellowpages.ae/resources/js/jquery-1.9.1.min.js",
+            "lineNumber": 2,
+            "columnNumber": 8657
+          },
+          {
+            "functionName": "ready",
+            "scriptId": "31",
+            "url": "https://www.yellowpages.ae/resources/js/jquery-1.9.1.min.js",
+            "lineNumber": 2,
+            "columnNumber": 3265
+          },
+          {
+            "functionName": "H",
+            "scriptId": "31",
+            "url": "https://www.yellowpages.ae/resources/js/jquery-1.9.1.min.js",
+            "lineNumber": 2,
+            "columnNumber": 694
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot set property 'onclick' of undefined\n    at HTMLDocument.<anonymous> (https://www.yellowpages.ae/script/landingpage1.js:132:18)\n    at c (https://www.yellowpages.ae/resources/js/jquery-1.9.1.min.js:3:7857)\n    at Object.fireWith [as resolveWith] (https://www.yellowpages.ae/resources/js/jquery-1.9.1.min.js:3:8658)\n    at Function.ready (https://www.yellowpages.ae/resources/js/jquery-1.9.1.min.js:3:3266)\n    at HTMLDocument.H (https://www.yellowpages.ae/resources/js/jquery-1.9.1.min.js:3:695)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot set property 'onclick' of undefined\n    at HTMLDocument.<anonymous> (https://www.yellowpages.ae/script/landingpage1.js:132:18)\n    at c (https://www.yellowpages.ae/resources/js/jquery-1.9.1.min.js:3:7857)\n    at Object.fireWith [as resolveWith] (https://www.yellowpages.ae/resources/js/jquery-1.9.1.min.js:3:8658)\n    at Function.ready (https://www.yellowpages.ae/resources/js/jquery-1.9.1.min.js:3:3266)\n    at HTMLDocument.H (https://www.yellowpages.ae/resources/js/jquery-1.9.1.min.js:3:695)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot set property 'onclick' of undefi…wpages.ae/resources/js/jquery-1.9.1.min.js:3:695)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot set property 'onclick' of undefined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

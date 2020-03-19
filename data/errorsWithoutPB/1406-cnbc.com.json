@@ -1,0 +1,63 @@
+[
+  {
+    "timestamp": 1582819172812.583,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 0,
+      "columnNumber": 2700,
+      "url": "https://c.evidon.com/pub/tag.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "init",
+            "scriptId": "369",
+            "url": "https://c.evidon.com/pub/tag.js",
+            "lineNumber": 0,
+            "columnNumber": 2700
+          },
+          {
+            "functionName": "",
+            "scriptId": "369",
+            "url": "https://c.evidon.com/pub/tag.js",
+            "lineNumber": 0,
+            "columnNumber": 2914
+          },
+          {
+            "functionName": "",
+            "scriptId": "369",
+            "url": "https://c.evidon.com/pub/tag.js",
+            "lineNumber": 0,
+            "columnNumber": 2930
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot set property 'onclick' of null\n    at a.init (https://c.evidon.com/pub/tag.js:1:2701)\n    at https://c.evidon.com/pub/tag.js:1:2915\n    at https://c.evidon.com/pub/tag.js:1:2931",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot set property 'onclick' of null\n    at a.init (https://c.evidon.com/pub/tag.js:1:2701)\n    at https://c.evidon.com/pub/tag.js:1:2915\n    at https://c.evidon.com/pub/tag.js:1:2931",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot set property 'onclick' of null\n …915\n    at https://c.evidon.com/pub/tag.js:1:2931"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot set property 'onclick' of null"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

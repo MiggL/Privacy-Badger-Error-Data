@@ -1,0 +1,96 @@
+[
+  {
+    "timestamp": 1583757474334.006,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 11,
+      "columnNumber": 53,
+      "url": "https://www.theguardian.com/notesandqueries/query/0,5753,-20086,00.html",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "24",
+            "url": "https://www.theguardian.com/notesandqueries/query/0,5753,-20086,00.html",
+            "lineNumber": 11,
+            "columnNumber": 53
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: s is not defined\n    at https://www.theguardian.com/notesandqueries/query/0,5753,-20086,00.html:12:54",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: s is not defined\n    at https://www.theguardian.com/notesandqueries/query/0,5753,-20086,00.html:12:54",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: s is not defined\n    at https://ww…notesandqueries/query/0,5753,-20086,00.html:12:54"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "s is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583757474992.186,
+    "exceptionDetails": {
+      "exceptionId": 2,
+      "text": "Uncaught",
+      "lineNumber": 47,
+      "columnNumber": 43,
+      "url": "https://www.theguardian.com/external/RS/DartCookie/0,,,00.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "35",
+            "url": "https://www.theguardian.com/external/RS/DartCookie/0,,,00.js",
+            "lineNumber": 47,
+            "columnNumber": 43
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: rsinetsegs is not defined\n    at https://www.theguardian.com/external/RS/DartCookie/0,,,00.js:48:44",
+        "objectId": "{\"injectedScriptId\":3,\"id\":2}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: rsinetsegs is not defined\n    at https://www.theguardian.com/external/RS/DartCookie/0,,,00.js:48:44",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: rsinetsegs is not defined\n    at h…ardian.com/external/RS/DartCookie/0,,,00.js:48:44"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "rsinetsegs is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

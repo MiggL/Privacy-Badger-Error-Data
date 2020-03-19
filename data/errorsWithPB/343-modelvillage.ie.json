@@ -1,0 +1,63 @@
+[
+  {
+    "timestamp": 1583751457345.0662,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 227,
+      "columnNumber": 14287,
+      "url": "https://www.modelvillage.ie/wp-content/cache/autoptimize/js/autoptimize_8b6fa14579fa87eb159751ecba7edfb7.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "28",
+            "url": "https://www.modelvillage.ie/wp-content/cache/autoptimize/js/autoptimize_8b6fa14579fa87eb159751ecba7edfb7.js",
+            "lineNumber": 227,
+            "columnNumber": 14287
+          },
+          {
+            "functionName": "dispatch",
+            "scriptId": "21",
+            "url": "https://www.modelvillage.ie/wp-content/cache/wpfc-minified/m0wj39b9/bxwx4.js",
+            "lineNumber": 3,
+            "columnNumber": 12368
+          },
+          {
+            "functionName": "r.handle",
+            "scriptId": "21",
+            "url": "https://www.modelvillage.ie/wp-content/cache/wpfc-minified/m0wj39b9/bxwx4.js",
+            "lineNumber": 3,
+            "columnNumber": 9087
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: e.fancybox.getInstance is not a function\n    at HTMLDocument.<anonymous> (https://www.modelvillage.ie/wp-content/cache/autoptimize/js/autoptimize_8b6fa14579fa87eb159751ecba7edfb7.js:228:14288)\n    at HTMLDocument.dispatch (https://www.modelvillage.ie/wp-content/cache/wpfc-minified/m0wj39b9/bxwx4.js:4:12369)\n    at HTMLDocument.r.handle (https://www.modelvillage.ie/wp-content/cache/wpfc-minified/m0wj39b9/bxwx4.js:4:9088)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: e.fancybox.getInstance is not a function\n    at HTMLDocument.<anonymous> (https://www.modelvillage.ie/wp-content/cache/autoptimize/js/autoptimize_8b6fa14579fa87eb159751ecba7edfb7.js:228:14288)\n    at HTMLDocument.dispatch (https://www.modelvillage.ie/wp-content/cache/wpfc-minified/m0wj39b9/bxwx4.js:4:12369)\n    at HTMLDocument.r.handle (https://www.modelvillage.ie/wp-content/cache/wpfc-minified/m0wj39b9/bxwx4.js:4:9088)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: e.fancybox.getInstance is not a functio…ent/cache/wpfc-minified/m0wj39b9/bxwx4.js:4:9088)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "e.fancybox.getInstance is not a function"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

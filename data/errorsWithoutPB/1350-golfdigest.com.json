@@ -1,0 +1,195 @@
+[
+  {
+    "timestamp": 1583000927391.738,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught (in promise)",
+      "lineNumber": 0,
+      "columnNumber": 2033,
+      "url": "https://www.golfdigest.com/hotzones/src/pixelpropagate.js?cb=10120",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "beaconErr",
+            "scriptId": "80",
+            "url": "https://www.golfdigest.com/hotzones/src/pixelpropagate.js?cb=10120",
+            "lineNumber": 0,
+            "columnNumber": 2033
+          }
+        ]
+      },
+      "exception": {
+        "type": "undefined"
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583000931136.078,
+    "exceptionDetails": {
+      "exceptionId": 2,
+      "text": "Uncaught (in promise)",
+      "lineNumber": 47,
+      "columnNumber": 1580,
+      "url": "https://www.facebook.com/rsrc.php/v3/yU/r/rGQu7wg4aCs.js?_nc_x=Ij3Wp8lg5Kz",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "1143",
+            "url": "https://www.facebook.com/rsrc.php/v3/yU/r/rGQu7wg4aCs.js?_nc_x=Ij3Wp8lg5Kz",
+            "lineNumber": 47,
+            "columnNumber": 1580
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "DOMException",
+        "description": "DOMException: Failed to execute 'addSourceBuffer' on 'MediaSource': The type provided ('video/mp4; codecs=\"avc1.64001f\"') is unsupported.\n    at https://www.facebook.com/rsrc.php/v3/yU/r/rGQu7wg4aCs.js?_nc_x=Ij3Wp8lg5Kz:48:1581",
+        "objectId": "{\"injectedScriptId\":82,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "DOMException: Failed to execute 'addSourceBuffer' on 'MediaSource': The type provided ('video/mp4; codecs=\"avc1.64001f\"') is unsupported.\n    at https://www.facebook.com/rsrc.php/v3/yU/r/rGQu7wg4aCs.js?_nc_x=Ij3Wp8lg5Kz:48:1581",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "accessor"
+            },
+            {
+              "name": "code",
+              "type": "number",
+              "value": "9"
+            },
+            {
+              "name": "name",
+              "type": "string",
+              "value": "NotSupportedError"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Failed to execute 'addSourceBuffer' on 'MediaSourc…video/mp4; codecs=\"avc1.64001f\"') is unsupported."
+            }
+          ]
+        }
+      },
+      "executionContextId": 82
+    }
+  },
+  {
+    "timestamp": 1583000931136.3572,
+    "exceptionDetails": {
+      "exceptionId": 3,
+      "text": "Uncaught (in promise)",
+      "lineNumber": 47,
+      "columnNumber": 1580,
+      "url": "https://www.facebook.com/rsrc.php/v3/yU/r/rGQu7wg4aCs.js?_nc_x=Ij3Wp8lg5Kz",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "1143",
+            "url": "https://www.facebook.com/rsrc.php/v3/yU/r/rGQu7wg4aCs.js?_nc_x=Ij3Wp8lg5Kz",
+            "lineNumber": 47,
+            "columnNumber": 1580
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "DOMException",
+        "description": "DOMException: Failed to execute 'addSourceBuffer' on 'MediaSource': The type provided ('video/mp4; codecs=\"avc1.64001f\"') is unsupported.\n    at https://www.facebook.com/rsrc.php/v3/yU/r/rGQu7wg4aCs.js?_nc_x=Ij3Wp8lg5Kz:48:1581",
+        "objectId": "{\"injectedScriptId\":82,\"id\":2}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "DOMException: Failed to execute 'addSourceBuffer' on 'MediaSource': The type provided ('video/mp4; codecs=\"avc1.64001f\"') is unsupported.\n    at https://www.facebook.com/rsrc.php/v3/yU/r/rGQu7wg4aCs.js?_nc_x=Ij3Wp8lg5Kz:48:1581",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "accessor"
+            },
+            {
+              "name": "code",
+              "type": "number",
+              "value": "9"
+            },
+            {
+              "name": "name",
+              "type": "string",
+              "value": "NotSupportedError"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Failed to execute 'addSourceBuffer' on 'MediaSourc…video/mp4; codecs=\"avc1.64001f\"') is unsupported."
+            }
+          ]
+        }
+      },
+      "executionContextId": 82
+    }
+  },
+  {
+    "timestamp": 1583000931136.583,
+    "exceptionDetails": {
+      "exceptionId": 4,
+      "text": "Uncaught (in promise)",
+      "lineNumber": 47,
+      "columnNumber": 1580,
+      "url": "https://www.facebook.com/rsrc.php/v3/yU/r/rGQu7wg4aCs.js?_nc_x=Ij3Wp8lg5Kz",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "1143",
+            "url": "https://www.facebook.com/rsrc.php/v3/yU/r/rGQu7wg4aCs.js?_nc_x=Ij3Wp8lg5Kz",
+            "lineNumber": 47,
+            "columnNumber": 1580
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "DOMException",
+        "description": "DOMException: Failed to execute 'addSourceBuffer' on 'MediaSource': The type provided ('audio/mp4; codecs=\"mp4a.40.29\"') is unsupported.\n    at https://www.facebook.com/rsrc.php/v3/yU/r/rGQu7wg4aCs.js?_nc_x=Ij3Wp8lg5Kz:48:1581",
+        "objectId": "{\"injectedScriptId\":82,\"id\":3}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "DOMException: Failed to execute 'addSourceBuffer' on 'MediaSource': The type provided ('audio/mp4; codecs=\"mp4a.40.29\"') is unsupported.\n    at https://www.facebook.com/rsrc.php/v3/yU/r/rGQu7wg4aCs.js?_nc_x=Ij3Wp8lg5Kz:48:1581",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "accessor"
+            },
+            {
+              "name": "code",
+              "type": "number",
+              "value": "9"
+            },
+            {
+              "name": "name",
+              "type": "string",
+              "value": "NotSupportedError"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Failed to execute 'addSourceBuffer' on 'MediaSourc…'audio/mp4; codecs=\"mp4a.40.29\"') is unsupported."
+            }
+          ]
+        }
+      },
+      "executionContextId": 82
+    }
+  }
+]

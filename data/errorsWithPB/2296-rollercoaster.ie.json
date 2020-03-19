@@ -1,0 +1,49 @@
+[
+  {
+    "timestamp": 1582893855505.486,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 1467,
+      "columnNumber": 56,
+      "url": "https://rollercoaster.ie/Discussions/tabid/119/ForumThread/141505952/Default.aspx",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "53",
+            "url": "https://rollercoaster.ie/Discussions/tabid/119/ForumThread/141505952/Default.aspx",
+            "lineNumber": 1467,
+            "columnNumber": 56
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot set property 'checked' of null\n    at https://rollercoaster.ie/Discussions/tabid/119/ForumThread/141505952/Default.aspx:1468:57",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot set property 'checked' of null\n    at https://rollercoaster.ie/Discussions/tabid/119/ForumThread/141505952/Default.aspx:1468:57",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot set property 'checked' of null\n …id/119/ForumThread/141505952/Default.aspx:1468:57"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot set property 'checked' of null"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

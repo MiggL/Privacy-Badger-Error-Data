@@ -1,0 +1,138 @@
+[
+  {
+    "timestamp": 1583424691403.128,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 103,
+      "columnNumber": 2,
+      "url": "https://www.prisonstudies.org/highest-to-lowest/prison-population-total",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "35",
+            "url": "https://www.prisonstudies.org/highest-to-lowest/prison-population-total",
+            "lineNumber": 103,
+            "columnNumber": 2
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: jQuery(...).ready(...) is not a function\n    at https://www.prisonstudies.org/highest-to-lowest/prison-population-total:104:3",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: jQuery(...).ready(...) is not a function\n    at https://www.prisonstudies.org/highest-to-lowest/prison-population-total:104:3",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: jQuery(...).ready(...) is not a functio…g/highest-to-lowest/prison-population-total:104:3"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "jQuery(...).ready(...) is not a function"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583424691645.564,
+    "exceptionDetails": {
+      "exceptionId": 2,
+      "text": "Uncaught",
+      "lineNumber": 93,
+      "columnNumber": 25,
+      "url": "https://www.prisonstudies.org/sites/all/themes/omega/omega/js/omega-mediaqueries.js?pyr6c5",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "attach",
+            "scriptId": "42",
+            "url": "https://www.prisonstudies.org/sites/all/themes/omega/omega/js/omega-mediaqueries.js?pyr6c5",
+            "lineNumber": 93,
+            "columnNumber": 25
+          },
+          {
+            "functionName": "",
+            "scriptId": "27",
+            "url": "https://www.prisonstudies.org/misc/drupal.js?pyr6c5",
+            "lineNumber": 111,
+            "columnNumber": 11
+          },
+          {
+            "functionName": "each",
+            "scriptId": "22",
+            "url": "https://www.prisonstudies.org/misc/jquery.js?v=1.4.4",
+            "lineNumber": 32,
+            "columnNumber": 532
+          },
+          {
+            "functionName": "Drupal.attachBehaviors",
+            "scriptId": "27",
+            "url": "https://www.prisonstudies.org/misc/drupal.js?pyr6c5",
+            "lineNumber": 109,
+            "columnNumber": 4
+          },
+          {
+            "functionName": "",
+            "scriptId": "27",
+            "url": "https://www.prisonstudies.org/misc/drupal.js?pyr6c5",
+            "lineNumber": 592,
+            "columnNumber": 9
+          },
+          {
+            "functionName": "ready",
+            "scriptId": "22",
+            "url": "https://www.prisonstudies.org/misc/jquery.js?v=1.4.4",
+            "lineNumber": 29,
+            "columnNumber": 167
+          },
+          {
+            "functionName": "u",
+            "scriptId": "22",
+            "url": "https://www.prisonstudies.org/misc/jquery.js?v=1.4.4",
+            "lineNumber": 37,
+            "columnNumber": 9
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: $(...).once is not a function\n    at Object.attach (https://www.prisonstudies.org/sites/all/themes/omega/omega/js/omega-mediaqueries.js?pyr6c5:94:26)\n    at Object.<anonymous> (https://www.prisonstudies.org/misc/drupal.js?pyr6c5:112:12)\n    at Function.each (https://www.prisonstudies.org/misc/jquery.js?v=1.4.4:33:533)\n    at Object.Drupal.attachBehaviors (https://www.prisonstudies.org/misc/drupal.js?pyr6c5:110:5)\n    at HTMLDocument.<anonymous> (https://www.prisonstudies.org/misc/drupal.js?pyr6c5:593:10)\n    at Function.ready (https://www.prisonstudies.org/misc/jquery.js?v=1.4.4:30:168)\n    at HTMLDocument.u (https://www.prisonstudies.org/misc/jquery.js?v=1.4.4:38:10)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":2}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: $(...).once is not a function\n    at Object.attach (https://www.prisonstudies.org/sites/all/themes/omega/omega/js/omega-mediaqueries.js?pyr6c5:94:26)\n    at Object.<anonymous> (https://www.prisonstudies.org/misc/drupal.js?pyr6c5:112:12)\n    at Function.each (https://www.prisonstudies.org/misc/jquery.js?v=1.4.4:33:533)\n    at Object.Drupal.attachBehaviors (https://www.prisonstudies.org/misc/drupal.js?pyr6c5:110:5)\n    at HTMLDocument.<anonymous> (https://www.prisonstudies.org/misc/drupal.js?pyr6c5:593:10)\n    at Function.ready (https://www.prisonstudies.org/misc/jquery.js?v=1.4.4:30:168)\n    at HTMLDocument.u (https://www.prisonstudies.org/misc/jquery.js?v=1.4.4:38:10)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: $(...).once is not a function\n    at Ob…w.prisonstudies.org/misc/jquery.js?v=1.4.4:38:10)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "$(...).once is not a function"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

@@ -1,0 +1,96 @@
+[
+  {
+    "timestamp": 1583759171877.514,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 2405,
+      "columnNumber": 4,
+      "url": "https://www.mysanantonio.com/news/local/crime/article/La-Vernia-high-school-athletes-arrested-on-sexual-11023501.php",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "64",
+            "url": "https://www.mysanantonio.com/news/local/crime/article/La-Vernia-high-school-athletes-arrested-on-sexual-11023501.php",
+            "lineNumber": 2405,
+            "columnNumber": 4
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: iFrameResize is not defined\n    at https://www.mysanantonio.com/news/local/crime/article/La-Vernia-high-school-athletes-arrested-on-sexual-11023501.php:2406:5",
+        "objectId": "{\"injectedScriptId\":3,\"id\":5}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: iFrameResize is not defined\n    at https://www.mysanantonio.com/news/local/crime/article/La-Vernia-high-school-athletes-arrested-on-sexual-11023501.php:2406:5",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: iFrameResize is not defined\n    at…l-athletes-arrested-on-sexual-11023501.php:2406:5"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "iFrameResize is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583759171942.048,
+    "exceptionDetails": {
+      "exceptionId": 2,
+      "text": "Uncaught",
+      "lineNumber": 454,
+      "columnNumber": 82,
+      "url": "https://www.mysanantonio.com/news/local/crime/article/La-Vernia-high-school-athletes-arrested-on-sexual-11023501.php",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "37",
+            "url": "https://www.mysanantonio.com/news/local/crime/article/La-Vernia-high-school-athletes-arrested-on-sexual-11023501.php",
+            "lineNumber": 454,
+            "columnNumber": 82
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'style' of undefined\n    at https://www.mysanantonio.com/news/local/crime/article/La-Vernia-high-school-athletes-arrested-on-sexual-11023501.php:455:83",
+        "objectId": "{\"injectedScriptId\":3,\"id\":6}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'style' of undefined\n    at https://www.mysanantonio.com/news/local/crime/article/La-Vernia-high-school-athletes-arrested-on-sexual-11023501.php:455:83",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'style' of undefin…l-athletes-arrested-on-sexual-11023501.php:455:83"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'style' of undefined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

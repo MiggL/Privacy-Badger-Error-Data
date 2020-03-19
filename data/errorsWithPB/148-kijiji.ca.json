@@ -1,0 +1,1082 @@
+[
+  {
+    "timestamp": 1583758006579.7961,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 4,
+      "columnNumber": 69701,
+      "url": "https://ca.classistatic.com/static/V/8997.2/js/common.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "a",
+            "scriptId": "37",
+            "url": "https://ca.classistatic.com/static/V/8997.2/js/common.js",
+            "lineNumber": 4,
+            "columnNumber": 69701
+          },
+          {
+            "functionName": "",
+            "scriptId": "37",
+            "url": "https://ca.classistatic.com/static/V/8997.2/js/common.js",
+            "lineNumber": 4,
+            "columnNumber": 70034
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'get' of undefined\n    at a (https://ca.classistatic.com/static/V/8997.2/js/common.js:5:69702)\n    at https://ca.classistatic.com/static/V/8997.2/js/common.js:5:70035",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'get' of undefined\n    at a (https://ca.classistatic.com/static/V/8997.2/js/common.js:5:69702)\n    at https://ca.classistatic.com/static/V/8997.2/js/common.js:5:70035",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'get' of undefined…sistatic.com/static/V/8997.2/js/common.js:5:70035"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'get' of undefined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583758006697.758,
+    "exceptionDetails": {
+      "exceptionId": 2,
+      "text": "Uncaught",
+      "lineNumber": 4,
+      "columnNumber": 69701,
+      "url": "https://ca.classistatic.com/static/V/8997.2/js/common.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "a",
+            "scriptId": "37",
+            "url": "https://ca.classistatic.com/static/V/8997.2/js/common.js",
+            "lineNumber": 4,
+            "columnNumber": 69701
+          },
+          {
+            "functionName": "",
+            "scriptId": "37",
+            "url": "https://ca.classistatic.com/static/V/8997.2/js/common.js",
+            "lineNumber": 4,
+            "columnNumber": 70034
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'get' of undefined\n    at a (https://ca.classistatic.com/static/V/8997.2/js/common.js:5:69702)\n    at https://ca.classistatic.com/static/V/8997.2/js/common.js:5:70035",
+        "objectId": "{\"injectedScriptId\":3,\"id\":2}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'get' of undefined\n    at a (https://ca.classistatic.com/static/V/8997.2/js/common.js:5:69702)\n    at https://ca.classistatic.com/static/V/8997.2/js/common.js:5:70035",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'get' of undefined…sistatic.com/static/V/8997.2/js/common.js:5:70035"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'get' of undefined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583758006758.8142,
+    "exceptionDetails": {
+      "exceptionId": 3,
+      "text": "Uncaught",
+      "lineNumber": 4,
+      "columnNumber": 69701,
+      "url": "https://ca.classistatic.com/static/V/8997.2/js/common.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "a",
+            "scriptId": "37",
+            "url": "https://ca.classistatic.com/static/V/8997.2/js/common.js",
+            "lineNumber": 4,
+            "columnNumber": 69701
+          },
+          {
+            "functionName": "",
+            "scriptId": "37",
+            "url": "https://ca.classistatic.com/static/V/8997.2/js/common.js",
+            "lineNumber": 4,
+            "columnNumber": 70034
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'get' of undefined\n    at a (https://ca.classistatic.com/static/V/8997.2/js/common.js:5:69702)\n    at https://ca.classistatic.com/static/V/8997.2/js/common.js:5:70035",
+        "objectId": "{\"injectedScriptId\":3,\"id\":3}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'get' of undefined\n    at a (https://ca.classistatic.com/static/V/8997.2/js/common.js:5:69702)\n    at https://ca.classistatic.com/static/V/8997.2/js/common.js:5:70035",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'get' of undefined…sistatic.com/static/V/8997.2/js/common.js:5:70035"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'get' of undefined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583758006857.479,
+    "exceptionDetails": {
+      "exceptionId": 4,
+      "text": "Uncaught",
+      "lineNumber": 4,
+      "columnNumber": 69701,
+      "url": "https://ca.classistatic.com/static/V/8997.2/js/common.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "a",
+            "scriptId": "37",
+            "url": "https://ca.classistatic.com/static/V/8997.2/js/common.js",
+            "lineNumber": 4,
+            "columnNumber": 69701
+          },
+          {
+            "functionName": "",
+            "scriptId": "37",
+            "url": "https://ca.classistatic.com/static/V/8997.2/js/common.js",
+            "lineNumber": 4,
+            "columnNumber": 70034
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'get' of undefined\n    at a (https://ca.classistatic.com/static/V/8997.2/js/common.js:5:69702)\n    at https://ca.classistatic.com/static/V/8997.2/js/common.js:5:70035",
+        "objectId": "{\"injectedScriptId\":3,\"id\":4}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'get' of undefined\n    at a (https://ca.classistatic.com/static/V/8997.2/js/common.js:5:69702)\n    at https://ca.classistatic.com/static/V/8997.2/js/common.js:5:70035",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'get' of undefined…sistatic.com/static/V/8997.2/js/common.js:5:70035"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'get' of undefined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583758006957.733,
+    "exceptionDetails": {
+      "exceptionId": 5,
+      "text": "Uncaught",
+      "lineNumber": 4,
+      "columnNumber": 69701,
+      "url": "https://ca.classistatic.com/static/V/8997.2/js/common.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "a",
+            "scriptId": "37",
+            "url": "https://ca.classistatic.com/static/V/8997.2/js/common.js",
+            "lineNumber": 4,
+            "columnNumber": 69701
+          },
+          {
+            "functionName": "",
+            "scriptId": "37",
+            "url": "https://ca.classistatic.com/static/V/8997.2/js/common.js",
+            "lineNumber": 4,
+            "columnNumber": 70034
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'get' of undefined\n    at a (https://ca.classistatic.com/static/V/8997.2/js/common.js:5:69702)\n    at https://ca.classistatic.com/static/V/8997.2/js/common.js:5:70035",
+        "objectId": "{\"injectedScriptId\":3,\"id\":5}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'get' of undefined\n    at a (https://ca.classistatic.com/static/V/8997.2/js/common.js:5:69702)\n    at https://ca.classistatic.com/static/V/8997.2/js/common.js:5:70035",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'get' of undefined…sistatic.com/static/V/8997.2/js/common.js:5:70035"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'get' of undefined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583758007057.83,
+    "exceptionDetails": {
+      "exceptionId": 6,
+      "text": "Uncaught",
+      "lineNumber": 4,
+      "columnNumber": 69701,
+      "url": "https://ca.classistatic.com/static/V/8997.2/js/common.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "a",
+            "scriptId": "37",
+            "url": "https://ca.classistatic.com/static/V/8997.2/js/common.js",
+            "lineNumber": 4,
+            "columnNumber": 69701
+          },
+          {
+            "functionName": "",
+            "scriptId": "37",
+            "url": "https://ca.classistatic.com/static/V/8997.2/js/common.js",
+            "lineNumber": 4,
+            "columnNumber": 70034
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'get' of undefined\n    at a (https://ca.classistatic.com/static/V/8997.2/js/common.js:5:69702)\n    at https://ca.classistatic.com/static/V/8997.2/js/common.js:5:70035",
+        "objectId": "{\"injectedScriptId\":3,\"id\":6}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'get' of undefined\n    at a (https://ca.classistatic.com/static/V/8997.2/js/common.js:5:69702)\n    at https://ca.classistatic.com/static/V/8997.2/js/common.js:5:70035",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'get' of undefined…sistatic.com/static/V/8997.2/js/common.js:5:70035"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'get' of undefined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583758007157.643,
+    "exceptionDetails": {
+      "exceptionId": 7,
+      "text": "Uncaught",
+      "lineNumber": 4,
+      "columnNumber": 69701,
+      "url": "https://ca.classistatic.com/static/V/8997.2/js/common.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "a",
+            "scriptId": "37",
+            "url": "https://ca.classistatic.com/static/V/8997.2/js/common.js",
+            "lineNumber": 4,
+            "columnNumber": 69701
+          },
+          {
+            "functionName": "",
+            "scriptId": "37",
+            "url": "https://ca.classistatic.com/static/V/8997.2/js/common.js",
+            "lineNumber": 4,
+            "columnNumber": 70034
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'get' of undefined\n    at a (https://ca.classistatic.com/static/V/8997.2/js/common.js:5:69702)\n    at https://ca.classistatic.com/static/V/8997.2/js/common.js:5:70035",
+        "objectId": "{\"injectedScriptId\":3,\"id\":7}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'get' of undefined\n    at a (https://ca.classistatic.com/static/V/8997.2/js/common.js:5:69702)\n    at https://ca.classistatic.com/static/V/8997.2/js/common.js:5:70035",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'get' of undefined…sistatic.com/static/V/8997.2/js/common.js:5:70035"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'get' of undefined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583758007257.668,
+    "exceptionDetails": {
+      "exceptionId": 8,
+      "text": "Uncaught",
+      "lineNumber": 4,
+      "columnNumber": 69701,
+      "url": "https://ca.classistatic.com/static/V/8997.2/js/common.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "a",
+            "scriptId": "37",
+            "url": "https://ca.classistatic.com/static/V/8997.2/js/common.js",
+            "lineNumber": 4,
+            "columnNumber": 69701
+          },
+          {
+            "functionName": "",
+            "scriptId": "37",
+            "url": "https://ca.classistatic.com/static/V/8997.2/js/common.js",
+            "lineNumber": 4,
+            "columnNumber": 70034
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'get' of undefined\n    at a (https://ca.classistatic.com/static/V/8997.2/js/common.js:5:69702)\n    at https://ca.classistatic.com/static/V/8997.2/js/common.js:5:70035",
+        "objectId": "{\"injectedScriptId\":3,\"id\":8}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'get' of undefined\n    at a (https://ca.classistatic.com/static/V/8997.2/js/common.js:5:69702)\n    at https://ca.classistatic.com/static/V/8997.2/js/common.js:5:70035",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'get' of undefined…sistatic.com/static/V/8997.2/js/common.js:5:70035"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'get' of undefined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583758007357.579,
+    "exceptionDetails": {
+      "exceptionId": 9,
+      "text": "Uncaught",
+      "lineNumber": 4,
+      "columnNumber": 69701,
+      "url": "https://ca.classistatic.com/static/V/8997.2/js/common.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "a",
+            "scriptId": "37",
+            "url": "https://ca.classistatic.com/static/V/8997.2/js/common.js",
+            "lineNumber": 4,
+            "columnNumber": 69701
+          },
+          {
+            "functionName": "",
+            "scriptId": "37",
+            "url": "https://ca.classistatic.com/static/V/8997.2/js/common.js",
+            "lineNumber": 4,
+            "columnNumber": 70034
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'get' of undefined\n    at a (https://ca.classistatic.com/static/V/8997.2/js/common.js:5:69702)\n    at https://ca.classistatic.com/static/V/8997.2/js/common.js:5:70035",
+        "objectId": "{\"injectedScriptId\":3,\"id\":9}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'get' of undefined\n    at a (https://ca.classistatic.com/static/V/8997.2/js/common.js:5:69702)\n    at https://ca.classistatic.com/static/V/8997.2/js/common.js:5:70035",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'get' of undefined…sistatic.com/static/V/8997.2/js/common.js:5:70035"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'get' of undefined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583758007467.7688,
+    "exceptionDetails": {
+      "exceptionId": 10,
+      "text": "Uncaught",
+      "lineNumber": 4,
+      "columnNumber": 69701,
+      "url": "https://ca.classistatic.com/static/V/8997.2/js/common.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "a",
+            "scriptId": "37",
+            "url": "https://ca.classistatic.com/static/V/8997.2/js/common.js",
+            "lineNumber": 4,
+            "columnNumber": 69701
+          },
+          {
+            "functionName": "",
+            "scriptId": "37",
+            "url": "https://ca.classistatic.com/static/V/8997.2/js/common.js",
+            "lineNumber": 4,
+            "columnNumber": 70034
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'get' of undefined\n    at a (https://ca.classistatic.com/static/V/8997.2/js/common.js:5:69702)\n    at https://ca.classistatic.com/static/V/8997.2/js/common.js:5:70035",
+        "objectId": "{\"injectedScriptId\":3,\"id\":10}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'get' of undefined\n    at a (https://ca.classistatic.com/static/V/8997.2/js/common.js:5:69702)\n    at https://ca.classistatic.com/static/V/8997.2/js/common.js:5:70035",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'get' of undefined…sistatic.com/static/V/8997.2/js/common.js:5:70035"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'get' of undefined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583758007557.803,
+    "exceptionDetails": {
+      "exceptionId": 11,
+      "text": "Uncaught",
+      "lineNumber": 4,
+      "columnNumber": 69701,
+      "url": "https://ca.classistatic.com/static/V/8997.2/js/common.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "a",
+            "scriptId": "37",
+            "url": "https://ca.classistatic.com/static/V/8997.2/js/common.js",
+            "lineNumber": 4,
+            "columnNumber": 69701
+          },
+          {
+            "functionName": "",
+            "scriptId": "37",
+            "url": "https://ca.classistatic.com/static/V/8997.2/js/common.js",
+            "lineNumber": 4,
+            "columnNumber": 70034
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'get' of undefined\n    at a (https://ca.classistatic.com/static/V/8997.2/js/common.js:5:69702)\n    at https://ca.classistatic.com/static/V/8997.2/js/common.js:5:70035",
+        "objectId": "{\"injectedScriptId\":3,\"id\":11}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'get' of undefined\n    at a (https://ca.classistatic.com/static/V/8997.2/js/common.js:5:69702)\n    at https://ca.classistatic.com/static/V/8997.2/js/common.js:5:70035",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'get' of undefined…sistatic.com/static/V/8997.2/js/common.js:5:70035"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'get' of undefined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583758007657.603,
+    "exceptionDetails": {
+      "exceptionId": 12,
+      "text": "Uncaught",
+      "lineNumber": 4,
+      "columnNumber": 69701,
+      "url": "https://ca.classistatic.com/static/V/8997.2/js/common.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "a",
+            "scriptId": "37",
+            "url": "https://ca.classistatic.com/static/V/8997.2/js/common.js",
+            "lineNumber": 4,
+            "columnNumber": 69701
+          },
+          {
+            "functionName": "",
+            "scriptId": "37",
+            "url": "https://ca.classistatic.com/static/V/8997.2/js/common.js",
+            "lineNumber": 4,
+            "columnNumber": 70034
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'get' of undefined\n    at a (https://ca.classistatic.com/static/V/8997.2/js/common.js:5:69702)\n    at https://ca.classistatic.com/static/V/8997.2/js/common.js:5:70035",
+        "objectId": "{\"injectedScriptId\":3,\"id\":12}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'get' of undefined\n    at a (https://ca.classistatic.com/static/V/8997.2/js/common.js:5:69702)\n    at https://ca.classistatic.com/static/V/8997.2/js/common.js:5:70035",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'get' of undefined…sistatic.com/static/V/8997.2/js/common.js:5:70035"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'get' of undefined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583758007757.8389,
+    "exceptionDetails": {
+      "exceptionId": 13,
+      "text": "Uncaught",
+      "lineNumber": 4,
+      "columnNumber": 69701,
+      "url": "https://ca.classistatic.com/static/V/8997.2/js/common.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "a",
+            "scriptId": "37",
+            "url": "https://ca.classistatic.com/static/V/8997.2/js/common.js",
+            "lineNumber": 4,
+            "columnNumber": 69701
+          },
+          {
+            "functionName": "",
+            "scriptId": "37",
+            "url": "https://ca.classistatic.com/static/V/8997.2/js/common.js",
+            "lineNumber": 4,
+            "columnNumber": 70034
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'get' of undefined\n    at a (https://ca.classistatic.com/static/V/8997.2/js/common.js:5:69702)\n    at https://ca.classistatic.com/static/V/8997.2/js/common.js:5:70035",
+        "objectId": "{\"injectedScriptId\":3,\"id\":13}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'get' of undefined\n    at a (https://ca.classistatic.com/static/V/8997.2/js/common.js:5:69702)\n    at https://ca.classistatic.com/static/V/8997.2/js/common.js:5:70035",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'get' of undefined…sistatic.com/static/V/8997.2/js/common.js:5:70035"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'get' of undefined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583758007857.584,
+    "exceptionDetails": {
+      "exceptionId": 14,
+      "text": "Uncaught",
+      "lineNumber": 4,
+      "columnNumber": 69701,
+      "url": "https://ca.classistatic.com/static/V/8997.2/js/common.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "a",
+            "scriptId": "37",
+            "url": "https://ca.classistatic.com/static/V/8997.2/js/common.js",
+            "lineNumber": 4,
+            "columnNumber": 69701
+          },
+          {
+            "functionName": "",
+            "scriptId": "37",
+            "url": "https://ca.classistatic.com/static/V/8997.2/js/common.js",
+            "lineNumber": 4,
+            "columnNumber": 70034
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'get' of undefined\n    at a (https://ca.classistatic.com/static/V/8997.2/js/common.js:5:69702)\n    at https://ca.classistatic.com/static/V/8997.2/js/common.js:5:70035",
+        "objectId": "{\"injectedScriptId\":3,\"id\":14}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'get' of undefined\n    at a (https://ca.classistatic.com/static/V/8997.2/js/common.js:5:69702)\n    at https://ca.classistatic.com/static/V/8997.2/js/common.js:5:70035",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'get' of undefined…sistatic.com/static/V/8997.2/js/common.js:5:70035"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'get' of undefined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583758007957.808,
+    "exceptionDetails": {
+      "exceptionId": 15,
+      "text": "Uncaught",
+      "lineNumber": 4,
+      "columnNumber": 69701,
+      "url": "https://ca.classistatic.com/static/V/8997.2/js/common.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "a",
+            "scriptId": "37",
+            "url": "https://ca.classistatic.com/static/V/8997.2/js/common.js",
+            "lineNumber": 4,
+            "columnNumber": 69701
+          },
+          {
+            "functionName": "",
+            "scriptId": "37",
+            "url": "https://ca.classistatic.com/static/V/8997.2/js/common.js",
+            "lineNumber": 4,
+            "columnNumber": 70034
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'get' of undefined\n    at a (https://ca.classistatic.com/static/V/8997.2/js/common.js:5:69702)\n    at https://ca.classistatic.com/static/V/8997.2/js/common.js:5:70035",
+        "objectId": "{\"injectedScriptId\":3,\"id\":15}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'get' of undefined\n    at a (https://ca.classistatic.com/static/V/8997.2/js/common.js:5:69702)\n    at https://ca.classistatic.com/static/V/8997.2/js/common.js:5:70035",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'get' of undefined…sistatic.com/static/V/8997.2/js/common.js:5:70035"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'get' of undefined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583758008057.749,
+    "exceptionDetails": {
+      "exceptionId": 16,
+      "text": "Uncaught",
+      "lineNumber": 4,
+      "columnNumber": 69701,
+      "url": "https://ca.classistatic.com/static/V/8997.2/js/common.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "a",
+            "scriptId": "37",
+            "url": "https://ca.classistatic.com/static/V/8997.2/js/common.js",
+            "lineNumber": 4,
+            "columnNumber": 69701
+          },
+          {
+            "functionName": "",
+            "scriptId": "37",
+            "url": "https://ca.classistatic.com/static/V/8997.2/js/common.js",
+            "lineNumber": 4,
+            "columnNumber": 70034
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'get' of undefined\n    at a (https://ca.classistatic.com/static/V/8997.2/js/common.js:5:69702)\n    at https://ca.classistatic.com/static/V/8997.2/js/common.js:5:70035",
+        "objectId": "{\"injectedScriptId\":3,\"id\":16}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'get' of undefined\n    at a (https://ca.classistatic.com/static/V/8997.2/js/common.js:5:69702)\n    at https://ca.classistatic.com/static/V/8997.2/js/common.js:5:70035",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'get' of undefined…sistatic.com/static/V/8997.2/js/common.js:5:70035"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'get' of undefined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583758008157.8071,
+    "exceptionDetails": {
+      "exceptionId": 17,
+      "text": "Uncaught",
+      "lineNumber": 4,
+      "columnNumber": 69701,
+      "url": "https://ca.classistatic.com/static/V/8997.2/js/common.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "a",
+            "scriptId": "37",
+            "url": "https://ca.classistatic.com/static/V/8997.2/js/common.js",
+            "lineNumber": 4,
+            "columnNumber": 69701
+          },
+          {
+            "functionName": "",
+            "scriptId": "37",
+            "url": "https://ca.classistatic.com/static/V/8997.2/js/common.js",
+            "lineNumber": 4,
+            "columnNumber": 70034
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'get' of undefined\n    at a (https://ca.classistatic.com/static/V/8997.2/js/common.js:5:69702)\n    at https://ca.classistatic.com/static/V/8997.2/js/common.js:5:70035",
+        "objectId": "{\"injectedScriptId\":3,\"id\":17}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'get' of undefined\n    at a (https://ca.classistatic.com/static/V/8997.2/js/common.js:5:69702)\n    at https://ca.classistatic.com/static/V/8997.2/js/common.js:5:70035",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'get' of undefined…sistatic.com/static/V/8997.2/js/common.js:5:70035"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'get' of undefined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583758008257.7268,
+    "exceptionDetails": {
+      "exceptionId": 18,
+      "text": "Uncaught",
+      "lineNumber": 4,
+      "columnNumber": 69701,
+      "url": "https://ca.classistatic.com/static/V/8997.2/js/common.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "a",
+            "scriptId": "37",
+            "url": "https://ca.classistatic.com/static/V/8997.2/js/common.js",
+            "lineNumber": 4,
+            "columnNumber": 69701
+          },
+          {
+            "functionName": "",
+            "scriptId": "37",
+            "url": "https://ca.classistatic.com/static/V/8997.2/js/common.js",
+            "lineNumber": 4,
+            "columnNumber": 70034
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'get' of undefined\n    at a (https://ca.classistatic.com/static/V/8997.2/js/common.js:5:69702)\n    at https://ca.classistatic.com/static/V/8997.2/js/common.js:5:70035",
+        "objectId": "{\"injectedScriptId\":3,\"id\":18}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'get' of undefined\n    at a (https://ca.classistatic.com/static/V/8997.2/js/common.js:5:69702)\n    at https://ca.classistatic.com/static/V/8997.2/js/common.js:5:70035",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'get' of undefined…sistatic.com/static/V/8997.2/js/common.js:5:70035"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'get' of undefined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583758008357.771,
+    "exceptionDetails": {
+      "exceptionId": 19,
+      "text": "Uncaught",
+      "lineNumber": 4,
+      "columnNumber": 69701,
+      "url": "https://ca.classistatic.com/static/V/8997.2/js/common.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "a",
+            "scriptId": "37",
+            "url": "https://ca.classistatic.com/static/V/8997.2/js/common.js",
+            "lineNumber": 4,
+            "columnNumber": 69701
+          },
+          {
+            "functionName": "",
+            "scriptId": "37",
+            "url": "https://ca.classistatic.com/static/V/8997.2/js/common.js",
+            "lineNumber": 4,
+            "columnNumber": 70034
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'get' of undefined\n    at a (https://ca.classistatic.com/static/V/8997.2/js/common.js:5:69702)\n    at https://ca.classistatic.com/static/V/8997.2/js/common.js:5:70035",
+        "objectId": "{\"injectedScriptId\":3,\"id\":19}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'get' of undefined\n    at a (https://ca.classistatic.com/static/V/8997.2/js/common.js:5:69702)\n    at https://ca.classistatic.com/static/V/8997.2/js/common.js:5:70035",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'get' of undefined…sistatic.com/static/V/8997.2/js/common.js:5:70035"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'get' of undefined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583758008457.888,
+    "exceptionDetails": {
+      "exceptionId": 20,
+      "text": "Uncaught",
+      "lineNumber": 4,
+      "columnNumber": 69701,
+      "url": "https://ca.classistatic.com/static/V/8997.2/js/common.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "a",
+            "scriptId": "37",
+            "url": "https://ca.classistatic.com/static/V/8997.2/js/common.js",
+            "lineNumber": 4,
+            "columnNumber": 69701
+          },
+          {
+            "functionName": "",
+            "scriptId": "37",
+            "url": "https://ca.classistatic.com/static/V/8997.2/js/common.js",
+            "lineNumber": 4,
+            "columnNumber": 70034
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'get' of undefined\n    at a (https://ca.classistatic.com/static/V/8997.2/js/common.js:5:69702)\n    at https://ca.classistatic.com/static/V/8997.2/js/common.js:5:70035",
+        "objectId": "{\"injectedScriptId\":3,\"id\":20}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'get' of undefined\n    at a (https://ca.classistatic.com/static/V/8997.2/js/common.js:5:69702)\n    at https://ca.classistatic.com/static/V/8997.2/js/common.js:5:70035",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'get' of undefined…sistatic.com/static/V/8997.2/js/common.js:5:70035"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'get' of undefined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

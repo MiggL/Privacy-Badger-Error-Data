@@ -1,0 +1,211 @@
+[
+  {
+    "timestamp": 1583003997374.209,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 127,
+      "columnNumber": 0,
+      "url": "http://transcripts.cnn.com/TRANSCRIPTS/1703/20/sn.01.html",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "17",
+            "url": "http://transcripts.cnn.com/TRANSCRIPTS/1703/20/sn.01.html",
+            "lineNumber": 127,
+            "columnNumber": 0
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: cnnad_createAd is not defined\n    at http://transcripts.cnn.com/TRANSCRIPTS/1703/20/sn.01.html:128:1",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: cnnad_createAd is not defined\n    at http://transcripts.cnn.com/TRANSCRIPTS/1703/20/sn.01.html:128:1",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: cnnad_createAd is not defined\n    …ipts.cnn.com/TRANSCRIPTS/1703/20/sn.01.html:128:1"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "cnnad_createAd is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583003998240.5132,
+    "exceptionDetails": {
+      "exceptionId": 2,
+      "text": "Uncaught",
+      "lineNumber": 178,
+      "columnNumber": 31,
+      "url": "http://transcripts.cnn.com/TRANSCRIPTS/1703/20/sn.01.html",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "onload",
+            "scriptId": "30",
+            "url": "http://transcripts.cnn.com/TRANSCRIPTS/1703/20/sn.01.html",
+            "lineNumber": 178,
+            "columnNumber": 31
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: getAdHeadCookie is not defined\n    at HTMLImageElement.onload (http://transcripts.cnn.com/TRANSCRIPTS/1703/20/sn.01.html:179:32)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":2}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: getAdHeadCookie is not defined\n    at HTMLImageElement.onload (http://transcripts.cnn.com/TRANSCRIPTS/1703/20/sn.01.html:179:32)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: getAdHeadCookie is not defined\n   …ts.cnn.com/TRANSCRIPTS/1703/20/sn.01.html:179:32)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "getAdHeadCookie is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583003998240.8691,
+    "exceptionDetails": {
+      "exceptionId": 3,
+      "text": "Uncaught",
+      "lineNumber": 179,
+      "columnNumber": 75,
+      "url": "http://transcripts.cnn.com/TRANSCRIPTS/1703/20/sn.01.html",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "onload",
+            "scriptId": "31",
+            "url": "http://transcripts.cnn.com/TRANSCRIPTS/1703/20/sn.01.html",
+            "lineNumber": 179,
+            "columnNumber": 75
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: getDEAdHeadCookie is not defined\n    at HTMLImageElement.onload (http://transcripts.cnn.com/TRANSCRIPTS/1703/20/sn.01.html:180:76)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":3}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: getDEAdHeadCookie is not defined\n    at HTMLImageElement.onload (http://transcripts.cnn.com/TRANSCRIPTS/1703/20/sn.01.html:180:76)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: getDEAdHeadCookie is not defined\n …ts.cnn.com/TRANSCRIPTS/1703/20/sn.01.html:180:76)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "getDEAdHeadCookie is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583003998564.44,
+    "exceptionDetails": {
+      "exceptionId": 4,
+      "text": "Uncaught",
+      "lineNumber": 0,
+      "columnNumber": 4760,
+      "url": "http://z.cdn.turner.com/cnn/.element/ssi/www/misc/4.0/static/js/static-chrome-companion.min.js?v23",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "n",
+            "scriptId": "16",
+            "url": "http://z.cdn.turner.com/cnn/.element/ssi/www/misc/4.0/static/js/static-chrome-companion.min.js?v23",
+            "lineNumber": 0,
+            "columnNumber": 4760
+          },
+          {
+            "functionName": "i",
+            "scriptId": "16",
+            "url": "http://z.cdn.turner.com/cnn/.element/ssi/www/misc/4.0/static/js/static-chrome-companion.min.js?v23",
+            "lineNumber": 0,
+            "columnNumber": 2818
+          },
+          {
+            "functionName": "dispatch",
+            "scriptId": "19",
+            "url": "http://cdn.cnn.com/cnn/.element/ssi/www/misc/4.0/static/js/jquery.min.js",
+            "lineNumber": 2,
+            "columnNumber": 12443
+          },
+          {
+            "functionName": "r.handle",
+            "scriptId": "19",
+            "url": "http://cdn.cnn.com/cnn/.element/ssi/www/misc/4.0/static/js/jquery.min.js",
+            "lineNumber": 2,
+            "columnNumber": 9172
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'nav' of undefined\n    at n (http://z.cdn.turner.com/cnn/.element/ssi/www/misc/4.0/static/js/static-chrome-companion.min.js?v23:1:4761)\n    at i (http://z.cdn.turner.com/cnn/.element/ssi/www/misc/4.0/static/js/static-chrome-companion.min.js?v23:1:2819)\n    at dispatch (http://cdn.cnn.com/cnn/.element/ssi/www/misc/4.0/static/js/jquery.min.js:3:12444)\n    at r.handle (http://cdn.cnn.com/cnn/.element/ssi/www/misc/4.0/static/js/jquery.min.js:3:9173)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":4}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'nav' of undefined\n    at n (http://z.cdn.turner.com/cnn/.element/ssi/www/misc/4.0/static/js/static-chrome-companion.min.js?v23:1:4761)\n    at i (http://z.cdn.turner.com/cnn/.element/ssi/www/misc/4.0/static/js/static-chrome-companion.min.js?v23:1:2819)\n    at dispatch (http://cdn.cnn.com/cnn/.element/ssi/www/misc/4.0/static/js/jquery.min.js:3:12444)\n    at r.handle (http://cdn.cnn.com/cnn/.element/ssi/www/misc/4.0/static/js/jquery.min.js:3:9173)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'nav' of undefined…/ssi/www/misc/4.0/static/js/jquery.min.js:3:9173)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'nav' of undefined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

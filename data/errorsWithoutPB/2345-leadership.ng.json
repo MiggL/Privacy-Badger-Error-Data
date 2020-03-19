@@ -1,0 +1,78 @@
+[
+  {
+    "timestamp": 1582812110249.447,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 48,
+      "columnNumber": 397,
+      "url": "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "l.da",
+            "scriptId": "14",
+            "url": "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js",
+            "lineNumber": 48,
+            "columnNumber": 397
+          },
+          {
+            "functionName": "wf",
+            "scriptId": "14",
+            "url": "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js",
+            "lineNumber": 56,
+            "columnNumber": 408
+          },
+          {
+            "functionName": "Ck",
+            "scriptId": "14",
+            "url": "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js",
+            "lineNumber": 183,
+            "columnNumber": 24
+          },
+          {
+            "functionName": "",
+            "scriptId": "74",
+            "url": "https://leadership.ng/",
+            "lineNumber": 2752,
+            "columnNumber": 43
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "className": "N",
+        "description": "N",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "description": "N",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "message",
+              "type": "string",
+              "value": "adsbygoogle.push() error: Only one 'enable_page_level_ads' allowed per page."
+            },
+            {
+              "name": "name",
+              "type": "string",
+              "value": "TagError"
+            },
+            {
+              "name": "pbr",
+              "type": "boolean",
+              "value": "true"
+            },
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TagError: adsbygoogle.push() error: Only one 'enab…esyndication.com/pagead/js/adsbygoogle.js:57:409)"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

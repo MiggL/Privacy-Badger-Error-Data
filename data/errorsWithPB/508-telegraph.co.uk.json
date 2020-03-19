@@ -1,0 +1,158 @@
+[
+  {
+    "timestamp": 1583749708909.772,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 2387,
+      "columnNumber": 15,
+      "url": "https://www.telegraph.co.uk/news/worldnews/asia/vietnam/11770335/Be-honest-you-dont-care-if-your-pretty-dress-was-made-by-child-slaves.html",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "190",
+            "url": "https://www.telegraph.co.uk/news/worldnews/asia/vietnam/11770335/Be-honest-you-dont-care-if-your-pretty-dress-was-made-by-child-slaves.html",
+            "lineNumber": 2387,
+            "columnNumber": 15
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: nol_t is not defined\n    at https://www.telegraph.co.uk/news/worldnews/asia/vietnam/11770335/Be-honest-you-dont-care-if-your-pretty-dress-was-made-by-child-slaves.html:2388:16",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: nol_t is not defined\n    at https://www.telegraph.co.uk/news/worldnews/asia/vietnam/11770335/Be-honest-you-dont-care-if-your-pretty-dress-was-made-by-child-slaves.html:2388:16",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: nol_t is not defined\n    at https:…retty-dress-was-made-by-child-slaves.html:2388:16"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "nol_t is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583749708919.816,
+    "exceptionDetails": {
+      "exceptionId": 2,
+      "text": "Uncaught",
+      "lineNumber": 149,
+      "columnNumber": 60,
+      "url": "https://www.telegraph.co.uk/news/worldnews/asia/vietnam/11770335/Be-honest-you-dont-care-if-your-pretty-dress-was-made-by-child-slaves.html",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "document.onreadystatechange",
+            "scriptId": "33",
+            "url": "https://www.telegraph.co.uk/news/worldnews/asia/vietnam/11770335/Be-honest-you-dont-care-if-your-pretty-dress-was-made-by-child-slaves.html",
+            "lineNumber": 149,
+            "columnNumber": 60
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot set property 'src' of null\n    at HTMLDocument.document.onreadystatechange (https://www.telegraph.co.uk/news/worldnews/asia/vietnam/11770335/Be-honest-you-dont-care-if-your-pretty-dress-was-made-by-child-slaves.html:150:61)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":2}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot set property 'src' of null\n    at HTMLDocument.document.onreadystatechange (https://www.telegraph.co.uk/news/worldnews/asia/vietnam/11770335/Be-honest-you-dont-care-if-your-pretty-dress-was-made-by-child-slaves.html:150:61)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot set property 'src' of null\n    a…retty-dress-was-made-by-child-slaves.html:150:61)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot set property 'src' of null"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583749710087.954,
+    "exceptionDetails": {
+      "exceptionId": 3,
+      "text": "Uncaught",
+      "lineNumber": 149,
+      "columnNumber": 60,
+      "url": "https://www.telegraph.co.uk/news/worldnews/asia/vietnam/11770335/Be-honest-you-dont-care-if-your-pretty-dress-was-made-by-child-slaves.html",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "document.onreadystatechange",
+            "scriptId": "33",
+            "url": "https://www.telegraph.co.uk/news/worldnews/asia/vietnam/11770335/Be-honest-you-dont-care-if-your-pretty-dress-was-made-by-child-slaves.html",
+            "lineNumber": 149,
+            "columnNumber": 60
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot set property 'src' of null at HTMLDocument.document.onreadystatechange (https://www.telegraph.co.uk/news/worldnews/asia/vietnam/11770335/Be-honest-you-dont-care-if-your-pretty-dress-was-made-by-child-slaves.html:150:61)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":3}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot set property 'src' of null at HTMLDocument.document.onreadystatechange (https://www.telegraph.co.uk/news/worldnews/asia/vietnam/11770335/Be-honest-you-dont-care-if-your-pretty-dress-was-made-by-child-slaves.html:150:61)",
+          "overflow": true,
+          "properties": [
+            {
+              "name": "reported",
+              "type": "boolean",
+              "value": "true"
+            },
+            {
+              "name": "timestamp",
+              "type": "number",
+              "value": "1583749710086"
+            },
+            {
+              "name": "lineNumber",
+              "type": "string",
+              "value": "150"
+            },
+            {
+              "name": "columnNumber",
+              "type": "string",
+              "value": "61"
+            },
+            {
+              "name": "functionName",
+              "type": "string",
+              "value": "HTMLDocument.document.onreadystatechange"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

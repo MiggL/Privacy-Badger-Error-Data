@@ -1,0 +1,49 @@
+[
+  {
+    "timestamp": 1583425478328.1929,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 414,
+      "columnNumber": 6,
+      "url": "http://www.rabbitstationery.com/html/jse_search.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "22",
+            "url": "http://www.rabbitstationery.com/html/jse_search.js",
+            "lineNumber": 414,
+            "columnNumber": 6
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'charAt' of undefined\n    at http://www.rabbitstationery.com/html/jse_search.js:415:7",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'charAt' of undefined\n    at http://www.rabbitstationery.com/html/jse_search.js:415:7",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'charAt' of undefi…www.rabbitstationery.com/html/jse_search.js:415:7"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'charAt' of undefined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

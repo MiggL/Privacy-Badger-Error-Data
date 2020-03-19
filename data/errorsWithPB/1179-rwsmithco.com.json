@@ -1,0 +1,56 @@
+[
+  {
+    "timestamp": 1583421524618.265,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 10,
+      "columnNumber": 58,
+      "url": "https://www.rwsmithco.com/includes/javascript/jquery.lightbox.min.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "57",
+            "url": "https://www.rwsmithco.com/includes/javascript/jquery.lightbox.min.js",
+            "lineNumber": 10,
+            "columnNumber": 58
+          },
+          {
+            "functionName": "",
+            "scriptId": "57",
+            "url": "https://www.rwsmithco.com/includes/javascript/jquery.lightbox.min.js",
+            "lineNumber": 10,
+            "columnNumber": 20680
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'safari' of undefined\n    at https://www.rwsmithco.com/includes/javascript/jquery.lightbox.min.js:11:59\n    at https://www.rwsmithco.com/includes/javascript/jquery.lightbox.min.js:11:20681",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'safari' of undefined\n    at https://www.rwsmithco.com/includes/javascript/jquery.lightbox.min.js:11:59\n    at https://www.rwsmithco.com/includes/javascript/jquery.lightbox.min.js:11:20681",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'safari' of undefi…cludes/javascript/jquery.lightbox.min.js:11:20681"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'safari' of undefined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

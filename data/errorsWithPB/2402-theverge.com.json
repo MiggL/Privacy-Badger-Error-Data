@@ -1,0 +1,1835 @@
+[
+  {
+    "timestamp": 1582892931256.5479,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 0,
+      "columnNumber": 301430,
+      "url": "https://cdn.vox-cdn.com/packs/chorus-e3bcc31c31515c2e7cf5.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "23",
+            "url": "https://cdn.vox-cdn.com/packs/chorus-e3bcc31c31515c2e7cf5.js",
+            "lineNumber": 0,
+            "columnNumber": 301430
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'end' of undefined\n    at https://cdn.vox-cdn.com/packs/chorus-e3bcc31c31515c2e7cf5.js:1:301431",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'end' of undefined\n    at https://cdn.vox-cdn.com/packs/chorus-e3bcc31c31515c2e7cf5.js:1:301431",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'end' of undefined…com/packs/chorus-e3bcc31c31515c2e7cf5.js:1:301431"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'end' of undefined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1582892931356.455,
+    "exceptionDetails": {
+      "exceptionId": 2,
+      "text": "Uncaught",
+      "lineNumber": 0,
+      "columnNumber": 301430,
+      "url": "https://cdn.vox-cdn.com/packs/chorus-e3bcc31c31515c2e7cf5.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "23",
+            "url": "https://cdn.vox-cdn.com/packs/chorus-e3bcc31c31515c2e7cf5.js",
+            "lineNumber": 0,
+            "columnNumber": 301430
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'end' of undefined\n    at https://cdn.vox-cdn.com/packs/chorus-e3bcc31c31515c2e7cf5.js:1:301431",
+        "objectId": "{\"injectedScriptId\":3,\"id\":2}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'end' of undefined\n    at https://cdn.vox-cdn.com/packs/chorus-e3bcc31c31515c2e7cf5.js:1:301431",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'end' of undefined…com/packs/chorus-e3bcc31c31515c2e7cf5.js:1:301431"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'end' of undefined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1582892931456.455,
+    "exceptionDetails": {
+      "exceptionId": 3,
+      "text": "Uncaught",
+      "lineNumber": 0,
+      "columnNumber": 301430,
+      "url": "https://cdn.vox-cdn.com/packs/chorus-e3bcc31c31515c2e7cf5.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "23",
+            "url": "https://cdn.vox-cdn.com/packs/chorus-e3bcc31c31515c2e7cf5.js",
+            "lineNumber": 0,
+            "columnNumber": 301430
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'end' of undefined\n    at https://cdn.vox-cdn.com/packs/chorus-e3bcc31c31515c2e7cf5.js:1:301431",
+        "objectId": "{\"injectedScriptId\":3,\"id\":3}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'end' of undefined\n    at https://cdn.vox-cdn.com/packs/chorus-e3bcc31c31515c2e7cf5.js:1:301431",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'end' of undefined…com/packs/chorus-e3bcc31c31515c2e7cf5.js:1:301431"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'end' of undefined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1582892931556.635,
+    "exceptionDetails": {
+      "exceptionId": 4,
+      "text": "Uncaught",
+      "lineNumber": 0,
+      "columnNumber": 301430,
+      "url": "https://cdn.vox-cdn.com/packs/chorus-e3bcc31c31515c2e7cf5.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "23",
+            "url": "https://cdn.vox-cdn.com/packs/chorus-e3bcc31c31515c2e7cf5.js",
+            "lineNumber": 0,
+            "columnNumber": 301430
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'end' of undefined\n    at https://cdn.vox-cdn.com/packs/chorus-e3bcc31c31515c2e7cf5.js:1:301431",
+        "objectId": "{\"injectedScriptId\":3,\"id\":4}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'end' of undefined\n    at https://cdn.vox-cdn.com/packs/chorus-e3bcc31c31515c2e7cf5.js:1:301431",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'end' of undefined…com/packs/chorus-e3bcc31c31515c2e7cf5.js:1:301431"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'end' of undefined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1582892931656.659,
+    "exceptionDetails": {
+      "exceptionId": 5,
+      "text": "Uncaught",
+      "lineNumber": 0,
+      "columnNumber": 301430,
+      "url": "https://cdn.vox-cdn.com/packs/chorus-e3bcc31c31515c2e7cf5.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "23",
+            "url": "https://cdn.vox-cdn.com/packs/chorus-e3bcc31c31515c2e7cf5.js",
+            "lineNumber": 0,
+            "columnNumber": 301430
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'end' of undefined\n    at https://cdn.vox-cdn.com/packs/chorus-e3bcc31c31515c2e7cf5.js:1:301431",
+        "objectId": "{\"injectedScriptId\":3,\"id\":5}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'end' of undefined\n    at https://cdn.vox-cdn.com/packs/chorus-e3bcc31c31515c2e7cf5.js:1:301431",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'end' of undefined…com/packs/chorus-e3bcc31c31515c2e7cf5.js:1:301431"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'end' of undefined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1582892931756.94,
+    "exceptionDetails": {
+      "exceptionId": 6,
+      "text": "Uncaught",
+      "lineNumber": 0,
+      "columnNumber": 301430,
+      "url": "https://cdn.vox-cdn.com/packs/chorus-e3bcc31c31515c2e7cf5.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "23",
+            "url": "https://cdn.vox-cdn.com/packs/chorus-e3bcc31c31515c2e7cf5.js",
+            "lineNumber": 0,
+            "columnNumber": 301430
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'end' of undefined\n    at https://cdn.vox-cdn.com/packs/chorus-e3bcc31c31515c2e7cf5.js:1:301431",
+        "objectId": "{\"injectedScriptId\":3,\"id\":6}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'end' of undefined\n    at https://cdn.vox-cdn.com/packs/chorus-e3bcc31c31515c2e7cf5.js:1:301431",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'end' of undefined…com/packs/chorus-e3bcc31c31515c2e7cf5.js:1:301431"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'end' of undefined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1582892931856.78,
+    "exceptionDetails": {
+      "exceptionId": 7,
+      "text": "Uncaught",
+      "lineNumber": 0,
+      "columnNumber": 301430,
+      "url": "https://cdn.vox-cdn.com/packs/chorus-e3bcc31c31515c2e7cf5.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "23",
+            "url": "https://cdn.vox-cdn.com/packs/chorus-e3bcc31c31515c2e7cf5.js",
+            "lineNumber": 0,
+            "columnNumber": 301430
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'end' of undefined\n    at https://cdn.vox-cdn.com/packs/chorus-e3bcc31c31515c2e7cf5.js:1:301431",
+        "objectId": "{\"injectedScriptId\":3,\"id\":7}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'end' of undefined\n    at https://cdn.vox-cdn.com/packs/chorus-e3bcc31c31515c2e7cf5.js:1:301431",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'end' of undefined…com/packs/chorus-e3bcc31c31515c2e7cf5.js:1:301431"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'end' of undefined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1582892931956.9558,
+    "exceptionDetails": {
+      "exceptionId": 8,
+      "text": "Uncaught",
+      "lineNumber": 0,
+      "columnNumber": 301430,
+      "url": "https://cdn.vox-cdn.com/packs/chorus-e3bcc31c31515c2e7cf5.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "23",
+            "url": "https://cdn.vox-cdn.com/packs/chorus-e3bcc31c31515c2e7cf5.js",
+            "lineNumber": 0,
+            "columnNumber": 301430
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'end' of undefined\n    at https://cdn.vox-cdn.com/packs/chorus-e3bcc31c31515c2e7cf5.js:1:301431",
+        "objectId": "{\"injectedScriptId\":3,\"id\":8}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'end' of undefined\n    at https://cdn.vox-cdn.com/packs/chorus-e3bcc31c31515c2e7cf5.js:1:301431",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'end' of undefined…com/packs/chorus-e3bcc31c31515c2e7cf5.js:1:301431"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'end' of undefined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1582892932056.653,
+    "exceptionDetails": {
+      "exceptionId": 9,
+      "text": "Uncaught",
+      "lineNumber": 0,
+      "columnNumber": 301430,
+      "url": "https://cdn.vox-cdn.com/packs/chorus-e3bcc31c31515c2e7cf5.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "23",
+            "url": "https://cdn.vox-cdn.com/packs/chorus-e3bcc31c31515c2e7cf5.js",
+            "lineNumber": 0,
+            "columnNumber": 301430
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'end' of undefined\n    at https://cdn.vox-cdn.com/packs/chorus-e3bcc31c31515c2e7cf5.js:1:301431",
+        "objectId": "{\"injectedScriptId\":3,\"id\":9}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'end' of undefined\n    at https://cdn.vox-cdn.com/packs/chorus-e3bcc31c31515c2e7cf5.js:1:301431",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'end' of undefined…com/packs/chorus-e3bcc31c31515c2e7cf5.js:1:301431"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'end' of undefined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1582892932156.728,
+    "exceptionDetails": {
+      "exceptionId": 10,
+      "text": "Uncaught",
+      "lineNumber": 0,
+      "columnNumber": 301430,
+      "url": "https://cdn.vox-cdn.com/packs/chorus-e3bcc31c31515c2e7cf5.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "23",
+            "url": "https://cdn.vox-cdn.com/packs/chorus-e3bcc31c31515c2e7cf5.js",
+            "lineNumber": 0,
+            "columnNumber": 301430
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'end' of undefined\n    at https://cdn.vox-cdn.com/packs/chorus-e3bcc31c31515c2e7cf5.js:1:301431",
+        "objectId": "{\"injectedScriptId\":3,\"id\":10}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'end' of undefined\n    at https://cdn.vox-cdn.com/packs/chorus-e3bcc31c31515c2e7cf5.js:1:301431",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'end' of undefined…com/packs/chorus-e3bcc31c31515c2e7cf5.js:1:301431"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'end' of undefined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1582892932256.8208,
+    "exceptionDetails": {
+      "exceptionId": 11,
+      "text": "Uncaught",
+      "lineNumber": 0,
+      "columnNumber": 301430,
+      "url": "https://cdn.vox-cdn.com/packs/chorus-e3bcc31c31515c2e7cf5.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "23",
+            "url": "https://cdn.vox-cdn.com/packs/chorus-e3bcc31c31515c2e7cf5.js",
+            "lineNumber": 0,
+            "columnNumber": 301430
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'end' of undefined\n    at https://cdn.vox-cdn.com/packs/chorus-e3bcc31c31515c2e7cf5.js:1:301431",
+        "objectId": "{\"injectedScriptId\":3,\"id\":11}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'end' of undefined\n    at https://cdn.vox-cdn.com/packs/chorus-e3bcc31c31515c2e7cf5.js:1:301431",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'end' of undefined…com/packs/chorus-e3bcc31c31515c2e7cf5.js:1:301431"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'end' of undefined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1582892932356.719,
+    "exceptionDetails": {
+      "exceptionId": 12,
+      "text": "Uncaught",
+      "lineNumber": 0,
+      "columnNumber": 301430,
+      "url": "https://cdn.vox-cdn.com/packs/chorus-e3bcc31c31515c2e7cf5.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "23",
+            "url": "https://cdn.vox-cdn.com/packs/chorus-e3bcc31c31515c2e7cf5.js",
+            "lineNumber": 0,
+            "columnNumber": 301430
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'end' of undefined\n    at https://cdn.vox-cdn.com/packs/chorus-e3bcc31c31515c2e7cf5.js:1:301431",
+        "objectId": "{\"injectedScriptId\":3,\"id\":12}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'end' of undefined\n    at https://cdn.vox-cdn.com/packs/chorus-e3bcc31c31515c2e7cf5.js:1:301431",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'end' of undefined…com/packs/chorus-e3bcc31c31515c2e7cf5.js:1:301431"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'end' of undefined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1582892932456.804,
+    "exceptionDetails": {
+      "exceptionId": 13,
+      "text": "Uncaught",
+      "lineNumber": 0,
+      "columnNumber": 301430,
+      "url": "https://cdn.vox-cdn.com/packs/chorus-e3bcc31c31515c2e7cf5.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "23",
+            "url": "https://cdn.vox-cdn.com/packs/chorus-e3bcc31c31515c2e7cf5.js",
+            "lineNumber": 0,
+            "columnNumber": 301430
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'end' of undefined\n    at https://cdn.vox-cdn.com/packs/chorus-e3bcc31c31515c2e7cf5.js:1:301431",
+        "objectId": "{\"injectedScriptId\":3,\"id\":13}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'end' of undefined\n    at https://cdn.vox-cdn.com/packs/chorus-e3bcc31c31515c2e7cf5.js:1:301431",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'end' of undefined…com/packs/chorus-e3bcc31c31515c2e7cf5.js:1:301431"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'end' of undefined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1582892932556.7988,
+    "exceptionDetails": {
+      "exceptionId": 14,
+      "text": "Uncaught",
+      "lineNumber": 0,
+      "columnNumber": 301430,
+      "url": "https://cdn.vox-cdn.com/packs/chorus-e3bcc31c31515c2e7cf5.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "23",
+            "url": "https://cdn.vox-cdn.com/packs/chorus-e3bcc31c31515c2e7cf5.js",
+            "lineNumber": 0,
+            "columnNumber": 301430
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'end' of undefined\n    at https://cdn.vox-cdn.com/packs/chorus-e3bcc31c31515c2e7cf5.js:1:301431",
+        "objectId": "{\"injectedScriptId\":3,\"id\":14}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'end' of undefined\n    at https://cdn.vox-cdn.com/packs/chorus-e3bcc31c31515c2e7cf5.js:1:301431",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'end' of undefined…com/packs/chorus-e3bcc31c31515c2e7cf5.js:1:301431"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'end' of undefined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1582892932656.659,
+    "exceptionDetails": {
+      "exceptionId": 15,
+      "text": "Uncaught",
+      "lineNumber": 0,
+      "columnNumber": 301430,
+      "url": "https://cdn.vox-cdn.com/packs/chorus-e3bcc31c31515c2e7cf5.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "23",
+            "url": "https://cdn.vox-cdn.com/packs/chorus-e3bcc31c31515c2e7cf5.js",
+            "lineNumber": 0,
+            "columnNumber": 301430
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'end' of undefined\n    at https://cdn.vox-cdn.com/packs/chorus-e3bcc31c31515c2e7cf5.js:1:301431",
+        "objectId": "{\"injectedScriptId\":3,\"id\":15}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'end' of undefined\n    at https://cdn.vox-cdn.com/packs/chorus-e3bcc31c31515c2e7cf5.js:1:301431",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'end' of undefined…com/packs/chorus-e3bcc31c31515c2e7cf5.js:1:301431"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'end' of undefined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1582892932756.68,
+    "exceptionDetails": {
+      "exceptionId": 16,
+      "text": "Uncaught",
+      "lineNumber": 0,
+      "columnNumber": 301430,
+      "url": "https://cdn.vox-cdn.com/packs/chorus-e3bcc31c31515c2e7cf5.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "23",
+            "url": "https://cdn.vox-cdn.com/packs/chorus-e3bcc31c31515c2e7cf5.js",
+            "lineNumber": 0,
+            "columnNumber": 301430
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'end' of undefined\n    at https://cdn.vox-cdn.com/packs/chorus-e3bcc31c31515c2e7cf5.js:1:301431",
+        "objectId": "{\"injectedScriptId\":3,\"id\":16}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'end' of undefined\n    at https://cdn.vox-cdn.com/packs/chorus-e3bcc31c31515c2e7cf5.js:1:301431",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'end' of undefined…com/packs/chorus-e3bcc31c31515c2e7cf5.js:1:301431"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'end' of undefined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1582892932856.638,
+    "exceptionDetails": {
+      "exceptionId": 17,
+      "text": "Uncaught",
+      "lineNumber": 0,
+      "columnNumber": 301430,
+      "url": "https://cdn.vox-cdn.com/packs/chorus-e3bcc31c31515c2e7cf5.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "23",
+            "url": "https://cdn.vox-cdn.com/packs/chorus-e3bcc31c31515c2e7cf5.js",
+            "lineNumber": 0,
+            "columnNumber": 301430
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'end' of undefined\n    at https://cdn.vox-cdn.com/packs/chorus-e3bcc31c31515c2e7cf5.js:1:301431",
+        "objectId": "{\"injectedScriptId\":3,\"id\":17}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'end' of undefined\n    at https://cdn.vox-cdn.com/packs/chorus-e3bcc31c31515c2e7cf5.js:1:301431",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'end' of undefined…com/packs/chorus-e3bcc31c31515c2e7cf5.js:1:301431"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'end' of undefined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1582892932957.0342,
+    "exceptionDetails": {
+      "exceptionId": 18,
+      "text": "Uncaught",
+      "lineNumber": 0,
+      "columnNumber": 301430,
+      "url": "https://cdn.vox-cdn.com/packs/chorus-e3bcc31c31515c2e7cf5.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "23",
+            "url": "https://cdn.vox-cdn.com/packs/chorus-e3bcc31c31515c2e7cf5.js",
+            "lineNumber": 0,
+            "columnNumber": 301430
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'end' of undefined\n    at https://cdn.vox-cdn.com/packs/chorus-e3bcc31c31515c2e7cf5.js:1:301431",
+        "objectId": "{\"injectedScriptId\":3,\"id\":18}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'end' of undefined\n    at https://cdn.vox-cdn.com/packs/chorus-e3bcc31c31515c2e7cf5.js:1:301431",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'end' of undefined…com/packs/chorus-e3bcc31c31515c2e7cf5.js:1:301431"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'end' of undefined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1582892933056.832,
+    "exceptionDetails": {
+      "exceptionId": 19,
+      "text": "Uncaught",
+      "lineNumber": 0,
+      "columnNumber": 301430,
+      "url": "https://cdn.vox-cdn.com/packs/chorus-e3bcc31c31515c2e7cf5.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "23",
+            "url": "https://cdn.vox-cdn.com/packs/chorus-e3bcc31c31515c2e7cf5.js",
+            "lineNumber": 0,
+            "columnNumber": 301430
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'end' of undefined\n    at https://cdn.vox-cdn.com/packs/chorus-e3bcc31c31515c2e7cf5.js:1:301431",
+        "objectId": "{\"injectedScriptId\":3,\"id\":19}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'end' of undefined\n    at https://cdn.vox-cdn.com/packs/chorus-e3bcc31c31515c2e7cf5.js:1:301431",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'end' of undefined…com/packs/chorus-e3bcc31c31515c2e7cf5.js:1:301431"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'end' of undefined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1582892933156.806,
+    "exceptionDetails": {
+      "exceptionId": 20,
+      "text": "Uncaught",
+      "lineNumber": 0,
+      "columnNumber": 301430,
+      "url": "https://cdn.vox-cdn.com/packs/chorus-e3bcc31c31515c2e7cf5.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "23",
+            "url": "https://cdn.vox-cdn.com/packs/chorus-e3bcc31c31515c2e7cf5.js",
+            "lineNumber": 0,
+            "columnNumber": 301430
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'end' of undefined\n    at https://cdn.vox-cdn.com/packs/chorus-e3bcc31c31515c2e7cf5.js:1:301431",
+        "objectId": "{\"injectedScriptId\":3,\"id\":20}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'end' of undefined\n    at https://cdn.vox-cdn.com/packs/chorus-e3bcc31c31515c2e7cf5.js:1:301431",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'end' of undefined…com/packs/chorus-e3bcc31c31515c2e7cf5.js:1:301431"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'end' of undefined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1582892933256.824,
+    "exceptionDetails": {
+      "exceptionId": 21,
+      "text": "Uncaught",
+      "lineNumber": 0,
+      "columnNumber": 301430,
+      "url": "https://cdn.vox-cdn.com/packs/chorus-e3bcc31c31515c2e7cf5.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "23",
+            "url": "https://cdn.vox-cdn.com/packs/chorus-e3bcc31c31515c2e7cf5.js",
+            "lineNumber": 0,
+            "columnNumber": 301430
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'end' of undefined\n    at https://cdn.vox-cdn.com/packs/chorus-e3bcc31c31515c2e7cf5.js:1:301431",
+        "objectId": "{\"injectedScriptId\":3,\"id\":21}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'end' of undefined\n    at https://cdn.vox-cdn.com/packs/chorus-e3bcc31c31515c2e7cf5.js:1:301431",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'end' of undefined…com/packs/chorus-e3bcc31c31515c2e7cf5.js:1:301431"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'end' of undefined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1582892933356.7942,
+    "exceptionDetails": {
+      "exceptionId": 22,
+      "text": "Uncaught",
+      "lineNumber": 0,
+      "columnNumber": 301430,
+      "url": "https://cdn.vox-cdn.com/packs/chorus-e3bcc31c31515c2e7cf5.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "23",
+            "url": "https://cdn.vox-cdn.com/packs/chorus-e3bcc31c31515c2e7cf5.js",
+            "lineNumber": 0,
+            "columnNumber": 301430
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'end' of undefined\n    at https://cdn.vox-cdn.com/packs/chorus-e3bcc31c31515c2e7cf5.js:1:301431",
+        "objectId": "{\"injectedScriptId\":3,\"id\":22}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'end' of undefined\n    at https://cdn.vox-cdn.com/packs/chorus-e3bcc31c31515c2e7cf5.js:1:301431",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'end' of undefined…com/packs/chorus-e3bcc31c31515c2e7cf5.js:1:301431"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'end' of undefined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1582892933456.896,
+    "exceptionDetails": {
+      "exceptionId": 23,
+      "text": "Uncaught",
+      "lineNumber": 0,
+      "columnNumber": 301430,
+      "url": "https://cdn.vox-cdn.com/packs/chorus-e3bcc31c31515c2e7cf5.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "23",
+            "url": "https://cdn.vox-cdn.com/packs/chorus-e3bcc31c31515c2e7cf5.js",
+            "lineNumber": 0,
+            "columnNumber": 301430
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'end' of undefined\n    at https://cdn.vox-cdn.com/packs/chorus-e3bcc31c31515c2e7cf5.js:1:301431",
+        "objectId": "{\"injectedScriptId\":3,\"id\":23}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'end' of undefined\n    at https://cdn.vox-cdn.com/packs/chorus-e3bcc31c31515c2e7cf5.js:1:301431",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'end' of undefined…com/packs/chorus-e3bcc31c31515c2e7cf5.js:1:301431"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'end' of undefined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1582892933556.689,
+    "exceptionDetails": {
+      "exceptionId": 24,
+      "text": "Uncaught",
+      "lineNumber": 0,
+      "columnNumber": 301430,
+      "url": "https://cdn.vox-cdn.com/packs/chorus-e3bcc31c31515c2e7cf5.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "23",
+            "url": "https://cdn.vox-cdn.com/packs/chorus-e3bcc31c31515c2e7cf5.js",
+            "lineNumber": 0,
+            "columnNumber": 301430
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'end' of undefined\n    at https://cdn.vox-cdn.com/packs/chorus-e3bcc31c31515c2e7cf5.js:1:301431",
+        "objectId": "{\"injectedScriptId\":3,\"id\":24}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'end' of undefined\n    at https://cdn.vox-cdn.com/packs/chorus-e3bcc31c31515c2e7cf5.js:1:301431",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'end' of undefined…com/packs/chorus-e3bcc31c31515c2e7cf5.js:1:301431"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'end' of undefined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1582892933656.923,
+    "exceptionDetails": {
+      "exceptionId": 25,
+      "text": "Uncaught",
+      "lineNumber": 0,
+      "columnNumber": 301430,
+      "url": "https://cdn.vox-cdn.com/packs/chorus-e3bcc31c31515c2e7cf5.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "23",
+            "url": "https://cdn.vox-cdn.com/packs/chorus-e3bcc31c31515c2e7cf5.js",
+            "lineNumber": 0,
+            "columnNumber": 301430
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'end' of undefined\n    at https://cdn.vox-cdn.com/packs/chorus-e3bcc31c31515c2e7cf5.js:1:301431",
+        "objectId": "{\"injectedScriptId\":3,\"id\":25}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'end' of undefined\n    at https://cdn.vox-cdn.com/packs/chorus-e3bcc31c31515c2e7cf5.js:1:301431",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'end' of undefined…com/packs/chorus-e3bcc31c31515c2e7cf5.js:1:301431"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'end' of undefined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1582892933756.787,
+    "exceptionDetails": {
+      "exceptionId": 26,
+      "text": "Uncaught",
+      "lineNumber": 0,
+      "columnNumber": 301430,
+      "url": "https://cdn.vox-cdn.com/packs/chorus-e3bcc31c31515c2e7cf5.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "23",
+            "url": "https://cdn.vox-cdn.com/packs/chorus-e3bcc31c31515c2e7cf5.js",
+            "lineNumber": 0,
+            "columnNumber": 301430
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'end' of undefined\n    at https://cdn.vox-cdn.com/packs/chorus-e3bcc31c31515c2e7cf5.js:1:301431",
+        "objectId": "{\"injectedScriptId\":3,\"id\":26}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'end' of undefined\n    at https://cdn.vox-cdn.com/packs/chorus-e3bcc31c31515c2e7cf5.js:1:301431",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'end' of undefined…com/packs/chorus-e3bcc31c31515c2e7cf5.js:1:301431"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'end' of undefined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1582892933856.7861,
+    "exceptionDetails": {
+      "exceptionId": 27,
+      "text": "Uncaught",
+      "lineNumber": 0,
+      "columnNumber": 301430,
+      "url": "https://cdn.vox-cdn.com/packs/chorus-e3bcc31c31515c2e7cf5.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "23",
+            "url": "https://cdn.vox-cdn.com/packs/chorus-e3bcc31c31515c2e7cf5.js",
+            "lineNumber": 0,
+            "columnNumber": 301430
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'end' of undefined\n    at https://cdn.vox-cdn.com/packs/chorus-e3bcc31c31515c2e7cf5.js:1:301431",
+        "objectId": "{\"injectedScriptId\":3,\"id\":27}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'end' of undefined\n    at https://cdn.vox-cdn.com/packs/chorus-e3bcc31c31515c2e7cf5.js:1:301431",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'end' of undefined…com/packs/chorus-e3bcc31c31515c2e7cf5.js:1:301431"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'end' of undefined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1582892933956.992,
+    "exceptionDetails": {
+      "exceptionId": 28,
+      "text": "Uncaught",
+      "lineNumber": 0,
+      "columnNumber": 301430,
+      "url": "https://cdn.vox-cdn.com/packs/chorus-e3bcc31c31515c2e7cf5.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "23",
+            "url": "https://cdn.vox-cdn.com/packs/chorus-e3bcc31c31515c2e7cf5.js",
+            "lineNumber": 0,
+            "columnNumber": 301430
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'end' of undefined\n    at https://cdn.vox-cdn.com/packs/chorus-e3bcc31c31515c2e7cf5.js:1:301431",
+        "objectId": "{\"injectedScriptId\":3,\"id\":28}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'end' of undefined\n    at https://cdn.vox-cdn.com/packs/chorus-e3bcc31c31515c2e7cf5.js:1:301431",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'end' of undefined…com/packs/chorus-e3bcc31c31515c2e7cf5.js:1:301431"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'end' of undefined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1582892934056.8381,
+    "exceptionDetails": {
+      "exceptionId": 29,
+      "text": "Uncaught",
+      "lineNumber": 0,
+      "columnNumber": 301430,
+      "url": "https://cdn.vox-cdn.com/packs/chorus-e3bcc31c31515c2e7cf5.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "23",
+            "url": "https://cdn.vox-cdn.com/packs/chorus-e3bcc31c31515c2e7cf5.js",
+            "lineNumber": 0,
+            "columnNumber": 301430
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'end' of undefined\n    at https://cdn.vox-cdn.com/packs/chorus-e3bcc31c31515c2e7cf5.js:1:301431",
+        "objectId": "{\"injectedScriptId\":3,\"id\":29}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'end' of undefined\n    at https://cdn.vox-cdn.com/packs/chorus-e3bcc31c31515c2e7cf5.js:1:301431",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'end' of undefined…com/packs/chorus-e3bcc31c31515c2e7cf5.js:1:301431"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'end' of undefined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1582892934156.813,
+    "exceptionDetails": {
+      "exceptionId": 30,
+      "text": "Uncaught",
+      "lineNumber": 0,
+      "columnNumber": 301430,
+      "url": "https://cdn.vox-cdn.com/packs/chorus-e3bcc31c31515c2e7cf5.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "23",
+            "url": "https://cdn.vox-cdn.com/packs/chorus-e3bcc31c31515c2e7cf5.js",
+            "lineNumber": 0,
+            "columnNumber": 301430
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'end' of undefined\n    at https://cdn.vox-cdn.com/packs/chorus-e3bcc31c31515c2e7cf5.js:1:301431",
+        "objectId": "{\"injectedScriptId\":3,\"id\":30}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'end' of undefined\n    at https://cdn.vox-cdn.com/packs/chorus-e3bcc31c31515c2e7cf5.js:1:301431",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'end' of undefined…com/packs/chorus-e3bcc31c31515c2e7cf5.js:1:301431"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'end' of undefined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1582892934256.818,
+    "exceptionDetails": {
+      "exceptionId": 31,
+      "text": "Uncaught",
+      "lineNumber": 0,
+      "columnNumber": 301430,
+      "url": "https://cdn.vox-cdn.com/packs/chorus-e3bcc31c31515c2e7cf5.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "23",
+            "url": "https://cdn.vox-cdn.com/packs/chorus-e3bcc31c31515c2e7cf5.js",
+            "lineNumber": 0,
+            "columnNumber": 301430
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'end' of undefined\n    at https://cdn.vox-cdn.com/packs/chorus-e3bcc31c31515c2e7cf5.js:1:301431",
+        "objectId": "{\"injectedScriptId\":3,\"id\":31}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'end' of undefined\n    at https://cdn.vox-cdn.com/packs/chorus-e3bcc31c31515c2e7cf5.js:1:301431",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'end' of undefined…com/packs/chorus-e3bcc31c31515c2e7cf5.js:1:301431"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'end' of undefined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1582892934356.813,
+    "exceptionDetails": {
+      "exceptionId": 32,
+      "text": "Uncaught",
+      "lineNumber": 0,
+      "columnNumber": 301430,
+      "url": "https://cdn.vox-cdn.com/packs/chorus-e3bcc31c31515c2e7cf5.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "23",
+            "url": "https://cdn.vox-cdn.com/packs/chorus-e3bcc31c31515c2e7cf5.js",
+            "lineNumber": 0,
+            "columnNumber": 301430
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'end' of undefined\n    at https://cdn.vox-cdn.com/packs/chorus-e3bcc31c31515c2e7cf5.js:1:301431",
+        "objectId": "{\"injectedScriptId\":3,\"id\":32}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'end' of undefined\n    at https://cdn.vox-cdn.com/packs/chorus-e3bcc31c31515c2e7cf5.js:1:301431",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'end' of undefined…com/packs/chorus-e3bcc31c31515c2e7cf5.js:1:301431"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'end' of undefined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1582892934456.838,
+    "exceptionDetails": {
+      "exceptionId": 33,
+      "text": "Uncaught",
+      "lineNumber": 0,
+      "columnNumber": 301430,
+      "url": "https://cdn.vox-cdn.com/packs/chorus-e3bcc31c31515c2e7cf5.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "23",
+            "url": "https://cdn.vox-cdn.com/packs/chorus-e3bcc31c31515c2e7cf5.js",
+            "lineNumber": 0,
+            "columnNumber": 301430
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'end' of undefined\n    at https://cdn.vox-cdn.com/packs/chorus-e3bcc31c31515c2e7cf5.js:1:301431",
+        "objectId": "{\"injectedScriptId\":3,\"id\":33}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'end' of undefined\n    at https://cdn.vox-cdn.com/packs/chorus-e3bcc31c31515c2e7cf5.js:1:301431",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'end' of undefined…com/packs/chorus-e3bcc31c31515c2e7cf5.js:1:301431"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'end' of undefined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1582892934556.8171,
+    "exceptionDetails": {
+      "exceptionId": 34,
+      "text": "Uncaught",
+      "lineNumber": 0,
+      "columnNumber": 301430,
+      "url": "https://cdn.vox-cdn.com/packs/chorus-e3bcc31c31515c2e7cf5.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "23",
+            "url": "https://cdn.vox-cdn.com/packs/chorus-e3bcc31c31515c2e7cf5.js",
+            "lineNumber": 0,
+            "columnNumber": 301430
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'end' of undefined\n    at https://cdn.vox-cdn.com/packs/chorus-e3bcc31c31515c2e7cf5.js:1:301431",
+        "objectId": "{\"injectedScriptId\":3,\"id\":34}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'end' of undefined\n    at https://cdn.vox-cdn.com/packs/chorus-e3bcc31c31515c2e7cf5.js:1:301431",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'end' of undefined…com/packs/chorus-e3bcc31c31515c2e7cf5.js:1:301431"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'end' of undefined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1582892934656.496,
+    "exceptionDetails": {
+      "exceptionId": 35,
+      "text": "Uncaught",
+      "lineNumber": 0,
+      "columnNumber": 301430,
+      "url": "https://cdn.vox-cdn.com/packs/chorus-e3bcc31c31515c2e7cf5.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "23",
+            "url": "https://cdn.vox-cdn.com/packs/chorus-e3bcc31c31515c2e7cf5.js",
+            "lineNumber": 0,
+            "columnNumber": 301430
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'end' of undefined\n    at https://cdn.vox-cdn.com/packs/chorus-e3bcc31c31515c2e7cf5.js:1:301431",
+        "objectId": "{\"injectedScriptId\":3,\"id\":35}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'end' of undefined\n    at https://cdn.vox-cdn.com/packs/chorus-e3bcc31c31515c2e7cf5.js:1:301431",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'end' of undefined…com/packs/chorus-e3bcc31c31515c2e7cf5.js:1:301431"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'end' of undefined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1582892934756.43,
+    "exceptionDetails": {
+      "exceptionId": 36,
+      "text": "Uncaught",
+      "lineNumber": 0,
+      "columnNumber": 301430,
+      "url": "https://cdn.vox-cdn.com/packs/chorus-e3bcc31c31515c2e7cf5.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "23",
+            "url": "https://cdn.vox-cdn.com/packs/chorus-e3bcc31c31515c2e7cf5.js",
+            "lineNumber": 0,
+            "columnNumber": 301430
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'end' of undefined\n    at https://cdn.vox-cdn.com/packs/chorus-e3bcc31c31515c2e7cf5.js:1:301431",
+        "objectId": "{\"injectedScriptId\":3,\"id\":36}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'end' of undefined\n    at https://cdn.vox-cdn.com/packs/chorus-e3bcc31c31515c2e7cf5.js:1:301431",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'end' of undefined…com/packs/chorus-e3bcc31c31515c2e7cf5.js:1:301431"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'end' of undefined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1582892934856.432,
+    "exceptionDetails": {
+      "exceptionId": 37,
+      "text": "Uncaught",
+      "lineNumber": 0,
+      "columnNumber": 301430,
+      "url": "https://cdn.vox-cdn.com/packs/chorus-e3bcc31c31515c2e7cf5.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "23",
+            "url": "https://cdn.vox-cdn.com/packs/chorus-e3bcc31c31515c2e7cf5.js",
+            "lineNumber": 0,
+            "columnNumber": 301430
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'end' of undefined\n    at https://cdn.vox-cdn.com/packs/chorus-e3bcc31c31515c2e7cf5.js:1:301431",
+        "objectId": "{\"injectedScriptId\":3,\"id\":37}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'end' of undefined\n    at https://cdn.vox-cdn.com/packs/chorus-e3bcc31c31515c2e7cf5.js:1:301431",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'end' of undefined…com/packs/chorus-e3bcc31c31515c2e7cf5.js:1:301431"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'end' of undefined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1582892934956.534,
+    "exceptionDetails": {
+      "exceptionId": 38,
+      "text": "Uncaught",
+      "lineNumber": 0,
+      "columnNumber": 301430,
+      "url": "https://cdn.vox-cdn.com/packs/chorus-e3bcc31c31515c2e7cf5.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "23",
+            "url": "https://cdn.vox-cdn.com/packs/chorus-e3bcc31c31515c2e7cf5.js",
+            "lineNumber": 0,
+            "columnNumber": 301430
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'end' of undefined\n    at https://cdn.vox-cdn.com/packs/chorus-e3bcc31c31515c2e7cf5.js:1:301431",
+        "objectId": "{\"injectedScriptId\":3,\"id\":38}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'end' of undefined\n    at https://cdn.vox-cdn.com/packs/chorus-e3bcc31c31515c2e7cf5.js:1:301431",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'end' of undefined…com/packs/chorus-e3bcc31c31515c2e7cf5.js:1:301431"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'end' of undefined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1582892935056.504,
+    "exceptionDetails": {
+      "exceptionId": 39,
+      "text": "Uncaught",
+      "lineNumber": 0,
+      "columnNumber": 301430,
+      "url": "https://cdn.vox-cdn.com/packs/chorus-e3bcc31c31515c2e7cf5.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "23",
+            "url": "https://cdn.vox-cdn.com/packs/chorus-e3bcc31c31515c2e7cf5.js",
+            "lineNumber": 0,
+            "columnNumber": 301430
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'end' of undefined\n    at https://cdn.vox-cdn.com/packs/chorus-e3bcc31c31515c2e7cf5.js:1:301431",
+        "objectId": "{\"injectedScriptId\":3,\"id\":39}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'end' of undefined\n    at https://cdn.vox-cdn.com/packs/chorus-e3bcc31c31515c2e7cf5.js:1:301431",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'end' of undefined…com/packs/chorus-e3bcc31c31515c2e7cf5.js:1:301431"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'end' of undefined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

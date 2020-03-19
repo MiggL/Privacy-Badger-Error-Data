@@ -1,0 +1,379 @@
+[
+  {
+    "timestamp": 1583009884916.317,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 5,
+      "columnNumber": 1411,
+      "url": "https://www.filae.com/js/bootstrap.min.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "67",
+            "url": "https://www.filae.com/js/bootstrap.min.js",
+            "lineNumber": 5,
+            "columnNumber": 1411
+          },
+          {
+            "functionName": "",
+            "scriptId": "67",
+            "url": "https://www.filae.com/js/bootstrap.min.js",
+            "lineNumber": 5,
+            "columnNumber": 1461
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: a(...).on is not a function\n    at https://www.filae.com/js/bootstrap.min.js:6:1412\n    at https://www.filae.com/js/bootstrap.min.js:6:1462",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: a(...).on is not a function\n    at https://www.filae.com/js/bootstrap.min.js:6:1412\n    at https://www.filae.com/js/bootstrap.min.js:6:1462",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: a(...).on is not a function\n    at http… https://www.filae.com/js/bootstrap.min.js:6:1462"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "a(...).on is not a function"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583009885243.271,
+    "exceptionDetails": {
+      "exceptionId": 2,
+      "text": "Uncaught",
+      "lineNumber": 0,
+      "columnNumber": 56,
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "isCookieExists",
+            "scriptId": "85",
+            "url": "",
+            "lineNumber": 0,
+            "columnNumber": 56
+          },
+          {
+            "functionName": "",
+            "scriptId": "85",
+            "url": "",
+            "lineNumber": 0,
+            "columnNumber": 66
+          },
+          {
+            "functionName": "",
+            "scriptId": "76",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-5F97KZ",
+            "lineNumber": 1339,
+            "columnNumber": 413
+          },
+          {
+            "functionName": "c",
+            "scriptId": "76",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-5F97KZ",
+            "lineNumber": 1341,
+            "columnNumber": 151
+          },
+          {
+            "functionName": "Db",
+            "scriptId": "76",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-5F97KZ",
+            "lineNumber": 1177,
+            "columnNumber": 395
+          },
+          {
+            "functionName": "e",
+            "scriptId": "76",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-5F97KZ",
+            "lineNumber": 1223,
+            "columnNumber": 137
+          },
+          {
+            "functionName": "",
+            "scriptId": "76",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-5F97KZ",
+            "lineNumber": 1166,
+            "columnNumber": 113
+          },
+          {
+            "functionName": "",
+            "scriptId": "76",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-5F97KZ",
+            "lineNumber": 1224,
+            "columnNumber": 228
+          },
+          {
+            "functionName": "",
+            "scriptId": "76",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-5F97KZ",
+            "lineNumber": 1223,
+            "columnNumber": 472
+          },
+          {
+            "functionName": "of",
+            "scriptId": "76",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-5F97KZ",
+            "lineNumber": 1224,
+            "columnNumber": 517
+          },
+          {
+            "functionName": "qf",
+            "scriptId": "76",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-5F97KZ",
+            "lineNumber": 1226,
+            "columnNumber": 226
+          },
+          {
+            "functionName": "ij",
+            "scriptId": "76",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-5F97KZ",
+            "lineNumber": 1269,
+            "columnNumber": 186
+          },
+          {
+            "functionName": "hj",
+            "scriptId": "76",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-5F97KZ",
+            "lineNumber": 1269,
+            "columnNumber": 0
+          },
+          {
+            "functionName": "jj",
+            "scriptId": "76",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-5F97KZ",
+            "lineNumber": 1271,
+            "columnNumber": 356
+          },
+          {
+            "functionName": "kj",
+            "scriptId": "76",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-5F97KZ",
+            "lineNumber": 1272,
+            "columnNumber": 29
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: $.cookie is not a function\n    at isCookieExists (<anonymous>:1:57)\n    at <anonymous>:1:67\n    at https://www.googletagmanager.com/gtm.js?id=GTM-5F97KZ:1340:414\n    at c (https://www.googletagmanager.com/gtm.js?id=GTM-5F97KZ:1342:152)\n    at Db (https://www.googletagmanager.com/gtm.js?id=GTM-5F97KZ:1178:396)\n    at e (https://www.googletagmanager.com/gtm.js?id=GTM-5F97KZ:1224:138)\n    at https://www.googletagmanager.com/gtm.js?id=GTM-5F97KZ:1167:114\n    at Array.<anonymous> (https://www.googletagmanager.com/gtm.js?id=GTM-5F97KZ:1225:229)\n    at Object.Zf (https://www.googletagmanager.com/gtm.js?id=GTM-5F97KZ:1224:473)\n    at of (https://www.googletagmanager.com/gtm.js?id=GTM-5F97KZ:1225:518)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":2}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: $.cookie is not a function\n    at isCookieExists (<anonymous>:1:57)\n    at <anonymous>:1:67\n    at https://www.googletagmanager.com/gtm.js?id=GTM-5F97KZ:1340:414\n    at c (https://www.googletagmanager.com/gtm.js?id=GTM-5F97KZ:1342:152)\n    at Db (https://www.googletagmanager.com/gtm.js?id=GTM-5F97KZ:1178:396)\n    at e (https://www.googletagmanager.com/gtm.js?id=GTM-5F97KZ:1224:138)\n    at https://www.googletagmanager.com/gtm.js?id=GTM-5F97KZ:1167:114\n    at Array.<anonymous> (https://www.googletagmanager.com/gtm.js?id=GTM-5F97KZ:1225:229)\n    at Object.Zf (https://www.googletagmanager.com/gtm.js?id=GTM-5F97KZ:1224:473)\n    at of (https://www.googletagmanager.com/gtm.js?id=GTM-5F97KZ:1225:518)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: $.cookie is not a function\n    at isCoo…ogletagmanager.com/gtm.js?id=GTM-5F97KZ:1225:518)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "$.cookie is not a function"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583009885346.06,
+    "exceptionDetails": {
+      "exceptionId": 3,
+      "text": "Uncaught",
+      "lineNumber": 290,
+      "columnNumber": 27,
+      "url": "https://www.filae.com/v4/genealogie/Scripts/Common/register-login.js?v=20200225141720",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "95",
+            "url": "https://www.filae.com/v4/genealogie/Scripts/Common/register-login.js?v=20200225141720",
+            "lineNumber": 290,
+            "columnNumber": 27
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: $(...).on is not a function\n    at https://www.filae.com/v4/genealogie/Scripts/Common/register-login.js?v=20200225141720:291:28",
+        "objectId": "{\"injectedScriptId\":3,\"id\":3}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: $(...).on is not a function\n    at https://www.filae.com/v4/genealogie/Scripts/Common/register-login.js?v=20200225141720:291:28",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: $(...).on is not a function\n    at http…/Common/register-login.js?v=20200225141720:291:28"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "$(...).on is not a function"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583009885398.8098,
+    "exceptionDetails": {
+      "exceptionId": 4,
+      "text": "Uncaught",
+      "lineNumber": 25,
+      "columnNumber": 15902,
+      "scriptId": "14",
+      "url": "https://www.filae.com/v4/genealogie/Scripts/GenealogieNew.js?v=20160119142015",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "70",
+            "url": "https://www.filae.com/v4/genealogie/Content/JSLibraries/bootstrap/bootstrap-dropdown-on-hover.js",
+            "lineNumber": 57,
+            "columnNumber": 25
+          },
+          {
+            "functionName": "each",
+            "scriptId": "14",
+            "url": "https://www.filae.com/v4/genealogie/Scripts/GenealogieNew.js?v=20160119142015",
+            "lineNumber": 25,
+            "columnNumber": 13745
+          },
+          {
+            "functionName": "each",
+            "scriptId": "14",
+            "url": "https://www.filae.com/v4/genealogie/Scripts/GenealogieNew.js?v=20160119142015",
+            "lineNumber": 25,
+            "columnNumber": 9710
+          },
+          {
+            "functionName": "plugin.init",
+            "scriptId": "70",
+            "url": "https://www.filae.com/v4/genealogie/Content/JSLibraries/bootstrap/bootstrap-dropdown-on-hover.js",
+            "lineNumber": 49,
+            "columnNumber": 56
+          },
+          {
+            "functionName": "$.bootstrapDropdownOnHover",
+            "scriptId": "70",
+            "url": "https://www.filae.com/v4/genealogie/Content/JSLibraries/bootstrap/bootstrap-dropdown-on-hover.js",
+            "lineNumber": 178,
+            "columnNumber": 15
+          },
+          {
+            "functionName": "",
+            "scriptId": "70",
+            "url": "https://www.filae.com/v4/genealogie/Content/JSLibraries/bootstrap/bootstrap-dropdown-on-hover.js",
+            "lineNumber": 193,
+            "columnNumber": 29
+          },
+          {
+            "functionName": "each",
+            "scriptId": "14",
+            "url": "https://www.filae.com/v4/genealogie/Scripts/GenealogieNew.js?v=20160119142015",
+            "lineNumber": 25,
+            "columnNumber": 13745
+          },
+          {
+            "functionName": "each",
+            "scriptId": "14",
+            "url": "https://www.filae.com/v4/genealogie/Scripts/GenealogieNew.js?v=20160119142015",
+            "lineNumber": 25,
+            "columnNumber": 9710
+          },
+          {
+            "functionName": "$.fn.bootstrapDropdownOnHover",
+            "scriptId": "70",
+            "url": "https://www.filae.com/v4/genealogie/Content/JSLibraries/bootstrap/bootstrap-dropdown-on-hover.js",
+            "lineNumber": 186,
+            "columnNumber": 20
+          },
+          {
+            "functionName": "",
+            "scriptId": "71",
+            "url": "https://www.filae.com/v4/forums/recherches-genealogiques-merci-beaucoup-benedicte-img-src-/v4/forums/images/emoticons/icon_exclaim-gif-alt-exclamation-quelle-re-m11052539-p119.html",
+            "lineNumber": 172,
+            "columnNumber": 66
+          },
+          {
+            "functionName": "resolveWith",
+            "scriptId": "14",
+            "url": "https://www.filae.com/v4/genealogie/Scripts/GenealogieNew.js?v=20160119142015",
+            "lineNumber": 25,
+            "columnNumber": 15876
+          },
+          {
+            "functionName": "ready",
+            "scriptId": "14",
+            "url": "https://www.filae.com/v4/genealogie/Scripts/GenealogieNew.js?v=20160119142015",
+            "lineNumber": 25,
+            "columnNumber": 11203
+          },
+          {
+            "functionName": "A",
+            "scriptId": "14",
+            "url": "https://www.filae.com/v4/genealogie/Scripts/GenealogieNew.js?v=20160119142015",
+            "lineNumber": 25,
+            "columnNumber": 18189
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: $trigger.on is not a function\n    at HTMLAnchorElement.<anonymous> (https://www.filae.com/v4/genealogie/Content/JSLibraries/bootstrap/bootstrap-dropdown-on-hover.js:58:26)\n    at Function.each (https://www.filae.com/v4/genealogie/Scripts/GenealogieNew.js?v=20160119142015:26:13746)\n    at init.each (https://www.filae.com/v4/genealogie/Scripts/GenealogieNew.js?v=20160119142015:26:9711)\n    at $.bootstrapDropdownOnHover.plugin.init (https://www.filae.com/v4/genealogie/Content/JSLibraries/bootstrap/bootstrap-dropdown-on-hover.js:50:57)\n    at new $.bootstrapDropdownOnHover (https://www.filae.com/v4/genealogie/Content/JSLibraries/bootstrap/bootstrap-dropdown-on-hover.js:179:16)\n    at HTMLUListElement.<anonymous> (https://www.filae.com/v4/genealogie/Content/JSLibraries/bootstrap/bootstrap-dropdown-on-hover.js:194:30)\n    at Function.each (https://www.filae.com/v4/genealogie/Scripts/GenealogieNew.js?v=20160119142015:26:13746)\n    at init.each (https://www.filae.com/v4/genealogie/Scripts/GenealogieNew.js?v=20160119142015:26:9711)\n    at init.$.fn.bootstrapDropdownOnHover (https://www.filae.com/v4/genealogie/Content/JSLibraries/bootstrap/bootstrap-dropdown-on-hover.js:187:21)\n    at HTMLDocument.<anonymous> (https://www.filae.com/v4/forums/recherches-genealogiques-merci-beaucoup-benedicte-img-src-/v4/forums/images/emoticons/icon_exclaim-gif-alt-exclamation-quelle-re-m11052539-p119.html:173:67)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":4}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: $trigger.on is not a function\n    at HTMLAnchorElement.<anonymous> (https://www.filae.com/v4/genealogie/Content/JSLibraries/bootstrap/bootstrap-dropdown-on-hover.js:58:26)\n    at Function.each (https://www.filae.com/v4/genealogie/Scripts/GenealogieNew.js?v=20160119142015:26:13746)\n    at init.each (https://www.filae.com/v4/genealogie/Scripts/GenealogieNew.js?v=20160119142015:26:9711)\n    at $.bootstrapDropdownOnHover.plugin.init (https://www.filae.com/v4/genealogie/Content/JSLibraries/bootstrap/bootstrap-dropdown-on-hover.js:50:57)\n    at new $.bootstrapDropdownOnHover (https://www.filae.com/v4/genealogie/Content/JSLibraries/bootstrap/bootstrap-dropdown-on-hover.js:179:16)\n    at HTMLUListElement.<anonymous> (https://www.filae.com/v4/genealogie/Content/JSLibraries/bootstrap/bootstrap-dropdown-on-hover.js:194:30)\n    at Function.each (https://www.filae.com/v4/genealogie/Scripts/GenealogieNew.js?v=20160119142015:26:13746)\n    at init.each (https://www.filae.com/v4/genealogie/Scripts/GenealogieNew.js?v=20160119142015:26:9711)\n    at init.$.fn.bootstrapDropdownOnHover (https://www.filae.com/v4/genealogie/Content/JSLibraries/bootstrap/bootstrap-dropdown-on-hover.js:187:21)\n    at HTMLDocument.<anonymous> (https://www.filae.com/v4/forums/recherches-genealogiques-merci-beaucoup-benedicte-img-src-/v4/forums/images/emoticons/icon_exclaim-gif-alt-exclamation-quelle-re-m11052539-p119.html:173:67)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: $trigger.on is not a function\n    at HT…exclamation-quelle-re-m11052539-p119.html:173:67)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "$trigger.on is not a function"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

@@ -1,0 +1,162 @@
+[
+  {
+    "timestamp": 1583004573100.8179,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 13,
+      "columnNumber": 59,
+      "scriptId": "76",
+      "url": "https://www.peugeotcentral.co.uk/ftopic-13722.html",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "75",
+            "url": "https://www.peugeotcentral.co.uk/includes/overlib_hideform.js",
+            "lineNumber": 119,
+            "columnNumber": 17
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "SyntaxError",
+        "description": "SyntaxError: Unexpected token '{'\n    at https://www.peugeotcentral.co.uk/includes/overlib_hideform.js:120:18",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "SyntaxError: Unexpected token '{'\n    at https://www.peugeotcentral.co.uk/includes/overlib_hideform.js:120:18",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "SyntaxError: Unexpected token '{'\n    at https://w…central.co.uk/includes/overlib_hideform.js:120:18"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Unexpected token '{'"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583004573311.471,
+    "exceptionDetails": {
+      "exceptionId": 2,
+      "text": "Uncaught",
+      "lineNumber": 458,
+      "columnNumber": 1,
+      "scriptId": "102",
+      "url": "https://www.peugeotcentral.co.uk/ftopic-13722.html",
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "SyntaxError",
+        "description": "SyntaxError: Unexpected token 'else'",
+        "objectId": "{\"injectedScriptId\":3,\"id\":2}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "SyntaxError: Unexpected token 'else'",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "SyntaxError: Unexpected token 'else'"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Unexpected token 'else'"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583004573613.752,
+    "exceptionDetails": {
+      "exceptionId": 3,
+      "text": "Uncaught",
+      "lineNumber": 1,
+      "columnNumber": 5290,
+      "url": "https://s7.addthis.com/static/r07/core201.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "s",
+            "scriptId": "115",
+            "url": "https://s7.addthis.com/static/r07/core201.js",
+            "lineNumber": 1,
+            "columnNumber": 5290
+          },
+          {
+            "functionName": "s",
+            "scriptId": "115",
+            "url": "https://s7.addthis.com/static/r07/core201.js",
+            "lineNumber": 4,
+            "columnNumber": 16665
+          },
+          {
+            "functionName": "t.exports",
+            "scriptId": "115",
+            "url": "https://s7.addthis.com/static/r07/core201.js",
+            "lineNumber": 1,
+            "columnNumber": 7732
+          },
+          {
+            "functionName": "",
+            "scriptId": "128",
+            "url": "https://s7.addthis.com/static/r07/menu174.js",
+            "lineNumber": 1,
+            "columnNumber": 28949
+          },
+          {
+            "functionName": "",
+            "scriptId": "128",
+            "url": "https://s7.addthis.com/static/r07/menu174.js",
+            "lineNumber": 1,
+            "columnNumber": 29536
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: w is not defined\n    at Object.s [as ctp] (https://s7.addthis.com/static/r07/core201.js:2:5291)\n    at s (https://s7.addthis.com/static/r07/core201.js:5:16666)\n    at Object.t.exports [as genurl] (https://s7.addthis.com/static/r07/core201.js:2:7733)\n    at https://s7.addthis.com/static/r07/menu174.js:2:28950\n    at https://s7.addthis.com/static/r07/menu174.js:2:29537",
+        "objectId": "{\"injectedScriptId\":3,\"id\":3}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: w is not defined\n    at Object.s [as ctp] (https://s7.addthis.com/static/r07/core201.js:2:5291)\n    at s (https://s7.addthis.com/static/r07/core201.js:5:16666)\n    at Object.t.exports [as genurl] (https://s7.addthis.com/static/r07/core201.js:2:7733)\n    at https://s7.addthis.com/static/r07/menu174.js:2:28950\n    at https://s7.addthis.com/static/r07/menu174.js:2:29537",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: w is not defined\n    at Object.s […ps://s7.addthis.com/static/r07/menu174.js:2:29537"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "w is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

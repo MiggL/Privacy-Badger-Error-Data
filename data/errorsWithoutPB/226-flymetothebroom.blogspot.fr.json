@@ -1,0 +1,164 @@
+[
+  {
+    "timestamp": 1583011336335.4348,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 248,
+      "columnNumber": 9,
+      "url": "http://img68.xooimage.com/files/4/3/7/tubetrucos-2dd00ad.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "25",
+            "url": "http://img68.xooimage.com/files/4/3/7/tubetrucos-2dd00ad.js",
+            "lineNumber": 248,
+            "columnNumber": 9
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: jaaspeel.putObjects is not a function\n    at http://img68.xooimage.com/files/4/3/7/tubetrucos-2dd00ad.js:249:10",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: jaaspeel.putObjects is not a function\n    at http://img68.xooimage.com/files/4/3/7/tubetrucos-2dd00ad.js:249:10",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: jaaspeel.putObjects is not a function\n …mage.com/files/4/3/7/tubetrucos-2dd00ad.js:249:10"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "jaaspeel.putObjects is not a function"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583011337545.145,
+    "exceptionDetails": {
+      "exceptionId": 2,
+      "text": "Uncaught",
+      "lineNumber": 710,
+      "columnNumber": 40,
+      "url": "http://flymetothebroom.blogspot.com/2014/10/ladybug-shoemaker-shoemaker.html",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "init",
+            "scriptId": "14",
+            "url": "http://flymetothebroom.blogspot.com/2014/10/ladybug-shoemaker-shoemaker.html",
+            "lineNumber": 710,
+            "columnNumber": 40
+          },
+          {
+            "functionName": "",
+            "scriptId": "14",
+            "url": "http://flymetothebroom.blogspot.com/2014/10/ladybug-shoemaker-shoemaker.html",
+            "lineNumber": 736,
+            "columnNumber": 4
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'getElementsByTagName' of null\n    at Object.init (http://flymetothebroom.blogspot.com/2014/10/ladybug-shoemaker-shoemaker.html:711:41)\n    at http://flymetothebroom.blogspot.com/2014/10/ladybug-shoemaker-shoemaker.html:737:5",
+        "objectId": "{\"injectedScriptId\":3,\"id\":2}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'getElementsByTagName' of null\n    at Object.init (http://flymetothebroom.blogspot.com/2014/10/ladybug-shoemaker-shoemaker.html:711:41)\n    at http://flymetothebroom.blogspot.com/2014/10/ladybug-shoemaker-shoemaker.html:737:5",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'getElementsByTagN…om/2014/10/ladybug-shoemaker-shoemaker.html:737:5"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'getElementsByTagName' of null"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583011337548.178,
+    "exceptionDetails": {
+      "exceptionId": 3,
+      "text": "Uncaught",
+      "lineNumber": 228,
+      "columnNumber": 4,
+      "url": "http://img68.xooimage.com/files/4/3/7/tubetrucos-2dd00ad.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "setOpacity",
+            "scriptId": "25",
+            "url": "http://img68.xooimage.com/files/4/3/7/tubetrucos-2dd00ad.js",
+            "lineNumber": 228,
+            "columnNumber": 4
+          },
+          {
+            "functionName": "initImage",
+            "scriptId": "25",
+            "url": "http://img68.xooimage.com/files/4/3/7/tubetrucos-2dd00ad.js",
+            "lineNumber": 211,
+            "columnNumber": 0
+          },
+          {
+            "functionName": "window.onload",
+            "scriptId": "25",
+            "url": "http://img68.xooimage.com/files/4/3/7/tubetrucos-2dd00ad.js",
+            "lineNumber": 204,
+            "columnNumber": 0
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'style' of null\n    at setOpacity (http://img68.xooimage.com/files/4/3/7/tubetrucos-2dd00ad.js:229:5)\n    at initImage (http://img68.xooimage.com/files/4/3/7/tubetrucos-2dd00ad.js:212:1)\n    at window.onload (http://img68.xooimage.com/files/4/3/7/tubetrucos-2dd00ad.js:205:1)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":3}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'style' of null\n    at setOpacity (http://img68.xooimage.com/files/4/3/7/tubetrucos-2dd00ad.js:229:5)\n    at initImage (http://img68.xooimage.com/files/4/3/7/tubetrucos-2dd00ad.js:212:1)\n    at window.onload (http://img68.xooimage.com/files/4/3/7/tubetrucos-2dd00ad.js:205:1)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'style' of null\n  …mage.com/files/4/3/7/tubetrucos-2dd00ad.js:205:1)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'style' of null"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

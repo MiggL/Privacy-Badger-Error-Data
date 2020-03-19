@@ -1,0 +1,190 @@
+[
+  {
+    "timestamp": 1583417134151.238,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 214,
+      "columnNumber": 48,
+      "url": "http://www.jrheum.org/content/early/2017/01/26/jrheum.161240",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "32",
+            "url": "http://www.jrheum.org/content/early/2017/01/26/jrheum.161240",
+            "lineNumber": 214,
+            "columnNumber": 48
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: googletag.defineSlot is not a function\n    at http://www.jrheum.org/content/early/2017/01/26/jrheum.161240:215:49",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: googletag.defineSlot is not a function\n    at http://www.jrheum.org/content/early/2017/01/26/jrheum.161240:215:49",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: googletag.defineSlot is not a function\n…org/content/early/2017/01/26/jrheum.161240:215:49"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "googletag.defineSlot is not a function"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583417134158.203,
+    "exceptionDetails": {
+      "exceptionId": 2,
+      "text": "Uncaught",
+      "lineNumber": 221,
+      "columnNumber": 24,
+      "url": "http://www.jrheum.org/content/early/2017/01/26/jrheum.161240",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "33",
+            "url": "http://www.jrheum.org/content/early/2017/01/26/jrheum.161240",
+            "lineNumber": 221,
+            "columnNumber": 24
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: googletag.sizeMapping is not a function\n    at http://www.jrheum.org/content/early/2017/01/26/jrheum.161240:222:25",
+        "objectId": "{\"injectedScriptId\":3,\"id\":2}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: googletag.sizeMapping is not a function\n    at http://www.jrheum.org/content/early/2017/01/26/jrheum.161240:222:25",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: googletag.sizeMapping is not a function…org/content/early/2017/01/26/jrheum.161240:222:25"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "googletag.sizeMapping is not a function"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583417134158.526,
+    "exceptionDetails": {
+      "exceptionId": 3,
+      "text": "Uncaught",
+      "lineNumber": 232,
+      "columnNumber": 24,
+      "url": "http://www.jrheum.org/content/early/2017/01/26/jrheum.161240",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "34",
+            "url": "http://www.jrheum.org/content/early/2017/01/26/jrheum.161240",
+            "lineNumber": 232,
+            "columnNumber": 24
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: googletag.sizeMapping is not a function\n    at http://www.jrheum.org/content/early/2017/01/26/jrheum.161240:233:25",
+        "objectId": "{\"injectedScriptId\":3,\"id\":3}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: googletag.sizeMapping is not a function\n    at http://www.jrheum.org/content/early/2017/01/26/jrheum.161240:233:25",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: googletag.sizeMapping is not a function…org/content/early/2017/01/26/jrheum.161240:233:25"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "googletag.sizeMapping is not a function"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583417134159.884,
+    "exceptionDetails": {
+      "exceptionId": 4,
+      "text": "Uncaught",
+      "lineNumber": 266,
+      "columnNumber": 10,
+      "url": "http://www.jrheum.org/content/early/2017/01/26/jrheum.161240",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "38",
+            "url": "http://www.jrheum.org/content/early/2017/01/26/jrheum.161240",
+            "lineNumber": 266,
+            "columnNumber": 10
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: googletag.enableServices is not a function\n    at http://www.jrheum.org/content/early/2017/01/26/jrheum.161240:267:11",
+        "objectId": "{\"injectedScriptId\":3,\"id\":4}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: googletag.enableServices is not a function\n    at http://www.jrheum.org/content/early/2017/01/26/jrheum.161240:267:11",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: googletag.enableServices is not a funct…org/content/early/2017/01/26/jrheum.161240:267:11"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "googletag.enableServices is not a function"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

@@ -1,0 +1,225 @@
+[
+  {
+    "timestamp": 1582897247985.879,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught (in promise)",
+      "lineNumber": 0,
+      "columnNumber": 0,
+      "scriptId": "1",
+      "url": "http://www.linternaute.fr/expression/langue-francaise/1305/objet-suspect/",
+      "exception": {
+        "type": "object",
+        "className": "Object",
+        "description": "Object",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "description": "Object",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "url",
+              "type": "string",
+              "value": "//acdn.adnxs.com/ast/ast.js"
+            },
+            {
+              "name": "options",
+              "type": "object",
+              "value": "Object"
+            },
+            {
+              "name": "node",
+              "type": "object",
+              "value": "script",
+              "subtype": "node"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1582897247986.1592,
+    "exceptionDetails": {
+      "exceptionId": 2,
+      "text": "Uncaught (in promise)",
+      "lineNumber": 0,
+      "columnNumber": 0,
+      "scriptId": "1",
+      "url": "http://www.linternaute.fr/expression/langue-francaise/1305/objet-suspect/",
+      "exception": {
+        "type": "object",
+        "className": "Object",
+        "description": "Object",
+        "objectId": "{\"injectedScriptId\":3,\"id\":2}",
+        "preview": {
+          "type": "object",
+          "description": "Object",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "url",
+              "type": "string",
+              "value": "https://w.estat.com/js/whap.js"
+            },
+            {
+              "name": "options",
+              "type": "object",
+              "value": "Object"
+            },
+            {
+              "name": "node",
+              "type": "object",
+              "value": "script",
+              "subtype": "node"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1582897247986.295,
+    "exceptionDetails": {
+      "exceptionId": 3,
+      "text": "Uncaught (in promise)",
+      "lineNumber": 0,
+      "columnNumber": 0,
+      "scriptId": "1",
+      "url": "http://www.linternaute.fr/expression/langue-francaise/1305/objet-suspect/",
+      "exception": {
+        "type": "object",
+        "className": "Object",
+        "description": "Object",
+        "objectId": "{\"injectedScriptId\":3,\"id\":3}",
+        "preview": {
+          "type": "object",
+          "description": "Object",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "url",
+              "type": "string",
+              "value": "https://tag.audience.acpm.fr/js/on-1.0.min.js"
+            },
+            {
+              "name": "options",
+              "type": "object",
+              "value": "Object"
+            },
+            {
+              "name": "node",
+              "type": "object",
+              "value": "script",
+              "subtype": "node"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1582897248683.43,
+    "exceptionDetails": {
+      "exceptionId": 4,
+      "text": "Uncaught",
+      "lineNumber": 64,
+      "columnNumber": 44,
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "b",
+            "scriptId": "32",
+            "url": "",
+            "lineNumber": 64,
+            "columnNumber": 44
+          },
+          {
+            "functionName": "f",
+            "scriptId": "32",
+            "url": "",
+            "lineNumber": 66,
+            "columnNumber": 363
+          },
+          {
+            "functionName": "handler",
+            "scriptId": "32",
+            "url": "",
+            "lineNumber": 71,
+            "columnNumber": 263
+          },
+          {
+            "functionName": "m",
+            "scriptId": "32",
+            "url": "",
+            "lineNumber": 27,
+            "columnNumber": 317
+          },
+          {
+            "functionName": "b.ready.push",
+            "scriptId": "32",
+            "url": "",
+            "lineNumber": 27,
+            "columnNumber": 473
+          },
+          {
+            "functionName": "",
+            "scriptId": "32",
+            "url": "",
+            "lineNumber": 71,
+            "columnNumber": 162
+          },
+          {
+            "functionName": "_gtm.utils.positionInsertion",
+            "scriptId": "32",
+            "url": "",
+            "lineNumber": 69,
+            "columnNumber": 284
+          },
+          {
+            "functionName": "",
+            "scriptId": "177",
+            "url": "",
+            "lineNumber": 0,
+            "columnNumber": 102
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "Error",
+        "description": "handledError: PositionInsertion : No insertion point found : #jPosInsertColRightBottom\n    at b (<anonymous>:65:45)\n    at f (<anonymous>:67:364)\n    at Object.handler (<anonymous>:72:264)\n    at m (<anonymous>:28:318)\n    at Array.b.ready.push (<anonymous>:28:474)\n    at <anonymous>:72:163\n    at new Promise (<anonymous>)\n    at Object._gtm.utils.positionInsertion (<anonymous>:70:285)\n    at <anonymous>:1:103",
+        "objectId": "{\"injectedScriptId\":3,\"id\":4}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "handledError: PositionInsertion : No insertion point found : #jPosInsertColRightBottom\n    at b (<anonymous>:65:45)\n    at f (<anonymous>:67:364)\n    at Object.handler (<anonymous>:72:264)\n    at m (<anonymous>:28:318)\n    at Array.b.ready.push (<anonymous>:28:474)\n    at <anonymous>:72:163\n    at new Promise (<anonymous>)\n    at Object._gtm.utils.positionInsertion (<anonymous>:70:285)\n    at <anonymous>:1:103",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "name",
+              "type": "string",
+              "value": "handledError"
+            },
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "handledError: PositionInsertion : No insertion poi…ion (<anonymous>:70:285)\n    at <anonymous>:1:103"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "PositionInsertion : No insertion point found : #jPosInsertColRightBottom"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

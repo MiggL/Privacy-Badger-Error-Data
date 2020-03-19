@@ -1,0 +1,103 @@
+[
+  {
+    "timestamp": 1582890068214.4011,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 8145,
+      "columnNumber": 283,
+      "url": "https://www.googletagmanager.com/gtm.js?id=GTM-K7SBF6T",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "error",
+            "scriptId": "37",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-K7SBF6T",
+            "lineNumber": 8145,
+            "columnNumber": 283
+          },
+          {
+            "functionName": "onerror",
+            "scriptId": "37",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-K7SBF6T",
+            "lineNumber": 8152,
+            "columnNumber": 372
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "className": "Object",
+        "description": "Object",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "description": "Object",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "message",
+              "type": "string",
+              "value": "remote script failed https://bs.serving-sys.com/Se…bs?cn=as&ActivityID=1431006&rnd=733574.3839204818"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1582890068214.562,
+    "exceptionDetails": {
+      "exceptionId": 2,
+      "text": "Uncaught",
+      "lineNumber": 8145,
+      "columnNumber": 283,
+      "url": "https://www.googletagmanager.com/gtm.js?id=GTM-K7SBF6T",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "error",
+            "scriptId": "37",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-K7SBF6T",
+            "lineNumber": 8145,
+            "columnNumber": 283
+          },
+          {
+            "functionName": "v.wb.onerror",
+            "scriptId": "37",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-K7SBF6T",
+            "lineNumber": 8153,
+            "columnNumber": 496
+          },
+          {
+            "functionName": "c",
+            "scriptId": "41",
+            "url": "https://www.atgtickets.com/assets/v1/js/2.124799b67ff043d5550b.js",
+            "lineNumber": 1,
+            "columnNumber": 245634
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "className": "Object",
+        "description": "Object",
+        "objectId": "{\"injectedScriptId\":3,\"id\":2}",
+        "preview": {
+          "type": "object",
+          "description": "Object",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "Xh",
+              "type": "string",
+              "value": "Script error. - :0"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

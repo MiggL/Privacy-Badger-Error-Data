@@ -1,0 +1,70 @@
+[
+  {
+    "timestamp": 1583007175436.603,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 0,
+      "columnNumber": 3576,
+      "url": "https://static.vic-m.co/ads/vicinity-head-tag-v1.js?zoneId=2231",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "VicinityManager.getGeoLocationInner",
+            "scriptId": "32",
+            "url": "https://static.vic-m.co/ads/vicinity-head-tag-v1.js?zoneId=2231",
+            "lineNumber": 0,
+            "columnNumber": 3576
+          },
+          {
+            "functionName": "VicinityManager.getGeoLocation",
+            "scriptId": "32",
+            "url": "https://static.vic-m.co/ads/vicinity-head-tag-v1.js?zoneId=2231",
+            "lineNumber": 0,
+            "columnNumber": 2674
+          },
+          {
+            "functionName": "VicinityManager.getAd",
+            "scriptId": "32",
+            "url": "https://static.vic-m.co/ads/vicinity-head-tag-v1.js?zoneId=2231",
+            "lineNumber": 0,
+            "columnNumber": 2097
+          },
+          {
+            "functionName": "",
+            "scriptId": "32",
+            "url": "https://static.vic-m.co/ads/vicinity-head-tag-v1.js?zoneId=2231",
+            "lineNumber": 0,
+            "columnNumber": 15106
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'locationStatus' of undefined\n    at VicinityManager.getGeoLocationInner (https://static.vic-m.co/ads/vicinity-head-tag-v1.js?zoneId=2231:1:3577)\n    at VicinityManager.getGeoLocation (https://static.vic-m.co/ads/vicinity-head-tag-v1.js?zoneId=2231:1:2675)\n    at VicinityManager.getAd (https://static.vic-m.co/ads/vicinity-head-tag-v1.js?zoneId=2231:1:2098)\n    at https://static.vic-m.co/ads/vicinity-head-tag-v1.js?zoneId=2231:1:15107",
+        "objectId": "{\"injectedScriptId\":3,\"id\":2}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'locationStatus' of undefined\n    at VicinityManager.getGeoLocationInner (https://static.vic-m.co/ads/vicinity-head-tag-v1.js?zoneId=2231:1:3577)\n    at VicinityManager.getGeoLocation (https://static.vic-m.co/ads/vicinity-head-tag-v1.js?zoneId=2231:1:2675)\n    at VicinityManager.getAd (https://static.vic-m.co/ads/vicinity-head-tag-v1.js?zoneId=2231:1:2098)\n    at https://static.vic-m.co/ads/vicinity-head-tag-v1.js?zoneId=2231:1:15107",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'locationStatus' o…o/ads/vicinity-head-tag-v1.js?zoneId=2231:1:15107"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'locationStatus' of undefined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

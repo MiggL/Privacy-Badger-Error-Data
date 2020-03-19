@@ -1,0 +1,431 @@
+[
+  {
+    "timestamp": 1583415667215.248,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 0,
+      "columnNumber": 40,
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "85",
+            "url": "",
+            "lineNumber": 0,
+            "columnNumber": 40
+          },
+          {
+            "functionName": "u.kg",
+            "scriptId": "43",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-5P8J8X",
+            "lineNumber": 5262,
+            "columnNumber": 55
+          },
+          {
+            "functionName": "u.mh",
+            "scriptId": "43",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-5P8J8X",
+            "lineNumber": 5261,
+            "columnNumber": 247
+          },
+          {
+            "functionName": "u.gg",
+            "scriptId": "43",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-5P8J8X",
+            "lineNumber": 5259,
+            "columnNumber": 218
+          },
+          {
+            "functionName": "u.kd",
+            "scriptId": "43",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-5P8J8X",
+            "lineNumber": 5257,
+            "columnNumber": 252
+          },
+          {
+            "functionName": "u.write",
+            "scriptId": "43",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-5P8J8X",
+            "lineNumber": 5256,
+            "columnNumber": 378
+          },
+          {
+            "functionName": "u",
+            "scriptId": "43",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-5P8J8X",
+            "lineNumber": 5264,
+            "columnNumber": 43
+          },
+          {
+            "functionName": "r",
+            "scriptId": "43",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-5P8J8X",
+            "lineNumber": 5263,
+            "columnNumber": 105
+          },
+          {
+            "functionName": "e.streams",
+            "scriptId": "43",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-5P8J8X",
+            "lineNumber": 5264,
+            "columnNumber": 365
+          },
+          {
+            "functionName": "",
+            "scriptId": "43",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-5P8J8X",
+            "lineNumber": 5416,
+            "columnNumber": 356
+          },
+          {
+            "functionName": "ze",
+            "scriptId": "43",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-5P8J8X",
+            "lineNumber": 5279,
+            "columnNumber": 1206
+          },
+          {
+            "functionName": "b",
+            "scriptId": "43",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-5P8J8X",
+            "lineNumber": 5416,
+            "columnNumber": 168
+          },
+          {
+            "functionName": "c",
+            "scriptId": "43",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-5P8J8X",
+            "lineNumber": 5417,
+            "columnNumber": 123
+          },
+          {
+            "functionName": "Cb",
+            "scriptId": "43",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-5P8J8X",
+            "lineNumber": 5241,
+            "columnNumber": 395
+          },
+          {
+            "functionName": "e",
+            "scriptId": "43",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-5P8J8X",
+            "lineNumber": 5287,
+            "columnNumber": 137
+          },
+          {
+            "functionName": "",
+            "scriptId": "43",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-5P8J8X",
+            "lineNumber": 5230,
+            "columnNumber": 113
+          },
+          {
+            "functionName": "",
+            "scriptId": "43",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-5P8J8X",
+            "lineNumber": 5288,
+            "columnNumber": 228
+          },
+          {
+            "functionName": "",
+            "scriptId": "43",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-5P8J8X",
+            "lineNumber": 5287,
+            "columnNumber": 472
+          },
+          {
+            "functionName": "nf",
+            "scriptId": "43",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-5P8J8X",
+            "lineNumber": 5288,
+            "columnNumber": 517
+          },
+          {
+            "functionName": "pf",
+            "scriptId": "43",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-5P8J8X",
+            "lineNumber": 5290,
+            "columnNumber": 226
+          },
+          {
+            "functionName": "hj",
+            "scriptId": "43",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-5P8J8X",
+            "lineNumber": 5333,
+            "columnNumber": 186
+          },
+          {
+            "functionName": "gj",
+            "scriptId": "43",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-5P8J8X",
+            "lineNumber": 5333,
+            "columnNumber": 0
+          },
+          {
+            "functionName": "ij",
+            "scriptId": "43",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-5P8J8X",
+            "lineNumber": 5335,
+            "columnNumber": 356
+          },
+          {
+            "functionName": "a.push",
+            "scriptId": "43",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-5P8J8X",
+            "lineNumber": 5338,
+            "columnNumber": 94
+          },
+          {
+            "functionName": "",
+            "scriptId": "43",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-5P8J8X",
+            "lineNumber": 5337,
+            "columnNumber": 216
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: window.usabilla_live is not a function\n    at <anonymous>:1:41\n    at u.kg (https://www.googletagmanager.com/gtm.js?id=GTM-5P8J8X:5263:56)\n    at u.mh (https://www.googletagmanager.com/gtm.js?id=GTM-5P8J8X:5262:248)\n    at u.gg (https://www.googletagmanager.com/gtm.js?id=GTM-5P8J8X:5260:219)\n    at u.kd (https://www.googletagmanager.com/gtm.js?id=GTM-5P8J8X:5258:253)\n    at u.write (https://www.googletagmanager.com/gtm.js?id=GTM-5P8J8X:5257:379)\n    at u (https://www.googletagmanager.com/gtm.js?id=GTM-5P8J8X:5265:44)\n    at r (https://www.googletagmanager.com/gtm.js?id=GTM-5P8J8X:5264:106)\n    at e.streams (https://www.googletagmanager.com/gtm.js?id=GTM-5P8J8X:5265:366)\n    at https://www.googletagmanager.com/gtm.js?id=GTM-5P8J8X:5417:357\n    at ze (https://www.googletagmanager.com/gtm.js?id=GTM-5P8J8X:5280:1207)\n    at b (https://www.googletagmanager.com/gtm.js?id=GTM-5P8J8X:5417:169)\n    at c (https://www.googletagmanager.com/gtm.js?id=GTM-5P8J8X:5418:124)\n    at Cb (https://www.googletagmanager.com/gtm.js?id=GTM-5P8J8X:5242:396)\n    at e (https://www.googletagmanager.com/gtm.js?id=GTM-5P8J8X:5288:138)\n    at https://www.googletagmanager.com/gtm.js?id=GTM-5P8J8X:5231:114\n    at Array.<anonymous> (https://www.googletagmanager.com/gtm.js?id=GTM-5P8J8X:5289:229)\n    at Object.Zf (https://www.googletagmanager.com/gtm.js?id=GTM-5P8J8X:5288:473)\n    at nf (https://www.googletagmanager.com/gtm.js?id=GTM-5P8J8X:5289:518)\n    at pf (https://www.googletagmanager.com/gtm.js?id=GTM-5P8J8X:5291:227)\n    at hj (https://www.googletagmanager.com/gtm.js?id=GTM-5P8J8X:5334:187)\n    at gj (https://www.googletagmanager.com/gtm.js?id=GTM-5P8J8X:5334:1)\n    at ij (https://www.googletagmanager.com/gtm.js?id=GTM-5P8J8X:5336:357)\n    at Array.a.push (https://www.googletagmanager.com/gtm.js?id=GTM-5P8J8X:5339:95)\n    at https://www.googletagmanager.com/gtm.js?id=GTM-5P8J8X:5338:217",
+        "objectId": "{\"injectedScriptId\":3,\"id\":7}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: window.usabilla_live is not a function\n    at <anonymous>:1:41\n    at u.kg (https://www.googletagmanager.com/gtm.js?id=GTM-5P8J8X:5263:56)\n    at u.mh (https://www.googletagmanager.com/gtm.js?id=GTM-5P8J8X:5262:248)\n    at u.gg (https://www.googletagmanager.com/gtm.js?id=GTM-5P8J8X:5260:219)\n    at u.kd (https://www.googletagmanager.com/gtm.js?id=GTM-5P8J8X:5258:253)\n    at u.write (https://www.googletagmanager.com/gtm.js?id=GTM-5P8J8X:5257:379)\n    at u (https://www.googletagmanager.com/gtm.js?id=GTM-5P8J8X:5265:44)\n    at r (https://www.googletagmanager.com/gtm.js?id=GTM-5P8J8X:5264:106)\n    at e.streams (https://www.googletagmanager.com/gtm.js?id=GTM-5P8J8X:5265:366)\n    at https://www.googletagmanager.com/gtm.js?id=GTM-5P8J8X:5417:357\n    at ze (https://www.googletagmanager.com/gtm.js?id=GTM-5P8J8X:5280:1207)\n    at b (https://www.googletagmanager.com/gtm.js?id=GTM-5P8J8X:5417:169)\n    at c (https://www.googletagmanager.com/gtm.js?id=GTM-5P8J8X:5418:124)\n    at Cb (https://www.googletagmanager.com/gtm.js?id=GTM-5P8J8X:5242:396)\n    at e (https://www.googletagmanager.com/gtm.js?id=GTM-5P8J8X:5288:138)\n    at https://www.googletagmanager.com/gtm.js?id=GTM-5P8J8X:5231:114\n    at Array.<anonymous> (https://www.googletagmanager.com/gtm.js?id=GTM-5P8J8X:5289:229)\n    at Object.Zf (https://www.googletagmanager.com/gtm.js?id=GTM-5P8J8X:5288:473)\n    at nf (https://www.googletagmanager.com/gtm.js?id=GTM-5P8J8X:5289:518)\n    at pf (https://www.googletagmanager.com/gtm.js?id=GTM-5P8J8X:5291:227)\n    at hj (https://www.googletagmanager.com/gtm.js?id=GTM-5P8J8X:5334:187)\n    at gj (https://www.googletagmanager.com/gtm.js?id=GTM-5P8J8X:5334:1)\n    at ij (https://www.googletagmanager.com/gtm.js?id=GTM-5P8J8X:5336:357)\n    at Array.a.push (https://www.googletagmanager.com/gtm.js?id=GTM-5P8J8X:5339:95)\n    at https://www.googletagmanager.com/gtm.js?id=GTM-5P8J8X:5338:217",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: window.usabilla_live is not a function\n…oogletagmanager.com/gtm.js?id=GTM-5P8J8X:5338:217"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "window.usabilla_live is not a function"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583415667215.6191,
+    "exceptionDetails": {
+      "exceptionId": 2,
+      "text": "Uncaught",
+      "lineNumber": 5255,
+      "columnNumber": 283,
+      "url": "https://www.googletagmanager.com/gtm.js?id=GTM-5P8J8X",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "error",
+            "scriptId": "43",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-5P8J8X",
+            "lineNumber": 5255,
+            "columnNumber": 283
+          },
+          {
+            "functionName": "v.qb.onerror",
+            "scriptId": "43",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-5P8J8X",
+            "lineNumber": 5263,
+            "columnNumber": 496
+          },
+          {
+            "functionName": "u.kg",
+            "scriptId": "43",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-5P8J8X",
+            "lineNumber": 5262,
+            "columnNumber": 55
+          },
+          {
+            "functionName": "u.mh",
+            "scriptId": "43",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-5P8J8X",
+            "lineNumber": 5261,
+            "columnNumber": 247
+          },
+          {
+            "functionName": "u.gg",
+            "scriptId": "43",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-5P8J8X",
+            "lineNumber": 5259,
+            "columnNumber": 218
+          },
+          {
+            "functionName": "u.kd",
+            "scriptId": "43",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-5P8J8X",
+            "lineNumber": 5257,
+            "columnNumber": 252
+          },
+          {
+            "functionName": "u.write",
+            "scriptId": "43",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-5P8J8X",
+            "lineNumber": 5256,
+            "columnNumber": 378
+          },
+          {
+            "functionName": "u",
+            "scriptId": "43",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-5P8J8X",
+            "lineNumber": 5264,
+            "columnNumber": 43
+          },
+          {
+            "functionName": "r",
+            "scriptId": "43",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-5P8J8X",
+            "lineNumber": 5263,
+            "columnNumber": 105
+          },
+          {
+            "functionName": "e.streams",
+            "scriptId": "43",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-5P8J8X",
+            "lineNumber": 5264,
+            "columnNumber": 365
+          },
+          {
+            "functionName": "",
+            "scriptId": "43",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-5P8J8X",
+            "lineNumber": 5416,
+            "columnNumber": 356
+          },
+          {
+            "functionName": "ze",
+            "scriptId": "43",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-5P8J8X",
+            "lineNumber": 5279,
+            "columnNumber": 1206
+          },
+          {
+            "functionName": "b",
+            "scriptId": "43",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-5P8J8X",
+            "lineNumber": 5416,
+            "columnNumber": 168
+          },
+          {
+            "functionName": "c",
+            "scriptId": "43",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-5P8J8X",
+            "lineNumber": 5417,
+            "columnNumber": 123
+          },
+          {
+            "functionName": "Cb",
+            "scriptId": "43",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-5P8J8X",
+            "lineNumber": 5241,
+            "columnNumber": 395
+          },
+          {
+            "functionName": "e",
+            "scriptId": "43",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-5P8J8X",
+            "lineNumber": 5287,
+            "columnNumber": 137
+          },
+          {
+            "functionName": "",
+            "scriptId": "43",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-5P8J8X",
+            "lineNumber": 5230,
+            "columnNumber": 113
+          },
+          {
+            "functionName": "",
+            "scriptId": "43",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-5P8J8X",
+            "lineNumber": 5288,
+            "columnNumber": 228
+          },
+          {
+            "functionName": "",
+            "scriptId": "43",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-5P8J8X",
+            "lineNumber": 5287,
+            "columnNumber": 472
+          },
+          {
+            "functionName": "nf",
+            "scriptId": "43",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-5P8J8X",
+            "lineNumber": 5288,
+            "columnNumber": 517
+          },
+          {
+            "functionName": "pf",
+            "scriptId": "43",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-5P8J8X",
+            "lineNumber": 5290,
+            "columnNumber": 226
+          },
+          {
+            "functionName": "hj",
+            "scriptId": "43",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-5P8J8X",
+            "lineNumber": 5333,
+            "columnNumber": 186
+          },
+          {
+            "functionName": "gj",
+            "scriptId": "43",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-5P8J8X",
+            "lineNumber": 5333,
+            "columnNumber": 0
+          },
+          {
+            "functionName": "ij",
+            "scriptId": "43",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-5P8J8X",
+            "lineNumber": 5335,
+            "columnNumber": 356
+          },
+          {
+            "functionName": "a.push",
+            "scriptId": "43",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-5P8J8X",
+            "lineNumber": 5338,
+            "columnNumber": 94
+          },
+          {
+            "functionName": "",
+            "scriptId": "43",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-5P8J8X",
+            "lineNumber": 5337,
+            "columnNumber": 216
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "className": "Object",
+        "description": "Object",
+        "objectId": "{\"injectedScriptId\":3,\"id\":8}",
+        "preview": {
+          "type": "object",
+          "description": "Object",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "Eh",
+              "type": "string",
+              "value": "Uncaught TypeError: window.usabilla_live is not a function - :1"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

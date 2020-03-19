@@ -1,0 +1,63 @@
+[
+  {
+    "timestamp": 1583750829434.8372,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 952,
+      "columnNumber": 6,
+      "url": "https://www.akdn.org/sites/akdn/files/js/js_iNSPCRD3MrMDLBc30Zs-dZC5GdQ3ouJwPwocTTZoiys.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "29",
+            "url": "https://www.akdn.org/sites/akdn/files/js/js_iNSPCRD3MrMDLBc30Zs-dZC5GdQ3ouJwPwocTTZoiys.js",
+            "lineNumber": 952,
+            "columnNumber": 6
+          },
+          {
+            "functionName": "handle",
+            "scriptId": "23",
+            "url": "https://www.akdn.org/sites/akdn/files/js/js_qikmINIYTWe4jcTUn8cKiMr8bmSDiZB9LQqvceZ6wlM.js",
+            "lineNumber": 63,
+            "columnNumber": 329
+          },
+          {
+            "functionName": "o",
+            "scriptId": "23",
+            "url": "https://www.akdn.org/sites/akdn/files/js/js_qikmINIYTWe4jcTUn8cKiMr8bmSDiZB9LQqvceZ6wlM.js",
+            "lineNumber": 56,
+            "columnNumber": 488
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: FB is not defined\n    at https://www.akdn.org/sites/akdn/files/js/js_iNSPCRD3MrMDLBc30Zs-dZC5GdQ3ouJwPwocTTZoiys.js:953:7\n    at handle (https://www.akdn.org/sites/akdn/files/js/js_qikmINIYTWe4jcTUn8cKiMr8bmSDiZB9LQqvceZ6wlM.js:64:330)\n    at o (https://www.akdn.org/sites/akdn/files/js/js_qikmINIYTWe4jcTUn8cKiMr8bmSDiZB9LQqvceZ6wlM.js:57:489)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: FB is not defined\n    at https://www.akdn.org/sites/akdn/files/js/js_iNSPCRD3MrMDLBc30Zs-dZC5GdQ3ouJwPwocTTZoiys.js:953:7\n    at handle (https://www.akdn.org/sites/akdn/files/js/js_qikmINIYTWe4jcTUn8cKiMr8bmSDiZB9LQqvceZ6wlM.js:64:330)\n    at o (https://www.akdn.org/sites/akdn/files/js/js_qikmINIYTWe4jcTUn8cKiMr8bmSDiZB9LQqvceZ6wlM.js:57:489)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: FB is not defined\n    at https://w…NIYTWe4jcTUn8cKiMr8bmSDiZB9LQqvceZ6wlM.js:57:489)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "FB is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

@@ -1,0 +1,166 @@
+[
+  {
+    "timestamp": 1582819260231.811,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 287,
+      "columnNumber": 31,
+      "url": "https://www.gulte.com/movienews/53747/Khaidi-In-Hurry-Quality-At-Risk",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "49",
+            "url": "https://www.gulte.com/movienews/53747/Khaidi-In-Hurry-Quality-At-Risk",
+            "lineNumber": 287,
+            "columnNumber": 31
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: stLight is not defined\n    at https://www.gulte.com/movienews/53747/Khaidi-In-Hurry-Quality-At-Risk:288:32",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: stLight is not defined\n    at https://www.gulte.com/movienews/53747/Khaidi-In-Hurry-Quality-At-Risk:288:32",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: stLight is not defined\n    at http…news/53747/Khaidi-In-Hurry-Quality-At-Risk:288:32"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "stLight is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1582819260887.2449,
+    "exceptionDetails": {
+      "exceptionId": 2,
+      "text": "Uncaught",
+      "lineNumber": 153,
+      "columnNumber": 21,
+      "url": "https://www.gulte.com/publicnew/js/plugins.js?v=1.1",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "100",
+            "url": "https://www.gulte.com/publicnew/js/plugins.js?v=1.1",
+            "lineNumber": 153,
+            "columnNumber": 21
+          },
+          {
+            "functionName": "i",
+            "scriptId": "97",
+            "url": "https://code.jquery.com/jquery-1.12.0.min.js",
+            "lineNumber": 1,
+            "columnNumber": 27450
+          },
+          {
+            "functionName": "fireWith",
+            "scriptId": "97",
+            "url": "https://code.jquery.com/jquery-1.12.0.min.js",
+            "lineNumber": 1,
+            "columnNumber": 28214
+          },
+          {
+            "functionName": "ready",
+            "scriptId": "97",
+            "url": "https://code.jquery.com/jquery-1.12.0.min.js",
+            "lineNumber": 1,
+            "columnNumber": 30007
+          },
+          {
+            "functionName": "K",
+            "scriptId": "97",
+            "url": "https://code.jquery.com/jquery-1.12.0.min.js",
+            "lineNumber": 1,
+            "columnNumber": 30369
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: $(...).jScrollPane is not a function\n    at HTMLDocument.<anonymous> (https://www.gulte.com/publicnew/js/plugins.js?v=1.1:154:22)\n    at i (https://code.jquery.com/jquery-1.12.0.min.js:2:27451)\n    at Object.fireWith [as resolveWith] (https://code.jquery.com/jquery-1.12.0.min.js:2:28215)\n    at Function.ready (https://code.jquery.com/jquery-1.12.0.min.js:2:30008)\n    at HTMLDocument.K (https://code.jquery.com/jquery-1.12.0.min.js:2:30370)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":2}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: $(...).jScrollPane is not a function\n    at HTMLDocument.<anonymous> (https://www.gulte.com/publicnew/js/plugins.js?v=1.1:154:22)\n    at i (https://code.jquery.com/jquery-1.12.0.min.js:2:27451)\n    at Object.fireWith [as resolveWith] (https://code.jquery.com/jquery-1.12.0.min.js:2:28215)\n    at Function.ready (https://code.jquery.com/jquery-1.12.0.min.js:2:30008)\n    at HTMLDocument.K (https://code.jquery.com/jquery-1.12.0.min.js:2:30370)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: $(...).jScrollPane is not a function\n  …s://code.jquery.com/jquery-1.12.0.min.js:2:30370)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "$(...).jScrollPane is not a function"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1582819261893.996,
+    "exceptionDetails": {
+      "exceptionId": 3,
+      "text": "Uncaught (in promise)",
+      "lineNumber": 0,
+      "columnNumber": 0,
+      "scriptId": "1",
+      "url": "https://www.gulte.com/movienews/53747/Khaidi-In-Hurry-Quality-At-Risk",
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "DOMException",
+        "description": "DOMException: The play() request was interrupted by a call to pause(). https://goo.gl/LdLk22",
+        "objectId": "{\"injectedScriptId\":3,\"id\":3}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "DOMException: The play() request was interrupted by a call to pause(). https://goo.gl/LdLk22",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "code",
+              "type": "number",
+              "value": "20"
+            },
+            {
+              "name": "name",
+              "type": "string",
+              "value": "AbortError"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "The play() request was interrupted by a call to pause(). https://goo.gl/LdLk22"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

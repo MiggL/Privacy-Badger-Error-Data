@@ -1,0 +1,414 @@
+[
+  {
+    "timestamp": 1583415794697.011,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 783,
+      "columnNumber": 20,
+      "url": "https://firstwefeast.com/features/2015/06/eggplant-emoji-history",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "37",
+            "url": "https://firstwefeast.com/features/2015/06/eggplant-emoji-history",
+            "lineNumber": 783,
+            "columnNumber": 20
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: cmnUNT is not defined\n    at https://firstwefeast.com/features/2015/06/eggplant-emoji-history:784:21",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: cmnUNT is not defined\n    at https://firstwefeast.com/features/2015/06/eggplant-emoji-history:784:21",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: cmnUNT is not defined\n    at https…om/features/2015/06/eggplant-emoji-history:784:21"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "cmnUNT is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583415794704.281,
+    "exceptionDetails": {
+      "exceptionId": 2,
+      "text": "Uncaught",
+      "lineNumber": 6,
+      "columnNumber": 518,
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "getComplexPageProperties",
+            "scriptId": "38",
+            "url": "",
+            "lineNumber": 6,
+            "columnNumber": 518
+          },
+          {
+            "functionName": "",
+            "scriptId": "38",
+            "url": "",
+            "lineNumber": 7,
+            "columnNumber": 338
+          },
+          {
+            "functionName": "",
+            "scriptId": "26",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-K43R85&gtm_auth=hytklheaHE5sD0bruU1jNQ&gtm_preview=env-1&gtm_cookies_win=x",
+            "lineNumber": 400,
+            "columnNumber": 413
+          },
+          {
+            "functionName": "c",
+            "scriptId": "26",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-K43R85&gtm_auth=hytklheaHE5sD0bruU1jNQ&gtm_preview=env-1&gtm_cookies_win=x",
+            "lineNumber": 402,
+            "columnNumber": 151
+          },
+          {
+            "functionName": "",
+            "scriptId": "26",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-K43R85&gtm_auth=hytklheaHE5sD0bruU1jNQ&gtm_preview=env-1&gtm_cookies_win=x",
+            "lineNumber": 402,
+            "columnNumber": 173
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'dataLayer' of undefined\n    at getComplexPageProperties (<anonymous>:7:519)\n    at <anonymous>:8:339\n    at https://www.googletagmanager.com/gtm.js?id=GTM-K43R85&gtm_auth=hytklheaHE5sD0bruU1jNQ&gtm_preview=env-1&gtm_cookies_win=x:401:414\n    at c (https://www.googletagmanager.com/gtm.js?id=GTM-K43R85&gtm_auth=hytklheaHE5sD0bruU1jNQ&gtm_preview=env-1&gtm_cookies_win=x:403:152)\n    at https://www.googletagmanager.com/gtm.js?id=GTM-K43R85&gtm_auth=hytklheaHE5sD0bruU1jNQ&gtm_preview=env-1&gtm_cookies_win=x:403:174",
+        "objectId": "{\"injectedScriptId\":3,\"id\":2}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'dataLayer' of undefined\n    at getComplexPageProperties (<anonymous>:7:519)\n    at <anonymous>:8:339\n    at https://www.googletagmanager.com/gtm.js?id=GTM-K43R85&gtm_auth=hytklheaHE5sD0bruU1jNQ&gtm_preview=env-1&gtm_cookies_win=x:401:414\n    at c (https://www.googletagmanager.com/gtm.js?id=GTM-K43R85&gtm_auth=hytklheaHE5sD0bruU1jNQ&gtm_preview=env-1&gtm_cookies_win=x:403:152)\n    at https://www.googletagmanager.com/gtm.js?id=GTM-K43R85&gtm_auth=hytklheaHE5sD0bruU1jNQ&gtm_preview=env-1&gtm_cookies_win=x:403:174",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'dataLayer' of und…U1jNQ&gtm_preview=env-1&gtm_cookies_win=x:403:174"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'dataLayer' of undefined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583415795380.009,
+    "exceptionDetails": {
+      "exceptionId": 3,
+      "text": "Uncaught",
+      "lineNumber": 17,
+      "columnNumber": 8669,
+      "url": "https://assets.firstwefeast.com/compiled/site.min.js?1579280884",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "31",
+            "url": "https://assets.firstwefeast.com/compiled/site.min.js?1579280884",
+            "lineNumber": 17,
+            "columnNumber": 8669
+          },
+          {
+            "functionName": "d",
+            "scriptId": "24",
+            "url": "https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js",
+            "lineNumber": 2,
+            "columnNumber": 14819
+          },
+          {
+            "functionName": "dispatch",
+            "scriptId": "24",
+            "url": "https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js",
+            "lineNumber": 2,
+            "columnNumber": 8435
+          },
+          {
+            "functionName": "r.handle",
+            "scriptId": "24",
+            "url": "https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js",
+            "lineNumber": 2,
+            "columnNumber": 5138
+          },
+          {
+            "functionName": "trigger",
+            "scriptId": "24",
+            "url": "https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js",
+            "lineNumber": 2,
+            "columnNumber": 7536
+          },
+          {
+            "functionName": "",
+            "scriptId": "24",
+            "url": "https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js",
+            "lineNumber": 2,
+            "columnNumber": 15403
+          },
+          {
+            "functionName": "each",
+            "scriptId": "24",
+            "url": "https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js",
+            "lineNumber": 1,
+            "columnNumber": 2972
+          },
+          {
+            "functionName": "each",
+            "scriptId": "24",
+            "url": "https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js",
+            "lineNumber": 1,
+            "columnNumber": 834
+          },
+          {
+            "functionName": "trigger",
+            "scriptId": "24",
+            "url": "https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js",
+            "lineNumber": 2,
+            "columnNumber": 15379
+          },
+          {
+            "functionName": "d",
+            "scriptId": "31",
+            "url": "https://assets.firstwefeast.com/compiled/site.min.js?1579280884",
+            "lineNumber": 15,
+            "columnNumber": 7845
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: postscribe is not defined\n    at HTMLDivElement.<anonymous> (https://assets.firstwefeast.com/compiled/site.min.js?1579280884:18:8670)\n    at HTMLDivElement.d (https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js:3:14820)\n    at HTMLDivElement.dispatch (https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js:3:8436)\n    at HTMLDivElement.r.handle (https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js:3:5139)\n    at Object.trigger (https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js:3:7537)\n    at HTMLDivElement.<anonymous> (https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js:3:15404)\n    at Function.each (https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js:2:2973)\n    at m.fn.init.each (https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js:2:835)\n    at m.fn.init.trigger (https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js:3:15380)\n    at d (https://assets.firstwefeast.com/compiled/site.min.js?1579280884:16:7846)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":3}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: postscribe is not defined\n    at HTMLDivElement.<anonymous> (https://assets.firstwefeast.com/compiled/site.min.js?1579280884:18:8670)\n    at HTMLDivElement.d (https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js:3:14820)\n    at HTMLDivElement.dispatch (https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js:3:8436)\n    at HTMLDivElement.r.handle (https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js:3:5139)\n    at Object.trigger (https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js:3:7537)\n    at HTMLDivElement.<anonymous> (https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js:3:15404)\n    at Function.each (https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js:2:2973)\n    at m.fn.init.each (https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js:2:835)\n    at m.fn.init.trigger (https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js:3:15380)\n    at d (https://assets.firstwefeast.com/compiled/site.min.js?1579280884:16:7846)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: postscribe is not defined\n    at H…east.com/compiled/site.min.js?1579280884:16:7846)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "postscribe is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583415795548.455,
+    "exceptionDetails": {
+      "exceptionId": 4,
+      "text": "Uncaught (in promise)",
+      "lineNumber": 0,
+      "columnNumber": 0,
+      "scriptId": "1",
+      "url": "https://firstwefeast.com/features/2015/06/eggplant-emoji-history",
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Failed to register a ServiceWorker: A bad HTTP response code (404) was received when fetching the script.",
+        "objectId": "{\"injectedScriptId\":3,\"id\":4}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Failed to register a ServiceWorker: A bad HTTP response code (404) was received when fetching the script.",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Failed to register a ServiceWorker: A b…code (404) was received when fetching the script."
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Failed to register a ServiceWorker: A bad HTTP res…code (404) was received when fetching the script."
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583415797450.164,
+    "exceptionDetails": {
+      "exceptionId": 5,
+      "text": "Uncaught",
+      "lineNumber": 1,
+      "columnNumber": 4,
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "182",
+            "url": "",
+            "lineNumber": 1,
+            "columnNumber": 4
+          },
+          {
+            "functionName": "",
+            "scriptId": "28",
+            "url": "https://recirculation.spot.im/spot/sp_LxpkTDcG",
+            "lineNumber": 14,
+            "columnNumber": 2092
+          },
+          {
+            "functionName": "",
+            "scriptId": "28",
+            "url": "https://recirculation.spot.im/spot/sp_LxpkTDcG",
+            "lineNumber": 14,
+            "columnNumber": 1869
+          },
+          {
+            "functionName": "value",
+            "scriptId": "28",
+            "url": "https://recirculation.spot.im/spot/sp_LxpkTDcG",
+            "lineNumber": 14,
+            "columnNumber": 1465
+          },
+          {
+            "functionName": "value",
+            "scriptId": "28",
+            "url": "https://recirculation.spot.im/spot/sp_LxpkTDcG",
+            "lineNumber": 13,
+            "columnNumber": 17279
+          },
+          {
+            "functionName": "value",
+            "scriptId": "28",
+            "url": "https://recirculation.spot.im/spot/sp_LxpkTDcG",
+            "lineNumber": 13,
+            "columnNumber": 13428
+          },
+          {
+            "functionName": "value",
+            "scriptId": "28",
+            "url": "https://recirculation.spot.im/spot/sp_LxpkTDcG",
+            "lineNumber": 13,
+            "columnNumber": 12895
+          },
+          {
+            "functionName": "value",
+            "scriptId": "28",
+            "url": "https://recirculation.spot.im/spot/sp_LxpkTDcG",
+            "lineNumber": 13,
+            "columnNumber": 12161
+          },
+          {
+            "functionName": "",
+            "scriptId": "28",
+            "url": "https://recirculation.spot.im/spot/sp_LxpkTDcG",
+            "lineNumber": 13,
+            "columnNumber": 7754
+          },
+          {
+            "functionName": "",
+            "scriptId": "28",
+            "url": "https://recirculation.spot.im/spot/sp_LxpkTDcG",
+            "lineNumber": 13,
+            "columnNumber": 7729
+          },
+          {
+            "functionName": "r",
+            "scriptId": "28",
+            "url": "https://recirculation.spot.im/spot/sp_LxpkTDcG",
+            "lineNumber": 4,
+            "columnNumber": 22244
+          },
+          {
+            "functionName": "",
+            "scriptId": "28",
+            "url": "https://recirculation.spot.im/spot/sp_LxpkTDcG",
+            "lineNumber": 4,
+            "columnNumber": 23289
+          },
+          {
+            "functionName": "e.<computed>",
+            "scriptId": "28",
+            "url": "https://recirculation.spot.im/spot/sp_LxpkTDcG",
+            "lineNumber": 4,
+            "columnNumber": 22423
+          },
+          {
+            "functionName": "r",
+            "scriptId": "28",
+            "url": "https://recirculation.spot.im/spot/sp_LxpkTDcG",
+            "lineNumber": 4,
+            "columnNumber": 28538
+          },
+          {
+            "functionName": "",
+            "scriptId": "28",
+            "url": "https://recirculation.spot.im/spot/sp_LxpkTDcG",
+            "lineNumber": 4,
+            "columnNumber": 28640
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: CMNUNT is not defined\n    at <anonymous>:2:5\n    at https://recirculation.spot.im/spot/sp_LxpkTDcG:15:2093\n    at Array.forEach (<anonymous>)\n    at https://recirculation.spot.im/spot/sp_LxpkTDcG:15:1870\n    at new Promise (<anonymous>)\n    at e.value (https://recirculation.spot.im/spot/sp_LxpkTDcG:15:1466)\n    at e.value (https://recirculation.spot.im/spot/sp_LxpkTDcG:14:17280)\n    at e.value (https://recirculation.spot.im/spot/sp_LxpkTDcG:14:13429)\n    at e.value (https://recirculation.spot.im/spot/sp_LxpkTDcG:14:12896)\n    at e.value (https://recirculation.spot.im/spot/sp_LxpkTDcG:14:12162)\n    at https://recirculation.spot.im/spot/sp_LxpkTDcG:14:7755\n    at Array.forEach (<anonymous>)\n    at https://recirculation.spot.im/spot/sp_LxpkTDcG:14:7730\n    at r (https://recirculation.spot.im/spot/sp_LxpkTDcG:5:22245)\n    at Generator._invoke (https://recirculation.spot.im/spot/sp_LxpkTDcG:5:23290)\n    at Generator.e.<computed> [as next] (https://recirculation.spot.im/spot/sp_LxpkTDcG:5:22424)\n    at r (https://recirculation.spot.im/spot/sp_LxpkTDcG:5:28539)\n    at https://recirculation.spot.im/spot/sp_LxpkTDcG:5:28641",
+        "objectId": "{\"injectedScriptId\":3,\"id\":5}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: CMNUNT is not defined\n    at <anonymous>:2:5\n    at https://recirculation.spot.im/spot/sp_LxpkTDcG:15:2093\n    at Array.forEach (<anonymous>)\n    at https://recirculation.spot.im/spot/sp_LxpkTDcG:15:1870\n    at new Promise (<anonymous>)\n    at e.value (https://recirculation.spot.im/spot/sp_LxpkTDcG:15:1466)\n    at e.value (https://recirculation.spot.im/spot/sp_LxpkTDcG:14:17280)\n    at e.value (https://recirculation.spot.im/spot/sp_LxpkTDcG:14:13429)\n    at e.value (https://recirculation.spot.im/spot/sp_LxpkTDcG:14:12896)\n    at e.value (https://recirculation.spot.im/spot/sp_LxpkTDcG:14:12162)\n    at https://recirculation.spot.im/spot/sp_LxpkTDcG:14:7755\n    at Array.forEach (<anonymous>)\n    at https://recirculation.spot.im/spot/sp_LxpkTDcG:14:7730\n    at r (https://recirculation.spot.im/spot/sp_LxpkTDcG:5:22245)\n    at Generator._invoke (https://recirculation.spot.im/spot/sp_LxpkTDcG:5:23290)\n    at Generator.e.<computed> [as next] (https://recirculation.spot.im/spot/sp_LxpkTDcG:5:22424)\n    at r (https://recirculation.spot.im/spot/sp_LxpkTDcG:5:28539)\n    at https://recirculation.spot.im/spot/sp_LxpkTDcG:5:28641",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: CMNUNT is not defined\n    at <anon…://recirculation.spot.im/spot/sp_LxpkTDcG:5:28641"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "CMNUNT is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

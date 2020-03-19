@@ -1,0 +1,200 @@
+[
+  {
+    "timestamp": 1583749465954.235,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught (in promise)",
+      "lineNumber": 6,
+      "columnNumber": 27892,
+      "url": "https://assets.adobedtm.com/launch-EN342bd15530be484c8deda35eca617efb-staging.min.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "source",
+            "scriptId": "21",
+            "url": "https://assets.adobedtm.com/launch-EN342bd15530be484c8deda35eca617efb-staging.min.js",
+            "lineNumber": 6,
+            "columnNumber": 27892
+          },
+          {
+            "functionName": "",
+            "scriptId": "21",
+            "url": "https://assets.adobedtm.com/launch-EN342bd15530be484c8deda35eca617efb-staging.min.js",
+            "lineNumber": 4,
+            "columnNumber": 27573
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'match' of undefined\n    at source (https://assets.adobedtm.com/launch-EN342bd15530be484c8deda35eca617efb-staging.min.js:7:27893)\n    at https://assets.adobedtm.com/launch-EN342bd15530be484c8deda35eca617efb-staging.min.js:5:27574",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'match' of undefined\n    at source (https://assets.adobedtm.com/launch-EN342bd15530be484c8deda35eca617efb-staging.min.js:7:27893)\n    at https://assets.adobedtm.com/launch-EN342bd15530be484c8deda35eca617efb-staging.min.js:5:27574",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'match' of undefin…5530be484c8deda35eca617efb-staging.min.js:5:27574"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'match' of undefined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583749468342.05,
+    "exceptionDetails": {
+      "exceptionId": 2,
+      "text": "Uncaught",
+      "lineNumber": 1,
+      "columnNumber": 1079,
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "148",
+            "url": "",
+            "lineNumber": 1,
+            "columnNumber": 1079
+          },
+          {
+            "functionName": "_satellite.<computed>",
+            "scriptId": "21",
+            "url": "https://assets.adobedtm.com/launch-EN342bd15530be484c8deda35eca617efb-staging.min.js",
+            "lineNumber": 1,
+            "columnNumber": 30539
+          },
+          {
+            "functionName": "",
+            "scriptId": "148",
+            "url": "",
+            "lineNumber": 0,
+            "columnNumber": 26
+          },
+          {
+            "functionName": "f",
+            "scriptId": "21",
+            "url": "https://assets.adobedtm.com/launch-EN342bd15530be484c8deda35eca617efb-staging.min.js",
+            "lineNumber": 2,
+            "columnNumber": 4925
+          },
+          {
+            "functionName": "g",
+            "scriptId": "21",
+            "url": "https://assets.adobedtm.com/launch-EN342bd15530be484c8deda35eca617efb-staging.min.js",
+            "lineNumber": 2,
+            "columnNumber": 5584
+          },
+          {
+            "functionName": "c",
+            "scriptId": "21",
+            "url": "https://assets.adobedtm.com/launch-EN342bd15530be484c8deda35eca617efb-staging.min.js",
+            "lineNumber": 2,
+            "columnNumber": 4133
+          },
+          {
+            "functionName": "i",
+            "scriptId": "21",
+            "url": "https://assets.adobedtm.com/launch-EN342bd15530be484c8deda35eca617efb-staging.min.js",
+            "lineNumber": 2,
+            "columnNumber": 2741
+          },
+          {
+            "functionName": "n",
+            "scriptId": "21",
+            "url": "https://assets.adobedtm.com/launch-EN342bd15530be484c8deda35eca617efb-staging.min.js",
+            "lineNumber": 2,
+            "columnNumber": 2300
+          },
+          {
+            "functionName": "i",
+            "scriptId": "21",
+            "url": "https://assets.adobedtm.com/launch-EN342bd15530be484c8deda35eca617efb-staging.min.js",
+            "lineNumber": 1,
+            "columnNumber": 32722
+          },
+          {
+            "functionName": "l",
+            "scriptId": "21",
+            "url": "https://assets.adobedtm.com/launch-EN342bd15530be484c8deda35eca617efb-staging.min.js",
+            "lineNumber": 1,
+            "columnNumber": 32081
+          },
+          {
+            "functionName": "d",
+            "scriptId": "21",
+            "url": "https://assets.adobedtm.com/launch-EN342bd15530be484c8deda35eca617efb-staging.min.js",
+            "lineNumber": 2,
+            "columnNumber": 334
+          },
+          {
+            "functionName": "a",
+            "scriptId": "21",
+            "url": "https://assets.adobedtm.com/launch-EN342bd15530be484c8deda35eca617efb-staging.min.js",
+            "lineNumber": 1,
+            "columnNumber": 23210
+          },
+          {
+            "functionName": "o",
+            "scriptId": "21",
+            "url": "https://assets.adobedtm.com/launch-EN342bd15530be484c8deda35eca617efb-staging.min.js",
+            "lineNumber": 1,
+            "columnNumber": 23409
+          },
+          {
+            "functionName": "f",
+            "scriptId": "21",
+            "url": "https://assets.adobedtm.com/launch-EN342bd15530be484c8deda35eca617efb-staging.min.js",
+            "lineNumber": 1,
+            "columnNumber": 23467
+          },
+          {
+            "functionName": "",
+            "scriptId": "21",
+            "url": "https://assets.adobedtm.com/launch-EN342bd15530be484c8deda35eca617efb-staging.min.js",
+            "lineNumber": 1,
+            "columnNumber": 23818
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'brand' of undefined\n    at <anonymous>:2:1080\n    at Object._satellite.<computed> [as __runScript4] (https://assets.adobedtm.com/launch-EN342bd15530be484c8deda35eca617efb-staging.min.js:2:30540)\n    at <anonymous>:1:27\n    at r.f [as _insertCursor] (https://assets.adobedtm.com/launch-EN342bd15530be484c8deda35eca617efb-staging.min.js:3:4926)\n    at r.g [as _writeScriptToken] (https://assets.adobedtm.com/launch-EN342bd15530be484c8deda35eca617efb-staging.min.js:3:5585)\n    at r.c [as _handleScriptToken] (https://assets.adobedtm.com/launch-EN342bd15530be484c8deda35eca617efb-staging.min.js:3:4134)\n    at r.i [as _writeImpl] (https://assets.adobedtm.com/launch-EN342bd15530be484c8deda35eca617efb-staging.min.js:3:2742)\n    at r.n [as write] (https://assets.adobedtm.com/launch-EN342bd15530be484c8deda35eca617efb-staging.min.js:3:2301)\n    at i (https://assets.adobedtm.com/launch-EN342bd15530be484c8deda35eca617efb-staging.min.js:2:32723)\n    at l (https://assets.adobedtm.com/launch-EN342bd15530be484c8deda35eca617efb-staging.min.js:2:32082)\n    at d (https://assets.adobedtm.com/launch-EN342bd15530be484c8deda35eca617efb-staging.min.js:3:335)\n    at a (https://assets.adobedtm.com/launch-EN342bd15530be484c8deda35eca617efb-staging.min.js:2:23211)\n    at o (https://assets.adobedtm.com/launch-EN342bd15530be484c8deda35eca617efb-staging.min.js:2:23410)\n    at f (https://assets.adobedtm.com/launch-EN342bd15530be484c8deda35eca617efb-staging.min.js:2:23468)\n    at https://assets.adobedtm.com/launch-EN342bd15530be484c8deda35eca617efb-staging.min.js:2:23819",
+        "objectId": "{\"injectedScriptId\":3,\"id\":2}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'brand' of undefined\n    at <anonymous>:2:1080\n    at Object._satellite.<computed> [as __runScript4] (https://assets.adobedtm.com/launch-EN342bd15530be484c8deda35eca617efb-staging.min.js:2:30540)\n    at <anonymous>:1:27\n    at r.f [as _insertCursor] (https://assets.adobedtm.com/launch-EN342bd15530be484c8deda35eca617efb-staging.min.js:3:4926)\n    at r.g [as _writeScriptToken] (https://assets.adobedtm.com/launch-EN342bd15530be484c8deda35eca617efb-staging.min.js:3:5585)\n    at r.c [as _handleScriptToken] (https://assets.adobedtm.com/launch-EN342bd15530be484c8deda35eca617efb-staging.min.js:3:4134)\n    at r.i [as _writeImpl] (https://assets.adobedtm.com/launch-EN342bd15530be484c8deda35eca617efb-staging.min.js:3:2742)\n    at r.n [as write] (https://assets.adobedtm.com/launch-EN342bd15530be484c8deda35eca617efb-staging.min.js:3:2301)\n    at i (https://assets.adobedtm.com/launch-EN342bd15530be484c8deda35eca617efb-staging.min.js:2:32723)\n    at l (https://assets.adobedtm.com/launch-EN342bd15530be484c8deda35eca617efb-staging.min.js:2:32082)\n    at d (https://assets.adobedtm.com/launch-EN342bd15530be484c8deda35eca617efb-staging.min.js:3:335)\n    at a (https://assets.adobedtm.com/launch-EN342bd15530be484c8deda35eca617efb-staging.min.js:2:23211)\n    at o (https://assets.adobedtm.com/launch-EN342bd15530be484c8deda35eca617efb-staging.min.js:2:23410)\n    at f (https://assets.adobedtm.com/launch-EN342bd15530be484c8deda35eca617efb-staging.min.js:2:23468)\n    at https://assets.adobedtm.com/launch-EN342bd15530be484c8deda35eca617efb-staging.min.js:2:23819",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'brand' of undefin…5530be484c8deda35eca617efb-staging.min.js:2:23819"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'brand' of undefined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

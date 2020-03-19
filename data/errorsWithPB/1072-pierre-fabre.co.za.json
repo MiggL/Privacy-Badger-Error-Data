@@ -1,0 +1,49 @@
+[
+  {
+    "timestamp": 1583422543091.744,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 68,
+      "columnNumber": 752,
+      "url": "https://www.pierre-fabre.com/sites/pierre-fabre.com/files/js/js_p4-KTXAqq6Xn1brBiAutlfEISx5_MEVxqF94uW9LkxI.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "33",
+            "url": "https://www.pierre-fabre.com/sites/pierre-fabre.com/files/js/js_p4-KTXAqq6Xn1brBiAutlfEISx5_MEVxqF94uW9LkxI.js",
+            "lineNumber": 68,
+            "columnNumber": 752
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: addthis is not defined\n    at https://www.pierre-fabre.com/sites/pierre-fabre.com/files/js/js_p4-KTXAqq6Xn1brBiAutlfEISx5_MEVxqF94uW9LkxI.js:69:753",
+        "objectId": "{\"injectedScriptId\":3,\"id\":2}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: addthis is not defined\n    at https://www.pierre-fabre.com/sites/pierre-fabre.com/files/js/js_p4-KTXAqq6Xn1brBiAutlfEISx5_MEVxqF94uW9LkxI.js:69:753",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: addthis is not defined\n    at http…TXAqq6Xn1brBiAutlfEISx5_MEVxqF94uW9LkxI.js:69:753"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "addthis is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

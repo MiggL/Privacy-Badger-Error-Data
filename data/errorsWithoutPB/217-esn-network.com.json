@@ -1,0 +1,190 @@
+[
+  {
+    "timestamp": 1583011417337.842,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 192,
+      "columnNumber": 1,
+      "url": "https://www.esn-network.com/research/findings/view/articles/free-sorting-as-a-sensory-research-method/",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "13",
+            "url": "https://www.esn-network.com/research/findings/view/articles/free-sorting-as-a-sensory-research-method/",
+            "lineNumber": 192,
+            "columnNumber": 1
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: updateForm is not defined\n    at https://www.esn-network.com/research/findings/view/articles/free-sorting-as-a-sensory-research-method/:193:2",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: updateForm is not defined\n    at https://www.esn-network.com/research/findings/view/articles/free-sorting-as-a-sensory-research-method/:193:2",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: updateForm is not defined\n    at h…/free-sorting-as-a-sensory-research-method/:193:2"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "updateForm is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583011417376.4739,
+    "exceptionDetails": {
+      "exceptionId": 2,
+      "text": "Uncaught",
+      "lineNumber": 313,
+      "columnNumber": 6,
+      "url": "https://www.esn-network.com/research/findings/view/articles/free-sorting-as-a-sensory-research-method/",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "14",
+            "url": "https://www.esn-network.com/research/findings/view/articles/free-sorting-as-a-sensory-research-method/",
+            "lineNumber": 313,
+            "columnNumber": 6
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: $ is not defined\n    at https://www.esn-network.com/research/findings/view/articles/free-sorting-as-a-sensory-research-method/:314:7",
+        "objectId": "{\"injectedScriptId\":3,\"id\":2}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: $ is not defined\n    at https://www.esn-network.com/research/findings/view/articles/free-sorting-as-a-sensory-research-method/:314:7",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: $ is not defined\n    at https://ww…/free-sorting-as-a-sensory-research-method/:314:7"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "$ is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583011417376.944,
+    "exceptionDetails": {
+      "exceptionId": 3,
+      "text": "Uncaught",
+      "lineNumber": 347,
+      "columnNumber": 3,
+      "url": "https://www.esn-network.com/research/findings/view/articles/free-sorting-as-a-sensory-research-method/",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "15",
+            "url": "https://www.esn-network.com/research/findings/view/articles/free-sorting-as-a-sensory-research-method/",
+            "lineNumber": 347,
+            "columnNumber": 3
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: jQuery is not defined\n    at https://www.esn-network.com/research/findings/view/articles/free-sorting-as-a-sensory-research-method/:348:4",
+        "objectId": "{\"injectedScriptId\":3,\"id\":3}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: jQuery is not defined\n    at https://www.esn-network.com/research/findings/view/articles/free-sorting-as-a-sensory-research-method/:348:4",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: jQuery is not defined\n    at https…/free-sorting-as-a-sensory-research-method/:348:4"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "jQuery is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583011417477.7341,
+    "exceptionDetails": {
+      "exceptionId": 4,
+      "text": "Uncaught",
+      "lineNumber": 89,
+      "columnNumber": 67,
+      "url": "https://www.esn-network.com/research/findings/view/articles/free-sorting-as-a-sensory-research-method/",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "onload",
+            "scriptId": "17",
+            "url": "https://www.esn-network.com/research/findings/view/articles/free-sorting-as-a-sensory-research-method/",
+            "lineNumber": 89,
+            "columnNumber": 67
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: T3_onloadWrapper is not defined\n    at onload (https://www.esn-network.com/research/findings/view/articles/free-sorting-as-a-sensory-research-method/:90:68)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":4}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: T3_onloadWrapper is not defined\n    at onload (https://www.esn-network.com/research/findings/view/articles/free-sorting-as-a-sensory-research-method/:90:68)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: T3_onloadWrapper is not defined\n  …free-sorting-as-a-sensory-research-method/:90:68)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "T3_onloadWrapper is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

@@ -1,0 +1,49 @@
+[
+  {
+    "timestamp": 1583010974269.288,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 243,
+      "columnNumber": 0,
+      "url": "https://spaces.at.internet2.edu/display/Grouper/Grouper+diagnostics",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "19",
+            "url": "https://spaces.at.internet2.edu/display/Grouper/Grouper+diagnostics",
+            "lineNumber": 243,
+            "columnNumber": 0
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: addLoadEvent is not defined\n    at https://spaces.at.internet2.edu/display/Grouper/Grouper+diagnostics:244:1",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: addLoadEvent is not defined\n    at https://spaces.at.internet2.edu/display/Grouper/Grouper+diagnostics:244:1",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: addLoadEvent is not defined\n    at…et2.edu/display/Grouper/Grouper+diagnostics:244:1"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "addLoadEvent is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

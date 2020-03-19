@@ -1,0 +1,103 @@
+[
+  {
+    "timestamp": 1583008603930.454,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 9,
+      "columnNumber": 27,
+      "url": "https://www.japantimes.co.jp/wp-content/plugins/jt_paywall_affilliates/jtpwa_analytics.php?1583006869",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "30",
+            "url": "https://www.japantimes.co.jp/wp-content/plugins/jt_paywall_affilliates/jtpwa_analytics.php?1583006869",
+            "lineNumber": 9,
+            "columnNumber": 27
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: unknown is not defined\n    at https://www.japantimes.co.jp/wp-content/plugins/jt_paywall_affilliates/jtpwa_analytics.php?1583006869:10:28",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: unknown is not defined\n    at https://www.japantimes.co.jp/wp-content/plugins/jt_paywall_affilliates/jtpwa_analytics.php?1583006869:10:28",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: unknown is not defined\n    at http…_affilliates/jtpwa_analytics.php?1583006869:10:28"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "unknown is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583008604749.9211,
+    "exceptionDetails": {
+      "exceptionId": 2,
+      "text": "Uncaught",
+      "lineNumber": 448,
+      "columnNumber": 3,
+      "url": "https://www.japantimes.co.jp/wp-content/themes/jt_theme/library/js/custom.js?ver=1.0",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "118",
+            "url": "https://www.japantimes.co.jp/wp-content/themes/jt_theme/library/js/custom.js?ver=1.0",
+            "lineNumber": 448,
+            "columnNumber": 3
+          },
+          {
+            "functionName": "",
+            "scriptId": "118",
+            "url": "https://www.japantimes.co.jp/wp-content/themes/jt_theme/library/js/custom.js?ver=1.0",
+            "lineNumber": 451,
+            "columnNumber": 2
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: VS.hideUrlBar is not a function\n    at https://www.japantimes.co.jp/wp-content/themes/jt_theme/library/js/custom.js?ver=1.0:449:4\n    at https://www.japantimes.co.jp/wp-content/themes/jt_theme/library/js/custom.js?ver=1.0:452:3",
+        "objectId": "{\"injectedScriptId\":3,\"id\":2}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: VS.hideUrlBar is not a function\n    at https://www.japantimes.co.jp/wp-content/themes/jt_theme/library/js/custom.js?ver=1.0:449:4\n    at https://www.japantimes.co.jp/wp-content/themes/jt_theme/library/js/custom.js?ver=1.0:452:3",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: VS.hideUrlBar is not a function\n    at …hemes/jt_theme/library/js/custom.js?ver=1.0:452:3"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "VS.hideUrlBar is not a function"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

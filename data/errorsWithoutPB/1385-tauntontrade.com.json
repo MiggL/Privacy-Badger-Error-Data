@@ -1,0 +1,49 @@
+[
+  {
+    "timestamp": 1583000594753.321,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 249,
+      "columnNumber": 5,
+      "url": "http://www.tauntontrade.com/Search?SearchType=A&SearchText=Severi+Bristow%2C+Janet",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "14",
+            "url": "http://www.tauntontrade.com/Search?SearchType=A&SearchText=Severi+Bristow%2C+Janet",
+            "lineNumber": 249,
+            "columnNumber": 5
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: SmartLoadImages is not defined\n    at http://www.tauntontrade.com/Search?SearchType=A&SearchText=Severi+Bristow%2C+Janet:250:6",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: SmartLoadImages is not defined\n    at http://www.tauntontrade.com/Search?SearchType=A&SearchText=Severi+Bristow%2C+Janet:250:6",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: SmartLoadImages is not defined\n   …chType=A&SearchText=Severi+Bristow%2C+Janet:250:6"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "SmartLoadImages is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

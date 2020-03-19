@@ -1,0 +1,140 @@
+[
+  {
+    "timestamp": 1582891170025.81,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught (in promise)",
+      "lineNumber": 0,
+      "columnNumber": 139722,
+      "url": "https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=150801",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "27",
+            "url": "https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=150801",
+            "lineNumber": 0,
+            "columnNumber": 139722
+          },
+          {
+            "functionName": "",
+            "scriptId": "27",
+            "url": "https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=150801",
+            "lineNumber": 0,
+            "columnNumber": 882
+          },
+          {
+            "functionName": "n",
+            "scriptId": "27",
+            "url": "https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=150801",
+            "lineNumber": 0,
+            "columnNumber": 659
+          },
+          {
+            "functionName": "install",
+            "scriptId": "27",
+            "url": "https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=150801",
+            "lineNumber": 0,
+            "columnNumber": 139282
+          },
+          {
+            "functionName": "",
+            "scriptId": "27",
+            "url": "https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=150801",
+            "lineNumber": 0,
+            "columnNumber": 133811
+          },
+          {
+            "functionName": "",
+            "scriptId": "27",
+            "url": "https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=150801",
+            "lineNumber": 0,
+            "columnNumber": 882
+          },
+          {
+            "functionName": "n",
+            "scriptId": "27",
+            "url": "https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=150801",
+            "lineNumber": 0,
+            "columnNumber": 659
+          },
+          {
+            "functionName": "doInitialize",
+            "scriptId": "27",
+            "url": "https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=150801",
+            "lineNumber": 0,
+            "columnNumber": 133493
+          },
+          {
+            "functionName": "",
+            "scriptId": "27",
+            "url": "https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=150801",
+            "lineNumber": 0,
+            "columnNumber": 129364
+          },
+          {
+            "functionName": "",
+            "scriptId": "27",
+            "url": "https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=150801",
+            "lineNumber": 0,
+            "columnNumber": 882
+          },
+          {
+            "functionName": "n",
+            "scriptId": "27",
+            "url": "https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=150801",
+            "lineNumber": 0,
+            "columnNumber": 659
+          },
+          {
+            "functionName": "sessionInit",
+            "scriptId": "27",
+            "url": "https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=150801",
+            "lineNumber": 0,
+            "columnNumber": 129094
+          },
+          {
+            "functionName": "",
+            "scriptId": "27",
+            "url": "https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=150801",
+            "lineNumber": 0,
+            "columnNumber": 128934
+          },
+          {
+            "functionName": "r",
+            "scriptId": "27",
+            "url": "https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=150801",
+            "lineNumber": 0,
+            "columnNumber": 715
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'appendChild' of null\n    at We.<anonymous> (https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=150801:1:139723)\n    at Generator.next (<anonymous>)\n    at https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=150801:1:883\n    at new Promise (<anonymous>)\n    at Object.n (https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=150801:1:660)\n    at We.install (https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=150801:1:139283)\n    at Function.<anonymous> (https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=150801:1:133812)\n    at Generator.next (<anonymous>)\n    at https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=150801:1:883\n    at new Promise (<anonymous>)\n    at Object.n (https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=150801:1:660)\n    at Function.doInitialize (https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=150801:1:133494)\n    at Function.<anonymous> (https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=150801:1:129365)\n    at Generator.next (<anonymous>)\n    at https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=150801:1:883\n    at new Promise (<anonymous>)\n    at Object.n (https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=150801:1:660)\n    at Function.sessionInit (https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=150801:1:129095)\n    at Function.<anonymous> (https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=150801:1:128935)\n    at Generator.next (<anonymous>)\n    at r (https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=150801:1:716)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'appendChild' of null\n    at We.<anonymous> (https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=150801:1:139723)\n    at Generator.next (<anonymous>)\n    at https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=150801:1:883\n    at new Promise (<anonymous>)\n    at Object.n (https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=150801:1:660)\n    at We.install (https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=150801:1:139283)\n    at Function.<anonymous> (https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=150801:1:133812)\n    at Generator.next (<anonymous>)\n    at https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=150801:1:883\n    at new Promise (<anonymous>)\n    at Object.n (https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=150801:1:660)\n    at Function.doInitialize (https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=150801:1:133494)\n    at Function.<anonymous> (https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=150801:1:129365)\n    at Generator.next (<anonymous>)\n    at https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=150801:1:883\n    at new Promise (<anonymous>)\n    at Object.n (https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=150801:1:660)\n    at Function.sessionInit (https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=150801:1:129095)\n    at Function.<anonymous> (https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=150801:1:128935)\n    at Generator.next (<anonymous>)\n    at r (https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=150801:1:716)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'appendChild' of n…l.com/sdks/OneSignalPageSDKES6.js?v=150801:1:716)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'appendChild' of null"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

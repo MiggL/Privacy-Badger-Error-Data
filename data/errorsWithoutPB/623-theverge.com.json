@@ -1,0 +1,77 @@
+[
+  {
+    "timestamp": 1583007697967.731,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 0,
+      "columnNumber": 4553,
+      "url": "https://cdn.vox-cdn.com/javascripts/verge2_article.v4674118f90db22f1.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "21",
+            "url": "https://cdn.vox-cdn.com/javascripts/verge2_article.v4674118f90db22f1.js",
+            "lineNumber": 0,
+            "columnNumber": 4553
+          },
+          {
+            "functionName": "c",
+            "scriptId": "15",
+            "url": "https://cdn.vox-cdn.com/javascripts/libraries.v92b588204c4d6971.js",
+            "lineNumber": 2,
+            "columnNumber": 5120
+          },
+          {
+            "functionName": "fireWith",
+            "scriptId": "15",
+            "url": "https://cdn.vox-cdn.com/javascripts/libraries.v92b588204c4d6971.js",
+            "lineNumber": 2,
+            "columnNumber": 5937
+          },
+          {
+            "functionName": "n",
+            "scriptId": "15",
+            "url": "https://cdn.vox-cdn.com/javascripts/libraries.v92b588204c4d6971.js",
+            "lineNumber": 3,
+            "columnNumber": 19150
+          },
+          {
+            "functionName": "t",
+            "scriptId": "15",
+            "url": "https://cdn.vox-cdn.com/javascripts/libraries.v92b588204c4d6971.js",
+            "lineNumber": 3,
+            "columnNumber": 25349
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'total_count' of undefined\n    at Object.success (https://cdn.vox-cdn.com/javascripts/verge2_article.v4674118f90db22f1.js:1:4554)\n    at c (https://cdn.vox-cdn.com/javascripts/libraries.v92b588204c4d6971.js:3:5121)\n    at Object.fireWith [as resolveWith] (https://cdn.vox-cdn.com/javascripts/libraries.v92b588204c4d6971.js:3:5938)\n    at n (https://cdn.vox-cdn.com/javascripts/libraries.v92b588204c4d6971.js:4:19151)\n    at XMLHttpRequest.t (https://cdn.vox-cdn.com/javascripts/libraries.v92b588204c4d6971.js:4:25350)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'total_count' of undefined\n    at Object.success (https://cdn.vox-cdn.com/javascripts/verge2_article.v4674118f90db22f1.js:1:4554)\n    at c (https://cdn.vox-cdn.com/javascripts/libraries.v92b588204c4d6971.js:3:5121)\n    at Object.fireWith [as resolveWith] (https://cdn.vox-cdn.com/javascripts/libraries.v92b588204c4d6971.js:3:5938)\n    at n (https://cdn.vox-cdn.com/javascripts/libraries.v92b588204c4d6971.js:4:19151)\n    at XMLHttpRequest.t (https://cdn.vox-cdn.com/javascripts/libraries.v92b588204c4d6971.js:4:25350)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'total_count' of u…vascripts/libraries.v92b588204c4d6971.js:4:25350)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'total_count' of undefined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

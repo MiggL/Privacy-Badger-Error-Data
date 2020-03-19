@@ -1,0 +1,91 @@
+[
+  {
+    "timestamp": 1583421730663.6938,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 123,
+      "columnNumber": 409,
+      "url": "http://maps.googleapis.com/maps/api/js?v=3.exp&sensor=false&key=AIzaSyCSclmnHq5jD2S5jr07ezIfFCOPUwE7dwk",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "_.xi",
+            "scriptId": "23",
+            "url": "http://maps.googleapis.com/maps/api/js?v=3.exp&sensor=false&key=AIzaSyCSclmnHq5jD2S5jr07ezIfFCOPUwE7dwk",
+            "lineNumber": 123,
+            "columnNumber": 409
+          },
+          {
+            "functionName": "Ci",
+            "scriptId": "23",
+            "url": "http://maps.googleapis.com/maps/api/js?v=3.exp&sensor=false&key=AIzaSyCSclmnHq5jD2S5jr07ezIfFCOPUwE7dwk",
+            "lineNumber": 125,
+            "columnNumber": 60
+          },
+          {
+            "functionName": "",
+            "scriptId": "45",
+            "url": "http://en.sittingvision.com/about-us/",
+            "lineNumber": 572,
+            "columnNumber": 18
+          },
+          {
+            "functionName": "c",
+            "scriptId": "21",
+            "url": "https://cdnjs.cloudflare.com/ajax/libs/jquery/1.10.2/jquery.min.js",
+            "lineNumber": 3,
+            "columnNumber": 26035
+          },
+          {
+            "functionName": "fireWith",
+            "scriptId": "21",
+            "url": "https://cdnjs.cloudflare.com/ajax/libs/jquery/1.10.2/jquery.min.js",
+            "lineNumber": 3,
+            "columnNumber": 26839
+          },
+          {
+            "functionName": "ready",
+            "scriptId": "21",
+            "url": "https://cdnjs.cloudflare.com/ajax/libs/jquery/1.10.2/jquery.min.js",
+            "lineNumber": 3,
+            "columnNumber": 3304
+          },
+          {
+            "functionName": "q",
+            "scriptId": "21",
+            "url": "https://cdnjs.cloudflare.com/ajax/libs/jquery/1.10.2/jquery.min.js",
+            "lineNumber": 3,
+            "columnNumber": 716
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'firstChild' of null\n    at Object._.xi (http://maps.googleapis.com/maps/api/js?v=3.exp&sensor=false&key=AIzaSyCSclmnHq5jD2S5jr07ezIfFCOPUwE7dwk:124:410)\n    at new Ci (http://maps.googleapis.com/maps/api/js?v=3.exp&sensor=false&key=AIzaSyCSclmnHq5jD2S5jr07ezIfFCOPUwE7dwk:126:61)\n    at HTMLDocument.<anonymous> (http://en.sittingvision.com/about-us/:573:19)\n    at c (https://cdnjs.cloudflare.com/ajax/libs/jquery/1.10.2/jquery.min.js:4:26036)\n    at Object.fireWith [as resolveWith] (https://cdnjs.cloudflare.com/ajax/libs/jquery/1.10.2/jquery.min.js:4:26840)\n    at Function.ready (https://cdnjs.cloudflare.com/ajax/libs/jquery/1.10.2/jquery.min.js:4:3305)\n    at HTMLDocument.q (https://cdnjs.cloudflare.com/ajax/libs/jquery/1.10.2/jquery.min.js:4:717)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'firstChild' of null\n    at Object._.xi (http://maps.googleapis.com/maps/api/js?v=3.exp&sensor=false&key=AIzaSyCSclmnHq5jD2S5jr07ezIfFCOPUwE7dwk:124:410)\n    at new Ci (http://maps.googleapis.com/maps/api/js?v=3.exp&sensor=false&key=AIzaSyCSclmnHq5jD2S5jr07ezIfFCOPUwE7dwk:126:61)\n    at HTMLDocument.<anonymous> (http://en.sittingvision.com/about-us/:573:19)\n    at c (https://cdnjs.cloudflare.com/ajax/libs/jquery/1.10.2/jquery.min.js:4:26036)\n    at Object.fireWith [as resolveWith] (https://cdnjs.cloudflare.com/ajax/libs/jquery/1.10.2/jquery.min.js:4:26840)\n    at Function.ready (https://cdnjs.cloudflare.com/ajax/libs/jquery/1.10.2/jquery.min.js:4:3305)\n    at HTMLDocument.q (https://cdnjs.cloudflare.com/ajax/libs/jquery/1.10.2/jquery.min.js:4:717)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'firstChild' of nu….com/ajax/libs/jquery/1.10.2/jquery.min.js:4:717)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'firstChild' of null"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

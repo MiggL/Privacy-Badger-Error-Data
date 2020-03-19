@@ -1,0 +1,27 @@
+[
+  {
+    "timestamp": 1582818523818.5762,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught (in promise)",
+      "lineNumber": 0,
+      "columnNumber": 2033,
+      "url": "https://www.vanityfair.com/hotzones/src/pixelpropagate.js?cb=10120",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "beaconErr",
+            "scriptId": "41",
+            "url": "https://www.vanityfair.com/hotzones/src/pixelpropagate.js?cb=10120",
+            "lineNumber": 0,
+            "columnNumber": 2033
+          }
+        ]
+      },
+      "exception": {
+        "type": "undefined"
+      },
+      "executionContextId": 3
+    }
+  }
+]

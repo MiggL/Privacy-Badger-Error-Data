@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": 1583415590571.023,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 2,
+      "columnNumber": 19700,
+      "scriptId": "19",
+      "url": "https://www.lesinrocks.com/inrocks.tv/peter-hook-de-joy-division-a-lhacienda-interview-premieres-fois/",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "i.onreadystatechange",
+            "scriptId": "30",
+            "url": "https://ced.sascdn.com/tag/3518/smart.js",
+            "lineNumber": 0,
+            "columnNumber": 9840
+          },
+          {
+            "functionName": "nrWrapper",
+            "scriptId": "19",
+            "url": "https://www.lesinrocks.com/inrocks.tv/peter-hook-de-joy-division-a-lhacienda-interview-premieres-fois/",
+            "lineNumber": 2,
+            "columnNumber": 19680
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "SyntaxError",
+        "description": "SyntaxError: Unexpected end of JSON input\n    at JSON.parse (<anonymous>)\n    at XMLHttpRequest.i.onreadystatechange (https://ced.sascdn.com/tag/3518/smart.js:1:9841)\n    at XMLHttpRequest.nrWrapper (https://www.lesinrocks.com/inrocks.tv/peter-hook-de-joy-division-a-lhacienda-interview-premieres-fois/:3:19681)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "SyntaxError: Unexpected end of JSON input\n    at JSON.parse (<anonymous>)\n    at XMLHttpRequest.i.onreadystatechange (https://ced.sascdn.com/tag/3518/smart.js:1:9841)\n    at XMLHttpRequest.nrWrapper (https://www.lesinrocks.com/inrocks.tv/peter-hook-de-joy-division-a-lhacienda-interview-premieres-fois/:3:19681)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "SyntaxError: Unexpected end of JSON input\n    at J…on-a-lhacienda-interview-premieres-fois/:3:19681)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Unexpected end of JSON input"
+            },
+            {
+              "name": "nr@seenError",
+              "type": "boolean",
+              "value": "true"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

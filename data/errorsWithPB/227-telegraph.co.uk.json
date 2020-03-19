@@ -1,0 +1,158 @@
+[
+  {
+    "timestamp": 1583757291707.4548,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 2182,
+      "columnNumber": 15,
+      "url": "https://www.telegraph.co.uk/finance/financialcrisis/7632538/Germany-refuses-to-help-Greece-unless-it-agrees-to-tougher-terms.html",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "157",
+            "url": "https://www.telegraph.co.uk/finance/financialcrisis/7632538/Germany-refuses-to-help-Greece-unless-it-agrees-to-tougher-terms.html",
+            "lineNumber": 2182,
+            "columnNumber": 15
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: nol_t is not defined\n    at https://www.telegraph.co.uk/finance/financialcrisis/7632538/Germany-refuses-to-help-Greece-unless-it-agrees-to-tougher-terms.html:2183:16",
+        "objectId": "{\"injectedScriptId\":3,\"id\":2}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: nol_t is not defined\n    at https://www.telegraph.co.uk/finance/financialcrisis/7632538/Germany-refuses-to-help-Greece-unless-it-agrees-to-tougher-terms.html:2183:16",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: nol_t is not defined\n    at https:…ce-unless-it-agrees-to-tougher-terms.html:2183:16"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "nol_t is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583757291717.241,
+    "exceptionDetails": {
+      "exceptionId": 2,
+      "text": "Uncaught",
+      "lineNumber": 150,
+      "columnNumber": 60,
+      "url": "https://www.telegraph.co.uk/finance/financialcrisis/7632538/Germany-refuses-to-help-Greece-unless-it-agrees-to-tougher-terms.html",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "document.onreadystatechange",
+            "scriptId": "28",
+            "url": "https://www.telegraph.co.uk/finance/financialcrisis/7632538/Germany-refuses-to-help-Greece-unless-it-agrees-to-tougher-terms.html",
+            "lineNumber": 150,
+            "columnNumber": 60
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot set property 'src' of null\n    at HTMLDocument.document.onreadystatechange (https://www.telegraph.co.uk/finance/financialcrisis/7632538/Germany-refuses-to-help-Greece-unless-it-agrees-to-tougher-terms.html:151:61)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":3}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot set property 'src' of null\n    at HTMLDocument.document.onreadystatechange (https://www.telegraph.co.uk/finance/financialcrisis/7632538/Germany-refuses-to-help-Greece-unless-it-agrees-to-tougher-terms.html:151:61)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot set property 'src' of null\n    a…ce-unless-it-agrees-to-tougher-terms.html:151:61)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot set property 'src' of null"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583757292773.753,
+    "exceptionDetails": {
+      "exceptionId": 3,
+      "text": "Uncaught",
+      "lineNumber": 150,
+      "columnNumber": 60,
+      "url": "https://www.telegraph.co.uk/finance/financialcrisis/7632538/Germany-refuses-to-help-Greece-unless-it-agrees-to-tougher-terms.html",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "document.onreadystatechange",
+            "scriptId": "28",
+            "url": "https://www.telegraph.co.uk/finance/financialcrisis/7632538/Germany-refuses-to-help-Greece-unless-it-agrees-to-tougher-terms.html",
+            "lineNumber": 150,
+            "columnNumber": 60
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot set property 'src' of null at HTMLDocument.document.onreadystatechange (https://www.telegraph.co.uk/finance/financialcrisis/7632538/Germany-refuses-to-help-Greece-unless-it-agrees-to-tougher-terms.html:151:61)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":4}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot set property 'src' of null at HTMLDocument.document.onreadystatechange (https://www.telegraph.co.uk/finance/financialcrisis/7632538/Germany-refuses-to-help-Greece-unless-it-agrees-to-tougher-terms.html:151:61)",
+          "overflow": true,
+          "properties": [
+            {
+              "name": "reported",
+              "type": "boolean",
+              "value": "true"
+            },
+            {
+              "name": "timestamp",
+              "type": "number",
+              "value": "1583757292771"
+            },
+            {
+              "name": "lineNumber",
+              "type": "string",
+              "value": "151"
+            },
+            {
+              "name": "columnNumber",
+              "type": "string",
+              "value": "61"
+            },
+            {
+              "name": "functionName",
+              "type": "string",
+              "value": "HTMLDocument.document.onreadystatechange"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

@@ -1,0 +1,96 @@
+[
+  {
+    "timestamp": 1583002095844.899,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 5,
+      "columnNumber": 74,
+      "url": "http://parallelbible.com/pr/james/1-4.htm",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "onload",
+            "scriptId": "15",
+            "url": "http://parallelbible.com/pr/james/1-4.htm",
+            "lineNumber": 5,
+            "columnNumber": 74
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'reset' of undefined\n    at onload (http://parallelbible.com/pr/james/1-4.htm:6:75)",
+        "objectId": "{\"injectedScriptId\":5,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'reset' of undefined\n    at onload (http://parallelbible.com/pr/james/1-4.htm:6:75)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'reset' of undefin… (http://parallelbible.com/pr/james/1-4.htm:6:75)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'reset' of undefined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 5
+    }
+  },
+  {
+    "timestamp": 1583002095846.034,
+    "exceptionDetails": {
+      "exceptionId": 2,
+      "text": "Uncaught",
+      "lineNumber": 7,
+      "columnNumber": 74,
+      "url": "http://biblegem.com/vmenus/james/1-4.htm",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "onload",
+            "scriptId": "16",
+            "url": "http://biblegem.com/vmenus/james/1-4.htm",
+            "lineNumber": 7,
+            "columnNumber": 74
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'reset' of undefined\n    at onload (http://biblegem.com/vmenus/james/1-4.htm:8:75)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'reset' of undefined\n    at onload (http://biblegem.com/vmenus/james/1-4.htm:8:75)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'reset' of undefin…d (http://biblegem.com/vmenus/james/1-4.htm:8:75)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'reset' of undefined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

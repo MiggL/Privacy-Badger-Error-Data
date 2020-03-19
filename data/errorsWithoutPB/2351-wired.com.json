@@ -1,0 +1,307 @@
+[
+  {
+    "timestamp": 1582812050467.323,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 0,
+      "columnNumber": 289,
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "eval",
+            "scriptId": "82",
+            "url": "",
+            "lineNumber": 0,
+            "columnNumber": 289
+          },
+          {
+            "functionName": "a",
+            "scriptId": "41",
+            "url": "https://assets.adobedtm.com/6372cf21ef88ee60bc2977a4898dcb5c7945a212/satelliteLib-5e0259aff0b35c55ae1387e43a61e5902ea0cdb6.js",
+            "lineNumber": 3,
+            "columnNumber": 8318
+          },
+          {
+            "functionName": "AppMeasurement.a.t.a.track",
+            "scriptId": "48",
+            "url": "https://assets.adobedtm.com/6372cf21ef88ee60bc2977a4898dcb5c7945a212/s-code-contents-4db97ef176d632a0c5cd3a7d6c33be3c1957ff0c.js",
+            "lineNumber": 61,
+            "columnNumber": 471
+          },
+          {
+            "functionName": "sendBeacon",
+            "scriptId": "41",
+            "url": "https://assets.adobedtm.com/6372cf21ef88ee60bc2977a4898dcb5c7945a212/satelliteLib-5e0259aff0b35c55ae1387e43a61e5902ea0cdb6.js",
+            "lineNumber": 2,
+            "columnNumber": 23546
+          },
+          {
+            "functionName": "onSCodeLoaded",
+            "scriptId": "41",
+            "url": "https://assets.adobedtm.com/6372cf21ef88ee60bc2977a4898dcb5c7945a212/satelliteLib-5e0259aff0b35c55ae1387e43a61e5902ea0cdb6.js",
+            "lineNumber": 2,
+            "columnNumber": 22606
+          },
+          {
+            "functionName": "",
+            "scriptId": "41",
+            "url": "https://assets.adobedtm.com/6372cf21ef88ee60bc2977a4898dcb5c7945a212/satelliteLib-5e0259aff0b35c55ae1387e43a61e5902ea0cdb6.js",
+            "lineNumber": 1,
+            "columnNumber": 4823
+          },
+          {
+            "functionName": "i",
+            "scriptId": "41",
+            "url": "https://assets.adobedtm.com/6372cf21ef88ee60bc2977a4898dcb5c7945a212/satelliteLib-5e0259aff0b35c55ae1387e43a61e5902ea0cdb6.js",
+            "lineNumber": 1,
+            "columnNumber": 5707
+          },
+          {
+            "functionName": "t.onload",
+            "scriptId": "41",
+            "url": "https://assets.adobedtm.com/6372cf21ef88ee60bc2977a4898dcb5c7945a212/satelliteLib-5e0259aff0b35c55ae1387e43a61e5902ea0cdb6.js",
+            "lineNumber": 1,
+            "columnNumber": 5746
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'split' of undefined\n    at AppMeasurement.eval [as getTimeParting] (eval at customInit (https://assets.adobedtm.com/6372cf21ef88ee60bc2977a4898dcb5c7945a212/satelliteLib-5e0259aff0b35c55ae1387e43a61e5902ea0cdb6.js:4:20839), <anonymous>:1:290)\n    at AppMeasurement.a [as doPlugins] (https://assets.adobedtm.com/6372cf21ef88ee60bc2977a4898dcb5c7945a212/satelliteLib-5e0259aff0b35c55ae1387e43a61e5902ea0cdb6.js:4:8319)\n    at AppMeasurement.a.t.a.track (https://assets.adobedtm.com/6372cf21ef88ee60bc2977a4898dcb5c7945a212/s-code-contents-4db97ef176d632a0c5cd3a7d6c33be3c1957ff0c.js:62:472)\n    at k.sendBeacon (https://assets.adobedtm.com/6372cf21ef88ee60bc2977a4898dcb5c7945a212/satelliteLib-5e0259aff0b35c55ae1387e43a61e5902ea0cdb6.js:3:23547)\n    at k.onSCodeLoaded (https://assets.adobedtm.com/6372cf21ef88ee60bc2977a4898dcb5c7945a212/satelliteLib-5e0259aff0b35c55ae1387e43a61e5902ea0cdb6.js:3:22607)\n    at https://assets.adobedtm.com/6372cf21ef88ee60bc2977a4898dcb5c7945a212/satelliteLib-5e0259aff0b35c55ae1387e43a61e5902ea0cdb6.js:2:4824\n    at i (https://assets.adobedtm.com/6372cf21ef88ee60bc2977a4898dcb5c7945a212/satelliteLib-5e0259aff0b35c55ae1387e43a61e5902ea0cdb6.js:2:5708)\n    at HTMLScriptElement.t.onload (https://assets.adobedtm.com/6372cf21ef88ee60bc2977a4898dcb5c7945a212/satelliteLib-5e0259aff0b35c55ae1387e43a61e5902ea0cdb6.js:2:5747)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":4}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'split' of undefined\n    at AppMeasurement.eval [as getTimeParting] (eval at customInit (https://assets.adobedtm.com/6372cf21ef88ee60bc2977a4898dcb5c7945a212/satelliteLib-5e0259aff0b35c55ae1387e43a61e5902ea0cdb6.js:4:20839), <anonymous>:1:290)\n    at AppMeasurement.a [as doPlugins] (https://assets.adobedtm.com/6372cf21ef88ee60bc2977a4898dcb5c7945a212/satelliteLib-5e0259aff0b35c55ae1387e43a61e5902ea0cdb6.js:4:8319)\n    at AppMeasurement.a.t.a.track (https://assets.adobedtm.com/6372cf21ef88ee60bc2977a4898dcb5c7945a212/s-code-contents-4db97ef176d632a0c5cd3a7d6c33be3c1957ff0c.js:62:472)\n    at k.sendBeacon (https://assets.adobedtm.com/6372cf21ef88ee60bc2977a4898dcb5c7945a212/satelliteLib-5e0259aff0b35c55ae1387e43a61e5902ea0cdb6.js:3:23547)\n    at k.onSCodeLoaded (https://assets.adobedtm.com/6372cf21ef88ee60bc2977a4898dcb5c7945a212/satelliteLib-5e0259aff0b35c55ae1387e43a61e5902ea0cdb6.js:3:22607)\n    at https://assets.adobedtm.com/6372cf21ef88ee60bc2977a4898dcb5c7945a212/satelliteLib-5e0259aff0b35c55ae1387e43a61e5902ea0cdb6.js:2:4824\n    at i (https://assets.adobedtm.com/6372cf21ef88ee60bc2977a4898dcb5c7945a212/satelliteLib-5e0259aff0b35c55ae1387e43a61e5902ea0cdb6.js:2:5708)\n    at HTMLScriptElement.t.onload (https://assets.adobedtm.com/6372cf21ef88ee60bc2977a4898dcb5c7945a212/satelliteLib-5e0259aff0b35c55ae1387e43a61e5902ea0cdb6.js:2:5747)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'split' of undefin…0259aff0b35c55ae1387e43a61e5902ea0cdb6.js:2:5747)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'split' of undefined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1582812050467.704,
+    "exceptionDetails": {
+      "exceptionId": 2,
+      "text": "Uncaught",
+      "lineNumber": 4110,
+      "columnNumber": 283,
+      "url": "https://www.googletagmanager.com/gtm.js?id=GTM-5HBJC2K",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "error",
+            "scriptId": "42",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-5HBJC2K",
+            "lineNumber": 4110,
+            "columnNumber": 283
+          },
+          {
+            "functionName": "v.qb.onerror",
+            "scriptId": "42",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-5HBJC2K",
+            "lineNumber": 4118,
+            "columnNumber": 496
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "className": "Object",
+        "description": "Object",
+        "objectId": "{\"injectedScriptId\":3,\"id\":5}",
+        "preview": {
+          "type": "object",
+          "description": "Object",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "Eh",
+              "type": "string",
+              "value": "Script error. - :0"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1582812051180.578,
+    "exceptionDetails": {
+      "exceptionId": 3,
+      "text": "Uncaught (in promise)",
+      "lineNumber": 45,
+      "columnNumber": 207557,
+      "url": "https://www.wired.com/js/d934abb47d2cbb393811.app-shell.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "39",
+            "url": "https://www.wired.com/js/d934abb47d2cbb393811.app-shell.js",
+            "lineNumber": 45,
+            "columnNumber": 207557
+          },
+          {
+            "functionName": "",
+            "scriptId": "39",
+            "url": "https://www.wired.com/js/d934abb47d2cbb393811.app-shell.js",
+            "lineNumber": 0,
+            "columnNumber": 22341
+          },
+          {
+            "functionName": "d",
+            "scriptId": "39",
+            "url": "https://www.wired.com/js/d934abb47d2cbb393811.app-shell.js",
+            "lineNumber": 0,
+            "columnNumber": 2686
+          },
+          {
+            "functionName": "",
+            "scriptId": "39",
+            "url": "https://www.wired.com/js/d934abb47d2cbb393811.app-shell.js",
+            "lineNumber": 0,
+            "columnNumber": 22318
+          },
+          {
+            "functionName": "",
+            "scriptId": "39",
+            "url": "https://www.wired.com/js/d934abb47d2cbb393811.app-shell.js",
+            "lineNumber": 0,
+            "columnNumber": 21371
+          },
+          {
+            "functionName": "",
+            "scriptId": "39",
+            "url": "https://www.wired.com/js/d934abb47d2cbb393811.app-shell.js",
+            "lineNumber": 0,
+            "columnNumber": 28059
+          },
+          {
+            "functionName": "lr",
+            "scriptId": "39",
+            "url": "https://www.wired.com/js/d934abb47d2cbb393811.app-shell.js",
+            "lineNumber": 0,
+            "columnNumber": 18632
+          },
+          {
+            "functionName": "",
+            "scriptId": "39",
+            "url": "https://www.wired.com/js/d934abb47d2cbb393811.app-shell.js",
+            "lineNumber": 0,
+            "columnNumber": 27864
+          },
+          {
+            "functionName": "Ur",
+            "scriptId": "39",
+            "url": "https://www.wired.com/js/d934abb47d2cbb393811.app-shell.js",
+            "lineNumber": 0,
+            "columnNumber": 21343
+          },
+          {
+            "functionName": "Vr",
+            "scriptId": "39",
+            "url": "https://www.wired.com/js/d934abb47d2cbb393811.app-shell.js",
+            "lineNumber": 0,
+            "columnNumber": 22281
+          },
+          {
+            "functionName": "",
+            "scriptId": "39",
+            "url": "https://www.wired.com/js/d934abb47d2cbb393811.app-shell.js",
+            "lineNumber": 0,
+            "columnNumber": 63071
+          },
+          {
+            "functionName": "i",
+            "scriptId": "39",
+            "url": "https://www.wired.com/js/d934abb47d2cbb393811.app-shell.js",
+            "lineNumber": 0,
+            "columnNumber": 1930
+          },
+          {
+            "functionName": "",
+            "scriptId": "39",
+            "url": "https://www.wired.com/js/d934abb47d2cbb393811.app-shell.js",
+            "lineNumber": 0,
+            "columnNumber": 37821
+          },
+          {
+            "functionName": "a.handleFacebookResponse",
+            "scriptId": "39",
+            "url": "https://www.wired.com/js/d934abb47d2cbb393811.app-shell.js",
+            "lineNumber": 45,
+            "columnNumber": 207507
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'share_count' of undefined\n    at https://www.wired.com/js/d934abb47d2cbb393811.app-shell.js:46:207558\n    at https://www.wired.com/js/d934abb47d2cbb393811.app-shell.js:1:22342\n    at d (https://www.wired.com/js/d934abb47d2cbb393811.app-shell.js:1:2687)\n    at https://www.wired.com/js/d934abb47d2cbb393811.app-shell.js:1:22319\n    at https://www.wired.com/js/d934abb47d2cbb393811.app-shell.js:1:21372\n    at https://www.wired.com/js/d934abb47d2cbb393811.app-shell.js:1:28060\n    at lr (https://www.wired.com/js/d934abb47d2cbb393811.app-shell.js:1:18633)\n    at https://www.wired.com/js/d934abb47d2cbb393811.app-shell.js:1:27865\n    at Ur (https://www.wired.com/js/d934abb47d2cbb393811.app-shell.js:1:21344)\n    at Vr (https://www.wired.com/js/d934abb47d2cbb393811.app-shell.js:1:22282)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":7}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'share_count' of undefined\n    at https://www.wired.com/js/d934abb47d2cbb393811.app-shell.js:46:207558\n    at https://www.wired.com/js/d934abb47d2cbb393811.app-shell.js:1:22342\n    at d (https://www.wired.com/js/d934abb47d2cbb393811.app-shell.js:1:2687)\n    at https://www.wired.com/js/d934abb47d2cbb393811.app-shell.js:1:22319\n    at https://www.wired.com/js/d934abb47d2cbb393811.app-shell.js:1:21372\n    at https://www.wired.com/js/d934abb47d2cbb393811.app-shell.js:1:28060\n    at lr (https://www.wired.com/js/d934abb47d2cbb393811.app-shell.js:1:18633)\n    at https://www.wired.com/js/d934abb47d2cbb393811.app-shell.js:1:27865\n    at Ur (https://www.wired.com/js/d934abb47d2cbb393811.app-shell.js:1:21344)\n    at Vr (https://www.wired.com/js/d934abb47d2cbb393811.app-shell.js:1:22282)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'share_count' of u…com/js/d934abb47d2cbb393811.app-shell.js:1:22282)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'share_count' of undefined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1582812052266.4438,
+    "exceptionDetails": {
+      "exceptionId": 4,
+      "text": "Uncaught (in promise)",
+      "lineNumber": 0,
+      "columnNumber": 2033,
+      "url": "https://www.wired.com/hotzones/src/pixelpropagate.js?cb=10120",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "beaconErr",
+            "scriptId": "45",
+            "url": "https://www.wired.com/hotzones/src/pixelpropagate.js?cb=10120",
+            "lineNumber": 0,
+            "columnNumber": 2033
+          }
+        ]
+      },
+      "exception": {
+        "type": "undefined"
+      },
+      "executionContextId": 3
+    }
+  }
+]

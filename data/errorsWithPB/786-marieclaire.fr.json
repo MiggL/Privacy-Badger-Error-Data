@@ -1,0 +1,95 @@
+[
+  {
+    "timestamp": 1583425176508.528,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught (in promise)",
+      "lineNumber": 0,
+      "columnNumber": 0,
+      "scriptId": "1",
+      "url": "https://www.marieclaire.fr/,faites-passer-le-mot-avec-un-t-shirt-a-message,20221,690802.asp",
+      "exception": {
+        "type": "undefined"
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583425176712.2322,
+    "exceptionDetails": {
+      "exceptionId": 2,
+      "text": "Uncaught (in promise)",
+      "lineNumber": 0,
+      "columnNumber": 0,
+      "scriptId": "1",
+      "url": "https://www.marieclaire.fr/,faites-passer-le-mot-avec-un-t-shirt-a-message,20221,690802.asp",
+      "exception": {
+        "type": "undefined"
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583425178768.514,
+    "exceptionDetails": {
+      "exceptionId": 3,
+      "text": "Uncaught (in promise)",
+      "lineNumber": 0,
+      "columnNumber": 0,
+      "scriptId": "1",
+      "url": "https://www.marieclaire.fr/,faites-passer-le-mot-avec-un-t-shirt-a-message,20221,690802.asp",
+      "exception": {
+        "type": "undefined"
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583425181742.087,
+    "exceptionDetails": {
+      "exceptionId": 4,
+      "text": "Uncaught",
+      "lineNumber": 0,
+      "columnNumber": 0,
+      "scriptId": "233",
+      "url": "https://www.marieclaire.fr/,faites-passer-le-mot-avec-un-t-shirt-a-message,20221,690802.asp",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "i.onreadystatechange",
+            "scriptId": "197",
+            "url": "https://ced.sascdn.com/tag/50/smart.js",
+            "lineNumber": 0,
+            "columnNumber": 9840
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "SyntaxError",
+        "description": "SyntaxError: Unexpected end of JSON input\n    at JSON.parse (<anonymous>)\n    at XMLHttpRequest.i.onreadystatechange (https://ced.sascdn.com/tag/50/smart.js:1:9841)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":3}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "SyntaxError: Unexpected end of JSON input\n    at JSON.parse (<anonymous>)\n    at XMLHttpRequest.i.onreadystatechange (https://ced.sascdn.com/tag/50/smart.js:1:9841)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "SyntaxError: Unexpected end of JSON input\n    at J…e (https://ced.sascdn.com/tag/50/smart.js:1:9841)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Unexpected end of JSON input"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

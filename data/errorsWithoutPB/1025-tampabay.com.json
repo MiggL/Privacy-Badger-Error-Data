@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": 1583004006527.793,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 3,
+      "columnNumber": 2,
+      "scriptId": "18",
+      "url": "https://www.tampabay.com/pf/resources/js/resonate/default.js?d=147",
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "SyntaxError",
+        "description": "SyntaxError: Illegal return statement",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "SyntaxError: Illegal return statement",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "SyntaxError: Illegal return statement"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Illegal return statement"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

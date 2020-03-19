@@ -1,0 +1,49 @@
+[
+  {
+    "timestamp": 1583012617111.68,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 180,
+      "columnNumber": 0,
+      "url": "http://forums.riftgame.com/game-discussions/classes-telara/mage-discussion/98670-cloudburst-vs-ice-shear.html",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "32",
+            "url": "http://forums.riftgame.com/game-discussions/classes-telara/mage-discussion/98670-cloudburst-vs-ice-shear.html",
+            "lineNumber": 180,
+            "columnNumber": 0
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: links_finder is not defined\n    at http://forums.riftgame.com/game-discussions/classes-telara/mage-discussion/98670-cloudburst-vs-ice-shear.html:181:1",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: links_finder is not defined\n    at http://forums.riftgame.com/game-discussions/classes-telara/mage-discussion/98670-cloudburst-vs-ice-shear.html:181:1",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: links_finder is not defined\n    at…scussion/98670-cloudburst-vs-ice-shear.html:181:1"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "links_finder is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

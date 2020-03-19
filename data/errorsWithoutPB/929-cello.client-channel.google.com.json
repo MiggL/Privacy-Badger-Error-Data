@@ -1,0 +1,84 @@
+[
+  {
+    "timestamp": 1583004875850.352,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 203,
+      "columnNumber": 272,
+      "url": "https://cello.client-channel.google.com/client-channel/js/1362969479-lcs_client_bin.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "g.Me",
+            "scriptId": "12",
+            "url": "https://cello.client-channel.google.com/client-channel/js/1362969479-lcs_client_bin.js",
+            "lineNumber": 203,
+            "columnNumber": 272
+          },
+          {
+            "functionName": "g.connect",
+            "scriptId": "12",
+            "url": "https://cello.client-channel.google.com/client-channel/js/1362969479-lcs_client_bin.js",
+            "lineNumber": 202,
+            "columnNumber": 190
+          },
+          {
+            "functionName": "hj.init",
+            "scriptId": "12",
+            "url": "https://cello.client-channel.google.com/client-channel/js/1362969479-lcs_client_bin.js",
+            "lineNumber": 235,
+            "columnNumber": 230
+          },
+          {
+            "functionName": "bj.init",
+            "scriptId": "12",
+            "url": "https://cello.client-channel.google.com/client-channel/js/1362969479-lcs_client_bin.js",
+            "lineNumber": 234,
+            "columnNumber": 478
+          },
+          {
+            "functionName": "",
+            "scriptId": "14",
+            "url": "https://cello.client-channel.google.com/client-channel/client?cfg=%7B%222%22%3A%22cello%22%2C%224%22%3A%22appscommonstorage%22%2C%228%22%3Afalse%2C%2213%22%3Atrue%7D&ctype=cello&sw=true&xpc=%7B%22cn%22%3A%22sCnvzf3Y6w%22%2C%22tp%22%3Anull%2C%22osh%22%3Anull%2C%22ppu%22%3A%22https%3A%2F%2Fdrive.google.com%2Frobots.txt%22%2C%22lpu%22%3A%22https%3A%2F%2Fcello.client-channel.google.com%2Frobots.txt%22%7D",
+            "lineNumber": 10,
+            "columnNumber": 239
+          },
+          {
+            "functionName": "",
+            "scriptId": "14",
+            "url": "https://cello.client-channel.google.com/client-channel/client?cfg=%7B%222%22%3A%22cello%22%2C%224%22%3A%22appscommonstorage%22%2C%228%22%3Afalse%2C%2213%22%3Atrue%7D&ctype=cello&sw=true&xpc=%7B%22cn%22%3A%22sCnvzf3Y6w%22%2C%22tp%22%3Anull%2C%22osh%22%3Anull%2C%22ppu%22%3A%22https%3A%2F%2Fdrive.google.com%2Frobots.txt%22%2C%22lpu%22%3A%22https%3A%2F%2Fcello.client-channel.google.com%2Frobots.txt%22%7D",
+            "lineNumber": 12,
+            "columnNumber": 14
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "Error",
+        "description": "Error: CrossPageChannel: Can't connect, peer window-object not set.\n    at Ci.g.Me (https://cello.client-channel.google.com/client-channel/js/1362969479-lcs_client_bin.js:204:273)\n    at Ci.g.connect (https://cello.client-channel.google.com/client-channel/js/1362969479-lcs_client_bin.js:203:191)\n    at hj.init (https://cello.client-channel.google.com/client-channel/js/1362969479-lcs_client_bin.js:236:231)\n    at bj.init (https://cello.client-channel.google.com/client-channel/js/1362969479-lcs_client_bin.js:235:479)\n    at https://cello.client-channel.google.com/client-channel/client?cfg=%7B%222%22%3A%22cello%22%2C%224%22%3A%22appscommonstorage%22%2C%228%22%3Afalse%2C%2213%22%3Atrue%7D&ctype=cello&sw=true&xpc=%7B%22cn%22%3A%22sCnvzf3Y6w%22%2C%22tp%22%3Anull%2C%22osh%22%3Anull%2C%22ppu%22%3A%22https%3A%2F%2Fdrive.google.com%2Frobots.txt%22%2C%22lpu%22%3A%22https%3A%2F%2Fcello.client-channel.google.com%2Frobots.txt%22%7D:11:240\n    at https://cello.client-channel.google.com/client-channel/client?cfg=%7B%222%22%3A%22cello%22%2C%224%22%3A%22appscommonstorage%22%2C%228%22%3Afalse%2C%2213%22%3Atrue%7D&ctype=cello&sw=true&xpc=%7B%22cn%22%3A%22sCnvzf3Y6w%22%2C%22tp%22%3Anull%2C%22osh%22%3Anull%2C%22ppu%22%3A%22https%3A%2F%2Fdrive.google.com%2Frobots.txt%22%2C%22lpu%22%3A%22https%3A%2F%2Fcello.client-channel.google.com%2Frobots.txt%22%7D:13:15",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "Error: CrossPageChannel: Can't connect, peer window-object not set.\n    at Ci.g.Me (https://cello.client-channel.google.com/client-channel/js/1362969479-lcs_client_bin.js:204:273)\n    at Ci.g.connect (https://cello.client-channel.google.com/client-channel/js/1362969479-lcs_client_bin.js:203:191)\n    at hj.init (https://cello.client-channel.google.com/client-channel/js/1362969479-lcs_client_bin.js:236:231)\n    at bj.init (https://cello.client-channel.google.com/client-channel/js/1362969479-lcs_client_bin.js:235:479)\n    at https://cello.client-channel.google.com/client-channel/client?cfg=%7B%222%22%3A%22cello%22%2C%224%22%3A%22appscommonstorage%22%2C%228%22%3Afalse%2C%2213%22%3Atrue%7D&ctype=cello&sw=true&xpc=%7B%22cn%22%3A%22sCnvzf3Y6w%22%2C%22tp%22%3Anull%2C%22osh%22%3Anull%2C%22ppu%22%3A%22https%3A%2F%2Fdrive.google.com%2Frobots.txt%22%2C%22lpu%22%3A%22https%3A%2F%2Fcello.client-channel.google.com%2Frobots.txt%22%7D:11:240\n    at https://cello.client-channel.google.com/client-channel/client?cfg=%7B%222%22%3A%22cello%22%2C%224%22%3A%22appscommonstorage%22%2C%228%22%3Afalse%2C%2213%22%3Atrue%7D&ctype=cello&sw=true&xpc=%7B%22cn%22%3A%22sCnvzf3Y6w%22%2C%22tp%22%3Anull%2C%22osh%22%3Anull%2C%22ppu%22%3A%22https%3A%2F%2Fdrive.google.com%2Frobots.txt%22%2C%22lpu%22%3A%22https%3A%2F%2Fcello.client-channel.google.com%2Frobots.txt%22%7D:13:15",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "Error: CrossPageChannel: Can't connect, peer windo…lient-channel.google.com%2Frobots.txt%22%7D:13:15"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "CrossPageChannel: Can't connect, peer window-object not set."
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

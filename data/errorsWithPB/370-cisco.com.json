@@ -1,0 +1,96 @@
+[
+  {
+    "timestamp": 1583751182576.91,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 9,
+      "columnNumber": 9,
+      "url": "https://www.cisco.com/c/dam/en/us/support/docs/common/dest_pg_metricsrule.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "50",
+            "url": "https://www.cisco.com/c/dam/en/us/support/docs/common/dest_pg_metricsrule.js",
+            "lineNumber": 9,
+            "columnNumber": 9
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: cdc.util.addMetricsRule is not a function\n    at https://www.cisco.com/c/dam/en/us/support/docs/common/dest_pg_metricsrule.js:10:10",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: cdc.util.addMetricsRule is not a function\n    at https://www.cisco.com/c/dam/en/us/support/docs/common/dest_pg_metricsrule.js:10:10",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: cdc.util.addMetricsRule is not a functi…/support/docs/common/dest_pg_metricsrule.js:10:10"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "cdc.util.addMetricsRule is not a function"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583751182577.7349,
+    "exceptionDetails": {
+      "exceptionId": 2,
+      "text": "Uncaught",
+      "lineNumber": 3513,
+      "columnNumber": 76,
+      "url": "https://www.cisco.com/c/en/us/support/docs/ip/border-gateway-protocol-bgp/26634-bgp-toc.html",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "51",
+            "url": "https://www.cisco.com/c/en/us/support/docs/ip/border-gateway-protocol-bgp/26634-bgp-toc.html",
+            "lineNumber": 3513,
+            "columnNumber": 76
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: cdc.util.checkLogin is not a function\n    at https://www.cisco.com/c/en/us/support/docs/ip/border-gateway-protocol-bgp/26634-bgp-toc.html:3514:77",
+        "objectId": "{\"injectedScriptId\":3,\"id\":2}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: cdc.util.checkLogin is not a function\n    at https://www.cisco.com/c/en/us/support/docs/ip/border-gateway-protocol-bgp/26634-bgp-toc.html:3514:77",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: cdc.util.checkLogin is not a function\n …r-gateway-protocol-bgp/26634-bgp-toc.html:3514:77"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "cdc.util.checkLogin is not a function"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

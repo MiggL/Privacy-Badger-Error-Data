@@ -1,0 +1,250 @@
+[
+  {
+    "timestamp": 1583007331611.6099,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 2432,
+      "columnNumber": 0,
+      "scriptId": "46",
+      "url": "https://savileroweyewear.com/",
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "SyntaxError",
+        "description": "SyntaxError: Unexpected token '<'",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "SyntaxError: Unexpected token '<'",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "SyntaxError: Unexpected token '<'"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Unexpected token '<'"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583007332280.325,
+    "exceptionDetails": {
+      "exceptionId": 2,
+      "text": "Uncaught",
+      "lineNumber": 168,
+      "columnNumber": 46,
+      "url": "https://savileroweyewear.com/",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "success",
+            "scriptId": "28",
+            "url": "https://savileroweyewear.com/",
+            "lineNumber": 168,
+            "columnNumber": 46
+          },
+          {
+            "functionName": "f",
+            "scriptId": "44",
+            "url": "https://ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js",
+            "lineNumber": 0,
+            "columnNumber": 18277
+          },
+          {
+            "functionName": "fireWith",
+            "scriptId": "44",
+            "url": "https://ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js",
+            "lineNumber": 0,
+            "columnNumber": 19063
+          },
+          {
+            "functionName": "r",
+            "scriptId": "44",
+            "url": "https://ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js",
+            "lineNumber": 2,
+            "columnNumber": 16008
+          },
+          {
+            "functionName": "n.onload.n.onreadystatechange",
+            "scriptId": "44",
+            "url": "https://ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js",
+            "lineNumber": 2,
+            "columnNumber": 19532
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'substring' of undefined\n    at Object.success (https://savileroweyewear.com/:169:47)\n    at f (https://ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js:1:18278)\n    at Object.fireWith [as resolveWith] (https://ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js:1:19064)\n    at r (https://ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js:3:16009)\n    at HTMLScriptElement.n.onload.n.onreadystatechange (https://ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js:3:19533)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":2}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'substring' of undefined\n    at Object.success (https://savileroweyewear.com/:169:47)\n    at f (https://ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js:1:18278)\n    at Object.fireWith [as resolveWith] (https://ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js:1:19064)\n    at r (https://ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js:3:16009)\n    at HTMLScriptElement.n.onload.n.onreadystatechange (https://ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js:3:19533)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'substring' of und…com/ajax/libs/jquery/1.9.0/jquery.min.js:3:19533)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'substring' of undefined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583007332960.79,
+    "exceptionDetails": {
+      "exceptionId": 3,
+      "text": "Uncaught",
+      "lineNumber": 376,
+      "columnNumber": 10,
+      "url": "https://savileroweyewear.com/",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "runUpdate",
+            "scriptId": "28",
+            "url": "https://savileroweyewear.com/",
+            "lineNumber": 376,
+            "columnNumber": 10
+          },
+          {
+            "functionName": "updateLanguageText",
+            "scriptId": "28",
+            "url": "https://savileroweyewear.com/",
+            "lineNumber": 341,
+            "columnNumber": 3
+          },
+          {
+            "functionName": "",
+            "scriptId": "28",
+            "url": "https://savileroweyewear.com/",
+            "lineNumber": 290,
+            "columnNumber": 7
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: jQuery.browserLanguage is not a function\n    at runUpdate (https://savileroweyewear.com/:377:11)\n    at updateLanguageText (https://savileroweyewear.com/:342:4)\n    at MutationObserver.<anonymous> (https://savileroweyewear.com/:291:8)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":3}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: jQuery.browserLanguage is not a function\n    at runUpdate (https://savileroweyewear.com/:377:11)\n    at updateLanguageText (https://savileroweyewear.com/:342:4)\n    at MutationObserver.<anonymous> (https://savileroweyewear.com/:291:8)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: jQuery.browserLanguage is not a functio…<anonymous> (https://savileroweyewear.com/:291:8)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "jQuery.browserLanguage is not a function"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583007333973.9011,
+    "exceptionDetails": {
+      "exceptionId": 4,
+      "text": "Uncaught",
+      "lineNumber": 168,
+      "columnNumber": 46,
+      "url": "https://savileroweyewear.com/",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "success",
+            "scriptId": "28",
+            "url": "https://savileroweyewear.com/",
+            "lineNumber": 168,
+            "columnNumber": 46
+          },
+          {
+            "functionName": "f",
+            "scriptId": "44",
+            "url": "https://ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js",
+            "lineNumber": 0,
+            "columnNumber": 18277
+          },
+          {
+            "functionName": "fireWith",
+            "scriptId": "44",
+            "url": "https://ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js",
+            "lineNumber": 0,
+            "columnNumber": 19063
+          },
+          {
+            "functionName": "r",
+            "scriptId": "44",
+            "url": "https://ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js",
+            "lineNumber": 2,
+            "columnNumber": 16008
+          },
+          {
+            "functionName": "n.onload.n.onreadystatechange",
+            "scriptId": "44",
+            "url": "https://ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js",
+            "lineNumber": 2,
+            "columnNumber": 19532
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'substring' of undefined\n    at Object.success (https://savileroweyewear.com/:169:47)\n    at f (https://ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js:1:18278)\n    at Object.fireWith [as resolveWith] (https://ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js:1:19064)\n    at r (https://ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js:3:16009)\n    at HTMLScriptElement.n.onload.n.onreadystatechange (https://ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js:3:19533)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":4}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'substring' of undefined\n    at Object.success (https://savileroweyewear.com/:169:47)\n    at f (https://ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js:1:18278)\n    at Object.fireWith [as resolveWith] (https://ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js:1:19064)\n    at r (https://ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js:3:16009)\n    at HTMLScriptElement.n.onload.n.onreadystatechange (https://ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js:3:19533)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'substring' of und…com/ajax/libs/jquery/1.9.0/jquery.min.js:3:19533)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'substring' of undefined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

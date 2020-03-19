@@ -1,0 +1,164 @@
+[
+  {
+    "timestamp": 1583758418192.6938,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 142,
+      "columnNumber": 51,
+      "url": "https://www.t2biosystems.com/pipeline/t2plex/",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "60",
+            "url": "https://www.t2biosystems.com/pipeline/t2plex/",
+            "lineNumber": 142,
+            "columnNumber": 51
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'setAttribute' of undefined\n    at https://www.t2biosystems.com/pipeline/t2plex/:143:52",
+        "objectId": "{\"injectedScriptId\":3,\"id\":3}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'setAttribute' of undefined\n    at https://www.t2biosystems.com/pipeline/t2plex/:143:52",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'setAttribute' of …ps://www.t2biosystems.com/pipeline/t2plex/:143:52"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'setAttribute' of undefined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583758418198.992,
+    "exceptionDetails": {
+      "exceptionId": 2,
+      "text": "Uncaught",
+      "lineNumber": 142,
+      "columnNumber": 51,
+      "url": "https://www.t2biosystems.com/pipeline/t2plex/",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "60",
+            "url": "https://www.t2biosystems.com/pipeline/t2plex/",
+            "lineNumber": 142,
+            "columnNumber": 51
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'setAttribute' of undefined\n    at https://www.t2biosystems.com/pipeline/t2plex/:143:52",
+        "objectId": "{\"injectedScriptId\":3,\"id\":5}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'setAttribute' of undefined\n    at https://www.t2biosystems.com/pipeline/t2plex/:143:52",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'setAttribute' of …ps://www.t2biosystems.com/pipeline/t2plex/:143:52"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'setAttribute' of undefined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583758419036.1172,
+    "exceptionDetails": {
+      "exceptionId": 3,
+      "text": "Uncaught",
+      "lineNumber": 28,
+      "columnNumber": 37,
+      "url": "https://www.t2biosystems.com/wp-content/themes/t2bio/js/t2bio.cpt.itm.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "onEvent",
+            "scriptId": "58",
+            "url": "https://www.t2biosystems.com/wp-content/themes/t2bio/js/t2bio.cpt.itm.js",
+            "lineNumber": 28,
+            "columnNumber": 37
+          },
+          {
+            "functionName": "",
+            "scriptId": "58",
+            "url": "https://www.t2biosystems.com/wp-content/themes/t2bio/js/t2bio.cpt.itm.js",
+            "lineNumber": 8,
+            "columnNumber": 2
+          },
+          {
+            "functionName": "dispatch",
+            "scriptId": "32",
+            "url": "https://www.t2biosystems.com/wp-content/themes/t2bio/js/jquery-1.11.0.min.js",
+            "lineNumber": 2,
+            "columnNumber": 8065
+          },
+          {
+            "functionName": "r.handle",
+            "scriptId": "32",
+            "url": "https://www.t2biosystems.com/wp-content/themes/t2bio/js/jquery-1.11.0.min.js",
+            "lineNumber": 2,
+            "columnNumber": 4766
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'replace' of undefined\n    at onEvent (https://www.t2biosystems.com/wp-content/themes/t2bio/js/t2bio.cpt.itm.js:29:38)\n    at https://www.t2biosystems.com/wp-content/themes/t2bio/js/t2bio.cpt.itm.js:9:3\n    at dispatch (https://www.t2biosystems.com/wp-content/themes/t2bio/js/jquery-1.11.0.min.js:3:8066)\n    at r.handle (https://www.t2biosystems.com/wp-content/themes/t2bio/js/jquery-1.11.0.min.js:3:4767)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":6}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'replace' of undefined\n    at onEvent (https://www.t2biosystems.com/wp-content/themes/t2bio/js/t2bio.cpt.itm.js:29:38)\n    at https://www.t2biosystems.com/wp-content/themes/t2bio/js/t2bio.cpt.itm.js:9:3\n    at dispatch (https://www.t2biosystems.com/wp-content/themes/t2bio/js/jquery-1.11.0.min.js:3:8066)\n    at r.handle (https://www.t2biosystems.com/wp-content/themes/t2bio/js/jquery-1.11.0.min.js:3:4767)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'replace' of undef…tent/themes/t2bio/js/jquery-1.11.0.min.js:3:4767)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'replace' of undefined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

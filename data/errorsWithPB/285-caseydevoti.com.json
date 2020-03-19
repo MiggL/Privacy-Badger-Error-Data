@@ -1,0 +1,227 @@
+[
+  {
+    "timestamp": 1583756740467.634,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 4,
+      "columnNumber": 28904,
+      "url": "https://www.caseydevoti.com/wp-content/themes/caseydevoti/js/jquery.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "23",
+            "url": "https://www.caseydevoti.com/wp-content/themes/caseydevoti/js/jquery.js",
+            "lineNumber": 4,
+            "columnNumber": 28904
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property '' of undefined\n    at https://www.caseydevoti.com/wp-content/themes/caseydevoti/js/jquery.js:5:28905",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property '' of undefined\n    at https://www.caseydevoti.com/wp-content/themes/caseydevoti/js/jquery.js:5:28905",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property '' of undefined\n  …p-content/themes/caseydevoti/js/jquery.js:5:28905"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property '' of undefined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583756741102.849,
+    "exceptionDetails": {
+      "exceptionId": 2,
+      "text": "Uncaught",
+      "lineNumber": 27,
+      "columnNumber": 42,
+      "url": "https://www.caseydevoti.com/wp-content/themes/caseydevoti/js/tmstickup.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "init",
+            "scriptId": "29",
+            "url": "https://www.caseydevoti.com/wp-content/themes/caseydevoti/js/tmstickup.js",
+            "lineNumber": 27,
+            "columnNumber": 42
+          },
+          {
+            "functionName": "$.fn.tmStickUp",
+            "scriptId": "29",
+            "url": "https://www.caseydevoti.com/wp-content/themes/caseydevoti/js/tmstickup.js",
+            "lineNumber": 24,
+            "columnNumber": 2
+          },
+          {
+            "functionName": "",
+            "scriptId": "29",
+            "url": "https://www.caseydevoti.com/wp-content/themes/caseydevoti/js/tmstickup.js",
+            "lineNumber": 74,
+            "columnNumber": 24
+          },
+          {
+            "functionName": "c",
+            "scriptId": "23",
+            "url": "https://www.caseydevoti.com/wp-content/themes/caseydevoti/js/jquery.js",
+            "lineNumber": 2,
+            "columnNumber": 26035
+          },
+          {
+            "functionName": "fireWith",
+            "scriptId": "23",
+            "url": "https://www.caseydevoti.com/wp-content/themes/caseydevoti/js/jquery.js",
+            "lineNumber": 2,
+            "columnNumber": 26839
+          },
+          {
+            "functionName": "ready",
+            "scriptId": "23",
+            "url": "https://www.caseydevoti.com/wp-content/themes/caseydevoti/js/jquery.js",
+            "lineNumber": 2,
+            "columnNumber": 3304
+          },
+          {
+            "functionName": "q",
+            "scriptId": "23",
+            "url": "https://www.caseydevoti.com/wp-content/themes/caseydevoti/js/jquery.js",
+            "lineNumber": 2,
+            "columnNumber": 716
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'top' of undefined\n    at init (https://www.caseydevoti.com/wp-content/themes/caseydevoti/js/tmstickup.js:28:43)\n    at e.fn.init.$.fn.tmStickUp (https://www.caseydevoti.com/wp-content/themes/caseydevoti/js/tmstickup.js:25:3)\n    at HTMLDocument.<anonymous> (https://www.caseydevoti.com/wp-content/themes/caseydevoti/js/tmstickup.js:75:25)\n    at c (https://www.caseydevoti.com/wp-content/themes/caseydevoti/js/jquery.js:3:26036)\n    at Object.fireWith [as resolveWith] (https://www.caseydevoti.com/wp-content/themes/caseydevoti/js/jquery.js:3:26840)\n    at Function.ready (https://www.caseydevoti.com/wp-content/themes/caseydevoti/js/jquery.js:3:3305)\n    at HTMLDocument.q (https://www.caseydevoti.com/wp-content/themes/caseydevoti/js/jquery.js:3:717)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":2}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'top' of undefined\n    at init (https://www.caseydevoti.com/wp-content/themes/caseydevoti/js/tmstickup.js:28:43)\n    at e.fn.init.$.fn.tmStickUp (https://www.caseydevoti.com/wp-content/themes/caseydevoti/js/tmstickup.js:25:3)\n    at HTMLDocument.<anonymous> (https://www.caseydevoti.com/wp-content/themes/caseydevoti/js/tmstickup.js:75:25)\n    at c (https://www.caseydevoti.com/wp-content/themes/caseydevoti/js/jquery.js:3:26036)\n    at Object.fireWith [as resolveWith] (https://www.caseydevoti.com/wp-content/themes/caseydevoti/js/jquery.js:3:26840)\n    at Function.ready (https://www.caseydevoti.com/wp-content/themes/caseydevoti/js/jquery.js:3:3305)\n    at HTMLDocument.q (https://www.caseydevoti.com/wp-content/themes/caseydevoti/js/jquery.js:3:717)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'top' of undefined…wp-content/themes/caseydevoti/js/jquery.js:3:717)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'top' of undefined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583756741364.033,
+    "exceptionDetails": {
+      "exceptionId": 3,
+      "text": "Uncaught",
+      "lineNumber": 338,
+      "columnNumber": 20,
+      "url": "https://www.caseydevoti.com/wp-content/themes/caseydevoti/assets/js/scripts.js?ver=5.3.2",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "64",
+            "url": "https://www.caseydevoti.com/wp-content/themes/caseydevoti/assets/js/scripts.js?ver=5.3.2",
+            "lineNumber": 338,
+            "columnNumber": 20
+          },
+          {
+            "functionName": "dispatch",
+            "scriptId": "31",
+            "url": "https://www.caseydevoti.com/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp",
+            "lineNumber": 2,
+            "columnNumber": 12368
+          },
+          {
+            "functionName": "r.handle",
+            "scriptId": "31",
+            "url": "https://www.caseydevoti.com/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp",
+            "lineNumber": 2,
+            "columnNumber": 9087
+          },
+          {
+            "functionName": "trigger",
+            "scriptId": "31",
+            "url": "https://www.caseydevoti.com/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp",
+            "lineNumber": 2,
+            "columnNumber": 11487
+          },
+          {
+            "functionName": "a.event.trigger",
+            "scriptId": "32",
+            "url": "https://www.caseydevoti.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1",
+            "lineNumber": 1,
+            "columnNumber": 8274
+          },
+          {
+            "functionName": "x",
+            "scriptId": "31",
+            "url": "https://www.caseydevoti.com/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp",
+            "lineNumber": 3,
+            "columnNumber": 22726
+          },
+          {
+            "functionName": "c",
+            "scriptId": "31",
+            "url": "https://www.caseydevoti.com/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp",
+            "lineNumber": 3,
+            "columnNumber": 26775
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'indexOf' of undefined\n    at HTMLDocument.<anonymous> (https://www.caseydevoti.com/wp-content/themes/caseydevoti/assets/js/scripts.js?ver=5.3.2:339:21)\n    at HTMLDocument.dispatch (https://www.caseydevoti.com/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp:3:12369)\n    at HTMLDocument.r.handle (https://www.caseydevoti.com/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp:3:9088)\n    at Object.trigger (https://www.caseydevoti.com/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp:3:11488)\n    at Object.a.event.trigger (https://www.caseydevoti.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1:2:8275)\n    at x (https://www.caseydevoti.com/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp:4:22727)\n    at XMLHttpRequest.c (https://www.caseydevoti.com/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp:4:26776)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":3}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'indexOf' of undefined\n    at HTMLDocument.<anonymous> (https://www.caseydevoti.com/wp-content/themes/caseydevoti/assets/js/scripts.js?ver=5.3.2:339:21)\n    at HTMLDocument.dispatch (https://www.caseydevoti.com/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp:3:12369)\n    at HTMLDocument.r.handle (https://www.caseydevoti.com/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp:3:9088)\n    at Object.trigger (https://www.caseydevoti.com/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp:3:11488)\n    at Object.a.event.trigger (https://www.caseydevoti.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1:2:8275)\n    at x (https://www.caseydevoti.com/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp:4:22727)\n    at XMLHttpRequest.c (https://www.caseydevoti.com/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp:4:26776)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'indexOf' of undef…cludes/js/jquery/jquery.js?ver=1.12.4-wp:4:26776)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'indexOf' of undefined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

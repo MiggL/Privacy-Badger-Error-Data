@@ -1,0 +1,124 @@
+[
+  {
+    "timestamp": 1583009338019.358,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 0,
+      "columnNumber": 64271,
+      "url": "https://cookie-cdn.cookiepro.com/scripttemplates/otSDKStub.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "addToQueue",
+            "scriptId": "12",
+            "url": "https://cookie-cdn.cookiepro.com/scripttemplates/otSDKStub.js",
+            "lineNumber": 0,
+            "columnNumber": 64271
+          },
+          {
+            "functionName": "executeTcfApi",
+            "scriptId": "12",
+            "url": "https://cookie-cdn.cookiepro.com/scripttemplates/otSDKStub.js",
+            "lineNumber": 0,
+            "columnNumber": 64151
+          },
+          {
+            "functionName": "receiveIabMessage",
+            "scriptId": "12",
+            "url": "https://cookie-cdn.cookiepro.com/scripttemplates/otSDKStub.js",
+            "lineNumber": 0,
+            "columnNumber": 63376
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'a' of undefined\n    at pe.addToQueue (https://cookie-cdn.cookiepro.com/scripttemplates/otSDKStub.js:1:64272)\n    at pe.executeTcfApi (https://cookie-cdn.cookiepro.com/scripttemplates/otSDKStub.js:1:64152)\n    at receiveIabMessage (https://cookie-cdn.cookiepro.com/scripttemplates/otSDKStub.js:1:63377)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":2}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'a' of undefined\n    at pe.addToQueue (https://cookie-cdn.cookiepro.com/scripttemplates/otSDKStub.js:1:64272)\n    at pe.executeTcfApi (https://cookie-cdn.cookiepro.com/scripttemplates/otSDKStub.js:1:64152)\n    at receiveIabMessage (https://cookie-cdn.cookiepro.com/scripttemplates/otSDKStub.js:1:63377)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'a' of undefined\n …okiepro.com/scripttemplates/otSDKStub.js:1:63377)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'a' of undefined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583009339837.825,
+    "exceptionDetails": {
+      "exceptionId": 2,
+      "text": "Uncaught",
+      "lineNumber": 0,
+      "columnNumber": 64271,
+      "url": "https://cookie-cdn.cookiepro.com/scripttemplates/otSDKStub.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "addToQueue",
+            "scriptId": "12",
+            "url": "https://cookie-cdn.cookiepro.com/scripttemplates/otSDKStub.js",
+            "lineNumber": 0,
+            "columnNumber": 64271
+          },
+          {
+            "functionName": "executeCmpApi",
+            "scriptId": "12",
+            "url": "https://cookie-cdn.cookiepro.com/scripttemplates/otSDKStub.js",
+            "lineNumber": 0,
+            "columnNumber": 63865
+          },
+          {
+            "functionName": "receiveIabMessage",
+            "scriptId": "12",
+            "url": "https://cookie-cdn.cookiepro.com/scripttemplates/otSDKStub.js",
+            "lineNumber": 0,
+            "columnNumber": 63096
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'a' of undefined\n    at pe.addToQueue (https://cookie-cdn.cookiepro.com/scripttemplates/otSDKStub.js:1:64272)\n    at pe.executeCmpApi (https://cookie-cdn.cookiepro.com/scripttemplates/otSDKStub.js:1:63866)\n    at receiveIabMessage (https://cookie-cdn.cookiepro.com/scripttemplates/otSDKStub.js:1:63097)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":3}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'a' of undefined\n    at pe.addToQueue (https://cookie-cdn.cookiepro.com/scripttemplates/otSDKStub.js:1:64272)\n    at pe.executeCmpApi (https://cookie-cdn.cookiepro.com/scripttemplates/otSDKStub.js:1:63866)\n    at receiveIabMessage (https://cookie-cdn.cookiepro.com/scripttemplates/otSDKStub.js:1:63097)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'a' of undefined\n …okiepro.com/scripttemplates/otSDKStub.js:1:63097)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'a' of undefined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

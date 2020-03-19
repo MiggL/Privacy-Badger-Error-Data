@@ -1,0 +1,77 @@
+[
+  {
+    "timestamp": 1583749406122.357,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 1286,
+      "columnNumber": 35,
+      "url": "https://www.01net.com/actualites/switch-premiere-prise-en-main-de-la-console-hybride-de-nintendo-1081366.html",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "55",
+            "url": "https://www.01net.com/actualites/switch-premiere-prise-en-main-de-la-console-hybride-de-nintendo-1081366.html",
+            "lineNumber": 1286,
+            "columnNumber": 35
+          },
+          {
+            "functionName": "c",
+            "scriptId": "26",
+            "url": "https://static.bfmtv.com/ressources/js/external/jquery.min.js",
+            "lineNumber": 3,
+            "columnNumber": 26035
+          },
+          {
+            "functionName": "fireWith",
+            "scriptId": "26",
+            "url": "https://static.bfmtv.com/ressources/js/external/jquery.min.js",
+            "lineNumber": 3,
+            "columnNumber": 26839
+          },
+          {
+            "functionName": "k",
+            "scriptId": "26",
+            "url": "https://static.bfmtv.com/ressources/js/external/jquery.min.js",
+            "lineNumber": 5,
+            "columnNumber": 14257
+          },
+          {
+            "functionName": "r",
+            "scriptId": "26",
+            "url": "https://static.bfmtv.com/ressources/js/external/jquery.min.js",
+            "lineNumber": 5,
+            "columnNumber": 18645
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: forum is not defined\n    at HTMLBodyElement.<anonymous> (https://www.01net.com/actualites/switch-premiere-prise-en-main-de-la-console-hybride-de-nintendo-1081366.html:1287:36)\n    at c (https://static.bfmtv.com/ressources/js/external/jquery.min.js:4:26036)\n    at Object.fireWith [as resolveWith] (https://static.bfmtv.com/ressources/js/external/jquery.min.js:4:26840)\n    at k (https://static.bfmtv.com/ressources/js/external/jquery.min.js:6:14258)\n    at XMLHttpRequest.r (https://static.bfmtv.com/ressources/js/external/jquery.min.js:6:18646)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":5}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: forum is not defined\n    at HTMLBodyElement.<anonymous> (https://www.01net.com/actualites/switch-premiere-prise-en-main-de-la-console-hybride-de-nintendo-1081366.html:1287:36)\n    at c (https://static.bfmtv.com/ressources/js/external/jquery.min.js:4:26036)\n    at Object.fireWith [as resolveWith] (https://static.bfmtv.com/ressources/js/external/jquery.min.js:4:26840)\n    at k (https://static.bfmtv.com/ressources/js/external/jquery.min.js:6:14258)\n    at XMLHttpRequest.r (https://static.bfmtv.com/ressources/js/external/jquery.min.js:6:18646)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: forum is not defined\n    at HTMLBo…com/ressources/js/external/jquery.min.js:6:18646)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "forum is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

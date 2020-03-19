@@ -1,0 +1,314 @@
+[
+  {
+    "timestamp": 1583748203645.694,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 2147,
+      "columnNumber": 15,
+      "url": "https://www.telegraph.co.uk/news/religion/11939933/First-white-Briton-to-join-al-Qaeda-in-Syria-is-middle-class-Muslim-convert.html",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "143",
+            "url": "https://www.telegraph.co.uk/news/religion/11939933/First-white-Briton-to-join-al-Qaeda-in-Syria-is-middle-class-Muslim-convert.html",
+            "lineNumber": 2147,
+            "columnNumber": 15
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: nol_t is not defined\n    at https://www.telegraph.co.uk/news/religion/11939933/First-white-Briton-to-join-al-Qaeda-in-Syria-is-middle-class-Muslim-convert.html:2148:16",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: nol_t is not defined\n    at https://www.telegraph.co.uk/news/religion/11939933/First-white-Briton-to-join-al-Qaeda-in-Syria-is-middle-class-Muslim-convert.html:2148:16",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: nol_t is not defined\n    at https:…Syria-is-middle-class-Muslim-convert.html:2148:16"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "nol_t is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583748203647.053,
+    "exceptionDetails": {
+      "exceptionId": 2,
+      "text": "Uncaught",
+      "lineNumber": 154,
+      "columnNumber": 60,
+      "url": "https://www.telegraph.co.uk/news/religion/11939933/First-white-Briton-to-join-al-Qaeda-in-Syria-is-middle-class-Muslim-convert.html",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "document.onreadystatechange",
+            "scriptId": "28",
+            "url": "https://www.telegraph.co.uk/news/religion/11939933/First-white-Briton-to-join-al-Qaeda-in-Syria-is-middle-class-Muslim-convert.html",
+            "lineNumber": 154,
+            "columnNumber": 60
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot set property 'src' of null\n    at HTMLDocument.document.onreadystatechange (https://www.telegraph.co.uk/news/religion/11939933/First-white-Briton-to-join-al-Qaeda-in-Syria-is-middle-class-Muslim-convert.html:155:61)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":2}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot set property 'src' of null\n    at HTMLDocument.document.onreadystatechange (https://www.telegraph.co.uk/news/religion/11939933/First-white-Briton-to-join-al-Qaeda-in-Syria-is-middle-class-Muslim-convert.html:155:61)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot set property 'src' of null\n    a…Syria-is-middle-class-Muslim-convert.html:155:61)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot set property 'src' of null"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583748203777.8909,
+    "exceptionDetails": {
+      "exceptionId": 3,
+      "text": "Uncaught",
+      "lineNumber": 25,
+      "columnNumber": 25,
+      "url": "https://www.telegraph.co.uk/template/ver1-0/js/youtube.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "85",
+            "url": "https://www.telegraph.co.uk/template/ver1-0/js/youtube.js",
+            "lineNumber": 25,
+            "columnNumber": 25
+          },
+          {
+            "functionName": "each",
+            "scriptId": "26",
+            "url": "https://www.telegraph.co.uk/template/ver1-0/js/jquery-1.4.2.min.js",
+            "lineNumber": 29,
+            "columnNumber": 150
+          },
+          {
+            "functionName": "each",
+            "scriptId": "26",
+            "url": "https://www.telegraph.co.uk/template/ver1-0/js/jquery-1.4.2.min.js",
+            "lineNumber": 23,
+            "columnNumber": 146
+          },
+          {
+            "functionName": "onYouTubeIframeAPIReady",
+            "scriptId": "85",
+            "url": "https://www.telegraph.co.uk/template/ver1-0/js/youtube.js",
+            "lineNumber": 24,
+            "columnNumber": 95
+          },
+          {
+            "functionName": "",
+            "scriptId": "85",
+            "url": "https://www.telegraph.co.uk/template/ver1-0/js/youtube.js",
+            "lineNumber": 17,
+            "columnNumber": 4
+          },
+          {
+            "functionName": "ready",
+            "scriptId": "26",
+            "url": "https://www.telegraph.co.uk/template/ver1-0/js/jquery-1.4.2.min.js",
+            "lineNumber": 25,
+            "columnNumber": 288
+          },
+          {
+            "functionName": "L",
+            "scriptId": "26",
+            "url": "https://www.telegraph.co.uk/template/ver1-0/js/jquery-1.4.2.min.js",
+            "lineNumber": 32,
+            "columnNumber": 150
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: YT is not defined\n    at HTMLIFrameElement.<anonymous> (https://www.telegraph.co.uk/template/ver1-0/js/youtube.js:26:26)\n    at Function.each (https://www.telegraph.co.uk/template/ver1-0/js/jquery-1.4.2.min.js:30:151)\n    at init.each (https://www.telegraph.co.uk/template/ver1-0/js/jquery-1.4.2.min.js:24:147)\n    at onYouTubeIframeAPIReady (https://www.telegraph.co.uk/template/ver1-0/js/youtube.js:25:96)\n    at HTMLDocument.<anonymous> (https://www.telegraph.co.uk/template/ver1-0/js/youtube.js:18:5)\n    at Function.ready (https://www.telegraph.co.uk/template/ver1-0/js/jquery-1.4.2.min.js:26:289)\n    at HTMLDocument.L (https://www.telegraph.co.uk/template/ver1-0/js/jquery-1.4.2.min.js:33:151)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":3}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: YT is not defined\n    at HTMLIFrameElement.<anonymous> (https://www.telegraph.co.uk/template/ver1-0/js/youtube.js:26:26)\n    at Function.each (https://www.telegraph.co.uk/template/ver1-0/js/jquery-1.4.2.min.js:30:151)\n    at init.each (https://www.telegraph.co.uk/template/ver1-0/js/jquery-1.4.2.min.js:24:147)\n    at onYouTubeIframeAPIReady (https://www.telegraph.co.uk/template/ver1-0/js/youtube.js:25:96)\n    at HTMLDocument.<anonymous> (https://www.telegraph.co.uk/template/ver1-0/js/youtube.js:18:5)\n    at Function.ready (https://www.telegraph.co.uk/template/ver1-0/js/jquery-1.4.2.min.js:26:289)\n    at HTMLDocument.L (https://www.telegraph.co.uk/template/ver1-0/js/jquery-1.4.2.min.js:33:151)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: YT is not defined\n    at HTMLIFram…uk/template/ver1-0/js/jquery-1.4.2.min.js:33:151)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "YT is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583748204963.9631,
+    "exceptionDetails": {
+      "exceptionId": 4,
+      "text": "Uncaught (in promise)",
+      "lineNumber": 2,
+      "columnNumber": 38130,
+      "url": "https://player.ooyala.com/v3/7dfd98005dba40baacc82277f292e522?platform=html5-fallback",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "n",
+            "scriptId": "156",
+            "url": "https://player.ooyala.com/v3/7dfd98005dba40baacc82277f292e522?platform=html5-fallback",
+            "lineNumber": 2,
+            "columnNumber": 38130
+          },
+          {
+            "functionName": "l",
+            "scriptId": "156",
+            "url": "https://player.ooyala.com/v3/7dfd98005dba40baacc82277f292e522?platform=html5-fallback",
+            "lineNumber": 2,
+            "columnNumber": 38341
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "className": "i",
+        "description": "i",
+        "objectId": "{\"injectedScriptId\":8,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "description": "i",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "code",
+              "type": "number",
+              "value": "1203"
+            },
+            {
+              "name": "name",
+              "type": "string",
+              "value": "SOURCE_NO_SUPPORTED_TECHNOLOGY"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "1203/SOURCE_NO_SUPPORTED_TECHNOLOGY"
+            },
+            {
+              "name": "data",
+              "type": "undefined",
+              "value": "undefined"
+            },
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "SOURCE_NO_SUPPORTED_TECHNOLOGY: 1203/SOURCE_NO_SUP…acc82277f292e522?platform=html5-fallback:9:975313"
+            }
+          ]
+        }
+      },
+      "executionContextId": 8
+    }
+  },
+  {
+    "timestamp": 1583748205645.669,
+    "exceptionDetails": {
+      "exceptionId": 5,
+      "text": "Uncaught",
+      "lineNumber": 154,
+      "columnNumber": 60,
+      "url": "https://www.telegraph.co.uk/news/religion/11939933/First-white-Briton-to-join-al-Qaeda-in-Syria-is-middle-class-Muslim-convert.html",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "document.onreadystatechange",
+            "scriptId": "28",
+            "url": "https://www.telegraph.co.uk/news/religion/11939933/First-white-Briton-to-join-al-Qaeda-in-Syria-is-middle-class-Muslim-convert.html",
+            "lineNumber": 154,
+            "columnNumber": 60
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot set property 'src' of null at HTMLDocument.document.onreadystatechange (https://www.telegraph.co.uk/news/religion/11939933/First-white-Briton-to-join-al-Qaeda-in-Syria-is-middle-class-Muslim-convert.html:155:61)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":5}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot set property 'src' of null at HTMLDocument.document.onreadystatechange (https://www.telegraph.co.uk/news/religion/11939933/First-white-Briton-to-join-al-Qaeda-in-Syria-is-middle-class-Muslim-convert.html:155:61)",
+          "overflow": true,
+          "properties": [
+            {
+              "name": "reported",
+              "type": "boolean",
+              "value": "true"
+            },
+            {
+              "name": "timestamp",
+              "type": "number",
+              "value": "1583748205644"
+            },
+            {
+              "name": "lineNumber",
+              "type": "string",
+              "value": "155"
+            },
+            {
+              "name": "columnNumber",
+              "type": "string",
+              "value": "61"
+            },
+            {
+              "name": "functionName",
+              "type": "string",
+              "value": "HTMLDocument.document.onreadystatechange"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

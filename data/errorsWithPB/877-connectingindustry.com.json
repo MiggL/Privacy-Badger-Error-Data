@@ -1,0 +1,49 @@
+[
+  {
+    "timestamp": 1583424349714.862,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 110,
+      "columnNumber": 0,
+      "url": "https://www.connectingindustry.com/ClientScript/ci_banner.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "29",
+            "url": "https://www.connectingindustry.com/ClientScript/ci_banner.js",
+            "lineNumber": 110,
+            "columnNumber": 0
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: stLight is not defined\n    at https://www.connectingindustry.com/ClientScript/ci_banner.js:111:1",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: stLight is not defined\n    at https://www.connectingindustry.com/ClientScript/ci_banner.js:111:1",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: stLight is not defined\n    at http…ctingindustry.com/ClientScript/ci_banner.js:111:1"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "stLight is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

@@ -1,0 +1,117 @@
+[
+  {
+    "timestamp": 1583008073580.127,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught (in promise)",
+      "lineNumber": 0,
+      "columnNumber": 145298,
+      "url": "https://assets.guim.co.uk/javascripts/bdf9ea88ba83e20d7dca/graun.vendors~media-player.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "e.play",
+            "scriptId": "34",
+            "url": "https://assets.guim.co.uk/javascripts/bdf9ea88ba83e20d7dca/graun.vendors~media-player.js",
+            "lineNumber": 0,
+            "columnNumber": 145298
+          },
+          {
+            "functionName": "e.techCall_",
+            "scriptId": "34",
+            "url": "https://assets.guim.co.uk/javascripts/bdf9ea88ba83e20d7dca/graun.vendors~media-player.js",
+            "lineNumber": 0,
+            "columnNumber": 114714
+          },
+          {
+            "functionName": "e.play",
+            "scriptId": "34",
+            "url": "https://assets.guim.co.uk/javascripts/bdf9ea88ba83e20d7dca/graun.vendors~media-player.js",
+            "lineNumber": 0,
+            "columnNumber": 115174
+          },
+          {
+            "functionName": "ready",
+            "scriptId": "39",
+            "url": "https://assets.guim.co.uk/javascripts/d84d6598a6fc7eeda417/graun.media-player.js",
+            "lineNumber": 0,
+            "columnNumber": 1603
+          },
+          {
+            "functionName": "bindContentEvents",
+            "scriptId": "39",
+            "url": "https://assets.guim.co.uk/javascripts/d84d6598a6fc7eeda417/graun.media-player.js",
+            "lineNumber": 0,
+            "columnNumber": 1614
+          },
+          {
+            "functionName": "",
+            "scriptId": "39",
+            "url": "https://assets.guim.co.uk/javascripts/d84d6598a6fc7eeda417/graun.media-player.js",
+            "lineNumber": 0,
+            "columnNumber": 7176
+          },
+          {
+            "functionName": "n.a",
+            "scriptId": "39",
+            "url": "https://assets.guim.co.uk/javascripts/d84d6598a6fc7eeda417/graun.media-player.js",
+            "lineNumber": 0,
+            "columnNumber": 3570
+          },
+          {
+            "functionName": "",
+            "scriptId": "39",
+            "url": "https://assets.guim.co.uk/javascripts/d84d6598a6fc7eeda417/graun.media-player.js",
+            "lineNumber": 0,
+            "columnNumber": 7109
+          },
+          {
+            "functionName": "r",
+            "scriptId": "34",
+            "url": "https://assets.guim.co.uk/javascripts/bdf9ea88ba83e20d7dca/graun.vendors~media-player.js",
+            "lineNumber": 2,
+            "columnNumber": 38041
+          },
+          {
+            "functionName": "o",
+            "scriptId": "14",
+            "url": "https://assets.guim.co.uk/javascripts/59142feda0db126063db/graun.standard.js",
+            "lineNumber": 21,
+            "columnNumber": 12209
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "DOMException",
+        "description": "DOMException: play() failed because the user didn't interact with the document first. https://goo.gl/xX8pDD",
+        "objectId": "{\"injectedScriptId\":3,\"id\":3}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "DOMException: play() failed because the user didn't interact with the document first. https://goo.gl/xX8pDD",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "code",
+              "type": "number",
+              "value": "0"
+            },
+            {
+              "name": "name",
+              "type": "string",
+              "value": "NotAllowedError"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "play() failed because the user didn't interact with the document first. https://goo.gl/xX8pDD"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

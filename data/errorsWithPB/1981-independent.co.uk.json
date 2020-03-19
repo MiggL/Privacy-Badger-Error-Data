@@ -1,0 +1,91 @@
+[
+  {
+    "timestamp": 1582896648041.029,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 0,
+      "columnNumber": 1455,
+      "url": "https://www.independent.co.uk/_build/permutive.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "50",
+            "url": "https://www.independent.co.uk/_build/permutive.js",
+            "lineNumber": 0,
+            "columnNumber": 1455
+          },
+          {
+            "functionName": "t",
+            "scriptId": "50",
+            "url": "https://www.independent.co.uk/_build/permutive.js",
+            "lineNumber": 0,
+            "columnNumber": 1357
+          },
+          {
+            "functionName": "t.prependPermutiveSegment",
+            "scriptId": "50",
+            "url": "https://www.independent.co.uk/_build/permutive.js",
+            "lineNumber": 0,
+            "columnNumber": 1794
+          },
+          {
+            "functionName": "57",
+            "scriptId": "50",
+            "url": "https://www.independent.co.uk/_build/permutive.js",
+            "lineNumber": 0,
+            "columnNumber": 6842
+          },
+          {
+            "functionName": "n",
+            "scriptId": "50",
+            "url": "https://www.independent.co.uk/_build/permutive.js",
+            "lineNumber": 0,
+            "columnNumber": 109
+          },
+          {
+            "functionName": "",
+            "scriptId": "50",
+            "url": "https://www.independent.co.uk/_build/permutive.js",
+            "lineNumber": 0,
+            "columnNumber": 909
+          },
+          {
+            "functionName": "",
+            "scriptId": "50",
+            "url": "https://www.independent.co.uk/_build/permutive.js",
+            "lineNumber": 0,
+            "columnNumber": 919
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'targeting' of null\n    at https://www.independent.co.uk/_build/permutive.js:1:1456\n    at Array.forEach (<anonymous>)\n    at t (https://www.independent.co.uk/_build/permutive.js:1:1358)\n    at t.prependPermutiveSegment (https://www.independent.co.uk/_build/permutive.js:1:1795)\n    at Object.57 (https://www.independent.co.uk/_build/permutive.js:1:6843)\n    at n (https://www.independent.co.uk/_build/permutive.js:1:110)\n    at https://www.independent.co.uk/_build/permutive.js:1:910\n    at https://www.independent.co.uk/_build/permutive.js:1:920",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'targeting' of null\n    at https://www.independent.co.uk/_build/permutive.js:1:1456\n    at Array.forEach (<anonymous>)\n    at t (https://www.independent.co.uk/_build/permutive.js:1:1358)\n    at t.prependPermutiveSegment (https://www.independent.co.uk/_build/permutive.js:1:1795)\n    at Object.57 (https://www.independent.co.uk/_build/permutive.js:1:6843)\n    at n (https://www.independent.co.uk/_build/permutive.js:1:110)\n    at https://www.independent.co.uk/_build/permutive.js:1:910\n    at https://www.independent.co.uk/_build/permutive.js:1:920",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'targeting' of nul…//www.independent.co.uk/_build/permutive.js:1:920"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'targeting' of null"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

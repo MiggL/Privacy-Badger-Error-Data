@@ -1,0 +1,86 @@
+[
+  {
+    "timestamp": 1583416329179.878,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 15,
+      "columnNumber": 23872,
+      "scriptId": "36",
+      "url": "https://s.go-mpulse.net/boomerang/8U6F9-9NJZX-SBP43-YJBZ2-T6TU8",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "getTranslate",
+            "scriptId": "47",
+            "url": "https://www.icebreaker.com/on/demandware.static/Sites-IB-EU-Site/-/sv_SE/v1583398881836/js/vendor.min.js",
+            "lineNumber": 0,
+            "columnNumber": 343338
+          },
+          {
+            "functionName": "getTranslate",
+            "scriptId": "47",
+            "url": "https://www.icebreaker.com/on/demandware.static/Sites-IB-EU-Site/-/sv_SE/v1583398881836/js/vendor.min.js",
+            "lineNumber": 0,
+            "columnNumber": 358679
+          },
+          {
+            "functionName": "loopFix",
+            "scriptId": "47",
+            "url": "https://www.icebreaker.com/on/demandware.static/Sites-IB-EU-Site/-/sv_SE/v1583398881836/js/vendor.min.js",
+            "lineNumber": 0,
+            "columnNumber": 367412
+          },
+          {
+            "functionName": "",
+            "scriptId": "47",
+            "url": "https://www.icebreaker.com/on/demandware.static/Sites-IB-EU-Site/-/sv_SE/v1583398881836/js/vendor.min.js",
+            "lineNumber": 0,
+            "columnNumber": 429484
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Failed to execute 'getComputedStyle' on 'Window': parameter 1 is not of type 'Element'. at Object.getTranslate (https://www.icebreaker.com/on/demandware.static/Sites-IB-EU-Site/-/sv_SE/v1583398881836/js/vendor.min.js:1:343339) at i.getTranslate (https://www.icebreaker.com/on/demandware.static/Sites-IB-EU-Site/-/sv_SE/v1583398881836/js/vendor.min.js:1:358680) at i.loopFix (https://www.icebreaker.com/on/demandware.static/Sites-IB-EU-Site/-/sv_SE/v1583398881836/js/vendor.min.js:1:367413) at https://www.icebreaker.com/on/demandware.static/Sites-IB-EU-Site/-/sv_SE/v1583398881836/js/vendor.min.js:1:429485",
+        "objectId": "{\"injectedScriptId\":6,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Failed to execute 'getComputedStyle' on 'Window': parameter 1 is not of type 'Element'. at Object.getTranslate (https://www.icebreaker.com/on/demandware.static/Sites-IB-EU-Site/-/sv_SE/v1583398881836/js/vendor.min.js:1:343339) at i.getTranslate (https://www.icebreaker.com/on/demandware.static/Sites-IB-EU-Site/-/sv_SE/v1583398881836/js/vendor.min.js:1:358680) at i.loopFix (https://www.icebreaker.com/on/demandware.static/Sites-IB-EU-Site/-/sv_SE/v1583398881836/js/vendor.min.js:1:367413) at https://www.icebreaker.com/on/demandware.static/Sites-IB-EU-Site/-/sv_SE/v1583398881836/js/vendor.min.js:1:429485",
+          "overflow": true,
+          "properties": [
+            {
+              "name": "reported",
+              "type": "boolean",
+              "value": "true"
+            },
+            {
+              "name": "timestamp",
+              "type": "number",
+              "value": "1583416329175"
+            },
+            {
+              "name": "lineNumber",
+              "type": "string",
+              "value": "1"
+            },
+            {
+              "name": "columnNumber",
+              "type": "string",
+              "value": "343339"
+            },
+            {
+              "name": "functionName",
+              "type": "string",
+              "value": "Object.getTranslate"
+            }
+          ]
+        }
+      },
+      "executionContextId": 6
+    }
+  }
+]

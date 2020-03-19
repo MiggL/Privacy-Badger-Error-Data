@@ -1,0 +1,737 @@
+[
+  {
+    "timestamp": 1583750906055.276,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught (in promise)",
+      "lineNumber": 0,
+      "columnNumber": 188797,
+      "url": "https://www.barstoolsports.com/static/app.ad0770f85415fe76899f.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "26",
+            "url": "https://www.barstoolsports.com/static/app.ad0770f85415fe76899f.js",
+            "lineNumber": 0,
+            "columnNumber": 188797
+          },
+          {
+            "functionName": "",
+            "scriptId": "26",
+            "url": "https://www.barstoolsports.com/static/app.ad0770f85415fe76899f.js",
+            "lineNumber": 0,
+            "columnNumber": 189858
+          },
+          {
+            "functionName": "u",
+            "scriptId": "36",
+            "url": "https://www.barstoolsports.com/static/vendors~app.2d6770e0d15046dd41af.js",
+            "lineNumber": 120,
+            "columnNumber": 6873
+          },
+          {
+            "functionName": "",
+            "scriptId": "36",
+            "url": "https://www.barstoolsports.com/static/vendors~app.2d6770e0d15046dd41af.js",
+            "lineNumber": 120,
+            "columnNumber": 6626
+          },
+          {
+            "functionName": "forEach.e.<computed>",
+            "scriptId": "36",
+            "url": "https://www.barstoolsports.com/static/vendors~app.2d6770e0d15046dd41af.js",
+            "lineNumber": 120,
+            "columnNumber": 7230
+          },
+          {
+            "functionName": "n",
+            "scriptId": "36",
+            "url": "https://www.barstoolsports.com/static/vendors~app.2d6770e0d15046dd41af.js",
+            "lineNumber": 29,
+            "columnNumber": 51501
+          },
+          {
+            "functionName": "s",
+            "scriptId": "36",
+            "url": "https://www.barstoolsports.com/static/vendors~app.2d6770e0d15046dd41af.js",
+            "lineNumber": 29,
+            "columnNumber": 51712
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: window.freestar.newAdSlots is not a function\n    at https://www.barstoolsports.com/static/app.ad0770f85415fe76899f.js:1:188798\n    at t.<anonymous> (https://www.barstoolsports.com/static/app.ad0770f85415fe76899f.js:1:189859)\n    at u (https://www.barstoolsports.com/static/vendors~app.2d6770e0d15046dd41af.js:121:6874)\n    at Generator._invoke (https://www.barstoolsports.com/static/vendors~app.2d6770e0d15046dd41af.js:121:6627)\n    at Generator.forEach.e.<computed> [as next] (https://www.barstoolsports.com/static/vendors~app.2d6770e0d15046dd41af.js:121:7231)\n    at n (https://www.barstoolsports.com/static/vendors~app.2d6770e0d15046dd41af.js:30:51502)\n    at s (https://www.barstoolsports.com/static/vendors~app.2d6770e0d15046dd41af.js:30:51713)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: window.freestar.newAdSlots is not a function\n    at https://www.barstoolsports.com/static/app.ad0770f85415fe76899f.js:1:188798\n    at t.<anonymous> (https://www.barstoolsports.com/static/app.ad0770f85415fe76899f.js:1:189859)\n    at u (https://www.barstoolsports.com/static/vendors~app.2d6770e0d15046dd41af.js:121:6874)\n    at Generator._invoke (https://www.barstoolsports.com/static/vendors~app.2d6770e0d15046dd41af.js:121:6627)\n    at Generator.forEach.e.<computed> [as next] (https://www.barstoolsports.com/static/vendors~app.2d6770e0d15046dd41af.js:121:7231)\n    at n (https://www.barstoolsports.com/static/vendors~app.2d6770e0d15046dd41af.js:30:51502)\n    at s (https://www.barstoolsports.com/static/vendors~app.2d6770e0d15046dd41af.js:30:51713)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: window.freestar.newAdSlots is not a fun…tic/vendors~app.2d6770e0d15046dd41af.js:30:51713)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "window.freestar.newAdSlots is not a function"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583750906172.639,
+    "exceptionDetails": {
+      "exceptionId": 2,
+      "text": "Uncaught (in promise)",
+      "lineNumber": 0,
+      "columnNumber": 189444,
+      "url": "https://www.barstoolsports.com/static/app.ad0770f85415fe76899f.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "26",
+            "url": "https://www.barstoolsports.com/static/app.ad0770f85415fe76899f.js",
+            "lineNumber": 0,
+            "columnNumber": 189444
+          },
+          {
+            "functionName": "",
+            "scriptId": "26",
+            "url": "https://www.barstoolsports.com/static/app.ad0770f85415fe76899f.js",
+            "lineNumber": 0,
+            "columnNumber": 189858
+          },
+          {
+            "functionName": "u",
+            "scriptId": "36",
+            "url": "https://www.barstoolsports.com/static/vendors~app.2d6770e0d15046dd41af.js",
+            "lineNumber": 120,
+            "columnNumber": 6873
+          },
+          {
+            "functionName": "",
+            "scriptId": "36",
+            "url": "https://www.barstoolsports.com/static/vendors~app.2d6770e0d15046dd41af.js",
+            "lineNumber": 120,
+            "columnNumber": 6626
+          },
+          {
+            "functionName": "forEach.e.<computed>",
+            "scriptId": "36",
+            "url": "https://www.barstoolsports.com/static/vendors~app.2d6770e0d15046dd41af.js",
+            "lineNumber": 120,
+            "columnNumber": 7230
+          },
+          {
+            "functionName": "n",
+            "scriptId": "36",
+            "url": "https://www.barstoolsports.com/static/vendors~app.2d6770e0d15046dd41af.js",
+            "lineNumber": 29,
+            "columnNumber": 51501
+          },
+          {
+            "functionName": "s",
+            "scriptId": "36",
+            "url": "https://www.barstoolsports.com/static/vendors~app.2d6770e0d15046dd41af.js",
+            "lineNumber": 29,
+            "columnNumber": 51712
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'apply' of undefined\n    at https://www.barstoolsports.com/static/app.ad0770f85415fe76899f.js:1:189445\n    at t.<anonymous> (https://www.barstoolsports.com/static/app.ad0770f85415fe76899f.js:1:189859)\n    at u (https://www.barstoolsports.com/static/vendors~app.2d6770e0d15046dd41af.js:121:6874)\n    at Generator._invoke (https://www.barstoolsports.com/static/vendors~app.2d6770e0d15046dd41af.js:121:6627)\n    at Generator.forEach.e.<computed> [as next] (https://www.barstoolsports.com/static/vendors~app.2d6770e0d15046dd41af.js:121:7231)\n    at n (https://www.barstoolsports.com/static/vendors~app.2d6770e0d15046dd41af.js:30:51502)\n    at s (https://www.barstoolsports.com/static/vendors~app.2d6770e0d15046dd41af.js:30:51713)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":2}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'apply' of undefined\n    at https://www.barstoolsports.com/static/app.ad0770f85415fe76899f.js:1:189445\n    at t.<anonymous> (https://www.barstoolsports.com/static/app.ad0770f85415fe76899f.js:1:189859)\n    at u (https://www.barstoolsports.com/static/vendors~app.2d6770e0d15046dd41af.js:121:6874)\n    at Generator._invoke (https://www.barstoolsports.com/static/vendors~app.2d6770e0d15046dd41af.js:121:6627)\n    at Generator.forEach.e.<computed> [as next] (https://www.barstoolsports.com/static/vendors~app.2d6770e0d15046dd41af.js:121:7231)\n    at n (https://www.barstoolsports.com/static/vendors~app.2d6770e0d15046dd41af.js:30:51502)\n    at s (https://www.barstoolsports.com/static/vendors~app.2d6770e0d15046dd41af.js:30:51713)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'apply' of undefin…tic/vendors~app.2d6770e0d15046dd41af.js:30:51713)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'apply' of undefined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583750906348.851,
+    "exceptionDetails": {
+      "exceptionId": 3,
+      "text": "Uncaught (in promise)",
+      "lineNumber": 0,
+      "columnNumber": 188797,
+      "url": "https://www.barstoolsports.com/static/app.ad0770f85415fe76899f.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "26",
+            "url": "https://www.barstoolsports.com/static/app.ad0770f85415fe76899f.js",
+            "lineNumber": 0,
+            "columnNumber": 188797
+          },
+          {
+            "functionName": "",
+            "scriptId": "26",
+            "url": "https://www.barstoolsports.com/static/app.ad0770f85415fe76899f.js",
+            "lineNumber": 0,
+            "columnNumber": 189858
+          },
+          {
+            "functionName": "u",
+            "scriptId": "36",
+            "url": "https://www.barstoolsports.com/static/vendors~app.2d6770e0d15046dd41af.js",
+            "lineNumber": 120,
+            "columnNumber": 6873
+          },
+          {
+            "functionName": "",
+            "scriptId": "36",
+            "url": "https://www.barstoolsports.com/static/vendors~app.2d6770e0d15046dd41af.js",
+            "lineNumber": 120,
+            "columnNumber": 6626
+          },
+          {
+            "functionName": "forEach.e.<computed>",
+            "scriptId": "36",
+            "url": "https://www.barstoolsports.com/static/vendors~app.2d6770e0d15046dd41af.js",
+            "lineNumber": 120,
+            "columnNumber": 7230
+          },
+          {
+            "functionName": "n",
+            "scriptId": "36",
+            "url": "https://www.barstoolsports.com/static/vendors~app.2d6770e0d15046dd41af.js",
+            "lineNumber": 29,
+            "columnNumber": 51501
+          },
+          {
+            "functionName": "s",
+            "scriptId": "36",
+            "url": "https://www.barstoolsports.com/static/vendors~app.2d6770e0d15046dd41af.js",
+            "lineNumber": 29,
+            "columnNumber": 51712
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: window.freestar.newAdSlots is not a function\n    at https://www.barstoolsports.com/static/app.ad0770f85415fe76899f.js:1:188798\n    at t.<anonymous> (https://www.barstoolsports.com/static/app.ad0770f85415fe76899f.js:1:189859)\n    at u (https://www.barstoolsports.com/static/vendors~app.2d6770e0d15046dd41af.js:121:6874)\n    at Generator._invoke (https://www.barstoolsports.com/static/vendors~app.2d6770e0d15046dd41af.js:121:6627)\n    at Generator.forEach.e.<computed> [as next] (https://www.barstoolsports.com/static/vendors~app.2d6770e0d15046dd41af.js:121:7231)\n    at n (https://www.barstoolsports.com/static/vendors~app.2d6770e0d15046dd41af.js:30:51502)\n    at s (https://www.barstoolsports.com/static/vendors~app.2d6770e0d15046dd41af.js:30:51713)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":3}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: window.freestar.newAdSlots is not a function\n    at https://www.barstoolsports.com/static/app.ad0770f85415fe76899f.js:1:188798\n    at t.<anonymous> (https://www.barstoolsports.com/static/app.ad0770f85415fe76899f.js:1:189859)\n    at u (https://www.barstoolsports.com/static/vendors~app.2d6770e0d15046dd41af.js:121:6874)\n    at Generator._invoke (https://www.barstoolsports.com/static/vendors~app.2d6770e0d15046dd41af.js:121:6627)\n    at Generator.forEach.e.<computed> [as next] (https://www.barstoolsports.com/static/vendors~app.2d6770e0d15046dd41af.js:121:7231)\n    at n (https://www.barstoolsports.com/static/vendors~app.2d6770e0d15046dd41af.js:30:51502)\n    at s (https://www.barstoolsports.com/static/vendors~app.2d6770e0d15046dd41af.js:30:51713)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: window.freestar.newAdSlots is not a fun…tic/vendors~app.2d6770e0d15046dd41af.js:30:51713)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "window.freestar.newAdSlots is not a function"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583750906753.5989,
+    "exceptionDetails": {
+      "exceptionId": 4,
+      "text": "Uncaught (in promise)",
+      "lineNumber": 0,
+      "columnNumber": 157508,
+      "url": "https://www.barstoolsports.com/static/app.ad0770f85415fe76899f.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "value",
+            "scriptId": "26",
+            "url": "https://www.barstoolsports.com/static/app.ad0770f85415fe76899f.js",
+            "lineNumber": 0,
+            "columnNumber": 157508
+          },
+          {
+            "functionName": "",
+            "scriptId": "26",
+            "url": "https://www.barstoolsports.com/static/app.ad0770f85415fe76899f.js",
+            "lineNumber": 0,
+            "columnNumber": 158992
+          },
+          {
+            "functionName": "u",
+            "scriptId": "36",
+            "url": "https://www.barstoolsports.com/static/vendors~app.2d6770e0d15046dd41af.js",
+            "lineNumber": 120,
+            "columnNumber": 6873
+          },
+          {
+            "functionName": "",
+            "scriptId": "36",
+            "url": "https://www.barstoolsports.com/static/vendors~app.2d6770e0d15046dd41af.js",
+            "lineNumber": 120,
+            "columnNumber": 6626
+          },
+          {
+            "functionName": "forEach.e.<computed>",
+            "scriptId": "36",
+            "url": "https://www.barstoolsports.com/static/vendors~app.2d6770e0d15046dd41af.js",
+            "lineNumber": 120,
+            "columnNumber": 7230
+          },
+          {
+            "functionName": "n",
+            "scriptId": "36",
+            "url": "https://www.barstoolsports.com/static/vendors~app.2d6770e0d15046dd41af.js",
+            "lineNumber": 29,
+            "columnNumber": 51501
+          },
+          {
+            "functionName": "s",
+            "scriptId": "36",
+            "url": "https://www.barstoolsports.com/static/vendors~app.2d6770e0d15046dd41af.js",
+            "lineNumber": 29,
+            "columnNumber": 51712
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'name' of undefined\n    at t.value (https://www.barstoolsports.com/static/app.ad0770f85415fe76899f.js:1:157509)\n    at t.<anonymous> (https://www.barstoolsports.com/static/app.ad0770f85415fe76899f.js:1:158993)\n    at u (https://www.barstoolsports.com/static/vendors~app.2d6770e0d15046dd41af.js:121:6874)\n    at Generator._invoke (https://www.barstoolsports.com/static/vendors~app.2d6770e0d15046dd41af.js:121:6627)\n    at Generator.forEach.e.<computed> [as next] (https://www.barstoolsports.com/static/vendors~app.2d6770e0d15046dd41af.js:121:7231)\n    at n (https://www.barstoolsports.com/static/vendors~app.2d6770e0d15046dd41af.js:30:51502)\n    at s (https://www.barstoolsports.com/static/vendors~app.2d6770e0d15046dd41af.js:30:51713)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":4}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'name' of undefined\n    at t.value (https://www.barstoolsports.com/static/app.ad0770f85415fe76899f.js:1:157509)\n    at t.<anonymous> (https://www.barstoolsports.com/static/app.ad0770f85415fe76899f.js:1:158993)\n    at u (https://www.barstoolsports.com/static/vendors~app.2d6770e0d15046dd41af.js:121:6874)\n    at Generator._invoke (https://www.barstoolsports.com/static/vendors~app.2d6770e0d15046dd41af.js:121:6627)\n    at Generator.forEach.e.<computed> [as next] (https://www.barstoolsports.com/static/vendors~app.2d6770e0d15046dd41af.js:121:7231)\n    at n (https://www.barstoolsports.com/static/vendors~app.2d6770e0d15046dd41af.js:30:51502)\n    at s (https://www.barstoolsports.com/static/vendors~app.2d6770e0d15046dd41af.js:30:51713)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'name' of undefine…tic/vendors~app.2d6770e0d15046dd41af.js:30:51713)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'name' of undefined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583750907007.4192,
+    "exceptionDetails": {
+      "exceptionId": 5,
+      "text": "Uncaught (in promise)",
+      "lineNumber": 0,
+      "columnNumber": 188797,
+      "url": "https://www.barstoolsports.com/static/app.ad0770f85415fe76899f.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "26",
+            "url": "https://www.barstoolsports.com/static/app.ad0770f85415fe76899f.js",
+            "lineNumber": 0,
+            "columnNumber": 188797
+          },
+          {
+            "functionName": "",
+            "scriptId": "26",
+            "url": "https://www.barstoolsports.com/static/app.ad0770f85415fe76899f.js",
+            "lineNumber": 0,
+            "columnNumber": 189858
+          },
+          {
+            "functionName": "u",
+            "scriptId": "36",
+            "url": "https://www.barstoolsports.com/static/vendors~app.2d6770e0d15046dd41af.js",
+            "lineNumber": 120,
+            "columnNumber": 6873
+          },
+          {
+            "functionName": "",
+            "scriptId": "36",
+            "url": "https://www.barstoolsports.com/static/vendors~app.2d6770e0d15046dd41af.js",
+            "lineNumber": 120,
+            "columnNumber": 6626
+          },
+          {
+            "functionName": "forEach.e.<computed>",
+            "scriptId": "36",
+            "url": "https://www.barstoolsports.com/static/vendors~app.2d6770e0d15046dd41af.js",
+            "lineNumber": 120,
+            "columnNumber": 7230
+          },
+          {
+            "functionName": "n",
+            "scriptId": "36",
+            "url": "https://www.barstoolsports.com/static/vendors~app.2d6770e0d15046dd41af.js",
+            "lineNumber": 29,
+            "columnNumber": 51501
+          },
+          {
+            "functionName": "s",
+            "scriptId": "36",
+            "url": "https://www.barstoolsports.com/static/vendors~app.2d6770e0d15046dd41af.js",
+            "lineNumber": 29,
+            "columnNumber": 51712
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: window.freestar.newAdSlots is not a function\n    at https://www.barstoolsports.com/static/app.ad0770f85415fe76899f.js:1:188798\n    at t.<anonymous> (https://www.barstoolsports.com/static/app.ad0770f85415fe76899f.js:1:189859)\n    at u (https://www.barstoolsports.com/static/vendors~app.2d6770e0d15046dd41af.js:121:6874)\n    at Generator._invoke (https://www.barstoolsports.com/static/vendors~app.2d6770e0d15046dd41af.js:121:6627)\n    at Generator.forEach.e.<computed> [as next] (https://www.barstoolsports.com/static/vendors~app.2d6770e0d15046dd41af.js:121:7231)\n    at n (https://www.barstoolsports.com/static/vendors~app.2d6770e0d15046dd41af.js:30:51502)\n    at s (https://www.barstoolsports.com/static/vendors~app.2d6770e0d15046dd41af.js:30:51713)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":5}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: window.freestar.newAdSlots is not a function\n    at https://www.barstoolsports.com/static/app.ad0770f85415fe76899f.js:1:188798\n    at t.<anonymous> (https://www.barstoolsports.com/static/app.ad0770f85415fe76899f.js:1:189859)\n    at u (https://www.barstoolsports.com/static/vendors~app.2d6770e0d15046dd41af.js:121:6874)\n    at Generator._invoke (https://www.barstoolsports.com/static/vendors~app.2d6770e0d15046dd41af.js:121:6627)\n    at Generator.forEach.e.<computed> [as next] (https://www.barstoolsports.com/static/vendors~app.2d6770e0d15046dd41af.js:121:7231)\n    at n (https://www.barstoolsports.com/static/vendors~app.2d6770e0d15046dd41af.js:30:51502)\n    at s (https://www.barstoolsports.com/static/vendors~app.2d6770e0d15046dd41af.js:30:51713)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: window.freestar.newAdSlots is not a fun…tic/vendors~app.2d6770e0d15046dd41af.js:30:51713)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "window.freestar.newAdSlots is not a function"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583750907007.7158,
+    "exceptionDetails": {
+      "exceptionId": 6,
+      "text": "Uncaught (in promise)",
+      "lineNumber": 66,
+      "columnNumber": 55363,
+      "url": "https://www.barstoolsports.com/static/vendors~app.2d6770e0d15046dd41af.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "e.onerror",
+            "scriptId": "36",
+            "url": "https://www.barstoolsports.com/static/vendors~app.2d6770e0d15046dd41af.js",
+            "lineNumber": 66,
+            "columnNumber": 55363
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "Error",
+        "description": "Error: Failed to load https://a.pub.network/barstoolsports-com/pubfig.min.js\n    at HTMLScriptElement.e.onerror (https://www.barstoolsports.com/static/vendors~app.2d6770e0d15046dd41af.js:67:55364)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":6}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "Error: Failed to load https://a.pub.network/barstoolsports-com/pubfig.min.js\n    at HTMLScriptElement.e.onerror (https://www.barstoolsports.com/static/vendors~app.2d6770e0d15046dd41af.js:67:55364)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "Error: Failed to load https://a.pub.network/barsto…tic/vendors~app.2d6770e0d15046dd41af.js:67:55364)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Failed to load https://a.pub.network/barstoolsports-com/pubfig.min.js"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583750907007.9292,
+    "exceptionDetails": {
+      "exceptionId": 7,
+      "text": "Uncaught (in promise)",
+      "lineNumber": 66,
+      "columnNumber": 55363,
+      "url": "https://www.barstoolsports.com/static/vendors~app.2d6770e0d15046dd41af.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "e.onerror",
+            "scriptId": "36",
+            "url": "https://www.barstoolsports.com/static/vendors~app.2d6770e0d15046dd41af.js",
+            "lineNumber": 66,
+            "columnNumber": 55363
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "Error",
+        "description": "Error: Failed to load https://a.pub.network/barstoolsports-com/pubfig.min.js\n    at HTMLScriptElement.e.onerror (https://www.barstoolsports.com/static/vendors~app.2d6770e0d15046dd41af.js:67:55364)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":7}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "Error: Failed to load https://a.pub.network/barstoolsports-com/pubfig.min.js\n    at HTMLScriptElement.e.onerror (https://www.barstoolsports.com/static/vendors~app.2d6770e0d15046dd41af.js:67:55364)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "Error: Failed to load https://a.pub.network/barsto…tic/vendors~app.2d6770e0d15046dd41af.js:67:55364)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Failed to load https://a.pub.network/barstoolsports-com/pubfig.min.js"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583750907008.064,
+    "exceptionDetails": {
+      "exceptionId": 8,
+      "text": "Uncaught (in promise)",
+      "lineNumber": 66,
+      "columnNumber": 55363,
+      "url": "https://www.barstoolsports.com/static/vendors~app.2d6770e0d15046dd41af.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "e.onerror",
+            "scriptId": "36",
+            "url": "https://www.barstoolsports.com/static/vendors~app.2d6770e0d15046dd41af.js",
+            "lineNumber": 66,
+            "columnNumber": 55363
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "Error",
+        "description": "Error: Failed to load https://a.pub.network/barstoolsports-com/pubfig.min.js\n    at HTMLScriptElement.e.onerror (https://www.barstoolsports.com/static/vendors~app.2d6770e0d15046dd41af.js:67:55364)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":8}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "Error: Failed to load https://a.pub.network/barstoolsports-com/pubfig.min.js\n    at HTMLScriptElement.e.onerror (https://www.barstoolsports.com/static/vendors~app.2d6770e0d15046dd41af.js:67:55364)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "Error: Failed to load https://a.pub.network/barsto…tic/vendors~app.2d6770e0d15046dd41af.js:67:55364)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Failed to load https://a.pub.network/barstoolsports-com/pubfig.min.js"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583750907008.197,
+    "exceptionDetails": {
+      "exceptionId": 9,
+      "text": "Uncaught (in promise)",
+      "lineNumber": 66,
+      "columnNumber": 55363,
+      "url": "https://www.barstoolsports.com/static/vendors~app.2d6770e0d15046dd41af.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "e.onerror",
+            "scriptId": "36",
+            "url": "https://www.barstoolsports.com/static/vendors~app.2d6770e0d15046dd41af.js",
+            "lineNumber": 66,
+            "columnNumber": 55363
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "Error",
+        "description": "Error: Failed to load https://a.pub.network/barstoolsports-com/pubfig.min.js\n    at HTMLScriptElement.e.onerror (https://www.barstoolsports.com/static/vendors~app.2d6770e0d15046dd41af.js:67:55364)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":9}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "Error: Failed to load https://a.pub.network/barstoolsports-com/pubfig.min.js\n    at HTMLScriptElement.e.onerror (https://www.barstoolsports.com/static/vendors~app.2d6770e0d15046dd41af.js:67:55364)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "Error: Failed to load https://a.pub.network/barsto…tic/vendors~app.2d6770e0d15046dd41af.js:67:55364)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Failed to load https://a.pub.network/barstoolsports-com/pubfig.min.js"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583750907861.645,
+    "exceptionDetails": {
+      "exceptionId": 10,
+      "text": "Uncaught",
+      "lineNumber": 1,
+      "columnNumber": 0,
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "59",
+            "url": "",
+            "lineNumber": 1,
+            "columnNumber": 0
+          },
+          {
+            "functionName": "",
+            "scriptId": "21",
+            "url": "https://dnderkfeab66.cloudfront.net/script.js",
+            "lineNumber": 0,
+            "columnNumber": 75353
+          },
+          {
+            "functionName": "",
+            "scriptId": "53",
+            "url": "https://launcher.spot.im/spot/sp_rnhQMwip",
+            "lineNumber": 169,
+            "columnNumber": 71614
+          },
+          {
+            "functionName": "e.default",
+            "scriptId": "53",
+            "url": "https://launcher.spot.im/spot/sp_rnhQMwip",
+            "lineNumber": 169,
+            "columnNumber": 71332
+          },
+          {
+            "functionName": "e.injectOverrides",
+            "scriptId": "53",
+            "url": "https://launcher.spot.im/spot/sp_rnhQMwip",
+            "lineNumber": 169,
+            "columnNumber": 74257
+          },
+          {
+            "functionName": "",
+            "scriptId": "53",
+            "url": "https://launcher.spot.im/spot/sp_rnhQMwip",
+            "lineNumber": 169,
+            "columnNumber": 68780
+          },
+          {
+            "functionName": "",
+            "scriptId": "53",
+            "url": "https://launcher.spot.im/spot/sp_rnhQMwip",
+            "lineNumber": 169,
+            "columnNumber": 65519
+          },
+          {
+            "functionName": "",
+            "scriptId": "53",
+            "url": "https://launcher.spot.im/spot/sp_rnhQMwip",
+            "lineNumber": 169,
+            "columnNumber": 65624
+          },
+          {
+            "functionName": "a",
+            "scriptId": "53",
+            "url": "https://launcher.spot.im/spot/sp_rnhQMwip",
+            "lineNumber": 169,
+            "columnNumber": 64338
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: __SPOTIM_DEV_STORE__ is not defined\n    at <anonymous>:2:1\n    at HTMLBodyElement.appendChild (https://dnderkfeab66.cloudfront.net/script.js:1:75354)\n    at https://launcher.spot.im/spot/sp_rnhQMwip:170:71615\n    at new Promise (<anonymous>)\n    at Object.e.default (https://launcher.spot.im/spot/sp_rnhQMwip:170:71333)\n    at Object.e.injectOverrides (https://launcher.spot.im/spot/sp_rnhQMwip:170:74258)\n    at Object.<anonymous> (https://launcher.spot.im/spot/sp_rnhQMwip:170:68781)\n    at https://launcher.spot.im/spot/sp_rnhQMwip:170:65520\n    at Object.next (https://launcher.spot.im/spot/sp_rnhQMwip:170:65625)\n    at a (https://launcher.spot.im/spot/sp_rnhQMwip:170:64339)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":10}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: __SPOTIM_DEV_STORE__ is not defined\n    at <anonymous>:2:1\n    at HTMLBodyElement.appendChild (https://dnderkfeab66.cloudfront.net/script.js:1:75354)\n    at https://launcher.spot.im/spot/sp_rnhQMwip:170:71615\n    at new Promise (<anonymous>)\n    at Object.e.default (https://launcher.spot.im/spot/sp_rnhQMwip:170:71333)\n    at Object.e.injectOverrides (https://launcher.spot.im/spot/sp_rnhQMwip:170:74258)\n    at Object.<anonymous> (https://launcher.spot.im/spot/sp_rnhQMwip:170:68781)\n    at https://launcher.spot.im/spot/sp_rnhQMwip:170:65520\n    at Object.next (https://launcher.spot.im/spot/sp_rnhQMwip:170:65625)\n    at a (https://launcher.spot.im/spot/sp_rnhQMwip:170:64339)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: __SPOTIM_DEV_STORE__ is not define…ps://launcher.spot.im/spot/sp_rnhQMwip:170:64339)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "__SPOTIM_DEV_STORE__ is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "timestamp": 1583415554090.951,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 149,
+      "columnNumber": 2064,
+      "url": "https://plus.addkt.com/gradesaver.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "23",
+            "url": "https://plus.addkt.com/gradesaver.js",
+            "lineNumber": 149,
+            "columnNumber": 2064
+          },
+          {
+            "functionName": "adScript.onerror",
+            "scriptId": "23",
+            "url": "https://plus.addkt.com/gradesaver.js",
+            "lineNumber": 79,
+            "columnNumber": 28
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: Jpx is not defined\n    at https://plus.addkt.com/gradesaver.js:150:2065\n    at HTMLScriptElement.adScript.onerror (https://plus.addkt.com/gradesaver.js:80:29)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":7}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: Jpx is not defined\n    at https://plus.addkt.com/gradesaver.js:150:2065\n    at HTMLScriptElement.adScript.onerror (https://plus.addkt.com/gradesaver.js:80:29)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: Jpx is not defined\n    at https://…rror (https://plus.addkt.com/gradesaver.js:80:29)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Jpx is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

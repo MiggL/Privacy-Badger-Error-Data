@@ -1,0 +1,49 @@
+[
+  {
+    "timestamp": 1583424162008.7932,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 631,
+      "columnNumber": 492,
+      "url": "https://fisherynation.com/archives/18149",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "36",
+            "url": "https://fisherynation.com/archives/18149",
+            "lineNumber": 631,
+            "columnNumber": 492
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: rm_f1st is not defined\n    at https://fisherynation.com/archives/18149:632:493",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: rm_f1st is not defined\n    at https://fisherynation.com/archives/18149:632:493",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: rm_f1st is not defined\n    at https://fisherynation.com/archives/18149:632:493"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "rm_f1st is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

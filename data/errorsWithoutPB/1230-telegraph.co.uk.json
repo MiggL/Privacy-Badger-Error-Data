@@ -1,0 +1,49 @@
+[
+  {
+    "timestamp": 1583002050817.734,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 150,
+      "columnNumber": 60,
+      "url": "https://www.telegraph.co.uk/men/the-filter/11392756/Grammar-crusader-spends-years-removing-repeated-error-47000-times-on-Wikipedia.html",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "document.onreadystatechange",
+            "scriptId": "18",
+            "url": "https://www.telegraph.co.uk/men/the-filter/11392756/Grammar-crusader-spends-years-removing-repeated-error-47000-times-on-Wikipedia.html",
+            "lineNumber": 150,
+            "columnNumber": 60
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot set property 'src' of null\n    at HTMLDocument.document.onreadystatechange (https://www.telegraph.co.uk/men/the-filter/11392756/Grammar-crusader-spends-years-removing-repeated-error-47000-times-on-Wikipedia.html:151:61)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot set property 'src' of null\n    at HTMLDocument.document.onreadystatechange (https://www.telegraph.co.uk/men/the-filter/11392756/Grammar-crusader-spends-years-removing-repeated-error-47000-times-on-Wikipedia.html:151:61)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot set property 'src' of null\n    a…eated-error-47000-times-on-Wikipedia.html:151:61)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot set property 'src' of null"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

@@ -1,0 +1,164 @@
+[
+  {
+    "timestamp": 1582894309698.581,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 1,
+      "columnNumber": 1864,
+      "url": "https://pahq-wpengine.netdna-ssl.com/wp-content/plugins/bbpowerpack/assets/js/instafeed.min.js?ver=2.7.11.1",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "e.parse",
+            "scriptId": "64",
+            "url": "https://pahq-wpengine.netdna-ssl.com/wp-content/plugins/bbpowerpack/assets/js/instafeed.min.js?ver=2.7.11.1",
+            "lineNumber": 1,
+            "columnNumber": 1864
+          },
+          {
+            "functionName": "",
+            "scriptId": "73",
+            "url": "https://api.instagram.com/v1/users/298387817/media/recent?access_token=298387817.1677ed0.083e70fd8e0a4a72b44c264273acb0c6&count=6&callback=instafeedCached4e43083956b314c.parse",
+            "lineNumber": 0,
+            "columnNumber": 36
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "Error",
+        "description": "Error: Error from Instagram: The access_token provided is invalid.\n    at e.parse (https://pahq-wpengine.netdna-ssl.com/wp-content/plugins/bbpowerpack/assets/js/instafeed.min.js?ver=2.7.11.1:2:1865)\n    at https://api.instagram.com/v1/users/298387817/media/recent?access_token=298387817.1677ed0.083e70fd8e0a4a72b44c264273acb0c6&count=6&callback=instafeedCached4e43083956b314c.parse:1:37",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "Error: Error from Instagram: The access_token provided is invalid.\n    at e.parse (https://pahq-wpengine.netdna-ssl.com/wp-content/plugins/bbpowerpack/assets/js/instafeed.min.js?ver=2.7.11.1:2:1865)\n    at https://api.instagram.com/v1/users/298387817/media/recent?access_token=298387817.1677ed0.083e70fd8e0a4a72b44c264273acb0c6&count=6&callback=instafeedCached4e43083956b314c.parse:1:37",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "Error: Error from Instagram: The access_token prov…allback=instafeedCached4e43083956b314c.parse:1:37"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Error from Instagram: The access_token provided is invalid."
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1582894309699.363,
+    "exceptionDetails": {
+      "exceptionId": 2,
+      "text": "Uncaught",
+      "lineNumber": 1,
+      "columnNumber": 1864,
+      "url": "https://pahq-wpengine.netdna-ssl.com/wp-content/plugins/bbpowerpack/assets/js/instafeed.min.js?ver=2.7.11.1",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "e.parse",
+            "scriptId": "64",
+            "url": "https://pahq-wpengine.netdna-ssl.com/wp-content/plugins/bbpowerpack/assets/js/instafeed.min.js?ver=2.7.11.1",
+            "lineNumber": 1,
+            "columnNumber": 1864
+          },
+          {
+            "functionName": "",
+            "scriptId": "74",
+            "url": "https://api.instagram.com/v1/users/298387817/media/recent?access_token=298387817.1677ed0.083e70fd8e0a4a72b44c264273acb0c6&count=8&callback=instafeedCachec40e7e8c70b7a8c9.parse",
+            "lineNumber": 0,
+            "columnNumber": 36
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "Error",
+        "description": "Error: Error from Instagram: The access_token provided is invalid.\n    at e.parse (https://pahq-wpengine.netdna-ssl.com/wp-content/plugins/bbpowerpack/assets/js/instafeed.min.js?ver=2.7.11.1:2:1865)\n    at https://api.instagram.com/v1/users/298387817/media/recent?access_token=298387817.1677ed0.083e70fd8e0a4a72b44c264273acb0c6&count=8&callback=instafeedCachec40e7e8c70b7a8c9.parse:1:37",
+        "objectId": "{\"injectedScriptId\":3,\"id\":2}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "Error: Error from Instagram: The access_token provided is invalid.\n    at e.parse (https://pahq-wpengine.netdna-ssl.com/wp-content/plugins/bbpowerpack/assets/js/instafeed.min.js?ver=2.7.11.1:2:1865)\n    at https://api.instagram.com/v1/users/298387817/media/recent?access_token=298387817.1677ed0.083e70fd8e0a4a72b44c264273acb0c6&count=8&callback=instafeedCachec40e7e8c70b7a8c9.parse:1:37",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "Error: Error from Instagram: The access_token prov…allback=instafeedCachec40e7e8c70b7a8c9.parse:1:37"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Error from Instagram: The access_token provided is invalid."
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1582894309701.305,
+    "exceptionDetails": {
+      "exceptionId": 3,
+      "text": "Uncaught",
+      "lineNumber": 1,
+      "columnNumber": 1864,
+      "url": "https://pahq-wpengine.netdna-ssl.com/wp-content/plugins/bbpowerpack/assets/js/instafeed.min.js?ver=2.7.11.1",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "e.parse",
+            "scriptId": "64",
+            "url": "https://pahq-wpengine.netdna-ssl.com/wp-content/plugins/bbpowerpack/assets/js/instafeed.min.js?ver=2.7.11.1",
+            "lineNumber": 1,
+            "columnNumber": 1864
+          },
+          {
+            "functionName": "",
+            "scriptId": "75",
+            "url": "https://api.instagram.com/v1/users/298387817/media/recent?access_token=298387817.1677ed0.083e70fd8e0a4a72b44c264273acb0c6&count=1&callback=instafeedCacheb0a64cd09dfc2f65.parse",
+            "lineNumber": 0,
+            "columnNumber": 36
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "Error",
+        "description": "Error: Error from Instagram: The access_token provided is invalid.\n    at e.parse (https://pahq-wpengine.netdna-ssl.com/wp-content/plugins/bbpowerpack/assets/js/instafeed.min.js?ver=2.7.11.1:2:1865)\n    at https://api.instagram.com/v1/users/298387817/media/recent?access_token=298387817.1677ed0.083e70fd8e0a4a72b44c264273acb0c6&count=1&callback=instafeedCacheb0a64cd09dfc2f65.parse:1:37",
+        "objectId": "{\"injectedScriptId\":3,\"id\":3}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "Error: Error from Instagram: The access_token provided is invalid.\n    at e.parse (https://pahq-wpengine.netdna-ssl.com/wp-content/plugins/bbpowerpack/assets/js/instafeed.min.js?ver=2.7.11.1:2:1865)\n    at https://api.instagram.com/v1/users/298387817/media/recent?access_token=298387817.1677ed0.083e70fd8e0a4a72b44c264273acb0c6&count=1&callback=instafeedCacheb0a64cd09dfc2f65.parse:1:37",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "Error: Error from Instagram: The access_token prov…allback=instafeedCacheb0a64cd09dfc2f65.parse:1:37"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Error from Instagram: The access_token provided is invalid."
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

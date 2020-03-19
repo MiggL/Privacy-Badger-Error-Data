@@ -1,0 +1,49 @@
+[
+  {
+    "timestamp": 1583011276396.393,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 2621,
+      "columnNumber": 66,
+      "url": "https://www.allrecipes.com/recipes/15596/side-dish/sauces-and-condiments/sauces/dessert-sauces/",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "33",
+            "url": "https://www.allrecipes.com/recipes/15596/side-dish/sauces-and-condiments/sauces/dessert-sauces/",
+            "lineNumber": 2621,
+            "columnNumber": 66
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: s is not defined\n    at https://www.allrecipes.com/recipes/15596/side-dish/sauces-and-condiments/sauces/dessert-sauces/:2622:67",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: s is not defined\n    at https://www.allrecipes.com/recipes/15596/side-dish/sauces-and-condiments/sauces/dessert-sauces/:2622:67",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: s is not defined\n    at https://ww…ces-and-condiments/sauces/dessert-sauces/:2622:67"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "s is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

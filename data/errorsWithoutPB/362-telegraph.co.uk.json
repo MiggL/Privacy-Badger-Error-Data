@@ -1,0 +1,49 @@
+[
+  {
+    "timestamp": 1583010090576.0242,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 152,
+      "columnNumber": 60,
+      "url": "https://www.telegraph.co.uk/women/womens-business/11741646/stella-and-dot-direct-selling-jewellery-business.html",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "document.onreadystatechange",
+            "scriptId": "18",
+            "url": "https://www.telegraph.co.uk/women/womens-business/11741646/stella-and-dot-direct-selling-jewellery-business.html",
+            "lineNumber": 152,
+            "columnNumber": 60
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot set property 'src' of null\n    at HTMLDocument.document.onreadystatechange (https://www.telegraph.co.uk/women/womens-business/11741646/stella-and-dot-direct-selling-jewellery-business.html:153:61)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot set property 'src' of null\n    at HTMLDocument.document.onreadystatechange (https://www.telegraph.co.uk/women/womens-business/11741646/stella-and-dot-direct-selling-jewellery-business.html:153:61)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot set property 'src' of null\n    a…ot-direct-selling-jewellery-business.html:153:61)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot set property 'src' of null"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

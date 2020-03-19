@@ -1,0 +1,49 @@
+[
+  {
+    "timestamp": 1583004675108.937,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 181,
+      "columnNumber": 6,
+      "url": "https://www.google.com/recaptcha/api2/anchor?k=6LfdQCATAAAAAAdvHrjmPdUll_xT2guB10L_2qkb&co=aHR0cHM6Ly93d3cuZXR0aW5nZXIuY28udWs6NDQz&hl=en-GB&v=r20170404141150&size=normal&cb=gwuuu21k9xxx",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "13",
+            "url": "https://www.google.com/recaptcha/api2/anchor?k=6LfdQCATAAAAAAdvHrjmPdUll_xT2guB10L_2qkb&co=aHR0cHM6Ly93d3cuZXR0aW5nZXIuY28udWs6NDQz&hl=en-GB&v=r20170404141150&size=normal&cb=gwuuu21k9xxx",
+            "lineNumber": 181,
+            "columnNumber": 6
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: recaptcha is not defined\n    at https://www.google.com/recaptcha/api2/anchor?k=6LfdQCATAAAAAAdvHrjmPdUll_xT2guB10L_2qkb&co=aHR0cHM6Ly93d3cuZXR0aW5nZXIuY28udWs6NDQz&hl=en-GB&v=r20170404141150&size=normal&cb=gwuuu21k9xxx:182:7",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: recaptcha is not defined\n    at https://www.google.com/recaptcha/api2/anchor?k=6LfdQCATAAAAAAdvHrjmPdUll_xT2guB10L_2qkb&co=aHR0cHM6Ly93d3cuZXR0aW5nZXIuY28udWs6NDQz&hl=en-GB&v=r20170404141150&size=normal&cb=gwuuu21k9xxx:182:7",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: recaptcha is not defined\n    at ht…r20170404141150&size=normal&cb=gwuuu21k9xxx:182:7"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "recaptcha is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

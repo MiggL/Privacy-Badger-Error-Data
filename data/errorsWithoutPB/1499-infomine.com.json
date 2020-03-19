@@ -1,0 +1,82 @@
+[
+  {
+    "timestamp": 1582818343847.455,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 5,
+      "columnNumber": 215,
+      "url": "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "62",
+            "url": "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js",
+            "lineNumber": 5,
+            "columnNumber": 215
+          },
+          {
+            "functionName": "",
+            "scriptId": "62",
+            "url": "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js",
+            "lineNumber": 5,
+            "columnNumber": 317
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "Error",
+        "description": "Error: Bootstrap's JavaScript requires jQuery version 1.9.1 or higher, but lower than version 4\n    at https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js:6:216\n    at https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js:6:318",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "Error: Bootstrap's JavaScript requires jQuery version 1.9.1 or higher, but lower than version 4\n    at https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js:6:216\n    at https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js:6:318",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "Error: Bootstrap's JavaScript requires jQuery vers…cdn.com/bootstrap/3.3.7/js/bootstrap.min.js:6:318"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Bootstrap's JavaScript requires jQuery version 1.9.1 or higher, but lower than version 4"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1582818344761.127,
+    "exceptionDetails": {
+      "exceptionId": 2,
+      "text": "Uncaught",
+      "lineNumber": 0,
+      "columnNumber": 33,
+      "url": "http://dnn506yrbagrg.cloudfront.net/pages/scripts/0007/8833.js?439671",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "67",
+            "url": "http://dnn506yrbagrg.cloudfront.net/pages/scripts/0007/8833.js?439671",
+            "lineNumber": 0,
+            "columnNumber": 33
+          }
+        ]
+      },
+      "exception": {
+        "type": "string",
+        "value": "CE: multiple userscripts installed"
+      },
+      "executionContextId": 3
+    }
+  }
+]

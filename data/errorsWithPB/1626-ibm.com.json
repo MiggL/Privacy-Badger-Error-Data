@@ -1,0 +1,63 @@
+[
+  {
+    "timestamp": 1583417368175.114,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 8,
+      "columnNumber": 171889,
+      "url": "https://1.www.s81c.com/common/v18/r142/js/www.js?v=20200210_1021",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "e.getPageLc",
+            "scriptId": "26",
+            "url": "https://1.www.s81c.com/common/v18/r142/js/www.js?v=20200210_1021",
+            "lineNumber": 8,
+            "columnNumber": 171889
+          },
+          {
+            "functionName": "n.init",
+            "scriptId": "26",
+            "url": "https://1.www.s81c.com/common/v18/r142/js/www.js?v=20200210_1021",
+            "lineNumber": 8,
+            "columnNumber": 196289
+          },
+          {
+            "functionName": "",
+            "scriptId": "43",
+            "url": "https://www.ibm.com/support/knowledgecenter/en/SSL3JX/verse/faq_signature.html",
+            "lineNumber": 715,
+            "columnNumber": 67
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'pageInfo' of undefined\n    at Object.e.getPageLc (https://1.www.s81c.com/common/v18/r142/js/www.js?v=20200210_1021:9:171890)\n    at Object.n.init (https://1.www.s81c.com/common/v18/r142/js/www.js?v=20200210_1021:9:196290)\n    at https://www.ibm.com/support/knowledgecenter/en/SSL3JX/verse/faq_signature.html:716:68",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'pageInfo' of undefined\n    at Object.e.getPageLc (https://1.www.s81c.com/common/v18/r142/js/www.js?v=20200210_1021:9:171890)\n    at Object.n.init (https://1.www.s81c.com/common/v18/r142/js/www.js?v=20200210_1021:9:196290)\n    at https://www.ibm.com/support/knowledgecenter/en/SSL3JX/verse/faq_signature.html:716:68",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'pageInfo' of unde…ecenter/en/SSL3JX/verse/faq_signature.html:716:68"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'pageInfo' of undefined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

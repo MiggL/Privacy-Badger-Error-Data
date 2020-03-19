@@ -1,0 +1,56 @@
+[
+  {
+    "timestamp": 1583423399943.523,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 77,
+      "columnNumber": 21,
+      "url": "https://assets.adobedtm.com/d9f8b1d39bf634105995a2857c408c129f44bfb7/mbox-contents-5ff59a86b20c0c145a35f54b73d6317040c45645.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "26",
+            "url": "https://assets.adobedtm.com/d9f8b1d39bf634105995a2857c408c129f44bfb7/mbox-contents-5ff59a86b20c0c145a35f54b73d6317040c45645.js",
+            "lineNumber": 77,
+            "columnNumber": 21
+          },
+          {
+            "functionName": "",
+            "scriptId": "26",
+            "url": "https://assets.adobedtm.com/d9f8b1d39bf634105995a2857c408c129f44bfb7/mbox-contents-5ff59a86b20c0c145a35f54b73d6317040c45645.js",
+            "lineNumber": 80,
+            "columnNumber": 2
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: CreateListFromArrayLike called on non-object\n    at https://assets.adobedtm.com/d9f8b1d39bf634105995a2857c408c129f44bfb7/mbox-contents-5ff59a86b20c0c145a35f54b73d6317040c45645.js:78:22\n    at https://assets.adobedtm.com/d9f8b1d39bf634105995a2857c408c129f44bfb7/mbox-contents-5ff59a86b20c0c145a35f54b73d6317040c45645.js:81:3",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: CreateListFromArrayLike called on non-object\n    at https://assets.adobedtm.com/d9f8b1d39bf634105995a2857c408c129f44bfb7/mbox-contents-5ff59a86b20c0c145a35f54b73d6317040c45645.js:78:22\n    at https://assets.adobedtm.com/d9f8b1d39bf634105995a2857c408c129f44bfb7/mbox-contents-5ff59a86b20c0c145a35f54b73d6317040c45645.js:81:3",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: CreateListFromArrayLike called on non-o…-5ff59a86b20c0c145a35f54b73d6317040c45645.js:81:3"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "CreateListFromArrayLike called on non-object"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

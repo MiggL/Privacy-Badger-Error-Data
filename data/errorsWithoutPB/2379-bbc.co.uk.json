@@ -1,0 +1,355 @@
+[
+  {
+    "timestamp": 1582923349944.659,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught (in promise)",
+      "lineNumber": 26,
+      "columnNumber": 3747,
+      "url": "https://www.bbc.co.uk/careers/help/recruitment-process",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "18",
+            "url": "https://www.bbc.co.uk/careers/help/recruitment-process",
+            "lineNumber": 26,
+            "columnNumber": 3747
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "Error",
+        "description": "Error: User cannot be tracked due to cookies preferences.\n    at https://www.bbc.co.uk/careers/help/recruitment-process:27:3748",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "Error: User cannot be tracked due to cookies preferences.\n    at https://www.bbc.co.uk/careers/help/recruitment-process:27:3748",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "Error: User cannot be tracked due to cookies prefe…bc.co.uk/careers/help/recruitment-process:27:3748"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "User cannot be tracked due to cookies preferences."
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1582923350047.959,
+    "exceptionDetails": {
+      "exceptionId": 2,
+      "text": "Uncaught",
+      "lineNumber": 6,
+      "columnNumber": 4883,
+      "url": "https://mybbc-analytics.files.bbci.co.uk/echo-client-js/echo-12.4.0.min.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "error",
+            "scriptId": "104",
+            "url": "https://mybbc-analytics.files.bbci.co.uk/echo-client-js/echo-12.4.0.min.js",
+            "lineNumber": 6,
+            "columnNumber": 4883
+          },
+          {
+            "functionName": "s",
+            "scriptId": "104",
+            "url": "https://mybbc-analytics.files.bbci.co.uk/echo-client-js/echo-12.4.0.min.js",
+            "lineNumber": 6,
+            "columnNumber": 8334
+          },
+          {
+            "functionName": "cleanLabels",
+            "scriptId": "104",
+            "url": "https://mybbc-analytics.files.bbci.co.uk/echo-client-js/echo-12.4.0.min.js",
+            "lineNumber": 6,
+            "columnNumber": 8883
+          },
+          {
+            "functionName": "v.addLabels",
+            "scriptId": "104",
+            "url": "https://mybbc-analytics.files.bbci.co.uk/echo-client-js/echo-12.4.0.min.js",
+            "lineNumber": 14,
+            "columnNumber": 13390
+          },
+          {
+            "functionName": "",
+            "scriptId": "104",
+            "url": "https://mybbc-analytics.files.bbci.co.uk/echo-client-js/echo-12.4.0.min.js",
+            "lineNumber": 14,
+            "columnNumber": 10955
+          },
+          {
+            "functionName": "e",
+            "scriptId": "104",
+            "url": "https://mybbc-analytics.files.bbci.co.uk/echo-client-js/echo-12.4.0.min.js",
+            "lineNumber": 6,
+            "columnNumber": 17422
+          },
+          {
+            "functionName": "",
+            "scriptId": "104",
+            "url": "https://mybbc-analytics.files.bbci.co.uk/echo-client-js/echo-12.4.0.min.js",
+            "lineNumber": 6,
+            "columnNumber": 17808
+          },
+          {
+            "functionName": "execCb",
+            "scriptId": "12",
+            "url": "https://static.bbc.co.uk/frameworks/requirejs/lib.js",
+            "lineNumber": 6,
+            "columnNumber": 12563
+          },
+          {
+            "functionName": "check",
+            "scriptId": "12",
+            "url": "https://static.bbc.co.uk/frameworks/requirejs/lib.js",
+            "lineNumber": 6,
+            "columnNumber": 6704
+          },
+          {
+            "functionName": "",
+            "scriptId": "12",
+            "url": "https://static.bbc.co.uk/frameworks/requirejs/lib.js",
+            "lineNumber": 6,
+            "columnNumber": 8970
+          },
+          {
+            "functionName": "",
+            "scriptId": "12",
+            "url": "https://static.bbc.co.uk/frameworks/requirejs/lib.js",
+            "lineNumber": 6,
+            "columnNumber": 893
+          },
+          {
+            "functionName": "",
+            "scriptId": "12",
+            "url": "https://static.bbc.co.uk/frameworks/requirejs/lib.js",
+            "lineNumber": 6,
+            "columnNumber": 9355
+          },
+          {
+            "functionName": "each",
+            "scriptId": "12",
+            "url": "https://static.bbc.co.uk/frameworks/requirejs/lib.js",
+            "lineNumber": 6,
+            "columnNumber": 365
+          },
+          {
+            "functionName": "emit",
+            "scriptId": "12",
+            "url": "https://static.bbc.co.uk/frameworks/requirejs/lib.js",
+            "lineNumber": 6,
+            "columnNumber": 9323
+          },
+          {
+            "functionName": "check",
+            "scriptId": "12",
+            "url": "https://static.bbc.co.uk/frameworks/requirejs/lib.js",
+            "lineNumber": 6,
+            "columnNumber": 7206
+          },
+          {
+            "functionName": "",
+            "scriptId": "12",
+            "url": "https://static.bbc.co.uk/frameworks/requirejs/lib.js",
+            "lineNumber": 6,
+            "columnNumber": 8970
+          },
+          {
+            "functionName": "",
+            "scriptId": "12",
+            "url": "https://static.bbc.co.uk/frameworks/requirejs/lib.js",
+            "lineNumber": 6,
+            "columnNumber": 893
+          },
+          {
+            "functionName": "",
+            "scriptId": "12",
+            "url": "https://static.bbc.co.uk/frameworks/requirejs/lib.js",
+            "lineNumber": 6,
+            "columnNumber": 9355
+          },
+          {
+            "functionName": "each",
+            "scriptId": "12",
+            "url": "https://static.bbc.co.uk/frameworks/requirejs/lib.js",
+            "lineNumber": 6,
+            "columnNumber": 365
+          },
+          {
+            "functionName": "emit",
+            "scriptId": "12",
+            "url": "https://static.bbc.co.uk/frameworks/requirejs/lib.js",
+            "lineNumber": 6,
+            "columnNumber": 9323
+          },
+          {
+            "functionName": "check",
+            "scriptId": "12",
+            "url": "https://static.bbc.co.uk/frameworks/requirejs/lib.js",
+            "lineNumber": 6,
+            "columnNumber": 7206
+          },
+          {
+            "functionName": "",
+            "scriptId": "12",
+            "url": "https://static.bbc.co.uk/frameworks/requirejs/lib.js",
+            "lineNumber": 6,
+            "columnNumber": 8970
+          },
+          {
+            "functionName": "",
+            "scriptId": "12",
+            "url": "https://static.bbc.co.uk/frameworks/requirejs/lib.js",
+            "lineNumber": 6,
+            "columnNumber": 893
+          },
+          {
+            "functionName": "",
+            "scriptId": "12",
+            "url": "https://static.bbc.co.uk/frameworks/requirejs/lib.js",
+            "lineNumber": 6,
+            "columnNumber": 9355
+          },
+          {
+            "functionName": "each",
+            "scriptId": "12",
+            "url": "https://static.bbc.co.uk/frameworks/requirejs/lib.js",
+            "lineNumber": 6,
+            "columnNumber": 365
+          },
+          {
+            "functionName": "emit",
+            "scriptId": "12",
+            "url": "https://static.bbc.co.uk/frameworks/requirejs/lib.js",
+            "lineNumber": 6,
+            "columnNumber": 9323
+          },
+          {
+            "functionName": "check",
+            "scriptId": "12",
+            "url": "https://static.bbc.co.uk/frameworks/requirejs/lib.js",
+            "lineNumber": 6,
+            "columnNumber": 7206
+          },
+          {
+            "functionName": "",
+            "scriptId": "12",
+            "url": "https://static.bbc.co.uk/frameworks/requirejs/lib.js",
+            "lineNumber": 6,
+            "columnNumber": 8970
+          },
+          {
+            "functionName": "",
+            "scriptId": "12",
+            "url": "https://static.bbc.co.uk/frameworks/requirejs/lib.js",
+            "lineNumber": 6,
+            "columnNumber": 893
+          },
+          {
+            "functionName": "",
+            "scriptId": "12",
+            "url": "https://static.bbc.co.uk/frameworks/requirejs/lib.js",
+            "lineNumber": 6,
+            "columnNumber": 9355
+          },
+          {
+            "functionName": "each",
+            "scriptId": "12",
+            "url": "https://static.bbc.co.uk/frameworks/requirejs/lib.js",
+            "lineNumber": 6,
+            "columnNumber": 365
+          },
+          {
+            "functionName": "emit",
+            "scriptId": "12",
+            "url": "https://static.bbc.co.uk/frameworks/requirejs/lib.js",
+            "lineNumber": 6,
+            "columnNumber": 9323
+          },
+          {
+            "functionName": "check",
+            "scriptId": "12",
+            "url": "https://static.bbc.co.uk/frameworks/requirejs/lib.js",
+            "lineNumber": 6,
+            "columnNumber": 7206
+          },
+          {
+            "functionName": "enable",
+            "scriptId": "12",
+            "url": "https://static.bbc.co.uk/frameworks/requirejs/lib.js",
+            "lineNumber": 6,
+            "columnNumber": 9221
+          },
+          {
+            "functionName": "init",
+            "scriptId": "12",
+            "url": "https://static.bbc.co.uk/frameworks/requirejs/lib.js",
+            "lineNumber": 6,
+            "columnNumber": 5783
+          },
+          {
+            "functionName": "A",
+            "scriptId": "12",
+            "url": "https://static.bbc.co.uk/frameworks/requirejs/lib.js",
+            "lineNumber": 6,
+            "columnNumber": 4356
+          },
+          {
+            "functionName": "completeLoad",
+            "scriptId": "12",
+            "url": "https://static.bbc.co.uk/frameworks/requirejs/lib.js",
+            "lineNumber": 6,
+            "columnNumber": 11800
+          },
+          {
+            "functionName": "onScriptLoad",
+            "scriptId": "12",
+            "url": "https://static.bbc.co.uk/frameworks/requirejs/lib.js",
+            "lineNumber": 6,
+            "columnNumber": 12718
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "Error",
+        "description": "Error: ECHO_DEBUG: Label must have number, boolean or string value\n    at Object.error (https://mybbc-analytics.files.bbci.co.uk/echo-client-js/echo-12.4.0.min.js:7:4884)\n    at s (https://mybbc-analytics.files.bbci.co.uk/echo-client-js/echo-12.4.0.min.js:7:8335)\n    at Object.cleanLabels (https://mybbc-analytics.files.bbci.co.uk/echo-client-js/echo-12.4.0.min.js:7:8884)\n    at v.addLabels (https://mybbc-analytics.files.bbci.co.uk/echo-client-js/echo-12.4.0.min.js:15:13391)\n    at https://mybbc-analytics.files.bbci.co.uk/echo-client-js/echo-12.4.0.min.js:15:10956\n    at e (https://mybbc-analytics.files.bbci.co.uk/echo-client-js/echo-12.4.0.min.js:7:17423)\n    at https://mybbc-analytics.files.bbci.co.uk/echo-client-js/echo-12.4.0.min.js:7:17809\n    at Object.execCb (https://static.bbc.co.uk/frameworks/requirejs/lib.js:7:12564)\n    at n.check (https://static.bbc.co.uk/frameworks/requirejs/lib.js:7:6705)\n    at n.<anonymous> (https://static.bbc.co.uk/frameworks/requirejs/lib.js:7:8971)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":2}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "Error: ECHO_DEBUG: Label must have number, boolean or string value\n    at Object.error (https://mybbc-analytics.files.bbci.co.uk/echo-client-js/echo-12.4.0.min.js:7:4884)\n    at s (https://mybbc-analytics.files.bbci.co.uk/echo-client-js/echo-12.4.0.min.js:7:8335)\n    at Object.cleanLabels (https://mybbc-analytics.files.bbci.co.uk/echo-client-js/echo-12.4.0.min.js:7:8884)\n    at v.addLabels (https://mybbc-analytics.files.bbci.co.uk/echo-client-js/echo-12.4.0.min.js:15:13391)\n    at https://mybbc-analytics.files.bbci.co.uk/echo-client-js/echo-12.4.0.min.js:15:10956\n    at e (https://mybbc-analytics.files.bbci.co.uk/echo-client-js/echo-12.4.0.min.js:7:17423)\n    at https://mybbc-analytics.files.bbci.co.uk/echo-client-js/echo-12.4.0.min.js:7:17809\n    at Object.execCb (https://static.bbc.co.uk/frameworks/requirejs/lib.js:7:12564)\n    at n.check (https://static.bbc.co.uk/frameworks/requirejs/lib.js:7:6705)\n    at n.<anonymous> (https://static.bbc.co.uk/frameworks/requirejs/lib.js:7:8971)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "Error: ECHO_DEBUG: Label must have number, boolean…tic.bbc.co.uk/frameworks/requirejs/lib.js:7:8971)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "ECHO_DEBUG: Label must have number, boolean or string value"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

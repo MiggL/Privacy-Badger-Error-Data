@@ -1,0 +1,1083 @@
+[
+  {
+    "timestamp": 1583756947975.895,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 22,
+      "columnNumber": 10,
+      "url": "https://www.todaysdietitian.com/newarchives/050113p44.shtml",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "25",
+            "url": "https://www.todaysdietitian.com/newarchives/050113p44.shtml",
+            "lineNumber": 22,
+            "columnNumber": 10
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: googletag.defineSlot is not a function\n    at https://www.todaysdietitian.com/newarchives/050113p44.shtml:23:11",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: googletag.defineSlot is not a function\n    at https://www.todaysdietitian.com/newarchives/050113p44.shtml:23:11",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: googletag.defineSlot is not a function\n…ysdietitian.com/newarchives/050113p44.shtml:23:11"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "googletag.defineSlot is not a function"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583756947976.481,
+    "exceptionDetails": {
+      "exceptionId": 2,
+      "text": "Uncaught",
+      "lineNumber": 55,
+      "columnNumber": 10,
+      "url": "https://www.todaysdietitian.com/newarchives/050113p44.shtml",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "26",
+            "url": "https://www.todaysdietitian.com/newarchives/050113p44.shtml",
+            "lineNumber": 55,
+            "columnNumber": 10
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: googletag.display is not a function\n    at https://www.todaysdietitian.com/newarchives/050113p44.shtml:56:11",
+        "objectId": "{\"injectedScriptId\":3,\"id\":2}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: googletag.display is not a function\n    at https://www.todaysdietitian.com/newarchives/050113p44.shtml:56:11",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: googletag.display is not a function\n   …ysdietitian.com/newarchives/050113p44.shtml:56:11"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "googletag.display is not a function"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583756947976.9949,
+    "exceptionDetails": {
+      "exceptionId": 3,
+      "text": "Uncaught",
+      "lineNumber": 69,
+      "columnNumber": 10,
+      "url": "https://www.todaysdietitian.com/newarchives/050113p44.shtml",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "27",
+            "url": "https://www.todaysdietitian.com/newarchives/050113p44.shtml",
+            "lineNumber": 69,
+            "columnNumber": 10
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: googletag.display is not a function\n    at https://www.todaysdietitian.com/newarchives/050113p44.shtml:70:11",
+        "objectId": "{\"injectedScriptId\":3,\"id\":3}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: googletag.display is not a function\n    at https://www.todaysdietitian.com/newarchives/050113p44.shtml:70:11",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: googletag.display is not a function\n   …ysdietitian.com/newarchives/050113p44.shtml:70:11"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "googletag.display is not a function"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583756948013.041,
+    "exceptionDetails": {
+      "exceptionId": 4,
+      "text": "Uncaught",
+      "lineNumber": 110,
+      "columnNumber": 10,
+      "url": "https://www.todaysdietitian.com/newarchives/050113p44.shtml",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "28",
+            "url": "https://www.todaysdietitian.com/newarchives/050113p44.shtml",
+            "lineNumber": 110,
+            "columnNumber": 10
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: googletag.display is not a function\n    at https://www.todaysdietitian.com/newarchives/050113p44.shtml:111:11",
+        "objectId": "{\"injectedScriptId\":3,\"id\":4}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: googletag.display is not a function\n    at https://www.todaysdietitian.com/newarchives/050113p44.shtml:111:11",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: googletag.display is not a function\n   …sdietitian.com/newarchives/050113p44.shtml:111:11"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "googletag.display is not a function"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583756948013.361,
+    "exceptionDetails": {
+      "exceptionId": 5,
+      "text": "Uncaught",
+      "lineNumber": 117,
+      "columnNumber": 10,
+      "url": "https://www.todaysdietitian.com/newarchives/050113p44.shtml",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "29",
+            "url": "https://www.todaysdietitian.com/newarchives/050113p44.shtml",
+            "lineNumber": 117,
+            "columnNumber": 10
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: googletag.display is not a function\n    at https://www.todaysdietitian.com/newarchives/050113p44.shtml:118:11",
+        "objectId": "{\"injectedScriptId\":3,\"id\":5}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: googletag.display is not a function\n    at https://www.todaysdietitian.com/newarchives/050113p44.shtml:118:11",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: googletag.display is not a function\n   …sdietitian.com/newarchives/050113p44.shtml:118:11"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "googletag.display is not a function"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583756948013.598,
+    "exceptionDetails": {
+      "exceptionId": 6,
+      "text": "Uncaught",
+      "lineNumber": 124,
+      "columnNumber": 10,
+      "url": "https://www.todaysdietitian.com/newarchives/050113p44.shtml",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "30",
+            "url": "https://www.todaysdietitian.com/newarchives/050113p44.shtml",
+            "lineNumber": 124,
+            "columnNumber": 10
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: googletag.display is not a function\n    at https://www.todaysdietitian.com/newarchives/050113p44.shtml:125:11",
+        "objectId": "{\"injectedScriptId\":3,\"id\":6}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: googletag.display is not a function\n    at https://www.todaysdietitian.com/newarchives/050113p44.shtml:125:11",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: googletag.display is not a function\n   …sdietitian.com/newarchives/050113p44.shtml:125:11"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "googletag.display is not a function"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583756948013.8782,
+    "exceptionDetails": {
+      "exceptionId": 7,
+      "text": "Uncaught",
+      "lineNumber": 131,
+      "columnNumber": 10,
+      "url": "https://www.todaysdietitian.com/newarchives/050113p44.shtml",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "31",
+            "url": "https://www.todaysdietitian.com/newarchives/050113p44.shtml",
+            "lineNumber": 131,
+            "columnNumber": 10
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: googletag.display is not a function\n    at https://www.todaysdietitian.com/newarchives/050113p44.shtml:132:11",
+        "objectId": "{\"injectedScriptId\":3,\"id\":7}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: googletag.display is not a function\n    at https://www.todaysdietitian.com/newarchives/050113p44.shtml:132:11",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: googletag.display is not a function\n   …sdietitian.com/newarchives/050113p44.shtml:132:11"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "googletag.display is not a function"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583756948014.0989,
+    "exceptionDetails": {
+      "exceptionId": 8,
+      "text": "Uncaught",
+      "lineNumber": 138,
+      "columnNumber": 10,
+      "url": "https://www.todaysdietitian.com/newarchives/050113p44.shtml",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "32",
+            "url": "https://www.todaysdietitian.com/newarchives/050113p44.shtml",
+            "lineNumber": 138,
+            "columnNumber": 10
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: googletag.display is not a function\n    at https://www.todaysdietitian.com/newarchives/050113p44.shtml:139:11",
+        "objectId": "{\"injectedScriptId\":3,\"id\":8}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: googletag.display is not a function\n    at https://www.todaysdietitian.com/newarchives/050113p44.shtml:139:11",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: googletag.display is not a function\n   …sdietitian.com/newarchives/050113p44.shtml:139:11"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "googletag.display is not a function"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583756948014.41,
+    "exceptionDetails": {
+      "exceptionId": 9,
+      "text": "Uncaught",
+      "lineNumber": 146,
+      "columnNumber": 10,
+      "url": "https://www.todaysdietitian.com/newarchives/050113p44.shtml",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "33",
+            "url": "https://www.todaysdietitian.com/newarchives/050113p44.shtml",
+            "lineNumber": 146,
+            "columnNumber": 10
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: googletag.display is not a function\n    at https://www.todaysdietitian.com/newarchives/050113p44.shtml:147:11",
+        "objectId": "{\"injectedScriptId\":3,\"id\":9}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: googletag.display is not a function\n    at https://www.todaysdietitian.com/newarchives/050113p44.shtml:147:11",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: googletag.display is not a function\n   …sdietitian.com/newarchives/050113p44.shtml:147:11"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "googletag.display is not a function"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583756948043.146,
+    "exceptionDetails": {
+      "exceptionId": 10,
+      "text": "Uncaught",
+      "lineNumber": 340,
+      "columnNumber": 10,
+      "url": "https://www.todaysdietitian.com/newarchives/050113p44.shtml",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "34",
+            "url": "https://www.todaysdietitian.com/newarchives/050113p44.shtml",
+            "lineNumber": 340,
+            "columnNumber": 10
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: googletag.display is not a function\n    at https://www.todaysdietitian.com/newarchives/050113p44.shtml:341:11",
+        "objectId": "{\"injectedScriptId\":3,\"id\":10}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: googletag.display is not a function\n    at https://www.todaysdietitian.com/newarchives/050113p44.shtml:341:11",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: googletag.display is not a function\n   …sdietitian.com/newarchives/050113p44.shtml:341:11"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "googletag.display is not a function"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583756948043.551,
+    "exceptionDetails": {
+      "exceptionId": 11,
+      "text": "Uncaught",
+      "lineNumber": 347,
+      "columnNumber": 10,
+      "url": "https://www.todaysdietitian.com/newarchives/050113p44.shtml",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "35",
+            "url": "https://www.todaysdietitian.com/newarchives/050113p44.shtml",
+            "lineNumber": 347,
+            "columnNumber": 10
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: googletag.display is not a function\n    at https://www.todaysdietitian.com/newarchives/050113p44.shtml:348:11",
+        "objectId": "{\"injectedScriptId\":3,\"id\":11}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: googletag.display is not a function\n    at https://www.todaysdietitian.com/newarchives/050113p44.shtml:348:11",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: googletag.display is not a function\n   …sdietitian.com/newarchives/050113p44.shtml:348:11"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "googletag.display is not a function"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583756948043.8599,
+    "exceptionDetails": {
+      "exceptionId": 12,
+      "text": "Uncaught",
+      "lineNumber": 354,
+      "columnNumber": 10,
+      "url": "https://www.todaysdietitian.com/newarchives/050113p44.shtml",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "36",
+            "url": "https://www.todaysdietitian.com/newarchives/050113p44.shtml",
+            "lineNumber": 354,
+            "columnNumber": 10
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: googletag.display is not a function\n    at https://www.todaysdietitian.com/newarchives/050113p44.shtml:355:11",
+        "objectId": "{\"injectedScriptId\":3,\"id\":12}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: googletag.display is not a function\n    at https://www.todaysdietitian.com/newarchives/050113p44.shtml:355:11",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: googletag.display is not a function\n   …sdietitian.com/newarchives/050113p44.shtml:355:11"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "googletag.display is not a function"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583756948044.138,
+    "exceptionDetails": {
+      "exceptionId": 13,
+      "text": "Uncaught",
+      "lineNumber": 361,
+      "columnNumber": 10,
+      "url": "https://www.todaysdietitian.com/newarchives/050113p44.shtml",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "37",
+            "url": "https://www.todaysdietitian.com/newarchives/050113p44.shtml",
+            "lineNumber": 361,
+            "columnNumber": 10
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: googletag.display is not a function\n    at https://www.todaysdietitian.com/newarchives/050113p44.shtml:362:11",
+        "objectId": "{\"injectedScriptId\":3,\"id\":13}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: googletag.display is not a function\n    at https://www.todaysdietitian.com/newarchives/050113p44.shtml:362:11",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: googletag.display is not a function\n   …sdietitian.com/newarchives/050113p44.shtml:362:11"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "googletag.display is not a function"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583756948044.413,
+    "exceptionDetails": {
+      "exceptionId": 14,
+      "text": "Uncaught",
+      "lineNumber": 368,
+      "columnNumber": 10,
+      "url": "https://www.todaysdietitian.com/newarchives/050113p44.shtml",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "38",
+            "url": "https://www.todaysdietitian.com/newarchives/050113p44.shtml",
+            "lineNumber": 368,
+            "columnNumber": 10
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: googletag.display is not a function\n    at https://www.todaysdietitian.com/newarchives/050113p44.shtml:369:11",
+        "objectId": "{\"injectedScriptId\":3,\"id\":14}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: googletag.display is not a function\n    at https://www.todaysdietitian.com/newarchives/050113p44.shtml:369:11",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: googletag.display is not a function\n   …sdietitian.com/newarchives/050113p44.shtml:369:11"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "googletag.display is not a function"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583756948044.6929,
+    "exceptionDetails": {
+      "exceptionId": 15,
+      "text": "Uncaught",
+      "lineNumber": 375,
+      "columnNumber": 10,
+      "url": "https://www.todaysdietitian.com/newarchives/050113p44.shtml",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "39",
+            "url": "https://www.todaysdietitian.com/newarchives/050113p44.shtml",
+            "lineNumber": 375,
+            "columnNumber": 10
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: googletag.display is not a function\n    at https://www.todaysdietitian.com/newarchives/050113p44.shtml:376:11",
+        "objectId": "{\"injectedScriptId\":3,\"id\":15}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: googletag.display is not a function\n    at https://www.todaysdietitian.com/newarchives/050113p44.shtml:376:11",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: googletag.display is not a function\n   …sdietitian.com/newarchives/050113p44.shtml:376:11"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "googletag.display is not a function"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583756948044.9678,
+    "exceptionDetails": {
+      "exceptionId": 16,
+      "text": "Uncaught",
+      "lineNumber": 382,
+      "columnNumber": 10,
+      "url": "https://www.todaysdietitian.com/newarchives/050113p44.shtml",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "40",
+            "url": "https://www.todaysdietitian.com/newarchives/050113p44.shtml",
+            "lineNumber": 382,
+            "columnNumber": 10
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: googletag.display is not a function\n    at https://www.todaysdietitian.com/newarchives/050113p44.shtml:383:11",
+        "objectId": "{\"injectedScriptId\":3,\"id\":16}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: googletag.display is not a function\n    at https://www.todaysdietitian.com/newarchives/050113p44.shtml:383:11",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: googletag.display is not a function\n   …sdietitian.com/newarchives/050113p44.shtml:383:11"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "googletag.display is not a function"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583756948045.259,
+    "exceptionDetails": {
+      "exceptionId": 17,
+      "text": "Uncaught",
+      "lineNumber": 389,
+      "columnNumber": 10,
+      "url": "https://www.todaysdietitian.com/newarchives/050113p44.shtml",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "41",
+            "url": "https://www.todaysdietitian.com/newarchives/050113p44.shtml",
+            "lineNumber": 389,
+            "columnNumber": 10
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: googletag.display is not a function\n    at https://www.todaysdietitian.com/newarchives/050113p44.shtml:390:11",
+        "objectId": "{\"injectedScriptId\":3,\"id\":17}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: googletag.display is not a function\n    at https://www.todaysdietitian.com/newarchives/050113p44.shtml:390:11",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: googletag.display is not a function\n   …sdietitian.com/newarchives/050113p44.shtml:390:11"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "googletag.display is not a function"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583756948045.513,
+    "exceptionDetails": {
+      "exceptionId": 18,
+      "text": "Uncaught",
+      "lineNumber": 396,
+      "columnNumber": 10,
+      "url": "https://www.todaysdietitian.com/newarchives/050113p44.shtml",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "42",
+            "url": "https://www.todaysdietitian.com/newarchives/050113p44.shtml",
+            "lineNumber": 396,
+            "columnNumber": 10
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: googletag.display is not a function\n    at https://www.todaysdietitian.com/newarchives/050113p44.shtml:397:11",
+        "objectId": "{\"injectedScriptId\":3,\"id\":18}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: googletag.display is not a function\n    at https://www.todaysdietitian.com/newarchives/050113p44.shtml:397:11",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: googletag.display is not a function\n   …sdietitian.com/newarchives/050113p44.shtml:397:11"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "googletag.display is not a function"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583756948045.759,
+    "exceptionDetails": {
+      "exceptionId": 19,
+      "text": "Uncaught",
+      "lineNumber": 403,
+      "columnNumber": 10,
+      "url": "https://www.todaysdietitian.com/newarchives/050113p44.shtml",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "43",
+            "url": "https://www.todaysdietitian.com/newarchives/050113p44.shtml",
+            "lineNumber": 403,
+            "columnNumber": 10
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: googletag.display is not a function\n    at https://www.todaysdietitian.com/newarchives/050113p44.shtml:404:11",
+        "objectId": "{\"injectedScriptId\":3,\"id\":19}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: googletag.display is not a function\n    at https://www.todaysdietitian.com/newarchives/050113p44.shtml:404:11",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: googletag.display is not a function\n   …sdietitian.com/newarchives/050113p44.shtml:404:11"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "googletag.display is not a function"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583756948046.0989,
+    "exceptionDetails": {
+      "exceptionId": 20,
+      "text": "Uncaught",
+      "lineNumber": 410,
+      "columnNumber": 10,
+      "url": "https://www.todaysdietitian.com/newarchives/050113p44.shtml",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "44",
+            "url": "https://www.todaysdietitian.com/newarchives/050113p44.shtml",
+            "lineNumber": 410,
+            "columnNumber": 10
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: googletag.display is not a function\n    at https://www.todaysdietitian.com/newarchives/050113p44.shtml:411:11",
+        "objectId": "{\"injectedScriptId\":3,\"id\":20}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: googletag.display is not a function\n    at https://www.todaysdietitian.com/newarchives/050113p44.shtml:411:11",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: googletag.display is not a function\n   …sdietitian.com/newarchives/050113p44.shtml:411:11"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "googletag.display is not a function"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583756948046.56,
+    "exceptionDetails": {
+      "exceptionId": 21,
+      "text": "Uncaught",
+      "lineNumber": 417,
+      "columnNumber": 10,
+      "url": "https://www.todaysdietitian.com/newarchives/050113p44.shtml",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "45",
+            "url": "https://www.todaysdietitian.com/newarchives/050113p44.shtml",
+            "lineNumber": 417,
+            "columnNumber": 10
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: googletag.display is not a function\n    at https://www.todaysdietitian.com/newarchives/050113p44.shtml:418:11",
+        "objectId": "{\"injectedScriptId\":3,\"id\":21}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: googletag.display is not a function\n    at https://www.todaysdietitian.com/newarchives/050113p44.shtml:418:11",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: googletag.display is not a function\n   …sdietitian.com/newarchives/050113p44.shtml:418:11"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "googletag.display is not a function"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583756948046.969,
+    "exceptionDetails": {
+      "exceptionId": 22,
+      "text": "Uncaught",
+      "lineNumber": 424,
+      "columnNumber": 10,
+      "url": "https://www.todaysdietitian.com/newarchives/050113p44.shtml",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "46",
+            "url": "https://www.todaysdietitian.com/newarchives/050113p44.shtml",
+            "lineNumber": 424,
+            "columnNumber": 10
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: googletag.display is not a function\n    at https://www.todaysdietitian.com/newarchives/050113p44.shtml:425:11",
+        "objectId": "{\"injectedScriptId\":3,\"id\":22}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: googletag.display is not a function\n    at https://www.todaysdietitian.com/newarchives/050113p44.shtml:425:11",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: googletag.display is not a function\n   …sdietitian.com/newarchives/050113p44.shtml:425:11"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "googletag.display is not a function"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583756948060.157,
+    "exceptionDetails": {
+      "exceptionId": 23,
+      "text": "Uncaught",
+      "lineNumber": 461,
+      "columnNumber": 20,
+      "url": "https://www.todaysdietitian.com/newarchives/050113p44.shtml",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "47",
+            "url": "https://www.todaysdietitian.com/newarchives/050113p44.shtml",
+            "lineNumber": 461,
+            "columnNumber": 20
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: Spry is not defined\n    at https://www.todaysdietitian.com/newarchives/050113p44.shtml:462:21",
+        "objectId": "{\"injectedScriptId\":3,\"id\":23}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: Spry is not defined\n    at https://www.todaysdietitian.com/newarchives/050113p44.shtml:462:21",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: Spry is not defined\n    at https:/…sdietitian.com/newarchives/050113p44.shtml:462:21"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Spry is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

@@ -1,0 +1,105 @@
+[
+  {
+    "timestamp": 1583425134479.988,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 5678,
+      "columnNumber": 7603,
+      "url": "https://www.tandfonline.com/wro/iblb~product.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "_calcItemPositions",
+            "scriptId": "21",
+            "url": "https://www.tandfonline.com/wro/iblb~product.js",
+            "lineNumber": 5678,
+            "columnNumber": 7603
+          },
+          {
+            "functionName": "_placeItems",
+            "scriptId": "21",
+            "url": "https://www.tandfonline.com/wro/iblb~product.js",
+            "lineNumber": 5678,
+            "columnNumber": 9242
+          },
+          {
+            "functionName": "_handleFiltering",
+            "scriptId": "21",
+            "url": "https://www.tandfonline.com/wro/iblb~product.js",
+            "lineNumber": 5678,
+            "columnNumber": 8991
+          },
+          {
+            "functionName": "filter",
+            "scriptId": "21",
+            "url": "https://www.tandfonline.com/wro/iblb~product.js",
+            "lineNumber": 5678,
+            "columnNumber": 2622
+          },
+          {
+            "functionName": "init",
+            "scriptId": "21",
+            "url": "https://www.tandfonline.com/wro/iblb~product.js",
+            "lineNumber": 5678,
+            "columnNumber": 2485
+          },
+          {
+            "functionName": "i.fn.filterizr",
+            "scriptId": "21",
+            "url": "https://www.tandfonline.com/wro/iblb~product.js",
+            "lineNumber": 5678,
+            "columnNumber": 979
+          },
+          {
+            "functionName": "",
+            "scriptId": "21",
+            "url": "https://www.tandfonline.com/wro/iblb~product.js",
+            "lineNumber": 6075,
+            "columnNumber": 261
+          },
+          {
+            "functionName": "dispatch",
+            "scriptId": "21",
+            "url": "https://www.tandfonline.com/wro/iblb~product.js",
+            "lineNumber": 31,
+            "columnNumber": 28336
+          },
+          {
+            "functionName": "v.handle",
+            "scriptId": "21",
+            "url": "https://www.tandfonline.com/wro/iblb~product.js",
+            "lineNumber": 31,
+            "columnNumber": 25041
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'outerWidth' of undefined\n    at init._calcItemPositions (https://www.tandfonline.com/wro/iblb~product.js:5679:7604)\n    at init._placeItems (https://www.tandfonline.com/wro/iblb~product.js:5679:9243)\n    at init._handleFiltering (https://www.tandfonline.com/wro/iblb~product.js:5679:8992)\n    at init.filter (https://www.tandfonline.com/wro/iblb~product.js:5679:2623)\n    at Object.init (https://www.tandfonline.com/wro/iblb~product.js:5679:2486)\n    at init.i.fn.filterizr (https://www.tandfonline.com/wro/iblb~product.js:5679:980)\n    at https://www.tandfonline.com/wro/iblb~product.js:6076:262\n    at dispatch (https://www.tandfonline.com/wro/iblb~product.js:32:28337)\n    at v.handle (https://www.tandfonline.com/wro/iblb~product.js:32:25042)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'outerWidth' of undefined\n    at init._calcItemPositions (https://www.tandfonline.com/wro/iblb~product.js:5679:7604)\n    at init._placeItems (https://www.tandfonline.com/wro/iblb~product.js:5679:9243)\n    at init._handleFiltering (https://www.tandfonline.com/wro/iblb~product.js:5679:8992)\n    at init.filter (https://www.tandfonline.com/wro/iblb~product.js:5679:2623)\n    at Object.init (https://www.tandfonline.com/wro/iblb~product.js:5679:2486)\n    at init.i.fn.filterizr (https://www.tandfonline.com/wro/iblb~product.js:5679:980)\n    at https://www.tandfonline.com/wro/iblb~product.js:6076:262\n    at dispatch (https://www.tandfonline.com/wro/iblb~product.js:32:28337)\n    at v.handle (https://www.tandfonline.com/wro/iblb~product.js:32:25042)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'outerWidth' of un…www.tandfonline.com/wro/iblb~product.js:32:25042)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'outerWidth' of undefined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

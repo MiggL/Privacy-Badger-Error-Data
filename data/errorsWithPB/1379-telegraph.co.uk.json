@@ -1,0 +1,111 @@
+[
+  {
+    "timestamp": 1583419635617.896,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 152,
+      "columnNumber": 60,
+      "url": "https://www.telegraph.co.uk/women/sex/11321513/Sex-advice-I-regret-a-one-night-stand.-How-do-I-move-on.html",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "document.onreadystatechange",
+            "scriptId": "32",
+            "url": "https://www.telegraph.co.uk/women/sex/11321513/Sex-advice-I-regret-a-one-night-stand.-How-do-I-move-on.html",
+            "lineNumber": 152,
+            "columnNumber": 60
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot set property 'src' of null\n    at HTMLDocument.document.onreadystatechange (https://www.telegraph.co.uk/women/sex/11321513/Sex-advice-I-regret-a-one-night-stand.-How-do-I-move-on.html:153:61)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":2}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot set property 'src' of null\n    at HTMLDocument.document.onreadystatechange (https://www.telegraph.co.uk/women/sex/11321513/Sex-advice-I-regret-a-one-night-stand.-How-do-I-move-on.html:153:61)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot set property 'src' of null\n    a…-a-one-night-stand.-How-do-I-move-on.html:153:61)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot set property 'src' of null"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583419637031.2048,
+    "exceptionDetails": {
+      "exceptionId": 2,
+      "text": "Uncaught",
+      "lineNumber": 152,
+      "columnNumber": 60,
+      "url": "https://www.telegraph.co.uk/women/sex/11321513/Sex-advice-I-regret-a-one-night-stand.-How-do-I-move-on.html",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "document.onreadystatechange",
+            "scriptId": "32",
+            "url": "https://www.telegraph.co.uk/women/sex/11321513/Sex-advice-I-regret-a-one-night-stand.-How-do-I-move-on.html",
+            "lineNumber": 152,
+            "columnNumber": 60
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot set property 'src' of null at HTMLDocument.document.onreadystatechange (https://www.telegraph.co.uk/women/sex/11321513/Sex-advice-I-regret-a-one-night-stand.-How-do-I-move-on.html:153:61)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":3}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot set property 'src' of null at HTMLDocument.document.onreadystatechange (https://www.telegraph.co.uk/women/sex/11321513/Sex-advice-I-regret-a-one-night-stand.-How-do-I-move-on.html:153:61)",
+          "overflow": true,
+          "properties": [
+            {
+              "name": "reported",
+              "type": "boolean",
+              "value": "true"
+            },
+            {
+              "name": "timestamp",
+              "type": "number",
+              "value": "1583419637028"
+            },
+            {
+              "name": "lineNumber",
+              "type": "string",
+              "value": "153"
+            },
+            {
+              "name": "columnNumber",
+              "type": "string",
+              "value": "61"
+            },
+            {
+              "name": "functionName",
+              "type": "string",
+              "value": "HTMLDocument.document.onreadystatechange"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

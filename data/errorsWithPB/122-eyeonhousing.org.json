@@ -1,0 +1,118 @@
+[
+  {
+    "timestamp": 1583758214730.142,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 0,
+      "columnNumber": 0,
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "45",
+            "url": "",
+            "lineNumber": 0,
+            "columnNumber": 0
+          },
+          {
+            "functionName": "",
+            "scriptId": "42",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-M6DHZD",
+            "lineNumber": 1934,
+            "columnNumber": 413
+          },
+          {
+            "functionName": "c",
+            "scriptId": "42",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-M6DHZD",
+            "lineNumber": 1936,
+            "columnNumber": 151
+          },
+          {
+            "functionName": "Cb",
+            "scriptId": "42",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-M6DHZD",
+            "lineNumber": 1795,
+            "columnNumber": 395
+          },
+          {
+            "functionName": "e",
+            "scriptId": "42",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-M6DHZD",
+            "lineNumber": 1824,
+            "columnNumber": 137
+          },
+          {
+            "functionName": "nf",
+            "scriptId": "42",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-M6DHZD",
+            "lineNumber": 1825,
+            "columnNumber": 517
+          },
+          {
+            "functionName": "pf",
+            "scriptId": "42",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-M6DHZD",
+            "lineNumber": 1827,
+            "columnNumber": 226
+          },
+          {
+            "functionName": "hj",
+            "scriptId": "42",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-M6DHZD",
+            "lineNumber": 1870,
+            "columnNumber": 186
+          },
+          {
+            "functionName": "gj",
+            "scriptId": "42",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-M6DHZD",
+            "lineNumber": 1870,
+            "columnNumber": 0
+          },
+          {
+            "functionName": "ij",
+            "scriptId": "42",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-M6DHZD",
+            "lineNumber": 1872,
+            "columnNumber": 356
+          },
+          {
+            "functionName": "jj",
+            "scriptId": "42",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-M6DHZD",
+            "lineNumber": 1873,
+            "columnNumber": 29
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: $ is not a function\n    at <anonymous>:1:1\n    at https://www.googletagmanager.com/gtm.js?id=GTM-M6DHZD:1935:414\n    at c (https://www.googletagmanager.com/gtm.js?id=GTM-M6DHZD:1937:152)\n    at Cb (https://www.googletagmanager.com/gtm.js?id=GTM-M6DHZD:1796:396)\n    at Object.e [as Zf] (https://www.googletagmanager.com/gtm.js?id=GTM-M6DHZD:1825:138)\n    at nf (https://www.googletagmanager.com/gtm.js?id=GTM-M6DHZD:1826:518)\n    at pf (https://www.googletagmanager.com/gtm.js?id=GTM-M6DHZD:1828:227)\n    at hj (https://www.googletagmanager.com/gtm.js?id=GTM-M6DHZD:1871:187)\n    at gj (https://www.googletagmanager.com/gtm.js?id=GTM-M6DHZD:1871:1)\n    at ij (https://www.googletagmanager.com/gtm.js?id=GTM-M6DHZD:1873:357)\n    at jj (https://www.googletagmanager.com/gtm.js?id=GTM-M6DHZD:1874:30)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: $ is not a function\n    at <anonymous>:1:1\n    at https://www.googletagmanager.com/gtm.js?id=GTM-M6DHZD:1935:414\n    at c (https://www.googletagmanager.com/gtm.js?id=GTM-M6DHZD:1937:152)\n    at Cb (https://www.googletagmanager.com/gtm.js?id=GTM-M6DHZD:1796:396)\n    at Object.e [as Zf] (https://www.googletagmanager.com/gtm.js?id=GTM-M6DHZD:1825:138)\n    at nf (https://www.googletagmanager.com/gtm.js?id=GTM-M6DHZD:1826:518)\n    at pf (https://www.googletagmanager.com/gtm.js?id=GTM-M6DHZD:1828:227)\n    at hj (https://www.googletagmanager.com/gtm.js?id=GTM-M6DHZD:1871:187)\n    at gj (https://www.googletagmanager.com/gtm.js?id=GTM-M6DHZD:1871:1)\n    at ij (https://www.googletagmanager.com/gtm.js?id=GTM-M6DHZD:1873:357)\n    at jj (https://www.googletagmanager.com/gtm.js?id=GTM-M6DHZD:1874:30)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: $ is not a function\n    at <anonymous>:…oogletagmanager.com/gtm.js?id=GTM-M6DHZD:1874:30)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "$ is not a function"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

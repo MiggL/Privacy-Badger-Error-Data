@@ -1,0 +1,70 @@
+[
+  {
+    "timestamp": 1582817162545.1409,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 5,
+      "columnNumber": 56064,
+      "url": "https://securepubads.g.doubleclick.net/gpt/pubads_impl_2020022001.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "_.Si",
+            "scriptId": "53",
+            "url": "https://securepubads.g.doubleclick.net/gpt/pubads_impl_2020022001.js",
+            "lineNumber": 5,
+            "columnNumber": 56064
+          },
+          {
+            "functionName": "",
+            "scriptId": "53",
+            "url": "https://securepubads.g.doubleclick.net/gpt/pubads_impl_2020022001.js",
+            "lineNumber": 5,
+            "columnNumber": 56599
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "DOMException",
+        "description": "DOMException: Failed to execute 'matches' on 'Element': The provided selector is empty.\n    at uo (https://securepubads.g.doubleclick.net/gpt/pubads_impl_2020022001.js:6:101591)\n    at Object._.vo (https://securepubads.g.doubleclick.net/gpt/pubads_impl_2020022001.js:6:101947)\n    at https://securepubads.g.doubleclick.net/gpt/pubads_impl_rendering_2020022001.js:1:39825\n    at Object._.af (https://securepubads.g.doubleclick.net/gpt/pubads_impl_2020022001.js:6:29307)\n    at tw (https://securepubads.g.doubleclick.net/gpt/pubads_impl_rendering_2020022001.js:1:39770)\n    at https://securepubads.g.doubleclick.net/gpt/pubads_impl_rendering_2020022001.js:1:40470\n    at Object._.qa (https://securepubads.g.doubleclick.net/gpt/pubads_impl_2020022001.js:6:55724)\n    at IntersectionObserver.<anonymous> (https://securepubads.g.doubleclick.net/gpt/pubads_impl_rendering_2020022001.js:1:40375)\n    at IntersectionObserver.<anonymous> (https://securepubads.g.doubleclick.net/gpt/pubads_impl_2020022001.js:6:56538)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":4}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "DOMException: Failed to execute 'matches' on 'Element': The provided selector is empty.\n    at uo (https://securepubads.g.doubleclick.net/gpt/pubads_impl_2020022001.js:6:101591)\n    at Object._.vo (https://securepubads.g.doubleclick.net/gpt/pubads_impl_2020022001.js:6:101947)\n    at https://securepubads.g.doubleclick.net/gpt/pubads_impl_rendering_2020022001.js:1:39825\n    at Object._.af (https://securepubads.g.doubleclick.net/gpt/pubads_impl_2020022001.js:6:29307)\n    at tw (https://securepubads.g.doubleclick.net/gpt/pubads_impl_rendering_2020022001.js:1:39770)\n    at https://securepubads.g.doubleclick.net/gpt/pubads_impl_rendering_2020022001.js:1:40470\n    at Object._.qa (https://securepubads.g.doubleclick.net/gpt/pubads_impl_2020022001.js:6:55724)\n    at IntersectionObserver.<anonymous> (https://securepubads.g.doubleclick.net/gpt/pubads_impl_rendering_2020022001.js:1:40375)\n    at IntersectionObserver.<anonymous> (https://securepubads.g.doubleclick.net/gpt/pubads_impl_2020022001.js:6:56538)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "accessor"
+            },
+            {
+              "name": "isReported",
+              "type": "boolean",
+              "value": "true"
+            },
+            {
+              "name": "code",
+              "type": "number",
+              "value": "12"
+            },
+            {
+              "name": "name",
+              "type": "string",
+              "value": "SyntaxError"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Failed to execute 'matches' on 'Element': The provided selector is empty."
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

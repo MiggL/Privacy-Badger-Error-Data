@@ -1,0 +1,96 @@
+[
+  {
+    "timestamp": 1583425783529.386,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 3,
+      "columnNumber": 20544,
+      "url": "https://portal.accaglobal.com/accrweb/faces/page/public/accreditations/enquiry/main/EnqInstitutionsTable.jspx",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "40",
+            "url": "https://portal.accaglobal.com/accrweb/faces/page/public/accreditations/enquiry/main/EnqInstitutionsTable.jspx",
+            "lineNumber": 3,
+            "columnNumber": 20544
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: AnalyticsJs is not defined\n    at https://portal.accaglobal.com/accrweb/faces/page/public/accreditations/enquiry/main/EnqInstitutionsTable.jspx:4:20545",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: AnalyticsJs is not defined\n    at https://portal.accaglobal.com/accrweb/faces/page/public/accreditations/enquiry/main/EnqInstitutionsTable.jspx:4:20545",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: AnalyticsJs is not defined\n    at …ns/enquiry/main/EnqInstitutionsTable.jspx:4:20545"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "AnalyticsJs is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583425783529.768,
+    "exceptionDetails": {
+      "exceptionId": 2,
+      "text": "Uncaught",
+      "lineNumber": 3,
+      "columnNumber": 20597,
+      "url": "https://portal.accaglobal.com/accrweb/faces/page/public/accreditations/enquiry/main/EnqInstitutionsTable.jspx",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "41",
+            "url": "https://portal.accaglobal.com/accrweb/faces/page/public/accreditations/enquiry/main/EnqInstitutionsTable.jspx",
+            "lineNumber": 3,
+            "columnNumber": 20597
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: Analytics is not defined\n    at https://portal.accaglobal.com/accrweb/faces/page/public/accreditations/enquiry/main/EnqInstitutionsTable.jspx:4:20598",
+        "objectId": "{\"injectedScriptId\":3,\"id\":2}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: Analytics is not defined\n    at https://portal.accaglobal.com/accrweb/faces/page/public/accreditations/enquiry/main/EnqInstitutionsTable.jspx:4:20598",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: Analytics is not defined\n    at ht…ns/enquiry/main/EnqInstitutionsTable.jspx:4:20598"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Analytics is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

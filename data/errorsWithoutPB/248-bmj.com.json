@@ -1,0 +1,63 @@
+[
+  {
+    "timestamp": 1583011153512.4978,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 2,
+      "columnNumber": 102,
+      "url": "https://cdn.jsdelivr.net/qtip2/2.2.1/jquery.qtip.min.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "51",
+            "url": "https://cdn.jsdelivr.net/qtip2/2.2.1/jquery.qtip.min.js",
+            "lineNumber": 2,
+            "columnNumber": 102
+          },
+          {
+            "functionName": "",
+            "scriptId": "51",
+            "url": "https://cdn.jsdelivr.net/qtip2/2.2.1/jquery.qtip.min.js",
+            "lineNumber": 2,
+            "columnNumber": 137
+          },
+          {
+            "functionName": "",
+            "scriptId": "51",
+            "url": "https://cdn.jsdelivr.net/qtip2/2.2.1/jquery.qtip.min.js",
+            "lineNumber": 3,
+            "columnNumber": 11965
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: jQuery is not defined\n    at https://cdn.jsdelivr.net/qtip2/2.2.1/jquery.qtip.min.js:3:103\n    at https://cdn.jsdelivr.net/qtip2/2.2.1/jquery.qtip.min.js:3:138\n    at https://cdn.jsdelivr.net/qtip2/2.2.1/jquery.qtip.min.js:4:11966",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: jQuery is not defined\n    at https://cdn.jsdelivr.net/qtip2/2.2.1/jquery.qtip.min.js:3:103\n    at https://cdn.jsdelivr.net/qtip2/2.2.1/jquery.qtip.min.js:3:138\n    at https://cdn.jsdelivr.net/qtip2/2.2.1/jquery.qtip.min.js:4:11966",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: jQuery is not defined\n    at https…delivr.net/qtip2/2.2.1/jquery.qtip.min.js:4:11966"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "jQuery is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

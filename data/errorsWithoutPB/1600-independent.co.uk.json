@@ -1,0 +1,479 @@
+[
+  {
+    "timestamp": 1582817434118.966,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught (in promise)",
+      "lineNumber": 23,
+      "columnNumber": 305,
+      "url": "https://www.independent.co.uk/amp/v0.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "f.assert",
+            "scriptId": "18",
+            "url": "https://www.independent.co.uk/amp/v0.js",
+            "lineNumber": 23,
+            "columnNumber": 305
+          },
+          {
+            "functionName": "push.f.B.buildCallback",
+            "scriptId": "40",
+            "url": "https://cdn.ampproject.org/rtv/002002191442400/v0/amp-timeago-0.1.js",
+            "lineNumber": 94,
+            "columnNumber": 159
+          },
+          {
+            "functionName": "",
+            "scriptId": "18",
+            "url": "https://www.independent.co.uk/amp/v0.js",
+            "lineNumber": 237,
+            "columnNumber": 262
+          },
+          {
+            "functionName": "b.build",
+            "scriptId": "18",
+            "url": "https://www.independent.co.uk/amp/v0.js",
+            "lineNumber": 237,
+            "columnNumber": 17
+          },
+          {
+            "functionName": "f.build",
+            "scriptId": "18",
+            "url": "https://www.independent.co.uk/amp/v0.js",
+            "lineNumber": 208,
+            "columnNumber": 230
+          },
+          {
+            "functionName": "yj",
+            "scriptId": "18",
+            "url": "https://www.independent.co.uk/amp/v0.js",
+            "lineNumber": 303,
+            "columnNumber": 114
+          },
+          {
+            "functionName": "wj",
+            "scriptId": "18",
+            "url": "https://www.independent.co.uk/amp/v0.js",
+            "lineNumber": 302,
+            "columnNumber": 270
+          },
+          {
+            "functionName": "xj",
+            "scriptId": "18",
+            "url": "https://www.independent.co.uk/amp/v0.js",
+            "lineNumber": 301,
+            "columnNumber": 249
+          },
+          {
+            "functionName": "f.upgraded",
+            "scriptId": "18",
+            "url": "https://www.independent.co.uk/amp/v0.js",
+            "lineNumber": 303,
+            "columnNumber": 392
+          },
+          {
+            "functionName": "b.pd",
+            "scriptId": "18",
+            "url": "https://www.independent.co.uk/amp/v0.js",
+            "lineNumber": 235,
+            "columnNumber": 141
+          },
+          {
+            "functionName": "b.ig",
+            "scriptId": "18",
+            "url": "https://www.independent.co.uk/amp/v0.js",
+            "lineNumber": 250,
+            "columnNumber": 305
+          },
+          {
+            "functionName": "b.connectedCallback",
+            "scriptId": "18",
+            "url": "https://www.independent.co.uk/amp/v0.js",
+            "lineNumber": 249,
+            "columnNumber": 243
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "Error",
+        "description": "Resource: failed to build: amp-timeago#8: Content cannot be empty. Found in: amp-timeago\n    at Ya.f.assert (https://www.independent.co.uk/amp/v0.js:24:306)\n    at B.push.f.B.buildCallback (https://cdn.ampproject.org/rtv/002002191442400/v0/amp-timeago-0.1.js:95:160)\n    at https://www.independent.co.uk/amp/v0.js:238:263\n    at new Promise (<anonymous>)\n    at HTMLElement.b.build (https://www.independent.co.uk/amp/v0.js:238:18)\n    at $h.f.build (https://www.independent.co.uk/amp/v0.js:209:231)\n    at yj (https://www.independent.co.uk/amp/v0.js:304:115)\n    at wj (https://www.independent.co.uk/amp/v0.js:303:271)\n    at xj (https://www.independent.co.uk/amp/v0.js:302:250)\n    at sj.f.upgraded (https://www.independent.co.uk/amp/v0.js:304:393)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":2}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "Resource: failed to build: amp-timeago#8: Content cannot be empty. Found in: amp-timeago\n    at Ya.f.assert (https://www.independent.co.uk/amp/v0.js:24:306)\n    at B.push.f.B.buildCallback (https://cdn.ampproject.org/rtv/002002191442400/v0/amp-timeago-0.1.js:95:160)\n    at https://www.independent.co.uk/amp/v0.js:238:263\n    at new Promise (<anonymous>)\n    at HTMLElement.b.build (https://www.independent.co.uk/amp/v0.js:238:18)\n    at $h.f.build (https://www.independent.co.uk/amp/v0.js:209:231)\n    at yj (https://www.independent.co.uk/amp/v0.js:304:115)\n    at wj (https://www.independent.co.uk/amp/v0.js:303:271)\n    at xj (https://www.independent.co.uk/amp/v0.js:302:250)\n    at sj.f.upgraded (https://www.independent.co.uk/amp/v0.js:304:393)",
+          "overflow": true,
+          "properties": [
+            {
+              "name": "fromAssert",
+              "type": "boolean",
+              "value": "true"
+            },
+            {
+              "name": "associatedElement",
+              "type": "object",
+              "value": "amp-timeago.amp-timeago.i-amphtml-layout-fixed-height.i-amphtml-layout-size-defined.i-amphtml-eleme…",
+              "subtype": "node"
+            },
+            {
+              "name": "messageArray",
+              "type": "object",
+              "value": "Array(2)",
+              "subtype": "array"
+            },
+            {
+              "name": "reported",
+              "type": "boolean",
+              "value": "true"
+            },
+            {
+              "name": "name",
+              "type": "string",
+              "value": "Resource"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1582817434524.663,
+    "exceptionDetails": {
+      "exceptionId": 2,
+      "text": "Uncaught (in promise)",
+      "lineNumber": 23,
+      "columnNumber": 305,
+      "url": "https://www.independent.co.uk/amp/v0.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "f.assert",
+            "scriptId": "18",
+            "url": "https://www.independent.co.uk/amp/v0.js",
+            "lineNumber": 23,
+            "columnNumber": 305
+          },
+          {
+            "functionName": "db",
+            "scriptId": "18",
+            "url": "https://www.independent.co.uk/amp/v0.js",
+            "lineNumber": 26,
+            "columnNumber": 54
+          },
+          {
+            "functionName": "f.assertElement",
+            "scriptId": "18",
+            "url": "https://www.independent.co.uk/amp/v0.js",
+            "lineNumber": 24,
+            "columnNumber": 30
+          },
+          {
+            "functionName": "",
+            "scriptId": "19",
+            "url": "https://www.independent.co.uk/amp/v0/amp-analytics-0.1.js",
+            "lineNumber": 136,
+            "columnNumber": 38
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "Error",
+        "description": "Error: Element \"#post-comment-form\" not found: null​​​\n    at Ya.f.assert (https://www.independent.co.uk/amp/v0.js:24:306)\n    at db (https://www.independent.co.uk/amp/v0.js:27:55)\n    at Ya.f.assertElement (https://www.independent.co.uk/amp/v0.js:25:31)\n    at https://www.independent.co.uk/amp/v0/amp-analytics-0.1.js:137:39",
+        "objectId": "{\"injectedScriptId\":3,\"id\":3}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "Error: Element \"#post-comment-form\" not found: null​​​\n    at Ya.f.assert (https://www.independent.co.uk/amp/v0.js:24:306)\n    at db (https://www.independent.co.uk/amp/v0.js:27:55)\n    at Ya.f.assertElement (https://www.independent.co.uk/amp/v0.js:25:31)\n    at https://www.independent.co.uk/amp/v0/amp-analytics-0.1.js:137:39",
+          "overflow": true,
+          "properties": [
+            {
+              "name": "fromAssert",
+              "type": "boolean",
+              "value": "true"
+            },
+            {
+              "name": "associatedElement",
+              "type": "undefined",
+              "value": "undefined"
+            },
+            {
+              "name": "messageArray",
+              "type": "object",
+              "value": "Array(2)",
+              "subtype": "array"
+            },
+            {
+              "name": "reported",
+              "type": "boolean",
+              "value": "true"
+            },
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "Error: Element \"#post-comment-form\" not found: nul…ependent.co.uk/amp/v0/amp-analytics-0.1.js:137:39"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1582817434524.8562,
+    "exceptionDetails": {
+      "exceptionId": 3,
+      "text": "Uncaught (in promise)",
+      "lineNumber": 23,
+      "columnNumber": 305,
+      "url": "https://www.independent.co.uk/amp/v0.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "f.assert",
+            "scriptId": "18",
+            "url": "https://www.independent.co.uk/amp/v0.js",
+            "lineNumber": 23,
+            "columnNumber": 305
+          },
+          {
+            "functionName": "db",
+            "scriptId": "18",
+            "url": "https://www.independent.co.uk/amp/v0.js",
+            "lineNumber": 26,
+            "columnNumber": 54
+          },
+          {
+            "functionName": "f.assertElement",
+            "scriptId": "18",
+            "url": "https://www.independent.co.uk/amp/v0.js",
+            "lineNumber": 24,
+            "columnNumber": 30
+          },
+          {
+            "functionName": "",
+            "scriptId": "19",
+            "url": "https://www.independent.co.uk/amp/v0/amp-analytics-0.1.js",
+            "lineNumber": 136,
+            "columnNumber": 38
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "Error",
+        "description": "Error: Element \"[id^='reply-']\" not found: null​​​\n    at Ya.f.assert (https://www.independent.co.uk/amp/v0.js:24:306)\n    at db (https://www.independent.co.uk/amp/v0.js:27:55)\n    at Ya.f.assertElement (https://www.independent.co.uk/amp/v0.js:25:31)\n    at https://www.independent.co.uk/amp/v0/amp-analytics-0.1.js:137:39",
+        "objectId": "{\"injectedScriptId\":3,\"id\":4}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "Error: Element \"[id^='reply-']\" not found: null​​​\n    at Ya.f.assert (https://www.independent.co.uk/amp/v0.js:24:306)\n    at db (https://www.independent.co.uk/amp/v0.js:27:55)\n    at Ya.f.assertElement (https://www.independent.co.uk/amp/v0.js:25:31)\n    at https://www.independent.co.uk/amp/v0/amp-analytics-0.1.js:137:39",
+          "overflow": true,
+          "properties": [
+            {
+              "name": "fromAssert",
+              "type": "boolean",
+              "value": "true"
+            },
+            {
+              "name": "associatedElement",
+              "type": "undefined",
+              "value": "undefined"
+            },
+            {
+              "name": "messageArray",
+              "type": "object",
+              "value": "Array(2)",
+              "subtype": "array"
+            },
+            {
+              "name": "reported",
+              "type": "boolean",
+              "value": "true"
+            },
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "Error: Element \"[id^='reply-']\" not found: null​​​…ependent.co.uk/amp/v0/amp-analytics-0.1.js:137:39"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1582817434525.021,
+    "exceptionDetails": {
+      "exceptionId": 4,
+      "text": "Uncaught (in promise)",
+      "lineNumber": 23,
+      "columnNumber": 305,
+      "url": "https://www.independent.co.uk/amp/v0.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "f.assert",
+            "scriptId": "18",
+            "url": "https://www.independent.co.uk/amp/v0.js",
+            "lineNumber": 23,
+            "columnNumber": 305
+          },
+          {
+            "functionName": "db",
+            "scriptId": "18",
+            "url": "https://www.independent.co.uk/amp/v0.js",
+            "lineNumber": 26,
+            "columnNumber": 54
+          },
+          {
+            "functionName": "f.assertElement",
+            "scriptId": "18",
+            "url": "https://www.independent.co.uk/amp/v0.js",
+            "lineNumber": 24,
+            "columnNumber": 30
+          },
+          {
+            "functionName": "",
+            "scriptId": "19",
+            "url": "https://www.independent.co.uk/amp/v0/amp-analytics-0.1.js",
+            "lineNumber": 136,
+            "columnNumber": 38
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "Error",
+        "description": "Error: Element \"#post-comment-form-minds\" not found: null​​​\n    at Ya.f.assert (https://www.independent.co.uk/amp/v0.js:24:306)\n    at db (https://www.independent.co.uk/amp/v0.js:27:55)\n    at Ya.f.assertElement (https://www.independent.co.uk/amp/v0.js:25:31)\n    at https://www.independent.co.uk/amp/v0/amp-analytics-0.1.js:137:39",
+        "objectId": "{\"injectedScriptId\":3,\"id\":5}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "Error: Element \"#post-comment-form-minds\" not found: null​​​\n    at Ya.f.assert (https://www.independent.co.uk/amp/v0.js:24:306)\n    at db (https://www.independent.co.uk/amp/v0.js:27:55)\n    at Ya.f.assertElement (https://www.independent.co.uk/amp/v0.js:25:31)\n    at https://www.independent.co.uk/amp/v0/amp-analytics-0.1.js:137:39",
+          "overflow": true,
+          "properties": [
+            {
+              "name": "fromAssert",
+              "type": "boolean",
+              "value": "true"
+            },
+            {
+              "name": "associatedElement",
+              "type": "undefined",
+              "value": "undefined"
+            },
+            {
+              "name": "messageArray",
+              "type": "object",
+              "value": "Array(2)",
+              "subtype": "array"
+            },
+            {
+              "name": "reported",
+              "type": "boolean",
+              "value": "true"
+            },
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "Error: Element \"#post-comment-form-minds\" not foun…ependent.co.uk/amp/v0/amp-analytics-0.1.js:137:39"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1582817434525.1838,
+    "exceptionDetails": {
+      "exceptionId": 5,
+      "text": "Uncaught (in promise)",
+      "lineNumber": 23,
+      "columnNumber": 305,
+      "url": "https://www.independent.co.uk/amp/v0.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "f.assert",
+            "scriptId": "18",
+            "url": "https://www.independent.co.uk/amp/v0.js",
+            "lineNumber": 23,
+            "columnNumber": 305
+          },
+          {
+            "functionName": "db",
+            "scriptId": "18",
+            "url": "https://www.independent.co.uk/amp/v0.js",
+            "lineNumber": 26,
+            "columnNumber": 54
+          },
+          {
+            "functionName": "f.assertElement",
+            "scriptId": "18",
+            "url": "https://www.independent.co.uk/amp/v0.js",
+            "lineNumber": 24,
+            "columnNumber": 30
+          },
+          {
+            "functionName": "",
+            "scriptId": "19",
+            "url": "https://www.independent.co.uk/amp/v0/amp-analytics-0.1.js",
+            "lineNumber": 136,
+            "columnNumber": 38
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "Error",
+        "description": "Error: Element \"[id^='subscription-reply-']\" not found: null​​​\n    at Ya.f.assert (https://www.independent.co.uk/amp/v0.js:24:306)\n    at db (https://www.independent.co.uk/amp/v0.js:27:55)\n    at Ya.f.assertElement (https://www.independent.co.uk/amp/v0.js:25:31)\n    at https://www.independent.co.uk/amp/v0/amp-analytics-0.1.js:137:39",
+        "objectId": "{\"injectedScriptId\":3,\"id\":6}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "Error: Element \"[id^='subscription-reply-']\" not found: null​​​\n    at Ya.f.assert (https://www.independent.co.uk/amp/v0.js:24:306)\n    at db (https://www.independent.co.uk/amp/v0.js:27:55)\n    at Ya.f.assertElement (https://www.independent.co.uk/amp/v0.js:25:31)\n    at https://www.independent.co.uk/amp/v0/amp-analytics-0.1.js:137:39",
+          "overflow": true,
+          "properties": [
+            {
+              "name": "fromAssert",
+              "type": "boolean",
+              "value": "true"
+            },
+            {
+              "name": "associatedElement",
+              "type": "undefined",
+              "value": "undefined"
+            },
+            {
+              "name": "messageArray",
+              "type": "object",
+              "value": "Array(2)",
+              "subtype": "array"
+            },
+            {
+              "name": "reported",
+              "type": "boolean",
+              "value": "true"
+            },
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "Error: Element \"[id^='subscription-reply-']\" not f…ependent.co.uk/amp/v0/amp-analytics-0.1.js:137:39"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

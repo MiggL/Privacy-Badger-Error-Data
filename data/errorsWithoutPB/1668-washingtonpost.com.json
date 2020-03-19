@@ -1,0 +1,44 @@
+[
+  {
+    "timestamp": 1582816788445.645,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught (in promise)",
+      "lineNumber": 0,
+      "columnNumber": 0,
+      "scriptId": "1",
+      "url": "https://www.washingtonpost.com/gdpr-consent/?next_url=https%3a%2f%2fwww.washingtonpost.com%2farchive%2flocal%2f1994%2f03%2f02%2fevicted-with-a-squawk%2f1bff3216-5006-4a10-b54a-64e7bc0b76c8%2f",
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "DOMException",
+        "description": "DOMException: Failed to register a ServiceWorker: The script resource is behind a redirect, which is disallowed.",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "DOMException: Failed to register a ServiceWorker: The script resource is behind a redirect, which is disallowed.",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "code",
+              "type": "number",
+              "value": "18"
+            },
+            {
+              "name": "name",
+              "type": "string",
+              "value": "SecurityError"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Failed to register a ServiceWorker: The script resource is behind a redirect, which is disallowed."
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

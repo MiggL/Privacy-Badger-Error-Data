@@ -1,0 +1,284 @@
+[
+  {
+    "timestamp": 1583758485071.009,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 20,
+      "columnNumber": 32,
+      "url": "https://pubs.vmware.com/vsphere-51/advanced/synchWithToc.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "23",
+            "url": "https://pubs.vmware.com/vsphere-51/advanced/synchWithToc.js",
+            "lineNumber": 20,
+            "columnNumber": 32
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'ViewsFrame' of undefined\n    at https://pubs.vmware.com/vsphere-51/advanced/synchWithToc.js:21:33",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'ViewsFrame' of undefined\n    at https://pubs.vmware.com/vsphere-51/advanced/synchWithToc.js:21:33",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'ViewsFrame' of un…are.com/vsphere-51/advanced/synchWithToc.js:21:33"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'ViewsFrame' of undefined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583758485134.311,
+    "exceptionDetails": {
+      "exceptionId": 2,
+      "text": "Uncaught",
+      "lineNumber": 33,
+      "columnNumber": 578,
+      "url": "https://pubs.vmware.com/vsphere-51/topic/com.vmware.vcli.ref.doc/esxcli_network.html",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "31",
+            "url": "https://pubs.vmware.com/vsphere-51/topic/com.vmware.vcli.ref.doc/esxcli_network.html",
+            "lineNumber": 33,
+            "columnNumber": 578
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: stLight is not defined\n    at https://pubs.vmware.com/vsphere-51/topic/com.vmware.vcli.ref.doc/esxcli_network.html:34:579",
+        "objectId": "{\"injectedScriptId\":3,\"id\":2}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: stLight is not defined\n    at https://pubs.vmware.com/vsphere-51/topic/com.vmware.vcli.ref.doc/esxcli_network.html:34:579",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: stLight is not defined\n    at http…om.vmware.vcli.ref.doc/esxcli_network.html:34:579"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "stLight is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583758485697.559,
+    "exceptionDetails": {
+      "exceptionId": 3,
+      "text": "Uncaught",
+      "lineNumber": 20,
+      "columnNumber": 32,
+      "url": "https://pubs.vmware.com/vsphere-51/advanced/synchWithToc.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "23",
+            "url": "https://pubs.vmware.com/vsphere-51/advanced/synchWithToc.js",
+            "lineNumber": 20,
+            "columnNumber": 32
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'ViewsFrame' of undefined\n    at https://pubs.vmware.com/vsphere-51/advanced/synchWithToc.js:21:33",
+        "objectId": "{\"injectedScriptId\":12,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'ViewsFrame' of undefined\n    at https://pubs.vmware.com/vsphere-51/advanced/synchWithToc.js:21:33",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'ViewsFrame' of un…are.com/vsphere-51/advanced/synchWithToc.js:21:33"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'ViewsFrame' of undefined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 12
+    }
+  },
+  {
+    "timestamp": 1583758485709.6501,
+    "exceptionDetails": {
+      "exceptionId": 4,
+      "text": "Uncaught",
+      "lineNumber": 54,
+      "columnNumber": 593,
+      "url": "https://pubs.vmware.com/vsphere-51/topic/com.vmware.ICbase/Banner/banner.htm",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "44",
+            "url": "https://pubs.vmware.com/vsphere-51/topic/com.vmware.ICbase/Banner/banner.htm",
+            "lineNumber": 54,
+            "columnNumber": 593
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: stLight is not defined\n    at https://pubs.vmware.com/vsphere-51/topic/com.vmware.ICbase/Banner/banner.htm:55:594",
+        "objectId": "{\"injectedScriptId\":12,\"id\":2}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: stLight is not defined\n    at https://pubs.vmware.com/vsphere-51/topic/com.vmware.ICbase/Banner/banner.htm:55:594",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: stLight is not defined\n    at http…/topic/com.vmware.ICbase/Banner/banner.htm:55:594"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "stLight is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 12
+    }
+  },
+  {
+    "timestamp": 1583758486000.887,
+    "exceptionDetails": {
+      "exceptionId": 5,
+      "text": "Uncaught",
+      "lineNumber": 20,
+      "columnNumber": 47,
+      "url": "https://pubs.vmware.com/vsphere-51/advanced/synchWithToc.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "23",
+            "url": "https://pubs.vmware.com/vsphere-51/advanced/synchWithToc.js",
+            "lineNumber": 20,
+            "columnNumber": 47
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'tocViewFrame' of undefined\n    at https://pubs.vmware.com/vsphere-51/advanced/synchWithToc.js:21:48",
+        "objectId": "{\"injectedScriptId\":27,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'tocViewFrame' of undefined\n    at https://pubs.vmware.com/vsphere-51/advanced/synchWithToc.js:21:48",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'tocViewFrame' of …are.com/vsphere-51/advanced/synchWithToc.js:21:48"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'tocViewFrame' of undefined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 27
+    }
+  },
+  {
+    "timestamp": 1583758486010.374,
+    "exceptionDetails": {
+      "exceptionId": 6,
+      "text": "Uncaught",
+      "lineNumber": 33,
+      "columnNumber": 578,
+      "url": "https://pubs.vmware.com/vsphere-51/topic/com.vmware.vcli.ref.doc/esxcli_network.html",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "31",
+            "url": "https://pubs.vmware.com/vsphere-51/topic/com.vmware.vcli.ref.doc/esxcli_network.html",
+            "lineNumber": 33,
+            "columnNumber": 578
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: stLight is not defined\n    at https://pubs.vmware.com/vsphere-51/topic/com.vmware.vcli.ref.doc/esxcli_network.html:34:579",
+        "objectId": "{\"injectedScriptId\":27,\"id\":2}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: stLight is not defined\n    at https://pubs.vmware.com/vsphere-51/topic/com.vmware.vcli.ref.doc/esxcli_network.html:34:579",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: stLight is not defined\n    at http…om.vmware.vcli.ref.doc/esxcli_network.html:34:579"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "stLight is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 27
+    }
+  }
+]

@@ -1,0 +1,119 @@
+[
+  {
+    "timestamp": 1583757213871.4001,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 4,
+      "columnNumber": 18897,
+      "url": "http://cdn2.editmysite.com/js/site/main.js?buildTime=1401406890",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "e",
+            "scriptId": "21",
+            "url": "http://cdn2.editmysite.com/js/site/main.js?buildTime=1401406890",
+            "lineNumber": 4,
+            "columnNumber": 18897
+          },
+          {
+            "functionName": "n.render",
+            "scriptId": "21",
+            "url": "http://cdn2.editmysite.com/js/site/main.js?buildTime=1401406890",
+            "lineNumber": 0,
+            "columnNumber": 24355
+          },
+          {
+            "functionName": "ne",
+            "scriptId": "21",
+            "url": "http://cdn2.editmysite.com/js/site/main.js?buildTime=1401406890",
+            "lineNumber": 13,
+            "columnNumber": 26912
+          },
+          {
+            "functionName": "ie",
+            "scriptId": "21",
+            "url": "http://cdn2.editmysite.com/js/site/main.js?buildTime=1401406890",
+            "lineNumber": 13,
+            "columnNumber": 26834
+          },
+          {
+            "functionName": "te",
+            "scriptId": "21",
+            "url": "http://cdn2.editmysite.com/js/site/main.js?buildTime=1401406890",
+            "lineNumber": 13,
+            "columnNumber": 26757
+          },
+          {
+            "functionName": "window.initPublishedFlyoutMenus",
+            "scriptId": "21",
+            "url": "http://cdn2.editmysite.com/js/site/main.js?buildTime=1401406890",
+            "lineNumber": 13,
+            "columnNumber": 13278
+          },
+          {
+            "functionName": "initFlyouts",
+            "scriptId": "28",
+            "url": "http://www.beowulfdefense.com/current-events/thoughts-on-the-growth-hornet",
+            "lineNumber": 87,
+            "columnNumber": 23
+          },
+          {
+            "functionName": "o",
+            "scriptId": "22",
+            "url": "https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js",
+            "lineNumber": 1,
+            "columnNumber": 14732
+          },
+          {
+            "functionName": "fireWith",
+            "scriptId": "22",
+            "url": "https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js",
+            "lineNumber": 1,
+            "columnNumber": 15501
+          },
+          {
+            "functionName": "ready",
+            "scriptId": "22",
+            "url": "https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js",
+            "lineNumber": 1,
+            "columnNumber": 9593
+          },
+          {
+            "functionName": "B",
+            "scriptId": "22",
+            "url": "https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js",
+            "lineNumber": 1,
+            "columnNumber": 14289
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Invalid template! Template should be a \"string\" but \"undefined\" was given as the first argument for mustache#render(template, view, partials)\n    at Object.e [as origRender] (http://cdn2.editmysite.com/js/site/main.js?buildTime=1401406890:5:18898)\n    at Object.n.render (http://cdn2.editmysite.com/js/site/main.js?buildTime=1401406890:1:24356)\n    at ne (http://cdn2.editmysite.com/js/site/main.js?buildTime=1401406890:14:26913)\n    at ie (http://cdn2.editmysite.com/js/site/main.js?buildTime=1401406890:14:26835)\n    at te (http://cdn2.editmysite.com/js/site/main.js?buildTime=1401406890:14:26758)\n    at window.initPublishedFlyoutMenus (http://cdn2.editmysite.com/js/site/main.js?buildTime=1401406890:14:13279)\n    at HTMLDocument.initFlyouts (http://www.beowulfdefense.com/current-events/thoughts-on-the-growth-hornet:88:24)\n    at o (https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js:2:14733)\n    at Object.fireWith (https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js:2:15502)\n    at Function.ready (https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js:2:9594)\n    at HTMLDocument.B (https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js:2:14290)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Invalid template! Template should be a \"string\" but \"undefined\" was given as the first argument for mustache#render(template, view, partials)\n    at Object.e [as origRender] (http://cdn2.editmysite.com/js/site/main.js?buildTime=1401406890:5:18898)\n    at Object.n.render (http://cdn2.editmysite.com/js/site/main.js?buildTime=1401406890:1:24356)\n    at ne (http://cdn2.editmysite.com/js/site/main.js?buildTime=1401406890:14:26913)\n    at ie (http://cdn2.editmysite.com/js/site/main.js?buildTime=1401406890:14:26835)\n    at te (http://cdn2.editmysite.com/js/site/main.js?buildTime=1401406890:14:26758)\n    at window.initPublishedFlyoutMenus (http://cdn2.editmysite.com/js/site/main.js?buildTime=1401406890:14:13279)\n    at HTMLDocument.initFlyouts (http://www.beowulfdefense.com/current-events/thoughts-on-the-growth-hornet:88:24)\n    at o (https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js:2:14733)\n    at Object.fireWith (https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js:2:15502)\n    at Function.ready (https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js:2:9594)\n    at HTMLDocument.B (https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js:2:14290)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Invalid template! Template should be a …com/ajax/libs/jquery/1.7.2/jquery.min.js:2:14290)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Invalid template! Template should be a \"string\" bu…ent for mustache#render(template, view, partials)"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

@@ -1,0 +1,133 @@
+[
+  {
+    "timestamp": 1583011974297.886,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 429,
+      "columnNumber": 9,
+      "url": "https://postalmuseum.si.edu/gold/avalanche.html",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "33",
+            "url": "https://postalmuseum.si.edu/gold/avalanche.html",
+            "lineNumber": 429,
+            "columnNumber": 9
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: WebTrends is not defined\n    at https://postalmuseum.si.edu/gold/avalanche.html:430:10",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: WebTrends is not defined\n    at https://postalmuseum.si.edu/gold/avalanche.html:430:10",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: WebTrends is not defined\n    at ht…://postalmuseum.si.edu/gold/avalanche.html:430:10"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "WebTrends is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583011974298.541,
+    "exceptionDetails": {
+      "exceptionId": 2,
+      "text": "Uncaught",
+      "lineNumber": 435,
+      "columnNumber": 14,
+      "url": "https://postalmuseum.si.edu/gold/avalanche.html",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "34",
+            "url": "https://postalmuseum.si.edu/gold/avalanche.html",
+            "lineNumber": 435,
+            "columnNumber": 14
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot set property 'dcsCustom' of undefined\n    at https://postalmuseum.si.edu/gold/avalanche.html:436:15",
+        "objectId": "{\"injectedScriptId\":3,\"id\":2}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot set property 'dcsCustom' of undefined\n    at https://postalmuseum.si.edu/gold/avalanche.html:436:15",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot set property 'dcsCustom' of unde…://postalmuseum.si.edu/gold/avalanche.html:436:15"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot set property 'dcsCustom' of undefined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583011974302.284,
+    "exceptionDetails": {
+      "exceptionId": 3,
+      "text": "Uncaught",
+      "lineNumber": 456,
+      "columnNumber": 12,
+      "scriptId": "37",
+      "url": "https://postalmuseum.si.edu/gold/avalanche.html",
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "SyntaxError",
+        "description": "SyntaxError: Invalid regular expression: missing /",
+        "objectId": "{\"injectedScriptId\":3,\"id\":3}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "SyntaxError: Invalid regular expression: missing /",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "SyntaxError: Invalid regular expression: missing /"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Invalid regular expression: missing /"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

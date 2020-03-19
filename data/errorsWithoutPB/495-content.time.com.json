@@ -1,0 +1,412 @@
+[
+  {
+    "timestamp": 1583008867281.091,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 0,
+      "columnNumber": 5623,
+      "url": "http://img.timeinc.net/time/assets/js/responsive-ads.min.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "DfpAd.render",
+            "scriptId": "21",
+            "url": "http://img.timeinc.net/time/assets/js/responsive-ads.min.js",
+            "lineNumber": 0,
+            "columnNumber": 5623
+          },
+          {
+            "functionName": "refreshAdPick",
+            "scriptId": "21",
+            "url": "http://img.timeinc.net/time/assets/js/responsive-ads.min.js",
+            "lineNumber": 0,
+            "columnNumber": 3132
+          },
+          {
+            "functionName": "refreshAdPick",
+            "scriptId": "21",
+            "url": "http://img.timeinc.net/time/assets/js/responsive-ads.min.js",
+            "lineNumber": 0,
+            "columnNumber": 1599
+          },
+          {
+            "functionName": "init",
+            "scriptId": "21",
+            "url": "http://img.timeinc.net/time/assets/js/responsive-ads.min.js",
+            "lineNumber": 0,
+            "columnNumber": 1653
+          },
+          {
+            "functionName": "window.responsiveAd",
+            "scriptId": "21",
+            "url": "http://img.timeinc.net/time/assets/js/responsive-ads.min.js",
+            "lineNumber": 0,
+            "columnNumber": 7588
+          },
+          {
+            "functionName": "",
+            "scriptId": "80",
+            "url": "http://content.time.com/time/nation/article/0,8599,2037331,00.html",
+            "lineNumber": 278,
+            "columnNumber": 10
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: TiiAdsIsDebugMode is not defined\n    at <computed>.DfpAd.render (http://img.timeinc.net/time/assets/js/responsive-ads.min.js:1:5624)\n    at n.refreshAdPick (http://img.timeinc.net/time/assets/js/responsive-ads.min.js:1:3133)\n    at n.refreshAdPick (http://img.timeinc.net/time/assets/js/responsive-ads.min.js:1:1600)\n    at n.init (http://img.timeinc.net/time/assets/js/responsive-ads.min.js:1:1654)\n    at window.responsiveAd (http://img.timeinc.net/time/assets/js/responsive-ads.min.js:1:7589)\n    at http://content.time.com/time/nation/article/0,8599,2037331,00.html:279:11",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: TiiAdsIsDebugMode is not defined\n    at <computed>.DfpAd.render (http://img.timeinc.net/time/assets/js/responsive-ads.min.js:1:5624)\n    at n.refreshAdPick (http://img.timeinc.net/time/assets/js/responsive-ads.min.js:1:3133)\n    at n.refreshAdPick (http://img.timeinc.net/time/assets/js/responsive-ads.min.js:1:1600)\n    at n.init (http://img.timeinc.net/time/assets/js/responsive-ads.min.js:1:1654)\n    at window.responsiveAd (http://img.timeinc.net/time/assets/js/responsive-ads.min.js:1:7589)\n    at http://content.time.com/time/nation/article/0,8599,2037331,00.html:279:11",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: TiiAdsIsDebugMode is not defined\n …time/nation/article/0,8599,2037331,00.html:279:11"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "TiiAdsIsDebugMode is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583008867286.337,
+    "exceptionDetails": {
+      "exceptionId": 2,
+      "text": "Uncaught",
+      "lineNumber": 0,
+      "columnNumber": 5623,
+      "url": "http://img.timeinc.net/time/assets/js/responsive-ads.min.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "DfpAd.render",
+            "scriptId": "21",
+            "url": "http://img.timeinc.net/time/assets/js/responsive-ads.min.js",
+            "lineNumber": 0,
+            "columnNumber": 5623
+          },
+          {
+            "functionName": "refreshAdPick",
+            "scriptId": "21",
+            "url": "http://img.timeinc.net/time/assets/js/responsive-ads.min.js",
+            "lineNumber": 0,
+            "columnNumber": 3132
+          },
+          {
+            "functionName": "refreshAdPick",
+            "scriptId": "21",
+            "url": "http://img.timeinc.net/time/assets/js/responsive-ads.min.js",
+            "lineNumber": 0,
+            "columnNumber": 1599
+          },
+          {
+            "functionName": "init",
+            "scriptId": "21",
+            "url": "http://img.timeinc.net/time/assets/js/responsive-ads.min.js",
+            "lineNumber": 0,
+            "columnNumber": 1653
+          },
+          {
+            "functionName": "window.responsiveAd",
+            "scriptId": "21",
+            "url": "http://img.timeinc.net/time/assets/js/responsive-ads.min.js",
+            "lineNumber": 0,
+            "columnNumber": 7588
+          },
+          {
+            "functionName": "",
+            "scriptId": "81",
+            "url": "http://content.time.com/time/nation/article/0,8599,2037331,00.html",
+            "lineNumber": 361,
+            "columnNumber": 0
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: TiiAdsIsDebugMode is not defined\n    at <computed>.DfpAd.render (http://img.timeinc.net/time/assets/js/responsive-ads.min.js:1:5624)\n    at n.refreshAdPick (http://img.timeinc.net/time/assets/js/responsive-ads.min.js:1:3133)\n    at n.refreshAdPick (http://img.timeinc.net/time/assets/js/responsive-ads.min.js:1:1600)\n    at n.init (http://img.timeinc.net/time/assets/js/responsive-ads.min.js:1:1654)\n    at window.responsiveAd (http://img.timeinc.net/time/assets/js/responsive-ads.min.js:1:7589)\n    at http://content.time.com/time/nation/article/0,8599,2037331,00.html:362:1",
+        "objectId": "{\"injectedScriptId\":3,\"id\":2}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: TiiAdsIsDebugMode is not defined\n    at <computed>.DfpAd.render (http://img.timeinc.net/time/assets/js/responsive-ads.min.js:1:5624)\n    at n.refreshAdPick (http://img.timeinc.net/time/assets/js/responsive-ads.min.js:1:3133)\n    at n.refreshAdPick (http://img.timeinc.net/time/assets/js/responsive-ads.min.js:1:1600)\n    at n.init (http://img.timeinc.net/time/assets/js/responsive-ads.min.js:1:1654)\n    at window.responsiveAd (http://img.timeinc.net/time/assets/js/responsive-ads.min.js:1:7589)\n    at http://content.time.com/time/nation/article/0,8599,2037331,00.html:362:1",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: TiiAdsIsDebugMode is not defined\n …/time/nation/article/0,8599,2037331,00.html:362:1"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "TiiAdsIsDebugMode is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583008867311.616,
+    "exceptionDetails": {
+      "exceptionId": 3,
+      "text": "Uncaught",
+      "lineNumber": 0,
+      "columnNumber": 5623,
+      "url": "http://img.timeinc.net/time/assets/js/responsive-ads.min.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "DfpAd.render",
+            "scriptId": "21",
+            "url": "http://img.timeinc.net/time/assets/js/responsive-ads.min.js",
+            "lineNumber": 0,
+            "columnNumber": 5623
+          },
+          {
+            "functionName": "refreshAdPick",
+            "scriptId": "21",
+            "url": "http://img.timeinc.net/time/assets/js/responsive-ads.min.js",
+            "lineNumber": 0,
+            "columnNumber": 3132
+          },
+          {
+            "functionName": "refreshAdPick",
+            "scriptId": "21",
+            "url": "http://img.timeinc.net/time/assets/js/responsive-ads.min.js",
+            "lineNumber": 0,
+            "columnNumber": 1599
+          },
+          {
+            "functionName": "init",
+            "scriptId": "21",
+            "url": "http://img.timeinc.net/time/assets/js/responsive-ads.min.js",
+            "lineNumber": 0,
+            "columnNumber": 1653
+          },
+          {
+            "functionName": "window.responsiveAd",
+            "scriptId": "21",
+            "url": "http://img.timeinc.net/time/assets/js/responsive-ads.min.js",
+            "lineNumber": 0,
+            "columnNumber": 7588
+          },
+          {
+            "functionName": "",
+            "scriptId": "82",
+            "url": "http://content.time.com/time/nation/article/0,8599,2037331,00.html",
+            "lineNumber": 393,
+            "columnNumber": 0
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: TiiAdsIsDebugMode is not defined\n    at <computed>.DfpAd.render (http://img.timeinc.net/time/assets/js/responsive-ads.min.js:1:5624)\n    at n.refreshAdPick (http://img.timeinc.net/time/assets/js/responsive-ads.min.js:1:3133)\n    at n.refreshAdPick (http://img.timeinc.net/time/assets/js/responsive-ads.min.js:1:1600)\n    at n.init (http://img.timeinc.net/time/assets/js/responsive-ads.min.js:1:1654)\n    at window.responsiveAd (http://img.timeinc.net/time/assets/js/responsive-ads.min.js:1:7589)\n    at http://content.time.com/time/nation/article/0,8599,2037331,00.html:394:1",
+        "objectId": "{\"injectedScriptId\":3,\"id\":3}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: TiiAdsIsDebugMode is not defined\n    at <computed>.DfpAd.render (http://img.timeinc.net/time/assets/js/responsive-ads.min.js:1:5624)\n    at n.refreshAdPick (http://img.timeinc.net/time/assets/js/responsive-ads.min.js:1:3133)\n    at n.refreshAdPick (http://img.timeinc.net/time/assets/js/responsive-ads.min.js:1:1600)\n    at n.init (http://img.timeinc.net/time/assets/js/responsive-ads.min.js:1:1654)\n    at window.responsiveAd (http://img.timeinc.net/time/assets/js/responsive-ads.min.js:1:7589)\n    at http://content.time.com/time/nation/article/0,8599,2037331,00.html:394:1",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: TiiAdsIsDebugMode is not defined\n …/time/nation/article/0,8599,2037331,00.html:394:1"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "TiiAdsIsDebugMode is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583008867357.373,
+    "exceptionDetails": {
+      "exceptionId": 4,
+      "text": "Uncaught",
+      "lineNumber": 0,
+      "columnNumber": 5623,
+      "url": "http://img.timeinc.net/time/assets/js/responsive-ads.min.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "DfpAd.render",
+            "scriptId": "21",
+            "url": "http://img.timeinc.net/time/assets/js/responsive-ads.min.js",
+            "lineNumber": 0,
+            "columnNumber": 5623
+          },
+          {
+            "functionName": "refreshAdPick",
+            "scriptId": "21",
+            "url": "http://img.timeinc.net/time/assets/js/responsive-ads.min.js",
+            "lineNumber": 0,
+            "columnNumber": 3132
+          },
+          {
+            "functionName": "refreshAdPick",
+            "scriptId": "21",
+            "url": "http://img.timeinc.net/time/assets/js/responsive-ads.min.js",
+            "lineNumber": 0,
+            "columnNumber": 1599
+          },
+          {
+            "functionName": "init",
+            "scriptId": "21",
+            "url": "http://img.timeinc.net/time/assets/js/responsive-ads.min.js",
+            "lineNumber": 0,
+            "columnNumber": 1653
+          },
+          {
+            "functionName": "window.responsiveAd",
+            "scriptId": "21",
+            "url": "http://img.timeinc.net/time/assets/js/responsive-ads.min.js",
+            "lineNumber": 0,
+            "columnNumber": 7588
+          },
+          {
+            "functionName": "",
+            "scriptId": "86",
+            "url": "http://content.time.com/time/nation/article/0,8599,2037331,00.html",
+            "lineNumber": 617,
+            "columnNumber": 2
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: TiiAdsIsDebugMode is not defined\n    at <computed>.DfpAd.render (http://img.timeinc.net/time/assets/js/responsive-ads.min.js:1:5624)\n    at n.refreshAdPick (http://img.timeinc.net/time/assets/js/responsive-ads.min.js:1:3133)\n    at n.refreshAdPick (http://img.timeinc.net/time/assets/js/responsive-ads.min.js:1:1600)\n    at n.init (http://img.timeinc.net/time/assets/js/responsive-ads.min.js:1:1654)\n    at window.responsiveAd (http://img.timeinc.net/time/assets/js/responsive-ads.min.js:1:7589)\n    at http://content.time.com/time/nation/article/0,8599,2037331,00.html:618:3",
+        "objectId": "{\"injectedScriptId\":3,\"id\":4}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: TiiAdsIsDebugMode is not defined\n    at <computed>.DfpAd.render (http://img.timeinc.net/time/assets/js/responsive-ads.min.js:1:5624)\n    at n.refreshAdPick (http://img.timeinc.net/time/assets/js/responsive-ads.min.js:1:3133)\n    at n.refreshAdPick (http://img.timeinc.net/time/assets/js/responsive-ads.min.js:1:1600)\n    at n.init (http://img.timeinc.net/time/assets/js/responsive-ads.min.js:1:1654)\n    at window.responsiveAd (http://img.timeinc.net/time/assets/js/responsive-ads.min.js:1:7589)\n    at http://content.time.com/time/nation/article/0,8599,2037331,00.html:618:3",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: TiiAdsIsDebugMode is not defined\n …/time/nation/article/0,8599,2037331,00.html:618:3"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "TiiAdsIsDebugMode is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583008867358.444,
+    "exceptionDetails": {
+      "exceptionId": 5,
+      "text": "Uncaught",
+      "lineNumber": 0,
+      "columnNumber": 5623,
+      "url": "http://img.timeinc.net/time/assets/js/responsive-ads.min.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "DfpAd.render",
+            "scriptId": "21",
+            "url": "http://img.timeinc.net/time/assets/js/responsive-ads.min.js",
+            "lineNumber": 0,
+            "columnNumber": 5623
+          },
+          {
+            "functionName": "refreshAdPick",
+            "scriptId": "21",
+            "url": "http://img.timeinc.net/time/assets/js/responsive-ads.min.js",
+            "lineNumber": 0,
+            "columnNumber": 3132
+          },
+          {
+            "functionName": "refreshAdPick",
+            "scriptId": "21",
+            "url": "http://img.timeinc.net/time/assets/js/responsive-ads.min.js",
+            "lineNumber": 0,
+            "columnNumber": 1599
+          },
+          {
+            "functionName": "init",
+            "scriptId": "21",
+            "url": "http://img.timeinc.net/time/assets/js/responsive-ads.min.js",
+            "lineNumber": 0,
+            "columnNumber": 1653
+          },
+          {
+            "functionName": "window.responsiveAd",
+            "scriptId": "21",
+            "url": "http://img.timeinc.net/time/assets/js/responsive-ads.min.js",
+            "lineNumber": 0,
+            "columnNumber": 7588
+          },
+          {
+            "functionName": "",
+            "scriptId": "88",
+            "url": "http://content.time.com/time/nation/article/0,8599,2037331,00.html",
+            "lineNumber": 641,
+            "columnNumber": 0
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: TiiAdsIsDebugMode is not defined\n    at <computed>.DfpAd.render (http://img.timeinc.net/time/assets/js/responsive-ads.min.js:1:5624)\n    at n.refreshAdPick (http://img.timeinc.net/time/assets/js/responsive-ads.min.js:1:3133)\n    at n.refreshAdPick (http://img.timeinc.net/time/assets/js/responsive-ads.min.js:1:1600)\n    at n.init (http://img.timeinc.net/time/assets/js/responsive-ads.min.js:1:1654)\n    at window.responsiveAd (http://img.timeinc.net/time/assets/js/responsive-ads.min.js:1:7589)\n    at http://content.time.com/time/nation/article/0,8599,2037331,00.html:642:1",
+        "objectId": "{\"injectedScriptId\":3,\"id\":5}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: TiiAdsIsDebugMode is not defined\n    at <computed>.DfpAd.render (http://img.timeinc.net/time/assets/js/responsive-ads.min.js:1:5624)\n    at n.refreshAdPick (http://img.timeinc.net/time/assets/js/responsive-ads.min.js:1:3133)\n    at n.refreshAdPick (http://img.timeinc.net/time/assets/js/responsive-ads.min.js:1:1600)\n    at n.init (http://img.timeinc.net/time/assets/js/responsive-ads.min.js:1:1654)\n    at window.responsiveAd (http://img.timeinc.net/time/assets/js/responsive-ads.min.js:1:7589)\n    at http://content.time.com/time/nation/article/0,8599,2037331,00.html:642:1",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: TiiAdsIsDebugMode is not defined\n …/time/nation/article/0,8599,2037331,00.html:642:1"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "TiiAdsIsDebugMode is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

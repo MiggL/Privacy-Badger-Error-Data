@@ -1,0 +1,91 @@
+[
+  {
+    "timestamp": 1583420575939.61,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught (in promise)",
+      "lineNumber": 0,
+      "columnNumber": 90191,
+      "url": "https://js.trendmd.com/trendmd.min.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "54",
+            "url": "https://js.trendmd.com/trendmd.min.js",
+            "lineNumber": 0,
+            "columnNumber": 90191
+          },
+          {
+            "functionName": "e",
+            "scriptId": "54",
+            "url": "https://js.trendmd.com/trendmd.min.js",
+            "lineNumber": 0,
+            "columnNumber": 6336
+          },
+          {
+            "functionName": "",
+            "scriptId": "54",
+            "url": "https://js.trendmd.com/trendmd.min.js",
+            "lineNumber": 0,
+            "columnNumber": 89584
+          },
+          {
+            "functionName": "value",
+            "scriptId": "54",
+            "url": "https://js.trendmd.com/trendmd.min.js",
+            "lineNumber": 0,
+            "columnNumber": 89548
+          },
+          {
+            "functionName": "value",
+            "scriptId": "54",
+            "url": "https://js.trendmd.com/trendmd.min.js",
+            "lineNumber": 0,
+            "columnNumber": 81213
+          },
+          {
+            "functionName": "",
+            "scriptId": "54",
+            "url": "https://js.trendmd.com/trendmd.min.js",
+            "lineNumber": 0,
+            "columnNumber": 84366
+          },
+          {
+            "functionName": "value",
+            "scriptId": "54",
+            "url": "https://js.trendmd.com/trendmd.min.js",
+            "lineNumber": 0,
+            "columnNumber": 84006
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "Error",
+        "description": "Error: No element\n    at https://js.trendmd.com/trendmd.min.js:1:90192\n    at Function.e [as domready] (https://js.trendmd.com/trendmd.min.js:1:6337)\n    at https://js.trendmd.com/trendmd.min.js:1:89585\n    at new Promise (<anonymous>)\n    at e.value (https://js.trendmd.com/trendmd.min.js:1:89549)\n    at e.value (https://js.trendmd.com/trendmd.min.js:1:81214)\n    at https://js.trendmd.com/trendmd.min.js:1:84367\n    at Array.map (<anonymous>)\n    at e.value (https://js.trendmd.com/trendmd.min.js:1:84007)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "Error: No element\n    at https://js.trendmd.com/trendmd.min.js:1:90192\n    at Function.e [as domready] (https://js.trendmd.com/trendmd.min.js:1:6337)\n    at https://js.trendmd.com/trendmd.min.js:1:89585\n    at new Promise (<anonymous>)\n    at e.value (https://js.trendmd.com/trendmd.min.js:1:89549)\n    at e.value (https://js.trendmd.com/trendmd.min.js:1:81214)\n    at https://js.trendmd.com/trendmd.min.js:1:84367\n    at Array.map (<anonymous>)\n    at e.value (https://js.trendmd.com/trendmd.min.js:1:84007)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "Error: No element\n    at https://js.trendmd.com/tr…e (https://js.trendmd.com/trendmd.min.js:1:84007)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "No element"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

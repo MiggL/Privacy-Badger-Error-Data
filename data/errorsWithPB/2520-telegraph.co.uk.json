@@ -1,0 +1,49 @@
+[
+  {
+    "timestamp": 1582891870508.1812,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 2523,
+      "columnNumber": 15,
+      "url": "https://www.telegraph.co.uk/gardening/3348368/Food-garden-competition-The-entries-so-far.html",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "162",
+            "url": "https://www.telegraph.co.uk/gardening/3348368/Food-garden-competition-The-entries-so-far.html",
+            "lineNumber": 2523,
+            "columnNumber": 15
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: nol_t is not defined\n    at https://www.telegraph.co.uk/gardening/3348368/Food-garden-competition-The-entries-so-far.html:2524:16",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: nol_t is not defined\n    at https://www.telegraph.co.uk/gardening/3348368/Food-garden-competition-The-entries-so-far.html:2524:16",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: nol_t is not defined\n    at https:…arden-competition-The-entries-so-far.html:2524:16"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "nol_t is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

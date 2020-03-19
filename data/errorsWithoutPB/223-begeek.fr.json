@@ -1,0 +1,257 @@
+[
+  {
+    "timestamp": 1583011365267.8472,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 1147,
+      "columnNumber": 269,
+      "url": "https://fw.adsafeprotected.com/rjss/www.googletagservices.com/412802/43532710/dcm/dcmads.js?adsafe_preview=&adsafe_pb=https%3A%2F%2Fassets.quantcount.com%2Fpsa%2Feu%2F300x600.js%3Faid%3DuqxqOKu3WSOQqU0kh_ZdO6eReTywpx8L9cw=%26accid%3Dp-zGBnqhxt9hYjZ%26cid%3D1794488",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "m",
+            "scriptId": "125",
+            "url": "https://fw.adsafeprotected.com/rjss/www.googletagservices.com/412802/43532710/dcm/dcmads.js?adsafe_preview=&adsafe_pb=https%3A%2F%2Fassets.quantcount.com%2Fpsa%2Feu%2F300x600.js%3Faid%3DuqxqOKu3WSOQqU0kh_ZdO6eReTywpx8L9cw=%26accid%3Dp-zGBnqhxt9hYjZ%26cid%3D1794488",
+            "lineNumber": 1147,
+            "columnNumber": 269
+          },
+          {
+            "functionName": "g.<computed>",
+            "scriptId": "125",
+            "url": "https://fw.adsafeprotected.com/rjss/www.googletagservices.com/412802/43532710/dcm/dcmads.js?adsafe_preview=&adsafe_pb=https%3A%2F%2Fassets.quantcount.com%2Fpsa%2Feu%2F300x600.js%3Faid%3DuqxqOKu3WSOQqU0kh_ZdO6eReTywpx8L9cw=%26accid%3Dp-zGBnqhxt9hYjZ%26cid%3D1794488",
+            "lineNumber": 884,
+            "columnNumber": 377
+          },
+          {
+            "functionName": "",
+            "scriptId": "125",
+            "url": "https://fw.adsafeprotected.com/rjss/www.googletagservices.com/412802/43532710/dcm/dcmads.js?adsafe_preview=&adsafe_pb=https%3A%2F%2Fassets.quantcount.com%2Fpsa%2Feu%2F300x600.js%3Faid%3DuqxqOKu3WSOQqU0kh_ZdO6eReTywpx8L9cw=%26accid%3Dp-zGBnqhxt9hYjZ%26cid%3D1794488",
+            "lineNumber": 884,
+            "columnNumber": 457
+          },
+          {
+            "functionName": "G.each",
+            "scriptId": "125",
+            "url": "https://fw.adsafeprotected.com/rjss/www.googletagservices.com/412802/43532710/dcm/dcmads.js?adsafe_preview=&adsafe_pb=https%3A%2F%2Fassets.quantcount.com%2Fpsa%2Feu%2F300x600.js%3Faid%3DuqxqOKu3WSOQqU0kh_ZdO6eReTywpx8L9cw=%26accid%3Dp-zGBnqhxt9hYjZ%26cid%3D1794488",
+            "lineNumber": 854,
+            "columnNumber": 243
+          },
+          {
+            "functionName": "run",
+            "scriptId": "125",
+            "url": "https://fw.adsafeprotected.com/rjss/www.googletagservices.com/412802/43532710/dcm/dcmads.js?adsafe_preview=&adsafe_pb=https%3A%2F%2Fassets.quantcount.com%2Fpsa%2Feu%2F300x600.js%3Faid%3DuqxqOKu3WSOQqU0kh_ZdO6eReTywpx8L9cw=%26accid%3Dp-zGBnqhxt9hYjZ%26cid%3D1794488",
+            "lineNumber": 884,
+            "columnNumber": 436
+          },
+          {
+            "functionName": "trigger",
+            "scriptId": "125",
+            "url": "https://fw.adsafeprotected.com/rjss/www.googletagservices.com/412802/43532710/dcm/dcmads.js?adsafe_preview=&adsafe_pb=https%3A%2F%2Fassets.quantcount.com%2Fpsa%2Feu%2F300x600.js%3Faid%3DuqxqOKu3WSOQqU0kh_ZdO6eReTywpx8L9cw=%26accid%3Dp-zGBnqhxt9hYjZ%26cid%3D1794488",
+            "lineNumber": 883,
+            "columnNumber": 173
+          },
+          {
+            "functionName": "a",
+            "scriptId": "125",
+            "url": "https://fw.adsafeprotected.com/rjss/www.googletagservices.com/412802/43532710/dcm/dcmads.js?adsafe_preview=&adsafe_pb=https%3A%2F%2Fassets.quantcount.com%2Fpsa%2Feu%2F300x600.js%3Faid%3DuqxqOKu3WSOQqU0kh_ZdO6eReTywpx8L9cw=%26accid%3Dp-zGBnqhxt9hYjZ%26cid%3D1794488",
+            "lineNumber": 1166,
+            "columnNumber": 88
+          },
+          {
+            "functionName": "sendEvent",
+            "scriptId": "163",
+            "url": "https://static.adsafeprotected.com/xsca.17.4.85.js",
+            "lineNumber": 30,
+            "columnNumber": 11496
+          },
+          {
+            "functionName": "w",
+            "scriptId": "163",
+            "url": "https://static.adsafeprotected.com/xsca.17.4.85.js",
+            "lineNumber": 30,
+            "columnNumber": 12346
+          },
+          {
+            "functionName": "H",
+            "scriptId": "163",
+            "url": "https://static.adsafeprotected.com/xsca.17.4.85.js",
+            "lineNumber": 30,
+            "columnNumber": 15498
+          },
+          {
+            "functionName": "a154",
+            "scriptId": "163",
+            "url": "https://static.adsafeprotected.com/xsca.17.4.85.js",
+            "lineNumber": 32,
+            "columnNumber": 11680
+          },
+          {
+            "functionName": "a155",
+            "scriptId": "163",
+            "url": "https://static.adsafeprotected.com/xsca.17.4.85.js",
+            "lineNumber": 32,
+            "columnNumber": 11922
+          },
+          {
+            "functionName": "w",
+            "scriptId": "163",
+            "url": "https://static.adsafeprotected.com/xsca.17.4.85.js",
+            "lineNumber": 30,
+            "columnNumber": 20877
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot set property 'eyJ4diI6IjE3LjQuODUiLCJ0IjoxNTgzMDExMzY1MjY3fQ--' of undefined\n    at Object.m (https://fw.adsafeprotected.com/rjss/www.googletagservices.com/412802/43532710/dcm/dcmads.js?adsafe_preview=&adsafe_pb=https%3A%2F%2Fassets.quantcount.com%2Fpsa%2Feu%2F300x600.js%3Faid%3DuqxqOKu3WSOQqU0kh_ZdO6eReTywpx8L9cw=%26accid%3Dp-zGBnqhxt9hYjZ%26cid%3D1794488:1148:270)\n    at Object.g.<computed> (https://fw.adsafeprotected.com/rjss/www.googletagservices.com/412802/43532710/dcm/dcmads.js?adsafe_preview=&adsafe_pb=https%3A%2F%2Fassets.quantcount.com%2Fpsa%2Feu%2F300x600.js%3Faid%3DuqxqOKu3WSOQqU0kh_ZdO6eReTywpx8L9cw=%26accid%3Dp-zGBnqhxt9hYjZ%26cid%3D1794488:885:378)\n    at https://fw.adsafeprotected.com/rjss/www.googletagservices.com/412802/43532710/dcm/dcmads.js?adsafe_preview=&adsafe_pb=https%3A%2F%2Fassets.quantcount.com%2Fpsa%2Feu%2F300x600.js%3Faid%3DuqxqOKu3WSOQqU0kh_ZdO6eReTywpx8L9cw=%26accid%3Dp-zGBnqhxt9hYjZ%26cid%3D1794488:885:458\n    at G.each (https://fw.adsafeprotected.com/rjss/www.googletagservices.com/412802/43532710/dcm/dcmads.js?adsafe_preview=&adsafe_pb=https%3A%2F%2Fassets.quantcount.com%2Fpsa%2Feu%2F300x600.js%3Faid%3DuqxqOKu3WSOQqU0kh_ZdO6eReTywpx8L9cw=%26accid%3Dp-zGBnqhxt9hYjZ%26cid%3D1794488:855:244)\n    at Object.run (https://fw.adsafeprotected.com/rjss/www.googletagservices.com/412802/43532710/dcm/dcmads.js?adsafe_preview=&adsafe_pb=https%3A%2F%2Fassets.quantcount.com%2Fpsa%2Feu%2F300x600.js%3Faid%3DuqxqOKu3WSOQqU0kh_ZdO6eReTywpx8L9cw=%26accid%3Dp-zGBnqhxt9hYjZ%26cid%3D1794488:885:437)\n    at trigger (https://fw.adsafeprotected.com/rjss/www.googletagservices.com/412802/43532710/dcm/dcmads.js?adsafe_preview=&adsafe_pb=https%3A%2F%2Fassets.quantcount.com%2Fpsa%2Feu%2F300x600.js%3Faid%3DuqxqOKu3WSOQqU0kh_ZdO6eReTywpx8L9cw=%26accid%3Dp-zGBnqhxt9hYjZ%26cid%3D1794488:884:174)\n    at a (https://fw.adsafeprotected.com/rjss/www.googletagservices.com/412802/43532710/dcm/dcmads.js?adsafe_preview=&adsafe_pb=https%3A%2F%2Fassets.quantcount.com%2Fpsa%2Feu%2F300x600.js%3Faid%3DuqxqOKu3WSOQqU0kh_ZdO6eReTywpx8L9cw=%26accid%3Dp-zGBnqhxt9hYjZ%26cid%3D1794488:1167:89)\n    at sendEvent (https://static.adsafeprotected.com/xsca.17.4.85.js:31:11497)\n    at Object.w [as a267] (https://static.adsafeprotected.com/xsca.17.4.85.js:31:12347)\n    at Object.H [as a267] (https://static.adsafeprotected.com/xsca.17.4.85.js:31:15499)",
+        "objectId": "{\"injectedScriptId\":45,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot set property 'eyJ4diI6IjE3LjQuODUiLCJ0IjoxNTgzMDExMzY1MjY3fQ--' of undefined\n    at Object.m (https://fw.adsafeprotected.com/rjss/www.googletagservices.com/412802/43532710/dcm/dcmads.js?adsafe_preview=&adsafe_pb=https%3A%2F%2Fassets.quantcount.com%2Fpsa%2Feu%2F300x600.js%3Faid%3DuqxqOKu3WSOQqU0kh_ZdO6eReTywpx8L9cw=%26accid%3Dp-zGBnqhxt9hYjZ%26cid%3D1794488:1148:270)\n    at Object.g.<computed> (https://fw.adsafeprotected.com/rjss/www.googletagservices.com/412802/43532710/dcm/dcmads.js?adsafe_preview=&adsafe_pb=https%3A%2F%2Fassets.quantcount.com%2Fpsa%2Feu%2F300x600.js%3Faid%3DuqxqOKu3WSOQqU0kh_ZdO6eReTywpx8L9cw=%26accid%3Dp-zGBnqhxt9hYjZ%26cid%3D1794488:885:378)\n    at https://fw.adsafeprotected.com/rjss/www.googletagservices.com/412802/43532710/dcm/dcmads.js?adsafe_preview=&adsafe_pb=https%3A%2F%2Fassets.quantcount.com%2Fpsa%2Feu%2F300x600.js%3Faid%3DuqxqOKu3WSOQqU0kh_ZdO6eReTywpx8L9cw=%26accid%3Dp-zGBnqhxt9hYjZ%26cid%3D1794488:885:458\n    at G.each (https://fw.adsafeprotected.com/rjss/www.googletagservices.com/412802/43532710/dcm/dcmads.js?adsafe_preview=&adsafe_pb=https%3A%2F%2Fassets.quantcount.com%2Fpsa%2Feu%2F300x600.js%3Faid%3DuqxqOKu3WSOQqU0kh_ZdO6eReTywpx8L9cw=%26accid%3Dp-zGBnqhxt9hYjZ%26cid%3D1794488:855:244)\n    at Object.run (https://fw.adsafeprotected.com/rjss/www.googletagservices.com/412802/43532710/dcm/dcmads.js?adsafe_preview=&adsafe_pb=https%3A%2F%2Fassets.quantcount.com%2Fpsa%2Feu%2F300x600.js%3Faid%3DuqxqOKu3WSOQqU0kh_ZdO6eReTywpx8L9cw=%26accid%3Dp-zGBnqhxt9hYjZ%26cid%3D1794488:885:437)\n    at trigger (https://fw.adsafeprotected.com/rjss/www.googletagservices.com/412802/43532710/dcm/dcmads.js?adsafe_preview=&adsafe_pb=https%3A%2F%2Fassets.quantcount.com%2Fpsa%2Feu%2F300x600.js%3Faid%3DuqxqOKu3WSOQqU0kh_ZdO6eReTywpx8L9cw=%26accid%3Dp-zGBnqhxt9hYjZ%26cid%3D1794488:884:174)\n    at a (https://fw.adsafeprotected.com/rjss/www.googletagservices.com/412802/43532710/dcm/dcmads.js?adsafe_preview=&adsafe_pb=https%3A%2F%2Fassets.quantcount.com%2Fpsa%2Feu%2F300x600.js%3Faid%3DuqxqOKu3WSOQqU0kh_ZdO6eReTywpx8L9cw=%26accid%3Dp-zGBnqhxt9hYjZ%26cid%3D1794488:1167:89)\n    at sendEvent (https://static.adsafeprotected.com/xsca.17.4.85.js:31:11497)\n    at Object.w [as a267] (https://static.adsafeprotected.com/xsca.17.4.85.js:31:12347)\n    at Object.H [as a267] (https://static.adsafeprotected.com/xsca.17.4.85.js:31:15499)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot set property 'eyJ4diI6IjE3LjQuOD…tic.adsafeprotected.com/xsca.17.4.85.js:31:15499)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot set property 'eyJ4diI6IjE3LjQuODUiLCJ0IjoxNTgzMDExMzY1MjY3fQ--' of undefined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 45
+    }
+  },
+  {
+    "timestamp": 1583011365379.618,
+    "exceptionDetails": {
+      "exceptionId": 2,
+      "text": "Uncaught (in promise)",
+      "lineNumber": 1147,
+      "columnNumber": 269,
+      "url": "https://fw.adsafeprotected.com/rjss/www.googletagservices.com/412802/43532710/dcm/dcmads.js?adsafe_preview=&adsafe_pb=https%3A%2F%2Fassets.quantcount.com%2Fpsa%2Feu%2F300x600.js%3Faid%3DuqxqOKu3WSOQqU0kh_ZdO6eReTywpx8L9cw=%26accid%3Dp-zGBnqhxt9hYjZ%26cid%3D1794488",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "m",
+            "scriptId": "125",
+            "url": "https://fw.adsafeprotected.com/rjss/www.googletagservices.com/412802/43532710/dcm/dcmads.js?adsafe_preview=&adsafe_pb=https%3A%2F%2Fassets.quantcount.com%2Fpsa%2Feu%2F300x600.js%3Faid%3DuqxqOKu3WSOQqU0kh_ZdO6eReTywpx8L9cw=%26accid%3Dp-zGBnqhxt9hYjZ%26cid%3D1794488",
+            "lineNumber": 1147,
+            "columnNumber": 269
+          },
+          {
+            "functionName": "g.<computed>",
+            "scriptId": "125",
+            "url": "https://fw.adsafeprotected.com/rjss/www.googletagservices.com/412802/43532710/dcm/dcmads.js?adsafe_preview=&adsafe_pb=https%3A%2F%2Fassets.quantcount.com%2Fpsa%2Feu%2F300x600.js%3Faid%3DuqxqOKu3WSOQqU0kh_ZdO6eReTywpx8L9cw=%26accid%3Dp-zGBnqhxt9hYjZ%26cid%3D1794488",
+            "lineNumber": 884,
+            "columnNumber": 377
+          },
+          {
+            "functionName": "",
+            "scriptId": "125",
+            "url": "https://fw.adsafeprotected.com/rjss/www.googletagservices.com/412802/43532710/dcm/dcmads.js?adsafe_preview=&adsafe_pb=https%3A%2F%2Fassets.quantcount.com%2Fpsa%2Feu%2F300x600.js%3Faid%3DuqxqOKu3WSOQqU0kh_ZdO6eReTywpx8L9cw=%26accid%3Dp-zGBnqhxt9hYjZ%26cid%3D1794488",
+            "lineNumber": 884,
+            "columnNumber": 457
+          },
+          {
+            "functionName": "G.each",
+            "scriptId": "125",
+            "url": "https://fw.adsafeprotected.com/rjss/www.googletagservices.com/412802/43532710/dcm/dcmads.js?adsafe_preview=&adsafe_pb=https%3A%2F%2Fassets.quantcount.com%2Fpsa%2Feu%2F300x600.js%3Faid%3DuqxqOKu3WSOQqU0kh_ZdO6eReTywpx8L9cw=%26accid%3Dp-zGBnqhxt9hYjZ%26cid%3D1794488",
+            "lineNumber": 854,
+            "columnNumber": 243
+          },
+          {
+            "functionName": "run",
+            "scriptId": "125",
+            "url": "https://fw.adsafeprotected.com/rjss/www.googletagservices.com/412802/43532710/dcm/dcmads.js?adsafe_preview=&adsafe_pb=https%3A%2F%2Fassets.quantcount.com%2Fpsa%2Feu%2F300x600.js%3Faid%3DuqxqOKu3WSOQqU0kh_ZdO6eReTywpx8L9cw=%26accid%3Dp-zGBnqhxt9hYjZ%26cid%3D1794488",
+            "lineNumber": 884,
+            "columnNumber": 436
+          },
+          {
+            "functionName": "trigger",
+            "scriptId": "125",
+            "url": "https://fw.adsafeprotected.com/rjss/www.googletagservices.com/412802/43532710/dcm/dcmads.js?adsafe_preview=&adsafe_pb=https%3A%2F%2Fassets.quantcount.com%2Fpsa%2Feu%2F300x600.js%3Faid%3DuqxqOKu3WSOQqU0kh_ZdO6eReTywpx8L9cw=%26accid%3Dp-zGBnqhxt9hYjZ%26cid%3D1794488",
+            "lineNumber": 883,
+            "columnNumber": 173
+          },
+          {
+            "functionName": "a",
+            "scriptId": "125",
+            "url": "https://fw.adsafeprotected.com/rjss/www.googletagservices.com/412802/43532710/dcm/dcmads.js?adsafe_preview=&adsafe_pb=https%3A%2F%2Fassets.quantcount.com%2Fpsa%2Feu%2F300x600.js%3Faid%3DuqxqOKu3WSOQqU0kh_ZdO6eReTywpx8L9cw=%26accid%3Dp-zGBnqhxt9hYjZ%26cid%3D1794488",
+            "lineNumber": 1166,
+            "columnNumber": 88
+          },
+          {
+            "functionName": "sendEvent",
+            "scriptId": "163",
+            "url": "https://static.adsafeprotected.com/xsca.17.4.85.js",
+            "lineNumber": 30,
+            "columnNumber": 11496
+          },
+          {
+            "functionName": "w",
+            "scriptId": "163",
+            "url": "https://static.adsafeprotected.com/xsca.17.4.85.js",
+            "lineNumber": 30,
+            "columnNumber": 12346
+          },
+          {
+            "functionName": "H",
+            "scriptId": "163",
+            "url": "https://static.adsafeprotected.com/xsca.17.4.85.js",
+            "lineNumber": 30,
+            "columnNumber": 15498
+          },
+          {
+            "functionName": "k",
+            "scriptId": "163",
+            "url": "https://static.adsafeprotected.com/xsca.17.4.85.js",
+            "lineNumber": 31,
+            "columnNumber": 1546
+          },
+          {
+            "functionName": "",
+            "scriptId": "163",
+            "url": "https://static.adsafeprotected.com/xsca.17.4.85.js",
+            "lineNumber": 31,
+            "columnNumber": 1804
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot set property 'eyJtZGwiOlsiYXVkaW9pbnB1dHwyIiwiYXVkaW9vdXRwdXR8MiJdfQ--' of undefined\n    at Object.m (https://fw.adsafeprotected.com/rjss/www.googletagservices.com/412802/43532710/dcm/dcmads.js?adsafe_preview=&adsafe_pb=https%3A%2F%2Fassets.quantcount.com%2Fpsa%2Feu%2F300x600.js%3Faid%3DuqxqOKu3WSOQqU0kh_ZdO6eReTywpx8L9cw=%26accid%3Dp-zGBnqhxt9hYjZ%26cid%3D1794488:1148:270)\n    at Object.g.<computed> (https://fw.adsafeprotected.com/rjss/www.googletagservices.com/412802/43532710/dcm/dcmads.js?adsafe_preview=&adsafe_pb=https%3A%2F%2Fassets.quantcount.com%2Fpsa%2Feu%2F300x600.js%3Faid%3DuqxqOKu3WSOQqU0kh_ZdO6eReTywpx8L9cw=%26accid%3Dp-zGBnqhxt9hYjZ%26cid%3D1794488:885:378)\n    at https://fw.adsafeprotected.com/rjss/www.googletagservices.com/412802/43532710/dcm/dcmads.js?adsafe_preview=&adsafe_pb=https%3A%2F%2Fassets.quantcount.com%2Fpsa%2Feu%2F300x600.js%3Faid%3DuqxqOKu3WSOQqU0kh_ZdO6eReTywpx8L9cw=%26accid%3Dp-zGBnqhxt9hYjZ%26cid%3D1794488:885:458\n    at G.each (https://fw.adsafeprotected.com/rjss/www.googletagservices.com/412802/43532710/dcm/dcmads.js?adsafe_preview=&adsafe_pb=https%3A%2F%2Fassets.quantcount.com%2Fpsa%2Feu%2F300x600.js%3Faid%3DuqxqOKu3WSOQqU0kh_ZdO6eReTywpx8L9cw=%26accid%3Dp-zGBnqhxt9hYjZ%26cid%3D1794488:855:244)\n    at Object.run (https://fw.adsafeprotected.com/rjss/www.googletagservices.com/412802/43532710/dcm/dcmads.js?adsafe_preview=&adsafe_pb=https%3A%2F%2Fassets.quantcount.com%2Fpsa%2Feu%2F300x600.js%3Faid%3DuqxqOKu3WSOQqU0kh_ZdO6eReTywpx8L9cw=%26accid%3Dp-zGBnqhxt9hYjZ%26cid%3D1794488:885:437)\n    at trigger (https://fw.adsafeprotected.com/rjss/www.googletagservices.com/412802/43532710/dcm/dcmads.js?adsafe_preview=&adsafe_pb=https%3A%2F%2Fassets.quantcount.com%2Fpsa%2Feu%2F300x600.js%3Faid%3DuqxqOKu3WSOQqU0kh_ZdO6eReTywpx8L9cw=%26accid%3Dp-zGBnqhxt9hYjZ%26cid%3D1794488:884:174)\n    at a (https://fw.adsafeprotected.com/rjss/www.googletagservices.com/412802/43532710/dcm/dcmads.js?adsafe_preview=&adsafe_pb=https%3A%2F%2Fassets.quantcount.com%2Fpsa%2Feu%2F300x600.js%3Faid%3DuqxqOKu3WSOQqU0kh_ZdO6eReTywpx8L9cw=%26accid%3Dp-zGBnqhxt9hYjZ%26cid%3D1794488:1167:89)\n    at sendEvent (https://static.adsafeprotected.com/xsca.17.4.85.js:31:11497)\n    at Object.w [as a267] (https://static.adsafeprotected.com/xsca.17.4.85.js:31:12347)\n    at Object.H [as a267] (https://static.adsafeprotected.com/xsca.17.4.85.js:31:15499)",
+        "objectId": "{\"injectedScriptId\":45,\"id\":2}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot set property 'eyJtZGwiOlsiYXVkaW9pbnB1dHwyIiwiYXVkaW9vdXRwdXR8MiJdfQ--' of undefined\n    at Object.m (https://fw.adsafeprotected.com/rjss/www.googletagservices.com/412802/43532710/dcm/dcmads.js?adsafe_preview=&adsafe_pb=https%3A%2F%2Fassets.quantcount.com%2Fpsa%2Feu%2F300x600.js%3Faid%3DuqxqOKu3WSOQqU0kh_ZdO6eReTywpx8L9cw=%26accid%3Dp-zGBnqhxt9hYjZ%26cid%3D1794488:1148:270)\n    at Object.g.<computed> (https://fw.adsafeprotected.com/rjss/www.googletagservices.com/412802/43532710/dcm/dcmads.js?adsafe_preview=&adsafe_pb=https%3A%2F%2Fassets.quantcount.com%2Fpsa%2Feu%2F300x600.js%3Faid%3DuqxqOKu3WSOQqU0kh_ZdO6eReTywpx8L9cw=%26accid%3Dp-zGBnqhxt9hYjZ%26cid%3D1794488:885:378)\n    at https://fw.adsafeprotected.com/rjss/www.googletagservices.com/412802/43532710/dcm/dcmads.js?adsafe_preview=&adsafe_pb=https%3A%2F%2Fassets.quantcount.com%2Fpsa%2Feu%2F300x600.js%3Faid%3DuqxqOKu3WSOQqU0kh_ZdO6eReTywpx8L9cw=%26accid%3Dp-zGBnqhxt9hYjZ%26cid%3D1794488:885:458\n    at G.each (https://fw.adsafeprotected.com/rjss/www.googletagservices.com/412802/43532710/dcm/dcmads.js?adsafe_preview=&adsafe_pb=https%3A%2F%2Fassets.quantcount.com%2Fpsa%2Feu%2F300x600.js%3Faid%3DuqxqOKu3WSOQqU0kh_ZdO6eReTywpx8L9cw=%26accid%3Dp-zGBnqhxt9hYjZ%26cid%3D1794488:855:244)\n    at Object.run (https://fw.adsafeprotected.com/rjss/www.googletagservices.com/412802/43532710/dcm/dcmads.js?adsafe_preview=&adsafe_pb=https%3A%2F%2Fassets.quantcount.com%2Fpsa%2Feu%2F300x600.js%3Faid%3DuqxqOKu3WSOQqU0kh_ZdO6eReTywpx8L9cw=%26accid%3Dp-zGBnqhxt9hYjZ%26cid%3D1794488:885:437)\n    at trigger (https://fw.adsafeprotected.com/rjss/www.googletagservices.com/412802/43532710/dcm/dcmads.js?adsafe_preview=&adsafe_pb=https%3A%2F%2Fassets.quantcount.com%2Fpsa%2Feu%2F300x600.js%3Faid%3DuqxqOKu3WSOQqU0kh_ZdO6eReTywpx8L9cw=%26accid%3Dp-zGBnqhxt9hYjZ%26cid%3D1794488:884:174)\n    at a (https://fw.adsafeprotected.com/rjss/www.googletagservices.com/412802/43532710/dcm/dcmads.js?adsafe_preview=&adsafe_pb=https%3A%2F%2Fassets.quantcount.com%2Fpsa%2Feu%2F300x600.js%3Faid%3DuqxqOKu3WSOQqU0kh_ZdO6eReTywpx8L9cw=%26accid%3Dp-zGBnqhxt9hYjZ%26cid%3D1794488:1167:89)\n    at sendEvent (https://static.adsafeprotected.com/xsca.17.4.85.js:31:11497)\n    at Object.w [as a267] (https://static.adsafeprotected.com/xsca.17.4.85.js:31:12347)\n    at Object.H [as a267] (https://static.adsafeprotected.com/xsca.17.4.85.js:31:15499)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot set property 'eyJtZGwiOlsiYXVkaW…tic.adsafeprotected.com/xsca.17.4.85.js:31:15499)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot set property 'eyJtZGwiOlsiYXVkaW9pbnB1dHwyIiwiYXVkaW9vdXRwdXR8MiJdfQ--' of undefined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 45
+    }
+  }
+]

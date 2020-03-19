@@ -1,0 +1,180 @@
+[
+  {
+    "timestamp": 1583000623441.835,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 1,
+      "columnNumber": 1254,
+      "url": "https://www.editing.tw/wp-content/themes/wallace/js/vTicker.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "startInterval",
+            "scriptId": "15",
+            "url": "https://www.editing.tw/wp-content/themes/wallace/js/vTicker.js",
+            "lineNumber": 1,
+            "columnNumber": 1254
+          },
+          {
+            "functionName": "init",
+            "scriptId": "15",
+            "url": "https://www.editing.tw/wp-content/themes/wallace/js/vTicker.js",
+            "lineNumber": 1,
+            "columnNumber": 2267
+          },
+          {
+            "functionName": "d.fn.vTicker",
+            "scriptId": "15",
+            "url": "https://www.editing.tw/wp-content/themes/wallace/js/vTicker.js",
+            "lineNumber": 1,
+            "columnNumber": 3248
+          },
+          {
+            "functionName": "",
+            "scriptId": "38",
+            "url": "https://www.editing.tw/en/en",
+            "lineNumber": 413,
+            "columnNumber": 16
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'options' of undefined\n    at n.fn.init.startInterval (https://www.editing.tw/wp-content/themes/wallace/js/vTicker.js:2:1255)\n    at n.fn.init.init (https://www.editing.tw/wp-content/themes/wallace/js/vTicker.js:2:2268)\n    at n.fn.init.d.fn.vTicker (https://www.editing.tw/wp-content/themes/wallace/js/vTicker.js:2:3249)\n    at https://www.editing.tw/en/en:414:17",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'options' of undefined\n    at n.fn.init.startInterval (https://www.editing.tw/wp-content/themes/wallace/js/vTicker.js:2:1255)\n    at n.fn.init.init (https://www.editing.tw/wp-content/themes/wallace/js/vTicker.js:2:2268)\n    at n.fn.init.d.fn.vTicker (https://www.editing.tw/wp-content/themes/wallace/js/vTicker.js:2:3249)\n    at https://www.editing.tw/en/en:414:17",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'options' of undef…:3249)\n    at https://www.editing.tw/en/en:414:17"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'options' of undefined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583000623577.815,
+    "exceptionDetails": {
+      "exceptionId": 2,
+      "text": "Uncaught",
+      "lineNumber": 458,
+      "columnNumber": 42,
+      "url": "https://www.editing.tw/en/en",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "39",
+            "url": "https://www.editing.tw/en/en",
+            "lineNumber": 458,
+            "columnNumber": 42
+          },
+          {
+            "functionName": "dispatch",
+            "scriptId": "13",
+            "url": "https://www.editing.tw/wp-content/themes/wallace/js/jquery-2.1.4.min.js",
+            "lineNumber": 2,
+            "columnNumber": 6465
+          },
+          {
+            "functionName": "r.handle",
+            "scriptId": "13",
+            "url": "https://www.editing.tw/wp-content/themes/wallace/js/jquery-2.1.4.min.js",
+            "lineNumber": 2,
+            "columnNumber": 3240
+          },
+          {
+            "functionName": "trigger",
+            "scriptId": "13",
+            "url": "https://www.editing.tw/wp-content/themes/wallace/js/jquery-2.1.4.min.js",
+            "lineNumber": 2,
+            "columnNumber": 5573
+          },
+          {
+            "functionName": "ajax",
+            "scriptId": "13",
+            "url": "https://www.editing.tw/wp-content/themes/wallace/js/jquery-2.1.4.min.js",
+            "lineNumber": 3,
+            "columnNumber": 9699
+          },
+          {
+            "functionName": "",
+            "scriptId": "39",
+            "url": "https://www.editing.tw/en/en",
+            "lineNumber": 453,
+            "columnNumber": 6
+          },
+          {
+            "functionName": "j",
+            "scriptId": "13",
+            "url": "https://www.editing.tw/wp-content/themes/wallace/js/jquery-2.1.4.min.js",
+            "lineNumber": 1,
+            "columnNumber": 26924
+          },
+          {
+            "functionName": "fireWith",
+            "scriptId": "13",
+            "url": "https://www.editing.tw/wp-content/themes/wallace/js/jquery-2.1.4.min.js",
+            "lineNumber": 1,
+            "columnNumber": 27737
+          },
+          {
+            "functionName": "ready",
+            "scriptId": "13",
+            "url": "https://www.editing.tw/wp-content/themes/wallace/js/jquery-2.1.4.min.js",
+            "lineNumber": 1,
+            "columnNumber": 29531
+          },
+          {
+            "functionName": "I",
+            "scriptId": "13",
+            "url": "https://www.editing.tw/wp-content/themes/wallace/js/jquery-2.1.4.min.js",
+            "lineNumber": 1,
+            "columnNumber": 29722
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'removeChild' of null\n    at HTMLDocument.<anonymous> (https://www.editing.tw/en/en:459:43)\n    at HTMLDocument.dispatch (https://www.editing.tw/wp-content/themes/wallace/js/jquery-2.1.4.min.js:3:6466)\n    at HTMLDocument.r.handle (https://www.editing.tw/wp-content/themes/wallace/js/jquery-2.1.4.min.js:3:3241)\n    at Object.trigger (https://www.editing.tw/wp-content/themes/wallace/js/jquery-2.1.4.min.js:3:5574)\n    at Function.ajax (https://www.editing.tw/wp-content/themes/wallace/js/jquery-2.1.4.min.js:4:9700)\n    at HTMLDocument.<anonymous> (https://www.editing.tw/en/en:454:7)\n    at j (https://www.editing.tw/wp-content/themes/wallace/js/jquery-2.1.4.min.js:2:26925)\n    at Object.fireWith [as resolveWith] (https://www.editing.tw/wp-content/themes/wallace/js/jquery-2.1.4.min.js:2:27738)\n    at Function.ready (https://www.editing.tw/wp-content/themes/wallace/js/jquery-2.1.4.min.js:2:29532)\n    at HTMLDocument.I (https://www.editing.tw/wp-content/themes/wallace/js/jquery-2.1.4.min.js:2:29723)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":2}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'removeChild' of null\n    at HTMLDocument.<anonymous> (https://www.editing.tw/en/en:459:43)\n    at HTMLDocument.dispatch (https://www.editing.tw/wp-content/themes/wallace/js/jquery-2.1.4.min.js:3:6466)\n    at HTMLDocument.r.handle (https://www.editing.tw/wp-content/themes/wallace/js/jquery-2.1.4.min.js:3:3241)\n    at Object.trigger (https://www.editing.tw/wp-content/themes/wallace/js/jquery-2.1.4.min.js:3:5574)\n    at Function.ajax (https://www.editing.tw/wp-content/themes/wallace/js/jquery-2.1.4.min.js:4:9700)\n    at HTMLDocument.<anonymous> (https://www.editing.tw/en/en:454:7)\n    at j (https://www.editing.tw/wp-content/themes/wallace/js/jquery-2.1.4.min.js:2:26925)\n    at Object.fireWith [as resolveWith] (https://www.editing.tw/wp-content/themes/wallace/js/jquery-2.1.4.min.js:2:27738)\n    at Function.ready (https://www.editing.tw/wp-content/themes/wallace/js/jquery-2.1.4.min.js:2:29532)\n    at HTMLDocument.I (https://www.editing.tw/wp-content/themes/wallace/js/jquery-2.1.4.min.js:2:29723)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'removeChild' of n…nt/themes/wallace/js/jquery-2.1.4.min.js:2:29723)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'removeChild' of null"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

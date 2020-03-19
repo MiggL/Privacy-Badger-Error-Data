@@ -1,0 +1,49 @@
+[
+  {
+    "timestamp": 1582890196201.163,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 14816,
+      "columnNumber": 115,
+      "url": "https://www.macodirect.de/en/chemistry/black-white-chemistry/paper-developing/toner/4523/spur-liquid-farmer-500ml-a-500ml-b",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "31",
+            "url": "https://www.macodirect.de/en/chemistry/black-white-chemistry/paper-developing/toner/4523/spur-liquid-farmer-500ml-a-500ml-b",
+            "lineNumber": 14816,
+            "columnNumber": 115
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: Intedia_DooFinder_Tracker is not defined\n    at https://www.macodirect.de/en/chemistry/black-white-chemistry/paper-developing/toner/4523/spur-liquid-farmer-500ml-a-500ml-b:14817:116",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: Intedia_DooFinder_Tracker is not defined\n    at https://www.macodirect.de/en/chemistry/black-white-chemistry/paper-developing/toner/4523/spur-liquid-farmer-500ml-a-500ml-b:14817:116",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: Intedia_DooFinder_Tracker is not d…4523/spur-liquid-farmer-500ml-a-500ml-b:14817:116"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Intedia_DooFinder_Tracker is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

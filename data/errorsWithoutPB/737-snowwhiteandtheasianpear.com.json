@@ -1,0 +1,70 @@
+[
+  {
+    "timestamp": 1583006649543.458,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 3176,
+      "columnNumber": 65,
+      "url": "http://www.snowwhiteandtheasianpear.com/",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "30",
+            "url": "http://www.snowwhiteandtheasianpear.com/",
+            "lineNumber": 3176,
+            "columnNumber": 65
+          },
+          {
+            "functionName": "each",
+            "scriptId": "12",
+            "url": "http://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js",
+            "lineNumber": 1,
+            "columnNumber": 2880
+          },
+          {
+            "functionName": "each",
+            "scriptId": "12",
+            "url": "http://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js",
+            "lineNumber": 1,
+            "columnNumber": 845
+          },
+          {
+            "functionName": "",
+            "scriptId": "30",
+            "url": "http://www.snowwhiteandtheasianpear.com/",
+            "lineNumber": 3171,
+            "columnNumber": 17
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: selectnav is not defined\n    at HTMLDivElement.<anonymous> (http://www.snowwhiteandtheasianpear.com/:3177:66)\n    at Function.each (http://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js:2:2881)\n    at n.fn.init.each (http://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js:2:846)\n    at http://www.snowwhiteandtheasianpear.com/:3172:18",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: selectnav is not defined\n    at HTMLDivElement.<anonymous> (http://www.snowwhiteandtheasianpear.com/:3177:66)\n    at Function.each (http://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js:2:2881)\n    at n.fn.init.each (http://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js:2:846)\n    at http://www.snowwhiteandtheasianpear.com/:3172:18",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: selectnav is not defined\n    at HT… http://www.snowwhiteandtheasianpear.com/:3172:18"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "selectnav is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "timestamp": 1583421456199.83,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 11,
+      "columnNumber": 8,
+      "url": "http://coffeegeek.com/js/HTML/Rollover.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "RolloverInit",
+            "scriptId": "22",
+            "url": "http://coffeegeek.com/js/HTML/Rollover.js",
+            "lineNumber": 11,
+            "columnNumber": 8
+          },
+          {
+            "functionName": "",
+            "scriptId": "24",
+            "url": "http://coffeegeek.com/forums/coffee/homeroast/718754",
+            "lineNumber": 32,
+            "columnNumber": 0
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: isString is not defined\n    at RolloverInit (http://coffeegeek.com/js/HTML/Rollover.js:12:9)\n    at http://coffeegeek.com/forums/coffee/homeroast/718754:33:1",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: isString is not defined\n    at RolloverInit (http://coffeegeek.com/js/HTML/Rollover.js:12:9)\n    at http://coffeegeek.com/forums/coffee/homeroast/718754:33:1",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: isString is not defined\n    at Rol…offeegeek.com/forums/coffee/homeroast/718754:33:1"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "isString is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

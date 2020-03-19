@@ -1,0 +1,49 @@
+[
+  {
+    "timestamp": 1582922135429.1611,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 0,
+      "columnNumber": 2018,
+      "url": "https://www.notrefamille.com/dictionnaire/definition/criminalisable/",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "141",
+            "url": "https://www.notrefamille.com/dictionnaire/definition/criminalisable/",
+            "lineNumber": 0,
+            "columnNumber": 2018
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: osdlfm is not defined\n    at https://www.notrefamille.com/dictionnaire/definition/criminalisable/:1:2019",
+        "objectId": "{\"injectedScriptId\":31,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: osdlfm is not defined\n    at https://www.notrefamille.com/dictionnaire/definition/criminalisable/:1:2019",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: osdlfm is not defined\n    at https…om/dictionnaire/definition/criminalisable/:1:2019"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "osdlfm is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 31
+    }
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": 1582896592988.152,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 0,
+      "columnNumber": 7837,
+      "scriptId": "45",
+      "url": "https://toyartgallery.us1.list-manage.com/subscribe/xs-js?u=958184bb51b3b6330750b6851&id=cb54f40432",
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "SyntaxError",
+        "description": "SyntaxError: Unexpected end of input",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "SyntaxError: Unexpected end of input",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "SyntaxError: Unexpected end of input"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Unexpected end of input"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

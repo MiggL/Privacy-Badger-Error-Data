@@ -1,0 +1,56 @@
+[
+  {
+    "timestamp": 1583011061778.71,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 11,
+      "columnNumber": 51,
+      "url": "http://www.patisseriecarvindeli.com/squelettes/model_multi.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "mettreMenuOn",
+            "scriptId": "26",
+            "url": "http://www.patisseriecarvindeli.com/squelettes/model_multi.js",
+            "lineNumber": 11,
+            "columnNumber": 51
+          },
+          {
+            "functionName": "",
+            "scriptId": "27",
+            "url": "http://www.patisseriecarvindeli.com/-apples-sidewalks-raspberry-sidewalks-",
+            "lineNumber": 82,
+            "columnNumber": 8
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'getElementsByTagName' of null\n    at mettreMenuOn (http://www.patisseriecarvindeli.com/squelettes/model_multi.js:12:52)\n    at http://www.patisseriecarvindeli.com/-apples-sidewalks-raspberry-sidewalks-:83:9",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'getElementsByTagName' of null\n    at mettreMenuOn (http://www.patisseriecarvindeli.com/squelettes/model_multi.js:12:52)\n    at http://www.patisseriecarvindeli.com/-apples-sidewalks-raspberry-sidewalks-:83:9",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'getElementsByTagN…i.com/-apples-sidewalks-raspberry-sidewalks-:83:9"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'getElementsByTagName' of null"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

@@ -1,0 +1,224 @@
+[
+  {
+    "timestamp": 1582819007036.9539,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 48,
+      "columnNumber": 397,
+      "url": "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "l.da",
+            "scriptId": "13",
+            "url": "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js",
+            "lineNumber": 48,
+            "columnNumber": 397
+          },
+          {
+            "functionName": "wf",
+            "scriptId": "13",
+            "url": "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js",
+            "lineNumber": 56,
+            "columnNumber": 408
+          },
+          {
+            "functionName": "Ck",
+            "scriptId": "13",
+            "url": "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js",
+            "lineNumber": 183,
+            "columnNumber": 24
+          },
+          {
+            "functionName": "",
+            "scriptId": "33",
+            "url": "https://dicocitations.lemonde.fr/citation_auteur_ajout/82251.php",
+            "lineNumber": 262,
+            "columnNumber": 49
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "className": "N",
+        "description": "N",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "description": "N",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "message",
+              "type": "string",
+              "value": "adsbygoogle.push() error: Only one 'enable_page_level_ads' allowed per page."
+            },
+            {
+              "name": "name",
+              "type": "string",
+              "value": "TagError"
+            },
+            {
+              "name": "pbr",
+              "type": "boolean",
+              "value": "true"
+            },
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TagError: adsbygoogle.push() error: Only one 'enab…esyndication.com/pagead/js/adsbygoogle.js:57:409)"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1582819007059.988,
+    "exceptionDetails": {
+      "exceptionId": 2,
+      "text": "Uncaught",
+      "lineNumber": 0,
+      "columnNumber": 3957,
+      "url": "https://www.dicocitations.com/javascript.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "38",
+            "url": "https://www.dicocitations.com/javascript.js",
+            "lineNumber": 0,
+            "columnNumber": 3957
+          },
+          {
+            "functionName": "i",
+            "scriptId": "12",
+            "url": "https://code.jquery.com/jquery-1.12.4.min.js",
+            "lineNumber": 1,
+            "columnNumber": 27448
+          },
+          {
+            "functionName": "fireWith",
+            "scriptId": "12",
+            "url": "https://code.jquery.com/jquery-1.12.4.min.js",
+            "lineNumber": 1,
+            "columnNumber": 28212
+          },
+          {
+            "functionName": "ready",
+            "scriptId": "12",
+            "url": "https://code.jquery.com/jquery-1.12.4.min.js",
+            "lineNumber": 1,
+            "columnNumber": 30005
+          },
+          {
+            "functionName": "K",
+            "scriptId": "12",
+            "url": "https://code.jquery.com/jquery-1.12.4.min.js",
+            "lineNumber": 1,
+            "columnNumber": 30367
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: e(...).smoothMenu is not a function\n    at HTMLDocument.<anonymous> (https://www.dicocitations.com/javascript.js:1:3958)\n    at i (https://code.jquery.com/jquery-1.12.4.min.js:2:27449)\n    at Object.fireWith [as resolveWith] (https://code.jquery.com/jquery-1.12.4.min.js:2:28213)\n    at Function.ready (https://code.jquery.com/jquery-1.12.4.min.js:2:30006)\n    at HTMLDocument.K (https://code.jquery.com/jquery-1.12.4.min.js:2:30368)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":2}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: e(...).smoothMenu is not a function\n    at HTMLDocument.<anonymous> (https://www.dicocitations.com/javascript.js:1:3958)\n    at i (https://code.jquery.com/jquery-1.12.4.min.js:2:27449)\n    at Object.fireWith [as resolveWith] (https://code.jquery.com/jquery-1.12.4.min.js:2:28213)\n    at Function.ready (https://code.jquery.com/jquery-1.12.4.min.js:2:30006)\n    at HTMLDocument.K (https://code.jquery.com/jquery-1.12.4.min.js:2:30368)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: e(...).smoothMenu is not a function\n   …s://code.jquery.com/jquery-1.12.4.min.js:2:30368)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "e(...).smoothMenu is not a function"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1582819007278.127,
+    "exceptionDetails": {
+      "exceptionId": 3,
+      "text": "Uncaught",
+      "lineNumber": 164,
+      "columnNumber": 16,
+      "url": "https://s1.lemde.fr/media/js/lib/requirejs/require.446367255627.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "makeError",
+            "scriptId": "43",
+            "url": "https://s1.lemde.fr/media/js/lib/requirejs/require.446367255627.js",
+            "lineNumber": 164,
+            "columnNumber": 16
+          },
+          {
+            "functionName": "intakeDefines",
+            "scriptId": "43",
+            "url": "https://s1.lemde.fr/media/js/lib/requirejs/require.446367255627.js",
+            "lineNumber": 1254,
+            "columnNumber": 35
+          },
+          {
+            "functionName": "",
+            "scriptId": "43",
+            "url": "https://s1.lemde.fr/media/js/lib/requirejs/require.446367255627.js",
+            "lineNumber": 1444,
+            "columnNumber": 24
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "Error",
+        "description": "Error: Mismatched anonymous define() module: function(){return Z}\nhttp://requirejs.org/docs/errors.html#mismatch\n    at makeError (https://s1.lemde.fr/media/js/lib/requirejs/require.446367255627.js:165:17)\n    at intakeDefines (https://s1.lemde.fr/media/js/lib/requirejs/require.446367255627.js:1255:36)\n    at https://s1.lemde.fr/media/js/lib/requirejs/require.446367255627.js:1445:25",
+        "objectId": "{\"injectedScriptId\":3,\"id\":3}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "Error: Mismatched anonymous define() module: function(){return Z}\nhttp://requirejs.org/docs/errors.html#mismatch\n    at makeError (https://s1.lemde.fr/media/js/lib/requirejs/require.446367255627.js:165:17)\n    at intakeDefines (https://s1.lemde.fr/media/js/lib/requirejs/require.446367255627.js:1255:36)\n    at https://s1.lemde.fr/media/js/lib/requirejs/require.446367255627.js:1445:25",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "requireType",
+              "type": "string",
+              "value": "mismatch"
+            },
+            {
+              "name": "requireModules",
+              "type": "undefined",
+              "value": "undefined"
+            },
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "Error: Mismatched anonymous define() module: funct…/js/lib/requirejs/require.446367255627.js:1445:25"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Mismatched anonymous define() module: function(){r…Z}\nhttp://requirejs.org/docs/errors.html#mismatch"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

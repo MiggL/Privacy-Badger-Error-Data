@@ -1,0 +1,329 @@
+[
+  {
+    "timestamp": 1583421995808.1829,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 40,
+      "columnNumber": 6,
+      "scriptId": "25",
+      "url": "https://www.sec.gov/files/js/js_iuoa98xlt7_P2xUxP0b1mQ2SkDWXQpplcSX8jK8B2OA.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "Drupal.extlink.attach",
+            "scriptId": "28",
+            "url": "https://www.sec.gov/files/js/js_X9DlPOtbxaatb-y8pESv9mk-jJJYzqrOTfA8NuIopdo.js",
+            "lineNumber": 1031,
+            "columnNumber": 29
+          },
+          {
+            "functionName": "Drupal.behaviors.extlink.attach",
+            "scriptId": "28",
+            "url": "https://www.sec.gov/files/js/js_X9DlPOtbxaatb-y8pESv9mk-jJJYzqrOTfA8NuIopdo.js",
+            "lineNumber": 1236,
+            "columnNumber": 21
+          },
+          {
+            "functionName": "",
+            "scriptId": "25",
+            "url": "https://www.sec.gov/files/js/js_iuoa98xlt7_P2xUxP0b1mQ2SkDWXQpplcSX8jK8B2OA.js",
+            "lineNumber": 52,
+            "columnNumber": 23
+          },
+          {
+            "functionName": "Drupal.attachBehaviors",
+            "scriptId": "25",
+            "url": "https://www.sec.gov/files/js/js_iuoa98xlt7_P2xUxP0b1mQ2SkDWXQpplcSX8jK8B2OA.js",
+            "lineNumber": 49,
+            "columnNumber": 33
+          },
+          {
+            "functionName": "",
+            "scriptId": "25",
+            "url": "https://www.sec.gov/files/js/js_iuoa98xlt7_P2xUxP0b1mQ2SkDWXQpplcSX8jK8B2OA.js",
+            "lineNumber": 234,
+            "columnNumber": 11
+          },
+          {
+            "functionName": "t",
+            "scriptId": "25",
+            "url": "https://www.sec.gov/files/js/js_iuoa98xlt7_P2xUxP0b1mQ2SkDWXQpplcSX8jK8B2OA.js",
+            "lineNumber": 3,
+            "columnNumber": 380
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'hasOwnProperty' of undefined\n    at Object.Drupal.extlink.attach (https://www.sec.gov/files/js/js_X9DlPOtbxaatb-y8pESv9mk-jJJYzqrOTfA8NuIopdo.js:1032:30)\n    at Object.Drupal.behaviors.extlink.attach (https://www.sec.gov/files/js/js_X9DlPOtbxaatb-y8pESv9mk-jJJYzqrOTfA8NuIopdo.js:1237:22)\n    at https://www.sec.gov/files/js/js_iuoa98xlt7_P2xUxP0b1mQ2SkDWXQpplcSX8jK8B2OA.js:53:24\n    at Array.forEach (<anonymous>)\n    at Object.Drupal.attachBehaviors (https://www.sec.gov/files/js/js_iuoa98xlt7_P2xUxP0b1mQ2SkDWXQpplcSX8jK8B2OA.js:50:34)\n    at https://www.sec.gov/files/js/js_iuoa98xlt7_P2xUxP0b1mQ2SkDWXQpplcSX8jK8B2OA.js:235:12\n    at HTMLDocument.t (https://www.sec.gov/files/js/js_iuoa98xlt7_P2xUxP0b1mQ2SkDWXQpplcSX8jK8B2OA.js:4:381)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'hasOwnProperty' of undefined\n    at Object.Drupal.extlink.attach (https://www.sec.gov/files/js/js_X9DlPOtbxaatb-y8pESv9mk-jJJYzqrOTfA8NuIopdo.js:1032:30)\n    at Object.Drupal.behaviors.extlink.attach (https://www.sec.gov/files/js/js_X9DlPOtbxaatb-y8pESv9mk-jJJYzqrOTfA8NuIopdo.js:1237:22)\n    at https://www.sec.gov/files/js/js_iuoa98xlt7_P2xUxP0b1mQ2SkDWXQpplcSX8jK8B2OA.js:53:24\n    at Array.forEach (<anonymous>)\n    at Object.Drupal.attachBehaviors (https://www.sec.gov/files/js/js_iuoa98xlt7_P2xUxP0b1mQ2SkDWXQpplcSX8jK8B2OA.js:50:34)\n    at https://www.sec.gov/files/js/js_iuoa98xlt7_P2xUxP0b1mQ2SkDWXQpplcSX8jK8B2OA.js:235:12\n    at HTMLDocument.t (https://www.sec.gov/files/js/js_iuoa98xlt7_P2xUxP0b1mQ2SkDWXQpplcSX8jK8B2OA.js:4:381)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'hasOwnProperty' o…98xlt7_P2xUxP0b1mQ2SkDWXQpplcSX8jK8B2OA.js:4:381)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'hasOwnProperty' of undefined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583421996065.294,
+    "exceptionDetails": {
+      "exceptionId": 2,
+      "text": "Uncaught",
+      "lineNumber": 403,
+      "columnNumber": 33,
+      "url": "chrome-extension://pkehgijcmpdhfbdbbnkijodmdjhbjlgp/js/contentscripts/socialwidgets.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "39",
+            "url": "chrome-extension://pkehgijcmpdhfbdbbnkijodmdjhbjlgp/js/contentscripts/socialwidgets.js",
+            "lineNumber": 403,
+            "columnNumber": 33
+          },
+          {
+            "functionName": "_createReplacementButtonImageCallback",
+            "scriptId": "39",
+            "url": "chrome-extension://pkehgijcmpdhfbdbbnkijodmdjhbjlgp/js/contentscripts/socialwidgets.js",
+            "lineNumber": 169,
+            "columnNumber": 2
+          },
+          {
+            "functionName": "",
+            "scriptId": "39",
+            "url": "chrome-extension://pkehgijcmpdhfbdbbnkijodmdjhbjlgp/js/contentscripts/socialwidgets.js",
+            "lineNumber": 91,
+            "columnNumber": 6
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'replaceChild' of null\n    at chrome-extension://pkehgijcmpdhfbdbbnkijodmdjhbjlgp/js/contentscripts/socialwidgets.js:404:34\n    at _createReplacementButtonImageCallback (chrome-extension://pkehgijcmpdhfbdbbnkijodmdjhbjlgp/js/contentscripts/socialwidgets.js:170:3)\n    at chrome-extension://pkehgijcmpdhfbdbbnkijodmdjhbjlgp/js/contentscripts/socialwidgets.js:92:7",
+        "objectId": "{\"injectedScriptId\":5,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'replaceChild' of null\n    at chrome-extension://pkehgijcmpdhfbdbbnkijodmdjhbjlgp/js/contentscripts/socialwidgets.js:404:34\n    at _createReplacementButtonImageCallback (chrome-extension://pkehgijcmpdhfbdbbnkijodmdjhbjlgp/js/contentscripts/socialwidgets.js:170:3)\n    at chrome-extension://pkehgijcmpdhfbdbbnkijodmdjhbjlgp/js/contentscripts/socialwidgets.js:92:7",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'replaceChild' of …mdjhbjlgp/js/contentscripts/socialwidgets.js:92:7"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'replaceChild' of null"
+            }
+          ]
+        }
+      },
+      "executionContextId": 5
+    }
+  },
+  {
+    "timestamp": 1583421996066.2551,
+    "exceptionDetails": {
+      "exceptionId": 3,
+      "text": "Uncaught",
+      "lineNumber": 403,
+      "columnNumber": 33,
+      "url": "chrome-extension://pkehgijcmpdhfbdbbnkijodmdjhbjlgp/js/contentscripts/socialwidgets.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "39",
+            "url": "chrome-extension://pkehgijcmpdhfbdbbnkijodmdjhbjlgp/js/contentscripts/socialwidgets.js",
+            "lineNumber": 403,
+            "columnNumber": 33
+          },
+          {
+            "functionName": "_createReplacementButtonImageCallback",
+            "scriptId": "39",
+            "url": "chrome-extension://pkehgijcmpdhfbdbbnkijodmdjhbjlgp/js/contentscripts/socialwidgets.js",
+            "lineNumber": 169,
+            "columnNumber": 2
+          },
+          {
+            "functionName": "",
+            "scriptId": "39",
+            "url": "chrome-extension://pkehgijcmpdhfbdbbnkijodmdjhbjlgp/js/contentscripts/socialwidgets.js",
+            "lineNumber": 91,
+            "columnNumber": 6
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'replaceChild' of null\n    at chrome-extension://pkehgijcmpdhfbdbbnkijodmdjhbjlgp/js/contentscripts/socialwidgets.js:404:34\n    at _createReplacementButtonImageCallback (chrome-extension://pkehgijcmpdhfbdbbnkijodmdjhbjlgp/js/contentscripts/socialwidgets.js:170:3)\n    at chrome-extension://pkehgijcmpdhfbdbbnkijodmdjhbjlgp/js/contentscripts/socialwidgets.js:92:7",
+        "objectId": "{\"injectedScriptId\":5,\"id\":2}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'replaceChild' of null\n    at chrome-extension://pkehgijcmpdhfbdbbnkijodmdjhbjlgp/js/contentscripts/socialwidgets.js:404:34\n    at _createReplacementButtonImageCallback (chrome-extension://pkehgijcmpdhfbdbbnkijodmdjhbjlgp/js/contentscripts/socialwidgets.js:170:3)\n    at chrome-extension://pkehgijcmpdhfbdbbnkijodmdjhbjlgp/js/contentscripts/socialwidgets.js:92:7",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'replaceChild' of …mdjhbjlgp/js/contentscripts/socialwidgets.js:92:7"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'replaceChild' of null"
+            }
+          ]
+        }
+      },
+      "executionContextId": 5
+    }
+  },
+  {
+    "timestamp": 1583421996067.112,
+    "exceptionDetails": {
+      "exceptionId": 4,
+      "text": "Uncaught",
+      "lineNumber": 403,
+      "columnNumber": 33,
+      "url": "chrome-extension://pkehgijcmpdhfbdbbnkijodmdjhbjlgp/js/contentscripts/socialwidgets.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "39",
+            "url": "chrome-extension://pkehgijcmpdhfbdbbnkijodmdjhbjlgp/js/contentscripts/socialwidgets.js",
+            "lineNumber": 403,
+            "columnNumber": 33
+          },
+          {
+            "functionName": "_createReplacementButtonImageCallback",
+            "scriptId": "39",
+            "url": "chrome-extension://pkehgijcmpdhfbdbbnkijodmdjhbjlgp/js/contentscripts/socialwidgets.js",
+            "lineNumber": 169,
+            "columnNumber": 2
+          },
+          {
+            "functionName": "",
+            "scriptId": "39",
+            "url": "chrome-extension://pkehgijcmpdhfbdbbnkijodmdjhbjlgp/js/contentscripts/socialwidgets.js",
+            "lineNumber": 91,
+            "columnNumber": 6
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'replaceChild' of null\n    at chrome-extension://pkehgijcmpdhfbdbbnkijodmdjhbjlgp/js/contentscripts/socialwidgets.js:404:34\n    at _createReplacementButtonImageCallback (chrome-extension://pkehgijcmpdhfbdbbnkijodmdjhbjlgp/js/contentscripts/socialwidgets.js:170:3)\n    at chrome-extension://pkehgijcmpdhfbdbbnkijodmdjhbjlgp/js/contentscripts/socialwidgets.js:92:7",
+        "objectId": "{\"injectedScriptId\":5,\"id\":3}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'replaceChild' of null\n    at chrome-extension://pkehgijcmpdhfbdbbnkijodmdjhbjlgp/js/contentscripts/socialwidgets.js:404:34\n    at _createReplacementButtonImageCallback (chrome-extension://pkehgijcmpdhfbdbbnkijodmdjhbjlgp/js/contentscripts/socialwidgets.js:170:3)\n    at chrome-extension://pkehgijcmpdhfbdbbnkijodmdjhbjlgp/js/contentscripts/socialwidgets.js:92:7",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'replaceChild' of …mdjhbjlgp/js/contentscripts/socialwidgets.js:92:7"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'replaceChild' of null"
+            }
+          ]
+        }
+      },
+      "executionContextId": 5
+    }
+  },
+  {
+    "timestamp": 1583421996067.941,
+    "exceptionDetails": {
+      "exceptionId": 5,
+      "text": "Uncaught",
+      "lineNumber": 403,
+      "columnNumber": 33,
+      "url": "chrome-extension://pkehgijcmpdhfbdbbnkijodmdjhbjlgp/js/contentscripts/socialwidgets.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "39",
+            "url": "chrome-extension://pkehgijcmpdhfbdbbnkijodmdjhbjlgp/js/contentscripts/socialwidgets.js",
+            "lineNumber": 403,
+            "columnNumber": 33
+          },
+          {
+            "functionName": "_createReplacementButtonImageCallback",
+            "scriptId": "39",
+            "url": "chrome-extension://pkehgijcmpdhfbdbbnkijodmdjhbjlgp/js/contentscripts/socialwidgets.js",
+            "lineNumber": 169,
+            "columnNumber": 2
+          },
+          {
+            "functionName": "",
+            "scriptId": "39",
+            "url": "chrome-extension://pkehgijcmpdhfbdbbnkijodmdjhbjlgp/js/contentscripts/socialwidgets.js",
+            "lineNumber": 91,
+            "columnNumber": 6
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'replaceChild' of null\n    at chrome-extension://pkehgijcmpdhfbdbbnkijodmdjhbjlgp/js/contentscripts/socialwidgets.js:404:34\n    at _createReplacementButtonImageCallback (chrome-extension://pkehgijcmpdhfbdbbnkijodmdjhbjlgp/js/contentscripts/socialwidgets.js:170:3)\n    at chrome-extension://pkehgijcmpdhfbdbbnkijodmdjhbjlgp/js/contentscripts/socialwidgets.js:92:7",
+        "objectId": "{\"injectedScriptId\":5,\"id\":4}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'replaceChild' of null\n    at chrome-extension://pkehgijcmpdhfbdbbnkijodmdjhbjlgp/js/contentscripts/socialwidgets.js:404:34\n    at _createReplacementButtonImageCallback (chrome-extension://pkehgijcmpdhfbdbbnkijodmdjhbjlgp/js/contentscripts/socialwidgets.js:170:3)\n    at chrome-extension://pkehgijcmpdhfbdbbnkijodmdjhbjlgp/js/contentscripts/socialwidgets.js:92:7",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'replaceChild' of …mdjhbjlgp/js/contentscripts/socialwidgets.js:92:7"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'replaceChild' of null"
+            }
+          ]
+        }
+      },
+      "executionContextId": 5
+    }
+  }
+]

@@ -1,0 +1,446 @@
+[
+  {
+    "timestamp": 1583006797212.39,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 49,
+      "columnNumber": 6,
+      "url": "https://www.nytimes.com/interactive/2017/04/28/world/europe/syria-germany-weimar-refugee-homes.html",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "13",
+            "url": "https://www.nytimes.com/interactive/2017/04/28/world/europe/syria-germany-weimar-refugee-homes.html",
+            "lineNumber": 49,
+            "columnNumber": 6
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: NYTD is not defined\n    at https://www.nytimes.com/interactive/2017/04/28/world/europe/syria-germany-weimar-refugee-homes.html:50:7",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: NYTD is not defined\n    at https://www.nytimes.com/interactive/2017/04/28/world/europe/syria-germany-weimar-refugee-homes.html:50:7",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: NYTD is not defined\n    at https:/…rope/syria-germany-weimar-refugee-homes.html:50:7"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "NYTD is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583006798200.302,
+    "exceptionDetails": {
+      "exceptionId": 2,
+      "text": "Uncaught",
+      "lineNumber": 49,
+      "columnNumber": 6,
+      "url": "https://www.nytimes.com/interactive/2017/04/28/world/europe/syria-germany-weimar-refugee-homes.html?mtrref=undefined&gwh=99D158EA6CFE0783335DBD1DEEEF5FB9&gwt=pay&assetType=REGIWALL",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "59",
+            "url": "https://www.nytimes.com/interactive/2017/04/28/world/europe/syria-germany-weimar-refugee-homes.html?mtrref=undefined&gwh=99D158EA6CFE0783335DBD1DEEEF5FB9&gwt=pay&assetType=REGIWALL",
+            "lineNumber": 49,
+            "columnNumber": 6
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: NYTD is not defined\n    at https://www.nytimes.com/interactive/2017/04/28/world/europe/syria-germany-weimar-refugee-homes.html?mtrref=undefined&gwh=99D158EA6CFE0783335DBD1DEEEF5FB9&gwt=pay&assetType=REGIWALL:50:7",
+        "objectId": "{\"injectedScriptId\":7,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: NYTD is not defined\n    at https://www.nytimes.com/interactive/2017/04/28/world/europe/syria-germany-weimar-refugee-homes.html?mtrref=undefined&gwh=99D158EA6CFE0783335DBD1DEEEF5FB9&gwt=pay&assetType=REGIWALL:50:7",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: NYTD is not defined\n    at https:/…3335DBD1DEEEF5FB9&gwt=pay&assetType=REGIWALL:50:7"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "NYTD is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 7
+    }
+  },
+  {
+    "timestamp": 1583006799131.721,
+    "exceptionDetails": {
+      "exceptionId": 3,
+      "text": "Uncaught",
+      "lineNumber": 2,
+      "columnNumber": 4883,
+      "url": "https://static01.nyt.com/js/mtr.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "r",
+            "scriptId": "40",
+            "url": "https://static01.nyt.com/js/mtr.js",
+            "lineNumber": 2,
+            "columnNumber": 4883
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: n is not a function\n    at r (https://static01.nyt.com/js/mtr.js:3:4884)",
+        "objectId": "{\"injectedScriptId\":7,\"id\":2}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: n is not a function\n    at r (https://static01.nyt.com/js/mtr.js:3:4884)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: n is not a function\n    at r (https://static01.nyt.com/js/mtr.js:3:4884)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "n is not a function"
+            }
+          ]
+        }
+      },
+      "executionContextId": 7
+    }
+  },
+  {
+    "timestamp": 1583006799983.155,
+    "exceptionDetails": {
+      "exceptionId": 4,
+      "text": "Uncaught (in promise)",
+      "lineNumber": 9,
+      "columnNumber": 782,
+      "url": "https://static01.nyt.com/video/vhs/build/vhs-2.x.min.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "initializeFirstPlay",
+            "scriptId": "105",
+            "url": "https://static01.nyt.com/video/vhs/build/vhs-2.x.min.js",
+            "lineNumber": 9,
+            "columnNumber": 782
+          },
+          {
+            "functionName": "playOverride",
+            "scriptId": "105",
+            "url": "https://static01.nyt.com/video/vhs/build/vhs-2.x.min.js",
+            "lineNumber": 9,
+            "columnNumber": 157
+          },
+          {
+            "functionName": "ready",
+            "scriptId": "105",
+            "url": "https://static01.nyt.com/video/vhs/build/vhs-2.x.min.js",
+            "lineNumber": 10,
+            "columnNumber": 28688
+          },
+          {
+            "functionName": "",
+            "scriptId": "52",
+            "url": "https://static01.nyt.com/newsgraphics/2017/01/30/weimar/9ebca33131121a2d8a5061bb3ccf14b66261a76c/build.js",
+            "lineNumber": 56,
+            "columnNumber": 22107
+          },
+          {
+            "functionName": "a.trigger",
+            "scriptId": "105",
+            "url": "https://static01.nyt.com/video/vhs/build/vhs-2.x.min.js",
+            "lineNumber": 11,
+            "columnNumber": 6400
+          },
+          {
+            "functionName": "updateInViewport",
+            "scriptId": "105",
+            "url": "https://static01.nyt.com/video/vhs/build/vhs-2.x.min.js",
+            "lineNumber": 11,
+            "columnNumber": 3995
+          },
+          {
+            "functionName": "dispatch",
+            "scriptId": "23",
+            "url": "https://www.nytimes.com/vi-assets/static-assets/nyt5/20190823-143533-mbipe/js/foundation/main.js",
+            "lineNumber": 75,
+            "columnNumber": 14385
+          },
+          {
+            "functionName": "m.handle",
+            "scriptId": "23",
+            "url": "https://www.nytimes.com/vi-assets/static-assets/nyt5/20190823-143533-mbipe/js/foundation/main.js",
+            "lineNumber": 75,
+            "columnNumber": 11152
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "DOMException",
+        "description": "DOMException: play() failed because the user didn't interact with the document first. https://goo.gl/xX8pDD",
+        "objectId": "{\"injectedScriptId\":7,\"id\":3}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "DOMException: play() failed because the user didn't interact with the document first. https://goo.gl/xX8pDD",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "code",
+              "type": "number",
+              "value": "0"
+            },
+            {
+              "name": "name",
+              "type": "string",
+              "value": "NotAllowedError"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "play() failed because the user didn't interact with the document first. https://goo.gl/xX8pDD"
+            }
+          ]
+        }
+      },
+      "executionContextId": 7
+    }
+  },
+  {
+    "timestamp": 1583006799983.48,
+    "exceptionDetails": {
+      "exceptionId": 5,
+      "text": "Uncaught (in promise)",
+      "lineNumber": 9,
+      "columnNumber": 782,
+      "url": "https://static01.nyt.com/video/vhs/build/vhs-2.x.min.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "initializeFirstPlay",
+            "scriptId": "105",
+            "url": "https://static01.nyt.com/video/vhs/build/vhs-2.x.min.js",
+            "lineNumber": 9,
+            "columnNumber": 782
+          },
+          {
+            "functionName": "playOverride",
+            "scriptId": "105",
+            "url": "https://static01.nyt.com/video/vhs/build/vhs-2.x.min.js",
+            "lineNumber": 9,
+            "columnNumber": 157
+          },
+          {
+            "functionName": "ready",
+            "scriptId": "105",
+            "url": "https://static01.nyt.com/video/vhs/build/vhs-2.x.min.js",
+            "lineNumber": 10,
+            "columnNumber": 28688
+          },
+          {
+            "functionName": "",
+            "scriptId": "52",
+            "url": "https://static01.nyt.com/newsgraphics/2017/01/30/weimar/9ebca33131121a2d8a5061bb3ccf14b66261a76c/build.js",
+            "lineNumber": 56,
+            "columnNumber": 22107
+          },
+          {
+            "functionName": "a.trigger",
+            "scriptId": "105",
+            "url": "https://static01.nyt.com/video/vhs/build/vhs-2.x.min.js",
+            "lineNumber": 11,
+            "columnNumber": 6400
+          },
+          {
+            "functionName": "updateInViewport",
+            "scriptId": "105",
+            "url": "https://static01.nyt.com/video/vhs/build/vhs-2.x.min.js",
+            "lineNumber": 11,
+            "columnNumber": 3995
+          },
+          {
+            "functionName": "dispatch",
+            "scriptId": "23",
+            "url": "https://www.nytimes.com/vi-assets/static-assets/nyt5/20190823-143533-mbipe/js/foundation/main.js",
+            "lineNumber": 75,
+            "columnNumber": 14385
+          },
+          {
+            "functionName": "m.handle",
+            "scriptId": "23",
+            "url": "https://www.nytimes.com/vi-assets/static-assets/nyt5/20190823-143533-mbipe/js/foundation/main.js",
+            "lineNumber": 75,
+            "columnNumber": 11152
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "DOMException",
+        "description": "DOMException: play() failed because the user didn't interact with the document first. https://goo.gl/xX8pDD",
+        "objectId": "{\"injectedScriptId\":7,\"id\":4}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "DOMException: play() failed because the user didn't interact with the document first. https://goo.gl/xX8pDD",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "code",
+              "type": "number",
+              "value": "0"
+            },
+            {
+              "name": "name",
+              "type": "string",
+              "value": "NotAllowedError"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "play() failed because the user didn't interact with the document first. https://goo.gl/xX8pDD"
+            }
+          ]
+        }
+      },
+      "executionContextId": 7
+    }
+  },
+  {
+    "timestamp": 1583006799983.687,
+    "exceptionDetails": {
+      "exceptionId": 6,
+      "text": "Uncaught (in promise)",
+      "lineNumber": 9,
+      "columnNumber": 782,
+      "url": "https://static01.nyt.com/video/vhs/build/vhs-2.x.min.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "initializeFirstPlay",
+            "scriptId": "105",
+            "url": "https://static01.nyt.com/video/vhs/build/vhs-2.x.min.js",
+            "lineNumber": 9,
+            "columnNumber": 782
+          },
+          {
+            "functionName": "playOverride",
+            "scriptId": "105",
+            "url": "https://static01.nyt.com/video/vhs/build/vhs-2.x.min.js",
+            "lineNumber": 9,
+            "columnNumber": 157
+          },
+          {
+            "functionName": "ready",
+            "scriptId": "105",
+            "url": "https://static01.nyt.com/video/vhs/build/vhs-2.x.min.js",
+            "lineNumber": 10,
+            "columnNumber": 28688
+          },
+          {
+            "functionName": "",
+            "scriptId": "52",
+            "url": "https://static01.nyt.com/newsgraphics/2017/01/30/weimar/9ebca33131121a2d8a5061bb3ccf14b66261a76c/build.js",
+            "lineNumber": 56,
+            "columnNumber": 22107
+          },
+          {
+            "functionName": "a.trigger",
+            "scriptId": "105",
+            "url": "https://static01.nyt.com/video/vhs/build/vhs-2.x.min.js",
+            "lineNumber": 11,
+            "columnNumber": 6400
+          },
+          {
+            "functionName": "updateInViewport",
+            "scriptId": "105",
+            "url": "https://static01.nyt.com/video/vhs/build/vhs-2.x.min.js",
+            "lineNumber": 11,
+            "columnNumber": 3995
+          },
+          {
+            "functionName": "dispatch",
+            "scriptId": "23",
+            "url": "https://www.nytimes.com/vi-assets/static-assets/nyt5/20190823-143533-mbipe/js/foundation/main.js",
+            "lineNumber": 75,
+            "columnNumber": 14385
+          },
+          {
+            "functionName": "m.handle",
+            "scriptId": "23",
+            "url": "https://www.nytimes.com/vi-assets/static-assets/nyt5/20190823-143533-mbipe/js/foundation/main.js",
+            "lineNumber": 75,
+            "columnNumber": 11152
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "DOMException",
+        "description": "DOMException: play() failed because the user didn't interact with the document first. https://goo.gl/xX8pDD",
+        "objectId": "{\"injectedScriptId\":7,\"id\":5}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "DOMException: play() failed because the user didn't interact with the document first. https://goo.gl/xX8pDD",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "code",
+              "type": "number",
+              "value": "0"
+            },
+            {
+              "name": "name",
+              "type": "string",
+              "value": "NotAllowedError"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "play() failed because the user didn't interact with the document first. https://goo.gl/xX8pDD"
+            }
+          ]
+        }
+      },
+      "executionContextId": 7
+    }
+  }
+]

@@ -1,0 +1,86 @@
+[
+  {
+    "timestamp": 1583751644546.721,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 120,
+      "columnNumber": 31,
+      "url": "https://www.extremesailingseries.com/gallery/view/act-5-st-petersburg-2016",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "28",
+            "url": "https://www.extremesailingseries.com/gallery/view/act-5-st-petersburg-2016",
+            "lineNumber": 120,
+            "columnNumber": 31
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: stLight is not defined\n    at https://www.extremesailingseries.com/gallery/view/act-5-st-petersburg-2016:121:32",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: stLight is not defined\n    at https://www.extremesailingseries.com/gallery/view/act-5-st-petersburg-2016:121:32",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: stLight is not defined\n    at http….com/gallery/view/act-5-st-petersburg-2016:121:32"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "stLight is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583751644620.477,
+    "exceptionDetails": {
+      "exceptionId": 2,
+      "text": "Uncaught",
+      "lineNumber": 3,
+      "columnNumber": 17879,
+      "scriptId": "30",
+      "url": "https://www.extremesailingseries.com/node_modules/popper.js/dist/popper.min.js",
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "SyntaxError",
+        "description": "SyntaxError: Unexpected token 'export'",
+        "objectId": "{\"injectedScriptId\":3,\"id\":2}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "SyntaxError: Unexpected token 'export'",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "SyntaxError: Unexpected token 'export'"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Unexpected token 'export'"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

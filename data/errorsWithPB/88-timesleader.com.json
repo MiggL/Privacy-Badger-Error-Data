@@ -1,0 +1,112 @@
+[
+  {
+    "timestamp": 1583758512890.964,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 0,
+      "columnNumber": 8011,
+      "url": "https://cdn.flowplayer.com/releases/native/stable/plugins/chromecast.min.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "50",
+            "url": "https://cdn.flowplayer.com/releases/native/stable/plugins/chromecast.min.js",
+            "lineNumber": 0,
+            "columnNumber": 8011
+          },
+          {
+            "functionName": "c._apply",
+            "scriptId": "50",
+            "url": "https://cdn.flowplayer.com/releases/native/stable/plugins/chromecast.min.js",
+            "lineNumber": 0,
+            "columnNumber": 1460
+          },
+          {
+            "functionName": "c.maybe",
+            "scriptId": "50",
+            "url": "https://cdn.flowplayer.com/releases/native/stable/plugins/chromecast.min.js",
+            "lineNumber": 0,
+            "columnNumber": 1734
+          },
+          {
+            "functionName": "t.into.t.fmap",
+            "scriptId": "50",
+            "url": "https://cdn.flowplayer.com/releases/native/stable/plugins/chromecast.min.js",
+            "lineNumber": 0,
+            "columnNumber": 1255
+          },
+          {
+            "functionName": "",
+            "scriptId": "50",
+            "url": "https://cdn.flowplayer.com/releases/native/stable/plugins/chromecast.min.js",
+            "lineNumber": 0,
+            "columnNumber": 7920
+          },
+          {
+            "functionName": "K.window.<computed>",
+            "scriptId": "50",
+            "url": "https://cdn.flowplayer.com/releases/native/stable/plugins/chromecast.min.js",
+            "lineNumber": 0,
+            "columnNumber": 8246
+          },
+          {
+            "functionName": "b",
+            "scriptId": "85",
+            "url": "https://www.gstatic.com/cv/js/sender/v1/cast_sender.js?loadCastFramework=1",
+            "lineNumber": 1,
+            "columnNumber": 316
+          },
+          {
+            "functionName": "n",
+            "scriptId": "85",
+            "url": "https://www.gstatic.com/cv/js/sender/v1/cast_sender.js?loadCastFramework=1",
+            "lineNumber": 1,
+            "columnNumber": 224
+          },
+          {
+            "functionName": "m",
+            "scriptId": "85",
+            "url": "https://www.gstatic.com/cv/js/sender/v1/cast_sender.js?loadCastFramework=1",
+            "lineNumber": 0,
+            "columnNumber": 509
+          },
+          {
+            "functionName": "",
+            "scriptId": "85",
+            "url": "https://www.gstatic.com/cv/js/sender/v1/cast_sender.js?loadCastFramework=1",
+            "lineNumber": 0,
+            "columnNumber": 502
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'AutoJoinPolicy' of undefined\n    at https://cdn.flowplayer.com/releases/native/stable/plugins/chromecast.min.js:1:8012\n    at Function.c._apply (https://cdn.flowplayer.com/releases/native/stable/plugins/chromecast.min.js:1:1461)\n    at c.maybe (https://cdn.flowplayer.com/releases/native/stable/plugins/chromecast.min.js:1:1735)\n    at c.t.into.t.fmap (https://cdn.flowplayer.com/releases/native/stable/plugins/chromecast.min.js:1:1256)\n    at https://cdn.flowplayer.com/releases/native/stable/plugins/chromecast.min.js:1:7921\n    at K.window.<computed> (https://cdn.flowplayer.com/releases/native/stable/plugins/chromecast.min.js:1:8247)\n    at b (https://www.gstatic.com/cv/js/sender/v1/cast_sender.js?loadCastFramework=1:2:317)\n    at n (https://www.gstatic.com/cv/js/sender/v1/cast_sender.js?loadCastFramework=1:2:225)\n    at m (https://www.gstatic.com/cv/js/sender/v1/cast_sender.js?loadCastFramework=1:1:510)\n    at HTMLScriptElement.<anonymous> (https://www.gstatic.com/cv/js/sender/v1/cast_sender.js?loadCastFramework=1:1:503)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'AutoJoinPolicy' of undefined\n    at https://cdn.flowplayer.com/releases/native/stable/plugins/chromecast.min.js:1:8012\n    at Function.c._apply (https://cdn.flowplayer.com/releases/native/stable/plugins/chromecast.min.js:1:1461)\n    at c.maybe (https://cdn.flowplayer.com/releases/native/stable/plugins/chromecast.min.js:1:1735)\n    at c.t.into.t.fmap (https://cdn.flowplayer.com/releases/native/stable/plugins/chromecast.min.js:1:1256)\n    at https://cdn.flowplayer.com/releases/native/stable/plugins/chromecast.min.js:1:7921\n    at K.window.<computed> (https://cdn.flowplayer.com/releases/native/stable/plugins/chromecast.min.js:1:8247)\n    at b (https://www.gstatic.com/cv/js/sender/v1/cast_sender.js?loadCastFramework=1:2:317)\n    at n (https://www.gstatic.com/cv/js/sender/v1/cast_sender.js?loadCastFramework=1:2:225)\n    at m (https://www.gstatic.com/cv/js/sender/v1/cast_sender.js?loadCastFramework=1:1:510)\n    at HTMLScriptElement.<anonymous> (https://www.gstatic.com/cv/js/sender/v1/cast_sender.js?loadCastFramework=1:1:503)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'AutoJoinPolicy' o…nder/v1/cast_sender.js?loadCastFramework=1:1:503)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'AutoJoinPolicy' of undefined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

@@ -1,0 +1,185 @@
+[
+  {
+    "timestamp": 1583425334848.898,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 1276,
+      "columnNumber": 22,
+      "url": "https://www.newshub.co.nz/home/health/2017/04/chocolate-fundraising-faces-chop-by-government-advisor.html",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "39",
+            "url": "https://www.newshub.co.nz/home/health/2017/04/chocolate-fundraising-faces-chop-by-government-advisor.html",
+            "lineNumber": 1276,
+            "columnNumber": 22
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: googletag.display is not a function\n    at https://www.newshub.co.nz/home/health/2017/04/chocolate-fundraising-faces-chop-by-government-advisor.html:1277:23",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: googletag.display is not a function\n    at https://www.newshub.co.nz/home/health/2017/04/chocolate-fundraising-faces-chop-by-government-advisor.html:1277:23",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: googletag.display is not a function\n   …ing-faces-chop-by-government-advisor.html:1277:23"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "googletag.display is not a function"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583425335057.851,
+    "exceptionDetails": {
+      "exceptionId": 2,
+      "text": "Uncaught",
+      "lineNumber": 1316,
+      "columnNumber": 12,
+      "url": "https://www.newshub.co.nz/home/health/2017/04/chocolate-fundraising-faces-chop-by-government-advisor.html",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "56",
+            "url": "https://www.newshub.co.nz/home/health/2017/04/chocolate-fundraising-faces-chop-by-government-advisor.html",
+            "lineNumber": 1316,
+            "columnNumber": 12
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: nol_t is not defined\n    at https://www.newshub.co.nz/home/health/2017/04/chocolate-fundraising-faces-chop-by-government-advisor.html:1317:13",
+        "objectId": "{\"injectedScriptId\":3,\"id\":2}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: nol_t is not defined\n    at https://www.newshub.co.nz/home/health/2017/04/chocolate-fundraising-faces-chop-by-government-advisor.html:1317:13",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: nol_t is not defined\n    at https:…ing-faces-chop-by-government-advisor.html:1317:13"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "nol_t is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583425335078.809,
+    "exceptionDetails": {
+      "exceptionId": 3,
+      "text": "Uncaught",
+      "lineNumber": 54,
+      "columnNumber": 25,
+      "url": "https://www.newshub.co.nz/common/clientlibs-preload.min.4490.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "B",
+            "scriptId": "36",
+            "url": "https://www.newshub.co.nz/common/clientlibs-preload.min.4490.js",
+            "lineNumber": 54,
+            "columnNumber": 25
+          },
+          {
+            "functionName": "a",
+            "scriptId": "36",
+            "url": "https://www.newshub.co.nz/common/clientlibs-preload.min.4490.js",
+            "lineNumber": 84,
+            "columnNumber": 0
+          },
+          {
+            "functionName": "ae",
+            "scriptId": "36",
+            "url": "https://www.newshub.co.nz/common/clientlibs-preload.min.4490.js",
+            "lineNumber": 165,
+            "columnNumber": 0
+          },
+          {
+            "functionName": "s",
+            "scriptId": "36",
+            "url": "https://www.newshub.co.nz/common/clientlibs-preload.min.4490.js",
+            "lineNumber": 128,
+            "columnNumber": 0
+          },
+          {
+            "functionName": "displayAll",
+            "scriptId": "36",
+            "url": "https://www.newshub.co.nz/common/clientlibs-preload.min.4490.js",
+            "lineNumber": 188,
+            "columnNumber": 24
+          },
+          {
+            "functionName": "g",
+            "scriptId": "36",
+            "url": "https://www.newshub.co.nz/common/clientlibs-preload.min.4490.js",
+            "lineNumber": 241,
+            "columnNumber": 14
+          },
+          {
+            "functionName": "",
+            "scriptId": "36",
+            "url": "https://www.newshub.co.nz/common/clientlibs-preload.min.4490.js",
+            "lineNumber": 276,
+            "columnNumber": 0
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: googletag.defineSlot is not a function\n    at B (https://www.newshub.co.nz/common/clientlibs-preload.min.4490.js:55:26)\n    at a (https://www.newshub.co.nz/common/clientlibs-preload.min.4490.js:85:1)\n    at ae (https://www.newshub.co.nz/common/clientlibs-preload.min.4490.js:166:1)\n    at s (https://www.newshub.co.nz/common/clientlibs-preload.min.4490.js:129:1)\n    at Object.displayAll (https://www.newshub.co.nz/common/clientlibs-preload.min.4490.js:189:25)\n    at g (https://www.newshub.co.nz/common/clientlibs-preload.min.4490.js:242:15)\n    at HTMLDocument.<anonymous> (https://www.newshub.co.nz/common/clientlibs-preload.min.4490.js:277:1)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":3}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: googletag.defineSlot is not a function\n    at B (https://www.newshub.co.nz/common/clientlibs-preload.min.4490.js:55:26)\n    at a (https://www.newshub.co.nz/common/clientlibs-preload.min.4490.js:85:1)\n    at ae (https://www.newshub.co.nz/common/clientlibs-preload.min.4490.js:166:1)\n    at s (https://www.newshub.co.nz/common/clientlibs-preload.min.4490.js:129:1)\n    at Object.displayAll (https://www.newshub.co.nz/common/clientlibs-preload.min.4490.js:189:25)\n    at g (https://www.newshub.co.nz/common/clientlibs-preload.min.4490.js:242:15)\n    at HTMLDocument.<anonymous> (https://www.newshub.co.nz/common/clientlibs-preload.min.4490.js:277:1)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: googletag.defineSlot is not a function\n…o.nz/common/clientlibs-preload.min.4490.js:277:1)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "googletag.defineSlot is not a function"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

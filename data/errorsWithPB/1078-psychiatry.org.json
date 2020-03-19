@@ -1,0 +1,49 @@
+[
+  {
+    "timestamp": 1583422488553.172,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 203,
+      "columnNumber": 31,
+      "url": "https://www.psychiatry.org/psychiatrists/meetings/annual-meeting/hotel-information",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "39",
+            "url": "https://www.psychiatry.org/psychiatrists/meetings/annual-meeting/hotel-information",
+            "lineNumber": 203,
+            "columnNumber": 31
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: stLight is not defined\n    at https://www.psychiatry.org/psychiatrists/meetings/annual-meeting/hotel-information:204:32",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: stLight is not defined\n    at https://www.psychiatry.org/psychiatrists/meetings/annual-meeting/hotel-information:204:32",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: stLight is not defined\n    at http…/meetings/annual-meeting/hotel-information:204:32"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "stLight is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

@@ -1,0 +1,49 @@
+[
+  {
+    "timestamp": 1583010225302.1482,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 153,
+      "columnNumber": 60,
+      "url": "https://www.telegraph.co.uk/news/earth/environment/globalwarming/7078617/IPCC-deputy-says-scientists-are-only-human.html",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "document.onreadystatechange",
+            "scriptId": "18",
+            "url": "https://www.telegraph.co.uk/news/earth/environment/globalwarming/7078617/IPCC-deputy-says-scientists-are-only-human.html",
+            "lineNumber": 153,
+            "columnNumber": 60
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot set property 'src' of null\n    at HTMLDocument.document.onreadystatechange (https://www.telegraph.co.uk/news/earth/environment/globalwarming/7078617/IPCC-deputy-says-scientists-are-only-human.html:154:61)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot set property 'src' of null\n    at HTMLDocument.document.onreadystatechange (https://www.telegraph.co.uk/news/earth/environment/globalwarming/7078617/IPCC-deputy-says-scientists-are-only-human.html:154:61)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot set property 'src' of null\n    a…eputy-says-scientists-are-only-human.html:154:61)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot set property 'src' of null"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

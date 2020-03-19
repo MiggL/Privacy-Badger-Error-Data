@@ -1,0 +1,186 @@
+[
+  {
+    "timestamp": 1583002777965.224,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 1,
+      "columnNumber": 9,
+      "scriptId": "20",
+      "url": "https://www.fountainpenhospital.com/home/home12.asp",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "ITT.flash",
+            "scriptId": "19",
+            "url": "https://www.fountainpenhospital.com/tracking.js",
+            "lineNumber": 180,
+            "columnNumber": 23
+          },
+          {
+            "functionName": "ITT",
+            "scriptId": "19",
+            "url": "https://www.fountainpenhospital.com/tracking.js",
+            "lineNumber": 114,
+            "columnNumber": 20
+          },
+          {
+            "functionName": "createITT",
+            "scriptId": "19",
+            "url": "https://www.fountainpenhospital.com/tracking.js",
+            "lineNumber": 712,
+            "columnNumber": 11
+          },
+          {
+            "functionName": "",
+            "scriptId": "19",
+            "url": "https://www.fountainpenhospital.com/tracking.js",
+            "lineNumber": 715,
+            "columnNumber": 9
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "SyntaxError",
+        "description": "SyntaxError: Unexpected identifier\n    at ITT.flash (https://www.fountainpenhospital.com/tracking.js:181:24)\n    at new ITT (https://www.fountainpenhospital.com/tracking.js:115:21)\n    at createITT (https://www.fountainpenhospital.com/tracking.js:713:12)\n    at https://www.fountainpenhospital.com/tracking.js:716:10",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "SyntaxError: Unexpected identifier\n    at ITT.flash (https://www.fountainpenhospital.com/tracking.js:181:24)\n    at new ITT (https://www.fountainpenhospital.com/tracking.js:115:21)\n    at createITT (https://www.fountainpenhospital.com/tracking.js:713:12)\n    at https://www.fountainpenhospital.com/tracking.js:716:10",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "SyntaxError: Unexpected identifier\n    at ITT.flas…://www.fountainpenhospital.com/tracking.js:716:10"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Unexpected identifier"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583002777965.826,
+    "exceptionDetails": {
+      "exceptionId": 2,
+      "text": "Uncaught",
+      "lineNumber": 181,
+      "columnNumber": 12,
+      "url": "https://www.fountainpenhospital.com/tracking.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "ITT.flash",
+            "scriptId": "19",
+            "url": "https://www.fountainpenhospital.com/tracking.js",
+            "lineNumber": 181,
+            "columnNumber": 12
+          },
+          {
+            "functionName": "ITT",
+            "scriptId": "19",
+            "url": "https://www.fountainpenhospital.com/tracking.js",
+            "lineNumber": 114,
+            "columnNumber": 20
+          },
+          {
+            "functionName": "createITT",
+            "scriptId": "19",
+            "url": "https://www.fountainpenhospital.com/tracking.js",
+            "lineNumber": 712,
+            "columnNumber": 11
+          },
+          {
+            "functionName": "",
+            "scriptId": "19",
+            "url": "https://www.fountainpenhospital.com/tracking.js",
+            "lineNumber": 715,
+            "columnNumber": 9
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: sVBSwfVer is not defined\n    at ITT.flash (https://www.fountainpenhospital.com/tracking.js:182:13)\n    at new ITT (https://www.fountainpenhospital.com/tracking.js:115:21)\n    at createITT (https://www.fountainpenhospital.com/tracking.js:713:12)\n    at https://www.fountainpenhospital.com/tracking.js:716:10",
+        "objectId": "{\"injectedScriptId\":3,\"id\":2}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: sVBSwfVer is not defined\n    at ITT.flash (https://www.fountainpenhospital.com/tracking.js:182:13)\n    at new ITT (https://www.fountainpenhospital.com/tracking.js:115:21)\n    at createITT (https://www.fountainpenhospital.com/tracking.js:713:12)\n    at https://www.fountainpenhospital.com/tracking.js:716:10",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: sVBSwfVer is not defined\n    at IT…://www.fountainpenhospital.com/tracking.js:716:10"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "sVBSwfVer is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583002778655.619,
+    "exceptionDetails": {
+      "exceptionId": 3,
+      "text": "Uncaught",
+      "lineNumber": 145,
+      "columnNumber": 47,
+      "url": "https://www.fountainpenhospital.com/home/home12.asp",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "GetCount",
+            "scriptId": "15",
+            "url": "https://www.fountainpenhospital.com/home/home12.asp",
+            "lineNumber": 145,
+            "columnNumber": 47
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot set property 'innerHTML' of null\n    at GetCount (https://www.fountainpenhospital.com/home/home12.asp:146:48)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":3}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot set property 'innerHTML' of null\n    at GetCount (https://www.fountainpenhospital.com/home/home12.asp:146:48)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot set property 'innerHTML' of null…w.fountainpenhospital.com/home/home12.asp:146:48)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot set property 'innerHTML' of null"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

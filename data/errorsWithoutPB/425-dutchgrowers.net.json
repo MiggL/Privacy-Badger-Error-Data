@@ -1,0 +1,77 @@
+[
+  {
+    "timestamp": 1583009512025.584,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught (in promise)",
+      "lineNumber": 123,
+      "columnNumber": 409,
+      "url": "https://maps.googleapis.com/maps/api/js?key=AIzaSyCUC1akHmX9NqQj4cMDZu0om0YscXbPyk0&callback=initMap",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "_.xi",
+            "scriptId": "54",
+            "url": "https://maps.googleapis.com/maps/api/js?key=AIzaSyCUC1akHmX9NqQj4cMDZu0om0YscXbPyk0&callback=initMap",
+            "lineNumber": 123,
+            "columnNumber": 409
+          },
+          {
+            "functionName": "Ci",
+            "scriptId": "54",
+            "url": "https://maps.googleapis.com/maps/api/js?key=AIzaSyCUC1akHmX9NqQj4cMDZu0om0YscXbPyk0&callback=initMap",
+            "lineNumber": 125,
+            "columnNumber": 60
+          },
+          {
+            "functionName": "initMap",
+            "scriptId": "44",
+            "url": "https://dutchgrowers.net/collections/garden/products/companion-gladiolus-en-pointe",
+            "lineNumber": 1457,
+            "columnNumber": 16
+          },
+          {
+            "functionName": "",
+            "scriptId": "54",
+            "url": "https://maps.googleapis.com/maps/api/js?key=AIzaSyCUC1akHmX9NqQj4cMDZu0om0YscXbPyk0&callback=initMap",
+            "lineNumber": 140,
+            "columnNumber": 285
+          },
+          {
+            "functionName": "",
+            "scriptId": "54",
+            "url": "https://maps.googleapis.com/maps/api/js?key=AIzaSyCUC1akHmX9NqQj4cMDZu0om0YscXbPyk0&callback=initMap",
+            "lineNumber": 140,
+            "columnNumber": 128
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'firstChild' of null\n    at Object._.xi (https://maps.googleapis.com/maps/api/js?key=AIzaSyCUC1akHmX9NqQj4cMDZu0om0YscXbPyk0&callback=initMap:124:410)\n    at new Ci (https://maps.googleapis.com/maps/api/js?key=AIzaSyCUC1akHmX9NqQj4cMDZu0om0YscXbPyk0&callback=initMap:126:61)\n    at initMap (https://dutchgrowers.net/collections/garden/products/companion-gladiolus-en-pointe:1458:17)\n    at https://maps.googleapis.com/maps/api/js?key=AIzaSyCUC1akHmX9NqQj4cMDZu0om0YscXbPyk0&callback=initMap:141:286\n    at https://maps.googleapis.com/maps/api/js?key=AIzaSyCUC1akHmX9NqQj4cMDZu0om0YscXbPyk0&callback=initMap:141:129",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'firstChild' of null\n    at Object._.xi (https://maps.googleapis.com/maps/api/js?key=AIzaSyCUC1akHmX9NqQj4cMDZu0om0YscXbPyk0&callback=initMap:124:410)\n    at new Ci (https://maps.googleapis.com/maps/api/js?key=AIzaSyCUC1akHmX9NqQj4cMDZu0om0YscXbPyk0&callback=initMap:126:61)\n    at initMap (https://dutchgrowers.net/collections/garden/products/companion-gladiolus-en-pointe:1458:17)\n    at https://maps.googleapis.com/maps/api/js?key=AIzaSyCUC1akHmX9NqQj4cMDZu0om0YscXbPyk0&callback=initMap:141:286\n    at https://maps.googleapis.com/maps/api/js?key=AIzaSyCUC1akHmX9NqQj4cMDZu0om0YscXbPyk0&callback=initMap:141:129",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'firstChild' of nu…9NqQj4cMDZu0om0YscXbPyk0&callback=initMap:141:129"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'firstChild' of null"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

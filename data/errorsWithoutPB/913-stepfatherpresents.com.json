@@ -1,0 +1,55 @@
+[
+  {
+    "timestamp": 1583005022022.6582,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 0,
+      "columnNumber": 0,
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "24",
+            "url": "",
+            "lineNumber": 0,
+            "columnNumber": 0
+          },
+          {
+            "functionName": "",
+            "scriptId": "23",
+            "url": "https://stepnation.com/adserver/www/delivery/ajs.php?zoneid=93&cb=24860619217&charset=UTF-8&loc=http%3A//stepfatherpresents.com/%3Fp%3D11518",
+            "lineNumber": 4,
+            "columnNumber": 9
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: vitag is not defined\n    at <anonymous>:1:1\n    at https://stepnation.com/adserver/www/delivery/ajs.php?zoneid=93&cb=24860619217&charset=UTF-8&loc=http%3A//stepfatherpresents.com/%3Fp%3D11518:5:10",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: vitag is not defined\n    at <anonymous>:1:1\n    at https://stepnation.com/adserver/www/delivery/ajs.php?zoneid=93&cb=24860619217&charset=UTF-8&loc=http%3A//stepfatherpresents.com/%3Fp%3D11518:5:10",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: vitag is not defined\n    at <anony…http%3A//stepfatherpresents.com/%3Fp%3D11518:5:10"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "vitag is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

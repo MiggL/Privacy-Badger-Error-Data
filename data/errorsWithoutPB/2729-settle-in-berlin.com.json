@@ -1,0 +1,77 @@
+[
+  {
+    "timestamp": 1582734517922.553,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 2,
+      "columnNumber": 111,
+      "url": "http://www.settle-in-berlin.com/wp-content/cache/minify/1d935.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "prepareScrolling",
+            "scriptId": "20",
+            "url": "http://www.settle-in-berlin.com/wp-content/cache/minify/1d935.js",
+            "lineNumber": 2,
+            "columnNumber": 111
+          },
+          {
+            "functionName": "",
+            "scriptId": "20",
+            "url": "http://www.settle-in-berlin.com/wp-content/cache/minify/1d935.js",
+            "lineNumber": 79,
+            "columnNumber": 223
+          },
+          {
+            "functionName": "i",
+            "scriptId": "14",
+            "url": "http://www.settle-in-berlin.com/wp-content/cache/minify/92602.js",
+            "lineNumber": 0,
+            "columnNumber": 27361
+          },
+          {
+            "functionName": "fireWith",
+            "scriptId": "14",
+            "url": "http://www.settle-in-berlin.com/wp-content/cache/minify/92602.js",
+            "lineNumber": 0,
+            "columnNumber": 28120
+          },
+          {
+            "functionName": "ready",
+            "scriptId": "14",
+            "url": "http://www.settle-in-berlin.com/wp-content/cache/minify/92602.js",
+            "lineNumber": 0,
+            "columnNumber": 29913
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: SimpleBar is not defined\n    at prepareScrolling (http://www.settle-in-berlin.com/wp-content/cache/minify/1d935.js:3:112)\n    at HTMLDocument.<anonymous> (http://www.settle-in-berlin.com/wp-content/cache/minify/1d935.js:80:224)\n    at i (http://www.settle-in-berlin.com/wp-content/cache/minify/92602.js:1:27362)\n    at Object.fireWith [as resolveWith] (http://www.settle-in-berlin.com/wp-content/cache/minify/92602.js:1:28121)\n    at ready (http://www.settle-in-berlin.com/wp-content/cache/minify/92602.js:1:29914)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: SimpleBar is not defined\n    at prepareScrolling (http://www.settle-in-berlin.com/wp-content/cache/minify/1d935.js:3:112)\n    at HTMLDocument.<anonymous> (http://www.settle-in-berlin.com/wp-content/cache/minify/1d935.js:80:224)\n    at i (http://www.settle-in-berlin.com/wp-content/cache/minify/92602.js:1:27362)\n    at Object.fireWith [as resolveWith] (http://www.settle-in-berlin.com/wp-content/cache/minify/92602.js:1:28121)\n    at ready (http://www.settle-in-berlin.com/wp-content/cache/minify/92602.js:1:29914)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: SimpleBar is not defined\n    at pr…lin.com/wp-content/cache/minify/92602.js:1:29914)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "SimpleBar is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

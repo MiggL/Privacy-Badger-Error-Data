@@ -1,0 +1,139 @@
+[
+  {
+    "timestamp": 1583418942189.697,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 0,
+      "columnNumber": 0,
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "37",
+            "url": "",
+            "lineNumber": 0,
+            "columnNumber": 0
+          },
+          {
+            "functionName": "",
+            "scriptId": "33",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-TJK2CRM",
+            "lineNumber": 381,
+            "columnNumber": 413
+          },
+          {
+            "functionName": "c",
+            "scriptId": "33",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-TJK2CRM",
+            "lineNumber": 383,
+            "columnNumber": 151
+          },
+          {
+            "functionName": "Cb",
+            "scriptId": "33",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-TJK2CRM",
+            "lineNumber": 238,
+            "columnNumber": 395
+          },
+          {
+            "functionName": "e",
+            "scriptId": "33",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-TJK2CRM",
+            "lineNumber": 284,
+            "columnNumber": 137
+          },
+          {
+            "functionName": "",
+            "scriptId": "33",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-TJK2CRM",
+            "lineNumber": 233,
+            "columnNumber": 113
+          },
+          {
+            "functionName": "",
+            "scriptId": "33",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-TJK2CRM",
+            "lineNumber": 285,
+            "columnNumber": 228
+          },
+          {
+            "functionName": "",
+            "scriptId": "33",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-TJK2CRM",
+            "lineNumber": 284,
+            "columnNumber": 472
+          },
+          {
+            "functionName": "nf",
+            "scriptId": "33",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-TJK2CRM",
+            "lineNumber": 285,
+            "columnNumber": 517
+          },
+          {
+            "functionName": "pf",
+            "scriptId": "33",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-TJK2CRM",
+            "lineNumber": 287,
+            "columnNumber": 226
+          },
+          {
+            "functionName": "hj",
+            "scriptId": "33",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-TJK2CRM",
+            "lineNumber": 330,
+            "columnNumber": 186
+          },
+          {
+            "functionName": "gj",
+            "scriptId": "33",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-TJK2CRM",
+            "lineNumber": 330,
+            "columnNumber": 0
+          },
+          {
+            "functionName": "ij",
+            "scriptId": "33",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-TJK2CRM",
+            "lineNumber": 332,
+            "columnNumber": 356
+          },
+          {
+            "functionName": "jj",
+            "scriptId": "33",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-TJK2CRM",
+            "lineNumber": 333,
+            "columnNumber": 29
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: ga is not defined\n    at <anonymous>:1:1\n    at https://www.googletagmanager.com/gtm.js?id=GTM-TJK2CRM:382:414\n    at c (https://www.googletagmanager.com/gtm.js?id=GTM-TJK2CRM:384:152)\n    at Cb (https://www.googletagmanager.com/gtm.js?id=GTM-TJK2CRM:239:396)\n    at e (https://www.googletagmanager.com/gtm.js?id=GTM-TJK2CRM:285:138)\n    at https://www.googletagmanager.com/gtm.js?id=GTM-TJK2CRM:234:114\n    at Array.<anonymous> (https://www.googletagmanager.com/gtm.js?id=GTM-TJK2CRM:286:229)\n    at Object.Zf (https://www.googletagmanager.com/gtm.js?id=GTM-TJK2CRM:285:473)\n    at nf (https://www.googletagmanager.com/gtm.js?id=GTM-TJK2CRM:286:518)\n    at pf (https://www.googletagmanager.com/gtm.js?id=GTM-TJK2CRM:288:227)\n    at hj (https://www.googletagmanager.com/gtm.js?id=GTM-TJK2CRM:331:187)\n    at gj (https://www.googletagmanager.com/gtm.js?id=GTM-TJK2CRM:331:1)\n    at ij (https://www.googletagmanager.com/gtm.js?id=GTM-TJK2CRM:333:357)\n    at jj (https://www.googletagmanager.com/gtm.js?id=GTM-TJK2CRM:334:30)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: ga is not defined\n    at <anonymous>:1:1\n    at https://www.googletagmanager.com/gtm.js?id=GTM-TJK2CRM:382:414\n    at c (https://www.googletagmanager.com/gtm.js?id=GTM-TJK2CRM:384:152)\n    at Cb (https://www.googletagmanager.com/gtm.js?id=GTM-TJK2CRM:239:396)\n    at e (https://www.googletagmanager.com/gtm.js?id=GTM-TJK2CRM:285:138)\n    at https://www.googletagmanager.com/gtm.js?id=GTM-TJK2CRM:234:114\n    at Array.<anonymous> (https://www.googletagmanager.com/gtm.js?id=GTM-TJK2CRM:286:229)\n    at Object.Zf (https://www.googletagmanager.com/gtm.js?id=GTM-TJK2CRM:285:473)\n    at nf (https://www.googletagmanager.com/gtm.js?id=GTM-TJK2CRM:286:518)\n    at pf (https://www.googletagmanager.com/gtm.js?id=GTM-TJK2CRM:288:227)\n    at hj (https://www.googletagmanager.com/gtm.js?id=GTM-TJK2CRM:331:187)\n    at gj (https://www.googletagmanager.com/gtm.js?id=GTM-TJK2CRM:331:1)\n    at ij (https://www.googletagmanager.com/gtm.js?id=GTM-TJK2CRM:333:357)\n    at jj (https://www.googletagmanager.com/gtm.js?id=GTM-TJK2CRM:334:30)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: ga is not defined\n    at <anonymou…oogletagmanager.com/gtm.js?id=GTM-TJK2CRM:334:30)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "ga is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

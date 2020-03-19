@@ -1,0 +1,84 @@
+[
+  {
+    "timestamp": 1583006162349.1,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 42,
+      "columnNumber": 22,
+      "url": "https://www.taylormason.com/wp-content/themes/tmason/js/video.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "init",
+            "scriptId": "14",
+            "url": "https://www.taylormason.com/wp-content/themes/tmason/js/video.js",
+            "lineNumber": 42,
+            "columnNumber": 22
+          },
+          {
+            "functionName": "JRClass",
+            "scriptId": "14",
+            "url": "https://www.taylormason.com/wp-content/themes/tmason/js/video.js",
+            "lineNumber": 25,
+            "columnNumber": 664
+          },
+          {
+            "functionName": "setup",
+            "scriptId": "14",
+            "url": "https://www.taylormason.com/wp-content/themes/tmason/js/video.js",
+            "lineNumber": 312,
+            "columnNumber": 22
+          },
+          {
+            "functionName": "",
+            "scriptId": "15",
+            "url": "https://www.taylormason.com/wp-content/themes/tmason/js/tmason.js",
+            "lineNumber": 5,
+            "columnNumber": 27
+          },
+          {
+            "functionName": "onDOMReady",
+            "scriptId": "14",
+            "url": "https://www.taylormason.com/wp-content/themes/tmason/js/video.js",
+            "lineNumber": 1699,
+            "columnNumber": 32
+          },
+          {
+            "functionName": "DOMContentLoaded",
+            "scriptId": "14",
+            "url": "https://www.taylormason.com/wp-content/themes/tmason/js/video.js",
+            "lineNumber": 1673,
+            "columnNumber": 14
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot set property 'player' of null\n    at JRClass.init (https://www.taylormason.com/wp-content/themes/tmason/js/video.js:43:23)\n    at new JRClass (https://www.taylormason.com/wp-content/themes/tmason/js/video.js:26:665)\n    at Function.setup (https://www.taylormason.com/wp-content/themes/tmason/js/video.js:313:23)\n    at HTMLDocument.<anonymous> (https://www.taylormason.com/wp-content/themes/tmason/js/tmason.js:6:28)\n    at Function.onDOMReady (https://www.taylormason.com/wp-content/themes/tmason/js/video.js:1700:33)\n    at HTMLDocument.DOMContentLoaded (https://www.taylormason.com/wp-content/themes/tmason/js/video.js:1674:15)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot set property 'player' of null\n    at JRClass.init (https://www.taylormason.com/wp-content/themes/tmason/js/video.js:43:23)\n    at new JRClass (https://www.taylormason.com/wp-content/themes/tmason/js/video.js:26:665)\n    at Function.setup (https://www.taylormason.com/wp-content/themes/tmason/js/video.js:313:23)\n    at HTMLDocument.<anonymous> (https://www.taylormason.com/wp-content/themes/tmason/js/tmason.js:6:28)\n    at Function.onDOMReady (https://www.taylormason.com/wp-content/themes/tmason/js/video.js:1700:33)\n    at HTMLDocument.DOMContentLoaded (https://www.taylormason.com/wp-content/themes/tmason/js/video.js:1674:15)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot set property 'player' of null\n  …com/wp-content/themes/tmason/js/video.js:1674:15)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot set property 'player' of null"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

@@ -1,0 +1,49 @@
+[
+  {
+    "timestamp": 1583010279663.2249,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 312,
+      "columnNumber": 47,
+      "url": "https://www.military.ie/naval-service/organisation/specialist-units/diving-section/",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "27",
+            "url": "https://www.military.ie/naval-service/organisation/specialist-units/diving-section/",
+            "lineNumber": 312,
+            "columnNumber": 47
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot set property 'href' of null\n    at https://www.military.ie/naval-service/organisation/specialist-units/diving-section/:313:48",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot set property 'href' of null\n    at https://www.military.ie/naval-service/organisation/specialist-units/diving-section/:313:48",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot set property 'href' of null\n    …anisation/specialist-units/diving-section/:313:48"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot set property 'href' of null"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

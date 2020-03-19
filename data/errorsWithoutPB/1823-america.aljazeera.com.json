@@ -1,0 +1,96 @@
+[
+  {
+    "timestamp": 1582815386568.0088,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 417,
+      "columnNumber": 283,
+      "url": "https://www.googletagmanager.com/gtm.js?id=GTM-MG5P9B",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "error",
+            "scriptId": "35",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-MG5P9B",
+            "lineNumber": 417,
+            "columnNumber": 283
+          },
+          {
+            "functionName": "onerror",
+            "scriptId": "35",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-MG5P9B",
+            "lineNumber": 424,
+            "columnNumber": 372
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "className": "Object",
+        "description": "Object",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "description": "Object",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "message",
+              "type": "string",
+              "value": "remote script failed http://3099.tm.zedo.com/v1/2f3f28ef-9fdf-47f4-9c8c-4e1e4f95c365/tm.js"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1582815386568.1602,
+    "exceptionDetails": {
+      "exceptionId": 2,
+      "text": "Uncaught",
+      "lineNumber": 417,
+      "columnNumber": 283,
+      "url": "https://www.googletagmanager.com/gtm.js?id=GTM-MG5P9B",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "error",
+            "scriptId": "35",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-MG5P9B",
+            "lineNumber": 417,
+            "columnNumber": 283
+          },
+          {
+            "functionName": "v.qb.onerror",
+            "scriptId": "35",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-MG5P9B",
+            "lineNumber": 425,
+            "columnNumber": 496
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "className": "Object",
+        "description": "Object",
+        "objectId": "{\"injectedScriptId\":3,\"id\":2}",
+        "preview": {
+          "type": "object",
+          "description": "Object",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "Eh",
+              "type": "string",
+              "value": "Script error. - :0"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

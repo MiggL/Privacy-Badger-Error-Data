@@ -1,0 +1,49 @@
+[
+  {
+    "timestamp": 1583422019022.092,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 90,
+      "columnNumber": 25,
+      "url": "http://www.occurling.com/",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "window.onload",
+            "scriptId": "23",
+            "url": "http://www.occurling.com/",
+            "lineNumber": 90,
+            "columnNumber": 25
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: show_hide_menu is not defined\n    at window.onload (http://www.occurling.com/:91:26)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: show_hide_menu is not defined\n    at window.onload (http://www.occurling.com/:91:26)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: show_hide_menu is not defined\n    at window.onload (http://www.occurling.com/:91:26)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "show_hide_menu is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

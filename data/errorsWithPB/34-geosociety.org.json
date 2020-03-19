@@ -1,0 +1,133 @@
+[
+  {
+    "timestamp": 1583759012113.1812,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 2,
+      "columnNumber": 0,
+      "scriptId": "23",
+      "url": "https://www.geosociety.org/SpryAssets/SpryTooltip.js",
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "SyntaxError",
+        "description": "SyntaxError: Unexpected token '<'",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "SyntaxError: Unexpected token '<'",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "SyntaxError: Unexpected token '<'"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Unexpected token '<'"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583759012340.6821,
+    "exceptionDetails": {
+      "exceptionId": 2,
+      "text": "Uncaught",
+      "lineNumber": 351,
+      "columnNumber": 0,
+      "url": "https://www.geosociety.org//gsatoday/archive/23/8/article/i1052-5173-23-8-27.htm",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "38",
+            "url": "https://www.geosociety.org//gsatoday/archive/23/8/article/i1052-5173-23-8-27.htm",
+            "lineNumber": 351,
+            "columnNumber": 0
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: jemail is not defined\n    at https://www.geosociety.org//gsatoday/archive/23/8/article/i1052-5173-23-8-27.htm:352:1",
+        "objectId": "{\"injectedScriptId\":3,\"id\":2}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: jemail is not defined\n    at https://www.geosociety.org//gsatoday/archive/23/8/article/i1052-5173-23-8-27.htm:352:1",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: jemail is not defined\n    at https…archive/23/8/article/i1052-5173-23-8-27.htm:352:1"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "jemail is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583759012341.447,
+    "exceptionDetails": {
+      "exceptionId": 3,
+      "text": "Uncaught",
+      "lineNumber": 363,
+      "columnNumber": 0,
+      "url": "https://www.geosociety.org//gsatoday/archive/23/8/article/i1052-5173-23-8-27.htm",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "39",
+            "url": "https://www.geosociety.org//gsatoday/archive/23/8/article/i1052-5173-23-8-27.htm",
+            "lineNumber": 363,
+            "columnNumber": 0
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: jemail is not defined\n    at https://www.geosociety.org//gsatoday/archive/23/8/article/i1052-5173-23-8-27.htm:364:1",
+        "objectId": "{\"injectedScriptId\":3,\"id\":3}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: jemail is not defined\n    at https://www.geosociety.org//gsatoday/archive/23/8/article/i1052-5173-23-8-27.htm:364:1",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: jemail is not defined\n    at https…archive/23/8/article/i1052-5173-23-8-27.htm:364:1"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "jemail is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

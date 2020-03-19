@@ -1,0 +1,32 @@
+[
+  {
+    "timestamp": 1582890288685.488,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught (in promise)",
+      "lineNumber": 0,
+      "columnNumber": 0,
+      "scriptId": "1",
+      "url": "https://www.target.com/p/Decorative%20Globe%20with%20Cement%20Base%20-%20Black%20-%20Threshold&153;/-/p/millsboro-bookcase-with-doors-/-/p/felton-tufted-sofa-/-/p/tripod-floor-lamp-/-/p/metal-taper-candle-holder-large-/-/A-51341362",
+      "exception": {
+        "type": "object",
+        "className": "Object",
+        "description": "Object",
+        "objectId": "{\"injectedScriptId\":3,\"id\":2}",
+        "preview": {
+          "type": "object",
+          "description": "Object",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "hasGuestStore",
+              "type": "boolean",
+              "value": "false"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

@@ -1,0 +1,521 @@
+[
+  {
+    "timestamp": 1583749894600.402,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught (in promise)",
+      "lineNumber": 0,
+      "columnNumber": 794458,
+      "url": "https://www.dailymail.co.uk/static/mol-adverts/4.0.57/mol-adverts.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "u",
+            "scriptId": "28",
+            "url": "https://www.dailymail.co.uk/static/mol-adverts/4.0.57/mol-adverts.js",
+            "lineNumber": 0,
+            "columnNumber": 794458
+          },
+          {
+            "functionName": "t",
+            "scriptId": "28",
+            "url": "https://www.dailymail.co.uk/static/mol-adverts/4.0.57/mol-adverts.js",
+            "lineNumber": 0,
+            "columnNumber": 793891
+          },
+          {
+            "functionName": "e",
+            "scriptId": "28",
+            "url": "https://www.dailymail.co.uk/static/mol-adverts/4.0.57/mol-adverts.js",
+            "lineNumber": 0,
+            "columnNumber": 810317
+          },
+          {
+            "functionName": "r",
+            "scriptId": "28",
+            "url": "https://www.dailymail.co.uk/static/mol-adverts/4.0.57/mol-adverts.js",
+            "lineNumber": 0,
+            "columnNumber": 810573
+          },
+          {
+            "functionName": "",
+            "scriptId": "28",
+            "url": "https://www.dailymail.co.uk/static/mol-adverts/4.0.57/mol-adverts.js",
+            "lineNumber": 0,
+            "columnNumber": 804126
+          },
+          {
+            "functionName": "u",
+            "scriptId": "25",
+            "url": "https://www.dailymail.co.uk/static/mol-fe/static/mol-fe-sync-bundle/4.3.0/desktop.js",
+            "lineNumber": 7,
+            "columnNumber": 230339
+          },
+          {
+            "functionName": "",
+            "scriptId": "25",
+            "url": "https://www.dailymail.co.uk/static/mol-fe/static/mol-fe-sync-bundle/4.3.0/desktop.js",
+            "lineNumber": 7,
+            "columnNumber": 230127
+          },
+          {
+            "functionName": "forEach.e.<computed>",
+            "scriptId": "25",
+            "url": "https://www.dailymail.co.uk/static/mol-fe/static/mol-fe-sync-bundle/4.3.0/desktop.js",
+            "lineNumber": 7,
+            "columnNumber": 230762
+          },
+          {
+            "functionName": "b",
+            "scriptId": "28",
+            "url": "https://www.dailymail.co.uk/static/mol-adverts/4.0.57/mol-adverts.js",
+            "lineNumber": 0,
+            "columnNumber": 794741
+          },
+          {
+            "functionName": "i",
+            "scriptId": "28",
+            "url": "https://www.dailymail.co.uk/static/mol-adverts/4.0.57/mol-adverts.js",
+            "lineNumber": 0,
+            "columnNumber": 794943
+          },
+          {
+            "functionName": "",
+            "scriptId": "28",
+            "url": "https://www.dailymail.co.uk/static/mol-adverts/4.0.57/mol-adverts.js",
+            "lineNumber": 0,
+            "columnNumber": 795002
+          },
+          {
+            "functionName": "",
+            "scriptId": "28",
+            "url": "https://www.dailymail.co.uk/static/mol-adverts/4.0.57/mol-adverts.js",
+            "lineNumber": 0,
+            "columnNumber": 794884
+          },
+          {
+            "functionName": "",
+            "scriptId": "28",
+            "url": "https://www.dailymail.co.uk/static/mol-adverts/4.0.57/mol-adverts.js",
+            "lineNumber": 0,
+            "columnNumber": 804520
+          },
+          {
+            "functionName": "",
+            "scriptId": "28",
+            "url": "https://www.dailymail.co.uk/static/mol-adverts/4.0.57/mol-adverts.js",
+            "lineNumber": 0,
+            "columnNumber": 804644
+          },
+          {
+            "functionName": "u",
+            "scriptId": "25",
+            "url": "https://www.dailymail.co.uk/static/mol-fe/static/mol-fe-sync-bundle/4.3.0/desktop.js",
+            "lineNumber": 7,
+            "columnNumber": 230339
+          },
+          {
+            "functionName": "",
+            "scriptId": "25",
+            "url": "https://www.dailymail.co.uk/static/mol-fe/static/mol-fe-sync-bundle/4.3.0/desktop.js",
+            "lineNumber": 7,
+            "columnNumber": 230127
+          },
+          {
+            "functionName": "forEach.e.<computed>",
+            "scriptId": "25",
+            "url": "https://www.dailymail.co.uk/static/mol-fe/static/mol-fe-sync-bundle/4.3.0/desktop.js",
+            "lineNumber": 7,
+            "columnNumber": 230762
+          },
+          {
+            "functionName": "b",
+            "scriptId": "28",
+            "url": "https://www.dailymail.co.uk/static/mol-adverts/4.0.57/mol-adverts.js",
+            "lineNumber": 0,
+            "columnNumber": 794741
+          },
+          {
+            "functionName": "i",
+            "scriptId": "28",
+            "url": "https://www.dailymail.co.uk/static/mol-adverts/4.0.57/mol-adverts.js",
+            "lineNumber": 0,
+            "columnNumber": 794943
+          },
+          {
+            "functionName": "",
+            "scriptId": "28",
+            "url": "https://www.dailymail.co.uk/static/mol-adverts/4.0.57/mol-adverts.js",
+            "lineNumber": 0,
+            "columnNumber": 795002
+          },
+          {
+            "functionName": "",
+            "scriptId": "28",
+            "url": "https://www.dailymail.co.uk/static/mol-adverts/4.0.57/mol-adverts.js",
+            "lineNumber": 0,
+            "columnNumber": 794884
+          },
+          {
+            "functionName": "x.value",
+            "scriptId": "28",
+            "url": "https://www.dailymail.co.uk/static/mol-adverts/4.0.57/mol-adverts.js",
+            "lineNumber": 0,
+            "columnNumber": 804797
+          },
+          {
+            "functionName": "value",
+            "scriptId": "28",
+            "url": "https://www.dailymail.co.uk/static/mol-adverts/4.0.57/mol-adverts.js",
+            "lineNumber": 0,
+            "columnNumber": 798544
+          },
+          {
+            "functionName": "",
+            "scriptId": "28",
+            "url": "https://www.dailymail.co.uk/static/mol-adverts/4.0.57/mol-adverts.js",
+            "lineNumber": 0,
+            "columnNumber": 740526
+          },
+          {
+            "functionName": "u",
+            "scriptId": "25",
+            "url": "https://www.dailymail.co.uk/static/mol-fe/static/mol-fe-sync-bundle/4.3.0/desktop.js",
+            "lineNumber": 7,
+            "columnNumber": 230339
+          },
+          {
+            "functionName": "",
+            "scriptId": "25",
+            "url": "https://www.dailymail.co.uk/static/mol-fe/static/mol-fe-sync-bundle/4.3.0/desktop.js",
+            "lineNumber": 7,
+            "columnNumber": 230127
+          },
+          {
+            "functionName": "forEach.e.<computed>",
+            "scriptId": "25",
+            "url": "https://www.dailymail.co.uk/static/mol-fe/static/mol-fe-sync-bundle/4.3.0/desktop.js",
+            "lineNumber": 7,
+            "columnNumber": 230762
+          },
+          {
+            "functionName": "u",
+            "scriptId": "28",
+            "url": "https://www.dailymail.co.uk/static/mol-adverts/4.0.57/mol-adverts.js",
+            "lineNumber": 0,
+            "columnNumber": 741182
+          },
+          {
+            "functionName": "i",
+            "scriptId": "28",
+            "url": "https://www.dailymail.co.uk/static/mol-adverts/4.0.57/mol-adverts.js",
+            "lineNumber": 0,
+            "columnNumber": 741384
+          },
+          {
+            "functionName": "",
+            "scriptId": "28",
+            "url": "https://www.dailymail.co.uk/static/mol-adverts/4.0.57/mol-adverts.js",
+            "lineNumber": 0,
+            "columnNumber": 741443
+          },
+          {
+            "functionName": "",
+            "scriptId": "28",
+            "url": "https://www.dailymail.co.uk/static/mol-adverts/4.0.57/mol-adverts.js",
+            "lineNumber": 0,
+            "columnNumber": 741325
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "r",
+        "description": "Error: No end point registered: [\"is page visible?\"]\n    at https://www.dailymail.co.uk/static/mol-adverts/4.0.57/mol-adverts.js:1:804127\n    at u (https://www.dailymail.co.uk/static/mol-fe/static/mol-fe-sync-bundle/4.3.0/desktop.js:8:230340)\n    at Generator._invoke (https://www.dailymail.co.uk/static/mol-fe/static/mol-fe-sync-bundle/4.3.0/desktop.js:8:230128)\n    at Generator.forEach.e.<computed> [as next] (https://www.dailymail.co.uk/static/mol-fe/static/mol-fe-sync-bundle/4.3.0/desktop.js:8:230763)\n    at b (https://www.dailymail.co.uk/static/mol-adverts/4.0.57/mol-adverts.js:1:794742)\n    at i (https://www.dailymail.co.uk/static/mol-adverts/4.0.57/mol-adverts.js:1:794944)\n    at https://www.dailymail.co.uk/static/mol-adverts/4.0.57/mol-adverts.js:1:795003\n    at new Promise (<anonymous>)\n    at https://www.dailymail.co.uk/static/mol-adverts/4.0.57/mol-adverts.js:1:794885\n    at https://www.dailymail.co.uk/static/mol-adverts/4.0.57/mol-adverts.js:1:804521\n    at e.<anonymous> (https://www.dailymail.co.uk/static/mol-adverts/4.0.57/mol-adverts.js:1:804645)\n    at u (https://www.dailymail.co.uk/static/mol-fe/static/mol-fe-sync-bundle/4.3.0/desktop.js:8:230340)\n    at Generator._invoke (https://www.dailymail.co.uk/static/mol-fe/static/mol-fe-sync-bundle/4.3.0/desktop.js:8:230128)\n    at Generator.forEach.e.<computed> [as next] (https://www.dailymail.co.uk/static/mol-fe/static/mol-fe-sync-bundle/4.3.0/desktop.js:8:230763)\n    at b (https://www.dailymail.co.uk/static/mol-adverts/4.0.57/mol-adverts.js:1:794742)\n    at i (https://www.dailymail.co.uk/static/mol-adverts/4.0.57/mol-adverts.js:1:794944)\n    at https://www.dailymail.co.uk/static/mol-adverts/4.0.57/mol-adverts.js:1:795003\n    at new Promise (<anonymous>)\n    at e.<anonymous> (https://www.dailymail.co.uk/static/mol-adverts/4.0.57/mol-adverts.js:1:794885)\n    at e.x.value (https://www.dailymail.co.uk/static/mol-adverts/4.0.57/mol-adverts.js:1:804798)\n    at r.value (https://www.dailymail.co.uk/static/mol-adverts/4.0.57/mol-adverts.js:1:798545)\n    at https://www.dailymail.co.uk/static/mol-adverts/4.0.57/mol-adverts.js:1:740527\n    at u (https://www.dailymail.co.uk/static/mol-fe/static/mol-fe-sync-bundle/4.3.0/desktop.js:8:230340)\n    at Generator._invoke (https://www.dailymail.co.uk/static/mol-fe/static/mol-fe-sync-bundle/4.3.0/desktop.js:8:230128)\n    at Generator.forEach.e.<computed> [as next] (https://www.dailymail.co.uk/static/mol-fe/static/mol-fe-sync-bundle/4.3.0/desktop.js:8:230763)\n    at u (https://www.dailymail.co.uk/static/mol-adverts/4.0.57/mol-adverts.js:1:741183)\n    at i (https://www.dailymail.co.uk/static/mol-adverts/4.0.57/mol-adverts.js:1:741385)\n    at https://www.dailymail.co.uk/static/mol-adverts/4.0.57/mol-adverts.js:1:741444\n    at new Promise (<anonymous>)\n    at https://www.dailymail.co.uk/static/mol-adverts/4.0.57/mol-adverts.js:1:741326",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "Error: No end point registered: [\"is page visible?\"]\n    at https://www.dailymail.co.uk/static/mol-adverts/4.0.57/mol-adverts.js:1:804127\n    at u (https://www.dailymail.co.uk/static/mol-fe/static/mol-fe-sync-bundle/4.3.0/desktop.js:8:230340)\n    at Generator._invoke (https://www.dailymail.co.uk/static/mol-fe/static/mol-fe-sync-bundle/4.3.0/desktop.js:8:230128)\n    at Generator.forEach.e.<computed> [as next] (https://www.dailymail.co.uk/static/mol-fe/static/mol-fe-sync-bundle/4.3.0/desktop.js:8:230763)\n    at b (https://www.dailymail.co.uk/static/mol-adverts/4.0.57/mol-adverts.js:1:794742)\n    at i (https://www.dailymail.co.uk/static/mol-adverts/4.0.57/mol-adverts.js:1:794944)\n    at https://www.dailymail.co.uk/static/mol-adverts/4.0.57/mol-adverts.js:1:795003\n    at new Promise (<anonymous>)\n    at https://www.dailymail.co.uk/static/mol-adverts/4.0.57/mol-adverts.js:1:794885\n    at https://www.dailymail.co.uk/static/mol-adverts/4.0.57/mol-adverts.js:1:804521\n    at e.<anonymous> (https://www.dailymail.co.uk/static/mol-adverts/4.0.57/mol-adverts.js:1:804645)\n    at u (https://www.dailymail.co.uk/static/mol-fe/static/mol-fe-sync-bundle/4.3.0/desktop.js:8:230340)\n    at Generator._invoke (https://www.dailymail.co.uk/static/mol-fe/static/mol-fe-sync-bundle/4.3.0/desktop.js:8:230128)\n    at Generator.forEach.e.<computed> [as next] (https://www.dailymail.co.uk/static/mol-fe/static/mol-fe-sync-bundle/4.3.0/desktop.js:8:230763)\n    at b (https://www.dailymail.co.uk/static/mol-adverts/4.0.57/mol-adverts.js:1:794742)\n    at i (https://www.dailymail.co.uk/static/mol-adverts/4.0.57/mol-adverts.js:1:794944)\n    at https://www.dailymail.co.uk/static/mol-adverts/4.0.57/mol-adverts.js:1:795003\n    at new Promise (<anonymous>)\n    at e.<anonymous> (https://www.dailymail.co.uk/static/mol-adverts/4.0.57/mol-adverts.js:1:794885)\n    at e.x.value (https://www.dailymail.co.uk/static/mol-adverts/4.0.57/mol-adverts.js:1:804798)\n    at r.value (https://www.dailymail.co.uk/static/mol-adverts/4.0.57/mol-adverts.js:1:798545)\n    at https://www.dailymail.co.uk/static/mol-adverts/4.0.57/mol-adverts.js:1:740527\n    at u (https://www.dailymail.co.uk/static/mol-fe/static/mol-fe-sync-bundle/4.3.0/desktop.js:8:230340)\n    at Generator._invoke (https://www.dailymail.co.uk/static/mol-fe/static/mol-fe-sync-bundle/4.3.0/desktop.js:8:230128)\n    at Generator.forEach.e.<computed> [as next] (https://www.dailymail.co.uk/static/mol-fe/static/mol-fe-sync-bundle/4.3.0/desktop.js:8:230763)\n    at u (https://www.dailymail.co.uk/static/mol-adverts/4.0.57/mol-adverts.js:1:741183)\n    at i (https://www.dailymail.co.uk/static/mol-adverts/4.0.57/mol-adverts.js:1:741385)\n    at https://www.dailymail.co.uk/static/mol-adverts/4.0.57/mol-adverts.js:1:741444\n    at new Promise (<anonymous>)\n    at https://www.dailymail.co.uk/static/mol-adverts/4.0.57/mol-adverts.js:1:741326",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "endpoint",
+              "type": "object",
+              "value": "Array(1)",
+              "subtype": "array"
+            },
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "Error: No end point registered: [\"is page visible?…static/mol-adverts/4.0.57/mol-adverts.js:1:741326"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "No end point registered: [\"is page visible?\"]"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583749899576.883,
+    "exceptionDetails": {
+      "exceptionId": 2,
+      "text": "Uncaught (in promise)",
+      "lineNumber": 0,
+      "columnNumber": 793891,
+      "url": "https://www.dailymail.co.uk/static/mol-adverts/4.0.57/mol-adverts.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "t",
+            "scriptId": "28",
+            "url": "https://www.dailymail.co.uk/static/mol-adverts/4.0.57/mol-adverts.js",
+            "lineNumber": 0,
+            "columnNumber": 793891
+          },
+          {
+            "functionName": "e",
+            "scriptId": "28",
+            "url": "https://www.dailymail.co.uk/static/mol-adverts/4.0.57/mol-adverts.js",
+            "lineNumber": 0,
+            "columnNumber": 810317
+          },
+          {
+            "functionName": "r",
+            "scriptId": "28",
+            "url": "https://www.dailymail.co.uk/static/mol-adverts/4.0.57/mol-adverts.js",
+            "lineNumber": 0,
+            "columnNumber": 810573
+          },
+          {
+            "functionName": "",
+            "scriptId": "28",
+            "url": "https://www.dailymail.co.uk/static/mol-adverts/4.0.57/mol-adverts.js",
+            "lineNumber": 0,
+            "columnNumber": 804126
+          },
+          {
+            "functionName": "u",
+            "scriptId": "25",
+            "url": "https://www.dailymail.co.uk/static/mol-fe/static/mol-fe-sync-bundle/4.3.0/desktop.js",
+            "lineNumber": 7,
+            "columnNumber": 230339
+          },
+          {
+            "functionName": "",
+            "scriptId": "25",
+            "url": "https://www.dailymail.co.uk/static/mol-fe/static/mol-fe-sync-bundle/4.3.0/desktop.js",
+            "lineNumber": 7,
+            "columnNumber": 230127
+          },
+          {
+            "functionName": "forEach.e.<computed>",
+            "scriptId": "25",
+            "url": "https://www.dailymail.co.uk/static/mol-fe/static/mol-fe-sync-bundle/4.3.0/desktop.js",
+            "lineNumber": 7,
+            "columnNumber": 230762
+          },
+          {
+            "functionName": "b",
+            "scriptId": "28",
+            "url": "https://www.dailymail.co.uk/static/mol-adverts/4.0.57/mol-adverts.js",
+            "lineNumber": 0,
+            "columnNumber": 794741
+          },
+          {
+            "functionName": "i",
+            "scriptId": "28",
+            "url": "https://www.dailymail.co.uk/static/mol-adverts/4.0.57/mol-adverts.js",
+            "lineNumber": 0,
+            "columnNumber": 794943
+          },
+          {
+            "functionName": "",
+            "scriptId": "28",
+            "url": "https://www.dailymail.co.uk/static/mol-adverts/4.0.57/mol-adverts.js",
+            "lineNumber": 0,
+            "columnNumber": 795002
+          },
+          {
+            "functionName": "",
+            "scriptId": "28",
+            "url": "https://www.dailymail.co.uk/static/mol-adverts/4.0.57/mol-adverts.js",
+            "lineNumber": 0,
+            "columnNumber": 794884
+          },
+          {
+            "functionName": "",
+            "scriptId": "28",
+            "url": "https://www.dailymail.co.uk/static/mol-adverts/4.0.57/mol-adverts.js",
+            "lineNumber": 0,
+            "columnNumber": 804520
+          },
+          {
+            "functionName": "",
+            "scriptId": "28",
+            "url": "https://www.dailymail.co.uk/static/mol-adverts/4.0.57/mol-adverts.js",
+            "lineNumber": 0,
+            "columnNumber": 804644
+          },
+          {
+            "functionName": "u",
+            "scriptId": "25",
+            "url": "https://www.dailymail.co.uk/static/mol-fe/static/mol-fe-sync-bundle/4.3.0/desktop.js",
+            "lineNumber": 7,
+            "columnNumber": 230339
+          },
+          {
+            "functionName": "",
+            "scriptId": "25",
+            "url": "https://www.dailymail.co.uk/static/mol-fe/static/mol-fe-sync-bundle/4.3.0/desktop.js",
+            "lineNumber": 7,
+            "columnNumber": 230127
+          },
+          {
+            "functionName": "forEach.e.<computed>",
+            "scriptId": "25",
+            "url": "https://www.dailymail.co.uk/static/mol-fe/static/mol-fe-sync-bundle/4.3.0/desktop.js",
+            "lineNumber": 7,
+            "columnNumber": 230762
+          },
+          {
+            "functionName": "b",
+            "scriptId": "28",
+            "url": "https://www.dailymail.co.uk/static/mol-adverts/4.0.57/mol-adverts.js",
+            "lineNumber": 0,
+            "columnNumber": 794741
+          },
+          {
+            "functionName": "i",
+            "scriptId": "28",
+            "url": "https://www.dailymail.co.uk/static/mol-adverts/4.0.57/mol-adverts.js",
+            "lineNumber": 0,
+            "columnNumber": 794943
+          },
+          {
+            "functionName": "",
+            "scriptId": "28",
+            "url": "https://www.dailymail.co.uk/static/mol-adverts/4.0.57/mol-adverts.js",
+            "lineNumber": 0,
+            "columnNumber": 795002
+          },
+          {
+            "functionName": "",
+            "scriptId": "28",
+            "url": "https://www.dailymail.co.uk/static/mol-adverts/4.0.57/mol-adverts.js",
+            "lineNumber": 0,
+            "columnNumber": 794884
+          },
+          {
+            "functionName": "x.value",
+            "scriptId": "28",
+            "url": "https://www.dailymail.co.uk/static/mol-adverts/4.0.57/mol-adverts.js",
+            "lineNumber": 0,
+            "columnNumber": 804797
+          },
+          {
+            "functionName": "value",
+            "scriptId": "28",
+            "url": "https://www.dailymail.co.uk/static/mol-adverts/4.0.57/mol-adverts.js",
+            "lineNumber": 0,
+            "columnNumber": 798544
+          },
+          {
+            "functionName": "",
+            "scriptId": "28",
+            "url": "https://www.dailymail.co.uk/static/mol-adverts/4.0.57/mol-adverts.js",
+            "lineNumber": 0,
+            "columnNumber": 740526
+          },
+          {
+            "functionName": "u",
+            "scriptId": "25",
+            "url": "https://www.dailymail.co.uk/static/mol-fe/static/mol-fe-sync-bundle/4.3.0/desktop.js",
+            "lineNumber": 7,
+            "columnNumber": 230339
+          },
+          {
+            "functionName": "",
+            "scriptId": "25",
+            "url": "https://www.dailymail.co.uk/static/mol-fe/static/mol-fe-sync-bundle/4.3.0/desktop.js",
+            "lineNumber": 7,
+            "columnNumber": 230127
+          },
+          {
+            "functionName": "forEach.e.<computed>",
+            "scriptId": "25",
+            "url": "https://www.dailymail.co.uk/static/mol-fe/static/mol-fe-sync-bundle/4.3.0/desktop.js",
+            "lineNumber": 7,
+            "columnNumber": 230762
+          },
+          {
+            "functionName": "u",
+            "scriptId": "28",
+            "url": "https://www.dailymail.co.uk/static/mol-adverts/4.0.57/mol-adverts.js",
+            "lineNumber": 0,
+            "columnNumber": 741182
+          },
+          {
+            "functionName": "i",
+            "scriptId": "28",
+            "url": "https://www.dailymail.co.uk/static/mol-adverts/4.0.57/mol-adverts.js",
+            "lineNumber": 0,
+            "columnNumber": 741384
+          },
+          {
+            "functionName": "",
+            "scriptId": "28",
+            "url": "https://www.dailymail.co.uk/static/mol-adverts/4.0.57/mol-adverts.js",
+            "lineNumber": 0,
+            "columnNumber": 741443
+          },
+          {
+            "functionName": "",
+            "scriptId": "28",
+            "url": "https://www.dailymail.co.uk/static/mol-adverts/4.0.57/mol-adverts.js",
+            "lineNumber": 0,
+            "columnNumber": 741325
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "r",
+        "description": "Error: No end point registered: [\"is page visible?\"]\n    at https://www.dailymail.co.uk/static/mol-adverts/4.0.57/mol-adverts.js:1:804127\n    at u (https://www.dailymail.co.uk/static/mol-fe/static/mol-fe-sync-bundle/4.3.0/desktop.js:8:230340)\n    at Generator._invoke (https://www.dailymail.co.uk/static/mol-fe/static/mol-fe-sync-bundle/4.3.0/desktop.js:8:230128)\n    at Generator.forEach.e.<computed> [as next] (https://www.dailymail.co.uk/static/mol-fe/static/mol-fe-sync-bundle/4.3.0/desktop.js:8:230763)\n    at b (https://www.dailymail.co.uk/static/mol-adverts/4.0.57/mol-adverts.js:1:794742)\n    at i (https://www.dailymail.co.uk/static/mol-adverts/4.0.57/mol-adverts.js:1:794944)\n    at https://www.dailymail.co.uk/static/mol-adverts/4.0.57/mol-adverts.js:1:795003\n    at new Promise (<anonymous>)\n    at https://www.dailymail.co.uk/static/mol-adverts/4.0.57/mol-adverts.js:1:794885\n    at https://www.dailymail.co.uk/static/mol-adverts/4.0.57/mol-adverts.js:1:804521\n    at e.<anonymous> (https://www.dailymail.co.uk/static/mol-adverts/4.0.57/mol-adverts.js:1:804645)\n    at u (https://www.dailymail.co.uk/static/mol-fe/static/mol-fe-sync-bundle/4.3.0/desktop.js:8:230340)\n    at Generator._invoke (https://www.dailymail.co.uk/static/mol-fe/static/mol-fe-sync-bundle/4.3.0/desktop.js:8:230128)\n    at Generator.forEach.e.<computed> [as next] (https://www.dailymail.co.uk/static/mol-fe/static/mol-fe-sync-bundle/4.3.0/desktop.js:8:230763)\n    at b (https://www.dailymail.co.uk/static/mol-adverts/4.0.57/mol-adverts.js:1:794742)\n    at i (https://www.dailymail.co.uk/static/mol-adverts/4.0.57/mol-adverts.js:1:794944)\n    at https://www.dailymail.co.uk/static/mol-adverts/4.0.57/mol-adverts.js:1:795003\n    at new Promise (<anonymous>)\n    at e.<anonymous> (https://www.dailymail.co.uk/static/mol-adverts/4.0.57/mol-adverts.js:1:794885)\n    at e.x.value (https://www.dailymail.co.uk/static/mol-adverts/4.0.57/mol-adverts.js:1:804798)\n    at r.value (https://www.dailymail.co.uk/static/mol-adverts/4.0.57/mol-adverts.js:1:798545)\n    at https://www.dailymail.co.uk/static/mol-adverts/4.0.57/mol-adverts.js:1:740527\n    at u (https://www.dailymail.co.uk/static/mol-fe/static/mol-fe-sync-bundle/4.3.0/desktop.js:8:230340)\n    at Generator._invoke (https://www.dailymail.co.uk/static/mol-fe/static/mol-fe-sync-bundle/4.3.0/desktop.js:8:230128)\n    at Generator.forEach.e.<computed> [as next] (https://www.dailymail.co.uk/static/mol-fe/static/mol-fe-sync-bundle/4.3.0/desktop.js:8:230763)\n    at u (https://www.dailymail.co.uk/static/mol-adverts/4.0.57/mol-adverts.js:1:741183)\n    at i (https://www.dailymail.co.uk/static/mol-adverts/4.0.57/mol-adverts.js:1:741385)\n    at https://www.dailymail.co.uk/static/mol-adverts/4.0.57/mol-adverts.js:1:741444\n    at new Promise (<anonymous>)\n    at https://www.dailymail.co.uk/static/mol-adverts/4.0.57/mol-adverts.js:1:741326",
+        "objectId": "{\"injectedScriptId\":3,\"id\":2}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "Error: No end point registered: [\"is page visible?\"]\n    at https://www.dailymail.co.uk/static/mol-adverts/4.0.57/mol-adverts.js:1:804127\n    at u (https://www.dailymail.co.uk/static/mol-fe/static/mol-fe-sync-bundle/4.3.0/desktop.js:8:230340)\n    at Generator._invoke (https://www.dailymail.co.uk/static/mol-fe/static/mol-fe-sync-bundle/4.3.0/desktop.js:8:230128)\n    at Generator.forEach.e.<computed> [as next] (https://www.dailymail.co.uk/static/mol-fe/static/mol-fe-sync-bundle/4.3.0/desktop.js:8:230763)\n    at b (https://www.dailymail.co.uk/static/mol-adverts/4.0.57/mol-adverts.js:1:794742)\n    at i (https://www.dailymail.co.uk/static/mol-adverts/4.0.57/mol-adverts.js:1:794944)\n    at https://www.dailymail.co.uk/static/mol-adverts/4.0.57/mol-adverts.js:1:795003\n    at new Promise (<anonymous>)\n    at https://www.dailymail.co.uk/static/mol-adverts/4.0.57/mol-adverts.js:1:794885\n    at https://www.dailymail.co.uk/static/mol-adverts/4.0.57/mol-adverts.js:1:804521\n    at e.<anonymous> (https://www.dailymail.co.uk/static/mol-adverts/4.0.57/mol-adverts.js:1:804645)\n    at u (https://www.dailymail.co.uk/static/mol-fe/static/mol-fe-sync-bundle/4.3.0/desktop.js:8:230340)\n    at Generator._invoke (https://www.dailymail.co.uk/static/mol-fe/static/mol-fe-sync-bundle/4.3.0/desktop.js:8:230128)\n    at Generator.forEach.e.<computed> [as next] (https://www.dailymail.co.uk/static/mol-fe/static/mol-fe-sync-bundle/4.3.0/desktop.js:8:230763)\n    at b (https://www.dailymail.co.uk/static/mol-adverts/4.0.57/mol-adverts.js:1:794742)\n    at i (https://www.dailymail.co.uk/static/mol-adverts/4.0.57/mol-adverts.js:1:794944)\n    at https://www.dailymail.co.uk/static/mol-adverts/4.0.57/mol-adverts.js:1:795003\n    at new Promise (<anonymous>)\n    at e.<anonymous> (https://www.dailymail.co.uk/static/mol-adverts/4.0.57/mol-adverts.js:1:794885)\n    at e.x.value (https://www.dailymail.co.uk/static/mol-adverts/4.0.57/mol-adverts.js:1:804798)\n    at r.value (https://www.dailymail.co.uk/static/mol-adverts/4.0.57/mol-adverts.js:1:798545)\n    at https://www.dailymail.co.uk/static/mol-adverts/4.0.57/mol-adverts.js:1:740527\n    at u (https://www.dailymail.co.uk/static/mol-fe/static/mol-fe-sync-bundle/4.3.0/desktop.js:8:230340)\n    at Generator._invoke (https://www.dailymail.co.uk/static/mol-fe/static/mol-fe-sync-bundle/4.3.0/desktop.js:8:230128)\n    at Generator.forEach.e.<computed> [as next] (https://www.dailymail.co.uk/static/mol-fe/static/mol-fe-sync-bundle/4.3.0/desktop.js:8:230763)\n    at u (https://www.dailymail.co.uk/static/mol-adverts/4.0.57/mol-adverts.js:1:741183)\n    at i (https://www.dailymail.co.uk/static/mol-adverts/4.0.57/mol-adverts.js:1:741385)\n    at https://www.dailymail.co.uk/static/mol-adverts/4.0.57/mol-adverts.js:1:741444\n    at new Promise (<anonymous>)\n    at https://www.dailymail.co.uk/static/mol-adverts/4.0.57/mol-adverts.js:1:741326",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "endpoint",
+              "type": "object",
+              "value": "Array(1)",
+              "subtype": "array"
+            },
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "Error: No end point registered: [\"is page visible?…static/mol-adverts/4.0.57/mol-adverts.js:1:741326"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "No end point registered: [\"is page visible?\"]"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

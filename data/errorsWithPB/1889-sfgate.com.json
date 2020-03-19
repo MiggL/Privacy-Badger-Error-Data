@@ -1,0 +1,49 @@
+[
+  {
+    "timestamp": 1582897452989.136,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 229,
+      "columnNumber": 37,
+      "url": "https://www.sfgate.com/?controllerName=cmfThirdPartyHeader&partnerName=houzz",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "40",
+            "url": "https://www.sfgate.com/?controllerName=cmfThirdPartyHeader&partnerName=houzz",
+            "lineNumber": 229,
+            "columnNumber": 37
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'style' of null\n    at https://www.sfgate.com/?controllerName=cmfThirdPartyHeader&partnerName=houzz:230:38",
+        "objectId": "{\"injectedScriptId\":3,\"id\":5}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'style' of null\n    at https://www.sfgate.com/?controllerName=cmfThirdPartyHeader&partnerName=houzz:230:38",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'style' of null\n  …Name=cmfThirdPartyHeader&partnerName=houzz:230:38"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'style' of null"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

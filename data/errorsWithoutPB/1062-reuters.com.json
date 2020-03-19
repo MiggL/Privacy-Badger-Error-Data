@@ -1,0 +1,382 @@
+[
+  {
+    "timestamp": 1583003653350.018,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 1,
+      "columnNumber": 138,
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "125",
+            "url": "",
+            "lineNumber": 1,
+            "columnNumber": 138
+          },
+          {
+            "functionName": "",
+            "scriptId": "125",
+            "url": "",
+            "lineNumber": 2,
+            "columnNumber": 38
+          },
+          {
+            "functionName": "u.kg",
+            "scriptId": "15",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-W9SLGS",
+            "lineNumber": 952,
+            "columnNumber": 55
+          },
+          {
+            "functionName": "u.mh",
+            "scriptId": "15",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-W9SLGS",
+            "lineNumber": 951,
+            "columnNumber": 247
+          },
+          {
+            "functionName": "u.gg",
+            "scriptId": "15",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-W9SLGS",
+            "lineNumber": 949,
+            "columnNumber": 218
+          },
+          {
+            "functionName": "u.kd",
+            "scriptId": "15",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-W9SLGS",
+            "lineNumber": 947,
+            "columnNumber": 252
+          },
+          {
+            "functionName": "u.write",
+            "scriptId": "15",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-W9SLGS",
+            "lineNumber": 946,
+            "columnNumber": 378
+          },
+          {
+            "functionName": "u",
+            "scriptId": "15",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-W9SLGS",
+            "lineNumber": 954,
+            "columnNumber": 43
+          },
+          {
+            "functionName": "q",
+            "scriptId": "15",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-W9SLGS",
+            "lineNumber": 953,
+            "columnNumber": 105
+          },
+          {
+            "functionName": "",
+            "scriptId": "15",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-W9SLGS",
+            "lineNumber": 954,
+            "columnNumber": 100
+          },
+          {
+            "functionName": "u.Jf",
+            "scriptId": "15",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-W9SLGS",
+            "lineNumber": 946,
+            "columnNumber": 476
+          },
+          {
+            "functionName": "u.write",
+            "scriptId": "15",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-W9SLGS",
+            "lineNumber": 946,
+            "columnNumber": 367
+          },
+          {
+            "functionName": "u.xe",
+            "scriptId": "15",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-W9SLGS",
+            "lineNumber": 951,
+            "columnNumber": 28
+          },
+          {
+            "functionName": "",
+            "scriptId": "15",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-W9SLGS",
+            "lineNumber": 949,
+            "columnNumber": 236
+          },
+          {
+            "functionName": "u.mh",
+            "scriptId": "15",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-W9SLGS",
+            "lineNumber": 951,
+            "columnNumber": 264
+          },
+          {
+            "functionName": "u.gg",
+            "scriptId": "15",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-W9SLGS",
+            "lineNumber": 949,
+            "columnNumber": 218
+          },
+          {
+            "functionName": "u.kd",
+            "scriptId": "15",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-W9SLGS",
+            "lineNumber": 947,
+            "columnNumber": 252
+          },
+          {
+            "functionName": "u.write",
+            "scriptId": "15",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-W9SLGS",
+            "lineNumber": 946,
+            "columnNumber": 378
+          },
+          {
+            "functionName": "u.xe",
+            "scriptId": "15",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-W9SLGS",
+            "lineNumber": 951,
+            "columnNumber": 28
+          },
+          {
+            "functionName": "",
+            "scriptId": "15",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-W9SLGS",
+            "lineNumber": 949,
+            "columnNumber": 236
+          },
+          {
+            "functionName": "",
+            "scriptId": "15",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-W9SLGS",
+            "lineNumber": 951,
+            "columnNumber": 227
+          },
+          {
+            "functionName": "onload",
+            "scriptId": "15",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-W9SLGS",
+            "lineNumber": 952,
+            "columnNumber": 215
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'appendChild' of null\n    at <anonymous>:2:139\n    at <anonymous>:3:39\n    at u.kg (https://www.googletagmanager.com/gtm.js?id=GTM-W9SLGS:953:56)\n    at u.mh (https://www.googletagmanager.com/gtm.js?id=GTM-W9SLGS:952:248)\n    at u.gg (https://www.googletagmanager.com/gtm.js?id=GTM-W9SLGS:950:219)\n    at u.kd (https://www.googletagmanager.com/gtm.js?id=GTM-W9SLGS:948:253)\n    at u.write (https://www.googletagmanager.com/gtm.js?id=GTM-W9SLGS:947:379)\n    at u (https://www.googletagmanager.com/gtm.js?id=GTM-W9SLGS:955:44)\n    at q (https://www.googletagmanager.com/gtm.js?id=GTM-W9SLGS:954:106)\n    at https://www.googletagmanager.com/gtm.js?id=GTM-W9SLGS:955:101",
+        "objectId": "{\"injectedScriptId\":3,\"id\":2}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'appendChild' of null\n    at <anonymous>:2:139\n    at <anonymous>:3:39\n    at u.kg (https://www.googletagmanager.com/gtm.js?id=GTM-W9SLGS:953:56)\n    at u.mh (https://www.googletagmanager.com/gtm.js?id=GTM-W9SLGS:952:248)\n    at u.gg (https://www.googletagmanager.com/gtm.js?id=GTM-W9SLGS:950:219)\n    at u.kd (https://www.googletagmanager.com/gtm.js?id=GTM-W9SLGS:948:253)\n    at u.write (https://www.googletagmanager.com/gtm.js?id=GTM-W9SLGS:947:379)\n    at u (https://www.googletagmanager.com/gtm.js?id=GTM-W9SLGS:955:44)\n    at q (https://www.googletagmanager.com/gtm.js?id=GTM-W9SLGS:954:106)\n    at https://www.googletagmanager.com/gtm.js?id=GTM-W9SLGS:955:101",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'appendChild' of n…googletagmanager.com/gtm.js?id=GTM-W9SLGS:955:101"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'appendChild' of null"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583003653350.258,
+    "exceptionDetails": {
+      "exceptionId": 2,
+      "text": "Uncaught",
+      "lineNumber": 945,
+      "columnNumber": 283,
+      "url": "https://www.googletagmanager.com/gtm.js?id=GTM-W9SLGS",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "error",
+            "scriptId": "15",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-W9SLGS",
+            "lineNumber": 945,
+            "columnNumber": 283
+          },
+          {
+            "functionName": "v.qb.onerror",
+            "scriptId": "15",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-W9SLGS",
+            "lineNumber": 953,
+            "columnNumber": 496
+          },
+          {
+            "functionName": "u.kg",
+            "scriptId": "15",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-W9SLGS",
+            "lineNumber": 952,
+            "columnNumber": 55
+          },
+          {
+            "functionName": "u.mh",
+            "scriptId": "15",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-W9SLGS",
+            "lineNumber": 951,
+            "columnNumber": 247
+          },
+          {
+            "functionName": "u.gg",
+            "scriptId": "15",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-W9SLGS",
+            "lineNumber": 949,
+            "columnNumber": 218
+          },
+          {
+            "functionName": "u.kd",
+            "scriptId": "15",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-W9SLGS",
+            "lineNumber": 947,
+            "columnNumber": 252
+          },
+          {
+            "functionName": "u.write",
+            "scriptId": "15",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-W9SLGS",
+            "lineNumber": 946,
+            "columnNumber": 378
+          },
+          {
+            "functionName": "u",
+            "scriptId": "15",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-W9SLGS",
+            "lineNumber": 954,
+            "columnNumber": 43
+          },
+          {
+            "functionName": "q",
+            "scriptId": "15",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-W9SLGS",
+            "lineNumber": 953,
+            "columnNumber": 105
+          },
+          {
+            "functionName": "",
+            "scriptId": "15",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-W9SLGS",
+            "lineNumber": 954,
+            "columnNumber": 100
+          },
+          {
+            "functionName": "u.Jf",
+            "scriptId": "15",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-W9SLGS",
+            "lineNumber": 946,
+            "columnNumber": 476
+          },
+          {
+            "functionName": "u.write",
+            "scriptId": "15",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-W9SLGS",
+            "lineNumber": 946,
+            "columnNumber": 367
+          },
+          {
+            "functionName": "u.xe",
+            "scriptId": "15",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-W9SLGS",
+            "lineNumber": 951,
+            "columnNumber": 28
+          },
+          {
+            "functionName": "",
+            "scriptId": "15",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-W9SLGS",
+            "lineNumber": 949,
+            "columnNumber": 236
+          },
+          {
+            "functionName": "u.mh",
+            "scriptId": "15",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-W9SLGS",
+            "lineNumber": 951,
+            "columnNumber": 264
+          },
+          {
+            "functionName": "u.gg",
+            "scriptId": "15",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-W9SLGS",
+            "lineNumber": 949,
+            "columnNumber": 218
+          },
+          {
+            "functionName": "u.kd",
+            "scriptId": "15",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-W9SLGS",
+            "lineNumber": 947,
+            "columnNumber": 252
+          },
+          {
+            "functionName": "u.write",
+            "scriptId": "15",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-W9SLGS",
+            "lineNumber": 946,
+            "columnNumber": 378
+          },
+          {
+            "functionName": "u.xe",
+            "scriptId": "15",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-W9SLGS",
+            "lineNumber": 951,
+            "columnNumber": 28
+          },
+          {
+            "functionName": "",
+            "scriptId": "15",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-W9SLGS",
+            "lineNumber": 949,
+            "columnNumber": 236
+          },
+          {
+            "functionName": "",
+            "scriptId": "15",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-W9SLGS",
+            "lineNumber": 951,
+            "columnNumber": 227
+          },
+          {
+            "functionName": "onload",
+            "scriptId": "15",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-W9SLGS",
+            "lineNumber": 952,
+            "columnNumber": 215
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "className": "Object",
+        "description": "Object",
+        "objectId": "{\"injectedScriptId\":3,\"id\":3}",
+        "preview": {
+          "type": "object",
+          "description": "Object",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "Eh",
+              "type": "string",
+              "value": "Uncaught TypeError: Cannot read property 'appendChild' of null - :2"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

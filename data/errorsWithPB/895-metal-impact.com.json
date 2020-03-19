@@ -1,0 +1,556 @@
+[
+  {
+    "timestamp": 1583424182728.965,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 74,
+      "columnNumber": 82,
+      "scriptId": "23",
+      "url": "http://www.metal-impact.com/index.php?name=Interviews&req=showcontent&id=520&POSTNUKESID=agmhcduoaoqygvjb",
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "SyntaxError",
+        "description": "SyntaxError: Unexpected identifier",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "SyntaxError: Unexpected identifier",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "SyntaxError: Unexpected identifier"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Unexpected identifier"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583424183730.368,
+    "exceptionDetails": {
+      "exceptionId": 2,
+      "text": "Uncaught",
+      "lineNumber": 142,
+      "columnNumber": 14,
+      "url": "http://www.metal-impact.com/index.php?name=Interviews&req=showcontent&id=520&POSTNUKESID=agmhcduoaoqygvjb",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "25",
+            "url": "http://www.metal-impact.com/index.php?name=Interviews&req=showcontent&id=520&POSTNUKESID=agmhcduoaoqygvjb",
+            "lineNumber": 142,
+            "columnNumber": 14
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: GetCookie is not defined\n    at http://www.metal-impact.com/index.php?name=Interviews&req=showcontent&id=520&POSTNUKESID=agmhcduoaoqygvjb:143:15",
+        "objectId": "{\"injectedScriptId\":3,\"id\":2}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: GetCookie is not defined\n    at http://www.metal-impact.com/index.php?name=Interviews&req=showcontent&id=520&POSTNUKESID=agmhcduoaoqygvjb:143:15",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: GetCookie is not defined\n    at ht…ontent&id=520&POSTNUKESID=agmhcduoaoqygvjb:143:15"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "GetCookie is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583424183751.003,
+    "exceptionDetails": {
+      "exceptionId": 3,
+      "text": "Uncaught",
+      "lineNumber": 179,
+      "columnNumber": 14,
+      "url": "http://www.metal-impact.com/index.php?name=Interviews&req=showcontent&id=520&POSTNUKESID=agmhcduoaoqygvjb",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "26",
+            "url": "http://www.metal-impact.com/index.php?name=Interviews&req=showcontent&id=520&POSTNUKESID=agmhcduoaoqygvjb",
+            "lineNumber": 179,
+            "columnNumber": 14
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: GetCookie is not defined\n    at http://www.metal-impact.com/index.php?name=Interviews&req=showcontent&id=520&POSTNUKESID=agmhcduoaoqygvjb:180:15",
+        "objectId": "{\"injectedScriptId\":3,\"id\":3}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: GetCookie is not defined\n    at http://www.metal-impact.com/index.php?name=Interviews&req=showcontent&id=520&POSTNUKESID=agmhcduoaoqygvjb:180:15",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: GetCookie is not defined\n    at ht…ontent&id=520&POSTNUKESID=agmhcduoaoqygvjb:180:15"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "GetCookie is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583424183760.573,
+    "exceptionDetails": {
+      "exceptionId": 4,
+      "text": "Uncaught",
+      "lineNumber": 201,
+      "columnNumber": 14,
+      "url": "http://www.metal-impact.com/index.php?name=Interviews&req=showcontent&id=520&POSTNUKESID=agmhcduoaoqygvjb",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "27",
+            "url": "http://www.metal-impact.com/index.php?name=Interviews&req=showcontent&id=520&POSTNUKESID=agmhcduoaoqygvjb",
+            "lineNumber": 201,
+            "columnNumber": 14
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: GetCookie is not defined\n    at http://www.metal-impact.com/index.php?name=Interviews&req=showcontent&id=520&POSTNUKESID=agmhcduoaoqygvjb:202:15",
+        "objectId": "{\"injectedScriptId\":3,\"id\":4}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: GetCookie is not defined\n    at http://www.metal-impact.com/index.php?name=Interviews&req=showcontent&id=520&POSTNUKESID=agmhcduoaoqygvjb:202:15",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: GetCookie is not defined\n    at ht…ontent&id=520&POSTNUKESID=agmhcduoaoqygvjb:202:15"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "GetCookie is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583424183761.4219,
+    "exceptionDetails": {
+      "exceptionId": 5,
+      "text": "Uncaught",
+      "lineNumber": 230,
+      "columnNumber": 14,
+      "url": "http://www.metal-impact.com/index.php?name=Interviews&req=showcontent&id=520&POSTNUKESID=agmhcduoaoqygvjb",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "28",
+            "url": "http://www.metal-impact.com/index.php?name=Interviews&req=showcontent&id=520&POSTNUKESID=agmhcduoaoqygvjb",
+            "lineNumber": 230,
+            "columnNumber": 14
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: GetCookie is not defined\n    at http://www.metal-impact.com/index.php?name=Interviews&req=showcontent&id=520&POSTNUKESID=agmhcduoaoqygvjb:231:15",
+        "objectId": "{\"injectedScriptId\":3,\"id\":5}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: GetCookie is not defined\n    at http://www.metal-impact.com/index.php?name=Interviews&req=showcontent&id=520&POSTNUKESID=agmhcduoaoqygvjb:231:15",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: GetCookie is not defined\n    at ht…ontent&id=520&POSTNUKESID=agmhcduoaoqygvjb:231:15"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "GetCookie is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583424183762.326,
+    "exceptionDetails": {
+      "exceptionId": 6,
+      "text": "Uncaught",
+      "lineNumber": 271,
+      "columnNumber": 14,
+      "url": "http://www.metal-impact.com/index.php?name=Interviews&req=showcontent&id=520&POSTNUKESID=agmhcduoaoqygvjb",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "29",
+            "url": "http://www.metal-impact.com/index.php?name=Interviews&req=showcontent&id=520&POSTNUKESID=agmhcduoaoqygvjb",
+            "lineNumber": 271,
+            "columnNumber": 14
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: GetCookie is not defined\n    at http://www.metal-impact.com/index.php?name=Interviews&req=showcontent&id=520&POSTNUKESID=agmhcduoaoqygvjb:272:15",
+        "objectId": "{\"injectedScriptId\":3,\"id\":6}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: GetCookie is not defined\n    at http://www.metal-impact.com/index.php?name=Interviews&req=showcontent&id=520&POSTNUKESID=agmhcduoaoqygvjb:272:15",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: GetCookie is not defined\n    at ht…ontent&id=520&POSTNUKESID=agmhcduoaoqygvjb:272:15"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "GetCookie is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583424183763.268,
+    "exceptionDetails": {
+      "exceptionId": 7,
+      "text": "Uncaught",
+      "lineNumber": 315,
+      "columnNumber": 14,
+      "url": "http://www.metal-impact.com/index.php?name=Interviews&req=showcontent&id=520&POSTNUKESID=agmhcduoaoqygvjb",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "30",
+            "url": "http://www.metal-impact.com/index.php?name=Interviews&req=showcontent&id=520&POSTNUKESID=agmhcduoaoqygvjb",
+            "lineNumber": 315,
+            "columnNumber": 14
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: GetCookie is not defined\n    at http://www.metal-impact.com/index.php?name=Interviews&req=showcontent&id=520&POSTNUKESID=agmhcduoaoqygvjb:316:15",
+        "objectId": "{\"injectedScriptId\":3,\"id\":7}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: GetCookie is not defined\n    at http://www.metal-impact.com/index.php?name=Interviews&req=showcontent&id=520&POSTNUKESID=agmhcduoaoqygvjb:316:15",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: GetCookie is not defined\n    at ht…ontent&id=520&POSTNUKESID=agmhcduoaoqygvjb:316:15"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "GetCookie is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583424183764.792,
+    "exceptionDetails": {
+      "exceptionId": 8,
+      "text": "Uncaught",
+      "lineNumber": 337,
+      "columnNumber": 14,
+      "url": "http://www.metal-impact.com/index.php?name=Interviews&req=showcontent&id=520&POSTNUKESID=agmhcduoaoqygvjb",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "31",
+            "url": "http://www.metal-impact.com/index.php?name=Interviews&req=showcontent&id=520&POSTNUKESID=agmhcduoaoqygvjb",
+            "lineNumber": 337,
+            "columnNumber": 14
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: GetCookie is not defined\n    at http://www.metal-impact.com/index.php?name=Interviews&req=showcontent&id=520&POSTNUKESID=agmhcduoaoqygvjb:338:15",
+        "objectId": "{\"injectedScriptId\":3,\"id\":8}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: GetCookie is not defined\n    at http://www.metal-impact.com/index.php?name=Interviews&req=showcontent&id=520&POSTNUKESID=agmhcduoaoqygvjb:338:15",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: GetCookie is not defined\n    at ht…ontent&id=520&POSTNUKESID=agmhcduoaoqygvjb:338:15"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "GetCookie is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583424183765.6409,
+    "exceptionDetails": {
+      "exceptionId": 9,
+      "text": "Uncaught",
+      "lineNumber": 378,
+      "columnNumber": 14,
+      "url": "http://www.metal-impact.com/index.php?name=Interviews&req=showcontent&id=520&POSTNUKESID=agmhcduoaoqygvjb",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "32",
+            "url": "http://www.metal-impact.com/index.php?name=Interviews&req=showcontent&id=520&POSTNUKESID=agmhcduoaoqygvjb",
+            "lineNumber": 378,
+            "columnNumber": 14
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: GetCookie is not defined\n    at http://www.metal-impact.com/index.php?name=Interviews&req=showcontent&id=520&POSTNUKESID=agmhcduoaoqygvjb:379:15",
+        "objectId": "{\"injectedScriptId\":3,\"id\":9}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: GetCookie is not defined\n    at http://www.metal-impact.com/index.php?name=Interviews&req=showcontent&id=520&POSTNUKESID=agmhcduoaoqygvjb:379:15",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: GetCookie is not defined\n    at ht…ontent&id=520&POSTNUKESID=agmhcduoaoqygvjb:379:15"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "GetCookie is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583424183766.5762,
+    "exceptionDetails": {
+      "exceptionId": 10,
+      "text": "Uncaught",
+      "lineNumber": 410,
+      "columnNumber": 14,
+      "url": "http://www.metal-impact.com/index.php?name=Interviews&req=showcontent&id=520&POSTNUKESID=agmhcduoaoqygvjb",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "33",
+            "url": "http://www.metal-impact.com/index.php?name=Interviews&req=showcontent&id=520&POSTNUKESID=agmhcduoaoqygvjb",
+            "lineNumber": 410,
+            "columnNumber": 14
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: GetCookie is not defined\n    at http://www.metal-impact.com/index.php?name=Interviews&req=showcontent&id=520&POSTNUKESID=agmhcduoaoqygvjb:411:15",
+        "objectId": "{\"injectedScriptId\":3,\"id\":10}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: GetCookie is not defined\n    at http://www.metal-impact.com/index.php?name=Interviews&req=showcontent&id=520&POSTNUKESID=agmhcduoaoqygvjb:411:15",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: GetCookie is not defined\n    at ht…ontent&id=520&POSTNUKESID=agmhcduoaoqygvjb:411:15"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "GetCookie is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583424183775.1008,
+    "exceptionDetails": {
+      "exceptionId": 11,
+      "text": "Uncaught",
+      "lineNumber": 433,
+      "columnNumber": 14,
+      "url": "http://www.metal-impact.com/index.php?name=Interviews&req=showcontent&id=520&POSTNUKESID=agmhcduoaoqygvjb",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "34",
+            "url": "http://www.metal-impact.com/index.php?name=Interviews&req=showcontent&id=520&POSTNUKESID=agmhcduoaoqygvjb",
+            "lineNumber": 433,
+            "columnNumber": 14
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: GetCookie is not defined\n    at http://www.metal-impact.com/index.php?name=Interviews&req=showcontent&id=520&POSTNUKESID=agmhcduoaoqygvjb:434:15",
+        "objectId": "{\"injectedScriptId\":3,\"id\":11}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: GetCookie is not defined\n    at http://www.metal-impact.com/index.php?name=Interviews&req=showcontent&id=520&POSTNUKESID=agmhcduoaoqygvjb:434:15",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: GetCookie is not defined\n    at ht…ontent&id=520&POSTNUKESID=agmhcduoaoqygvjb:434:15"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "GetCookie is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583424184098.198,
+    "exceptionDetails": {
+      "exceptionId": 12,
+      "text": "Uncaught",
+      "lineNumber": 91,
+      "columnNumber": 74,
+      "url": "http://www.metal-impact.com/index.php?name=Interviews&req=showcontent&id=520&POSTNUKESID=agmhcduoaoqygvjb",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "onload",
+            "scriptId": "41",
+            "url": "http://www.metal-impact.com/index.php?name=Interviews&req=showcontent&id=520&POSTNUKESID=agmhcduoaoqygvjb",
+            "lineNumber": 91,
+            "columnNumber": 74
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: doblocks is not defined\n    at onload (http://www.metal-impact.com/index.php?name=Interviews&req=showcontent&id=520&POSTNUKESID=agmhcduoaoqygvjb:92:75)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":12}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: doblocks is not defined\n    at onload (http://www.metal-impact.com/index.php?name=Interviews&req=showcontent&id=520&POSTNUKESID=agmhcduoaoqygvjb:92:75)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: doblocks is not defined\n    at onl…ontent&id=520&POSTNUKESID=agmhcduoaoqygvjb:92:75)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "doblocks is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

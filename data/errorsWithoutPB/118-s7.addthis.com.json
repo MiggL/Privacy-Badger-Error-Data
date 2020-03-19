@@ -1,0 +1,79 @@
+[
+  {
+    "timestamp": 1583012285552.482,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 1,
+      "columnNumber": 17311,
+      "url": "https://s7.addthis.com/static/r07/sh69.html",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "c.atob",
+            "scriptId": "12",
+            "url": "https://s7.addthis.com/static/r07/sh69.html",
+            "lineNumber": 1,
+            "columnNumber": 17311
+          },
+          {
+            "functionName": "b",
+            "scriptId": "12",
+            "url": "https://s7.addthis.com/static/r07/sh69.html",
+            "lineNumber": 1,
+            "columnNumber": 17464
+          },
+          {
+            "functionName": "run",
+            "scriptId": "12",
+            "url": "https://s7.addthis.com/static/r07/sh69.html",
+            "lineNumber": 1,
+            "columnNumber": 39598
+          },
+          {
+            "functionName": "onload",
+            "scriptId": "13",
+            "url": "https://s7.addthis.com/static/r07/sh69.html",
+            "lineNumber": 0,
+            "columnNumber": 296
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "DOMException",
+        "description": "DOMException: Failed to execute 'atob' on 'Window': The string to be decoded is not correctly encoded.\n    at Object.c.atob (https://s7.addthis.com/static/r07/sh69.html:2:17312)\n    at Object.b [as dec] (https://s7.addthis.com/static/r07/sh69.html:2:17465)\n    at run (https://s7.addthis.com/static/r07/sh69.html:2:39599)\n    at onload (https://s7.addthis.com/static/r07/sh69.html:1:297)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "DOMException: Failed to execute 'atob' on 'Window': The string to be decoded is not correctly encoded.\n    at Object.c.atob (https://s7.addthis.com/static/r07/sh69.html:2:17312)\n    at Object.b [as dec] (https://s7.addthis.com/static/r07/sh69.html:2:17465)\n    at run (https://s7.addthis.com/static/r07/sh69.html:2:39599)\n    at onload (https://s7.addthis.com/static/r07/sh69.html:1:297)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "accessor"
+            },
+            {
+              "name": "code",
+              "type": "number",
+              "value": "5"
+            },
+            {
+              "name": "name",
+              "type": "string",
+              "value": "InvalidCharacterError"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Failed to execute 'atob' on 'Window': The string to be decoded is not correctly encoded."
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

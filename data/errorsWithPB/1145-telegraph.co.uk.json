@@ -1,0 +1,158 @@
+[
+  {
+    "timestamp": 1583421856371.4868,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 2122,
+      "columnNumber": 15,
+      "url": "https://www.telegraph.co.uk/news/worldnews/africaandindianocean/southafrica/12173750/Why-the-worlds-largest-rhino-farmer-is-cutting-off-their-horns.html",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "162",
+            "url": "https://www.telegraph.co.uk/news/worldnews/africaandindianocean/southafrica/12173750/Why-the-worlds-largest-rhino-farmer-is-cutting-off-their-horns.html",
+            "lineNumber": 2122,
+            "columnNumber": 15
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: nol_t is not defined\n    at https://www.telegraph.co.uk/news/worldnews/africaandindianocean/southafrica/12173750/Why-the-worlds-largest-rhino-farmer-is-cutting-off-their-horns.html:2123:16",
+        "objectId": "{\"injectedScriptId\":3,\"id\":2}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: nol_t is not defined\n    at https://www.telegraph.co.uk/news/worldnews/africaandindianocean/southafrica/12173750/Why-the-worlds-largest-rhino-farmer-is-cutting-off-their-horns.html:2123:16",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: nol_t is not defined\n    at https:…no-farmer-is-cutting-off-their-horns.html:2123:16"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "nol_t is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583421856382.2751,
+    "exceptionDetails": {
+      "exceptionId": 2,
+      "text": "Uncaught",
+      "lineNumber": 153,
+      "columnNumber": 60,
+      "url": "https://www.telegraph.co.uk/news/worldnews/africaandindianocean/southafrica/12173750/Why-the-worlds-largest-rhino-farmer-is-cutting-off-their-horns.html",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "document.onreadystatechange",
+            "scriptId": "29",
+            "url": "https://www.telegraph.co.uk/news/worldnews/africaandindianocean/southafrica/12173750/Why-the-worlds-largest-rhino-farmer-is-cutting-off-their-horns.html",
+            "lineNumber": 153,
+            "columnNumber": 60
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot set property 'src' of null\n    at HTMLDocument.document.onreadystatechange (https://www.telegraph.co.uk/news/worldnews/africaandindianocean/southafrica/12173750/Why-the-worlds-largest-rhino-farmer-is-cutting-off-their-horns.html:154:61)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":3}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot set property 'src' of null\n    at HTMLDocument.document.onreadystatechange (https://www.telegraph.co.uk/news/worldnews/africaandindianocean/southafrica/12173750/Why-the-worlds-largest-rhino-farmer-is-cutting-off-their-horns.html:154:61)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot set property 'src' of null\n    a…no-farmer-is-cutting-off-their-horns.html:154:61)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot set property 'src' of null"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583421857507.302,
+    "exceptionDetails": {
+      "exceptionId": 3,
+      "text": "Uncaught",
+      "lineNumber": 153,
+      "columnNumber": 60,
+      "url": "https://www.telegraph.co.uk/news/worldnews/africaandindianocean/southafrica/12173750/Why-the-worlds-largest-rhino-farmer-is-cutting-off-their-horns.html",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "document.onreadystatechange",
+            "scriptId": "29",
+            "url": "https://www.telegraph.co.uk/news/worldnews/africaandindianocean/southafrica/12173750/Why-the-worlds-largest-rhino-farmer-is-cutting-off-their-horns.html",
+            "lineNumber": 153,
+            "columnNumber": 60
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot set property 'src' of null at HTMLDocument.document.onreadystatechange (https://www.telegraph.co.uk/news/worldnews/africaandindianocean/southafrica/12173750/Why-the-worlds-largest-rhino-farmer-is-cutting-off-their-horns.html:154:61)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":4}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot set property 'src' of null at HTMLDocument.document.onreadystatechange (https://www.telegraph.co.uk/news/worldnews/africaandindianocean/southafrica/12173750/Why-the-worlds-largest-rhino-farmer-is-cutting-off-their-horns.html:154:61)",
+          "overflow": true,
+          "properties": [
+            {
+              "name": "reported",
+              "type": "boolean",
+              "value": "true"
+            },
+            {
+              "name": "timestamp",
+              "type": "number",
+              "value": "1583421857506"
+            },
+            {
+              "name": "lineNumber",
+              "type": "string",
+              "value": "154"
+            },
+            {
+              "name": "columnNumber",
+              "type": "string",
+              "value": "61"
+            },
+            {
+              "name": "functionName",
+              "type": "string",
+              "value": "HTMLDocument.document.onreadystatechange"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

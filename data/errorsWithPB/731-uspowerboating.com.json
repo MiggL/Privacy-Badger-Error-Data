@@ -1,0 +1,49 @@
+[
+  {
+    "timestamp": 1583425713988.672,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 332,
+      "columnNumber": 26,
+      "url": "https://uspowerboating.com/",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "44",
+            "url": "https://uspowerboating.com/",
+            "lineNumber": 332,
+            "columnNumber": 26
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: Awesomplete is not defined\n    at https://uspowerboating.com/:333:27",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: Awesomplete is not defined\n    at https://uspowerboating.com/:333:27",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: Awesomplete is not defined\n    at https://uspowerboating.com/:333:27"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Awesomplete is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

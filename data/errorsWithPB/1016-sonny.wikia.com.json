@@ -1,0 +1,56 @@
+[
+  {
+    "timestamp": 1583423067411.412,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 0,
+      "columnNumber": 720,
+      "url": "https://sonny.fandom.com/load.php?cb=1583402581668&debug=false&lang=en&modules=site&only=scripts&reviewed=1441732920&skin=oasis&*",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "createCollapseButtons",
+            "scriptId": "60",
+            "url": "https://sonny.fandom.com/load.php?cb=1583402581668&debug=false&lang=en&modules=site&only=scripts&reviewed=1441732920&skin=oasis&*",
+            "lineNumber": 0,
+            "columnNumber": 720
+          },
+          {
+            "functionName": "window.runOnloadHook",
+            "scriptId": "47",
+            "url": "https://slot1-images.wikia.nocookie.net/__load/-/debug%3Dfalse%26lang%3Den%26skin%3Doasis%26version%3D1583402581668-20200305T094500Z/amd.shared%7Cext.wikia.facebookTags%7Cjquery.byteLength,checkboxShiftClick,client,cookie,makeCollapsible,messageBox,mw-jump,mwExtension,timeago%7Cmediawiki.Title,Uri,cldr,jqueryMsg,language,user,util%7Cmediawiki.language.init%7Cmediawiki.legacy.ajax,wikibits%7Cmediawiki.libs.pluralruleparser%7Cmediawiki.page.ready,startup%7Cunderscore%7Cwikia.fbLocale,history,importScript,loader,mw,nirvana,throbber,thumbnailer,tracker",
+            "lineNumber": 73,
+            "columnNumber": 528
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: hasClass is not defined\n    at Array.createCollapseButtons (https://sonny.fandom.com/load.php?cb=1583402581668&debug=false&lang=en&modules=site&only=scripts&reviewed=1441732920&skin=oasis&*:1:721)\n    at window.runOnloadHook (https://slot1-images.wikia.nocookie.net/__load/-/debug%3Dfalse%26lang%3Den%26skin%3Doasis%26version%3D1583402581668-20200305T094500Z/amd.shared%7Cext.wikia.facebookTags%7Cjquery.byteLength,checkboxShiftClick,client,cookie,makeCollapsible,messageBox,mw-jump,mwExtension,timeago%7Cmediawiki.Title,Uri,cldr,jqueryMsg,language,user,util%7Cmediawiki.language.init%7Cmediawiki.legacy.ajax,wikibits%7Cmediawiki.libs.pluralruleparser%7Cmediawiki.page.ready,startup%7Cunderscore%7Cwikia.fbLocale,history,importScript,loader,mw,nirvana,throbber,thumbnailer,tracker:74:529)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: hasClass is not defined\n    at Array.createCollapseButtons (https://sonny.fandom.com/load.php?cb=1583402581668&debug=false&lang=en&modules=site&only=scripts&reviewed=1441732920&skin=oasis&*:1:721)\n    at window.runOnloadHook (https://slot1-images.wikia.nocookie.net/__load/-/debug%3Dfalse%26lang%3Den%26skin%3Doasis%26version%3D1583402581668-20200305T094500Z/amd.shared%7Cext.wikia.facebookTags%7Cjquery.byteLength,checkboxShiftClick,client,cookie,makeCollapsible,messageBox,mw-jump,mwExtension,timeago%7Cmediawiki.Title,Uri,cldr,jqueryMsg,language,user,util%7Cmediawiki.language.init%7Cmediawiki.legacy.ajax,wikibits%7Cmediawiki.libs.pluralruleparser%7Cmediawiki.page.ready,startup%7Cunderscore%7Cwikia.fbLocale,history,importScript,loader,mw,nirvana,throbber,thumbnailer,tracker:74:529)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: hasClass is not defined\n    at Arr…r,mw,nirvana,throbber,thumbnailer,tracker:74:529)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "hasClass is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

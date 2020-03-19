@@ -1,0 +1,49 @@
+[
+  {
+    "timestamp": 1583001893897.351,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 64,
+      "columnNumber": 578,
+      "url": "https://camelot.allakhazam.com/item.html?citem=8065",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "19",
+            "url": "https://camelot.allakhazam.com/item.html?citem=8065",
+            "lineNumber": 64,
+            "columnNumber": 578
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'appendChild' of null\n    at https://camelot.allakhazam.com/item.html?citem=8065:65:579",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'appendChild' of null\n    at https://camelot.allakhazam.com/item.html?citem=8065:65:579",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'appendChild' of n…amelot.allakhazam.com/item.html?citem=8065:65:579"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'appendChild' of null"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

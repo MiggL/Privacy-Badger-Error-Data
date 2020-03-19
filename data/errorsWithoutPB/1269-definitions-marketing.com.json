@@ -1,0 +1,63 @@
+[
+  {
+    "timestamp": 1583001703546.199,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 5,
+      "columnNumber": 2476,
+      "url": "https://www.definitions-marketing.com/lib/js/bootstrap.min.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "12",
+            "url": "https://www.definitions-marketing.com/lib/js/bootstrap.min.js",
+            "lineNumber": 5,
+            "columnNumber": 2476
+          },
+          {
+            "functionName": "",
+            "scriptId": "12",
+            "url": "https://www.definitions-marketing.com/lib/js/bootstrap.min.js",
+            "lineNumber": 5,
+            "columnNumber": 166
+          },
+          {
+            "functionName": "",
+            "scriptId": "12",
+            "url": "https://www.definitions-marketing.com/lib/js/bootstrap.min.js",
+            "lineNumber": 5,
+            "columnNumber": 203
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'fn' of undefined\n    at https://www.definitions-marketing.com/lib/js/bootstrap.min.js:6:2477\n    at https://www.definitions-marketing.com/lib/js/bootstrap.min.js:6:167\n    at https://www.definitions-marketing.com/lib/js/bootstrap.min.js:6:204",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'fn' of undefined\n    at https://www.definitions-marketing.com/lib/js/bootstrap.min.js:6:2477\n    at https://www.definitions-marketing.com/lib/js/bootstrap.min.js:6:167\n    at https://www.definitions-marketing.com/lib/js/bootstrap.min.js:6:204",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'fn' of undefined\n…tions-marketing.com/lib/js/bootstrap.min.js:6:204"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'fn' of undefined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

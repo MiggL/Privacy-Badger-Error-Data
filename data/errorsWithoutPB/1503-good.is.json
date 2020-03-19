@@ -1,0 +1,44 @@
+[
+  {
+    "timestamp": 1582818311499.28,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught (in promise)",
+      "lineNumber": 0,
+      "columnNumber": 0,
+      "scriptId": "1",
+      "url": "https://c5x8i7c7.ssl.hwcdn.net/vplayer-parallel/20190502_1129/videojs/show_playlist_2p_n.html?controls=1&loop=30&autoplay=0&tracker=58fce634-0a0b-49a7-a4d4-21b55ffadfad&height=419&width=645",
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "DOMException",
+        "description": "DOMException: Failed to load because no supported source was found.",
+        "objectId": "{\"injectedScriptId\":9,\"id\":3}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "DOMException: Failed to load because no supported source was found.",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "code",
+              "type": "number",
+              "value": "9"
+            },
+            {
+              "name": "name",
+              "type": "string",
+              "value": "NotSupportedError"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Failed to load because no supported source was found."
+            }
+          ]
+        }
+      },
+      "executionContextId": 9
+    }
+  }
+]

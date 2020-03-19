@@ -1,0 +1,49 @@
+[
+  {
+    "timestamp": 1582922530756.1792,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 4361,
+      "columnNumber": 6,
+      "url": "https://www.independent.co.uk/news/world/middle-east/aleppo-fake-footage-children-five-peopele-arrested-egyptian-police-a7486541.html",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "29",
+            "url": "https://www.independent.co.uk/news/world/middle-east/aleppo-fake-footage-children-five-peopele-arrested-egyptian-police-a7486541.html",
+            "lineNumber": 4361,
+            "columnNumber": 6
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: ga is not defined\n    at https://www.independent.co.uk/news/world/middle-east/aleppo-fake-footage-children-five-peopele-arrested-egyptian-police-a7486541.html:4362:7",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: ga is not defined\n    at https://www.independent.co.uk/news/world/middle-east/aleppo-fake-footage-children-five-peopele-arrested-egyptian-police-a7486541.html:4362:7",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: ga is not defined\n    at https://w…ele-arrested-egyptian-police-a7486541.html:4362:7"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "ga is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

@@ -1,0 +1,98 @@
+[
+  {
+    "timestamp": 1583000586613.472,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 0,
+      "columnNumber": 1034,
+      "url": "http://www.diveandtraveltheworld.com/wordpress/wp-includes/js/hoverIntent.min.js?ver=1.8.1",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "a.fn.hoverIntent",
+            "scriptId": "31",
+            "url": "http://www.diveandtraveltheworld.com/wordpress/wp-includes/js/hoverIntent.min.js?ver=1.8.1",
+            "lineNumber": 0,
+            "columnNumber": 1034
+          },
+          {
+            "functionName": "",
+            "scriptId": "17",
+            "url": "http://www.diveandtraveltheworld.com/wordpress/wp-content/themes/catalyst/js/menu/superfish.js",
+            "lineNumber": 48,
+            "columnNumber": 85
+          },
+          {
+            "functionName": "each",
+            "scriptId": "15",
+            "url": "http://www.diveandtraveltheworld.com/wordpress/wp-content/themes/catalyst/js/jquery.tools.min.js",
+            "lineNumber": 49,
+            "columnNumber": 150
+          },
+          {
+            "functionName": "each",
+            "scriptId": "15",
+            "url": "http://www.diveandtraveltheworld.com/wordpress/wp-content/themes/catalyst/js/jquery.tools.min.js",
+            "lineNumber": 43,
+            "columnNumber": 146
+          },
+          {
+            "functionName": "$.fn.superfish",
+            "scriptId": "17",
+            "url": "http://www.diveandtraveltheworld.com/wordpress/wp-content/themes/catalyst/js/menu/superfish.js",
+            "lineNumber": 39,
+            "columnNumber": 14
+          },
+          {
+            "functionName": "",
+            "scriptId": "28",
+            "url": "http://www.diveandtraveltheworld.com/wordpress/wp-content/themes/catalyst/js/common.js",
+            "lineNumber": 2,
+            "columnNumber": 19
+          },
+          {
+            "functionName": "ready",
+            "scriptId": "15",
+            "url": "http://www.diveandtraveltheworld.com/wordpress/wp-content/themes/catalyst/js/jquery.tools.min.js",
+            "lineNumber": 45,
+            "columnNumber": 288
+          },
+          {
+            "functionName": "L",
+            "scriptId": "15",
+            "url": "http://www.diveandtraveltheworld.com/wordpress/wp-content/themes/catalyst/js/jquery.tools.min.js",
+            "lineNumber": 52,
+            "columnNumber": 150
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: this.on is not a function\n    at init.a.fn.hoverIntent (http://www.diveandtraveltheworld.com/wordpress/wp-includes/js/hoverIntent.min.js?ver=1.8.1:1:1035)\n    at HTMLUListElement.<anonymous> (http://www.diveandtraveltheworld.com/wordpress/wp-content/themes/catalyst/js/menu/superfish.js:49:86)\n    at Function.each (http://www.diveandtraveltheworld.com/wordpress/wp-content/themes/catalyst/js/jquery.tools.min.js:50:151)\n    at init.each (http://www.diveandtraveltheworld.com/wordpress/wp-content/themes/catalyst/js/jquery.tools.min.js:44:147)\n    at init.$.fn.superfish (http://www.diveandtraveltheworld.com/wordpress/wp-content/themes/catalyst/js/menu/superfish.js:40:15)\n    at HTMLDocument.<anonymous> (http://www.diveandtraveltheworld.com/wordpress/wp-content/themes/catalyst/js/common.js:3:20)\n    at Function.ready (http://www.diveandtraveltheworld.com/wordpress/wp-content/themes/catalyst/js/jquery.tools.min.js:46:289)\n    at HTMLDocument.L (http://www.diveandtraveltheworld.com/wordpress/wp-content/themes/catalyst/js/jquery.tools.min.js:53:151)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: this.on is not a function\n    at init.a.fn.hoverIntent (http://www.diveandtraveltheworld.com/wordpress/wp-includes/js/hoverIntent.min.js?ver=1.8.1:1:1035)\n    at HTMLUListElement.<anonymous> (http://www.diveandtraveltheworld.com/wordpress/wp-content/themes/catalyst/js/menu/superfish.js:49:86)\n    at Function.each (http://www.diveandtraveltheworld.com/wordpress/wp-content/themes/catalyst/js/jquery.tools.min.js:50:151)\n    at init.each (http://www.diveandtraveltheworld.com/wordpress/wp-content/themes/catalyst/js/jquery.tools.min.js:44:147)\n    at init.$.fn.superfish (http://www.diveandtraveltheworld.com/wordpress/wp-content/themes/catalyst/js/menu/superfish.js:40:15)\n    at HTMLDocument.<anonymous> (http://www.diveandtraveltheworld.com/wordpress/wp-content/themes/catalyst/js/common.js:3:20)\n    at Function.ready (http://www.diveandtraveltheworld.com/wordpress/wp-content/themes/catalyst/js/jquery.tools.min.js:46:289)\n    at HTMLDocument.L (http://www.diveandtraveltheworld.com/wordpress/wp-content/themes/catalyst/js/jquery.tools.min.js:53:151)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: this.on is not a function\n    at init.a…nt/themes/catalyst/js/jquery.tools.min.js:53:151)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "this.on is not a function"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

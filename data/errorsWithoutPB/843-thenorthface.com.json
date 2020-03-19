@@ -1,0 +1,113 @@
+[
+  {
+    "timestamp": 1583005673390.846,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 0,
+      "columnNumber": 519,
+      "url": "https://www.thenorthface.com/wcsstore/tnf/153ecfceaa/js/wcs/view/vfdp-s7-viewer/helpers.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "r",
+            "scriptId": "161",
+            "url": "https://www.thenorthface.com/wcsstore/tnf/153ecfceaa/js/wcs/view/vfdp-s7-viewer/helpers.js",
+            "lineNumber": 0,
+            "columnNumber": 519
+          },
+          {
+            "functionName": "r",
+            "scriptId": "161",
+            "url": "https://www.thenorthface.com/wcsstore/tnf/153ecfceaa/js/wcs/view/vfdp-s7-viewer/helpers.js",
+            "lineNumber": 0,
+            "columnNumber": 544
+          },
+          {
+            "functionName": "r",
+            "scriptId": "161",
+            "url": "https://www.thenorthface.com/wcsstore/tnf/153ecfceaa/js/wcs/view/vfdp-s7-viewer/helpers.js",
+            "lineNumber": 0,
+            "columnNumber": 544
+          },
+          {
+            "functionName": "r",
+            "scriptId": "161",
+            "url": "https://www.thenorthface.com/wcsstore/tnf/153ecfceaa/js/wcs/view/vfdp-s7-viewer/helpers.js",
+            "lineNumber": 0,
+            "columnNumber": 485
+          },
+          {
+            "functionName": "setConfig",
+            "scriptId": "162",
+            "url": "https://www.thenorthface.com/wcsstore/tnf/153ecfceaa/js/wcs/view/vfdp-s7-viewer/config.js",
+            "lineNumber": 0,
+            "columnNumber": 2741
+          },
+          {
+            "functionName": "onConfigChange",
+            "scriptId": "129",
+            "url": "https://www.thenorthface.com/wcsstore/tnf/153ecfceaa/js/wcs/view/vfdp-s7-viewer/app.js",
+            "lineNumber": 0,
+            "columnNumber": 22692
+          },
+          {
+            "functionName": "",
+            "scriptId": "129",
+            "url": "https://www.thenorthface.com/wcsstore/tnf/153ecfceaa/js/wcs/view/vfdp-s7-viewer/app.js",
+            "lineNumber": 0,
+            "columnNumber": 14960
+          },
+          {
+            "functionName": "",
+            "scriptId": "129",
+            "url": "https://www.thenorthface.com/wcsstore/tnf/153ecfceaa/js/wcs/view/vfdp-s7-viewer/app.js",
+            "lineNumber": 0,
+            "columnNumber": 14938
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'constructor' of null at r (https://www.thenorthface.com/wcsstore/tnf/153ecfceaa/js/wcs/view/vfdp-s7-viewer/helpers.js:1:520) at r (https://www.thenorthface.com/wcsstore/tnf/153ecfceaa/js/wcs/view/vfdp-s7-viewer/helpers.js:1:545) at r (https://www.thenorthface.com/wcsstore/tnf/153ecfceaa/js/wcs/view/vfdp-s7-viewer/helpers.js:1:545) at Object.r [as extend] (https://www.thenorthface.com/wcsstore/tnf/153ecfceaa/js/wcs/view/vfdp-s7-viewer/helpers.js:1:486) at e.setConfig (https://www.thenorthface.com/wcsstore/tnf/153ecfceaa/js/wcs/view/vfdp-s7-viewer/config.js:1:2742) at n.onConfigChange (https://www.thenorthface.com/wcsstore/tnf/153ecfceaa/js/wcs/view/vfdp-s7-viewer/app.js:1:22693) at https://www.thenorthface.com/wcsstore/tnf/153ecfceaa/js/wcs/view/vfdp-s7-viewer/app.js:1:14961 at Array.forEach (<anonymous>) at MutationObserver.<anonymous> (https://www.thenorthface.com/wcsstore/tnf/153ecfceaa/js/wcs/view/vfdp-s7-viewer/app.js:1:14939)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":10}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'constructor' of null at r (https://www.thenorthface.com/wcsstore/tnf/153ecfceaa/js/wcs/view/vfdp-s7-viewer/helpers.js:1:520) at r (https://www.thenorthface.com/wcsstore/tnf/153ecfceaa/js/wcs/view/vfdp-s7-viewer/helpers.js:1:545) at r (https://www.thenorthface.com/wcsstore/tnf/153ecfceaa/js/wcs/view/vfdp-s7-viewer/helpers.js:1:545) at Object.r [as extend] (https://www.thenorthface.com/wcsstore/tnf/153ecfceaa/js/wcs/view/vfdp-s7-viewer/helpers.js:1:486) at e.setConfig (https://www.thenorthface.com/wcsstore/tnf/153ecfceaa/js/wcs/view/vfdp-s7-viewer/config.js:1:2742) at n.onConfigChange (https://www.thenorthface.com/wcsstore/tnf/153ecfceaa/js/wcs/view/vfdp-s7-viewer/app.js:1:22693) at https://www.thenorthface.com/wcsstore/tnf/153ecfceaa/js/wcs/view/vfdp-s7-viewer/app.js:1:14961 at Array.forEach (<anonymous>) at MutationObserver.<anonymous> (https://www.thenorthface.com/wcsstore/tnf/153ecfceaa/js/wcs/view/vfdp-s7-viewer/app.js:1:14939)",
+          "overflow": true,
+          "properties": [
+            {
+              "name": "reported",
+              "type": "boolean",
+              "value": "true"
+            },
+            {
+              "name": "timestamp",
+              "type": "number",
+              "value": "1583005673390"
+            },
+            {
+              "name": "lineNumber",
+              "type": "string",
+              "value": "1"
+            },
+            {
+              "name": "columnNumber",
+              "type": "string",
+              "value": "520"
+            },
+            {
+              "name": "functionName",
+              "type": "string",
+              "value": "r"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

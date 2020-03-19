@@ -1,0 +1,153 @@
+[
+  {
+    "timestamp": 1583748304881.99,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 37,
+      "columnNumber": 498,
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "MdpApi",
+            "scriptId": "118",
+            "url": "",
+            "lineNumber": 37,
+            "columnNumber": 498
+          },
+          {
+            "functionName": "",
+            "scriptId": "118",
+            "url": "",
+            "lineNumber": 42,
+            "columnNumber": 319
+          },
+          {
+            "functionName": "",
+            "scriptId": "60",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-K8GZZJG&l=dataLayer",
+            "lineNumber": 4842,
+            "columnNumber": 413
+          },
+          {
+            "functionName": "c",
+            "scriptId": "60",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-K8GZZJG&l=dataLayer",
+            "lineNumber": 4844,
+            "columnNumber": 151
+          },
+          {
+            "functionName": "Cb",
+            "scriptId": "60",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-K8GZZJG&l=dataLayer",
+            "lineNumber": 4660,
+            "columnNumber": 395
+          },
+          {
+            "functionName": "e",
+            "scriptId": "60",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-K8GZZJG&l=dataLayer",
+            "lineNumber": 4706,
+            "columnNumber": 137
+          },
+          {
+            "functionName": "",
+            "scriptId": "60",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-K8GZZJG&l=dataLayer",
+            "lineNumber": 4648,
+            "columnNumber": 113
+          },
+          {
+            "functionName": "",
+            "scriptId": "60",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-K8GZZJG&l=dataLayer",
+            "lineNumber": 4707,
+            "columnNumber": 228
+          },
+          {
+            "functionName": "",
+            "scriptId": "60",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-K8GZZJG&l=dataLayer",
+            "lineNumber": 4706,
+            "columnNumber": 472
+          },
+          {
+            "functionName": "nf",
+            "scriptId": "60",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-K8GZZJG&l=dataLayer",
+            "lineNumber": 4707,
+            "columnNumber": 517
+          },
+          {
+            "functionName": "pf",
+            "scriptId": "60",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-K8GZZJG&l=dataLayer",
+            "lineNumber": 4709,
+            "columnNumber": 226
+          },
+          {
+            "functionName": "hj",
+            "scriptId": "60",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-K8GZZJG&l=dataLayer",
+            "lineNumber": 4755,
+            "columnNumber": 186
+          },
+          {
+            "functionName": "gj",
+            "scriptId": "60",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-K8GZZJG&l=dataLayer",
+            "lineNumber": 4755,
+            "columnNumber": 0
+          },
+          {
+            "functionName": "ij",
+            "scriptId": "60",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-K8GZZJG&l=dataLayer",
+            "lineNumber": 4757,
+            "columnNumber": 356
+          },
+          {
+            "functionName": "a.push",
+            "scriptId": "60",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-K8GZZJG&l=dataLayer",
+            "lineNumber": 4760,
+            "columnNumber": 94
+          },
+          {
+            "functionName": "",
+            "scriptId": "24",
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-KXFQXHB",
+            "lineNumber": 1160,
+            "columnNumber": 216
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "Error",
+        "description": "Error: mdp.apiConfig.apiKey required.\n    at new MdpApi (<anonymous>:38:499)\n    at <anonymous>:43:320\n    at https://www.googletagmanager.com/gtm.js?id=GTM-K8GZZJG&l=dataLayer:4843:414\n    at c (https://www.googletagmanager.com/gtm.js?id=GTM-K8GZZJG&l=dataLayer:4845:152)\n    at Cb (https://www.googletagmanager.com/gtm.js?id=GTM-K8GZZJG&l=dataLayer:4661:396)\n    at e (https://www.googletagmanager.com/gtm.js?id=GTM-K8GZZJG&l=dataLayer:4707:138)\n    at https://www.googletagmanager.com/gtm.js?id=GTM-K8GZZJG&l=dataLayer:4649:114\n    at Array.<anonymous> (https://www.googletagmanager.com/gtm.js?id=GTM-K8GZZJG&l=dataLayer:4708:229)\n    at Object.Zf (https://www.googletagmanager.com/gtm.js?id=GTM-K8GZZJG&l=dataLayer:4707:473)\n    at nf (https://www.googletagmanager.com/gtm.js?id=GTM-K8GZZJG&l=dataLayer:4708:518)\n    at pf (https://www.googletagmanager.com/gtm.js?id=GTM-K8GZZJG&l=dataLayer:4710:227)\n    at hj (https://www.googletagmanager.com/gtm.js?id=GTM-K8GZZJG&l=dataLayer:4756:187)\n    at gj (https://www.googletagmanager.com/gtm.js?id=GTM-K8GZZJG&l=dataLayer:4756:1)\n    at ij (https://www.googletagmanager.com/gtm.js?id=GTM-K8GZZJG&l=dataLayer:4758:357)\n    at Array.a.push (https://www.googletagmanager.com/gtm.js?id=GTM-K8GZZJG&l=dataLayer:4761:95)\n    at https://www.googletagmanager.com/gtm.js?id=GTM-KXFQXHB:1161:217",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "Error: mdp.apiConfig.apiKey required.\n    at new MdpApi (<anonymous>:38:499)\n    at <anonymous>:43:320\n    at https://www.googletagmanager.com/gtm.js?id=GTM-K8GZZJG&l=dataLayer:4843:414\n    at c (https://www.googletagmanager.com/gtm.js?id=GTM-K8GZZJG&l=dataLayer:4845:152)\n    at Cb (https://www.googletagmanager.com/gtm.js?id=GTM-K8GZZJG&l=dataLayer:4661:396)\n    at e (https://www.googletagmanager.com/gtm.js?id=GTM-K8GZZJG&l=dataLayer:4707:138)\n    at https://www.googletagmanager.com/gtm.js?id=GTM-K8GZZJG&l=dataLayer:4649:114\n    at Array.<anonymous> (https://www.googletagmanager.com/gtm.js?id=GTM-K8GZZJG&l=dataLayer:4708:229)\n    at Object.Zf (https://www.googletagmanager.com/gtm.js?id=GTM-K8GZZJG&l=dataLayer:4707:473)\n    at nf (https://www.googletagmanager.com/gtm.js?id=GTM-K8GZZJG&l=dataLayer:4708:518)\n    at pf (https://www.googletagmanager.com/gtm.js?id=GTM-K8GZZJG&l=dataLayer:4710:227)\n    at hj (https://www.googletagmanager.com/gtm.js?id=GTM-K8GZZJG&l=dataLayer:4756:187)\n    at gj (https://www.googletagmanager.com/gtm.js?id=GTM-K8GZZJG&l=dataLayer:4756:1)\n    at ij (https://www.googletagmanager.com/gtm.js?id=GTM-K8GZZJG&l=dataLayer:4758:357)\n    at Array.a.push (https://www.googletagmanager.com/gtm.js?id=GTM-K8GZZJG&l=dataLayer:4761:95)\n    at https://www.googletagmanager.com/gtm.js?id=GTM-KXFQXHB:1161:217",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "Error: mdp.apiConfig.apiKey required.\n    at new M…ogletagmanager.com/gtm.js?id=GTM-KXFQXHB:1161:217"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "mdp.apiConfig.apiKey required."
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

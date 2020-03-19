@@ -1,0 +1,59 @@
+[
+  {
+    "timestamp": 1583417152954.7542,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught (in promise)",
+      "lineNumber": 0,
+      "columnNumber": 829,
+      "url": "https://load.sumome.com/",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "i",
+            "scriptId": "22",
+            "url": "https://load.sumome.com/",
+            "lineNumber": 0,
+            "columnNumber": 829
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "Error",
+        "description": "Error: Loading chunk 72 failed.\n(error: https://load.sumo.com/72.83c0fd282d7068bf2eed.js)\n    at HTMLScriptElement.i (https://load.sumome.com/:1:830)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":2}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "Error: Loading chunk 72 failed.\n(error: https://load.sumo.com/72.83c0fd282d7068bf2eed.js)\n    at HTMLScriptElement.i (https://load.sumome.com/:1:830)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "type",
+              "type": "string",
+              "value": "error"
+            },
+            {
+              "name": "request",
+              "type": "string",
+              "value": "https://load.sumo.com/72.83c0fd282d7068bf2eed.js"
+            },
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "Error: Loading chunk 72 failed.\n(error: https://lo…LScriptElement.i (https://load.sumome.com/:1:830)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Loading chunk 72 failed.\n(error: https://load.sumo.com/72.83c0fd282d7068bf2eed.js)"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

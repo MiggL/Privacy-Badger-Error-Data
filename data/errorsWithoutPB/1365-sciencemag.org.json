@@ -1,0 +1,93 @@
+[
+  {
+    "timestamp": 1583000773239.469,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 968,
+      "columnNumber": 24,
+      "url": "https://www.sciencemag.org/news/2013/02/franken-tadpoles-see-eyes-their-backs",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "adDemo",
+            "scriptId": "24",
+            "url": "https://www.sciencemag.org/news/2013/02/franken-tadpoles-see-eyes-their-backs",
+            "lineNumber": 968,
+            "columnNumber": 24
+          },
+          {
+            "functionName": "",
+            "scriptId": "24",
+            "url": "https://www.sciencemag.org/news/2013/02/franken-tadpoles-see-eyes-their-backs",
+            "lineNumber": 994,
+            "columnNumber": 4
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: oas_tag is not defined\n    at adDemo (https://www.sciencemag.org/news/2013/02/franken-tadpoles-see-eyes-their-backs:969:25)\n    at https://www.sciencemag.org/news/2013/02/franken-tadpoles-see-eyes-their-backs:995:5",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: oas_tag is not defined\n    at adDemo (https://www.sciencemag.org/news/2013/02/franken-tadpoles-see-eyes-their-backs:969:25)\n    at https://www.sciencemag.org/news/2013/02/franken-tadpoles-see-eyes-their-backs:995:5",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: oas_tag is not defined\n    at adDe…13/02/franken-tadpoles-see-eyes-their-backs:995:5"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "oas_tag is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583000774309.0789,
+    "exceptionDetails": {
+      "exceptionId": 2,
+      "text": "Uncaught",
+      "lineNumber": 43,
+      "columnNumber": 47,
+      "scriptId": "83",
+      "url": "https://8296686.fls.doubleclick.net/activityi;dc_pre=CM6Fzrax9-cCFQzKdwod3uAJ1w;src=8296686;type=sciecema;cat=scien001;ord=755394922195;gtm=2od2j0;auiddc=1617831708.1583000774;~oref=https%3A%2F%2Fwww.sciencemag.org%2Fnews%2F2013%2F02%2Ffranken-tadpoles-see-eyes-their-backs?",
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "SyntaxError",
+        "description": "SyntaxError: Unexpected identifier",
+        "objectId": "{\"injectedScriptId\":18,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "SyntaxError: Unexpected identifier",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "SyntaxError: Unexpected identifier"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Unexpected identifier"
+            }
+          ]
+        }
+      },
+      "executionContextId": 18
+    }
+  }
+]

@@ -1,0 +1,267 @@
+[
+  {
+    "timestamp": 1582892658606.749,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 15,
+      "columnNumber": 2,
+      "scriptId": "114",
+      "url": "https://www.samsung.com/uk/mobile-accessories/strap-bangle-sr750a-gear-s/ET-SR750ANEGWW/",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "p",
+            "scriptId": "21",
+            "url": "https://assets.adobedtm.com/72afb75f5516/c1da6c97a587/launch-5afd3ca6f4e4.min.js",
+            "lineNumber": 2,
+            "columnNumber": 694
+          },
+          {
+            "functionName": "v",
+            "scriptId": "21",
+            "url": "https://assets.adobedtm.com/72afb75f5516/c1da6c97a587/launch-5afd3ca6f4e4.min.js",
+            "lineNumber": 2,
+            "columnNumber": 1353
+          },
+          {
+            "functionName": "l",
+            "scriptId": "21",
+            "url": "https://assets.adobedtm.com/72afb75f5516/c1da6c97a587/launch-5afd3ca6f4e4.min.js",
+            "lineNumber": 1,
+            "columnNumber": 32648
+          },
+          {
+            "functionName": "n",
+            "scriptId": "21",
+            "url": "https://assets.adobedtm.com/72afb75f5516/c1da6c97a587/launch-5afd3ca6f4e4.min.js",
+            "lineNumber": 1,
+            "columnNumber": 31256
+          },
+          {
+            "functionName": "a",
+            "scriptId": "21",
+            "url": "https://assets.adobedtm.com/72afb75f5516/c1da6c97a587/launch-5afd3ca6f4e4.min.js",
+            "lineNumber": 1,
+            "columnNumber": 30815
+          },
+          {
+            "functionName": "n",
+            "scriptId": "21",
+            "url": "https://assets.adobedtm.com/72afb75f5516/c1da6c97a587/launch-5afd3ca6f4e4.min.js",
+            "lineNumber": 1,
+            "columnNumber": 28473
+          },
+          {
+            "functionName": "d",
+            "scriptId": "21",
+            "url": "https://assets.adobedtm.com/72afb75f5516/c1da6c97a587/launch-5afd3ca6f4e4.min.js",
+            "lineNumber": 1,
+            "columnNumber": 27832
+          },
+          {
+            "functionName": "",
+            "scriptId": "21",
+            "url": "https://assets.adobedtm.com/72afb75f5516/c1da6c97a587/launch-5afd3ca6f4e4.min.js",
+            "lineNumber": 1,
+            "columnNumber": 28531
+          },
+          {
+            "functionName": "s",
+            "scriptId": "21",
+            "url": "https://assets.adobedtm.com/72afb75f5516/c1da6c97a587/launch-5afd3ca6f4e4.min.js",
+            "lineNumber": 1,
+            "columnNumber": 30947
+          },
+          {
+            "functionName": "a",
+            "scriptId": "21",
+            "url": "https://assets.adobedtm.com/72afb75f5516/c1da6c97a587/launch-5afd3ca6f4e4.min.js",
+            "lineNumber": 1,
+            "columnNumber": 30793
+          },
+          {
+            "functionName": "f",
+            "scriptId": "21",
+            "url": "https://assets.adobedtm.com/72afb75f5516/c1da6c97a587/launch-5afd3ca6f4e4.min.js",
+            "lineNumber": 2,
+            "columnNumber": 933
+          },
+          {
+            "functionName": "",
+            "scriptId": "21",
+            "url": "https://assets.adobedtm.com/72afb75f5516/c1da6c97a587/launch-5afd3ca6f4e4.min.js",
+            "lineNumber": 1,
+            "columnNumber": 32681
+          },
+          {
+            "functionName": "v",
+            "scriptId": "21",
+            "url": "https://assets.adobedtm.com/72afb75f5516/c1da6c97a587/launch-5afd3ca6f4e4.min.js",
+            "lineNumber": 2,
+            "columnNumber": 1383
+          },
+          {
+            "functionName": "l",
+            "scriptId": "21",
+            "url": "https://assets.adobedtm.com/72afb75f5516/c1da6c97a587/launch-5afd3ca6f4e4.min.js",
+            "lineNumber": 1,
+            "columnNumber": 32648
+          },
+          {
+            "functionName": "n",
+            "scriptId": "21",
+            "url": "https://assets.adobedtm.com/72afb75f5516/c1da6c97a587/launch-5afd3ca6f4e4.min.js",
+            "lineNumber": 1,
+            "columnNumber": 31256
+          },
+          {
+            "functionName": "a",
+            "scriptId": "21",
+            "url": "https://assets.adobedtm.com/72afb75f5516/c1da6c97a587/launch-5afd3ca6f4e4.min.js",
+            "lineNumber": 1,
+            "columnNumber": 30815
+          },
+          {
+            "functionName": "f",
+            "scriptId": "21",
+            "url": "https://assets.adobedtm.com/72afb75f5516/c1da6c97a587/launch-5afd3ca6f4e4.min.js",
+            "lineNumber": 2,
+            "columnNumber": 933
+          },
+          {
+            "functionName": "",
+            "scriptId": "21",
+            "url": "https://assets.adobedtm.com/72afb75f5516/c1da6c97a587/launch-5afd3ca6f4e4.min.js",
+            "lineNumber": 1,
+            "columnNumber": 32681
+          },
+          {
+            "functionName": "v",
+            "scriptId": "21",
+            "url": "https://assets.adobedtm.com/72afb75f5516/c1da6c97a587/launch-5afd3ca6f4e4.min.js",
+            "lineNumber": 2,
+            "columnNumber": 1383
+          },
+          {
+            "functionName": "l",
+            "scriptId": "21",
+            "url": "https://assets.adobedtm.com/72afb75f5516/c1da6c97a587/launch-5afd3ca6f4e4.min.js",
+            "lineNumber": 1,
+            "columnNumber": 32648
+          },
+          {
+            "functionName": "n",
+            "scriptId": "21",
+            "url": "https://assets.adobedtm.com/72afb75f5516/c1da6c97a587/launch-5afd3ca6f4e4.min.js",
+            "lineNumber": 1,
+            "columnNumber": 31256
+          },
+          {
+            "functionName": "a",
+            "scriptId": "21",
+            "url": "https://assets.adobedtm.com/72afb75f5516/c1da6c97a587/launch-5afd3ca6f4e4.min.js",
+            "lineNumber": 1,
+            "columnNumber": 30815
+          },
+          {
+            "functionName": "n",
+            "scriptId": "21",
+            "url": "https://assets.adobedtm.com/72afb75f5516/c1da6c97a587/launch-5afd3ca6f4e4.min.js",
+            "lineNumber": 1,
+            "columnNumber": 28473
+          },
+          {
+            "functionName": "d",
+            "scriptId": "21",
+            "url": "https://assets.adobedtm.com/72afb75f5516/c1da6c97a587/launch-5afd3ca6f4e4.min.js",
+            "lineNumber": 1,
+            "columnNumber": 27832
+          },
+          {
+            "functionName": "",
+            "scriptId": "21",
+            "url": "https://assets.adobedtm.com/72afb75f5516/c1da6c97a587/launch-5afd3ca6f4e4.min.js",
+            "lineNumber": 1,
+            "columnNumber": 28531
+          },
+          {
+            "functionName": "s",
+            "scriptId": "21",
+            "url": "https://assets.adobedtm.com/72afb75f5516/c1da6c97a587/launch-5afd3ca6f4e4.min.js",
+            "lineNumber": 1,
+            "columnNumber": 30947
+          },
+          {
+            "functionName": "a",
+            "scriptId": "21",
+            "url": "https://assets.adobedtm.com/72afb75f5516/c1da6c97a587/launch-5afd3ca6f4e4.min.js",
+            "lineNumber": 1,
+            "columnNumber": 30793
+          },
+          {
+            "functionName": "f",
+            "scriptId": "21",
+            "url": "https://assets.adobedtm.com/72afb75f5516/c1da6c97a587/launch-5afd3ca6f4e4.min.js",
+            "lineNumber": 2,
+            "columnNumber": 933
+          },
+          {
+            "functionName": "",
+            "scriptId": "21",
+            "url": "https://assets.adobedtm.com/72afb75f5516/c1da6c97a587/launch-5afd3ca6f4e4.min.js",
+            "lineNumber": 1,
+            "columnNumber": 32681
+          },
+          {
+            "functionName": "",
+            "scriptId": "21",
+            "url": "https://assets.adobedtm.com/72afb75f5516/c1da6c97a587/launch-5afd3ca6f4e4.min.js",
+            "lineNumber": 2,
+            "columnNumber": 1333
+          },
+          {
+            "functionName": "s",
+            "scriptId": "21",
+            "url": "https://assets.adobedtm.com/72afb75f5516/c1da6c97a587/launch-5afd3ca6f4e4.min.js",
+            "lineNumber": 2,
+            "columnNumber": 1730
+          },
+          {
+            "functionName": "o",
+            "scriptId": "21",
+            "url": "https://assets.adobedtm.com/72afb75f5516/c1da6c97a587/launch-5afd3ca6f4e4.min.js",
+            "lineNumber": 2,
+            "columnNumber": 2051
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "SyntaxError",
+        "description": "SyntaxError: Unexpected end of input\n    at r.p [as _insertCursor] (https://assets.adobedtm.com/72afb75f5516/c1da6c97a587/launch-5afd3ca6f4e4.min.js:3:695)\n    at r.v [as _writeScriptToken] (https://assets.adobedtm.com/72afb75f5516/c1da6c97a587/launch-5afd3ca6f4e4.min.js:3:1354)\n    at r.l [as _handleScriptToken] (https://assets.adobedtm.com/72afb75f5516/c1da6c97a587/launch-5afd3ca6f4e4.min.js:2:32649)\n    at r.n [as _writeImpl] (https://assets.adobedtm.com/72afb75f5516/c1da6c97a587/launch-5afd3ca6f4e4.min.js:2:31257)\n    at r.a [as write] (https://assets.adobedtm.com/72afb75f5516/c1da6c97a587/launch-5afd3ca6f4e4.min.js:2:30816)\n    at n (https://assets.adobedtm.com/72afb75f5516/c1da6c97a587/launch-5afd3ca6f4e4.min.js:2:28474)\n    at d (https://assets.adobedtm.com/72afb75f5516/c1da6c97a587/launch-5afd3ca6f4e4.min.js:2:27833)\n    at https://assets.adobedtm.com/72afb75f5516/c1da6c97a587/launch-5afd3ca6f4e4.min.js:2:28532\n    at r.s [as _callFunction] (https://assets.adobedtm.com/72afb75f5516/c1da6c97a587/launch-5afd3ca6f4e4.min.js:2:30948)\n    at r.a [as write] (https://assets.adobedtm.com/72afb75f5516/c1da6c97a587/launch-5afd3ca6f4e4.min.js:2:30794)\n    at r.f [as _onScriptDone] (https://assets.adobedtm.com/72afb75f5516/c1da6c97a587/launch-5afd3ca6f4e4.min.js:3:934)\n    at https://assets.adobedtm.com/72afb75f5516/c1da6c97a587/launch-5afd3ca6f4e4.min.js:2:32682\n    at r.v [as _writeScriptToken] (https://assets.adobedtm.com/72afb75f5516/c1da6c97a587/launch-5afd3ca6f4e4.min.js:3:1384)\n    at r.l [as _handleScriptToken] (https://assets.adobedtm.com/72afb75f5516/c1da6c97a587/launch-5afd3ca6f4e4.min.js:2:32649)\n    at r.n [as _writeImpl] (https://assets.adobedtm.com/72afb75f5516/c1da6c97a587/launch-5afd3ca6f4e4.min.js:2:31257)\n    at r.a [as write] (https://assets.adobedtm.com/72afb75f5516/c1da6c97a587/launch-5afd3ca6f4e4.min.js:2:30816)\n    at r.f [as _onScriptDone] (https://assets.adobedtm.com/72afb75f5516/c1da6c97a587/launch-5afd3ca6f4e4.min.js:3:934)\n    at https://assets.adobedtm.com/72afb75f5516/c1da6c97a587/launch-5afd3ca6f4e4.min.js:2:32682\n    at r.v [as _writeScriptToken] (https://assets.adobedtm.com/72afb75f5516/c1da6c97a587/launch-5afd3ca6f4e4.min.js:3:1384)\n    at r.l [as _handleScriptToken] (https://assets.adobedtm.com/72afb75f5516/c1da6c97a587/launch-5afd3ca6f4e4.min.js:2:32649)\n    at r.n [as _writeImpl] (https://assets.adobedtm.com/72afb75f5516/c1da6c97a587/launch-5afd3ca6f4e4.min.js:2:31257)\n    at r.a [as write] (https://assets.adobedtm.com/72afb75f5516/c1da6c97a587/launch-5afd3ca6f4e4.min.js:2:30816)\n    at n (https://assets.adobedtm.com/72afb75f5516/c1da6c97a587/launch-5afd3ca6f4e4.min.js:2:28474)\n    at d (https://assets.adobedtm.com/72afb75f5516/c1da6c97a587/launch-5afd3ca6f4e4.min.js:2:27833)\n    at https://assets.adobedtm.com/72afb75f5516/c1da6c97a587/launch-5afd3ca6f4e4.min.js:2:28532\n    at r.s [as _callFunction] (https://assets.adobedtm.com/72afb75f5516/c1da6c97a587/launch-5afd3ca6f4e4.min.js:2:30948)\n    at r.a [as write] (https://assets.adobedtm.com/72afb75f5516/c1da6c97a587/launch-5afd3ca6f4e4.min.js:2:30794)\n    at r.f [as _onScriptDone] (https://assets.adobedtm.com/72afb75f5516/c1da6c97a587/launch-5afd3ca6f4e4.min.js:3:934)\n    at https://assets.adobedtm.com/72afb75f5516/c1da6c97a587/launch-5afd3ca6f4e4.min.js:2:32682\n    at https://assets.adobedtm.com/72afb75f5516/c1da6c97a587/launch-5afd3ca6f4e4.min.js:3:1334\n    at s (https://assets.adobedtm.com/72afb75f5516/c1da6c97a587/launch-5afd3ca6f4e4.min.js:3:1731)\n    at HTMLScriptElement.o (https://assets.adobedtm.com/72afb75f5516/c1da6c97a587/launch-5afd3ca6f4e4.min.js:3:2052)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":3}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "SyntaxError: Unexpected end of input\n    at r.p [as _insertCursor] (https://assets.adobedtm.com/72afb75f5516/c1da6c97a587/launch-5afd3ca6f4e4.min.js:3:695)\n    at r.v [as _writeScriptToken] (https://assets.adobedtm.com/72afb75f5516/c1da6c97a587/launch-5afd3ca6f4e4.min.js:3:1354)\n    at r.l [as _handleScriptToken] (https://assets.adobedtm.com/72afb75f5516/c1da6c97a587/launch-5afd3ca6f4e4.min.js:2:32649)\n    at r.n [as _writeImpl] (https://assets.adobedtm.com/72afb75f5516/c1da6c97a587/launch-5afd3ca6f4e4.min.js:2:31257)\n    at r.a [as write] (https://assets.adobedtm.com/72afb75f5516/c1da6c97a587/launch-5afd3ca6f4e4.min.js:2:30816)\n    at n (https://assets.adobedtm.com/72afb75f5516/c1da6c97a587/launch-5afd3ca6f4e4.min.js:2:28474)\n    at d (https://assets.adobedtm.com/72afb75f5516/c1da6c97a587/launch-5afd3ca6f4e4.min.js:2:27833)\n    at https://assets.adobedtm.com/72afb75f5516/c1da6c97a587/launch-5afd3ca6f4e4.min.js:2:28532\n    at r.s [as _callFunction] (https://assets.adobedtm.com/72afb75f5516/c1da6c97a587/launch-5afd3ca6f4e4.min.js:2:30948)\n    at r.a [as write] (https://assets.adobedtm.com/72afb75f5516/c1da6c97a587/launch-5afd3ca6f4e4.min.js:2:30794)\n    at r.f [as _onScriptDone] (https://assets.adobedtm.com/72afb75f5516/c1da6c97a587/launch-5afd3ca6f4e4.min.js:3:934)\n    at https://assets.adobedtm.com/72afb75f5516/c1da6c97a587/launch-5afd3ca6f4e4.min.js:2:32682\n    at r.v [as _writeScriptToken] (https://assets.adobedtm.com/72afb75f5516/c1da6c97a587/launch-5afd3ca6f4e4.min.js:3:1384)\n    at r.l [as _handleScriptToken] (https://assets.adobedtm.com/72afb75f5516/c1da6c97a587/launch-5afd3ca6f4e4.min.js:2:32649)\n    at r.n [as _writeImpl] (https://assets.adobedtm.com/72afb75f5516/c1da6c97a587/launch-5afd3ca6f4e4.min.js:2:31257)\n    at r.a [as write] (https://assets.adobedtm.com/72afb75f5516/c1da6c97a587/launch-5afd3ca6f4e4.min.js:2:30816)\n    at r.f [as _onScriptDone] (https://assets.adobedtm.com/72afb75f5516/c1da6c97a587/launch-5afd3ca6f4e4.min.js:3:934)\n    at https://assets.adobedtm.com/72afb75f5516/c1da6c97a587/launch-5afd3ca6f4e4.min.js:2:32682\n    at r.v [as _writeScriptToken] (https://assets.adobedtm.com/72afb75f5516/c1da6c97a587/launch-5afd3ca6f4e4.min.js:3:1384)\n    at r.l [as _handleScriptToken] (https://assets.adobedtm.com/72afb75f5516/c1da6c97a587/launch-5afd3ca6f4e4.min.js:2:32649)\n    at r.n [as _writeImpl] (https://assets.adobedtm.com/72afb75f5516/c1da6c97a587/launch-5afd3ca6f4e4.min.js:2:31257)\n    at r.a [as write] (https://assets.adobedtm.com/72afb75f5516/c1da6c97a587/launch-5afd3ca6f4e4.min.js:2:30816)\n    at n (https://assets.adobedtm.com/72afb75f5516/c1da6c97a587/launch-5afd3ca6f4e4.min.js:2:28474)\n    at d (https://assets.adobedtm.com/72afb75f5516/c1da6c97a587/launch-5afd3ca6f4e4.min.js:2:27833)\n    at https://assets.adobedtm.com/72afb75f5516/c1da6c97a587/launch-5afd3ca6f4e4.min.js:2:28532\n    at r.s [as _callFunction] (https://assets.adobedtm.com/72afb75f5516/c1da6c97a587/launch-5afd3ca6f4e4.min.js:2:30948)\n    at r.a [as write] (https://assets.adobedtm.com/72afb75f5516/c1da6c97a587/launch-5afd3ca6f4e4.min.js:2:30794)\n    at r.f [as _onScriptDone] (https://assets.adobedtm.com/72afb75f5516/c1da6c97a587/launch-5afd3ca6f4e4.min.js:3:934)\n    at https://assets.adobedtm.com/72afb75f5516/c1da6c97a587/launch-5afd3ca6f4e4.min.js:2:32682\n    at https://assets.adobedtm.com/72afb75f5516/c1da6c97a587/launch-5afd3ca6f4e4.min.js:3:1334\n    at s (https://assets.adobedtm.com/72afb75f5516/c1da6c97a587/launch-5afd3ca6f4e4.min.js:3:1731)\n    at HTMLScriptElement.o (https://assets.adobedtm.com/72afb75f5516/c1da6c97a587/launch-5afd3ca6f4e4.min.js:3:2052)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "SyntaxError: Unexpected end of input\n    at r.p [a…6/c1da6c97a587/launch-5afd3ca6f4e4.min.js:3:2052)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Unexpected end of input"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

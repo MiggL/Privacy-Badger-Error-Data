@@ -1,0 +1,462 @@
+[
+  {
+    "timestamp": 1583422184742.389,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 94,
+      "columnNumber": 4,
+      "url": "http://news.bbc.co.uk/2/hi/uk_news/england/cornwall/6345289.stm",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "35",
+            "url": "http://news.bbc.co.uk/2/hi/uk_news/england/cornwall/6345289.stm",
+            "lineNumber": 94,
+            "columnNumber": 4
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: require is not defined\n    at http://news.bbc.co.uk/2/hi/uk_news/england/cornwall/6345289.stm:95:5",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: require is not defined\n    at http://news.bbc.co.uk/2/hi/uk_news/england/cornwall/6345289.stm:95:5",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: require is not defined\n    at http…uk/2/hi/uk_news/england/cornwall/6345289.stm:95:5"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "require is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583422184746.4421,
+    "exceptionDetails": {
+      "exceptionId": 2,
+      "text": "Uncaught",
+      "lineNumber": 134,
+      "columnNumber": 0,
+      "url": "http://news.bbc.co.uk/2/hi/uk_news/england/cornwall/6345289.stm",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "39",
+            "url": "http://news.bbc.co.uk/2/hi/uk_news/england/cornwall/6345289.stm",
+            "lineNumber": 134,
+            "columnNumber": 0
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: require is not defined\n    at http://news.bbc.co.uk/2/hi/uk_news/england/cornwall/6345289.stm:135:1",
+        "objectId": "{\"injectedScriptId\":3,\"id\":2}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: require is not defined\n    at http://news.bbc.co.uk/2/hi/uk_news/england/cornwall/6345289.stm:135:1",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: require is not defined\n    at http…k/2/hi/uk_news/england/cornwall/6345289.stm:135:1"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "require is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583422184835.298,
+    "exceptionDetails": {
+      "exceptionId": 3,
+      "text": "Uncaught",
+      "lineNumber": 1468,
+      "columnNumber": 149,
+      "scriptId": "45",
+      "url": "http://news.bbc.co.uk/2/hi/uk_news/england/cornwall/6345289.stm",
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "SyntaxError",
+        "description": "SyntaxError: Invalid or unexpected token",
+        "objectId": "{\"injectedScriptId\":3,\"id\":3}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "SyntaxError: Invalid or unexpected token",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "SyntaxError: Invalid or unexpected token"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Invalid or unexpected token"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583422184839.647,
+    "exceptionDetails": {
+      "exceptionId": 4,
+      "text": "Uncaught",
+      "lineNumber": 1572,
+      "columnNumber": 4,
+      "url": "http://news.bbc.co.uk/2/hi/uk_news/england/cornwall/6345289.stm",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "48",
+            "url": "http://news.bbc.co.uk/2/hi/uk_news/england/cornwall/6345289.stm",
+            "lineNumber": 1572,
+            "columnNumber": 4
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: BBC is not defined\n    at http://news.bbc.co.uk/2/hi/uk_news/england/cornwall/6345289.stm:1573:5",
+        "objectId": "{\"injectedScriptId\":3,\"id\":4}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: BBC is not defined\n    at http://news.bbc.co.uk/2/hi/uk_news/england/cornwall/6345289.stm:1573:5",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: BBC is not defined\n    at http://n…/2/hi/uk_news/england/cornwall/6345289.stm:1573:5"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "BBC is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583422184840.094,
+    "exceptionDetails": {
+      "exceptionId": 5,
+      "text": "Uncaught",
+      "lineNumber": 1583,
+      "columnNumber": 4,
+      "url": "http://news.bbc.co.uk/2/hi/uk_news/england/cornwall/6345289.stm",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "49",
+            "url": "http://news.bbc.co.uk/2/hi/uk_news/england/cornwall/6345289.stm",
+            "lineNumber": 1583,
+            "columnNumber": 4
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: BBC is not defined\n    at http://news.bbc.co.uk/2/hi/uk_news/england/cornwall/6345289.stm:1584:5",
+        "objectId": "{\"injectedScriptId\":3,\"id\":5}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: BBC is not defined\n    at http://news.bbc.co.uk/2/hi/uk_news/england/cornwall/6345289.stm:1584:5",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: BBC is not defined\n    at http://n…/2/hi/uk_news/england/cornwall/6345289.stm:1584:5"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "BBC is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583422184840.453,
+    "exceptionDetails": {
+      "exceptionId": 6,
+      "text": "Uncaught",
+      "lineNumber": 1591,
+      "columnNumber": 4,
+      "url": "http://news.bbc.co.uk/2/hi/uk_news/england/cornwall/6345289.stm",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "50",
+            "url": "http://news.bbc.co.uk/2/hi/uk_news/england/cornwall/6345289.stm",
+            "lineNumber": 1591,
+            "columnNumber": 4
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: BBC is not defined\n    at http://news.bbc.co.uk/2/hi/uk_news/england/cornwall/6345289.stm:1592:5",
+        "objectId": "{\"injectedScriptId\":3,\"id\":6}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: BBC is not defined\n    at http://news.bbc.co.uk/2/hi/uk_news/england/cornwall/6345289.stm:1592:5",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: BBC is not defined\n    at http://n…/2/hi/uk_news/england/cornwall/6345289.stm:1592:5"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "BBC is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583422184840.775,
+    "exceptionDetails": {
+      "exceptionId": 7,
+      "text": "Uncaught",
+      "lineNumber": 1604,
+      "columnNumber": 4,
+      "url": "http://news.bbc.co.uk/2/hi/uk_news/england/cornwall/6345289.stm",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "51",
+            "url": "http://news.bbc.co.uk/2/hi/uk_news/england/cornwall/6345289.stm",
+            "lineNumber": 1604,
+            "columnNumber": 4
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: BBC is not defined\n    at http://news.bbc.co.uk/2/hi/uk_news/england/cornwall/6345289.stm:1605:5",
+        "objectId": "{\"injectedScriptId\":3,\"id\":7}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: BBC is not defined\n    at http://news.bbc.co.uk/2/hi/uk_news/england/cornwall/6345289.stm:1605:5",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: BBC is not defined\n    at http://n…/2/hi/uk_news/england/cornwall/6345289.stm:1605:5"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "BBC is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583422184841.12,
+    "exceptionDetails": {
+      "exceptionId": 8,
+      "text": "Uncaught",
+      "lineNumber": 1612,
+      "columnNumber": 4,
+      "url": "http://news.bbc.co.uk/2/hi/uk_news/england/cornwall/6345289.stm",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "52",
+            "url": "http://news.bbc.co.uk/2/hi/uk_news/england/cornwall/6345289.stm",
+            "lineNumber": 1612,
+            "columnNumber": 4
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: BBC is not defined\n    at http://news.bbc.co.uk/2/hi/uk_news/england/cornwall/6345289.stm:1613:5",
+        "objectId": "{\"injectedScriptId\":3,\"id\":8}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: BBC is not defined\n    at http://news.bbc.co.uk/2/hi/uk_news/england/cornwall/6345289.stm:1613:5",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: BBC is not defined\n    at http://n…/2/hi/uk_news/england/cornwall/6345289.stm:1613:5"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "BBC is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583422184841.604,
+    "exceptionDetails": {
+      "exceptionId": 9,
+      "text": "Uncaught",
+      "lineNumber": 1623,
+      "columnNumber": 4,
+      "url": "http://news.bbc.co.uk/2/hi/uk_news/england/cornwall/6345289.stm",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "53",
+            "url": "http://news.bbc.co.uk/2/hi/uk_news/england/cornwall/6345289.stm",
+            "lineNumber": 1623,
+            "columnNumber": 4
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: BBC is not defined\n    at http://news.bbc.co.uk/2/hi/uk_news/england/cornwall/6345289.stm:1624:5",
+        "objectId": "{\"injectedScriptId\":3,\"id\":9}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: BBC is not defined\n    at http://news.bbc.co.uk/2/hi/uk_news/england/cornwall/6345289.stm:1624:5",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: BBC is not defined\n    at http://n…/2/hi/uk_news/england/cornwall/6345289.stm:1624:5"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "BBC is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583422184842.0889,
+    "exceptionDetails": {
+      "exceptionId": 10,
+      "text": "Uncaught",
+      "lineNumber": 1642,
+      "columnNumber": 4,
+      "url": "http://news.bbc.co.uk/2/hi/uk_news/england/cornwall/6345289.stm",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "54",
+            "url": "http://news.bbc.co.uk/2/hi/uk_news/england/cornwall/6345289.stm",
+            "lineNumber": 1642,
+            "columnNumber": 4
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: BBC is not defined\n    at http://news.bbc.co.uk/2/hi/uk_news/england/cornwall/6345289.stm:1643:5",
+        "objectId": "{\"injectedScriptId\":3,\"id\":10}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: BBC is not defined\n    at http://news.bbc.co.uk/2/hi/uk_news/england/cornwall/6345289.stm:1643:5",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: BBC is not defined\n    at http://n…/2/hi/uk_news/england/cornwall/6345289.stm:1643:5"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "BBC is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

@@ -1,0 +1,91 @@
+[
+  {
+    "timestamp": 1583009114782.356,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 308,
+      "columnNumber": 269,
+      "url": "https://static.adsafeprotected.com/main.19.8.52.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "m",
+            "scriptId": "452",
+            "url": "https://static.adsafeprotected.com/main.19.8.52.js",
+            "lineNumber": 308,
+            "columnNumber": 269
+          },
+          {
+            "functionName": "g.<computed>",
+            "scriptId": "452",
+            "url": "https://static.adsafeprotected.com/main.19.8.52.js",
+            "lineNumber": 45,
+            "columnNumber": 377
+          },
+          {
+            "functionName": "",
+            "scriptId": "452",
+            "url": "https://static.adsafeprotected.com/main.19.8.52.js",
+            "lineNumber": 45,
+            "columnNumber": 457
+          },
+          {
+            "functionName": "G.each",
+            "scriptId": "452",
+            "url": "https://static.adsafeprotected.com/main.19.8.52.js",
+            "lineNumber": 15,
+            "columnNumber": 243
+          },
+          {
+            "functionName": "run",
+            "scriptId": "452",
+            "url": "https://static.adsafeprotected.com/main.19.8.52.js",
+            "lineNumber": 45,
+            "columnNumber": 436
+          },
+          {
+            "functionName": "trigger",
+            "scriptId": "452",
+            "url": "https://static.adsafeprotected.com/main.19.8.52.js",
+            "lineNumber": 44,
+            "columnNumber": 173
+          },
+          {
+            "functionName": "a",
+            "scriptId": "452",
+            "url": "https://static.adsafeprotected.com/main.19.8.52.js",
+            "lineNumber": 327,
+            "columnNumber": 88
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot set property 'eyJ4diI6IjE3LjQuODUiLCJ0IjoxNTgzMDA5MTE0NzgxfQ--' of undefined\n    at Object.m (https://static.adsafeprotected.com/main.19.8.52.js:309:270)\n    at Object.g.<computed> (https://static.adsafeprotected.com/main.19.8.52.js:46:378)\n    at https://static.adsafeprotected.com/main.19.8.52.js:46:458\n    at G.each (https://static.adsafeprotected.com/main.19.8.52.js:16:244)\n    at Object.run (https://static.adsafeprotected.com/main.19.8.52.js:46:437)\n    at trigger (https://static.adsafeprotected.com/main.19.8.52.js:45:174)\n    at a (https://static.adsafeprotected.com/main.19.8.52.js:328:89)",
+        "objectId": "{\"injectedScriptId\":93,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot set property 'eyJ4diI6IjE3LjQuODUiLCJ0IjoxNTgzMDA5MTE0NzgxfQ--' of undefined\n    at Object.m (https://static.adsafeprotected.com/main.19.8.52.js:309:270)\n    at Object.g.<computed> (https://static.adsafeprotected.com/main.19.8.52.js:46:378)\n    at https://static.adsafeprotected.com/main.19.8.52.js:46:458\n    at G.each (https://static.adsafeprotected.com/main.19.8.52.js:16:244)\n    at Object.run (https://static.adsafeprotected.com/main.19.8.52.js:46:437)\n    at trigger (https://static.adsafeprotected.com/main.19.8.52.js:45:174)\n    at a (https://static.adsafeprotected.com/main.19.8.52.js:328:89)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot set property 'eyJ4diI6IjE3LjQuOD…tatic.adsafeprotected.com/main.19.8.52.js:328:89)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot set property 'eyJ4diI6IjE3LjQuODUiLCJ0IjoxNTgzMDA5MTE0NzgxfQ--' of undefined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 93
+    }
+  }
+]

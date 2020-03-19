@@ -1,0 +1,49 @@
+[
+  {
+    "timestamp": 1583012951189.599,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 823,
+      "columnNumber": 414,
+      "url": "http://www.siegelproductions.ca/fiddlefarmers/unusualinstruments.html",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "onload",
+            "scriptId": "12",
+            "url": "http://www.siegelproductions.ca/fiddlefarmers/unusualinstruments.html",
+            "lineNumber": 823,
+            "columnNumber": 414
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: google is not defined\n    at HTMLImageElement.onload (http://www.siegelproductions.ca/fiddlefarmers/unusualinstruments.html:824:415)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: google is not defined\n    at HTMLImageElement.onload (http://www.siegelproductions.ca/fiddlefarmers/unusualinstruments.html:824:415)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: google is not defined\n    at HTMLI…ca/fiddlefarmers/unusualinstruments.html:824:415)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "google is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

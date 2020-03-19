@@ -1,0 +1,119 @@
+[
+  {
+    "timestamp": 1583001974729.4778,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 45,
+      "columnNumber": 104,
+      "url": "http://www.palestinemonitor.org/details.php?id=s47htia9406yvj25bx7l0",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "onload",
+            "scriptId": "18",
+            "url": "http://www.palestinemonitor.org/details.php?id=s47htia9406yvj25bx7l0",
+            "lineNumber": 45,
+            "columnNumber": 104
+          },
+          {
+            "functionName": "window.onload.window.onload",
+            "scriptId": "17",
+            "url": "https://s7.addthis.com/js/250/addthis_widget.js",
+            "lineNumber": 1,
+            "columnNumber": 202419
+          },
+          {
+            "functionName": "_insertionStrategy",
+            "scriptId": "24",
+            "url": "http://platform.twitter.com/widgets.js",
+            "lineNumber": 7,
+            "columnNumber": 22657
+          },
+          {
+            "functionName": "",
+            "scriptId": "24",
+            "url": "http://platform.twitter.com/widgets.js",
+            "lineNumber": 0,
+            "columnNumber": 7070
+          },
+          {
+            "functionName": "",
+            "scriptId": "24",
+            "url": "http://platform.twitter.com/widgets.js",
+            "lineNumber": 0,
+            "columnNumber": 11668
+          },
+          {
+            "functionName": "o.run",
+            "scriptId": "24",
+            "url": "http://platform.twitter.com/widgets.js",
+            "lineNumber": 7,
+            "columnNumber": 26262
+          },
+          {
+            "functionName": "o.flush",
+            "scriptId": "24",
+            "url": "http://platform.twitter.com/widgets.js",
+            "lineNumber": 7,
+            "columnNumber": 25822
+          },
+          {
+            "functionName": "o.runBatch",
+            "scriptId": "24",
+            "url": "http://platform.twitter.com/widgets.js",
+            "lineNumber": 7,
+            "columnNumber": 25968
+          },
+          {
+            "functionName": "",
+            "scriptId": "24",
+            "url": "http://platform.twitter.com/widgets.js",
+            "lineNumber": 7,
+            "columnNumber": 25673
+          },
+          {
+            "functionName": "i",
+            "scriptId": "24",
+            "url": "http://platform.twitter.com/widgets.js",
+            "lineNumber": 7,
+            "columnNumber": 26441
+          },
+          {
+            "functionName": "",
+            "scriptId": "24",
+            "url": "http://platform.twitter.com/widgets.js",
+            "lineNumber": 7,
+            "columnNumber": 26532
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: goforit is not defined\n    at onload (http://www.palestinemonitor.org/details.php?id=s47htia9406yvj25bx7l0:46:105)\n    at window.onload.window.onload (https://s7.addthis.com/js/250/addthis_widget.js:2:202420)\n    at _insertionStrategy (http://platform.twitter.com/widgets.js:8:22658)\n    at o.<anonymous> (http://platform.twitter.com/widgets.js:1:7071)\n    at o.<anonymous> (http://platform.twitter.com/widgets.js:1:11669)\n    at o.run (http://platform.twitter.com/widgets.js:8:26263)\n    at o.flush (http://platform.twitter.com/widgets.js:8:25823)\n    at o.runBatch (http://platform.twitter.com/widgets.js:8:25969)\n    at http://platform.twitter.com/widgets.js:8:25674\n    at i (http://platform.twitter.com/widgets.js:8:26442)\n    at http://platform.twitter.com/widgets.js:8:26533",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: goforit is not defined\n    at onload (http://www.palestinemonitor.org/details.php?id=s47htia9406yvj25bx7l0:46:105)\n    at window.onload.window.onload (https://s7.addthis.com/js/250/addthis_widget.js:2:202420)\n    at _insertionStrategy (http://platform.twitter.com/widgets.js:8:22658)\n    at o.<anonymous> (http://platform.twitter.com/widgets.js:1:7071)\n    at o.<anonymous> (http://platform.twitter.com/widgets.js:1:11669)\n    at o.run (http://platform.twitter.com/widgets.js:8:26263)\n    at o.flush (http://platform.twitter.com/widgets.js:8:25823)\n    at o.runBatch (http://platform.twitter.com/widgets.js:8:25969)\n    at http://platform.twitter.com/widgets.js:8:25674\n    at i (http://platform.twitter.com/widgets.js:8:26442)\n    at http://platform.twitter.com/widgets.js:8:26533",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: goforit is not defined\n    at onlo…at http://platform.twitter.com/widgets.js:8:26533"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "goforit is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

@@ -1,0 +1,175 @@
+[
+  {
+    "timestamp": 1582898487564.83,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 6,
+      "columnNumber": 65525,
+      "url": "https://platform.linkedin.com/in.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "22",
+            "url": "https://platform.linkedin.com/in.js",
+            "lineNumber": 6,
+            "columnNumber": 65525
+          },
+          {
+            "functionName": "",
+            "scriptId": "14",
+            "url": "http://www.columbiaheartbeat.com/index.php?jat3action=gzip&jat3type=js&jat3file=t3-assets%2Fjsf5970.js",
+            "lineNumber": 2,
+            "columnNumber": 13042
+          },
+          {
+            "functionName": "m",
+            "scriptId": "22",
+            "url": "https://platform.linkedin.com/in.js",
+            "lineNumber": 6,
+            "columnNumber": 65743
+          },
+          {
+            "functionName": "l",
+            "scriptId": "22",
+            "url": "https://platform.linkedin.com/in.js",
+            "lineNumber": 6,
+            "columnNumber": 63253
+          },
+          {
+            "functionName": "t.exports",
+            "scriptId": "22",
+            "url": "https://platform.linkedin.com/in.js",
+            "lineNumber": 6,
+            "columnNumber": 66224
+          },
+          {
+            "functionName": "",
+            "scriptId": "22",
+            "url": "https://platform.linkedin.com/in.js",
+            "lineNumber": 6,
+            "columnNumber": 38835
+          },
+          {
+            "functionName": "n",
+            "scriptId": "22",
+            "url": "https://platform.linkedin.com/in.js",
+            "lineNumber": 6,
+            "columnNumber": 5461
+          },
+          {
+            "functionName": "",
+            "scriptId": "22",
+            "url": "https://platform.linkedin.com/in.js",
+            "lineNumber": 6,
+            "columnNumber": 53693
+          },
+          {
+            "functionName": "n",
+            "scriptId": "22",
+            "url": "https://platform.linkedin.com/in.js",
+            "lineNumber": 6,
+            "columnNumber": 5461
+          },
+          {
+            "functionName": "",
+            "scriptId": "22",
+            "url": "https://platform.linkedin.com/in.js",
+            "lineNumber": 17,
+            "columnNumber": 104786
+          },
+          {
+            "functionName": "n",
+            "scriptId": "22",
+            "url": "https://platform.linkedin.com/in.js",
+            "lineNumber": 6,
+            "columnNumber": 5461
+          },
+          {
+            "functionName": "",
+            "scriptId": "22",
+            "url": "https://platform.linkedin.com/in.js",
+            "lineNumber": 6,
+            "columnNumber": 6261
+          },
+          {
+            "functionName": "",
+            "scriptId": "22",
+            "url": "https://platform.linkedin.com/in.js",
+            "lineNumber": 6,
+            "columnNumber": 6272
+          },
+          {
+            "functionName": "n",
+            "scriptId": "22",
+            "url": "https://platform.linkedin.com/in.js",
+            "lineNumber": 6,
+            "columnNumber": 109
+          },
+          {
+            "functionName": "",
+            "scriptId": "22",
+            "url": "https://platform.linkedin.com/in.js",
+            "lineNumber": 17,
+            "columnNumber": 112544
+          },
+          {
+            "functionName": "n",
+            "scriptId": "22",
+            "url": "https://platform.linkedin.com/in.js",
+            "lineNumber": 6,
+            "columnNumber": 109
+          },
+          {
+            "functionName": "",
+            "scriptId": "22",
+            "url": "https://platform.linkedin.com/in.js",
+            "lineNumber": 6,
+            "columnNumber": 902
+          },
+          {
+            "functionName": "",
+            "scriptId": "22",
+            "url": "https://platform.linkedin.com/in.js",
+            "lineNumber": 6,
+            "columnNumber": 912
+          },
+          {
+            "functionName": "",
+            "scriptId": "22",
+            "url": "https://platform.linkedin.com/in.js",
+            "lineNumber": 18,
+            "columnNumber": 1
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'css' of undefined\n    at https://platform.linkedin.com/in.js:7:65526\n    at http://www.columbiaheartbeat.com/index.php?jat3action=gzip&jat3type=js&jat3file=t3-assets%2Fjsf5970.js:3:13043\n    at m (https://platform.linkedin.com/in.js:7:65744)\n    at l (https://platform.linkedin.com/in.js:7:63254)\n    at t.exports (https://platform.linkedin.com/in.js:7:66225)\n    at Object.<anonymous> (https://platform.linkedin.com/in.js:7:38836)\n    at n (https://platform.linkedin.com/in.js:7:5462)\n    at Object.<anonymous> (https://platform.linkedin.com/in.js:7:53694)\n    at n (https://platform.linkedin.com/in.js:7:5462)\n    at Module.<anonymous> (https://platform.linkedin.com/in.js:18:104787)\n    at n (https://platform.linkedin.com/in.js:7:5462)\n    at https://platform.linkedin.com/in.js:7:6262\n    at Object.<anonymous> (https://platform.linkedin.com/in.js:7:6273)\n    at n (https://platform.linkedin.com/in.js:7:110)\n    at Module.<anonymous> (https://platform.linkedin.com/in.js:18:112545)\n    at n (https://platform.linkedin.com/in.js:7:110)\n    at https://platform.linkedin.com/in.js:7:903\n    at https://platform.linkedin.com/in.js:7:913\n    at https://platform.linkedin.com/in.js:19:2",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'css' of undefined\n    at https://platform.linkedin.com/in.js:7:65526\n    at http://www.columbiaheartbeat.com/index.php?jat3action=gzip&jat3type=js&jat3file=t3-assets%2Fjsf5970.js:3:13043\n    at m (https://platform.linkedin.com/in.js:7:65744)\n    at l (https://platform.linkedin.com/in.js:7:63254)\n    at t.exports (https://platform.linkedin.com/in.js:7:66225)\n    at Object.<anonymous> (https://platform.linkedin.com/in.js:7:38836)\n    at n (https://platform.linkedin.com/in.js:7:5462)\n    at Object.<anonymous> (https://platform.linkedin.com/in.js:7:53694)\n    at n (https://platform.linkedin.com/in.js:7:5462)\n    at Module.<anonymous> (https://platform.linkedin.com/in.js:18:104787)\n    at n (https://platform.linkedin.com/in.js:7:5462)\n    at https://platform.linkedin.com/in.js:7:6262\n    at Object.<anonymous> (https://platform.linkedin.com/in.js:7:6273)\n    at n (https://platform.linkedin.com/in.js:7:110)\n    at Module.<anonymous> (https://platform.linkedin.com/in.js:18:112545)\n    at n (https://platform.linkedin.com/in.js:7:110)\n    at https://platform.linkedin.com/in.js:7:903\n    at https://platform.linkedin.com/in.js:7:913\n    at https://platform.linkedin.com/in.js:19:2",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'css' of undefined…3\n    at https://platform.linkedin.com/in.js:19:2"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'css' of undefined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

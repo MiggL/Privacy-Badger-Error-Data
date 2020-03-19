@@ -1,0 +1,64 @@
+[
+  {
+    "timestamp": 1583749083388.935,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 0,
+      "columnNumber": 37726,
+      "scriptId": "43",
+      "url": "https://cdn.worldweatheronline.net/staticv150817/js/jquery-3.3.7.min.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "55",
+            "url": "https://cdn.worldweatheronline.net/staticv150817/js/core-wx-1.9.js",
+            "lineNumber": 692,
+            "columnNumber": 32
+          },
+          {
+            "functionName": "u",
+            "scriptId": "43",
+            "url": "https://cdn.worldweatheronline.net/staticv150817/js/jquery-3.3.7.min.js",
+            "lineNumber": 0,
+            "columnNumber": 35738
+          },
+          {
+            "functionName": "c",
+            "scriptId": "43",
+            "url": "https://cdn.worldweatheronline.net/staticv150817/js/jquery-3.3.7.min.js",
+            "lineNumber": 0,
+            "columnNumber": 36115
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: $(...).styler is not a function\n    at HTMLDocument.<anonymous> (https://cdn.worldweatheronline.net/staticv150817/js/core-wx-1.9.js:693:33)\n    at u (https://cdn.worldweatheronline.net/staticv150817/js/jquery-3.3.7.min.js:1:35739)\n    at c (https://cdn.worldweatheronline.net/staticv150817/js/jquery-3.3.7.min.js:1:36116)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: $(...).styler is not a function\n    at HTMLDocument.<anonymous> (https://cdn.worldweatheronline.net/staticv150817/js/core-wx-1.9.js:693:33)\n    at u (https://cdn.worldweatheronline.net/staticv150817/js/jquery-3.3.7.min.js:1:35739)\n    at c (https://cdn.worldweatheronline.net/staticv150817/js/jquery-3.3.7.min.js:1:36116)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: $(...).styler is not a function\n    at …net/staticv150817/js/jquery-3.3.7.min.js:1:36116)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "$(...).styler is not a function"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

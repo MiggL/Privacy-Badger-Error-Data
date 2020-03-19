@@ -1,0 +1,84 @@
+[
+  {
+    "timestamp": 1583750214611.071,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 4,
+      "columnNumber": 128991,
+      "url": "https://www.findlawimages.com/etc/designs/flcommon/flfe/javascript/lp.redesign.js",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "r",
+            "scriptId": "22",
+            "url": "https://www.findlawimages.com/etc/designs/flcommon/flfe/javascript/lp.redesign.js",
+            "lineNumber": 4,
+            "columnNumber": 128991
+          },
+          {
+            "functionName": "o",
+            "scriptId": "22",
+            "url": "https://www.findlawimages.com/etc/designs/flcommon/flfe/javascript/lp.redesign.js",
+            "lineNumber": 4,
+            "columnNumber": 130000
+          },
+          {
+            "functionName": "e",
+            "scriptId": "22",
+            "url": "https://www.findlawimages.com/etc/designs/flcommon/flfe/javascript/lp.redesign.js",
+            "lineNumber": 4,
+            "columnNumber": 142100
+          },
+          {
+            "functionName": "",
+            "scriptId": "22",
+            "url": "https://www.findlawimages.com/etc/designs/flcommon/flfe/javascript/lp.redesign.js",
+            "lineNumber": 4,
+            "columnNumber": 142136
+          },
+          {
+            "functionName": "a",
+            "scriptId": "22",
+            "url": "https://www.findlawimages.com/etc/designs/flcommon/flfe/javascript/lp.redesign.js",
+            "lineNumber": 4,
+            "columnNumber": 7786
+          },
+          {
+            "functionName": "",
+            "scriptId": "22",
+            "url": "https://www.findlawimages.com/etc/designs/flcommon/flfe/javascript/lp.redesign.js",
+            "lineNumber": 4,
+            "columnNumber": 11477
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: window.googletag.sizeMapping is not a function\n    at r (https://www.findlawimages.com/etc/designs/flcommon/flfe/javascript/lp.redesign.js:5:128992)\n    at o (https://www.findlawimages.com/etc/designs/flcommon/flfe/javascript/lp.redesign.js:5:130001)\n    at e (https://www.findlawimages.com/etc/designs/flcommon/flfe/javascript/lp.redesign.js:5:142101)\n    at Array.<anonymous> (https://www.findlawimages.com/etc/designs/flcommon/flfe/javascript/lp.redesign.js:5:142137)\n    at a (https://www.findlawimages.com/etc/designs/flcommon/flfe/javascript/lp.redesign.js:5:7787)\n    at HTMLScriptElement.<anonymous> (https://www.findlawimages.com/etc/designs/flcommon/flfe/javascript/lp.redesign.js:5:11478)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":2}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: window.googletag.sizeMapping is not a function\n    at r (https://www.findlawimages.com/etc/designs/flcommon/flfe/javascript/lp.redesign.js:5:128992)\n    at o (https://www.findlawimages.com/etc/designs/flcommon/flfe/javascript/lp.redesign.js:5:130001)\n    at e (https://www.findlawimages.com/etc/designs/flcommon/flfe/javascript/lp.redesign.js:5:142101)\n    at Array.<anonymous> (https://www.findlawimages.com/etc/designs/flcommon/flfe/javascript/lp.redesign.js:5:142137)\n    at a (https://www.findlawimages.com/etc/designs/flcommon/flfe/javascript/lp.redesign.js:5:7787)\n    at HTMLScriptElement.<anonymous> (https://www.findlawimages.com/etc/designs/flcommon/flfe/javascript/lp.redesign.js:5:11478)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: window.googletag.sizeMapping is not a f…/flcommon/flfe/javascript/lp.redesign.js:5:11478)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "window.googletag.sizeMapping is not a function"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

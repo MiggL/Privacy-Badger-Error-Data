@@ -1,0 +1,190 @@
+[
+  {
+    "timestamp": 1583757177843.087,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 2314,
+      "columnNumber": 15,
+      "url": "https://www.telegraph.co.uk/news/uknews/prince-george/10399013/Prince-George-christening-profiles-of-the-godparents.html",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "159",
+            "url": "https://www.telegraph.co.uk/news/uknews/prince-george/10399013/Prince-George-christening-profiles-of-the-godparents.html",
+            "lineNumber": 2314,
+            "columnNumber": 15
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: nol_t is not defined\n    at https://www.telegraph.co.uk/news/uknews/prince-george/10399013/Prince-George-christening-profiles-of-the-godparents.html:2315:16",
+        "objectId": "{\"injectedScriptId\":3,\"id\":2}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: nol_t is not defined\n    at https://www.telegraph.co.uk/news/uknews/prince-george/10399013/Prince-George-christening-profiles-of-the-godparents.html:2315:16",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: nol_t is not defined\n    at https:…ristening-profiles-of-the-godparents.html:2315:16"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "nol_t is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583757177850.893,
+    "exceptionDetails": {
+      "exceptionId": 2,
+      "text": "Uncaught",
+      "lineNumber": 150,
+      "columnNumber": 60,
+      "url": "https://www.telegraph.co.uk/news/uknews/prince-george/10399013/Prince-George-christening-profiles-of-the-godparents.html",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "document.onreadystatechange",
+            "scriptId": "36",
+            "url": "https://www.telegraph.co.uk/news/uknews/prince-george/10399013/Prince-George-christening-profiles-of-the-godparents.html",
+            "lineNumber": 150,
+            "columnNumber": 60
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot set property 'src' of null\n    at HTMLDocument.document.onreadystatechange (https://www.telegraph.co.uk/news/uknews/prince-george/10399013/Prince-George-christening-profiles-of-the-godparents.html:151:61)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":3}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot set property 'src' of null\n    at HTMLDocument.document.onreadystatechange (https://www.telegraph.co.uk/news/uknews/prince-george/10399013/Prince-George-christening-profiles-of-the-godparents.html:151:61)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot set property 'src' of null\n    a…ristening-profiles-of-the-godparents.html:151:61)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot set property 'src' of null"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583757179655.107,
+    "exceptionDetails": {
+      "exceptionId": 3,
+      "text": "Uncaught",
+      "lineNumber": 150,
+      "columnNumber": 60,
+      "url": "https://www.telegraph.co.uk/news/uknews/prince-george/10399013/Prince-George-christening-profiles-of-the-godparents.html",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "document.onreadystatechange",
+            "scriptId": "36",
+            "url": "https://www.telegraph.co.uk/news/uknews/prince-george/10399013/Prince-George-christening-profiles-of-the-godparents.html",
+            "lineNumber": 150,
+            "columnNumber": 60
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot set property 'src' of null at HTMLDocument.document.onreadystatechange (https://www.telegraph.co.uk/news/uknews/prince-george/10399013/Prince-George-christening-profiles-of-the-godparents.html:151:61)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":4}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot set property 'src' of null at HTMLDocument.document.onreadystatechange (https://www.telegraph.co.uk/news/uknews/prince-george/10399013/Prince-George-christening-profiles-of-the-godparents.html:151:61)",
+          "overflow": true,
+          "properties": [
+            {
+              "name": "reported",
+              "type": "boolean",
+              "value": "true"
+            },
+            {
+              "name": "timestamp",
+              "type": "number",
+              "value": "1583757179654"
+            },
+            {
+              "name": "lineNumber",
+              "type": "string",
+              "value": "151"
+            },
+            {
+              "name": "columnNumber",
+              "type": "string",
+              "value": "61"
+            },
+            {
+              "name": "functionName",
+              "type": "string",
+              "value": "HTMLDocument.document.onreadystatechange"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583757179705.477,
+    "exceptionDetails": {
+      "exceptionId": 4,
+      "text": "Uncaught (in promise)",
+      "lineNumber": 2,
+      "columnNumber": 38130,
+      "url": "https://player.ooyala.com/v3/7dfd98005dba40baacc82277f292e522?platform=html5-fallback",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "n",
+            "scriptId": "166",
+            "url": "https://player.ooyala.com/v3/7dfd98005dba40baacc82277f292e522?platform=html5-fallback",
+            "lineNumber": 2,
+            "columnNumber": 38130
+          },
+          {
+            "functionName": "l",
+            "scriptId": "166",
+            "url": "https://player.ooyala.com/v3/7dfd98005dba40baacc82277f292e522?platform=html5-fallback",
+            "lineNumber": 2,
+            "columnNumber": 38341
+          }
+        ]
+      },
+      "exception": {
+        "type": "undefined"
+      },
+      "executionContextId": 11
+    }
+  }
+]

@@ -1,0 +1,126 @@
+[
+  {
+    "timestamp": 1583008778888.119,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 149,
+      "columnNumber": 60,
+      "url": "https://www.telegraph.co.uk/comment/columnists/charlesmoore/6240296/Richard-Mabey-a-writer-dropping-down-to-see-the-natural-world.html",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "document.onreadystatechange",
+            "scriptId": "19",
+            "url": "https://www.telegraph.co.uk/comment/columnists/charlesmoore/6240296/Richard-Mabey-a-writer-dropping-down-to-see-the-natural-world.html",
+            "lineNumber": 149,
+            "columnNumber": 60
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot set property 'src' of null at HTMLDocument.document.onreadystatechange (https://www.telegraph.co.uk/comment/columnists/charlesmoore/6240296/Richard-Mabey-a-writer-dropping-down-to-see-the-natural-world.html:150:61)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot set property 'src' of null at HTMLDocument.document.onreadystatechange (https://www.telegraph.co.uk/comment/columnists/charlesmoore/6240296/Richard-Mabey-a-writer-dropping-down-to-see-the-natural-world.html:150:61)",
+          "overflow": true,
+          "properties": [
+            {
+              "name": "reported",
+              "type": "boolean",
+              "value": "true"
+            },
+            {
+              "name": "timestamp",
+              "type": "number",
+              "value": "1583008778887"
+            },
+            {
+              "name": "lineNumber",
+              "type": "string",
+              "value": "150"
+            },
+            {
+              "name": "columnNumber",
+              "type": "string",
+              "value": "61"
+            },
+            {
+              "name": "functionName",
+              "type": "string",
+              "value": "HTMLDocument.document.onreadystatechange"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583008780440.5562,
+    "exceptionDetails": {
+      "exceptionId": 2,
+      "text": "Uncaught",
+      "lineNumber": 149,
+      "columnNumber": 60,
+      "url": "https://www.telegraph.co.uk/comment/columnists/charlesmoore/6240296/Richard-Mabey-a-writer-dropping-down-to-see-the-natural-world.html",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "document.onreadystatechange",
+            "scriptId": "19",
+            "url": "https://www.telegraph.co.uk/comment/columnists/charlesmoore/6240296/Richard-Mabey-a-writer-dropping-down-to-see-the-natural-world.html",
+            "lineNumber": 149,
+            "columnNumber": 60
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot set property 'src' of null at HTMLDocument.document.onreadystatechange (https://www.telegraph.co.uk/comment/columnists/charlesmoore/6240296/Richard-Mabey-a-writer-dropping-down-to-see-the-natural-world.html:150:61)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":2}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot set property 'src' of null at HTMLDocument.document.onreadystatechange (https://www.telegraph.co.uk/comment/columnists/charlesmoore/6240296/Richard-Mabey-a-writer-dropping-down-to-see-the-natural-world.html:150:61)",
+          "overflow": true,
+          "properties": [
+            {
+              "name": "reported",
+              "type": "boolean",
+              "value": "true"
+            },
+            {
+              "name": "timestamp",
+              "type": "number",
+              "value": "1583008780440"
+            },
+            {
+              "name": "lineNumber",
+              "type": "string",
+              "value": "150"
+            },
+            {
+              "name": "columnNumber",
+              "type": "string",
+              "value": "61"
+            },
+            {
+              "name": "functionName",
+              "type": "string",
+              "value": "HTMLDocument.document.onreadystatechange"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

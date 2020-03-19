@@ -1,0 +1,49 @@
+[
+  {
+    "timestamp": 1583758704647.0698,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 822,
+      "columnNumber": 15,
+      "url": "http://www.thegardenhelper.com/vegtips.html",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "28",
+            "url": "http://www.thegardenhelper.com/vegtips.html",
+            "lineNumber": 822,
+            "columnNumber": 15
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: Spry is not defined\n    at http://www.thegardenhelper.com/vegtips.html:823:16",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: Spry is not defined\n    at http://www.thegardenhelper.com/vegtips.html:823:16",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: Spry is not defined\n    at http://www.thegardenhelper.com/vegtips.html:823:16"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Spry is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

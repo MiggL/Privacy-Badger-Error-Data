@@ -1,0 +1,49 @@
+[
+  {
+    "timestamp": 1583425292403.938,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 183,
+      "columnNumber": 14,
+      "url": "https://wss.support.xerox.com/GTConnect/UnifiedAcceptor/AddWebFramework.Main/site/XeroxProductSupport/product/product_7041/lang/en-US/region/region_FR/source/DND/Xlang/fr_FR/Xcntry/FRA/prodID/7041/KBlang/en/",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "198",
+            "url": "https://wss.support.xerox.com/GTConnect/UnifiedAcceptor/AddWebFramework.Main/site/XeroxProductSupport/product/product_7041/lang/en-US/region/region_FR/source/DND/Xlang/fr_FR/Xcntry/FRA/prodID/7041/KBlang/en/",
+            "lineNumber": 183,
+            "columnNumber": 14
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "TypeError",
+        "description": "TypeError: Cannot read property 'appendChild' of null\n    at https://wss.support.xerox.com/GTConnect/UnifiedAcceptor/AddWebFramework.Main/site/XeroxProductSupport/product/product_7041/lang/en-US/region/region_FR/source/DND/Xlang/fr_FR/Xcntry/FRA/prodID/7041/KBlang/en/:184:15",
+        "objectId": "{\"injectedScriptId\":8,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "TypeError: Cannot read property 'appendChild' of null\n    at https://wss.support.xerox.com/GTConnect/UnifiedAcceptor/AddWebFramework.Main/site/XeroxProductSupport/product/product_7041/lang/en-US/region/region_FR/source/DND/Xlang/fr_FR/Xcntry/FRA/prodID/7041/KBlang/en/:184:15",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "TypeError: Cannot read property 'appendChild' of n…ng/fr_FR/Xcntry/FRA/prodID/7041/KBlang/en/:184:15"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "Cannot read property 'appendChild' of null"
+            }
+          ]
+        }
+      },
+      "executionContextId": 8
+    }
+  }
+]

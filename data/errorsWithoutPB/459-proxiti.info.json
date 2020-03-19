@@ -1,0 +1,49 @@
+[
+  {
+    "timestamp": 1583009185478.906,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 76,
+      "columnNumber": 75,
+      "url": "http://www.proxiti.info/horaires_soleil.php?o=83094&n=PLAN-DE-LA-TOUR",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "onload",
+            "scriptId": "303",
+            "url": "http://www.proxiti.info/horaires_soleil.php?o=83094&n=PLAN-DE-LA-TOUR",
+            "lineNumber": 76,
+            "columnNumber": 75
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: initialize is not defined\n    at onload (http://www.proxiti.info/horaires_soleil.php?o=83094&n=PLAN-DE-LA-TOUR:77:76)",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: initialize is not defined\n    at onload (http://www.proxiti.info/horaires_soleil.php?o=83094&n=PLAN-DE-LA-TOUR:77:76)",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: initialize is not defined\n    at o…aires_soleil.php?o=83094&n=PLAN-DE-LA-TOUR:77:76)"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "initialize is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]

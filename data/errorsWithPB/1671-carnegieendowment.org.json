@@ -1,0 +1,96 @@
+[
+  {
+    "timestamp": 1583416947193.961,
+    "exceptionDetails": {
+      "exceptionId": 1,
+      "text": "Uncaught",
+      "lineNumber": 23,
+      "columnNumber": 0,
+      "url": "https://carnegieendowment.org/2017/03/30/insecurity-and-governance-challenges-in-southern-libya-pub-68451",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "23",
+            "url": "https://carnegieendowment.org/2017/03/30/insecurity-and-governance-challenges-in-southern-libya-pub-68451",
+            "lineNumber": 23,
+            "columnNumber": 0
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: gtag is not defined\n    at https://carnegieendowment.org/2017/03/30/insecurity-and-governance-challenges-in-southern-libya-pub-68451:24:1",
+        "objectId": "{\"injectedScriptId\":3,\"id\":1}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: gtag is not defined\n    at https://carnegieendowment.org/2017/03/30/insecurity-and-governance-challenges-in-southern-libya-pub-68451:24:1",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: gtag is not defined\n    at https:/…nance-challenges-in-southern-libya-pub-68451:24:1"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "gtag is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  },
+  {
+    "timestamp": 1583416947507.852,
+    "exceptionDetails": {
+      "exceptionId": 2,
+      "text": "Uncaught",
+      "lineNumber": 395,
+      "columnNumber": 8748,
+      "url": "https://carnegieendowment.org/2017/03/30/insecurity-and-governance-challenges-in-southern-libya-pub-68451",
+      "stackTrace": {
+        "callFrames": [
+          {
+            "functionName": "",
+            "scriptId": "33",
+            "url": "https://carnegieendowment.org/2017/03/30/insecurity-and-governance-challenges-in-southern-libya-pub-68451",
+            "lineNumber": 395,
+            "columnNumber": 8748
+          }
+        ]
+      },
+      "exception": {
+        "type": "object",
+        "subtype": "error",
+        "className": "ReferenceError",
+        "description": "ReferenceError: addthis is not defined\n    at https://carnegieendowment.org/2017/03/30/insecurity-and-governance-challenges-in-southern-libya-pub-68451:396:8749",
+        "objectId": "{\"injectedScriptId\":3,\"id\":2}",
+        "preview": {
+          "type": "object",
+          "subtype": "error",
+          "description": "ReferenceError: addthis is not defined\n    at https://carnegieendowment.org/2017/03/30/insecurity-and-governance-challenges-in-southern-libya-pub-68451:396:8749",
+          "overflow": false,
+          "properties": [
+            {
+              "name": "stack",
+              "type": "string",
+              "value": "ReferenceError: addthis is not defined\n    at http…e-challenges-in-southern-libya-pub-68451:396:8749"
+            },
+            {
+              "name": "message",
+              "type": "string",
+              "value": "addthis is not defined"
+            }
+          ]
+        }
+      },
+      "executionContextId": 3
+    }
+  }
+]
