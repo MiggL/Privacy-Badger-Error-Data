@@ -1,12 +1,10 @@
 const fs = require('fs');
 
-const PATH_TO_DATA = '../data/';
+const DEADCLICK_URLS = JSON.parse(fs.readFileSync('../data/urls.json', 'utf8'));
+const ERRORS_PATH_1 = '../data/errorsWithoutPB';
+const ERRORS_PATH_2 = '../data/errorsWithPB';
 
-const DEADCLICK_URLS = JSON.parse(fs.readFileSync(PATH_TO_DATA + 'urls.json', 'utf8'));
-const ERRORS_PATH_1 = PATH_TO_DATA + 'errorsWithoutPB';
-const ERRORS_PATH_2 = PATH_TO_DATA + 'errorsWithPB';
-
-const OUTPUT_FILE_PATH = PATH_TO_DATA + 'errorMessageStatistics.json';
+const OUTPUT_FILE_PATH = '../data/errorMessageStatistics.json';
 
 function compareErrors(urls, folder1, folder2) {
   const errorStatisticsMap = new Map();
