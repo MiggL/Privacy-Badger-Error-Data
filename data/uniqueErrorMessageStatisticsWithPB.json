@@ -1,0 +1,308 @@
+[
+  {
+    "className": "ReferenceError",
+    "errorMessages": [
+      {
+        "message": "XXX is not defined",
+        "amount": 115
+      }
+    ]
+  },
+  {
+    "className": "TypeError",
+    "errorMessages": [
+      {
+        "message": "Cannot read property XXX of undefined",
+        "amount": 441
+      },
+      {
+        "message": "Cannot create property XXX",
+        "amount": 15
+      },
+      {
+        "message": "Cannot read property XXX of null",
+        "amount": 29
+      },
+      {
+        "message": "Failed to fetch",
+        "amount": 29
+      },
+      {
+        "message": "XXX is not a function",
+        "amount": 81
+      },
+      {
+        "message": "Cannot set property XXX of null",
+        "amount": 1
+      },
+      {
+        "message": "Cannot set property XXX of undefined",
+        "amount": 1
+      }
+    ]
+  },
+  {
+    "className": "Event",
+    "errorMessages": []
+  },
+  {
+    "className": "Error",
+    "errorMessages": [
+      {
+        "message": "Script error for \"https://tag.audience.acpm.fr/js/…http://requirejs.org/docs/errors.html#scripterror",
+        "amount": 4
+      },
+      {
+        "message": "CrossPageChannel: Can't connect, peer window-object not set.",
+        "amount": 7
+      },
+      {
+        "message": "No element",
+        "amount": 5
+      },
+      {
+        "message": "Cannot instantiate firebase-firestore - be sure to load firebase-app.js first.",
+        "amount": 7
+      },
+      {
+        "message": "Script error for \"https://securepubads.g.doublecli…http://requirejs.org/docs/errors.html#scripterror",
+        "amount": 3
+      },
+      {
+        "message": "CE: multiple userscripts installed",
+        "amount": 1
+      },
+      {
+        "message": "Syntax error, unrecognized expression: unsupported pseudo: hover",
+        "amount": 86
+      },
+      {
+        "message": "Failed to load https://a.pub.network/barstoolsports-com/pubfig.min.js",
+        "amount": 4
+      },
+      {
+        "message": "Document path must be a non-empty string",
+        "amount": 2
+      },
+      {
+        "message": "No element option passed to Waypoint constructor",
+        "amount": 1
+      },
+      {
+        "message": "Network Error",
+        "amount": 13
+      },
+      {
+        "message": "securepubads.g.doubleclick.net/tag/js/gpt.js failed to load.",
+        "amount": 1
+      },
+      {
+        "message": "c.amazon-adsystem.com/aax2/apstag.js failed to load.",
+        "amount": 1
+      },
+      {
+        "message": "mdp.apiConfig.apiKey required.",
+        "amount": 1
+      },
+      {
+        "message": "Script error for: track\nhttp://requirejs.org/docs/errors.html#scripterror",
+        "amount": 2
+      },
+      {
+        "message": "Script error for: trackInfo\nhttp://requirejs.org/docs/errors.html#scripterror",
+        "amount": 2
+      },
+      {
+        "message": "Script error for: idcta/statusbar\nhttp://requirejs.org/docs/errors.html#scripterror",
+        "amount": 1
+      },
+      {
+        "message": "Script error for \"https://js.adsrvr.org/up_loader.…ttps://requirejs.org/docs/errors.html#scripterror",
+        "amount": 2
+      },
+      {
+        "message": "No element with id=\"instafeed\" on page.",
+        "amount": 1
+      },
+      {
+        "message": "Error from Instagram: The access_token provided does not match an approved application.",
+        "amount": 1
+      },
+      {
+        "message": "missing container element for ad ad-1a28f24f86ea4cf492bb7f6361a1a96a",
+        "amount": 1
+      },
+      {
+        "message": "reCAPTCHA has already been rendered in this element",
+        "amount": 1
+      },
+      {
+        "message": "Could not load script from https://securepubads.g.doubleclick.net/tag/js/gpt.js",
+        "amount": 3
+      },
+      {
+        "message": "Loading chunk 72 failed.\n(error: https://load.sumo.com/72.83c0fd282d7068bf2eed.js)",
+        "amount": 1
+      },
+      {
+        "message": "remote script failed https://s.tribalfusion.com/displayAd.js?dver=0.8&th=8671086975",
+        "amount": 1
+      },
+      {
+        "message": "Script error. - : 0",
+        "amount": 1
+      },
+      {
+        "message": "ECHO_DEBUG: Label must have number, boolean or string value",
+        "amount": 1
+      }
+    ]
+  },
+  {
+    "className": "SyntaxError",
+    "errorMessages": [
+      {
+        "message": "Unexpected token XXX",
+        "amount": 2
+      },
+      {
+        "message": "missing ) after argument list",
+        "amount": 1
+      },
+      {
+        "message": "Unexpected end of JSON input",
+        "amount": 19
+      },
+      {
+        "message": "Unexpected end of input",
+        "amount": 1
+      }
+    ]
+  },
+  {
+    "className": "Object",
+    "errorMessages": [
+      {
+        "message": "Firebase: Firebase App named XXX already exists (app/duplicate-app).",
+        "amount": 8
+      },
+      {
+        "message": "ajax error. Trying to GET https://pubads.g.doublec…id=2516841&ppid=26b44a31be93464b9922bb3905ab3ae9.",
+        "amount": 2
+      },
+      {
+        "message": "remote script failed https://s.skimresources.com/js/35871X943606.skimlinks.js",
+        "amount": 5
+      },
+      {
+        "message": "ajax error. Trying to GET https://pubads.g.doublec…cmsid=1495&ppid=dcef9134d21641cbb1fd444c09aeed36.",
+        "amount": 1
+      },
+      {
+        "message": "ajax error. Trying to GET https://pubads.g.doublec…cmsid=1495&ppid=befe981b083d4fd9a033d93e811ddbdd.",
+        "amount": 1
+      },
+      {
+        "message": "ajax error. Trying to GET https://pubads.g.doublec…cmsid=1495&ppid=9b2e2f395070454d98d98eb5b7e11c18.",
+        "amount": 1
+      },
+      {
+        "message": "remote script failed https://cdn.taboola.com/libtrc/pcgamesn/tfa.js",
+        "amount": 1
+      },
+      {
+        "message": "ajax error. Trying to GET https://pubads.g.doublec…cmsid=1495&ppid=ec11d334e09544d796bf8bd8ca45f58d.",
+        "amount": 1
+      },
+      {
+        "message": "remote script failed https://z-na.amazon-adsystem.…adInstanceId=257f03cd-808c-4a3c-a12c-8dbf2728cb68",
+        "amount": 1
+      },
+      {
+        "message": "remote script failed https://z.moatads.com/fjprebidheader819878417714/yi.js",
+        "amount": 1
+      },
+      {
+        "message": "ajax error. Trying to GET https://pubads.g.doublec…cmsid=1495&ppid=d88917a6c10340d498ccb651859196a5.",
+        "amount": 1
+      },
+      {
+        "message": "ajax error. Trying to GET https://pubads.g.doublec…cmsid=1495&ppid=a91da1d03a08498dbfc9e8fbe47f795d.",
+        "amount": 1
+      },
+      {
+        "message": "remote script failed https://protect-us.mimecast.c…7gDCjRVXksnPxOoiRT5sl?domain=googletagmanager.com",
+        "amount": 1
+      },
+      {
+        "message": "ajax error. Trying to GET https://pubads.g.doublec…cmsid=1495&ppid=21f9846824c8475a88d93f51aa1d902b.",
+        "amount": 1
+      },
+      {
+        "message": "ajax error. Trying to GET https://pubads.g.doublec…cmsid=1495&ppid=ef1499486f594a138ce646c00a3473cc.",
+        "amount": 1
+      },
+      {
+        "message": "remote script failed https://bs.serving-sys.com/Se…bs?cn=as&ActivityID=1431006&rnd=733574.3839204818",
+        "amount": 1
+      }
+    ]
+  },
+  {
+    "className": "RangeError",
+    "errorMessages": [
+      {
+        "message": "Maximum call stack size exceeded",
+        "amount": 3
+      }
+    ]
+  },
+  {
+    "className": "DOMException",
+    "errorMessages": [
+      {
+        "message": "play() failed because the user didn't interact with the document first. https://goo.gl/xX8pDD",
+        "amount": 3
+      },
+      {
+        "message": "XXX is not a child of this node.",
+        "amount": 1
+      },
+      {
+        "message": "The element has no supported sources.",
+        "amount": 2
+      }
+    ]
+  },
+  {
+    "className": "r",
+    "errorMessages": [
+      {
+        "message": "No end point registered: [\"is page visible?\"]",
+        "amount": 6
+      },
+      {
+        "message": "No end point registered: [\"get prebid tags\"]",
+        "amount": 1
+      }
+    ]
+  },
+  {
+    "className": "b",
+    "errorMessages": [
+      {
+        "message": "invalid version specified",
+        "amount": 4
+      }
+    ]
+  },
+  {
+    "className": "N",
+    "errorMessages": [
+      {
+        "message": "adsbygoogle.push() error: No slot size for availableWidth=0",
+        "amount": 2
+      }
+    ]
+  }
+]
